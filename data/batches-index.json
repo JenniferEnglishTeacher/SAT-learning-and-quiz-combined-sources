@@ -1,0 +1,2371 @@
+{
+  "summary": {
+    "total_words": 6805,
+    "total_batches": 236,
+    "part1_part2_batches": 159,
+    "unclassified_batches": 77,
+    "generated_batches": 2
+  },
+  "batches": [
+    {
+      "id": "p1-01-ab-abs",
+      "part": "part1",
+      "part_label": "Part 1 字首篇 (Prefixes)",
+      "name": "ab；abs",
+      "subtitle": "離開；相反；不",
+      "count": 42,
+      "generated": true,
+      "search_terms": "abound abrogate abortive abstemious abhorrent absurd aversion abjure abbreviate abdicate abduct aberrant aberration abhor abject abjection abjuration ablution abnegate abnegation abolish abominable abomination abort abounding abrade abrasive abridgement abrupt abscond absolution absolve abstain abstemiousness abstinence abstract abstruse abuse avert avocation self-abnegate self-abnegation"
+    },
+    {
+      "id": "p1-02-ad-1",
+      "part": "part1",
+      "part_label": "Part 1 字首篇 (Prefixes)",
+      "name": "ad (1/4)",
+      "subtitle": "朝向",
+      "count": 50,
+      "generated": true,
+      "search_terms": "abase accede accelerate accentuate access accessible accident acclaim acclamation accolade accommodate accommodating accommodations accomplice accomplished accord accordingly accost accretion acknowledge acquiesce acquiescence acquiescent acquired acquisitive acquisitiveness acquit adapt adduce adept adequate adhere adherent adjure adjust admirable admire admonish admonishment admonition adolescent adoration adorn adulator adulatory adumbrate advent adventitious adversary adverse"
+    },
+    {
+      "id": "p1-02-ad-2",
+      "part": "part1",
+      "part_label": "Part 1 字首篇 (Prefixes)",
+      "name": "ad (2/4)",
+      "subtitle": "朝向",
+      "count": 50,
+      "generated": false,
+      "search_terms": "adversity advertise advise advocate affability affable affect affinity affirm afflated afflation afflatus afflict affliction affluence affluent affront aggrandize aggrandizement aggravate aggregate aggressive aggrieve aggrieved agnate allegation allege alleviate alliteration alliterative allocate allude allusion ameliorate amelioration ameliorative amenable amendable amends annex annotate annotation announce annul appalled appalling appease appellation appendix applaud"
+    },
+    {
+      "id": "p1-02-ad-3",
+      "part": "part1",
+      "part_label": "Part 1 字首篇 (Prefixes)",
+      "name": "ad (3/4)",
+      "subtitle": "朝向",
+      "count": 50,
+      "generated": false,
+      "search_terms": "applause applicable appointee apposite appraise apprehend apprehension apprehensive approbation appropriate approve approximate arbiter array arrogance arrogant arrogate ascend ascertain ascribe aspersion aspirant aspire assail assailant assault assemble assent assert assess asset asseverate assiduous assimilate assonance assuage assume assumption astringent attain attention attenuated attest attribute avenge avenue aver avow avowal inadvertent"
+    },
+    {
+      "id": "p1-02-ad-4",
+      "part": "part1",
+      "part_label": "Part 1 字首篇 (Prefixes)",
+      "name": "ad (4/4)",
+      "subtitle": "朝向",
+      "count": 3,
+      "generated": false,
+      "search_terms": "inadvertently maladjusted unabated"
+    },
+    {
+      "id": "p1-03-anti",
+      "part": "part1",
+      "part_label": "Part 1 字首篇 (Prefixes)",
+      "name": "anti",
+      "subtitle": "反對",
+      "count": 9,
+      "generated": false,
+      "search_terms": "antithesis antipathy antagonism antidote antagonistic antagonize anticlimax antipyretic antiseptic"
+    },
+    {
+      "id": "p1-04-arch",
+      "part": "part1",
+      "part_label": "Part 1 字首篇 (Prefixes)",
+      "name": "arch",
+      "subtitle": "主要的；弧形",
+      "count": 1,
+      "generated": false,
+      "search_terms": "（此批單字中，暫無符合此字根/字首的單字）"
+    },
+    {
+      "id": "p1-05-auto",
+      "part": "part1",
+      "part_label": "Part 1 字首篇 (Prefixes)",
+      "name": "auto",
+      "subtitle": "自己；自動",
+      "count": 2,
+      "generated": false,
+      "search_terms": "automaton autonomous"
+    },
+    {
+      "id": "p1-06-bene",
+      "part": "part1",
+      "part_label": "Part 1 字首篇 (Prefixes)",
+      "name": "bene",
+      "subtitle": "好",
+      "count": 7,
+      "generated": false,
+      "search_terms": "benediction benefactor beneficence beneficent beneficial benevolence benign"
+    },
+    {
+      "id": "p1-07-bi",
+      "part": "part1",
+      "part_label": "Part 1 字首篇 (Prefixes)",
+      "name": "bi",
+      "subtitle": "二",
+      "count": 2,
+      "generated": false,
+      "search_terms": "bigamy binoculars"
+    },
+    {
+      "id": "p1-08-by",
+      "part": "part1",
+      "part_label": "Part 1 字首篇 (Prefixes)",
+      "name": "by",
+      "subtitle": "旁邊",
+      "count": 1,
+      "generated": false,
+      "search_terms": "（此批單字中，暫無符合此字根/字首的單字）"
+    },
+    {
+      "id": "p1-09-circum",
+      "part": "part1",
+      "part_label": "Part 1 字首篇 (Prefixes)",
+      "name": "circum",
+      "subtitle": "周圍；環繞",
+      "count": 9,
+      "generated": false,
+      "search_terms": "circumlocution circumspect circumcision circumflex circumlocutory circumnavigate circumscribe circumstance circumvent"
+    },
+    {
+      "id": "p1-10-co-com-1",
+      "part": "part1",
+      "part_label": "Part 1 字首篇 (Prefixes)",
+      "name": "co；com (1/5)",
+      "subtitle": "共同；一起",
+      "count": 50,
+      "generated": false,
+      "search_terms": "coagulate coalesce coalescence coalescent coalition coerce cogent cognate cognizant coherent coincidence coincident collaboration collateral collect collection collide collision colloquial collude collusion commencing commend commendation commensurate commentary commercialization commercialize commingle comminute commiserate committed commodious companionable compassion compassionate compatibility compatible compelling compendious compendium compensation compensatory competent complacency complacent complement complementary complexity compliant"
+    },
+    {
+      "id": "p1-10-co-com-2",
+      "part": "part1",
+      "part_label": "Part 1 字首篇 (Prefixes)",
+      "name": "co；com (2/5)",
+      "subtitle": "共同；一起",
+      "count": 50,
+      "generated": false,
+      "search_terms": "complicate complicit complicity compliment component comport comportment compose composed composure compound comprehensible comprehensive compress comprise compromise compromising compunction concave conceal concealed concede conceit conceptualize concerning conciliate conciliatory concise conciseness concoct concomitant concord concubine concupiscent concur condemn condemnation condensation condense condescend condescending condition condole condolence condone conducive conductive conduit confection confederacy"
+    },
+    {
+      "id": "p1-10-co-com-3",
+      "part": "part1",
+      "part_label": "Part 1 字首篇 (Prefixes)",
+      "name": "co；com (3/5)",
+      "subtitle": "共同；一起",
+      "count": 50,
+      "generated": false,
+      "search_terms": "confidant confident configure confirmed conflagrant conflagration conflate conflated conflation confluence conform conformist confound confounding confront confuse congeal congenial congenital conglomeration congregate congregation congruent congruity congruous conjecture conjugal connive connoisseur connotation connote connubial conquer consanguinity conscience conscientious conscionable consecrate consecration consensus consent consequently consideration consign consistent consolation console consonance consonant conspectus"
+    },
+    {
+      "id": "p1-10-co-com-4",
+      "part": "part1",
+      "part_label": "Part 1 字首篇 (Prefixes)",
+      "name": "co；com (4/5)",
+      "subtitle": "共同；一起",
+      "count": 50,
+      "generated": false,
+      "search_terms": "conspicuous conspiracy constant consternation constipate constituent constrain constrict construct construction construe consume consummate consumption contemn contemner contemplate contemplative contemporaneous contemporary contempt contemptible contemptuous contemptuously contemptuousness contend contention contentious contingent continual continue continuous contort contrite contrition contrivance contrive contrived contumacious contumelious contusion convalesce convene convention conventional conversant conversation converse convert convex"
+    },
+    {
+      "id": "p1-10-co-com-5",
+      "part": "part1",
+      "part_label": "Part 1 字首篇 (Prefixes)",
+      "name": "co；com (5/5)",
+      "subtitle": "共同；一起",
+      "count": 25,
+      "generated": false,
+      "search_terms": "convey convince convivial convocation convoke convoluted convolution convolve convulsive cooperate correct correction correlates correspondence corrigible corroborate corrosive corruption countenance discomfit incoherent inconclusive inconsequential inconspicuous unconscionable"
+    },
+    {
+      "id": "p1-11-contra-contro-counter",
+      "part": "part1",
+      "part_label": "Part 1 字首篇 (Prefixes)",
+      "name": "contra；contro；counter",
+      "subtitle": "反對；對抗",
+      "count": 9,
+      "generated": false,
+      "search_terms": "incontrovertible controversial contradict contrarianism contravene controversy controvert counteract counterintuitive"
+    },
+    {
+      "id": "p1-12-de-1",
+      "part": "part1",
+      "part_label": "Part 1 字首篇 (Prefixes)",
+      "name": "de (1/3)",
+      "subtitle": "去除；下降",
+      "count": 50,
+      "generated": false,
+      "search_terms": "condescending debacle debase debased debauched debauchee debauchery debilitate debouch debride debridement debris debunk decadence decadent decapitate deceptive deciding deciduous decisive declaim declare decline decrease decree decrepit decry deface defalcate defamation defamatory defame defatigable defeat defection defenestrate defenestration defer deference deferential defiant deficiency deficient definite definitive deflate defraud defunct defuse degeneracy"
+    },
+    {
+      "id": "p1-12-de-2",
+      "part": "part1",
+      "part_label": "Part 1 字首篇 (Prefixes)",
+      "name": "de (2/3)",
+      "subtitle": "去除；下降",
+      "count": 50,
+      "generated": false,
+      "search_terms": "degenerate degrade dejected delay delectable delegate delete deliberate deliberation delineate delineation delinquent deliquesce delirious delude delusion demarcate demarcation demeanor demonstrable demonstrate demur denigrate denigrated denigration denotation denote denounce denouncement denudation denude denunciatory depict deplete depleted deplorable deplore deport deportment deprave depraved depravity deprecate deprecatory depreciate depreciatory deprivation deprive deracinate deranged"
+    },
+    {
+      "id": "p1-12-de-3",
+      "part": "part1",
+      "part_label": "Part 1 字首篇 (Prefixes)",
+      "name": "de (3/3)",
+      "subtitle": "去除；下降",
+      "count": 44,
+      "generated": false,
+      "search_terms": "derelict deride derision derisive derivative derived derogatory descend desecrate desiccated designation desist desolate despicable despise despoil despondent destiny destitute destitution desuetude desultory detached detail deter determine detestable detriment detrimental deviancy deviate devious devise devitalize devote devotee devotion digress diminish diminutive indecipherable predetermine predetermined redefine"
+    },
+    {
+      "id": "p1-13-dia",
+      "part": "part1",
+      "part_label": "Part 1 字首篇 (Prefixes)",
+      "name": "dia",
+      "subtitle": "穿越；居中",
+      "count": 6,
+      "generated": false,
+      "search_terms": "diatribe diagnose diagnosis dialect dialogue diaphanous"
+    },
+    {
+      "id": "p1-14-dis-1",
+      "part": "part1",
+      "part_label": "Part 1 字首篇 (Prefixes)",
+      "name": "dis (1/3)",
+      "subtitle": "相反的",
+      "count": 50,
+      "generated": false,
+      "search_terms": "deluge deploy descant difficult diffidence diffident diffuse digression digressive dilapidated dilatory direct directed disabuse disaffect disaffected disagree disagreeable disagreement disallow disapprobation disaster disastrous disavow disavowal discalced discern discernible discerning discernment disclose discomfit discompose discomposure disconcert disconcerted disconcerting disconsolate discord discordant discourage discourse discredit discreet discrepancy discrete discretion discursive disdain disdainful"
+    },
+    {
+      "id": "p1-14-dis-2",
+      "part": "part1",
+      "part_label": "Part 1 字首篇 (Prefixes)",
+      "name": "dis (2/3)",
+      "subtitle": "相反的",
+      "count": 50,
+      "generated": false,
+      "search_terms": "disencumber disenthrall disgruntled disguise disgusting dishabille disharmony disheveled dishonesty dishonorable disingenuous disingenuousness disinterested dismantle dismiss dismissive disordered disown disparage disparagement disparaging disparate disparity dispassionate dispel dispensation disperse dispersed dispirited displeasure dispose dispossess disputatious dispute disquiet disquisition disreputable disrepute disrespect disrespectful dissemble disseminate dissent dissertation dissident dissimulate dissimulation dissipate dissipated dissolute"
+    },
+    {
+      "id": "p1-14-dis-3",
+      "part": "part1",
+      "part_label": "Part 1 字首篇 (Prefixes)",
+      "name": "dis (3/3)",
+      "subtitle": "相反的",
+      "count": 19,
+      "generated": false,
+      "search_terms": "dissonance dissonant dissuade distain distend distinct distinguishable distract distressed disturb divagate divagation diverge divergent diverse diversity divulge indisputable indistinct"
+    },
+    {
+      "id": "p1-15-en-em",
+      "part": "part1",
+      "part_label": "Part 1 字首篇 (Prefixes)",
+      "name": "en；em",
+      "subtitle": "使進入",
+      "count": 49,
+      "generated": false,
+      "search_terms": "embellish entreaty encumbrance encomium embellishment embrace embroilment embryonic empathy emphasize empirical employee employer enamor enamored enchant enchanting encircle enclose encroach encumber endeavour endorse endorsement endow energetic energize enfeeble enfranchise engender engulf enlightened enliven enrapture enraptured ensconce enshrine enslave ensnare ensorcel entail entanglement enthralled enthrone enthusiasm enthusiast entomb entreat envelope"
+    },
+    {
+      "id": "p1-16-ex-1",
+      "part": "part1",
+      "part_label": "Part 1 字首篇 (Prefixes)",
+      "name": "ex (1/4)",
+      "subtitle": "向外",
+      "count": 50,
+      "generated": false,
+      "search_terms": "alleged astound ebullient eccentric eccentricity edict edit educated educationalist educationist educator efface effeminate effervescence effervescent effete efficacious efficacy effigy effloresce efflorescence efflorescent effrontery effulgent effusion effusive egregious egress elaborate elapse elated elevated elicit elongate eloquence eloquent elucidate elucidation elude elusive emaciated emanating emancipate emend emendation emerging emigrant emigrate eminent emissary"
+    },
+    {
+      "id": "p1-16-ex-2",
+      "part": "part1",
+      "part_label": "Part 1 字首篇 (Prefixes)",
+      "name": "ex (2/4)",
+      "subtitle": "向外",
+      "count": 50,
+      "generated": false,
+      "search_terms": "emission emit emollient emote enervate enervated enervation enormity enormousness enumerate enunciate eradicate erase erudite erudition eruption escort esteem evacuate evaluate evanescent evasive eventuate evidence evident evince eviscerate evocation evocative evoke evolve exacerbate exacting exactitude exaggerate exalt exaltation exalted exasperate excavate exceed exceptional excerpt excess excessive excited excoriate excoriation excrescence excrescent"
+    },
+    {
+      "id": "p1-16-ex-3",
+      "part": "part1",
+      "part_label": "Part 1 字首篇 (Prefixes)",
+      "name": "ex (3/4)",
+      "subtitle": "向外",
+      "count": 50,
+      "generated": false,
+      "search_terms": "excruciating exculpate excursion execrable execrate execration exegesis exegete exegetic exhaust exhaustive exhilarated exhilarating exhilaration exhort exhortation exigent exodontics exodontist exonerate exorbitant expansion expatiate expatiation expatriate expectoration expedient expedite expend expensive experiment expiate expiation explain explanation explicable explicate explication exploit exponent export expose expository expostulate expound expressionless expunge expurgate exquisite extant"
+    },
+    {
+      "id": "p1-16-ex-4",
+      "part": "part1",
+      "part_label": "Part 1 字首篇 (Prefixes)",
+      "name": "ex (4/4)",
+      "subtitle": "向外",
+      "count": 22,
+      "generated": false,
+      "search_terms": "extemporaneous extemporize extend extension extensive extenuate extenuating extinct extirpate extirpation extol extortion extricate exuberance exuberant exult exultation ineffable inevitable inexpensive inexplicable inextricable"
+    },
+    {
+      "id": "p1-17-extra",
+      "part": "part1",
+      "part_label": "Part 1 字首篇 (Prefixes)",
+      "name": "extra",
+      "subtitle": "超過",
+      "count": 5,
+      "generated": false,
+      "search_terms": "extraneous extraordinary extraterrestrial extravagant extrovert"
+    },
+    {
+      "id": "p1-18-fore",
+      "part": "part1",
+      "part_label": "Part 1 字首篇 (Prefixes)",
+      "name": "fore",
+      "subtitle": "前面",
+      "count": 4,
+      "generated": false,
+      "search_terms": "foreboding forecast forerunner foresee"
+    },
+    {
+      "id": "p1-19-hemi",
+      "part": "part1",
+      "part_label": "Part 1 字首篇 (Prefixes)",
+      "name": "hemi",
+      "subtitle": "一半",
+      "count": 1,
+      "generated": false,
+      "search_terms": "（此批單字中，暫無符合此字根/字首的單字）"
+    },
+    {
+      "id": "p1-20-homo",
+      "part": "part1",
+      "part_label": "Part 1 字首篇 (Prefixes)",
+      "name": "homo",
+      "subtitle": "相同",
+      "count": 1,
+      "generated": false,
+      "search_terms": "（此批單字中，暫無符合此字根/字首的單字）"
+    },
+    {
+      "id": "p1-21-hyper",
+      "part": "part1",
+      "part_label": "Part 1 字首篇 (Prefixes)",
+      "name": "hyper",
+      "subtitle": "在⋯⋯之上；過度",
+      "count": 4,
+      "generated": false,
+      "search_terms": "hyperbole hyperbolic hyperbolical hypergamy"
+    },
+    {
+      "id": "p1-22-hypo",
+      "part": "part1",
+      "part_label": "Part 1 字首篇 (Prefixes)",
+      "name": "hypo",
+      "subtitle": "在⋯⋯之下；低於",
+      "count": 7,
+      "generated": false,
+      "search_terms": "hypochondriac hypochondriacal hypocrisy hypodermic hypothesis hypothesize hypothetical"
+    },
+    {
+      "id": "p1-23-im",
+      "part": "part1",
+      "part_label": "Part 1 字首篇 (Prefixes)",
+      "name": "im",
+      "subtitle": "入；內",
+      "count": 10,
+      "generated": false,
+      "search_terms": "implore impunity implacable imminent imperturbable imperceptible impugn impassive impassioned impudent"
+    },
+    {
+      "id": "p1-24-in-1",
+      "part": "part1",
+      "part_label": "Part 1 字首篇 (Prefixes)",
+      "name": "in (1/7)",
+      "subtitle": "在⋯⋯裡面",
+      "count": 50,
+      "generated": false,
+      "search_terms": "coincident encounter encourage enduring enemy engrossed enhance enmity envy ignoble ignominious illicit illogical illuminate illusion illusory illustrious imbalance imbibe immaculate immerse immigrant immigrate immitigable immodest immoral immorality immorigerous immortalize immovable immune immunity immure immurement immutability immutable impact impair impalpable impart impartial impassable impasse impassionated impeccability impeccable impecunious impede impediment impel"
+    },
+    {
+      "id": "p1-24-in-2",
+      "part": "part1",
+      "part_label": "Part 1 字首篇 (Prefixes)",
+      "name": "in (2/7)",
+      "subtitle": "在⋯⋯裡面",
+      "count": 50,
+      "generated": false,
+      "search_terms": "impending impenetrable impermeable impertienece impertinent imperturbability impervious impetuous impinge impious implant implement implicate implication implicit imply import importunate importune impossible impotent impracticable impractical imprecate imprecation imprecator imprecatory impregnable impregnate impregnated improbity impropriety improvident improvise imprudence imprudent impudence impulsive imputation impute inactive inadequate inadvertent inadvertently inalienable inanimate inapplicable inappropriate inarticulate incandescent"
+    },
+    {
+      "id": "p1-24-in-3",
+      "part": "part1",
+      "part_label": "Part 1 字首篇 (Prefixes)",
+      "name": "in (3/7)",
+      "subtitle": "在⋯⋯裡面",
+      "count": 50,
+      "generated": false,
+      "search_terms": "incapacitated incarnate inception incessant inchoate incident incidental incipient incisive incite inclement inclination incoherent incomparable incompatibility incompetent inconclusive incondite incongruous inconsequential inconsistent inconsolable inconspicuous incontestable incontrovertible incorporate incorporeal incorrigibility incorrigible incorruptibility incorruptible increase incredible incredulous increment incriminate inculcate incumbent incurable indecipherable indefatigable indefeasible indefinite indelicate indescribable indicate indict indifference indifferent indignant"
+    },
+    {
+      "id": "p1-24-in-4",
+      "part": "part1",
+      "part_label": "Part 1 字首篇 (Prefixes)",
+      "name": "in (4/7)",
+      "subtitle": "在⋯⋯裡面",
+      "count": 50,
+      "generated": false,
+      "search_terms": "indignation indiscernible indiscriminate indisputable indistinct indoctrinate indolence indolent indomitable indubitable induce inebriated ineffable ineffectual inefficacious ineluctable inept inequity inert inevitable inexorable inexpensive inexplicable inextricable infallible infamous infamy infelicitous infer infertile infirm inflammatory inflate inflexible inflicted influence informal infraction infrequent infringe infuse infusion ingenious ingenuous ingrain ingrained ingratiate ingratiating ingress inhale"
+    },
+    {
+      "id": "p1-24-in-5",
+      "part": "part1",
+      "part_label": "Part 1 字首篇 (Prefixes)",
+      "name": "in (5/7)",
+      "subtitle": "在⋯⋯裡面",
+      "count": 50,
+      "generated": false,
+      "search_terms": "inherent inhibit inhibition inimical inimitable iniquitous iniquity initiate injunction injure injurious injustice innate innocuous innovate innovation innovative innuendo inoculate inoperative inordinate inquisitor insalubrious insatiable inscrutable inseminate insensate insensible insentient insidious insightful insignificant insincere insinuate insipid insolence insolent insouciance insouciant inspect inspirational instigate instill insubstantial insufficiency insuperable insurgence insurgency insurgent insurrection"
+    },
+    {
+      "id": "p1-24-in-6",
+      "part": "part1",
+      "part_label": "Part 1 字首篇 (Prefixes)",
+      "name": "in (6/7)",
+      "subtitle": "在⋯⋯裡面",
+      "count": 50,
+      "generated": false,
+      "search_terms": "intangible integral intemperance intemperate intentional interminable intestate intimidate intolerant intractable intransigent intrepid intricate intriguing intumescence inundate inundation inure inured invade invalid invalidate invariable invasive invective inveigh invent inventive investigation investment inveterate invigorate invigorating inviolable invisible involuntarily involve irrational irreclaimable irreconcilable irredeemable irreformable irrefragable irregular irrelevant irreproachable irresolute irreverence irreverent irrevocable"
+    },
+    {
+      "id": "p1-24-in-7",
+      "part": "part1",
+      "part_label": "Part 1 字首篇 (Prefixes)",
+      "name": "in (7/7)",
+      "subtitle": "在⋯⋯裡面",
+      "count": 2,
+      "generated": false,
+      "search_terms": "reincarnation unintended"
+    },
+    {
+      "id": "p1-25-inter",
+      "part": "part1",
+      "part_label": "Part 1 字首篇 (Prefixes)",
+      "name": "inter",
+      "subtitle": "在⋯⋯之間",
+      "count": 19,
+      "generated": false,
+      "search_terms": "interject interloper interrogate internecine interchangeable interdict interdiction interface interlocutor interlope intermittent interpolate interpolation interpose interpret interregnum intersect interstice interstitial"
+    },
+    {
+      "id": "p1-26-intra",
+      "part": "part1",
+      "part_label": "Part 1 字首篇 (Prefixes)",
+      "name": "intra",
+      "subtitle": "在⋯⋯裡面",
+      "count": 1,
+      "generated": false,
+      "search_terms": "intrinsic"
+    },
+    {
+      "id": "p1-27-kilo",
+      "part": "part1",
+      "part_label": "Part 1 字首篇 (Prefixes)",
+      "name": "kilo",
+      "subtitle": "千",
+      "count": 1,
+      "generated": false,
+      "search_terms": "（此批單字中，暫無符合此字根/字首的單字）"
+    },
+    {
+      "id": "p1-28-mal",
+      "part": "part1",
+      "part_label": "Part 1 字首篇 (Prefixes)",
+      "name": "mal",
+      "subtitle": "壞",
+      "count": 10,
+      "generated": false,
+      "search_terms": "malnutrition maladjusted maladjustment maladroit malaise malapert malfeasance malformation malnourished malpractice"
+    },
+    {
+      "id": "p1-29-micro",
+      "part": "part1",
+      "part_label": "Part 1 字首篇 (Prefixes)",
+      "name": "micro",
+      "subtitle": "小",
+      "count": 1,
+      "generated": false,
+      "search_terms": "（此批單字中，暫無符合此字根/字首的單字）"
+    },
+    {
+      "id": "p1-30-mini",
+      "part": "part1",
+      "part_label": "Part 1 字首篇 (Prefixes)",
+      "name": "mini",
+      "subtitle": "小",
+      "count": 1,
+      "generated": false,
+      "search_terms": "（此批單字中，暫無符合此字根/字首的單字）"
+    },
+    {
+      "id": "p1-31-mis",
+      "part": "part1",
+      "part_label": "Part 1 字首篇 (Prefixes)",
+      "name": "mis",
+      "subtitle": "錯誤；不",
+      "count": 5,
+      "generated": false,
+      "search_terms": "misbegotten misgiving misquote misrepresent misuse"
+    },
+    {
+      "id": "p1-32-mon-mono",
+      "part": "part1",
+      "part_label": "Part 1 字首篇 (Prefixes)",
+      "name": "mon；mono",
+      "subtitle": "單一",
+      "count": 1,
+      "generated": false,
+      "search_terms": "monolithic"
+    },
+    {
+      "id": "p1-33-multi",
+      "part": "part1",
+      "part_label": "Part 1 字首篇 (Prefixes)",
+      "name": "multi",
+      "subtitle": "多",
+      "count": 1,
+      "generated": false,
+      "search_terms": "multifaceted"
+    },
+    {
+      "id": "p1-34-octo-octa-octu",
+      "part": "part1",
+      "part_label": "Part 1 字首篇 (Prefixes)",
+      "name": "octo；octa；octu",
+      "subtitle": "八",
+      "count": 1,
+      "generated": false,
+      "search_terms": "（此批單字中，暫無符合此字根/字首的單字）"
+    },
+    {
+      "id": "p1-35-out",
+      "part": "part1",
+      "part_label": "Part 1 字首篇 (Prefixes)",
+      "name": "out",
+      "subtitle": "外；出",
+      "count": 1,
+      "generated": false,
+      "search_terms": "（此批單字中，暫無符合此字根/字首的單字）"
+    },
+    {
+      "id": "p1-36-over",
+      "part": "part1",
+      "part_label": "Part 1 字首篇 (Prefixes)",
+      "name": "over",
+      "subtitle": "超過；在上方",
+      "count": 1,
+      "generated": false,
+      "search_terms": "（此批單字中，暫無符合此字根/字首的單字）"
+    },
+    {
+      "id": "p1-37-per",
+      "part": "part1",
+      "part_label": "Part 1 字首篇 (Prefixes)",
+      "name": "per",
+      "subtitle": "穿過；完全",
+      "count": 36,
+      "generated": false,
+      "search_terms": "perceive pernicious perfunctory perverse pertinent peruse permeate persevere perpetrate peregrination perpetuate perspicacious paramount peremptory perfidious imperturbable impervious pellucid perambulate perennial perfervid perfidiousness perfidy perfumed permanent perpetual perplex persecute persiflage persistent perspicacity perspicuity pertinacious perusal pervasive repercussion"
+    },
+    {
+      "id": "p1-38-poly",
+      "part": "part1",
+      "part_label": "Part 1 字首篇 (Prefixes)",
+      "name": "poly",
+      "subtitle": "多；多數",
+      "count": 1,
+      "generated": false,
+      "search_terms": "（此批單字中，暫無符合此字根/字首的單字）"
+    },
+    {
+      "id": "p1-39-post",
+      "part": "part1",
+      "part_label": "Part 1 字首篇 (Prefixes)",
+      "name": "post",
+      "subtitle": "後面",
+      "count": 2,
+      "generated": false,
+      "search_terms": "postpone postprandial"
+    },
+    {
+      "id": "p1-40-pre",
+      "part": "part1",
+      "part_label": "Part 1 字首篇 (Prefixes)",
+      "name": "pre",
+      "subtitle": "在⋯⋯之前",
+      "count": 49,
+      "generated": false,
+      "search_terms": "pretext precocious premonition premise precipitate preclude prelude prevalent precedent prerogative prevarication presumptuous pretentious predator unprecedented preapprehension precipice precognition precursor predetermine predetermined predict predilection predispose predisposition preeminent preference prejudice prelapsarian preliminary premeditated premonitory preponderance prepossess prepossessing presage prescience prescient prescribe prescription presentiment preserve presume presumption presumptuousness pretense prevail prevent preventable"
+    },
+    {
+      "id": "p1-41-re-1",
+      "part": "part1",
+      "part_label": "Part 1 字首篇 (Prefixes)",
+      "name": "re (1/3)",
+      "subtitle": "反向；再次",
+      "count": 50,
+      "generated": false,
+      "search_terms": "irrelevant irrevocable misrepresent raconteur rapport rebellion rebuff rebuke recalcitrant recant recapitulate receptive reclusive recognizable recoil reconcile recondite recount recriminate recrimination recriminative recriminatory redefine redolent redouble redoubtable redress reform refract refurbish refuse refute regurgitate reimbursement reincarnation reiterate reject rejuvenate relegate relentless relevant relic relinquish relocate remedial remiss remorse remote remuneration renounce"
+    },
+    {
+      "id": "p1-41-re-2",
+      "part": "part1",
+      "part_label": "Part 1 字首篇 (Prefixes)",
+      "name": "re (2/3)",
+      "subtitle": "反向；再次",
+      "count": 50,
+      "generated": false,
+      "search_terms": "renovate renown renunciation reoccur reoccurance repent repentant repercussion repertoire replenish replete replicable repose reprehensible representative repress reprieve reprimand reproach reprobate reprove repudiate repugnant repulse reputable reputed requisite requisition rescind reseme^ reservoir resilient resolute resolve resourceful resplendent responsive restitution restive restore restrain restrained restrictive retain retaliate reticent reticent retort retract revel"
+    },
+    {
+      "id": "p1-41-re-3",
+      "part": "part1",
+      "part_label": "Part 1 字首篇 (Prefixes)",
+      "name": "re (3/3)",
+      "subtitle": "反向；再次",
+      "count": 10,
+      "generated": false,
+      "search_terms": "reverberating revere revert revile revitalizing revivifying revoke revolve reword ruse"
+    },
+    {
+      "id": "p1-42-se",
+      "part": "part1",
+      "part_label": "Part 1 字首篇 (Prefixes)",
+      "name": "se",
+      "subtitle": "分開",
+      "count": 1,
+      "generated": false,
+      "search_terms": "segregate"
+    },
+    {
+      "id": "p1-43-sub",
+      "part": "part1",
+      "part_label": "Part 1 字首篇 (Prefixes)",
+      "name": "sub",
+      "subtitle": "在⋯⋯之下",
+      "count": 25,
+      "generated": false,
+      "search_terms": "succumb to subjugate subterranean surreptitious subterfuge supplication susceptible succinct somber sojourn subservient submissive subordinate subfuscous sublime subliminal sublunary subsequent subsistence substantial subtle suburban succumb supplement surrogate"
+    },
+    {
+      "id": "p1-44-super",
+      "part": "part1",
+      "part_label": "Part 1 字首篇 (Prefixes)",
+      "name": "super",
+      "subtitle": "在上方",
+      "count": 13,
+      "generated": false,
+      "search_terms": "surmise superstition superficial surfeit superfluous supercilious insuperable superabundance superannuated superciliousness supernatural supernumerary surrender"
+    },
+    {
+      "id": "p1-45-sur",
+      "part": "part1",
+      "part_label": "Part 1 字首篇 (Prefixes)",
+      "name": "sur",
+      "subtitle": "超過",
+      "count": 4,
+      "generated": false,
+      "search_terms": "surpass surpassing surplus surreal"
+    },
+    {
+      "id": "p1-46-sym-syn",
+      "part": "part1",
+      "part_label": "Part 1 字首篇 (Prefixes)",
+      "name": "sym；syn",
+      "subtitle": "共同；相同",
+      "count": 7,
+      "generated": false,
+      "search_terms": "symptomatic sympathy synchronization synchronize synergism synergistic synergy"
+    },
+    {
+      "id": "p1-47-tele",
+      "part": "part1",
+      "part_label": "Part 1 字首篇 (Prefixes)",
+      "name": "tele",
+      "subtitle": "遠距離",
+      "count": 3,
+      "generated": false,
+      "search_terms": "telecast telephone telethon"
+    },
+    {
+      "id": "p1-48-trans",
+      "part": "part1",
+      "part_label": "Part 1 字首篇 (Prefixes)",
+      "name": "trans",
+      "subtitle": "穿越；改變",
+      "count": 10,
+      "generated": false,
+      "search_terms": "tranquil tradition transient transitory intransigent transcend transform transgress transmute travesty"
+    },
+    {
+      "id": "p1-49-tri",
+      "part": "part1",
+      "part_label": "Part 1 字首篇 (Prefixes)",
+      "name": "tri",
+      "subtitle": "三",
+      "count": 4,
+      "generated": false,
+      "search_terms": "trivial trinomial tripod triumvir"
+    },
+    {
+      "id": "p1-50-twi",
+      "part": "part1",
+      "part_label": "Part 1 字首篇 (Prefixes)",
+      "name": "twi",
+      "subtitle": "二；兩",
+      "count": 1,
+      "generated": false,
+      "search_terms": "（此批單字中，暫無符合此字根/字首的單字）"
+    },
+    {
+      "id": "p1-51-un-1",
+      "part": "part1",
+      "part_label": "Part 1 字首篇 (Prefixes)",
+      "name": "un (1/2)",
+      "subtitle": "不",
+      "count": 50,
+      "generated": false,
+      "search_terms": "unabated unaffected unappeasable unappetizing unapproachable unassuming unauthenticated unauthorized unavailing unaware unbiased unbridled uncivil uncompromising unconcealed unconscionable uncontrolled unconventional uncultivated uncultured undemonstrative undiscerning undiscriminating undress uneasiness unemotional unenlightened unfazed unfetter unfettered ungovernable unhinged unimpeachable uninspired unintelligent uninterested unkempt unmanageable unmitigated unnatural unobtrusive unorthodox unostentatious unpalatable unparalleled unperturbed unpolished unprecedented unprepossessing unprincipled"
+    },
+    {
+      "id": "p1-51-un-2",
+      "part": "part1",
+      "part_label": "Part 1 字首篇 (Prefixes)",
+      "name": "un (2/2)",
+      "subtitle": "不",
+      "count": 37,
+      "generated": false,
+      "search_terms": "unproductive unquenchable unquestionable unrefined unregenerate unrelenting unremitting unrepentant unresponsive unrivaled unruffled unruly unsavory unscrupulous unscrupulousness unselfconscious unselfish unsettle unshackle unsociable unsophisticated unspeakable unsteady unsuitable unsullied unswerving unsympathetic untenable untouchable untoward untrustworthy unutterable unveil unwarranted unwavering unwieldy unyielding"
+    },
+    {
+      "id": "p1-52-uni",
+      "part": "part1",
+      "part_label": "Part 1 字首篇 (Prefixes)",
+      "name": "uni",
+      "subtitle": "單一",
+      "count": 1,
+      "generated": false,
+      "search_terms": "universal"
+    },
+    {
+      "id": "p1-53-ob",
+      "part": "part1",
+      "part_label": "Part 1 字首篇 (Prefixes)",
+      "name": "ob",
+      "subtitle": "反對；朝向",
+      "count": 33,
+      "generated": false,
+      "search_terms": "obsolescence obsess obviate ostentatious obsequious obliterate obscure ostensible occult obliging opprobrium obloquy obdurate obstinate obsolete unobtrusive obtuse opportunist obfuscate obfuscation obligate oblique obnoxious obnubilation observable observant obsolescent obstetrics obstreperous obstructed occupy oppose opposition"
+    },
+    {
+      "id": "p1-54-non",
+      "part": "part1",
+      "part_label": "Part 1 字首篇 (Prefixes)",
+      "name": "non",
+      "subtitle": "不",
+      "count": 6,
+      "generated": false,
+      "search_terms": "nondescript nonentity nonchalant nonage nonexistent nonlussation"
+    },
+    {
+      "id": "p1-55-pro",
+      "part": "part1",
+      "part_label": "Part 1 字首篇 (Prefixes)",
+      "name": "pro",
+      "subtitle": "向前；代替",
+      "count": 34,
+      "generated": false,
+      "search_terms": "prognosticate promulgate propitious progeny profligate prohibition prodigy propagate prodigious profound propensity procrastinate proffer profuse prodigal proactive proclaim proclivity procure produce profane profusion prognosis prognostic prognostication prognosticator prologue prolong prominent proponent proscribe prosecute prospect provoke"
+    },
+    {
+      "id": "p1-56-epi",
+      "part": "part1",
+      "part_label": "Part 1 字首篇 (Prefixes)",
+      "name": "epi",
+      "subtitle": "在⋯⋯之上；之後",
+      "count": 17,
+      "generated": false,
+      "search_terms": "epithet epitome ephemeral epicene epidemic epidermis epigram epigrammatic epigraph epilogue epiphanic epiphany epistle epistrophe epitaph eponym eponymous"
+    },
+    {
+      "id": "p1-57-para",
+      "part": "part1",
+      "part_label": "Part 1 字首篇 (Prefixes)",
+      "name": "para",
+      "subtitle": "旁邊；類似",
+      "count": 12,
+      "generated": false,
+      "search_terms": "paradox paroxysm paragon parable paradigm paraleipsis parameter paranoia paraphrase parapraxis parody paronychia"
+    },
+    {
+      "id": "p1-58-peri",
+      "part": "part1",
+      "part_label": "Part 1 字首篇 (Prefixes)",
+      "name": "peri",
+      "subtitle": "周圍",
+      "count": 8,
+      "generated": false,
+      "search_terms": "peripatetic peripheral perigee perimeter periodontics periodontist periphery periphrasis"
+    },
+    {
+      "id": "p1-59-eu",
+      "part": "part1",
+      "part_label": "Part 1 字首篇 (Prefixes)",
+      "name": "eu",
+      "subtitle": "好",
+      "count": 14,
+      "generated": false,
+      "search_terms": "euphemism euphony eulogize eulogy eupepsia eupeptic euphemistic euphemize euphonic euphonious euphoria euphoric euthanasia evangelize"
+    },
+    {
+      "id": "p1-60-pan",
+      "part": "part1",
+      "part_label": "Part 1 字首篇 (Prefixes)",
+      "name": "pan",
+      "subtitle": "全部",
+      "count": 10,
+      "generated": false,
+      "search_terms": "panacea pandemonium panegyrize panorama pansophic pansophy pantheism pantheon pantologist pantophobia"
+    },
+    {
+      "id": "p1-61-meta",
+      "part": "part1",
+      "part_label": "Part 1 字首篇 (Prefixes)",
+      "name": "meta",
+      "subtitle": "之後；變化",
+      "count": 4,
+      "generated": false,
+      "search_terms": "metamorphosis metamorphose metaphor metathesis"
+    },
+    {
+      "id": "p2-01-act-ag",
+      "part": "part2",
+      "part_label": "Part 2 字根篇 (Roots)",
+      "name": "act；ag",
+      "subtitle": "做；動",
+      "count": 40,
+      "generated": false,
+      "search_terms": "castigate cogent ambiguous activism mitigate antagonism prodigal panegyrize exacting agenda agent agent provocateur agile agitate agitated agitation agoraphobia agronomy ambiguity antagonistic antagonize coagulate counteract demagogue demagogy disagree disagreeable exactitude exaggerate exigent inactive intransigent litigant nonage panegyric pedagogy proactive redact redaction variegated"
+    },
+    {
+      "id": "p2-02-alter",
+      "part": "part2",
+      "part_label": "Part 2 字根篇 (Roots)",
+      "name": "alter",
+      "subtitle": "其他的；改變",
+      "count": 10,
+      "generated": false,
+      "search_terms": "altruistic alter ego alteration altercation alternate alternating alternation alternative altruism altruist"
+    },
+    {
+      "id": "p2-03-am",
+      "part": "part2",
+      "part_label": "Part 2 字根篇 (Roots)",
+      "name": "am",
+      "subtitle": "愛",
+      "count": 25,
+      "generated": false,
+      "search_terms": "amicable amorous amiable amateur ambassador ambrosia ambrosial ambulate ambulating ambulatory amenity amiability amicability amigo amity amour-propre amulet enamor enamored enemy enmity inimical perambulate somnambulate somnambulism"
+    },
+    {
+      "id": "p2-04-anim",
+      "part": "part2",
+      "part_label": "Part 2 字根篇 (Roots)",
+      "name": "anim",
+      "subtitle": "氣息；心",
+      "count": 18,
+      "generated": false,
+      "search_terms": "inanimate equanimity equanimity magnanimous animosity animadversion animadvert animate animated animating animation animus laonanimity longanimity magnanimity pusillanimity pusillanimous unanimous"
+    },
+    {
+      "id": "p2-05-aqua",
+      "part": "part2",
+      "part_label": "Part 2 字根篇 (Roots)",
+      "name": "aqua",
+      "subtitle": "水",
+      "count": 1,
+      "generated": false,
+      "search_terms": "aquatic"
+    },
+    {
+      "id": "p2-06-arch",
+      "part": "part2",
+      "part_label": "Part 2 字根篇 (Roots)",
+      "name": "arch",
+      "subtitle": "統治（者）",
+      "count": 11,
+      "generated": false,
+      "search_terms": "anarchist arcane archetypal archival archive hierarchy matriarch oligarchic oligarchical oligarchy patriarch"
+    },
+    {
+      "id": "p2-07-arm",
+      "part": "part2",
+      "part_label": "Part 2 字根篇 (Roots)",
+      "name": "arm",
+      "subtitle": "武器",
+      "count": 1,
+      "generated": false,
+      "search_terms": "（此批單字中，暫無符合此字根/字首的單字）"
+    },
+    {
+      "id": "p2-08-audi",
+      "part": "part2",
+      "part_label": "Part 2 字根篇 (Roots)",
+      "name": "audi",
+      "subtitle": "聽",
+      "count": 3,
+      "generated": false,
+      "search_terms": "audacious audible obedient"
+    },
+    {
+      "id": "p2-09-cad-cas-cid",
+      "part": "part2",
+      "part_label": "Part 2 字根篇 (Roots)",
+      "name": "cad；cas；cid",
+      "subtitle": "降落",
+      "count": 19,
+      "generated": false,
+      "search_terms": "decadence incidental accident broadcast cadaver cadaverous cadence castellated castellation castigation casuistry chasten chastisement coincident decadent deciduous downcast forecast incident"
+    },
+    {
+      "id": "p2-10-cap-capt",
+      "part": "part2",
+      "part_label": "Part 2 字根篇 (Roots)",
+      "name": "cap；capt",
+      "subtitle": "抓取",
+      "count": 29,
+      "generated": false,
+      "search_terms": "perceive incipient incapacitated susceptible captious inception anticipate cable capacious capitulation caprice captiousness captivate captivated captivating chapter conceit conceptualize deceptive emancipate exceptional municipal occupy perceptible perceptive percipient recap recapitulation receptive"
+    },
+    {
+      "id": "p2-11-cede-ceed-cess",
+      "part": "part2",
+      "part_label": "Part 2 字根篇 (Roots)",
+      "name": "cede；ceed；cess",
+      "subtitle": "行進；走；讓步",
+      "count": 13,
+      "generated": false,
+      "search_terms": "cessation access precedent unprecedented accessible accede antecedent concede exceed excess excessive incessant proceed"
+    },
+    {
+      "id": "p2-12-centr",
+      "part": "part2",
+      "part_label": "Part 2 字根篇 (Roots)",
+      "name": "centr",
+      "subtitle": "中心",
+      "count": 1,
+      "generated": false,
+      "search_terms": "egocentric"
+    },
+    {
+      "id": "p2-13-cert",
+      "part": "part2",
+      "part_label": "Part 2 字根篇 (Roots)",
+      "name": "cert",
+      "subtitle": "確定",
+      "count": 4,
+      "generated": false,
+      "search_terms": "ascertain certain certify sincerity"
+    },
+    {
+      "id": "p2-14-chron",
+      "part": "part2",
+      "part_label": "Part 2 字根篇 (Roots)",
+      "name": "chron",
+      "subtitle": "長時間",
+      "count": 8,
+      "generated": false,
+      "search_terms": "anachronism anachronistic chronicity chronicle chronological chronometer synchronization synchronize"
+    },
+    {
+      "id": "p2-15-cide",
+      "part": "part2",
+      "part_label": "Part 2 字根篇 (Roots)",
+      "name": "cide",
+      "subtitle": "殺害",
+      "count": 25,
+      "generated": false,
+      "search_terms": "incisive genocide concise bactericide caesura circumcision conciseness deciding decisive fratricide fungicide herbicide homicide infanticide insecticide matricide menticide parricide patricide pesticide regicide sororicide tyrannicide uxoricide vermicide"
+    },
+    {
+      "id": "p2-16-close-clude-clus",
+      "part": "part2",
+      "part_label": "Part 2 字根篇 (Roots)",
+      "name": "close；clude；clus",
+      "subtitle": "關閉",
+      "count": 3,
+      "generated": false,
+      "search_terms": "close-fisted close-fistedness close-minded"
+    },
+    {
+      "id": "p2-17-cord",
+      "part": "part2",
+      "part_label": "Part 2 字根篇 (Roots)",
+      "name": "cord",
+      "subtitle": "心",
+      "count": 12,
+      "generated": false,
+      "search_terms": "quarry cordial discordant accord accordingly concord cordiality cordially courageous discord discourage encourage"
+    },
+    {
+      "id": "p2-18-electr",
+      "part": "part2",
+      "part_label": "Part 2 字根篇 (Roots)",
+      "name": "electr",
+      "subtitle": "電",
+      "count": 1,
+      "generated": false,
+      "search_terms": "（此批單字中，暫無符合此字根/字首的單字）"
+    },
+    {
+      "id": "p2-19-fac-t-fec-t-fic-t-1",
+      "part": "part2",
+      "part_label": "Part 2 字根篇 (Roots)",
+      "name": "fac(t)；fec(t)；fic(t) (1/2)",
+      "subtitle": "做",
+      "count": 50,
+      "generated": false,
+      "search_terms": "affect artifact artifice benefactor beneficence beneficent beneficial beneficiary certify confection deface defeat defection deficiency deficient deification deify difficult edifice efface efficacious efficacy facade facet facetious facile facilitate facility factitious factotum façade feasible feat febrifacient feckless fecund fecundate fecundity fetch fetish fortify glorification gratify insignificant interface ipso facto liquefy magnify malefactor maleficent"
+    },
+    {
+      "id": "p2-19-fac-t-fec-t-fic-t-2",
+      "part": "part2",
+      "part_label": "Part 2 字根篇 (Roots)",
+      "name": "fac(t)；fec(t)；fic(t) (2/2)",
+      "subtitle": "做",
+      "count": 45,
+      "generated": false,
+      "search_terms": "matter-of-fact modify mollify mortify multifaceted munificence munificent nullify olfaction olfactory pacific pacify parturifacient perfect petrifaction petrify pontiff pontificate pontification proficient prolific putrefaction putrefy rarefaction rarefied rarefy rectification rectify revivifying rubify sacrifice sanctified sanctify satisfy simplify soporific specify stupefy superficial surfeit tenebrific testify verify vilification vivify"
+    },
+    {
+      "id": "p2-20-gen",
+      "part": "part2",
+      "part_label": "Part 2 字根篇 (Roots)",
+      "name": "gen",
+      "subtitle": "生產；根源",
+      "count": 36,
+      "generated": false,
+      "search_terms": "jaunty indigenous progeny heterogeneous congenial malign genre homogeneous genocide gingerly ingenious benign congenital degeneracy degenerate endogenous engender exogenous genealogy generate generous genesis genetics genial genteel genuflection genuine homogenize homogenous iatrogenic ingenuous postremogeniture primogeniture progenitor sui generis ultimogeniture"
+    },
+    {
+      "id": "p2-21-grad-gress",
+      "part": "part2",
+      "part_label": "Part 2 字根篇 (Roots)",
+      "name": "grad；gress",
+      "subtitle": "行進",
+      "count": 11,
+      "generated": false,
+      "search_terms": "degrade gratuity digress gratify aggressive digression digressive disagreement egress ingress transgress"
+    },
+    {
+      "id": "p2-22-habit",
+      "part": "part2",
+      "part_label": "Part 2 字根篇 (Roots)",
+      "name": "habit",
+      "subtitle": "居住；擁有",
+      "count": 8,
+      "generated": false,
+      "search_terms": "malady inhibition habitat prohibition habitual habituated inhibit prohibit"
+    },
+    {
+      "id": "p2-23-ject",
+      "part": "part2",
+      "part_label": "Part 2 字根篇 (Roots)",
+      "name": "ject",
+      "subtitle": "投；擲",
+      "count": 10,
+      "generated": false,
+      "search_terms": "interject conjecture gist jettison abject abjection dejected reject rejection subject"
+    },
+    {
+      "id": "p2-24-join-t-junct",
+      "part": "part2",
+      "part_label": "Part 2 字根篇 (Roots)",
+      "name": "join(t)；junct",
+      "subtitle": "連接；結合",
+      "count": 3,
+      "generated": false,
+      "search_terms": "joyful joyous rejoinder"
+    },
+    {
+      "id": "p2-25-lec-t",
+      "part": "part2",
+      "part_label": "Part 2 字根篇 (Roots)",
+      "name": "lec(t)",
+      "subtitle": "選擇；收集",
+      "count": 7,
+      "generated": false,
+      "search_terms": "allay eclectic anthology catalog dialect lay lecherous"
+    },
+    {
+      "id": "p2-26-locu-log-loqu-1",
+      "part": "part2",
+      "part_label": "Part 2 字根篇 (Roots)",
+      "name": "locu；log；loqu (1/2)",
+      "subtitle": "說話",
+      "count": 50,
+      "generated": false,
+      "search_terms": "allocate analogous analogy anthropology astrology biologist biology breviloquent cacology cardiologist cardiology chronological circumlocution circumlocutory colloquial dermatologist dermatology dialogue doctiloquent doxology eloquence eloquent entomologist entomology epilogue etiology etymologist etymology eulogize eulogy genealogy geologist geology gerontologist gerontology grandiloquence grandiloquent graphologist graphology gynaecology gynecologist gynecology ideologue ideology illogical interlocutor localized lock locution logodaedaly"
+    },
+    {
+      "id": "p2-26-locu-log-loqu-2",
+      "part": "part2",
+      "part_label": "Part 2 字根篇 (Roots)",
+      "name": "locu；log；loqu (2/2)",
+      "subtitle": "說話",
+      "count": 48,
+      "generated": false,
+      "search_terms": "logogogue logolept logomacher logomachist logomachize logomachy logomaniac logophile logorrhea loquacious loquacity macrologist magniloquent monologue multiloquent neologism neologist neologize neology neurologist neurology obloquy ontology ophthalmologist ophthalmology outlaw pantologist pathological pathology philologist philology phobiologist polyogize prologue psychologist relocate sanctiloquent sociologist sociology soliloquy somniloquent somniloquist suavilquent tautological uxorilocal ventriloquism zoologist zoology"
+    },
+    {
+      "id": "p2-27-miss-mit",
+      "part": "part2",
+      "part_label": "Part 2 字根篇 (Roots)",
+      "name": "miss；mit",
+      "subtitle": "發送",
+      "count": 22,
+      "generated": false,
+      "search_terms": "emit premise surmise remiss unmitigated emissary mitigate submissive committed dismiss dismissive emission immitigable intermittent manumit missive missle mite mitigable permit submission submit"
+    },
+    {
+      "id": "p2-28-nov",
+      "part": "part2",
+      "part_label": "Part 2 字根篇 (Roots)",
+      "name": "nov",
+      "subtitle": "新",
+      "count": 6,
+      "generated": false,
+      "search_terms": "innovation novel innovate innovative novice renovate"
+    },
+    {
+      "id": "p2-29-pass-path-y",
+      "part": "part2",
+      "part_label": "Part 2 字根篇 (Roots)",
+      "name": "pass；path(y)",
+      "subtitle": "感覺",
+      "count": 30,
+      "generated": false,
+      "search_terms": "apathy antipathy passé pathetic apathetic surpass addlepated dispassionate empathy en passant faux pas impassable impasse impassionated osteopath passable passionate passive patent pathological pathology pathos patio patios psychopathic psychopathy puzzlepate surpassing sympathy trespass"
+    },
+    {
+      "id": "p2-30-patr-i",
+      "part": "part2",
+      "part_label": "Part 2 字根篇 (Roots)",
+      "name": "patr(i)",
+      "subtitle": "父親；祖國",
+      "count": 9,
+      "generated": false,
+      "search_terms": "perpetrate expatriate addlepated patent patio patios patrician philopatridomania puzzlepate"
+    },
+    {
+      "id": "p2-31-ped",
+      "part": "part2",
+      "part_label": "Part 2 字根篇 (Roots)",
+      "name": "ped",
+      "subtitle": "腳；足",
+      "count": 10,
+      "generated": false,
+      "search_terms": "impede expedite expedient impediment pawn pedant pedantic pedantry pedestrian sesquipedalian"
+    },
+    {
+      "id": "p2-32-pel-puls",
+      "part": "part2",
+      "part_label": "Part 2 字根篇 (Roots)",
+      "name": "pel；puls",
+      "subtitle": "推；驅使",
+      "count": 10,
+      "generated": false,
+      "search_terms": "repulse appellation archipelago compelling dispel impel impulsive pilfer repellent repulsive"
+    },
+    {
+      "id": "p2-33-pend",
+      "part": "part2",
+      "part_label": "Part 2 字根篇 (Roots)",
+      "name": "pend",
+      "subtitle": "懸掛",
+      "count": 11,
+      "generated": false,
+      "search_terms": "propensity pensive penchant appendix compendious compendium dispensation expend expensive impending inexpensive"
+    },
+    {
+      "id": "p2-34-phon",
+      "part": "part2",
+      "part_label": "Part 2 字根篇 (Roots)",
+      "name": "phon",
+      "subtitle": "聲音",
+      "count": 9,
+      "generated": false,
+      "search_terms": "cacophony euphony cacophonophilist cacophonous euphonic euphonious phonetic symphony telephone"
+    },
+    {
+      "id": "p2-35-plen-plete",
+      "part": "part2",
+      "part_label": "Part 2 字根篇 (Roots)",
+      "name": "plen；plete",
+      "subtitle": "滿；全",
+      "count": 17,
+      "generated": false,
+      "search_terms": "replete replenish compliant complementary complement compliment deplete depleted implement plenary plenitude plentiful plentitude plenty plexiform plexus supplement"
+    },
+    {
+      "id": "p2-36-port",
+      "part": "part2",
+      "part_label": "Part 2 字根篇 (Roots)",
+      "name": "port",
+      "subtitle": "運送；攜帶",
+      "count": 16,
+      "generated": false,
+      "search_terms": "importune opportunist comport comportment deport deportment export import portable portcullis portfolio portly portmanteau rapport rapporteur report"
+    },
+    {
+      "id": "p2-37-pose",
+      "part": "part2",
+      "part_label": "Part 2 字根篇 (Roots)",
+      "name": "pose",
+      "subtitle": "放置",
+      "count": 24,
+      "generated": false,
+      "search_terms": "compound component juxtapose apposite compose composed composure dispose exponent expose expository expound interpose juxtaposition oppose opposition posit position postpone proponent suppose supposition supposititious symposium"
+    },
+    {
+      "id": "p2-38-press",
+      "part": "part2",
+      "part_label": "Part 2 字根篇 (Roots)",
+      "name": "press",
+      "subtitle": "按壓",
+      "count": 8,
+      "generated": false,
+      "search_terms": "reprimand repress compress expressionless interpret oppressed oppression suppress"
+    },
+    {
+      "id": "p2-39-quire",
+      "part": "part2",
+      "part_label": "Part 2 字根篇 (Roots)",
+      "name": "quire",
+      "subtitle": "追求",
+      "count": 13,
+      "generated": false,
+      "search_terms": "requisite acquired acquisitive acquisitiveness conquer disquisition exquisite inquisitor perquisite query questionable qui vive requisition"
+    },
+    {
+      "id": "p2-40-rect-reg",
+      "part": "part2",
+      "part_label": "Part 2 字根篇 (Roots)",
+      "name": "rect；reg",
+      "subtitle": "正；直",
+      "count": 20,
+      "generated": false,
+      "search_terms": "realm correct correction corrigible direct directed interregnum irregular rectification rectify rectitude rector rectum regardless regimen regnant regulate reign royal unregenerate"
+    },
+    {
+      "id": "p2-41-rupt",
+      "part": "part2",
+      "part_label": "Part 2 字根篇 (Roots)",
+      "name": "rupt",
+      "subtitle": "破裂；毀壞",
+      "count": 3,
+      "generated": false,
+      "search_terms": "eruption abrupt corruption"
+    },
+    {
+      "id": "p2-42-sacr",
+      "part": "part2",
+      "part_label": "Part 2 字根篇 (Roots)",
+      "name": "sacr",
+      "subtitle": "神聖的",
+      "count": 5,
+      "generated": false,
+      "search_terms": "consecration execrate execration sacred sacrifice"
+    },
+    {
+      "id": "p2-43-sati-satis-satur",
+      "part": "part2",
+      "part_label": "Part 2 字根篇 (Roots)",
+      "name": "sati；satis；satur",
+      "subtitle": "足夠的",
+      "count": 12,
+      "generated": false,
+      "search_terms": "asset saturate insatiable satiety satiable satiate satire satisfy saturated saturation saturnalia saturnine"
+    },
+    {
+      "id": "p2-44-scrib-scrip",
+      "part": "part2",
+      "part_label": "Part 2 字根篇 (Roots)",
+      "name": "scrib；scrip",
+      "subtitle": "書寫",
+      "count": 9,
+      "generated": false,
+      "search_terms": "ascribe circumscribe circumscribed postscript prescribe prescription proscribe scribble scripture"
+    },
+    {
+      "id": "p2-45-secu-sequ-sue",
+      "part": "part2",
+      "part_label": "Part 2 字根篇 (Roots)",
+      "name": "secu；sequ；sue",
+      "subtitle": "追隨",
+      "count": 17,
+      "generated": false,
+      "search_terms": "extrinsic obsequious intrinsic inconsequential consequently desuetude intersect non sequitur obsequiousness persecute persecution prosecute sequel sequence sequester subsequent subsequently"
+    },
+    {
+      "id": "p2-46-sens-sent",
+      "part": "part2",
+      "part_label": "Part 2 字根篇 (Roots)",
+      "name": "sens；sent",
+      "subtitle": "感覺",
+      "count": 20,
+      "generated": false,
+      "search_terms": "dissent assent consensus consent insensate insensible insentient presentiment scented sensate senseless sensible sensitive sensual sensualist sensuous sentence sententious sentience sentient"
+    },
+    {
+      "id": "p2-47-sess-sid",
+      "part": "part2",
+      "part_label": "Part 2 字根篇 (Roots)",
+      "name": "sess；sid",
+      "subtitle": "坐",
+      "count": 13,
+      "generated": false,
+      "search_terms": "obsess sedentary assiduous insidious aside assess bathysiderodromophobia besides consideration dissident possess subside supersede"
+    },
+    {
+      "id": "p2-48-sist-sta",
+      "part": "part2",
+      "part_label": "Part 2 字根篇 (Roots)",
+      "name": "sist；sta",
+      "subtitle": "站立",
+      "count": 36,
+      "generated": false,
+      "search_terms": "desist extant destitution superstition stagnant obstinate circumstance consistent constant constituent destiny destitute estate interstice interstitial long-standing obstetrics painstaking persistent prostitute resist restitution restive restore stable stadium stagnate stagnation stairwit standoffish static statuette staurophobia staycation subsistence substantial"
+    },
+    {
+      "id": "p2-49-spec",
+      "part": "part2",
+      "part_label": "Part 2 字根篇 (Roots)",
+      "name": "spec",
+      "subtitle": "看",
+      "count": 23,
+      "generated": false,
+      "search_terms": "introspective perspicacious retrospect circumspect inconspicuous auspex auspice auspicious conspectus despicable introspection perspicacity perspicuity perspicuous prospect specify specious spectacle spectacular spectator speculate speculative suspect"
+    },
+    {
+      "id": "p2-50-tact-tag",
+      "part": "part2",
+      "part_label": "Part 2 字根篇 (Roots)",
+      "name": "tact；tag",
+      "subtitle": "接觸",
+      "count": 9,
+      "generated": false,
+      "search_terms": "tangible integral attain contingent intangible tactile tactless tangent tangential"
+    },
+    {
+      "id": "p2-51-tain",
+      "part": "part2",
+      "part_label": "Part 2 字根篇 (Roots)",
+      "name": "tain",
+      "subtitle": "握住",
+      "count": 12,
+      "generated": false,
+      "search_terms": "pertinent tenacious countenance tenable abstain abstinence continual continue continuous pertinacious retain sustenance"
+    },
+    {
+      "id": "p2-52-tend-tens",
+      "part": "part2",
+      "part_label": "Part 2 字根篇 (Roots)",
+      "name": "tend；tens",
+      "subtitle": "伸展",
+      "count": 17,
+      "generated": false,
+      "search_terms": "ostentatious ostensible pretentious contentious attention contend contention distend extend extension extensive intentional portent pretense pretentiousness tenderfoot unintended"
+    },
+    {
+      "id": "p2-53-tort",
+      "part": "part2",
+      "part_label": "Part 2 字根篇 (Roots)",
+      "name": "tort",
+      "subtitle": "扭轉",
+      "count": 6,
+      "generated": false,
+      "search_terms": "extortion tortuous (rivers/road) retort contort retrotort torturous"
+    },
+    {
+      "id": "p2-54-tract",
+      "part": "part2",
+      "part_label": "Part 2 字根篇 (Roots)",
+      "name": "tract",
+      "subtitle": "拉",
+      "count": 10,
+      "generated": false,
+      "search_terms": "intractable abstract distract protract protracted retract tract tractable traction tractor"
+    },
+    {
+      "id": "p2-55-tribute",
+      "part": "part2",
+      "part_label": "Part 2 字根篇 (Roots)",
+      "name": "tribute",
+      "subtitle": "給予",
+      "count": 2,
+      "generated": false,
+      "search_terms": "attribute retribution"
+    },
+    {
+      "id": "p2-56-trude-truse",
+      "part": "part2",
+      "part_label": "Part 2 字根篇 (Roots)",
+      "name": "trude；truse",
+      "subtitle": "推",
+      "count": 5,
+      "generated": false,
+      "search_terms": "unobtrusive abstruse obtrusive protruding truism"
+    },
+    {
+      "id": "p2-57-vac-void",
+      "part": "part2",
+      "part_label": "Part 2 字根篇 (Roots)",
+      "name": "vac；void",
+      "subtitle": "空；缺乏",
+      "count": 8,
+      "generated": false,
+      "search_terms": "vacillate evacuate staycation vacant vacillating vacuity vacuous vacuum"
+    },
+    {
+      "id": "p2-58-view-vis",
+      "part": "part2",
+      "part_label": "Part 2 字根篇 (Roots)",
+      "name": "view；vis",
+      "subtitle": "看",
+      "count": 17,
+      "generated": false,
+      "search_terms": "advise clairvoyant devise envy evidence evident eviscerate invisible provide provident revise visa viscera visceral viscid viscous visionary"
+    },
+    {
+      "id": "p2-59-vig-viv",
+      "part": "part2",
+      "part_label": "Part 2 字根篇 (Roots)",
+      "name": "vig；viv",
+      "subtitle": "生命",
+      "count": 20,
+      "generated": false,
+      "search_terms": "vigilant vigil vivacious convivial bon vivant inter vivos invigorate invigorating revive revivifying vigilance vigilante vignette vigorous vivacity vivid vivify viviparous vivisection vivisepulture"
+    },
+    {
+      "id": "p2-60-vert-vers",
+      "part": "part2",
+      "part_label": "Part 2 字根篇 (Roots)",
+      "name": "vert；vers",
+      "subtitle": "轉",
+      "count": 40,
+      "generated": false,
+      "search_terms": "inadvertent perverse revert adverse incontrovertible controversial universal aversion adversary vertigo diversity adversity advertise ambivert aver avert controversy controvert conversant conversation converse convert diverse extrovert inadvertently introvert pervert subvert tergiversate tergiversation veracity verisimilitude veritable versatile versed vert vertebrae vertex vertiginous vice versa"
+    },
+    {
+      "id": "p2-61-greg",
+      "part": "part2",
+      "part_label": "Part 2 字根篇 (Roots)",
+      "name": "greg",
+      "subtitle": "群；集合",
+      "count": 1,
+      "generated": false,
+      "search_terms": "aggregate"
+    },
+    {
+      "id": "p2-62-duc-duct",
+      "part": "part2",
+      "part_label": "Part 2 字根篇 (Roots)",
+      "name": "duc；duct",
+      "subtitle": "引導；帶領",
+      "count": 15,
+      "generated": false,
+      "search_terms": "conducive abduct adduce conductive conduit educated educationalist educationist educator induce produce subdue subdued traduce traducement"
+    },
+    {
+      "id": "p2-63-mov-mot-mob",
+      "part": "part2",
+      "part_label": "Part 2 字根篇 (Roots)",
+      "name": "mov；mot；mob",
+      "subtitle": "動",
+      "count": 12,
+      "generated": false,
+      "search_terms": "remote motivate automobile bon mot emote immovable leitmoff leitmotif moat motif motorcade promote"
+    },
+    {
+      "id": "p2-64-sci-gnos",
+      "part": "part2",
+      "part_label": "Part 2 字根篇 (Roots)",
+      "name": "sci；gnos",
+      "subtitle": "知道",
+      "count": 21,
+      "generated": false,
+      "search_terms": "prognosticate cognizant connoisseur unconscionable conscientious agnosia agnostic agnosticism cognitive conscience conscionable nescient omniscient plebiscite prescience prescient science scintillating sciolism sciolist shine"
+    },
+    {
+      "id": "p2-65-cred",
+      "part": "part2",
+      "part_label": "Part 2 字根篇 (Roots)",
+      "name": "cred",
+      "subtitle": "相信",
+      "count": 13,
+      "generated": false,
+      "search_terms": "incredulous creative credence credentials credible credit credo credulity credulous creed discredit incredible miscreant"
+    },
+    {
+      "id": "p2-66-fund-fus",
+      "part": "part2",
+      "part_label": "Part 2 字根篇 (Roots)",
+      "name": "fund；fus",
+      "subtitle": "傾倒；灌注",
+      "count": 19,
+      "generated": false,
+      "search_terms": "profuse diffuse confounding confound confuse defuse effusion effusive funereal fuse fustigate infuse infusion obfuscate obfuscation profusion refuse subfuscous suffuse"
+    },
+    {
+      "id": "p2-67-cur-curs",
+      "part": "part2",
+      "part_label": "Part 2 字根篇 (Roots)",
+      "name": "cur；curs",
+      "subtitle": "跑",
+      "count": 14,
+      "generated": false,
+      "search_terms": "concur cursory courier course curmudgeonly curriculum discourse discursive excursion pococurante precursor recur recurrence succor"
+    },
+    {
+      "id": "p2-68-fort",
+      "part": "part2",
+      "part_label": "Part 2 字根篇 (Roots)",
+      "name": "fort",
+      "subtitle": "強",
+      "count": 7,
+      "generated": false,
+      "search_terms": "discomfit forceful foreign forte fortify fortitude forward"
+    },
+    {
+      "id": "p2-69-grat",
+      "part": "part2",
+      "part_label": "Part 2 字根篇 (Roots)",
+      "name": "grat",
+      "subtitle": "令人愉悅；感謝",
+      "count": 9,
+      "generated": false,
+      "search_terms": "ingratiate gratuity gratify disagreement gracious graciousness gratis gratuitous ingratiating"
+    },
+    {
+      "id": "p2-70-voc-vok",
+      "part": "part2",
+      "part_label": "Part 2 字根篇 (Roots)",
+      "name": "voc；vok",
+      "subtitle": "呼叫",
+      "count": 16,
+      "generated": false,
+      "search_terms": "advocate avocation convocation convoke disavow equivocal evocation evocative evoke irrevocable provoke revoke vocal vocation vocational vociferate"
+    },
+    {
+      "id": "p2-71-mut",
+      "part": "part2",
+      "part_label": "Part 2 字根篇 (Roots)",
+      "name": "mut",
+      "subtitle": "改變",
+      "count": 9,
+      "generated": false,
+      "search_terms": "immutability immutable mutable mutant mutate mutation permutation transmutation transmute"
+    },
+    {
+      "id": "p2-72-plor",
+      "part": "part2",
+      "part_label": "Part 2 字根篇 (Roots)",
+      "name": "plor",
+      "subtitle": "哭喊；懇求",
+      "count": 3,
+      "generated": false,
+      "search_terms": "implore deplorable deplore"
+    },
+    {
+      "id": "p2-73-fer-lat",
+      "part": "part2",
+      "part_label": "Part 2 字根篇 (Roots)",
+      "name": "fer；lat",
+      "subtitle": "攜帶；產生",
+      "count": 42,
+      "generated": false,
+      "search_terms": "vociferous bibliolater burglar burglarize collateral defer deference deferential dilatory elated endnote ever-present feral fertile floriferous footnote glitterati heliolater heliolatrous heliolatry heterosexual homosexual idolatrous ill-composed ill-humored infer infertile inter vivos ipse dixit ipso facto larceny latitude latitudinarian monocle odoriferous perfervid plutolatry preference refer reference somniferous vociferate"
+    },
+    {
+      "id": "u-01-wreak-havoc-adverbiage",
+      "part": "unclassified",
+      "part_label": "未歸類 Unclassified",
+      "name": "Unclassified 01 ((wreak) havoc–adverbiage)",
+      "subtitle": "Alphabetical batch",
+      "count": 50,
+      "generated": false,
+      "search_terms": "(wreak) havoc abandonment abate abattoir abecedarian abet abide ablaze able ablutophobia abode aboveboard abreast abridge abundance abundant abysmal academia acceptable accidental accoucheur accuracy acerbic acerbity acidic acidulous acmatic acme acolyte acouasm acoustic acoustics acrid acrimonious acrimony acroamatic acrophobia acumen acute acute accent ad infinitum adage adamant addled adroit adulate adulation advantageous adventuresome adverbiage"
+    },
+    {
+      "id": "u-02-aegis-anesthesia",
+      "part": "unclassified",
+      "part_label": "未歸類 Unclassified",
+      "name": "Unclassified 02 (aegis–anesthesia)",
+      "subtitle": "Alphabetical batch",
+      "count": 50,
+      "generated": false,
+      "search_terms": "aegis aerial aeronausiphobia aesthetic aficionado afoot aglow agrarian agriculture aid aisle alacrity alchemy aleatory alembic alembicate alias alien alienate alimentary alligator allodoxaphobia alma mater alms aloof aloofness amalgamate ambidextrous ambisinister ambisinistrous ambivalence ambivalent amnesty amorphous ample amplify amusing anadiplosis analects analgesic anapest anaphora anaphoric anathema anchorite anchovy ancient androgynous anecdote anesthesia"
+    },
+    {
+      "id": "u-03-angelic-arcadian",
+      "part": "unclassified",
+      "part_label": "未歸類 Unclassified",
+      "name": "Unclassified 03 (angelic–arcadian)",
+      "subtitle": "Alphabetical batch",
+      "count": 50,
+      "generated": false,
+      "search_terms": "angelic anglomania anglophile anglophobia anguish annals anodyne anomalous anomaly anonymous anserine antediluvian antenna antepenultimate anteprandial anthropoid anthropologist anthropomorphic anthropomorphize antiquated antiquity anxiety anxious apace apartheid aperçu apex aphorism aphoristic aphrodisiac aplomb apocryphal apodictic apogee apologia apology apostasy apostate apostatize apotheosis apotheosize apparent apprise apropos arable arbitrary arbitration arbitrator arboreal arcadian"
+    },
+    {
+      "id": "u-04-archaic-atone",
+      "part": "unclassified",
+      "part_label": "未歸類 Unclassified",
+      "name": "Unclassified 04 (archaic–atone)",
+      "subtitle": "Alphabetical batch",
+      "count": 50,
+      "generated": false,
+      "search_terms": "archaic archangel archbishop archduke archenemy archetype archfiend architect ardent ardor arduous argot argumentative arid aristocratic aromatic arouse arrant arriviste arroyo arsonist artful arthritis articulate artisan artless ascetic ashen ashore asinine askance askew asleep asperity assassination assiduousness asterisk astronaut astronomer astronomy astrophysics astute astuteness asylum asyndeton ataxiophobia atheist atheistic atmospheric atone"
+    },
+    {
+      "id": "u-05-atrabilious-bacteriophobia",
+      "part": "unclassified",
+      "part_label": "未歸類 Unclassified",
+      "name": "Unclassified 05 (atrabilious–bacteriophobia)",
+      "subtitle": "Alphabetical batch",
+      "count": 50,
+      "generated": false,
+      "search_terms": "atrabilious atrocious atrocity atrophy attack atypical au courant aubade audacity auger augment augur augury austere authentic authenticate authoritarian authorization authorize autobiography autochthonous autocracy autocratic autodidact autodidactic autograph automatic autonomy autopsy autumnal avarice avaricious avian aviary aviatophobia avid avoid avuncular awesome awkward awry axiom azygophrenia bacchanal bacchanalia bacchanalian bacchant backbiting backward bacteriophobia"
+    },
+    {
+      "id": "u-06-bacterium-befuddle",
+      "part": "unclassified",
+      "part_label": "未歸類 Unclassified",
+      "name": "Unclassified 06 (bacterium–befuddle)",
+      "subtitle": "Alphabetical batch",
+      "count": 50,
+      "generated": false,
+      "search_terms": "bacterium badaud badger badinage baffle bagatelle baleful balk ballad ballerina bamboozle ban banal banalities banality bandit bane baneful banter bar barbican barbiturate bard barometer barren barricade bartizan base baseness bashful bashfulness basis bathetic bathos battery battlement battologize bauble bawdy beastly beatific beatitude beau brummel beau monde beautify becalm bedaub bedim bedlam befuddle"
+    },
+    {
+      "id": "u-07-befuddled-bibliophile",
+      "part": "unclassified",
+      "part_label": "未歸類 Unclassified",
+      "name": "Unclassified 07 (befuddled–bibliophile)",
+      "subtitle": "Alphabetical batch",
+      "count": 50,
+      "generated": false,
+      "search_terms": "befuddled begrime begrudge beguile beguiled beguiling behead behemoth belated belie belittle belittling bellicose belligerent bellwether bemoan bemuse benevolent benighted benumb bequeath berate bereave bereaved bereavement bereft beseech beset besiege beslime beslobber besmear besmirch besotted besprinkle bestial beware bewilder bewitch bias biased bibelot bibliobibuli biblioclast bibliography biblioklept bibliomania bibliophage bibliophagic bibliophile"
+    },
+    {
+      "id": "u-08-bibliophilic-boisterous",
+      "part": "unclassified",
+      "part_label": "未歸類 Unclassified",
+      "name": "Unclassified 08 (bibliophilic–boisterous)",
+      "subtitle": "Alphabetical batch",
+      "count": 50,
+      "generated": false,
+      "search_terms": "bibliophilic bibliophobe bibliophobia bibliopolist bibliothecary bibulous bigot bigoted bildungsroman bilk billet-doux billingsgate biography biopsy biting bitterness bizarre bizarre blabbermouth blackguard blanched bland blandish blandishment blank blasé blatant blather blatherer blathering blatherskite blattoid blazing blemish blight bliss blissful blister blithe blockhead bloodless blue-blooded blue-collar blunt bluster boanthropy boeotian bogus boil boisterous"
+    },
+    {
+      "id": "u-09-bold-broad",
+      "part": "unclassified",
+      "part_label": "未歸類 Unclassified",
+      "name": "Unclassified 09 (bold–broad)",
+      "subtitle": "Alphabetical batch",
+      "count": 50,
+      "generated": false,
+      "search_terms": "bold bolster bombast bombastic bona fide bonafide bonanza bonehead bookmobile boon boor boorish boot bootless borax borborygmus boredom borough-english borrow botanist botany bougainvillea bounteousness bountiful bountifulness bourgeois boustrophedon boustrophendonically bovine bowdlerize boxer boxing brachiate brachiation bracing brag braggadocio braggart brainwash brash brazen breve brevity brigand brilliant brimming briskness bristle bristle at broad"
+    },
+    {
+      "id": "u-10-broad-minded-calaboose",
+      "part": "unclassified",
+      "part_label": "未歸類 Unclassified",
+      "name": "Unclassified 10 (broad-minded–calaboose)",
+      "subtitle": "Alphabetical batch",
+      "count": 50,
+      "generated": false,
+      "search_terms": "broad-minded brobdingnagian bromance bromide bromidic bruit brummagem brusque bruxomania buckaroo bucolic buff buffet buffoon bufoniform bulimia bulky bulletin bulwark bumpkin bungling buoyant burgeoned burlesque burly burnish burro busy busybody butt in buttress bypass bête noire cabal cabala cache cachet cachinnate cachinnation cackle cacodoxy cacoeconomy cacoepy cacoethes cacography caconym caduceus cajole cajolery calaboose"
+    },
+    {
+      "id": "u-11-calamity-cataclysm",
+      "part": "unclassified",
+      "part_label": "未歸類 Unclassified",
+      "name": "Unclassified 11 (calamity–cataclysm)",
+      "subtitle": "Alphabetical batch",
+      "count": 50,
+      "generated": false,
+      "search_terms": "calamity calced calibrate caliginous calligraphy calling callous callous callow calm calotte calumniate calumnious calumny camaraderie camcorder camouflage canard cancel candid candor canine cannibal canny canonization cant cantankerous canvas capital capitulate capitulum capricious captain cardiogram cardiograph careful carelessly caricature carillonneur carnage carnal carnality carnelian carnivorous carouse carp carping cartomancy catachresis cataclysm"
+    },
+    {
+      "id": "u-12-cataclysmic-charrette",
+      "part": "unclassified",
+      "part_label": "未歸類 Unclassified",
+      "name": "Unclassified 12 (cataclysmic–charrette)",
+      "subtitle": "Alphabetical batch",
+      "count": 50,
+      "generated": false,
+      "search_terms": "cataclysmic catalyze catastrophe catastrophic catechize catechumen categorical catharsis cathartic cathect cathected cathexis catholic catholicity catholicon caucus cause cause célèbre caustic caution cautious cavalcade cavalier caveat emptor cavil caviling cavort cedilla celerity celestial celsius censor censorious censurable censure centenarian cerebral chafe chagrin champion changeable chaos chaparral chaps characterization charisma charitable charlatan charm charrette"
+    },
+    {
+      "id": "u-13-chary-churlish",
+      "part": "unclassified",
+      "part_label": "未歸類 Unclassified",
+      "name": "Unclassified 13 (chary–churlish)",
+      "subtitle": "Alphabetical batch",
+      "count": 50,
+      "generated": false,
+      "search_terms": "chary chaste chastise chatoyant chatterbox chauffeur chauvinism chauvinist cheapskate cheek cheeky cheerful cheerfulness cheerless chef-d'oeuvre chef-d'œuvre cherish chiaroscuro chicanery chide childish childlike chile chilean chimera chimerical chink chirognomy chirography chiromancy chiropodist chiropody chiropractic chiropractor chivalrous chivalry choke choler choleric choreography chortle chronic chronophobia chrysalis chrysanthemum chryselephantine chrysocracy chuckle churl churlish"
+    },
+    {
+      "id": "u-14-cicerone-comedienne",
+      "part": "unclassified",
+      "part_label": "未歸類 Unclassified",
+      "name": "Unclassified 14 (cicerone–comedienne)",
+      "subtitle": "Alphabetical batch",
+      "count": 50,
+      "generated": false,
+      "search_terms": "cicerone cimmerian cinch circuitous circular civic civil clairvoyance clamor clamorous clandestine clarify claustrophobia clearheaded cleave cleft clemency clement clergy clerical clever cliche cliché clink clinquant clique clod clodhopper cloy cloying clumsy coax cobbler cockalorum cogitate cognition cognoscente cognoscenti coiffeur coiffure cold-bloodedness colloquialism colloquium colloquy colorless colossal colossus colporteur combustion comedienne"
+    },
+    {
+      "id": "u-15-comely-coup",
+      "part": "unclassified",
+      "part_label": "未歸類 Unclassified",
+      "name": "Unclassified 15 (comely–coup)",
+      "subtitle": "Alphabetical batch",
+      "count": 50,
+      "generated": false,
+      "search_terms": "comely comity commentariat commode common commonplace communiqué compensate complaisant comply computerese comstockery connivance consul consulate consult consummation contoured contrarian contrary contretemps conundrum cope cope with copious coquette corbel cornucopia coronation corporeal corpse corpulence corpulent corpus corpuscle corrigendum coruscating corvine corybant corybantic corybantism cosmonaut cosmopolitan cosset cosseted costive costly coterie counsel coup"
+    },
+    {
+      "id": "u-16-coup-de-grace-cruciverbalist",
+      "part": "unclassified",
+      "part_label": "未歸類 Unclassified",
+      "name": "Unclassified 16 (coup de grâce–cruciverbalist)",
+      "subtitle": "Alphabetical batch",
+      "count": 50,
+      "generated": false,
+      "search_terms": "coup de grâce coupon courteous courteousness courtesan courtly courtship covert covet covetous covetousness coxcomb coyote cozen crabbed crabbedness crafty cram crammed cranky cranny crap crapulence crapulent crapulous crave craven crazed crenel crepitaculum crepitant crepitate crepitation crepuscular crescendo crescent crevice cri de coeur crisis criteria criterion critic critical criticize critique crocus cross crotchet crotchety cruciverbalist"
+    },
+    {
+      "id": "u-17-crude-dean",
+      "part": "unclassified",
+      "part_label": "未歸類 Unclassified",
+      "name": "Unclassified 17 (crude–dean)",
+      "subtitle": "Alphabetical batch",
+      "count": 50,
+      "generated": false,
+      "search_terms": "crude crusty crypt cryptic culinary cull culminate culmination culpable culprit cultivate cultivated cultured cumbersome cumulative cunning cupidity curry curse curt curtail customary cutthroat cutting cynanthropy cynic cynical cynicism cynosure cyst dactyl daily dais dalliance dally damn dandy danseur dash data datum daunt daunting dawning daze dazzling de rigueur de trop deafening dean"
+    },
+    {
+      "id": "u-18-dearth-dexterity",
+      "part": "unclassified",
+      "part_label": "未歸類 Unclassified",
+      "name": "Unclassified 18 (dearth–dexterity)",
+      "subtitle": "Alphabetical batch",
+      "count": 50,
+      "generated": false,
+      "search_terms": "dearth debauch debilitated debility decade deceitful deceitfulness decent decorous decorum deem deep-rooted defeasance defeasible defendant defile defray deft deign deipnosophist deipnosophistic deity delectation deleterious delicate delight delve demagoguery demean demigod demilune demimonde democracy demographer demography demonophobia demotic demure denouement dermatitis dermatophobia desperado despot despotic despotism detritus developing devout dexter dexterity"
+    },
+    {
+      "id": "u-19-dexterous-doctrine",
+      "part": "unclassified",
+      "part_label": "未歸類 Unclassified",
+      "name": "Unclassified 19 (dexterous–doctrine)",
+      "subtitle": "Alphabetical batch",
+      "count": 50,
+      "generated": false,
+      "search_terms": "dexterous diabolical diastema dichotomy dicta dictatorial diction dictum didactic didactics diehard dieresis digest dignified dignify dignitary dignity dilemma dilettante diligent dim dim-witted din diphthong dipsomania dire dirge disciple discount disengage dishabillophobia disheartened dismal disorienting dispatch distaff distraught dither diurnal diva divination divine divisive dizziness do-nothing docent docile docility doctrinaire doctrine"
+    },
+    {
+      "id": "u-20-doddering-dulcet",
+      "part": "unclassified",
+      "part_label": "未歸類 Unclassified",
+      "name": "Unclassified 20 (doddering–dulcet)",
+      "subtitle": "Alphabetical batch",
+      "count": 50,
+      "generated": false,
+      "search_terms": "doddering dodge dog's-bane dogged dogma dogmatic doleful dolor dolorous dolour dolt domesticate domicile dominance donjon doppelganger doppelgänger dormant dorsal dorsum dossier dotage dotard dote double entendre doubtful dour downhearted doxasitc doxy doyen doyenne drab draconian dramatic drawbridge dreary dregs drenched droll drollery droop drown drudge drudgery dry dubiety dubious dudgeon dulcet"
+    },
+    {
+      "id": "u-21-dull-edifying",
+      "part": "unclassified",
+      "part_label": "未歸類 Unclassified",
+      "name": "Unclassified 21 (dull–edifying)",
+      "subtitle": "Alphabetical batch",
+      "count": 50,
+      "generated": false,
+      "search_terms": "dull dullard dumbfound dunce dunderhead dungeon dupe duplicitous duplicity duration duress dustophobia dutiful dwarf dwindle dyed-in-the-wool dynamic dysgraphia dyslexia dysmenorrhea dysmorphophobia dysosmia dyspepsia dyspeptic dysphagia dysphemism dysphoria dyspnea déjà entendu déjà lu déjà vu eager earnest earnestness earsplitting earthshaking ease ebb ebullience ebullition ecclesiastical eclat eclipse economical ecstatic ecumenical edacious edification edify edifying"
+    },
+    {
+      "id": "u-22-egg-on-epicureanism",
+      "part": "unclassified",
+      "part_label": "未歸類 Unclassified",
+      "name": "Unclassified 22 (egg on–epicureanism)",
+      "subtitle": "Alphabetical batch",
+      "count": 50,
+      "generated": false,
+      "search_terms": "egg on egoism egoist egomaniacal egotism egotist egotistical elan electrocardiograph eleemosynary elegance elegant elegiac elegy elementary elephantine elite elitist elixir ellipsis elliptical embargo embezzle emblem emblematic emolument emphatic empire emulate en masse enchilada encomiast encompass encore endocardial endodontics endodontist endogamy engaging enigma enigmatic ennui enthrall entourage entrails entrepreneur envoy epicure epicurean epicureanism"
+    },
+    {
+      "id": "u-23-epistolary-exoteric",
+      "part": "unclassified",
+      "part_label": "未歸類 Unclassified",
+      "name": "Unclassified 23 (epistolary–exoteric)",
+      "subtitle": "Alphabetical batch",
+      "count": 50,
+      "generated": false,
+      "search_terms": "epistolary epoch epochal equable equate equestrian equestrienne equilibrium equine equinox equitable equivocate equivocation eremite eristic err erratic erroneous erubescent escalation escapade escapee eschew esoteric espouse espresso esprit esprit de corps esprit de l'escalier estimable estival estivate estrange etc. eternal ether ethereal ethical ethics etiquette eucharist even everlasting exemplary exemplify exemption exigency exiguity exiguous exoteric"
+    },
+    {
+      "id": "u-24-expert-feces",
+      "part": "unclassified",
+      "part_label": "未歸類 Unclassified",
+      "name": "Unclassified 24 (expert–feces)",
+      "subtitle": "Alphabetical batch",
+      "count": 50,
+      "generated": false,
+      "search_terms": "expert extremist eyesore fabricate fabricate fabricated fahrenheit failing faineance faint faint-heartedness fainthearted fainéant faithful faithless falcate fallacious fallacy fallible falter famished famous fan fanatical fanciful fanfare fanfaronade farce farceur farcical farraginous farrago farther fashionable fashionista fastidious fatal fate fathom fatigue fatigued fatuity fatuous faultfinding favorable fawn fawning febrifuge febrile feces"
+    },
+    {
+      "id": "u-25-feculence-flexible",
+      "part": "unclassified",
+      "part_label": "未歸類 Unclassified",
+      "name": "Unclassified 25 (feculence–flexible)",
+      "subtitle": "Alphabetical batch",
+      "count": 50,
+      "generated": false,
+      "search_terms": "feculence feculent feeble feign feint felicitous felicity feline felon feminist ferment fervent fervid fetid fetter fiasco fiat fickle fictious fiddledeedee fidelity figurative filch filigree firebrand fistic fisticuffs fitful fixed flabbergast flabbergasted flaccid flag flagellant flagellate flagellation flagitious flagrant flair flamboyant flaneur flashy flat flattery flatus flay fledgling fleece fleeting flexible"
+    },
+    {
+      "id": "u-26-flighty-fortunate",
+      "part": "unclassified",
+      "part_label": "未歸類 Unclassified",
+      "name": "Unclassified 26 (flighty–fortunate)",
+      "subtitle": "Alphabetical batch",
+      "count": 50,
+      "generated": false,
+      "search_terms": "flighty flippancy flippant floccinaucinihilipilification flocculate floccule flocculent floccus flog floral floriated floriculture florid florist flourish flout fluctuate fluctuation fluent fluid flummox fluster foible foil foilage foist follower foment fondness foodie foolhardy foolish foolishness fop forage forbearance forbearing forbid forbidding forestall foretell forge forlorn forsake forswear forthright forthrightness forthwith fortuitous fortunate"
+    },
+    {
+      "id": "u-27-fortune-gaffe",
+      "part": "unclassified",
+      "part_label": "未歸類 Unclassified",
+      "name": "Unclassified 27 (fortune–gaffe)",
+      "subtitle": "Alphabetical batch",
+      "count": 50,
+      "generated": false,
+      "search_terms": "fortune forum foster fracas fraction fractious fragile fragrant frail frailty francophobia frangible frank frantic fraternize fraud fraudulent fraught fray frenetic frenzied frenzy fresh fretful friable friendliness frijol friseur frisky frisson frivolity frivolous froideur frolicsome frugal fruitless frustrate fugacious fugitive fuliginous fulminate fulmination fulsome fungus further furtive fury futility gadfly gaffe"
+    },
+    {
+      "id": "u-28-gainsay-gleeful",
+      "part": "unclassified",
+      "part_label": "未歸類 Unclassified",
+      "name": "Unclassified 28 (gainsay–gleeful)",
+      "subtitle": "Alphabetical batch",
+      "count": 50,
+      "generated": false,
+      "search_terms": "gainsay galeanthropy gall gallant gallimaufry gallophobia galoot galumph galvanize gamut garbled gargantuan gargoyle garish garner garrulous gasconade gastronome gatehouse gauche gaucherie gaudy gaunt gavelkind geld gelding gemütlich geocentric geography geometry geophagy germane germanophobia gesticulate gesticulation gesundheit gewgaw gibbous gibe giddy gigantomachy giggle gimcrack gimcrackery glabrous glacial glaring gleaming glean gleeful"
+    },
+    {
+      "id": "u-29-glib-guess",
+      "part": "unclassified",
+      "part_label": "未歸類 Unclassified",
+      "name": "Unclassified 29 (glib–guess)",
+      "subtitle": "Alphabetical batch",
+      "count": 50,
+      "generated": false,
+      "search_terms": "glib glimmering glistening gloomy glorify glorious gloss glut glutton gluttonous gluttony goad gob gorge gorged gorgonize gormandize gourmand gourmet grand dame grandeur grandiose graphite graphospasm grapple grasping grating grave graveolent gravity grecophobia greed greedy greenhorn gregarious grievance grievous grimace grisette grog grogram gross grotesque grouchy grovel groveling grow grudge gruff guess"
+    },
+    {
+      "id": "u-30-guesstimate-hauteur",
+      "part": "unclassified",
+      "part_label": "未歸類 Unclassified",
+      "name": "Unclassified 30 (guesstimate–hauteur)",
+      "subtitle": "Alphabetical batch",
+      "count": 50,
+      "generated": false,
+      "search_terms": "guesstimate guffaw guide guile guileful guileless guillotine guilty guise gull gullible guru gustation gustatory gusto gutless hacienda hack hackney hackneyed haggard hairdresser halcyon halfwit hallow hallowed hallucination hamper handbill handicap handkerchief handy hanger-on haphazard hapless harangue harass harbinger harbor hardy harlot harmonious harmony harridan harrowing harry hasten haughtiness haughty hauteur"
+    },
+    {
+      "id": "u-31-haven-hierarch",
+      "part": "unclassified",
+      "part_label": "未歸類 Unclassified",
+      "name": "Unclassified 31 (haven–hierarch)",
+      "subtitle": "Alphabetical batch",
+      "count": 50,
+      "generated": false,
+      "search_terms": "haven hayseed headstrong healthful heartbroken heartrending heavenly heavyhearted hebdomad hebdomadal hebetate hebetude hebetudinous hebetutudinous heckle hectic hector hectoring hedonism hedonist heed heedful heedlessness hegemon hegemonic hegemony heinous heliocentric heliotherapy heliotropism helpless henbane henchman herald herbivorous herculean heresy heretical hermaphrodite hermaphroditic heterodox heterodoxy hiatus hibernal hibernate hibernation hidalgo hidebound hiemal hierarch"
+    },
+    {
+      "id": "u-32-hieratic-hostility",
+      "part": "unclassified",
+      "part_label": "未歸類 Unclassified",
+      "name": "Unclassified 32 (hieratic–hostility)",
+      "subtitle": "Alphabetical batch",
+      "count": 50,
+      "generated": false,
+      "search_terms": "hieratic hierocracy high-flown high-handed high-minded high-strung highborn highbrow highfalutin highlight highly strung highwayman hilarious hinder hint hippopotomonstrosesquipedalian hircine hireling hirsute hispid historic histrionic histrionics hoard hoax hobble hocus-pocus hodgepodge hoi polloi hoity-toity hollow holocaust homage hombre homely homily homonym homunculus honesty honorable hoodlum hoodwink hooligan hoosegow hoplite horripilate hortatory hospitable hostile hostility"
+    },
+    {
+      "id": "u-33-hot-bloodedness-imperialism",
+      "part": "unclassified",
+      "part_label": "未歸類 Unclassified",
+      "name": "Unclassified 33 (hot-bloodedness–imperialism)",
+      "subtitle": "Alphabetical batch",
+      "count": 50,
+      "generated": false,
+      "search_terms": "hot-bloodedness hotchpotch however hubris hubristic huff huge human humane humanitarian humble humbleness humdrum humility hurricane hurried hurry hypnotize hypocorism hypocritical iamb iambic iatric iconoclast iconoclastic ideal idee fixe^ idiosyncrasy idiosyncratic idosyncracy idyllic ignoramus ilk ill-arrangeg ill-contrived illinois imaginative imagine imbecile imbroglio imbrue imbue imbued imitate imitation immolate immolation imperative imperial imperialism"
+    },
+    {
+      "id": "u-34-imperious-irritation",
+      "part": "unclassified",
+      "part_label": "未歸類 Unclassified",
+      "name": "Unclassified 34 (imperious–irritation)",
+      "subtitle": "Alphabetical batch",
+      "count": 50,
+      "generated": false,
+      "search_terms": "imperious imperiousness imperium impetuosity impresario imprimatur impromptu inane inanity incendiarist incendiary incunabula indemnification index indigence indigent indulge industrious inertia infantile infernal inferno infinitesimal infinitude infomercial ingenue^ ingenuousness insular integrity intellectual intelligible intensify internist intimate intimation intrinsic intuit intuition intuitive inveigle iota iraq irascibility irascible irate ire iridescent irksome irony irritation"
+    },
+    {
+      "id": "u-35-isolate-kitchenette",
+      "part": "unclassified",
+      "part_label": "未歸類 Unclassified",
+      "name": "Unclassified 35 (isolate–kitchenette)",
+      "subtitle": "Alphabetical batch",
+      "count": 50,
+      "generated": false,
+      "search_terms": "isolate italian itinerant itinerary jactitation jaded japanophobia jargon jealousy jeer jejune jejunum jeopardize jeremiad jewelry jingo jingoism jingoist jingoistic jocose jocosity jocular jocularity jocund jocundity jongleur jostle jovial joviality jubilant judge judgment judicial judiciary judicious jurisdiction juror juvenescent juvenile juvenilia karma keen keeper keeperess kickshaw kindle kinship kismet kissing kitchenette"
+    },
+    {
+      "id": "u-36-kleptomania-lazy",
+      "part": "unclassified",
+      "part_label": "未歸類 Unclassified",
+      "name": "Unclassified 36 (kleptomania–lazy)",
+      "subtitle": "Alphabetical batch",
+      "count": 50,
+      "generated": false,
+      "search_terms": "kleptomania knave knell knickknack knight ku klux klan kudos laborious labyrinth labyrinthine lacerate laceration lachrymose lackadaisical lackey lacking lackluster laconic lacuna laden lagniappe laissez-faire laity lambent lament lamentable lampoon landmark languid languish languor languorous laodicean lapidary lapse lapsus largess lariat lascivious lassitude lassitude lasso latent laud laudable laudanum laudatory lavish lax lazy"
+    },
+    {
+      "id": "u-37-lean-lily-livered",
+      "part": "unclassified",
+      "part_label": "未歸類 Unclassified",
+      "name": "Unclassified 37 (lean–lily-livered)",
+      "subtitle": "Alphabetical batch",
+      "count": 50,
+      "generated": false,
+      "search_terms": "lean leaning learned lecher lecture legacy legalize legerdemain legion legitimate lengthen lenient leonine lethal lethargic lethargy lettered level-headed levelheaded leviathan levigate levitate levitation levity lewd lexicographer lexicography lexicology lexiphanes lexiphanic lexiphanicism liability liaison libation libel liberal liberality libertarian libertine libidinous libido librarian library license licentious lickerish lifeless lightheaded lilliputian lily-livered"
+    },
+    {
+      "id": "u-38-limber-luddite",
+      "part": "unclassified",
+      "part_label": "未歸類 Unclassified",
+      "name": "Unclassified 38 (limber–luddite)",
+      "subtitle": "Alphabetical batch",
+      "count": 50,
+      "generated": false,
+      "search_terms": "limber limpid linchpin line lineaments linear linger lingua franca linguine lion lionize liqueur liquidation lissome listless listlessness lithe litigious litterateur liveliness lively livid loath loathe loathsome loco lofty lonely long-winded longevity longshoreman loophole loose loot louche lounger loutish lovelorn lowborn lowbrow loyal lubberly lubricious lucid lucrative lucubrate lucubration lucubucration lucuburatory luddite"
+    },
+    {
+      "id": "u-39-ludicrous-manageable",
+      "part": "unclassified",
+      "part_label": "未歸類 Unclassified",
+      "name": "Unclassified 39 (ludicrous–manageable)",
+      "subtitle": "Alphabetical batch",
+      "count": 50,
+      "generated": false,
+      "search_terms": "ludicrous lugubrious lugubriously lugubriousness lukewarm lumen luminary luminosity luminous lummox lupine lurid lush luster lustful lycanthrope lycanthropy macabre Machiavellian machicolation machination macron macula maculate madicancy maelstrom maggot magic magisterial magistrate magpie maim majestic majuscule malapropism malapropos malediction malevolence malevolent malice malicious malignant malignity malinger malingerer malleable malodorous mammoth manacle manageable"
+    },
+    {
+      "id": "u-40-manager-mediative",
+      "part": "unclassified",
+      "part_label": "未歸類 Unclassified",
+      "name": "Unclassified 40 (manager–mediative)",
+      "subtitle": "Alphabetical batch",
+      "count": 50,
+      "generated": false,
+      "search_terms": "manager mandate mandatory manifest manifold manikin manipulate mannequin mannerly mar marathon margaritaceous margin marginal marginalia marginalize mariticide marmoreal marshal martinet masseur massive masterful masterly masterpiece masticate mastication mastiff matador matchless materfamilias materialism maternity mathematics matins matrimony matutinal maudlin maunder maven maverick mawkish maxim mayoral meager meander meandering meddle mediate mediative"
+    },
+    {
+      "id": "u-41-mediocre-militant",
+      "part": "unclassified",
+      "part_label": "未歸類 Unclassified",
+      "name": "Unclassified 41 (mediocre–militant)",
+      "subtitle": "Alphabetical batch",
+      "count": 50,
+      "generated": false,
+      "search_terms": "mediocre meditate medium medley meek megalocardia megalomania megalomaniac megalopod megalopolis melancholy melange^ melioration mellifluous mellow melodious melodramatic memento memento mori memorandum mendacious mendacity mendicant menial mentor mephitic mercenary merciful mercurial meretricious meretrix meritorious merlon merry mesa mescal mesmerize meticulous metier^ metronome metropolitan mettle microscopic midget mien mignon mignonne migratory milieu militant"
+    },
+    {
+      "id": "u-42-military-monotony",
+      "part": "unclassified",
+      "part_label": "未歸類 Unclassified",
+      "name": "Unclassified 42 (military–monotony)",
+      "subtitle": "Alphabetical batch",
+      "count": 50,
+      "generated": false,
+      "search_terms": "military militate mimic minacious minatory mince mingle-mangle minim minion ministerial minuscule minute mirthful misadventure misandrist misandry misanthrope misanthropic misanthropy miscellaneous miscellany miserable miserliness miserly misery mishmash misogamist misogynist misogyny mnemonic mnemonics mock moderate modest modesty modicum modulate mold molder moldering mole mondegreen money-grubbing monitory monogamy monogram monograph monomaniac monotonous monotony"
+    },
+    {
+      "id": "u-43-monstrous-nauseating",
+      "part": "unclassified",
+      "part_label": "未歸類 Unclassified",
+      "name": "Unclassified 43 (monstrous–nauseating)",
+      "subtitle": "Alphabetical batch",
+      "count": 50,
+      "generated": false,
+      "search_terms": "monstrous monumental moonstruck morass mordant moreover mores morganatic moribund moron morose moroseness mortal mortality mountebank mournful muddle muliebrity mull multifarious multipara multiparous multitudinous mumpsimus mundane murder murky muse myopic myriad myrmidon mysterious mystery mystify mystifying métier nacre nacreous nadir nagging naive narcissism narcissist narcissistic narrow-minded nascency nascent natural nausea nauseating"
+    },
+    {
+      "id": "u-44-nautical-noesis",
+      "part": "unclassified",
+      "part_label": "未歸類 Unclassified",
+      "name": "Unclassified 44 (nautical–noesis)",
+      "subtitle": "Alphabetical batch",
+      "count": 50,
+      "generated": false,
+      "search_terms": "nautical ne'er-do-well nebula nebular nebulous nectar nefarious negate neglect negligent negligible nemesis neophobia neophyte nepenthe nepotism nepotistic nerd nerve nettle neuralgia neuritis neurosis neurotic neutrality neutralize nevertheless newfound newscast nicety nickname niggard niggardly niggle nihilism nihilist nihilistic nil nimble nincompoop nirvana nitpick nix no-account noble noblesse oblige noctivagant noctivagation nocturnal noesis"
+    },
+    {
+      "id": "u-45-noetic-occasional",
+      "part": "unclassified",
+      "part_label": "未歸類 Unclassified",
+      "name": "Unclassified 45 (noetic–occasional)",
+      "subtitle": "Alphabetical batch",
+      "count": 50,
+      "generated": false,
+      "search_terms": "noetic noisome nom de plume nomadic nomenclator nomenclature nominal nonagenarian nonplus nonplussed normal nostalgia nostalgic nostrum notional notoriety notorious noxious nuance nuanced nubilous nuclear nude nudity nugacity nugatory nullibiety nullibiquitous nullipara nulliparous numbskull numen numinous numismatist nurture nutritive oath obeisance obese objectionable objet d'art objurgate objurgation obligatory oblivion oblivious obscene obstetrician obvious occasional"
+    },
+    {
+      "id": "u-46-occidental-opulent",
+      "part": "unclassified",
+      "part_label": "未歸類 Unclassified",
+      "name": "Unclassified 46 (occidental–opulent)",
+      "subtitle": "Alphabetical batch",
+      "count": 50,
+      "generated": false,
+      "search_terms": "occidental occupatio octogenarian octopus oddity odious odiousness odium odorous oeuvre offal offend offhand officious offshoot oleaginous olio olla omen ominous omnibus omnidirectional omnifarious omnipotent omnipresent omnivorous oneiromancy onerous onomatopoeia onomatopoetic onset onus onycholysis onychophagist onychophagy opaque open-handed open-minded operative ophidian opine opinion opinionated opprobrious oppugn optician optimistic optometrist opulence opulent"
+    },
+    {
+      "id": "u-47-oral-overwrought",
+      "part": "unclassified",
+      "part_label": "未歸類 Unclassified",
+      "name": "Unclassified 47 (oral–overwrought)",
+      "subtitle": "Alphabetical batch",
+      "count": 50,
+      "generated": false,
+      "search_terms": "oral orangutan orate oration orator ordinary originate ornamental ornate orthodontia orthodontics orthodontist orthodox orthoepy orthography orthopaedics orthopedist orthoscopic oscillate oscitancy oscitant osculation ostracism ostracize otiose oubliette oust outgrowth outlandish outmoded outrageous outre^ outré outspokenness outstrip outworn overbearing overcome overconfident overlook overreact overshadow overspread overt overthrow overtly overween overweening overwhelmed overwrought"
+    },
+    {
+      "id": "u-48-oviform-paterfamilias",
+      "part": "unclassified",
+      "part_label": "未歸類 Unclassified",
+      "name": "Unclassified 48 (oviform–paterfamilias)",
+      "subtitle": "Alphabetical batch",
+      "count": 50,
+      "generated": false,
+      "search_terms": "oviform ovine oviparous oxymoron oxymoronic oxytocic pachyderm paean paediatrics pain palatable palaverer pale palette palindrome pall palliate pallid pallor palmistry palpable palpate palpation palter paltry pamphlet panache pander pandiculation panoply paradigmatic paralyze paramour pariah parisienne parity parochial parsimonious parsimony partiality partisan parturient parturition parvenu pasquinade past master pasteurize pastiche pastoral paterfamilias"
+    },
+    {
+      "id": "u-49-paternity-persevering",
+      "part": "unclassified",
+      "part_label": "未歸類 Unclassified",
+      "name": "Unclassified 49 (paternity–persevering)",
+      "subtitle": "Alphabetical batch",
+      "count": 50,
+      "generated": false,
+      "search_terms": "paternity patois patrimony patronymic paucity pavonine peaceable peak peccable peccadillo peccant peculate peculation pecuniary pedagogic pedagogue pediatrician pedodontist peer peerless peevish pejorate pejoration pejorative penal penalty penance penetrable penitence penitent penne penny-pinching pentagon penult penultimate penurious penuriousness penury peon peonage peregrinate peregrine perendinate periapt perk permeable permeated perorate peroration persevering"
+    },
+    {
+      "id": "u-50-persifleur-pilgrimage",
+      "part": "unclassified",
+      "part_label": "未歸類 Unclassified",
+      "name": "Unclassified 50 (persifleur–pilgrimage)",
+      "subtitle": "Alphabetical batch",
+      "count": 50,
+      "generated": false,
+      "search_terms": "persifleur personable persuade pert perturb perturbation perturbator perturbed perturber pervade pervading pesky pet name petalism petition pettifog pettifogger pettifoggery petty petulance petulant pharmacist pharmacophobia phenomenon philander philanderer philandering philanthropic philanthropist philanthropy philatelist philemaphobia philharmonic philharmonics philia philippic philistine philodox philosophy phiodox phlegm phlegmatic phobia phobophobia picaresque picaroon piddling piece de resistance^ pied-a-terre^ pilgrimage"
+    },
+    {
+      "id": "u-51-pillage-plutocrat",
+      "part": "unclassified",
+      "part_label": "未歸類 Unclassified",
+      "name": "Unclassified 51 (pillage–plutocrat)",
+      "subtitle": "Alphabetical batch",
+      "count": 50,
+      "generated": false,
+      "search_terms": "pillage pimple pinnacle pinto pious piquant pique piscine pit pitfall pithiness pithy pitiable pittance placard placate placatory placid placidity plain plain-spoken plaint plaintiff plaintive plangent platitude platitudinarian platitudinize platitudinous platypus plaudits plausible playboy pleasure plebeian plebian plebs pleonasm pleonast pleonastic plethora plethoric pliable pliant pliers plight plunder plundering plutocracy plutocrat"
+    },
+    {
+      "id": "u-52-plutomania-pragmatic",
+      "part": "unclassified",
+      "part_label": "未歸類 Unclassified",
+      "name": "Unclassified 52 (plutomania–pragmatic)",
+      "subtitle": "Alphabetical batch",
+      "count": 50,
+      "generated": false,
+      "search_terms": "plutomania poach podiatrist podium podrida poignant poinsettia pointless poise polarized polemic polemical polemicist polemics polished polite poltergeist poltroon polyandry polygamy polyglot polygraph polyhistor polymath polymathic polymathy polyp polypragmon polysyndeton pomposity pompous poncho ponder ponderable ponderous popinjay popularize porcine posh postulate potable potent potentate potential potpourri pound poverty-stricken practicable practical pragmatic"
+    },
+    {
+      "id": "u-53-praise-proletariat",
+      "part": "unclassified",
+      "part_label": "未歸類 Unclassified",
+      "name": "Unclassified 53 (praise–proletariat)",
+      "subtitle": "Alphabetical batch",
+      "count": 50,
+      "generated": false,
+      "search_terms": "praise prandial prankish prate prattle prattler prattling precarious preceptor precipitous precis^ precociousness predatory predicament presbycisis presbycusis presbyopia presbyter presbyterian presbytery preserving prestidigitation prestidigitator prestigious preterition preternatural prevaricate prevaricating prickmedainty prim primer primeval primipara primiparous primitive princox pristine private privation privative pro bono pro bono publico pro tempore probability probity process procrustean profess proletarian proletariat"
+    },
+    {
+      "id": "u-54-prolix-publicize",
+      "part": "unclassified",
+      "part_label": "未歸類 Unclassified",
+      "name": "Unclassified 54 (prolix–publicize)",
+      "subtitle": "Alphabetical batch",
+      "count": 50,
+      "generated": false,
+      "search_terms": "prolix prolonged promiscuous promulgation promulgator prone pronto pronunciation prophesy propinquity propitiate propitiation propriety prorogue prosaic prose proselyte proselytize prosperity prosperous prostate prostrate protean protest protocol prototype protuberance protuberant provenance proverb provincial prowess proximity prudence prudent prudently prudish prurient précis pseudandrist pseudandry pseudogyny pseudonym psttiacine psychiatrist psychiatry psychoanalyst psychosis psychosomatic publicize"
+    },
+    {
+      "id": "u-55-pudency-quandary",
+      "part": "unclassified",
+      "part_label": "未歸類 Unclassified",
+      "name": "Unclassified 55 (pudency–quandary)",
+      "subtitle": "Alphabetical batch",
+      "count": 50,
+      "generated": false,
+      "search_terms": "pudency pudendum pudeur puerile puerilism puerility pugilism pugilist pugnacious puissance puissant pulchritude pulchritudinous pulmonary pulverize punctilio punctilious puncture pundit punditocracy punditry pungent punitive puny purblind pure purge puritanical purloin purposefully purposeless purposely pursuit pustule putative putrescent putrid puzzle pygmy pyromania pyrophobia pyrrhonism pyrrhonist quadragenarian quadrinomial quaff quagmire quaint qualm quandary"
+    },
+    {
+      "id": "u-56-quantity-rank",
+      "part": "unclassified",
+      "part_label": "未歸類 Unclassified",
+      "name": "Unclassified 56 (quantity–rank)",
+      "subtitle": "Alphabetical batch",
+      "count": 50,
+      "generated": false,
+      "search_terms": "quantity quarrel quash quell querulous quibble quibbling quick quicken quickness quid pro quo quiddity quidnunc quiescence quiescent quinquagenarian quintessence quintessential quip quirk quisle quisling quittance quixotic quomodocunquize quote quotidian rabid radiant radical raffish rage rail raillery raiment raison d'etre rake rakish ramble ramification ramifications ramiform ramify rampant ranch rancid rancor rancorous range rank"
+    },
+    {
+      "id": "u-57-rant-relish",
+      "part": "unclassified",
+      "part_label": "未歸類 Unclassified",
+      "name": "Unclassified 57 (rant–relish)",
+      "subtitle": "Alphabetical batch",
+      "count": 50,
+      "generated": false,
+      "search_terms": "rant rapacious rape rapprochement rapscallion rapt raptorial rapturous rarely rascal rascally rash ratification ratify rational rationalization rationalize rattle raucous ravenous rawboned raze ready realistic rebarbative rebellious rebuttal recherche^ recherché reciprocate recompense reconciliation recreant recrudesce recrudescence recrudescent recumbent recusal recusant recuse redundancy redundant reeling refined reflective refractory refulgence refulgent regrettable relish"
+    },
+    {
+      "id": "u-58-reluctant-rigorous",
+      "part": "unclassified",
+      "part_label": "未歸類 Unclassified",
+      "name": "Unclassified 58 (reluctant–rigorous)",
+      "subtitle": "Alphabetical batch",
+      "count": 50,
+      "generated": false,
+      "search_terms": "reluctant remonstrate remorseful remunerate renaissance renegade repartee repeal reply reprehend reproof reproval repudiation requital research reserved resistentialism resistentialist respectful respite restaurateur restless resume retard retardation retirement retronym reveal reverence reverie reviled revolt revolution reward rhapsodic rhapsodize rhapsody rhetoric rhetorical riam ribald ribaldry riddle ridicule ridiculous rife rift righteous rigor rigorous"
+    },
+    {
+      "id": "u-59-riposte-sagacious",
+      "part": "unclassified",
+      "part_label": "未歸類 Unclassified",
+      "name": "Unclassified 59 (riposte–sagacious)",
+      "subtitle": "Alphabetical batch",
+      "count": 50,
+      "generated": false,
+      "search_terms": "riposte risible rob robust rodent rodeo rodomontade rogue roguish romp roomy roseate roster rotary rotate rotavirus rotund roue^ rough rousing roué rove rubbernecker rubby rubeola rubicund rubious rubric rubricate ruby rudimentary rue rueful ruefulness ruffled rufous ruinous rumen ruminant ruminate runt russophobia rustic rusticate réchauffé saccharine sacerdotal sacrosanct saga sagacious"
+    },
+    {
+      "id": "u-60-sagacity-scaramouch",
+      "part": "unclassified",
+      "part_label": "未歸類 Unclassified",
+      "name": "Unclassified 60 (sagacity–scaramouch)",
+      "subtitle": "Alphabetical batch",
+      "count": 50,
+      "generated": false,
+      "search_terms": "sagacity sage saint saintly salacious salient sallow sally salmagundi salmonella saltant saltate saltation saltatory salubrious salubriousness salutary salutation salvation salve sanctimonious sanctimony sanction sanctity sanctuary sandwich sang-froid sangfroid sanguinary sanguine sap sapience sapient sapling sarcophagus sarculation sassafras sate saucy saurian savant savoir faire savor savory savvy scalp scampi scanty scapegrace scaramouch"
+    },
+    {
+      "id": "u-61-scarcity-selachian",
+      "part": "unclassified",
+      "part_label": "未歸類 Unclassified",
+      "name": "Unclassified 61 (scarcity–selachian)",
+      "subtitle": "Alphabetical batch",
+      "count": 50,
+      "generated": false,
+      "search_terms": "scarcity scarification scarify scathing schadenfreude schism schismatic schismatize schizophrenia schmaltz scholia scholium schwa sciamachy scion scoff scoff at scofflaw sconce scorn scoundrel scourge scrawny screeching screed scrimp scruple scrupulous scrupulousness scrutinize scrutiny scrying sculpt sculptor scurrility scurrilous scurrilousness scurry scuttlebutthead sear secretive secular sedate sedation sedative sediment sedulous sedulousness seedy selachian"
+    },
+    {
+      "id": "u-62-self-esteem-shrivel",
+      "part": "unclassified",
+      "part_label": "未歸類 Unclassified",
+      "name": "Unclassified 62 (self-esteem–shrivel)",
+      "subtitle": "Alphabetical batch",
+      "count": 50,
+      "generated": false,
+      "search_terms": "self-esteem self-important self-possesion self-possessed self-possession semanticist semantics semaphore semen seminal seminary semordnilap senate senescence senescent senile senility seniority septuagenarian serape serenade serendipitous serendipity serene serenity seriousness serpentine servile servilely servility sexagenarian shackle shady shallow sham shameful shameless shed sheepishness shibboleth shiftless shifty shocking shoddy shopworn shortage shred shrewd shrimp shrivel"
+    },
+    {
+      "id": "u-63-shroud-slim",
+      "part": "unclassified",
+      "part_label": "未歸類 Unclassified",
+      "name": "Unclassified 63 (shroud–slim)",
+      "subtitle": "Alphabetical batch",
+      "count": 50,
+      "generated": false,
+      "search_terms": "shroud shrunken shuffle shun shyster sibilance sibilant siffleur silence silhouette silk-stocking silliness silly simian simper simple simple-minded simpleton simulacrum simulate simulcast sine qua non sinecure sinful singular sinister sinking sinuous site sitiophobia skein skeletal skeptic skeptical skew skirmish skosh slacken slacker slander slanderous slanguage slapdash slattern slavish sleazy sleight slender slight slim"
+    },
+    {
+      "id": "u-64-slippery-soothe",
+      "part": "unclassified",
+      "part_label": "未歸類 Unclassified",
+      "name": "Unclassified 64 (slippery–soothe)",
+      "subtitle": "Alphabetical batch",
+      "count": 50,
+      "generated": false,
+      "search_terms": "slippery slit slothful slovenly sluggard sluggish sly smarmy smear smidgen smirch smirk smitten smutty snappish sneaky snicker snigger snobbery snobbish snobbishness sober sobriety sobriquet sobriquetical sociability sociable sodden soften soidisant soigné sojourner solace solecism solemn solemnity solicit solicitous solidify solipsistic solitary solomonic soluble solvent sombrero sommelier somnolence somnolent sonorous soothe"
+    },
+    {
+      "id": "u-65-sophist-spurn",
+      "part": "unclassified",
+      "part_label": "未歸類 Unclassified",
+      "name": "Unclassified 65 (sophist–spurn)",
+      "subtitle": "Alphabetical batch",
+      "count": 50,
+      "generated": false,
+      "search_terms": "sophist sophistic sophistical sophisticated sophistry sophomore sophomoric sophophobia sophrosyne sorcery sordid sordidness soriee sororize sorrowful sortilege sot soupcon^ sovereign spacious span spangle spangled sparingly sparkling sparse spasm spasmodic spate spear spendthrift spew spherical spindle spindly spineless spirited spiritless spite splenetic sponsorship spontaneous spoonerism sporadic sprachgefühl sprightly spry spur spurious spurn"
+    },
+    {
+      "id": "u-66-squalid-stridency",
+      "part": "unclassified",
+      "part_label": "未歸類 Unclassified",
+      "name": "Unclassified 66 (squalid–stridency)",
+      "subtitle": "Alphabetical batch",
+      "count": 50,
+      "generated": false,
+      "search_terms": "squalid squalor squander squeamish staid stale stallion stalwart stampede staple stark staunch steadfast steady steal stealthy steeped stentorian stereotype stereotyped sterile stevedore stigma stigmata stigmatize stimulate stimulating stinginess stingy stipulate stipulation stocky stoic stoical stoicism stolid stolidity storm stout straight straightforward straightforwardness straitlaced stratagem strategy strenuous strenuously strict stricture stridency"
+    },
+    {
+      "id": "u-67-strident-supple",
+      "part": "unclassified",
+      "part_label": "未歸類 Unclassified",
+      "name": "Unclassified 67 (strident–supple)",
+      "subtitle": "Alphabetical batch",
+      "count": 50,
+      "generated": false,
+      "search_terms": "strident stridor stridulate stridulous strife stringent strumpet struthious stubborn stuff stuffed stun stunted stupefaction stupefied stupendous stupid stupor sturdily sturm und drang stygian stymie suave subjugated subjugation sublimate sublimation submerge substantiate successor succinctness succulent suffrage suggest suicide suitable sulky sullen sully sultry summit sumptuary sumptuous superfluity supervene supervenient supervention supine supplant supple"
+    },
+    {
+      "id": "u-68-suppliant-tasteful",
+      "part": "unclassified",
+      "part_label": "未歸類 Unclassified",
+      "name": "Unclassified 68 (suppliant–tasteful)",
+      "subtitle": "Alphabetical batch",
+      "count": 50,
+      "generated": false,
+      "search_terms": "suppliant supplicant supplicate suppurate suppuration surfeited surge surliness surly susurrant susurrate susurration susurrus svelte swagger swamp swarthy swashbuckling swatch swath swathe sweeping sweet swell swindle swipe sybarite sybaritic sybaritism sycophancy sycophant sycophantic syllabus symbolic synopsis syphilophobia taboo tacit taciturn taciturnity taint talisman talkathon tamale tantalize tantamount tarnish tarot tart tasteful"
+    },
+    {
+      "id": "u-69-tasteless-thoroughgoing",
+      "part": "unclassified",
+      "part_label": "未歸類 Unclassified",
+      "name": "Unclassified 69 (tasteless–thoroughgoing)",
+      "subtitle": "Alphabetical batch",
+      "count": 50,
+      "generated": false,
+      "search_terms": "tasteless tatter tatterdemalion tattered taunt taut tawdry taxidermy taxonomy tearful technology tedious tedium teeming teetotaler temerarious temerity temperance temperate temporal temporize tenaculum tenebrous tentative tenuous tequila termagant terminate terpsichorean terrestrial terse terseness testator testimonial testimony testy tete a tete thanatophobia thaumaturgy theatrical theomachy theoretical theory therapy thersitical thesis thespian thin thorough thoroughgoing"
+    },
+    {
+      "id": "u-70-thoughtfulness-transfigure",
+      "part": "unclassified",
+      "part_label": "未歸類 Unclassified",
+      "name": "Unclassified 70 (thoughtfulness–transfigure)",
+      "subtitle": "Alphabetical batch",
+      "count": 50,
+      "generated": false,
+      "search_terms": "thoughtfulness thoughtless thrall threadbare thrifty thrive throng thunderous thwart tijuana timeless timeworn timid timidity timorous timorousness tinge tinnitus tiny tip tipple tirade tiresome titan titillate titter toady toadying toilsome tolerant tolerate tome tomfoolery toponym toreador torpid torpor torrid tour de force toxic traditional tragedienne tragedy traipse traitor traitorous trammel tranquility transfiguration transfigure"
+    },
+    {
+      "id": "u-71-transformation-tussle",
+      "part": "unclassified",
+      "part_label": "未歸類 Unclassified",
+      "name": "Unclassified 71 (transformation–tussle)",
+      "subtitle": "Alphabetical batch",
+      "count": 50,
+      "generated": false,
+      "search_terms": "transformation translucent transmogrify transpire treatise tremulous trenchant trend trepidation treppenwitz tribulation tribute trichotillomania trickery trifle trifler trifling trinket triskaidekaphobia trite triturate triumvirate triviality trochee troglodyte troglodytic trollop truckle truckling truculence truculent trull trumpery truncate truncated trustworthiness trustworthy truthful tuff tumid tumor turbid turbulence turbulent turgid turmoil turncoat turpitude turret tussle"
+    },
+    {
+      "id": "u-72-tutor-utile",
+      "part": "unclassified",
+      "part_label": "未歸類 Unclassified",
+      "name": "Unclassified 72 (tutor–utile)",
+      "subtitle": "Alphabetical batch",
+      "count": 50,
+      "generated": false,
+      "search_terms": "tutor twinkling typical tyrannical tyrant tyro ubiquitous ubiquity ukase ultimate ultracrepidarian ultracrepidarianism ululant ululate ululation umbrage umbrageous umlaut uncanny uncontroversial uncouth unctuous undeniable underhand underling undermine underscore underwrite undulate unequivocal unguent uniformity unimportant unique unmistakable unoriginal unpredictable upbraid upbraiding upright uprightness uproarious uranus urban urbane urbanity ursine usher usurp utile"
+    },
+    {
+      "id": "u-73-utilitarian-ventral",
+      "part": "unclassified",
+      "part_label": "未歸類 Unclassified",
+      "name": "Unclassified 73 (utilitarian–ventral)",
+      "subtitle": "Alphabetical batch",
+      "count": 50,
+      "generated": false,
+      "search_terms": "utilitarian utilitarianism utility utilize utopia utopian uxorial uxorious uxorodespotism vagabond vagary vagrant vague vain vainglorious vainglory valetudinarian valiant valid validate valor vanguard vanity vapid vaporize vaquero variable variegate varlet vary vascular vassal vaticinate vegetate vehement vehemently venal venality vendetta vendor veneer venerable venerate veneration venereal venery vengeful venial venom ventral"
+    },
+    {
+      "id": "u-74-veracious-virtue",
+      "part": "unclassified",
+      "part_label": "未歸類 Unclassified",
+      "name": "Unclassified 74 (veracious–virtue)",
+      "subtitle": "Alphabetical batch",
+      "count": 50,
+      "generated": false,
+      "search_terms": "veracious verbal verbatim verbiage verbigerate verbigeration verbigerator verbose verbosity verboten verdant verdure veriest verily verisimilar verity vermiform vermin vernacular vernal verve vespers vespertine vestige vestigial veteran vex vexation vexatious vexed via viable vibrant vicar vicarious vicious vicissitude vicissitudes vile vileness vilify villain villainous villainy vindicate vindication vindictive virago virile virtue"
+    },
+    {
+      "id": "u-75-virtuosity-weak",
+      "part": "unclassified",
+      "part_label": "未歸類 Unclassified",
+      "name": "Unclassified 75 (virtuosity–weak)",
+      "subtitle": "Alphabetical batch",
+      "count": 50,
+      "generated": false,
+      "search_terms": "virtuosity virtuoso virtuous virulent vital vitalize vitiate vitiation vitriolic vituperate vituperation vituperative vixen vogue void volant volatile volition volubility voluble voluminous voluptuary voracious vow vow populi voyeur vulnerable vulnerable vulpine waggish waif waive walkathon wallow wan wander wane wanton warmheartedness warrant warranted wart wary wash waspish wastrel wax wayfaring wayward weak"
+    },
+    {
+      "id": "u-76-weaken-xenophobia",
+      "part": "unclassified",
+      "part_label": "未歸類 Unclassified",
+      "name": "Unclassified 76 (weaken–xenophobia)",
+      "subtitle": "Alphabetical batch",
+      "count": 50,
+      "generated": false,
+      "search_terms": "weaken weariness weary well-bred weltanschauung weltschmerz wen wether wheedle whet whim whimsical whimsicality whimsy wholesome whore widespread willful wily wince windbag winning winsome wisteria wistful wit withdraw wither witless witling witticism witzelsucht wizen wizened woe woeful wolfsbane worsen worthless wraith wrangle wrath wrest wretch wry xanthippe xenomania xenophilia xenophobe xenophobia"
+    },
+    {
+      "id": "u-77-xenophobic-zucchini",
+      "part": "unclassified",
+      "part_label": "未歸類 Unclassified",
+      "name": "Unclassified 77 (xenophobic–zucchini)",
+      "subtitle": "Alphabetical batch",
+      "count": 24,
+      "generated": false,
+      "search_terms": "xenophobic xeric xeriscape xerophilous xerophthalmia xerophyte yahoo yarmulke yen yenta yoke yokel zany zeal zealous zeitgeist zemblanity zenith zenzizenzizenzic zephyr zoanthropy zoophobia zucchetto zucchini"
+    }
+  ]
+}
