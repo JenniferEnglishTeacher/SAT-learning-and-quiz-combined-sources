@@ -4,7 +4,7 @@
     "total_batches": 236,
     "part1_part2_batches": 159,
     "unclassified_batches": 77,
-    "generated_batches": 1
+    "generated_batches": 2
   },
   "batches": [
     {
@@ -24,7 +24,7 @@
       "name": "ad (1/4)",
       "subtitle": "朝向",
       "count": 50,
-      "generated": false,
+      "generated": true,
       "search_terms": "abase accede accelerate accentuate access accessible accident acclaim acclamation accolade accommodate accommodating accommodations accomplice accomplished accord accordingly accost accretion acknowledge acquiesce acquiescence acquiescent acquired acquisitive acquisitiveness acquit adapt adduce adept adequate adhere adherent adjure adjust admirable admire admonish admonishment admonition adolescent adoration adorn adulator adulatory adumbrate advent adventitious adversary adverse"
     },
     {

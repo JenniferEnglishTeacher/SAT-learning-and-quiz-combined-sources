@@ -1,0 +1,1617 @@
+{
+  "id": "p1-02-ad-1",
+  "part": "part1",
+  "part_label": "Part 1 字首篇 (Prefixes)",
+  "name": "ad (1/4)",
+  "subtitle": "朝向",
+  "count": 50,
+  "words": [
+    {
+      "word": "abase",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to humiliate, degrade:",
+      "defn_zh": "貶低/使卑下",
+      "root_note": "ad- (to) + bassus (low)",
+      "sentences": [
+        {
+          "en": "He refused to ______ himself by begging for his old job back.",
+          "zh": "他拒絕為了求回舊工作而自貶身分。"
+        },
+        {
+          "en": "The dictator tried to ______ his rivals in front of the entire nation.",
+          "zh": "這位獨裁者試圖在全國人民面前羞辱他的對手。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "02",
+        "spelling": "ad",
+        "meaning": "朝向"
+      }
+    },
+    {
+      "word": "accede",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to agree:",
+      "defn_zh": "同意/應允",
+      "root_note": "ac- (to) + cedere (to go)",
+      "sentences": [
+        {
+          "en": "The management finally ______d to the workers' demands for higher wages.",
+          "zh": "資方最終同意了員工加薪的要求。"
+        },
+        {
+          "en": "He reluctantly ______d to his sister's request to borrow the car.",
+          "zh": "他勉強答應了姊姊借車的要求。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "02",
+        "spelling": "ad",
+        "meaning": "朝向"
+      }
+    },
+    {
+      "word": "accelerate",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to increase in speed or rate:",
+      "defn_zh": "加速",
+      "root_note": "ad- (to) + celer (swift)",
+      "sentences": [
+        {
+          "en": "The board voted to ______ the product launch by three months.",
+          "zh": "董事會投票決定將產品上市時程加快三個月。"
+        },
+        {
+          "en": "Warmer oceans ______ the melting of polar ice, scientists warn.",
+          "zh": "科學家警告,較溫暖的海洋會加速極地冰層的融化。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "02",
+        "spelling": "ad",
+        "meaning": "朝向"
+      }
+    },
+    {
+      "word": "accentuate",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to emphasize or highlight:",
+      "defn_zh": "強調/使突出",
+      "root_note": "ad- (toward) + cantus (song, tone)",
+      "sentences": [
+        {
+          "en": "The design ______ the modern features of the building.",
+          "zh": "這項設計凸顯了這棟建築的現代特色。"
+        },
+        {
+          "en": "Her red scarf helped to ______ the color of her eyes.",
+          "zh": "她的紅色圍巾有助於襯托出她眼睛的顏色。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "02",
+        "spelling": "ad",
+        "meaning": "朝向"
+      }
+    },
+    {
+      "word": "access",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "admittance:",
+      "defn_zh": "接近/通道",
+      "root_note": "ad- (to) + cedere (to go)",
+      "sentences": [
+        {
+          "en": "Employees need a special card to gain ______ to the server room.",
+          "zh": "員工需要一張特殊卡片才能進入伺服器機房。"
+        },
+        {
+          "en": "The new ramp provides wheelchair ______ to the building's main entrance.",
+          "zh": "這座新坡道提供輪椅通往大樓主要入口的通道。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "02",
+        "spelling": "ad",
+        "meaning": "朝向"
+      }
+    },
+    {
+      "word": "accessible",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "available; ready for use",
+      "defn_zh": "易接近的",
+      "root_note": "ad- (to) + cedere (to go)",
+      "sentences": [
+        {
+          "en": "The library made its resources more ______ to students with disabilities.",
+          "zh": "這座圖書館讓身心障礙學生更容易取得館內資源。"
+        },
+        {
+          "en": "The new app is designed to be ______ even to those unfamiliar with technology.",
+          "zh": "這款新的應用程式設計得連不熟悉科技的人也能輕鬆使用。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "02",
+        "spelling": "ad",
+        "meaning": "朝向"
+      }
+    },
+    {
+      "word": "accident",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "an unfortunate mishap:",
+      "defn_zh": "意外事故",
+      "root_note": "ac- (to) + cadere (to fall)",
+      "sentences": [
+        {
+          "en": "The car ______ on the highway caused a long traffic jam.",
+          "zh": "高速公路上的這起車禍造成了長時間的交通壅塞。"
+        },
+        {
+          "en": "It was pure ______ that the two old friends ran into each other at the airport.",
+          "zh": "這兩位老朋友在機場巧遇,純屬意外。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "02",
+        "spelling": "ad",
+        "meaning": "朝向"
+      }
+    },
+    {
+      "word": "acclaim",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to express strong approval or praise; hail",
+      "defn_zh": "稱讚；歡呼",
+      "root_note": "ad- (to) + clamare (to shout)",
+      "sentences": [
+        {
+          "en": "Critics ______ed the film as a masterpiece of modern cinema.",
+          "zh": "評論家盛讚這部電影是現代電影的傑作。"
+        },
+        {
+          "en": "Her debut novel received widespread ______ from readers and critics alike.",
+          "zh": "她的處女作小說獲得了讀者與評論家一致的高度讚揚。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "02",
+        "spelling": "ad",
+        "meaning": "朝向"
+      }
+    },
+    {
+      "word": "acclamation",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "enthusiastic and approving shouts or applause:",
+      "defn_zh": "歡呼;喝采",
+      "root_note": "ad- (to) + clamare (to shout)",
+      "sentences": [
+        {
+          "en": "The new mayor was elected by ______ , with not a single dissenting vote.",
+          "zh": "新市長在無人反對的情況下,以一致歡呼通過選舉。"
+        },
+        {
+          "en": "The soprano's final note was met with thunderous ______ from the audience.",
+          "zh": "女高音的最後一個音符,贏得觀眾如雷的喝采。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "02",
+        "spelling": "ad",
+        "meaning": "朝向"
+      }
+    },
+    {
+      "word": "accolade",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "high praise, special distinction:",
+      "defn_zh": "讚譽/殊榮",
+      "root_note": "ad- (to) + collum (neck)",
+      "sentences": [
+        {
+          "en": "The young chef received numerous ______s for her innovative menu.",
+          "zh": "這位年輕主廚因她創新的菜單而獲得無數讚譽。"
+        },
+        {
+          "en": "Winning the award was the greatest ______ of his career.",
+          "zh": "贏得這項獎項是他職業生涯中最大的殊榮。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "02",
+        "spelling": "ad",
+        "meaning": "朝向"
+      }
+    },
+    {
+      "word": "accommodate",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to make fit, adjust to:",
+      "defn_zh": "容納/適應",
+      "root_note": "ad- (to) + commodare (to make fit)",
+      "sentences": [
+        {
+          "en": "The hotel can ______ up to five hundred guests during peak season.",
+          "zh": "這間飯店在旺季最多可容納五百位賓客。"
+        },
+        {
+          "en": "The teacher agreed to ______ the student's request for extra time.",
+          "zh": "老師同意配合這名學生要求延長時間的請求。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "02",
+        "spelling": "ad",
+        "meaning": "朝向"
+      }
+    },
+    {
+      "word": "accommodating",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "helpful, obliging, polite:",
+      "defn_zh": "樂於助人的/隨和的",
+      "root_note": "ad- (to) + commodus (fitting)",
+      "sentences": [
+        {
+          "en": "The hotel staff were extremely ______, upgrading our room at no extra cost.",
+          "zh": "飯店員工非常樂於配合,免費幫我們升等了房間。"
+        },
+        {
+          "en": "Her ______ nature made her a favorite among coworkers.",
+          "zh": "她隨和的個性讓她深受同事喜愛。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "02",
+        "spelling": "ad",
+        "meaning": "朝向"
+      }
+    },
+    {
+      "word": "accommodations",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "lodging or living quarters; adjustments made to suit particular needs:",
+      "defn_zh": "住宿;通融安排",
+      "root_note": "ad- (to) + commodus (fitting)",
+      "sentences": [
+        {
+          "en": "The travel agency arranged comfortable ______ near the conference center.",
+          "zh": "旅行社在會議中心附近安排了舒適的住宿。"
+        },
+        {
+          "en": "The school made special ______ for students with learning disabilities.",
+          "zh": "學校為有學習障礙的學生做了特別的通融安排。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "02",
+        "spelling": "ad",
+        "meaning": "朝向"
+      }
+    },
+    {
+      "word": "accomplice",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "associate in crime:",
+      "defn_zh": "共犯/幫兇",
+      "root_note": "ad- (to) + complex (partner)",
+      "sentences": [
+        {
+          "en": "Police believe the getaway driver was an ______ in the robbery.",
+          "zh": "警方認為那名開車接應的司機是這起搶案的共犯。"
+        },
+        {
+          "en": "She refused to name her ______ even under intense questioning.",
+          "zh": "即使遭到嚴厲審問,她仍拒絕說出她共犯的姓名。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "02",
+        "spelling": "ad",
+        "meaning": "朝向"
+      }
+    },
+    {
+      "word": "accomplished",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "highly skilled or successful, especially in a particular field:",
+      "defn_zh": "有成就的;熟練的",
+      "root_note": "ad- (to) + complere (to complete)",
+      "sentences": [
+        {
+          "en": "An ______ violinist by age twelve, she later toured with the national orchestra.",
+          "zh": "她十二歲就已是位造詣深厚的小提琴家,後來還隨國家交響樂團巡演。"
+        },
+        {
+          "en": "The panel included several ______ scientists in the field of genetics.",
+          "zh": "這個評審小組包括好幾位基因學領域中成就斐然的科學家。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "02",
+        "spelling": "ad",
+        "meaning": "朝向"
+      }
+    },
+    {
+      "word": "accord",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "an agreement:",
+      "defn_zh": "協議/一致",
+      "root_note": "ad- (to) + cor (heart)",
+      "sentences": [
+        {
+          "en": "The two nations finally reached an ______ after years of negotiation.",
+          "zh": "經過多年談判,這兩國終於達成了協議。"
+        },
+        {
+          "en": "The peace ______ ended decades of conflict between the two tribes.",
+          "zh": "這項和平協議結束了這兩個部族長達數十年的衝突。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "02",
+        "spelling": "ad",
+        "meaning": "朝向"
+      }
+    },
+    {
+      "word": "accordingly",
+      "pos": "adv.",
+      "pos_key": "adv.",
+      "defn_en": "in a manner that fits the circumstances; consequently:",
+      "defn_zh": "相應地;因此",
+      "root_note": "ac- (to) + cor (heart, i.e. agreement)",
+      "sentences": [
+        {
+          "en": "The forecast called for rain, so the organizers planned ______ and rented tents.",
+          "zh": "氣象預報說會下雨,主辦單位因此相應租了帳篷。"
+        },
+        {
+          "en": "Sales dropped sharply; management adjusted the budget ______.",
+          "zh": "銷售額大幅下滑,管理層因此相應調整了預算。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "02",
+        "spelling": "ad",
+        "meaning": "朝向"
+      }
+    },
+    {
+      "word": "accost",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to approach and speak to:",
+      "defn_zh": "搭訕",
+      "root_note": "ad- (to) + costa (rib/side)",
+      "sentences": [
+        {
+          "en": "A stranger ______ed her on the street, asking for directions to the station.",
+          "zh": "一個陌生人在街上向她搭話,詢問車站怎麼走。"
+        },
+        {
+          "en": "He was ______ed by an aggressive salesman as soon as he entered the store.",
+          "zh": "他一走進商店就被一個咄咄逼人的推銷員攔住搭話。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "02",
+        "spelling": "ad",
+        "meaning": "朝向"
+      }
+    },
+    {
+      "word": "accretion",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "slow growth in size or amount:",
+      "defn_zh": "增積/漸增",
+      "root_note": "ad- (to) + crescere (to grow)",
+      "sentences": [
+        {
+          "en": "Over centuries, the coral reef formed through the gradual ______ of tiny organisms.",
+          "zh": "經過數百年,這座珊瑚礁是由微小生物逐漸堆積而成的。"
+        },
+        {
+          "en": "The company's wealth grew through the slow ______ of small investments.",
+          "zh": "這家公司的財富是透過小額投資的緩慢累積而增長的。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "02",
+        "spelling": "ad",
+        "meaning": "朝向"
+      }
+    },
+    {
+      "word": "acknowledge",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to admit:",
+      "defn_zh": "承認/答謝",
+      "root_note": "ad- (to) + cnawan (to know)",
+      "sentences": [
+        {
+          "en": "He finally ______ that he had made a mistake.",
+          "zh": "他終於承認自己犯了一個錯誤。"
+        },
+        {
+          "en": "The company ______ receipt of the customer's complaint within 24 hours.",
+          "zh": "這家公司在二十四小時內確認收到了顧客的投訴。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "02",
+        "spelling": "ad",
+        "meaning": "朝向"
+      }
+    },
+    {
+      "word": "acquiesce",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to agree without protesting:",
+      "defn_zh": "默許/勉強同意",
+      "root_note": "ad- (to) + quiescere (to rest)",
+      "sentences": [
+        {
+          "en": "After hours of debate, the board finally ______d to the new proposal.",
+          "zh": "經過數小時的辯論,董事會最終默許了這項新提案。"
+        },
+        {
+          "en": "She ______d to her parents' wishes and chose the more practical major.",
+          "zh": "她順從了父母的期望,選擇了較實際的科系。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "02",
+        "spelling": "ad",
+        "meaning": "朝向"
+      }
+    },
+    {
+      "word": "acquiescence",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "reluctant acceptance without protest:",
+      "defn_zh": "默許;勉強同意",
+      "root_note": "ad- (to) + quiescere (to become quiet)",
+      "sentences": [
+        {
+          "en": "His silence was taken as tacit ______ to the new policy.",
+          "zh": "他的沉默被視為對新政策的默許。"
+        },
+        {
+          "en": "Years of quiet ______ finally gave way to open rebellion.",
+          "zh": "多年來的默默順從,終於演變成公開的反抗。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "02",
+        "spelling": "ad",
+        "meaning": "朝向"
+      }
+    },
+    {
+      "word": "acquiescent",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "willing to accept something without protest, though not necessarily happily:",
+      "defn_zh": "順從的;默許的",
+      "root_note": "ad- (to) + quiescere (to become quiet)",
+      "sentences": [
+        {
+          "en": "Her usually stubborn brother was surprisingly ______ about the new house rules.",
+          "zh": "她那向來固執的弟弟,對於新的家規竟出奇地順從。"
+        },
+        {
+          "en": "The staff grew ______ after repeated warnings from management.",
+          "zh": "在管理層再三警告後,員工們變得順從許多。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "02",
+        "spelling": "ad",
+        "meaning": "朝向"
+      }
+    },
+    {
+      "word": "acquired",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "gained through effort or experience:",
+      "defn_zh": "習得的/後天獲得的",
+      "root_note": "ad- (toward) + quaerere (to seek)",
+      "sentences": [
+        {
+          "en": "Edmund had ______ a taste for fine wine.",
+          "zh": "艾德蒙後天養成了對上等葡萄酒的喜好。"
+        },
+        {
+          "en": "Most languages are ______ skills rather than instincts.",
+          "zh": "大多數語言是後天習得的技能,而非本能。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "02",
+        "spelling": "ad",
+        "meaning": "朝向"
+      }
+    },
+    {
+      "word": "acquisitive",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "excessively interested in acquiring money or possessions:",
+      "defn_zh": "貪得無厭的;渴望獲取的",
+      "root_note": "ad- (to) + quaerere (to seek)",
+      "sentences": [
+        {
+          "en": "The company's ______ strategy led it to buy up a dozen smaller rivals.",
+          "zh": "這家公司貪婪的擴張策略,讓它併購了十幾家較小的競爭對手。"
+        },
+        {
+          "en": "Critics viewed the tycoon as coldly ______ , caring only for profit.",
+          "zh": "評論家認為這位大亨貪得無厭,只在乎利潤。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "02",
+        "spelling": "ad",
+        "meaning": "朝向"
+      }
+    },
+    {
+      "word": "acquisitiveness",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "an excessive desire to acquire and possess things:",
+      "defn_zh": "貪婪;佔有慾",
+      "root_note": "ad- (to) + quaerere (to seek)",
+      "sentences": [
+        {
+          "en": "His ______ eventually alienated even his closest friends.",
+          "zh": "他的貪得無厭最終讓最親近的朋友都疏遠了他。"
+        },
+        {
+          "en": "The documentary criticized the ______ driving modern consumer culture.",
+          "zh": "這部紀錄片批評了驅動現代消費文化的貪婪心態。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "02",
+        "spelling": "ad",
+        "meaning": "朝向"
+      }
+    },
+    {
+      "word": "acquit",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to declare someone not guilty of a crime; to conduct oneself in a specified way:",
+      "defn_zh": "宣判無罪;表現(自己)",
+      "root_note": "ad- (to) + quietare (to settle, quiet)",
+      "sentences": [
+        {
+          "en": "The jury voted to ______ the defendant after only two hours of deliberation.",
+          "zh": "陪審團審議僅兩小時,便投票宣判被告無罪。"
+        },
+        {
+          "en": "The rookie pilot ______ himself well during the sudden storm.",
+          "zh": "這位菜鳥飛行員在突如其來的暴風雨中表現得相當出色。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "02",
+        "spelling": "ad",
+        "meaning": "朝向"
+      }
+    },
+    {
+      "word": "adapt",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to adjust to new conditions:",
+      "defn_zh": "適應",
+      "root_note": "ad- (toward) + aptare (to fit)",
+      "sentences": [
+        {
+          "en": "Newly-released animals generally ______ to their environments over time.",
+          "zh": "剛被野放的動物通常會隨著時間逐漸適應牠們的環境。"
+        },
+        {
+          "en": "It took her a few weeks to ______ to the new school.",
+          "zh": "她花了幾週的時間才適應這所新學校。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "02",
+        "spelling": "ad",
+        "meaning": "朝向"
+      }
+    },
+    {
+      "word": "adduce",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to cite as evidence or proof:",
+      "defn_zh": "引證;提出(證據)",
+      "root_note": "ad- (to) + ducere (to lead)",
+      "sentences": [
+        {
+          "en": "The lawyer could ______ no witnesses to support her client's alibi.",
+          "zh": "律師無法提出任何證人來支持她當事人的不在場證明。"
+        },
+        {
+          "en": "Researchers ______ several studies to support their controversial claim.",
+          "zh": "研究人員引證了好幾項研究,以支持他們具爭議性的主張。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "02",
+        "spelling": "ad",
+        "meaning": "朝向"
+      }
+    },
+    {
+      "word": "adept",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "very skilled or proficient at something:",
+      "defn_zh": "熟練的/精通的",
+      "root_note": "ad- (toward) + apisci (to attain)",
+      "sentences": [
+        {
+          "en": "He is ______ at solving complex math problems.",
+          "zh": "他很擅長解決複雜的數學問題。"
+        },
+        {
+          "en": "Beth loves playing the piano, but she's especially ______ at the violin.",
+          "zh": "貝絲喜歡彈鋼琴,但她在小提琴方面尤其精通。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "02",
+        "spelling": "ad",
+        "meaning": "朝向"
+      }
+    },
+    {
+      "word": "adequate",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "having sufficient qualifications to meet a specific task or purpose:",
+      "defn_zh": "足夠的/適當的",
+      "root_note": "ad- (toward) + aequus (equal)",
+      "sentences": [
+        {
+          "en": "Though his resume was ______, the company doubted whether he'd be a good fit.",
+          "zh": "雖然他的履歷條件足夠,但公司仍懷疑他是否適合這個職位。"
+        },
+        {
+          "en": "The old heater was barely ______ to warm the entire house.",
+          "zh": "這台老舊的暖氣機幾乎不足以溫暖整棟房子。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "02",
+        "spelling": "ad",
+        "meaning": "朝向"
+      }
+    },
+    {
+      "word": "adhere",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to stick firmly to a surface or to follow a set of rules or beliefs:",
+      "defn_zh": "黏附/遵守",
+      "root_note": "ad- (toward) + haerere (to stick)",
+      "sentences": [
+        {
+          "en": "The paint ______ well to the wood surface.",
+          "zh": "這種油漆能很好地附著在木頭表面上。"
+        },
+        {
+          "en": "You must ______ to the rules if you don't want to get in trouble.",
+          "zh": "如果你不想惹上麻煩,就必須遵守這些規則。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "02",
+        "spelling": "ad",
+        "meaning": "朝向"
+      }
+    },
+    {
+      "word": "adherent",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "backer, supporter:",
+      "defn_zh": "擁護者/信徒",
+      "root_note": "ad- (to) + haerere (to stick)",
+      "sentences": [
+        {
+          "en": "The movement gained many ______s after the leader's inspiring speech.",
+          "zh": "在這位領袖發表激勵人心的演說之後,這場運動獲得了許多擁護者。"
+        },
+        {
+          "en": "He remained a loyal ______ of the party throughout his life.",
+          "zh": "他一生都是這個政黨忠實的支持者。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "02",
+        "spelling": "ad",
+        "meaning": "朝向"
+      }
+    },
+    {
+      "word": "adjure",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to urge or command someone solemnly:",
+      "defn_zh": "懇求;鄭重命令",
+      "root_note": "ad- (to) + jurare (to swear)",
+      "sentences": [
+        {
+          "en": "The elder ______ the young warriors to protect the village at all costs.",
+          "zh": "長老鄭重命令年輕戰士不惜一切代價保護村莊。"
+        },
+        {
+          "en": "She ______ her son to tell the truth, whatever the consequences.",
+          "zh": "她懇求兒子無論後果如何都要說實話。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "02",
+        "spelling": "ad",
+        "meaning": "朝向"
+      }
+    },
+    {
+      "word": "adjust",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to modify or change slightly:",
+      "defn_zh": "調整",
+      "root_note": "ad- (toward) + juxta (near)",
+      "sentences": [
+        {
+          "en": "He had to ______ his seat for comfort.",
+          "zh": "他必須調整座椅以求舒適。"
+        },
+        {
+          "en": "Employees will need time to ______ to the new schedule.",
+          "zh": "員工們將需要時間來適應新的班表。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "02",
+        "spelling": "ad",
+        "meaning": "朝向"
+      }
+    },
+    {
+      "word": "admirable",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "deserving respect and approval:",
+      "defn_zh": "令人欽佩的;值得讚賞的",
+      "root_note": "ad- (to) + mirari (to wonder at)",
+      "sentences": [
+        {
+          "en": "Her ______ patience with the difficult client impressed the whole office.",
+          "zh": "她對付難纏客戶時展現的令人欽佩的耐心,令全辦公室的人都印象深刻。"
+        },
+        {
+          "en": "It was ______ how calmly the pilot handled the emergency landing.",
+          "zh": "飛行員從容應對緊急降落的態度,實在令人欽佩。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "02",
+        "spelling": "ad",
+        "meaning": "朝向"
+      }
+    },
+    {
+      "word": "admire",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to respect or look up to:",
+      "defn_zh": "欽佩/仰慕",
+      "root_note": "ad- (toward) + mirari (to wonder)",
+      "sentences": [
+        {
+          "en": "I ______ my mother's dedication to her work.",
+          "zh": "我很欽佩我母親對工作的奉獻精神。"
+        },
+        {
+          "en": "Tourists gathered to ______ the breathtaking view from the summit.",
+          "zh": "遊客們聚在一起,欣賞從山頂望去令人屏息的美景。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "02",
+        "spelling": "ad",
+        "meaning": "朝向"
+      }
+    },
+    {
+      "word": "admonish",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to warn, reprove:",
+      "defn_zh": "警告",
+      "root_note": "ad- (to) + monere (to warn)",
+      "sentences": [
+        {
+          "en": "The teacher ______ed the students to finish their homework before playing games.",
+          "zh": "老師告誡學生們要先寫完作業才能玩遊戲。"
+        },
+        {
+          "en": "The coach ______ed the players for skipping practice.",
+          "zh": "教練告誡那些缺席練習的球員。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "02",
+        "spelling": "ad",
+        "meaning": "朝向"
+      }
+    },
+    {
+      "word": "admonishment",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a firm warning or reprimand:",
+      "defn_zh": "告誡;訓斥",
+      "root_note": "ad- (to) + monere (to warn)",
+      "sentences": [
+        {
+          "en": "The referee's ______ did little to stop the players from arguing.",
+          "zh": "裁判的告誡並未能阻止球員們繼續爭吵。"
+        },
+        {
+          "en": "A gentle ______ from her mentor helped her see the mistake in her report.",
+          "zh": "導師溫和的告誡讓她看清了報告中的錯誤。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "02",
+        "spelling": "ad",
+        "meaning": "朝向"
+      }
+    },
+    {
+      "word": "admonition",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a warning or reprimand, often given with advice:",
+      "defn_zh": "勸誡;警告",
+      "root_note": "ad- (to) + monere (to warn)",
+      "sentences": [
+        {
+          "en": "Her grandmother's ______ to \"save for a rainy day\" stuck with her for life.",
+          "zh": "祖母「未雨綢繆」的勸誡讓她一輩子謹記在心。"
+        },
+        {
+          "en": "Despite the coach's ______ , the team kept taking reckless shots.",
+          "zh": "儘管教練一再警告,球隊仍不斷做出魯莽的出手。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "02",
+        "spelling": "ad",
+        "meaning": "朝向"
+      }
+    },
+    {
+      "word": "adolescent",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a person who is older than 12 but younger than 20:",
+      "defn_zh": "青少年",
+      "root_note": "ad- (to) + olescere (to grow up)",
+      "sentences": [
+        {
+          "en": "Many ______s struggle to balance schoolwork with social life.",
+          "zh": "許多青少年都努力在課業與社交生活之間取得平衡。"
+        },
+        {
+          "en": "The clinic offers counseling services specifically designed for ______s.",
+          "zh": "這家診所提供專為青少年設計的諮商服務。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "02",
+        "spelling": "ad",
+        "meaning": "朝向"
+      }
+    },
+    {
+      "word": "adoration",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "deep love, respect, or worship:",
+      "defn_zh": "崇拜;愛慕",
+      "root_note": "ad- (to) + orare (to pray)",
+      "sentences": [
+        {
+          "en": "The fans greeted their idol with unrestrained ______.",
+          "zh": "粉絲們以毫無保留的崇拜迎接他們的偶像。"
+        },
+        {
+          "en": "He gazed at the newborn with pure ______.",
+          "zh": "他望著剛出生的孩子,眼神充滿純粹的愛慕。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "02",
+        "spelling": "ad",
+        "meaning": "朝向"
+      }
+    },
+    {
+      "word": "adorn",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to decorate:",
+      "defn_zh": "裝飾/點綴",
+      "root_note": "ad- (to) + ornare (to equip/decorate)",
+      "sentences": [
+        {
+          "en": "Fresh flowers ______ed every table at the wedding reception.",
+          "zh": "婚宴上的每張桌子都以鮮花裝飾。"
+        },
+        {
+          "en": "The temple's walls are ______ed with intricate carvings.",
+          "zh": "這座寺廟的牆壁上裝飾著精細的雕刻。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "02",
+        "spelling": "ad",
+        "meaning": "朝向"
+      }
+    },
+    {
+      "word": "adulator",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a person who flatters excessively:",
+      "defn_zh": "阿諛奉承者",
+      "root_note": "ad- (to) + ulare (to howl, fawn)",
+      "sentences": [
+        {
+          "en": "The king surrounded himself with ______ who never spoke an honest word.",
+          "zh": "國王身邊圍繞著只會阿諛奉承、從不說實話的人。"
+        },
+        {
+          "en": "Everyone at the meeting recognized the intern as an obvious ______.",
+          "zh": "會議上每個人都看出那位實習生是個明顯的馬屁精。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "02",
+        "spelling": "ad",
+        "meaning": "朝向"
+      }
+    },
+    {
+      "word": "adulatory",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "excessively flattering or admiring:",
+      "defn_zh": "阿諛的;過度讚美的",
+      "root_note": "ad- (to) + ulare (to howl, fawn)",
+      "sentences": [
+        {
+          "en": "The biography was criticized for being too ______ toward its subject.",
+          "zh": "這本傳記因對主角過度吹捧而受到批評。"
+        },
+        {
+          "en": "His ______ remarks about the boss made his colleagues visibly uncomfortable.",
+          "zh": "他對老闆過度奉承的言論,讓同事們明顯感到不自在。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "02",
+        "spelling": "ad",
+        "meaning": "朝向"
+      }
+    },
+    {
+      "word": "adumbrate",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to sketch out in a vague way:",
+      "defn_zh": "粗略描繪/暗示",
+      "root_note": "ad- (to) + umbra (shadow)",
+      "sentences": [
+        {
+          "en": "The author only ______s the plot's ending, leaving readers to guess.",
+          "zh": "這位作者只是隱約暗示了劇情的結局,留給讀者自行猜測。"
+        },
+        {
+          "en": "The coach ______d a new strategy without revealing all the details.",
+          "zh": "教練粗略描繪了一套新戰略,卻未透露所有細節。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "02",
+        "spelling": "ad",
+        "meaning": "朝向"
+      }
+    },
+    {
+      "word": "advent",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "arrival of an important event:",
+      "defn_zh": "到來/出現",
+      "root_note": "ad- (to) + venire (to come)",
+      "sentences": [
+        {
+          "en": "The ______ of the internet changed how people communicate forever.",
+          "zh": "網際網路的出現徹底改變了人們溝通的方式。"
+        },
+        {
+          "en": "Life in the village changed drastically after the ______ of electricity.",
+          "zh": "電力出現之後,這座村莊的生活徹底改變了。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "02",
+        "spelling": "ad",
+        "meaning": "朝向"
+      }
+    },
+    {
+      "word": "adventitious",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "happening by chance rather than design:",
+      "defn_zh": "偶然的;外來的",
+      "root_note": "ad- (to) + venire (to come)",
+      "sentences": [
+        {
+          "en": "Their meeting on the train was entirely ______ , yet it changed both their lives.",
+          "zh": "他們在火車上的相遇純屬偶然,卻改變了兩人的人生。"
+        },
+        {
+          "en": "The plant's roots produce ______ shoots wherever they touch damp soil.",
+          "zh": "這種植物的根只要碰到潮濕的土壤,就會偶然長出新芽。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "02",
+        "spelling": "ad",
+        "meaning": "朝向"
+      }
+    },
+    {
+      "word": "adversary",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "opponent, enemy, foe:",
+      "defn_zh": "對手/敵手",
+      "root_note": "ad- (to) + vertere (to turn)",
+      "sentences": [
+        {
+          "en": "The two chess masters had been fierce ______ies for years.",
+          "zh": "這兩位西洋棋大師多年來一直是激烈的對手。"
+        },
+        {
+          "en": "The senator's political ______ accused him of dishonesty.",
+          "zh": "這位參議員的政治對手指控他不誠實。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "02",
+        "spelling": "ad",
+        "meaning": "朝向"
+      }
+    },
+    {
+      "word": "adverse",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "unfavorable, harmful:",
+      "defn_zh": "不利的",
+      "root_note": "ad- (to) + vertere (to turn against)",
+      "sentences": [
+        {
+          "en": "The medicine can cause several ______ side effects, including nausea and dizziness.",
+          "zh": "這種藥物可能引起若干不良的副作用,包括噁心和暈眩。"
+        },
+        {
+          "en": "The team performed well despite the ______ weather conditions.",
+          "zh": "儘管天氣狀況不利,球隊仍表現出色。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "02",
+        "spelling": "ad",
+        "meaning": "朝向"
+      }
+    }
+  ],
+  "fallback_options": {
+    "v.": [
+      {
+        "word": "abound",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to exist in great numbers:",
+        "defn_zh": "充滿"
+      },
+      {
+        "word": "abrogate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to deprive of legal force, to nullify:=abolish",
+        "defn_zh": "廢除/取消"
+      },
+      {
+        "word": "abjure",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to renounce, abstain from:",
+        "defn_zh": "發誓放棄/棄絕"
+      },
+      {
+        "word": "abbreviate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to shorten a word or phrase:",
+        "defn_zh": "縮寫;縮短"
+      },
+      {
+        "word": "abdicate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to give up a position, usually one of leadership:",
+        "defn_zh": "退位/放棄(職位)"
+      },
+      {
+        "word": "abduct",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to kidnap, take by force:",
+        "defn_zh": "綁架/劫持"
+      },
+      {
+        "word": "abhor",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to regard with disgust and hatred:",
+        "defn_zh": "憎惡/厭惡"
+      },
+      {
+        "word": "abnegate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to deny or renounce:",
+        "defn_zh": "放棄/克制"
+      },
+      {
+        "word": "abolish",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to formally put an end to a system, practice, or institution:",
+        "defn_zh": "廢除"
+      },
+      {
+        "word": "abort",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to give up on a half-finished project or effort:",
+        "defn_zh": "中止/放棄"
+      },
+      {
+        "word": "abrade",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to scrape or wear away by friction:",
+        "defn_zh": "磨損;擦傷"
+      },
+      {
+        "word": "abscond",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to sneak away and hide:",
+        "defn_zh": "潛逃/逃匿"
+      }
+    ],
+    "adj.": [
+      {
+        "word": "abortive",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "fruitless, failing:",
+        "defn_zh": "失敗的/夭折的"
+      },
+      {
+        "word": "abstemious",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "moderate in eating or drinking:",
+        "defn_zh": "飲食有節制的"
+      },
+      {
+        "word": "abhorrent",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "detestable, despised:",
+        "defn_zh": "令人厭惡的"
+      },
+      {
+        "word": "absurd",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "ridiculous:",
+        "defn_zh": "荒謬的"
+      },
+      {
+        "word": "aberrant",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "deviating from what is normal or expected:",
+        "defn_zh": "異常的;脫軌的"
+      },
+      {
+        "word": "abject",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "wretched, pitiful:",
+        "defn_zh": "卑賤的/淒慘的"
+      },
+      {
+        "word": "abominable",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "causing moral revulsion; extremely unpleasant:",
+        "defn_zh": "可憎的;惡劣的"
+      },
+      {
+        "word": "abounding",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "existing in large numbers or amounts:",
+        "defn_zh": "大量存在的;豐富的"
+      },
+      {
+        "word": "abrasive",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "showing little concern for others; harsh:",
+        "defn_zh": "粗暴的/刺耳的"
+      },
+      {
+        "word": "abrupt",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "sudden or unexpected; brief and curt in manner:",
+        "defn_zh": "突然的/唐突的"
+      },
+      {
+        "word": "abstract",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "existing purely in the mind; not representing actual reality:",
+        "defn_zh": "抽象的"
+      },
+      {
+        "word": "abstruse",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "hard to comprehend:",
+        "defn_zh": "深奧難懂的"
+      }
+    ],
+    "n.": [
+      {
+        "word": "aversion",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "strong dislike, opposition:",
+        "defn_zh": "厭惡/反感"
+      },
+      {
+        "word": "aberration",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "something that differs from the norm:",
+        "defn_zh": "異常/脫軌"
+      },
+      {
+        "word": "abjection",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a state of complete misery, hopelessness, or degradation:",
+        "defn_zh": "卑賤;悲慘狀態"
+      },
+      {
+        "word": "abjuration",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the solemn renunciation of a belief, cause, or claim:",
+        "defn_zh": "公開放棄;誓絕"
+      },
+      {
+        "word": "ablution",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the act of washing oneself, especially as part of a religious ritual:",
+        "defn_zh": "沐浴;淨身儀式"
+      },
+      {
+        "word": "abnegation",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "denial of comfort to oneself:",
+        "defn_zh": "自我克制/放棄"
+      },
+      {
+        "word": "abomination",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "something that causes disgust or hatred:",
+        "defn_zh": "可憎之事;令人厭惡的東西"
+      },
+      {
+        "word": "abridgement",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a shortened version of a book or other written work:",
+        "defn_zh": "節略本;縮減版"
+      },
+      {
+        "word": "absolution",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "freedom from blame, guilt, sin:",
+        "defn_zh": "赦免/免罪"
+      },
+      {
+        "word": "abstemiousness",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "moderation or self-restraint, especially in eating and drinking:",
+        "defn_zh": "節制;克己"
+      },
+      {
+        "word": "abstinence",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the practice of restraining oneself from something enjoyable, especially food, alcohol, or sex:",
+        "defn_zh": "節制;戒絕"
+      },
+      {
+        "word": "avocation",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a hobby or minor occupation apart from one's main career:",
+        "defn_zh": "副業;業餘愛好"
+      }
+    ],
+    "adv.": [
+      {
+        "word": "inadvertently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "unintentionally or by accident:",
+        "defn_zh": "無意間/不小心地"
+      },
+      {
+        "word": "consequently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "as a result; therefore:",
+        "defn_zh": "因此;結果"
+      },
+      {
+        "word": "contemptuously",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "without respect; in a disdainful manner:",
+        "defn_zh": "輕蔑地"
+      },
+      {
+        "word": "involuntarily",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "done without conscious control:",
+        "defn_zh": "不由自主地"
+      },
+      {
+        "word": "cordially",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in a warm or friendly manner:",
+        "defn_zh": "誠摯地/友好地"
+      },
+      {
+        "word": "ipso facto",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "by that very fact or act:",
+        "defn_zh": "事實上;因此"
+      },
+      {
+        "word": "en passant",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in passing; incidentally:",
+        "defn_zh": "順帶一提地;偶然地"
+      },
+      {
+        "word": "regardless",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "despite the prevailing circumstances; without being deterred:",
+        "defn_zh": "不管怎樣;儘管如此"
+      },
+      {
+        "word": "subsequently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "afterward; following in time or order:",
+        "defn_zh": "隨後;其後"
+      },
+      {
+        "word": "aside",
+        "pos": "adv./n.",
+        "pos_key": "adv.",
+        "defn_en": "to or on one side; a remark not meant to be heard by everyone:",
+        "defn_zh": "在旁邊;旁白"
+      },
+      {
+        "word": "vice versa",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "with the order or meaning reversed; conversely:",
+        "defn_zh": "反之亦然"
+      },
+      {
+        "word": "forward",
+        "pos": "adv./adj.",
+        "pos_key": "adv.",
+        "defn_en": "toward the front or future; bold or presumptuous:",
+        "defn_zh": "向前的;冒失的"
+      }
+    ],
+    "other": [
+      {
+        "word": "（此批單字中，暫無符合此字根/字首的單字）",
+        "pos": "",
+        "pos_key": "other",
+        "defn_en": "",
+        "defn_zh": ""
+      }
+    ],
+    "prep./adv.": [
+      {
+        "word": "besides",
+        "pos": "prep./adv.",
+        "pos_key": "prep./adv.",
+        "defn_en": "in addition to; furthermore:",
+        "defn_zh": "除...之外;此外"
+      }
+    ],
+    "phrasalv.": [
+      {
+        "word": "egg on",
+        "pos": "phrasal v.",
+        "pos_key": "phrasalv.",
+        "defn_en": "to encourage someone to do something, often risky:",
+        "defn_zh": "慫恿;鼓動"
+      }
+    ],
+    "abbr.": [
+      {
+        "word": "etc.",
+        "pos": "abbr.",
+        "pos_key": "abbr.",
+        "defn_en": "and other similar things (abbreviation of et cetera):",
+        "defn_zh": "等等(et cetera的縮寫)"
+      }
+    ],
+    "interj.": [
+      {
+        "word": "fiddledeedee",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "an exclamation expressing dismissal of something as nonsense:",
+        "defn_zh": "廢話!(表示不屑一顧)"
+      },
+      {
+        "word": "gesundheit",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "an expression said to someone who has just sneezed:",
+        "defn_zh": "保重(打噴嚏後的祝福語)"
+      }
+    ],
+    "prep.": [
+      {
+        "word": "via",
+        "pos": "prep.",
+        "pos_key": "prep.",
+        "defn_en": "by way of; passing through:",
+        "defn_zh": "經由;透過"
+      }
+    ]
+  }
+}
