@@ -22,7 +22,7 @@ The script validates the current expanded workbook: 6,805 records, 3,824 unclass
 
 ## Quiz result logging
 
-Deploy a Google Apps Script Web App that appends payloads to the `quiz result` sheet, then paste its `/exec` URL into `assets/config.js`. The site sends one JSON payload per completed batch with timestamp, student name/class, batch id/name, score percentage, mistake words, and per-question results. Until an endpoint is configured, completion remains saved locally and no student data leaves the browser.
+Deploy `scripts/google_apps_script.gs` as a Google Apps Script Web App, then paste its `/exec` URL into `assets/config.js`. The receiver appends payloads to the `quiz result` sheet and automatically adds any missing result columns. The site requires a student name before the quiz and sends one JSON payload per completed batch with timestamp, student name/class, batch id/name, score percentage, mistake words, and per-question results. Until an endpoint is configured, the result is queued on the student's device and retried later.
 
 Expected columns already present: `timeDate`, `studentName`, `quizBatchNumber`, `resultPercentage`, `mistakeWords`.
 
