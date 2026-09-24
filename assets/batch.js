@@ -183,11 +183,15 @@ function savePending(payload) {
 async function sendPayload(payload) {
   const endpoint = window.SAT_RESULTS_ENDPOINT || '';
   if (!endpoint) return false;
+  const body = JSON.stringify(payload);
   try {
-    await fetch(endpoint, { method: 'POST', mode: 'no-cors', headers: { 'Content-Type': 'text/plain;charset=utf-8' }, body: JSON.stringify(payload) });
+    await fetch(endpoint, { method: 'POST', mode: 'no-cors', headers: { 'Content-Type': 'text/plain;charset=utf-8' }, body });
     return true;
   } catch {
-    return false;
+    // Some browsers reject the opaque redirect returned by Google Apps Script
+    // even though the result receiver itself is available. sendBeacon queues
+    // the same JSON without waiting for that cross-origin response.
+    return typeof navigator.sendBeacon === 'function' && navigator.sendBeacon(endpoint, body);
   }
 }
 
