@@ -1,0 +1,160 @@
+{
+  "id": "p1-08-by",
+  "merge_with_source": false,
+  "name": "by",
+  "subtitle": "次要；附帶；在旁",
+  "words": [
+    {
+      "word": "byproduct",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "something produced as an additional or secondary result of a process:",
+      "defn_zh": "副產品；附帶產物",
+      "root_note": "by- (secondary or incidental) + product (something produced)",
+      "sentences": [
+        {
+          "en": "The researchers discovered that the new chemical process yielded a valuable ______ that could be used in fertilizer.",
+          "zh": "研究人員發現，這種新的化學製程產生了一種可用於肥料的有價值副產品。"
+        },
+        {
+          "en": "In many historical movements, social reform was often a ______ of economic and technological advancements.",
+          "zh": "在許多歷史運動中，社會改革往往是經濟與技術進步的附帶產物。"
+        }
+      ],
+      "category": {"part": 1, "num": "08", "spelling": "by", "meaning": "次要；附帶；在旁"}
+    },
+    {
+      "word": "bystander",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a person who is present at an event but does not take part in it:",
+      "defn_zh": "旁觀者；目擊者",
+      "root_note": "by- (beside) + stander (a person who stands)",
+      "sentences": [
+        {
+          "en": "Psychologists study the bystander effect, in which an innocent ______ is less likely to help a victim when others are present.",
+          "zh": "心理學家研究「旁觀者效應」，即當有其他人在場時，無辜的旁觀者伸出援手拯救受害者的可能性會降低。"
+        },
+        {
+          "en": "A ______ witnessed the sudden collapse of the historic monument and immediately called for assistance.",
+          "zh": "一名旁觀者目睹了這座歷史紀念碑的突然倒塌，並立即呼叫援助。"
+        }
+      ],
+      "category": {"part": 1, "num": "08", "spelling": "by", "meaning": "次要；附帶；在旁"}
+    },
+    {
+      "word": "bylaw",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a rule made by an organization or local authority to govern its own affairs:",
+      "defn_zh": "內部章程；地方規章；附則",
+      "root_note": "by- (local or subsidiary, from Old Norse byr, town) + law (rule)",
+      "sentences": [
+        {
+          "en": "The committee proposed an amendment to the corporate ______ to ensure greater transparency in shareholder voting.",
+          "zh": "委員會提出了公司內部章程的修正案，以確保股東投票有更高的透明度。"
+        },
+        {
+          "en": "According to a city ______, residents are strictly prohibited from building structures within ten feet of the property line.",
+          "zh": "根據一項城市地方規章，居民嚴禁在距離地界線十英尺以內建造任何建築物。"
+        }
+      ],
+      "category": {"part": 1, "num": "08", "spelling": "by", "meaning": "次要；附帶；在旁"}
+    },
+    {
+      "word": "bypass",
+      "pos": "v. / n.",
+      "pos_key": "v.",
+      "defn_en": "to avoid or go around something; a road or route that passes around a place:",
+      "defn_zh": "繞過；避開；旁路",
+      "root_note": "by- (beside or around) + pass (go through)",
+      "sentences": [
+        {
+          "en": "The tech startup managed to ______ traditional distribution channels by selling its product directly to consumers online.",
+          "zh": "這家科技新創公司透過在網路上將產品直接銷售給消費者，成功繞過了傳統的通路。"
+        },
+        {
+          "en": "To relieve urban traffic congestion, the government funded the construction of a major highway ______.",
+          "zh": "為了緩解城市交通擁堵，政府出資修建了一條主要的公路繞道。"
+        }
+      ],
+      "category": {"part": 1, "num": "08", "spelling": "by", "meaning": "次要；附帶；在旁"}
+    },
+    {
+      "word": "byroad",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a minor or seldom-used road away from the main routes:",
+      "defn_zh": "偏僻小路；僻徑",
+      "root_note": "by- (secondary or out of the way) + road (route)",
+      "sentences": [
+        {
+          "en": "To escape the heavy traffic on the main highway, the driver decided to take a winding ______ through the countryside.",
+          "zh": "為了避開主要公路上的沉重車流，駕駛決定行駛一條穿過鄉村的蜿蜒小路。"
+        },
+        {
+          "en": "The historical map showed how a remote ______ was used by soldiers to transport supplies secretly during the war.",
+          "zh": "這幅歷史地圖顯示了戰爭期間士兵如何利用一條偏僻小路秘密運輸物資。"
+        }
+      ],
+      "category": {"part": 1, "num": "08", "spelling": "by", "meaning": "次要；附帶；在旁"}
+    },
+    {
+      "word": "byword",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a person or thing closely associated with a particular quality; a proverb or common saying:",
+      "defn_zh": "諺語；綽號；代名詞",
+      "root_note": "by- (beside or incidental) + word (spoken or written expression)",
+      "sentences": [
+        {
+          "en": "Through years of dedicated philanthropic work, the organization's name became a ______ for compassion.",
+          "zh": "透過多年致力於慈善工作，該組織的名字成為了慈悲的代名詞。"
+        },
+        {
+          "en": "In the 1920s, the ruthless politician's surname was a ______ for corruption and political greed.",
+          "zh": "在 1920 年代，這位殘酷政客的姓氏是腐敗與政治貪婪的代名詞。"
+        }
+      ],
+      "category": {"part": 1, "num": "08", "spelling": "by", "meaning": "次要；附帶；在旁"}
+    },
+    {
+      "word": "byline",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a line in a newspaper or online article that names its author:",
+      "defn_zh": "（報刊文章開頭的）作者署名",
+      "root_note": "by (written by) + line (a line of text)",
+      "sentences": [
+        {
+          "en": "The investigative journalist was thrilled to see her ______ on the front page of the international newspaper.",
+          "zh": "這位調查記者看到自己的署名出現在國際報紙的頭版上，感到非常興奮。"
+        },
+        {
+          "en": "Readers often look at the ______ to evaluate the credibility and expertise of the article's author.",
+          "zh": "讀者經常透過看作者署名來評估文章作者的公信力與專業度。"
+        }
+      ],
+      "category": {"part": 1, "num": "08", "spelling": "by", "meaning": "次要；附帶；在旁"}
+    },
+    {
+      "word": "bygone",
+      "pos": "adj. / n.",
+      "pos_key": "adj.",
+      "defn_en": "belonging to an earlier time; something that happened in the past:",
+      "defn_zh": "過去的；以往的；往事",
+      "root_note": "by (past or away) + gone (departed)",
+      "sentences": [
+        {
+          "en": "The museum displayed artifacts from a ______ era, offering a glimpse into daily life during the Renaissance.",
+          "zh": "博物館展示了來自過去時代的文物，讓人們得以一窺文藝復興時期的日常生活。"
+        },
+        {
+          "en": "The philosopher urged his followers to leave each ______ conflict behind and focus entirely on future endeavors.",
+          "zh": "哲學家敦促追隨者放下每一段過往的衝突，全心專注於未來的努力。"
+        }
+      ],
+      "category": {"part": 1, "num": "08", "spelling": "by", "meaning": "次要；附帶；在旁"}
+    }
+  ]
+}

@@ -4,7 +4,7 @@
     "total_batches": 235,
     "part1_part2_batches": 158,
     "unclassified_batches": 77,
-    "generated_batches": 8
+    "generated_batches": 9
   },
   "batches": [
     {
@@ -102,10 +102,10 @@
       "part": "part1",
       "part_label": "Part 1 字首篇 (Prefixes)",
       "name": "by",
-      "subtitle": "旁邊",
-      "count": 1,
-      "generated": false,
-      "search_terms": "（此批單字中，暫無符合此字根/字首的單字）"
+      "subtitle": "次要；附帶；在旁",
+      "count": 8,
+      "generated": true,
+      "search_terms": "byproduct bystander bylaw bypass byroad byword byline bygone"
     },
     {
       "id": "p1-09-circum",
