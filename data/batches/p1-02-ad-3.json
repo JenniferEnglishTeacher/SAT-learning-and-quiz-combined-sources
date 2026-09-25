@@ -2,9 +2,9 @@
   "id": "p1-02-ad-3",
   "part": "part1",
   "part_label": "Part 1 字首篇 (Prefixes)",
-  "name": "ad (3/4)",
+  "name": "ad (3/3)",
   "subtitle": "朝向",
-  "count": 50,
+  "count": 53,
   "words": [
     {
       "word": "applause",
@@ -1205,6 +1205,78 @@
         "spelling": "ad",
         "meaning": "朝向"
       }
+    },
+    {
+      "word": "inadvertently",
+      "pos": "adv.",
+      "pos_key": "adv.",
+      "defn_en": "unintentionally or by accident:",
+      "defn_zh": "無意間/不小心地",
+      "root_note": "in- (not) + ad- (toward) + vertere (to turn)",
+      "sentences": [
+        {
+          "en": "The new worker caused a ruckus when he ______ deleted an important file.",
+          "zh": "這位新員工不小心刪除了一份重要檔案,因而引起一陣騷動。"
+        },
+        {
+          "en": "She ______ revealed the surprise party while talking on the phone.",
+          "zh": "她在講電話時無意間洩漏了驚喜派對的消息。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "02",
+        "spelling": "ad",
+        "meaning": "朝向"
+      }
+    },
+    {
+      "word": "maladjusted",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "dysfunctional:",
+      "defn_zh": "適應不良的",
+      "root_note": "mal- (bad) + ad- (to) + justus (right)",
+      "sentences": [
+        {
+          "en": "The counselor worked with ______ teens struggling to fit in at school.",
+          "zh": "這位輔導員協助那些在學校難以融入、適應不良的青少年。"
+        },
+        {
+          "en": "Without proper support, the refugee children became increasingly ______.",
+          "zh": "缺乏適當的支持,這些難民兒童變得越來越適應不良。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "02",
+        "spelling": "ad",
+        "meaning": "朝向"
+      }
+    },
+    {
+      "word": "unabated",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "without subsiding:continuous",
+      "defn_zh": "不減退的/未減弱的",
+      "root_note": "un- (not) + ad- (to) + battere (to beat)",
+      "sentences": [
+        {
+          "en": "The storm continued ______ throughout the night, causing widespread flooding.",
+          "zh": "這場暴風雨整夜未曾減弱,造成大範圍淹水。"
+        },
+        {
+          "en": "Despite the setback, her enthusiasm for the project remained ______.",
+          "zh": "儘管遭遇挫折,她對這項計畫的熱情絲毫未減。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "02",
+        "spelling": "ad",
+        "meaning": "朝向"
+      }
     }
   ],
   "fallback_options": {
@@ -1475,13 +1547,6 @@
         "defn_zh": "相應地;因此"
       },
       {
-        "word": "inadvertently",
-        "pos": "adv.",
-        "pos_key": "adv.",
-        "defn_en": "unintentionally or by accident:",
-        "defn_zh": "無意間/不小心地"
-      },
-      {
         "word": "consequently",
         "pos": "adv.",
         "pos_key": "adv.",
@@ -1550,6 +1615,13 @@
         "pos_key": "adv.",
         "defn_en": "with the order or meaning reversed; conversely:",
         "defn_zh": "反之亦然"
+      },
+      {
+        "word": "forward",
+        "pos": "adv./adj.",
+        "pos_key": "adv.",
+        "defn_en": "toward the front or future; bold or presumptuous:",
+        "defn_zh": "向前的;冒失的"
       }
     ],
     "other": [

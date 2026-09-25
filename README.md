@@ -1,10 +1,10 @@
 # SAT Vocabulary Learning & Quiz
 
-A mobile-friendly static learning site for 6,805 SAT vocabulary records, organized into 236 root, prefix, and alphabetical batches.
+A mobile-friendly static learning site for 6,805 SAT vocabulary records, organized into 235 root, prefix, and alphabetical batches.
 
 ## Current state
 
-- The complete 236-batch course map is generated from the workbook.
+- The complete 235-batch course map is generated from the workbook.
 - One reusable learn-and-quiz page serves every batch.
 - Batch JSON files are added incrementally; `data/progress.json` is the source of truth.
 - Learn mode locks each word after the first definition choice.
@@ -18,7 +18,7 @@ Keep the canonical local workbook at `source/Barrons_1100_by_root_prefix.xlsx`. 
 python scripts/build_batches.py --batch-count 1
 ```
 
-The script validates the current expanded workbook: 6,805 records, 3,824 unclassified words, 134 categories, and 236 batches before writing output.
+The script validates the current expanded workbook: 6,805 records, 3,824 unclassified words, 134 categories, and 235 batches before writing output. The final three `ad` words are intentionally merged into the preceding `ad` batch, which therefore contains 53 words.
 
 ## Quiz result logging
 

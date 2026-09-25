@@ -66,6 +66,11 @@ def categorized_batches(records,part):
     for (num,spelling,meaning),words in grouped.items():
         ordered=sorted(words,key=lambda x:x["word"].casefold()) if len(words)>50 else words
         chunks=[ordered[i:i+50] for i in range(0,len(ordered),50)]
+        # Keep the three-word final ad group with the preceding batch instead
+        # of publishing a separate, impractically small lesson.
+        if part == 1 and num == "02" and spelling == "ad" and len(chunks) == 4 and len(chunks[-1]) == 3:
+            chunks[-2].extend(chunks[-1])
+            chunks.pop()
         for i,chunk in enumerate(chunks,1):
             suffix=f" ({i}/{len(chunks)})" if len(chunks)>1 else ""
             batch_id=f"p{part}-{num}-{slugify(spelling)}"+(f"-{i}" if len(chunks)>1 else "")
@@ -95,7 +100,7 @@ def main():
     args=parser.parse_args(); p1,p2,u=load_records(args.source); all_records=p1+p2+u
     batches=categorized_batches(p1,1)+categorized_batches(p2,2)+unclassified_batches(u)
     categories=len({(r["category"]["part"],r["category"]["num"],r["category"]["spelling"]) for r in p1+p2})
-    if (len(all_records),len(u),categories,len(batches))!=(6805,3824,134,236): raise ValueError(f"Sanity check failed: {len(all_records)=}, {len(u)=}, {categories=}, {len(batches)=}")
+    if (len(all_records),len(u),categories,len(batches))!=(6805,3824,134,235): raise ValueError(f"Sanity check failed: {len(all_records)=}, {len(u)=}, {categories=}, {len(batches)=}")
     progress={"generated":[],"total":len(batches)}
     if PROGRESS_PATH.exists(): progress=json.loads(PROGRESS_PATH.read_text(encoding="utf-8"))
     generated=set(progress.get("generated",[]))

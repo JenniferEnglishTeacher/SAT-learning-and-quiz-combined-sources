@@ -1,10 +1,10 @@
 {
   "summary": {
     "total_words": 6805,
-    "total_batches": 236,
-    "part1_part2_batches": 159,
+    "total_batches": 235,
+    "part1_part2_batches": 158,
     "unclassified_batches": 77,
-    "generated_batches": 5
+    "generated_batches": 4
   },
   "batches": [
     {
@@ -21,7 +21,7 @@
       "id": "p1-02-ad-1",
       "part": "part1",
       "part_label": "Part 1 字首篇 (Prefixes)",
-      "name": "ad (1/4)",
+      "name": "ad (1/3)",
       "subtitle": "朝向",
       "count": 50,
       "generated": true,
@@ -31,7 +31,7 @@
       "id": "p1-02-ad-2",
       "part": "part1",
       "part_label": "Part 1 字首篇 (Prefixes)",
-      "name": "ad (2/4)",
+      "name": "ad (2/3)",
       "subtitle": "朝向",
       "count": 50,
       "generated": true,
@@ -41,21 +41,11 @@
       "id": "p1-02-ad-3",
       "part": "part1",
       "part_label": "Part 1 字首篇 (Prefixes)",
-      "name": "ad (3/4)",
+      "name": "ad (3/3)",
       "subtitle": "朝向",
-      "count": 50,
+      "count": 53,
       "generated": true,
-      "search_terms": "applause applicable appointee apposite appraise apprehend apprehension apprehensive approbation appropriate approve approximate arbiter array arrogance arrogant arrogate ascend ascertain ascribe aspersion aspirant aspire assail assailant assault assemble assent assert assess asset asseverate assiduous assimilate assonance assuage assume assumption astringent attain attention attenuated attest attribute avenge avenue aver avow avowal inadvertent"
-    },
-    {
-      "id": "p1-02-ad-4",
-      "part": "part1",
-      "part_label": "Part 1 字首篇 (Prefixes)",
-      "name": "ad (4/4)",
-      "subtitle": "朝向",
-      "count": 3,
-      "generated": true,
-      "search_terms": "inadvertently maladjusted unabated"
+      "search_terms": "applause applicable appointee apposite appraise apprehend apprehension apprehensive approbation appropriate approve approximate arbiter array arrogance arrogant arrogate ascend ascertain ascribe aspersion aspirant aspire assail assailant assault assemble assent assert assess asset asseverate assiduous assimilate assonance assuage assume assumption astringent attain attention attenuated attest attribute avenge avenue aver avow avowal inadvertent inadvertently maladjusted unabated"
     },
     {
       "id": "p1-03-anti",
