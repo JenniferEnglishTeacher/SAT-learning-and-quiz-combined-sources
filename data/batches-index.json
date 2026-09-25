@@ -4,7 +4,7 @@
     "total_batches": 235,
     "part1_part2_batches": 158,
     "unclassified_batches": 77,
-    "generated_batches": 10
+    "generated_batches": 11
   },
   "batches": [
     {
@@ -114,7 +114,7 @@
       "name": "circum",
       "subtitle": "周圍；環繞",
       "count": 9,
-      "generated": false,
+      "generated": true,
       "search_terms": "circumlocution circumspect circumcision circumflex circumlocutory circumnavigate circumscribe circumstance circumvent"
     },
     {
