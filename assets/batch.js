@@ -120,7 +120,7 @@ function renderReference() {
   batch.words.forEach(word => {
     const card = document.createElement('article');
     card.className = 'reference-card';
-    card.innerHTML = `<div class="word-card-header"><h3>${esc(word.word)} <span class="pos">${esc(word.pos)}</span></h3>${speaker(word.word, `Listen to ${word.word}`)}</div><div class="reference-definitions"><div class="reference-definition"><strong>English definition</strong>${esc(word.defn_en)}</div><div class="reference-definition"><strong>繁體中文</strong>${esc(word.defn_zh)}</div></div><div class="reference-sentences">${word.sentences.map(sentence => { const text = full(sentence.en, word.word); return `<div class="reference-sentence"><div>${speaker(text, 'Listen to example sentence')}<span>${highlighted(text, word.word)}</span></div><p><strong>翻譯：</strong> ${esc(sentence.zh)}</p></div>`; }).join('')}</div>`;
+    card.innerHTML = `<div class="word-card-header"><h3>${esc(word.word)} <span class="pos">${esc(word.pos)}</span></h3>${speaker(word.word, `Listen to ${word.word}`)}</div><p class="root-note reference-root-note"><strong>Prefix/root clue:</strong> ${esc(word.root_note || 'Use the word in context.')}</p><div class="reference-definitions"><div class="reference-definition"><strong>English definition</strong>${esc(word.defn_en)}</div><div class="reference-definition"><strong>繁體中文</strong>${esc(word.defn_zh)}</div></div><div class="reference-sentences">${word.sentences.map(sentence => { const text = full(sentence.en, word.word); return `<div class="reference-sentence"><div>${speaker(text, 'Listen to example sentence')}<span>${highlighted(text, word.word)}</span></div><p><strong>翻譯：</strong> ${esc(sentence.zh)}</p></div>`; }).join('')}</div>`;
     referenceGrid.append(card);
   });
 }
