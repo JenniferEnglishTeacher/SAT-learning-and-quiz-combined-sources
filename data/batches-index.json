@@ -4,7 +4,7 @@
     "total_batches": 235,
     "part1_part2_batches": 158,
     "unclassified_batches": 77,
-    "generated_batches": 7
+    "generated_batches": 8
   },
   "batches": [
     {
@@ -92,10 +92,10 @@
       "part": "part1",
       "part_label": "Part 1 字首篇 (Prefixes)",
       "name": "bi",
-      "subtitle": "二",
-      "count": 2,
-      "generated": false,
-      "search_terms": "bigamy binoculars"
+      "subtitle": "二；雙重；雙邊",
+      "count": 10,
+      "generated": true,
+      "search_terms": "bigamy binoculars bilateral biennial bipartisan bifurcate bigotry biped bias bimonthly"
     },
     {
       "id": "p1-08-by",

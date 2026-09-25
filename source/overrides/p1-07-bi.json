@@ -1,0 +1,160 @@
+{
+  "id": "p1-07-bi",
+  "merge_with_source": true,
+  "name": "bi",
+  "subtitle": "二；雙重；雙邊",
+  "words": [
+    {
+      "word": "bilateral",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "involving or affecting two sides, groups, or countries:",
+      "defn_zh": "雙邊的；雙方的",
+      "root_note": "bi- (two) + later (side) + -al (adjective suffix)",
+      "sentences": [
+        {
+          "en": "The two neighboring nations signed a ______ trade agreement to eliminate tariffs on agricultural goods.",
+          "zh": "這兩個鄰國簽署了一項雙邊貿易協定，以取消農產品的關稅。"
+        },
+        {
+          "en": "Diplomats spent months negotiating the terms of the ______ security treaty.",
+          "zh": "外交官們花了數月的時間來談判這項雙邊安全條約的條款。"
+        }
+      ],
+      "category": {"part": 1, "num": "07", "spelling": "bi", "meaning": "二；雙重；雙邊"}
+    },
+    {
+      "word": "biennial",
+      "pos": "adj. / n.",
+      "pos_key": "adj.",
+      "defn_en": "happening once every two years; lasting for two years:",
+      "defn_zh": "每兩年一次的；二年生的（植物）",
+      "root_note": "bi- (two) + enn (year, from Latin annus) + -ial (adjective suffix)",
+      "sentences": [
+        {
+          "en": "The international contemporary art exhibition is a ______ event that attracts artists from all over the world.",
+          "zh": "這項國際當代藝術展是每兩年舉辦一次的盛事，吸引了來自世界各地的藝術家。"
+        },
+        {
+          "en": "Carrots are ______ plants, meaning they complete their biological life cycle in two growing seasons.",
+          "zh": "胡蘿蔔是二年生植物，這意味著它們在兩個生長季節內完成其生物生命週期。"
+        }
+      ],
+      "category": {"part": 1, "num": "07", "spelling": "bi", "meaning": "二；雙重；雙邊"}
+    },
+    {
+      "word": "bipartisan",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "involving the agreement or cooperation of two political parties:",
+      "defn_zh": "跨黨派的；兩黨合作的",
+      "root_note": "bi- (two) + partisan (supporting a political party)",
+      "sentences": [
+        {
+          "en": "The landmark environmental bill passed with strong ______ support in both the Senate and the House.",
+          "zh": "這項具里程碑意義的環保法案在參眾兩院獲得了強大的跨黨派支持而通過。"
+        },
+        {
+          "en": "Political analysts praised the committee's ______ efforts to address the economic crisis.",
+          "zh": "政治分析家讚揚了該委員會為解決經濟危機所做的兩黨合作努力。"
+        }
+      ],
+      "category": {"part": 1, "num": "07", "spelling": "bi", "meaning": "二；雙重；雙邊"}
+    },
+    {
+      "word": "bifurcate",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to divide or cause something to divide into two branches or parts:",
+      "defn_zh": "分叉；分支為二",
+      "root_note": "bi- (two) + furc (fork) + -ate (verb suffix)",
+      "sentences": [
+        {
+          "en": "The hiking trail begins to ______ near the base of the mountain, leading to two separate scenic viewpoints.",
+          "zh": "這條健行步道在山腳附近開始一分為二，通往兩個不同的風景觀景點。"
+        },
+        {
+          "en": "Scholars argue that the political debate has caused the electorate to ______ into two extreme factions.",
+          "zh": "學者們認為，這場政治辯論已導致選民分化為兩個極端派別。"
+        }
+      ],
+      "category": {"part": 1, "num": "07", "spelling": "bi", "meaning": "二；雙重；雙邊"}
+    },
+    {
+      "word": "bigotry",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "unreasonable prejudice and intolerance toward people with different beliefs or identities:",
+      "defn_zh": "偏執；盲信；偏見",
+      "root_note": "bigot (an intolerant person) + -ry (state or practice); not derived from the prefix bi-",
+      "sentences": [
+        {
+          "en": "The organization is dedicated to fighting religious ______ and promoting cultural tolerance worldwide.",
+          "zh": "該組織致力於打擊宗教偏執，並在世界範圍內促進文化包容。"
+        },
+        {
+          "en": "The essay analyzed how systemic ______ in the 20th century limited social mobility for minority groups.",
+          "zh": "這篇文章分析了 20 世紀的系統性偏見如何限制了少數族群的社會流動性。"
+        }
+      ],
+      "category": {"part": 1, "num": "07", "spelling": "bi", "meaning": "二；雙重；雙邊"}
+    },
+    {
+      "word": "biped",
+      "pos": "n. / adj.",
+      "pos_key": "n.",
+      "defn_en": "an animal that walks on two feet; having two feet:",
+      "defn_zh": "二足動物；兩足的",
+      "root_note": "bi- (two) + ped (foot)",
+      "sentences": [
+        {
+          "en": "Evolutionary biologists study how the early human became a fully upright ______.",
+          "zh": "演化生物學家研究早期人類如何成為完全直立行走的二足動物。"
+        },
+        {
+          "en": "Unlike most mammals, a kangaroo is a ______ that moves efficiently by hopping.",
+          "zh": "與大多數哺乳動物不同，袋鼠是透過跳躍來高效移動的二足動物。"
+        }
+      ],
+      "category": {"part": 1, "num": "07", "spelling": "bi", "meaning": "二；雙重；雙邊"}
+    },
+    {
+      "word": "bias",
+      "pos": "n. / v.",
+      "pos_key": "n.",
+      "defn_en": "an unfair preference or prejudice; to influence someone or something unfairly:",
+      "defn_zh": "偏見；偏向",
+      "root_note": "from Old French biais (slant or oblique direction); not derived from the numerical prefix bi-",
+      "sentences": [
+        {
+          "en": "Researchers must design double-blind studies to prevent personal ______ from affecting the scientific results.",
+          "zh": "研究人員必須設計雙盲研究，以防止個人偏見影響科學結果。"
+        },
+        {
+          "en": "The critic argued that the media coverage showed a clear ______ against the newly formed political party.",
+          "zh": "評論家認為，媒體的報導對新成立的政黨表現出明顯的偏見。"
+        }
+      ],
+      "category": {"part": 1, "num": "07", "spelling": "bi", "meaning": "二；雙重；雙邊"}
+    },
+    {
+      "word": "bimonthly",
+      "pos": "adj. / adv.",
+      "pos_key": "adj.",
+      "defn_en": "occurring every two months or twice a month:",
+      "defn_zh": "每兩個月一次的；每月兩次的",
+      "root_note": "bi- (two) + monthly (occurring each month)",
+      "sentences": [
+        {
+          "en": "The academic journal is published on a ______ basis, releasing six comprehensive issues each year.",
+          "zh": "這本學術期刊每兩個月出版一次，每年發行六期綜合刊物。"
+        },
+        {
+          "en": "The board of directors holds ______ meetings to review the company's financial performance.",
+          "zh": "董事會每兩個月舉行一次會議，以審查公司的財務表現。"
+        }
+      ],
+      "category": {"part": 1, "num": "07", "spelling": "bi", "meaning": "二；雙重；雙邊"}
+    }
+  ]
+}
