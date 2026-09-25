@@ -1,0 +1,657 @@
+{
+  "id": "p1-06-bene",
+  "part": "part1",
+  "part_label": "Part 1 字首篇 (Prefixes)",
+  "name": "bene",
+  "subtitle": "良好；慈善；祝福",
+  "count": 10,
+  "words": [
+    {
+      "word": "benediction",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a blessing, especially one given at the end of a religious service:",
+      "defn_zh": "祝福；賜福",
+      "root_note": "bene- (good) + dict (say) + -ion (noun suffix)",
+      "sentences": [
+        {
+          "en": "At the end of the traditional wedding ceremony, the priest pronounced a solemn ______ upon the newlyweds.",
+          "zh": "在傳統婚禮結束時，牧師對新婚夫婦發表了莊嚴的祝福。"
+        },
+        {
+          "en": "He viewed the gentle spring rain as a natural ______ for the newly planted crops.",
+          "zh": "他將溫柔的春雨視為大自然對新播種農作物的賜福。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "06",
+        "spelling": "bene",
+        "meaning": "良好；慈善；祝福"
+      }
+    },
+    {
+      "word": "benefactor",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a person who gives money or other help to a person or organization:",
+      "defn_zh": "捐助者；恩人",
+      "root_note": "bene- (good) + fact (do or make) + -or (person)",
+      "sentences": [
+        {
+          "en": "An anonymous ______ generously offered to pay for the talented student's entire university tuition.",
+          "zh": "一位匿名的捐助者慷慨地提出要支付這位有才華的學生的大學全額學費。"
+        },
+        {
+          "en": "Without the financial support of a private ______, the art museum would have closed years ago.",
+          "zh": "如果沒有私人捐助者的資金支持，這家美術館在幾年前就會關閉了。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "06",
+        "spelling": "bene",
+        "meaning": "良好；慈善；祝福"
+      }
+    },
+    {
+      "word": "beneficence",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "the quality of doing good; generous acts of kindness:",
+      "defn_zh": "善行;仁慈",
+      "root_note": "bene- (well) + facere (to do)",
+      "sentences": [
+        {
+          "en": "The foundation's ______ has funded schools across three countries.",
+          "zh": "這個基金會的善行,已資助了三個國家的學校。"
+        },
+        {
+          "en": "Her quiet ______ toward struggling students went largely unnoticed.",
+          "zh": "她對處境艱難學生默默的仁慈,大多不為人知。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "06",
+        "spelling": "bene",
+        "meaning": "好"
+      }
+    },
+    {
+      "word": "beneficent",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "doing good or actively helping others:",
+      "defn_zh": "行善的；有慈善心的",
+      "root_note": "bene- (good) + fic (do or make) + -ent (adjective suffix)",
+      "sentences": [
+        {
+          "en": "The organization is recognized worldwide for its ______ efforts to provide clean water to remote villages.",
+          "zh": "該組織因其在向偏遠村莊提供乾淨飲用水方面的行善努力，而獲得全球認可。"
+        },
+        {
+          "en": "She dedicated her retirement years to ______ work, volunteering at the local animal shelter every day.",
+          "zh": "她將退休後的歲月投入到行善工作中，每天都在當地的動物收容所當志工。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "06",
+        "spelling": "bene",
+        "meaning": "良好；慈善；祝福"
+      }
+    },
+    {
+      "word": "beneficial",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "helpful, advantageous, or producing a good result:",
+      "defn_zh": "有益的；有利的",
+      "root_note": "bene- (good) + fic (do or make) + -ial (adjective suffix)",
+      "sentences": [
+        {
+          "en": "Studies show that regular exercise combined with a balanced diet is highly ______ to long-term cognitive health.",
+          "zh": "研究顯示，規律運動結合均衡飲食對長期的認知健康非常有益。"
+        },
+        {
+          "en": "The two neighboring nations signed a trade agreement that was mutually ______ to their economies.",
+          "zh": "這兩個鄰國簽署了一項對雙方經濟互利的貿易協定。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "06",
+        "spelling": "bene",
+        "meaning": "良好；慈善；祝福"
+      }
+    },
+    {
+      "word": "benevolence",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "kindness and generosity toward others:",
+      "defn_zh": "仁慈;善心",
+      "root_note": "bene- (well) + velle (to wish)",
+      "sentences": [
+        {
+          "en": "The community relied on the ______ of local donors to rebuild the shelter.",
+          "zh": "這個社區仰賴當地捐助者的善心,重建了收容所。"
+        },
+        {
+          "en": "Her ______ extended to strangers as readily as to close friends.",
+          "zh": "她的仁慈不僅施予摯友,對陌生人也是一視同仁。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "06",
+        "spelling": "bene",
+        "meaning": "好"
+      }
+    },
+    {
+      "word": "benign",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "gentle and harmless; not cancerous:",
+      "defn_zh": "良性的；無害的；慈祥的",
+      "root_note": "bene- (good) + gnus (born or nature)",
+      "sentences": [
+        {
+          "en": "The patient felt an immense wave of relief when the doctor confirmed that the tumor was entirely ______.",
+          "zh": "當醫生證實腫瘤完全是良性時，病人感到無比的寬慰。"
+        },
+        {
+          "en": "The old king possessed a ______ expression that instantly put his anxious subjects at ease.",
+          "zh": "老國王有著慈祥的面容，這讓焦慮的臣民們立刻安心下來。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "06",
+        "spelling": "bene",
+        "meaning": "良好；慈善；祝福"
+      }
+    },
+    {
+      "word": "benevolent",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "kind, generous, and willing to help others:",
+      "defn_zh": "仁慈的；慈善的",
+      "root_note": "bene- (good) + vol (will or wish) + -ent (adjective suffix)",
+      "sentences": [
+        {
+          "en": "The wealthy industrialist was known for his ______ nature, donating millions to fund public libraries.",
+          "zh": "這位富有的實業家以其仁慈的本性而聞名，捐贈了數百萬美元來資助公共圖書館。"
+        },
+        {
+          "en": "The ruler's ______ policies significantly improved the standard of living for the lower class.",
+          "zh": "這位統治者的仁政顯著改善了底層階級的生活水準。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "06",
+        "spelling": "bene",
+        "meaning": "良好；慈善；祝福"
+      }
+    },
+    {
+      "word": "beneficiary",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a person or organization that receives an advantage, gift, or inheritance:",
+      "defn_zh": "受益人；受惠者",
+      "root_note": "bene- (good) + fic (do or make) + -iary (person or thing)",
+      "sentences": [
+        {
+          "en": "The local community center was the primary ______ of the charity gala's proceeds.",
+          "zh": "當地的社區中心是這次慈善晚會收入的主要受益者。"
+        },
+        {
+          "en": "Upon his grandfather's passing, he discovered he was the sole ______ of the estate.",
+          "zh": "在他祖父過世後，他發現自己是那筆遺產的唯一受益人。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "06",
+        "spelling": "bene",
+        "meaning": "良好；慈善；祝福"
+      }
+    },
+    {
+      "word": "benefit",
+      "pos": "n. / v.",
+      "pos_key": "n.",
+      "defn_en": "an advantage or helpful result; to help or improve something:",
+      "defn_zh": "利益；好處；有益於",
+      "root_note": "bene- (good) + fit (do or make)",
+      "sentences": [
+        {
+          "en": "One major ______ of working from home is the complete elimination of daily commuting stress.",
+          "zh": "在家工作的一個主要好處是完全消除了每天通勤的壓力。"
+        },
+        {
+          "en": "The historical preservation project will greatly ______ future generations of researchers.",
+          "zh": "這個歷史保護計畫將使未來的研究人員大為受益。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "06",
+        "spelling": "bene",
+        "meaning": "良好；慈善；祝福"
+      }
+    }
+  ],
+  "fallback_options": {
+    "v.": [
+      {
+        "word": "abound",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to exist in great numbers:",
+        "defn_zh": "充滿"
+      },
+      {
+        "word": "abrogate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to deprive of legal force, to nullify:=abolish",
+        "defn_zh": "廢除/取消"
+      },
+      {
+        "word": "abjure",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to renounce, abstain from:",
+        "defn_zh": "發誓放棄/棄絕"
+      },
+      {
+        "word": "abbreviate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to shorten a word or phrase:",
+        "defn_zh": "縮寫;縮短"
+      },
+      {
+        "word": "abdicate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to give up a position, usually one of leadership:",
+        "defn_zh": "退位/放棄(職位)"
+      },
+      {
+        "word": "abduct",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to kidnap, take by force:",
+        "defn_zh": "綁架/劫持"
+      },
+      {
+        "word": "abhor",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to regard with disgust and hatred:",
+        "defn_zh": "憎惡/厭惡"
+      },
+      {
+        "word": "abnegate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to deny or renounce:",
+        "defn_zh": "放棄/克制"
+      },
+      {
+        "word": "abolish",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to formally put an end to a system, practice, or institution:",
+        "defn_zh": "廢除"
+      },
+      {
+        "word": "abort",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to give up on a half-finished project or effort:",
+        "defn_zh": "中止/放棄"
+      },
+      {
+        "word": "abrade",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to scrape or wear away by friction:",
+        "defn_zh": "磨損;擦傷"
+      },
+      {
+        "word": "abscond",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to sneak away and hide:",
+        "defn_zh": "潛逃/逃匿"
+      }
+    ],
+    "adj.": [
+      {
+        "word": "abortive",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "fruitless, failing:",
+        "defn_zh": "失敗的/夭折的"
+      },
+      {
+        "word": "abstemious",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "moderate in eating or drinking:",
+        "defn_zh": "飲食有節制的"
+      },
+      {
+        "word": "abhorrent",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "detestable, despised:",
+        "defn_zh": "令人厭惡的"
+      },
+      {
+        "word": "absurd",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "ridiculous:",
+        "defn_zh": "荒謬的"
+      },
+      {
+        "word": "aberrant",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "deviating from what is normal or expected:",
+        "defn_zh": "異常的;脫軌的"
+      },
+      {
+        "word": "abject",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "wretched, pitiful:",
+        "defn_zh": "卑賤的/淒慘的"
+      },
+      {
+        "word": "abominable",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "causing moral revulsion; extremely unpleasant:",
+        "defn_zh": "可憎的;惡劣的"
+      },
+      {
+        "word": "abounding",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "existing in large numbers or amounts:",
+        "defn_zh": "大量存在的;豐富的"
+      },
+      {
+        "word": "abrasive",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "showing little concern for others; harsh:",
+        "defn_zh": "粗暴的/刺耳的"
+      },
+      {
+        "word": "abrupt",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "sudden or unexpected; brief and curt in manner:",
+        "defn_zh": "突然的/唐突的"
+      },
+      {
+        "word": "abstract",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "existing purely in the mind; not representing actual reality:",
+        "defn_zh": "抽象的"
+      },
+      {
+        "word": "abstruse",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "hard to comprehend:",
+        "defn_zh": "深奧難懂的"
+      }
+    ],
+    "n.": [
+      {
+        "word": "aversion",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "strong dislike, opposition:",
+        "defn_zh": "厭惡/反感"
+      },
+      {
+        "word": "aberration",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "something that differs from the norm:",
+        "defn_zh": "異常/脫軌"
+      },
+      {
+        "word": "abjection",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a state of complete misery, hopelessness, or degradation:",
+        "defn_zh": "卑賤;悲慘狀態"
+      },
+      {
+        "word": "abjuration",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the solemn renunciation of a belief, cause, or claim:",
+        "defn_zh": "公開放棄;誓絕"
+      },
+      {
+        "word": "ablution",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the act of washing oneself, especially as part of a religious ritual:",
+        "defn_zh": "沐浴;淨身儀式"
+      },
+      {
+        "word": "abnegation",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "denial of comfort to oneself:",
+        "defn_zh": "自我克制/放棄"
+      },
+      {
+        "word": "abomination",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "something that causes disgust or hatred:",
+        "defn_zh": "可憎之事;令人厭惡的東西"
+      },
+      {
+        "word": "abridgement",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a shortened version of a book or other written work:",
+        "defn_zh": "節略本;縮減版"
+      },
+      {
+        "word": "absolution",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "freedom from blame, guilt, sin:",
+        "defn_zh": "赦免/免罪"
+      },
+      {
+        "word": "abstemiousness",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "moderation or self-restraint, especially in eating and drinking:",
+        "defn_zh": "節制;克己"
+      },
+      {
+        "word": "abstinence",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the practice of restraining oneself from something enjoyable, especially food, alcohol, or sex:",
+        "defn_zh": "節制;戒絕"
+      },
+      {
+        "word": "avocation",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a hobby or minor occupation apart from one's main career:",
+        "defn_zh": "副業;業餘愛好"
+      }
+    ],
+    "adv.": [
+      {
+        "word": "accordingly",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in a manner that fits the circumstances; consequently:",
+        "defn_zh": "相應地;因此"
+      },
+      {
+        "word": "inadvertently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "unintentionally or by accident:",
+        "defn_zh": "無意間/不小心地"
+      },
+      {
+        "word": "consequently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "as a result; therefore:",
+        "defn_zh": "因此;結果"
+      },
+      {
+        "word": "contemptuously",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "without respect; in a disdainful manner:",
+        "defn_zh": "輕蔑地"
+      },
+      {
+        "word": "involuntarily",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "done without conscious control:",
+        "defn_zh": "不由自主地"
+      },
+      {
+        "word": "cordially",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in a warm or friendly manner:",
+        "defn_zh": "誠摯地/友好地"
+      },
+      {
+        "word": "ipso facto",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "by that very fact or act:",
+        "defn_zh": "事實上;因此"
+      },
+      {
+        "word": "en passant",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in passing; incidentally:",
+        "defn_zh": "順帶一提地;偶然地"
+      },
+      {
+        "word": "regardless",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "despite the prevailing circumstances; without being deterred:",
+        "defn_zh": "不管怎樣;儘管如此"
+      },
+      {
+        "word": "subsequently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "afterward; following in time or order:",
+        "defn_zh": "隨後;其後"
+      },
+      {
+        "word": "aside",
+        "pos": "adv./n.",
+        "pos_key": "adv.",
+        "defn_en": "to or on one side; a remark not meant to be heard by everyone:",
+        "defn_zh": "在旁邊;旁白"
+      },
+      {
+        "word": "vice versa",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "with the order or meaning reversed; conversely:",
+        "defn_zh": "反之亦然"
+      }
+    ],
+    "other": [
+      {
+        "word": "（此批單字中，暫無符合此字根/字首的單字）",
+        "pos": "",
+        "pos_key": "other",
+        "defn_en": "",
+        "defn_zh": ""
+      }
+    ],
+    "prep./adv.": [
+      {
+        "word": "besides",
+        "pos": "prep./adv.",
+        "pos_key": "prep./adv.",
+        "defn_en": "in addition to; furthermore:",
+        "defn_zh": "除...之外;此外"
+      }
+    ],
+    "phrasalv.": [
+      {
+        "word": "egg on",
+        "pos": "phrasal v.",
+        "pos_key": "phrasalv.",
+        "defn_en": "to encourage someone to do something, often risky:",
+        "defn_zh": "慫恿;鼓動"
+      }
+    ],
+    "abbr.": [
+      {
+        "word": "etc.",
+        "pos": "abbr.",
+        "pos_key": "abbr.",
+        "defn_en": "and other similar things (abbreviation of et cetera):",
+        "defn_zh": "等等(et cetera的縮寫)"
+      }
+    ],
+    "interj.": [
+      {
+        "word": "fiddledeedee",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "an exclamation expressing dismissal of something as nonsense:",
+        "defn_zh": "廢話!(表示不屑一顧)"
+      },
+      {
+        "word": "gesundheit",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "an expression said to someone who has just sneezed:",
+        "defn_zh": "保重(打噴嚏後的祝福語)"
+      }
+    ],
+    "prep.": [
+      {
+        "word": "via",
+        "pos": "prep.",
+        "pos_key": "prep.",
+        "defn_en": "by way of; passing through:",
+        "defn_zh": "經由;透過"
+      }
+    ]
+  }
+}

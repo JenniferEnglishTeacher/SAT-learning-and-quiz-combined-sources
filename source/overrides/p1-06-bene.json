@@ -1,0 +1,160 @@
+{
+  "id": "p1-06-bene",
+  "merge_with_source": true,
+  "name": "bene",
+  "subtitle": "良好；慈善；祝福",
+  "words": [
+    {
+      "word": "benevolent",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "kind, generous, and willing to help others:",
+      "defn_zh": "仁慈的；慈善的",
+      "root_note": "bene- (good) + vol (will or wish) + -ent (adjective suffix)",
+      "sentences": [
+        {
+          "en": "The wealthy industrialist was known for his ______ nature, donating millions to fund public libraries.",
+          "zh": "這位富有的實業家以其仁慈的本性而聞名，捐贈了數百萬美元來資助公共圖書館。"
+        },
+        {
+          "en": "The ruler's ______ policies significantly improved the standard of living for the lower class.",
+          "zh": "這位統治者的仁政顯著改善了底層階級的生活水準。"
+        }
+      ],
+      "category": {"part": 1, "num": "06", "spelling": "bene", "meaning": "良好；慈善；祝福"}
+    },
+    {
+      "word": "benefactor",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a person who gives money or other help to a person or organization:",
+      "defn_zh": "捐助者；恩人",
+      "root_note": "bene- (good) + fact (do or make) + -or (person)",
+      "sentences": [
+        {
+          "en": "An anonymous ______ generously offered to pay for the talented student's entire university tuition.",
+          "zh": "一位匿名的捐助者慷慨地提出要支付這位有才華的學生的大學全額學費。"
+        },
+        {
+          "en": "Without the financial support of a private ______, the art museum would have closed years ago.",
+          "zh": "如果沒有私人捐助者的資金支持，這家美術館在幾年前就會關閉了。"
+        }
+      ],
+      "category": {"part": 1, "num": "06", "spelling": "bene", "meaning": "良好；慈善；祝福"}
+    },
+    {
+      "word": "beneficial",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "helpful, advantageous, or producing a good result:",
+      "defn_zh": "有益的；有利的",
+      "root_note": "bene- (good) + fic (do or make) + -ial (adjective suffix)",
+      "sentences": [
+        {
+          "en": "Studies show that regular exercise combined with a balanced diet is highly ______ to long-term cognitive health.",
+          "zh": "研究顯示，規律運動結合均衡飲食對長期的認知健康非常有益。"
+        },
+        {
+          "en": "The two neighboring nations signed a trade agreement that was mutually ______ to their economies.",
+          "zh": "這兩個鄰國簽署了一項對雙方經濟互利的貿易協定。"
+        }
+      ],
+      "category": {"part": 1, "num": "06", "spelling": "bene", "meaning": "良好；慈善；祝福"}
+    },
+    {
+      "word": "beneficiary",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a person or organization that receives an advantage, gift, or inheritance:",
+      "defn_zh": "受益人；受惠者",
+      "root_note": "bene- (good) + fic (do or make) + -iary (person or thing)",
+      "sentences": [
+        {
+          "en": "The local community center was the primary ______ of the charity gala's proceeds.",
+          "zh": "當地的社區中心是這次慈善晚會收入的主要受益者。"
+        },
+        {
+          "en": "Upon his grandfather's passing, he discovered he was the sole ______ of the estate.",
+          "zh": "在他祖父過世後，他發現自己是那筆遺產的唯一受益人。"
+        }
+      ],
+      "category": {"part": 1, "num": "06", "spelling": "bene", "meaning": "良好；慈善；祝福"}
+    },
+    {
+      "word": "benign",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "gentle and harmless; not cancerous:",
+      "defn_zh": "良性的；無害的；慈祥的",
+      "root_note": "bene- (good) + gnus (born or nature)",
+      "sentences": [
+        {
+          "en": "The patient felt an immense wave of relief when the doctor confirmed that the tumor was entirely ______.",
+          "zh": "當醫生證實腫瘤完全是良性時，病人感到無比的寬慰。"
+        },
+        {
+          "en": "The old king possessed a ______ expression that instantly put his anxious subjects at ease.",
+          "zh": "老國王有著慈祥的面容，這讓焦慮的臣民們立刻安心下來。"
+        }
+      ],
+      "category": {"part": 1, "num": "06", "spelling": "bene", "meaning": "良好；慈善；祝福"}
+    },
+    {
+      "word": "benediction",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a blessing, especially one given at the end of a religious service:",
+      "defn_zh": "祝福；賜福",
+      "root_note": "bene- (good) + dict (say) + -ion (noun suffix)",
+      "sentences": [
+        {
+          "en": "At the end of the traditional wedding ceremony, the priest pronounced a solemn ______ upon the newlyweds.",
+          "zh": "在傳統婚禮結束時，牧師對新婚夫婦發表了莊嚴的祝福。"
+        },
+        {
+          "en": "He viewed the gentle spring rain as a natural ______ for the newly planted crops.",
+          "zh": "他將溫柔的春雨視為大自然對新播種農作物的賜福。"
+        }
+      ],
+      "category": {"part": 1, "num": "06", "spelling": "bene", "meaning": "良好；慈善；祝福"}
+    },
+    {
+      "word": "benefit",
+      "pos": "n. / v.",
+      "pos_key": "n.",
+      "defn_en": "an advantage or helpful result; to help or improve something:",
+      "defn_zh": "利益；好處；有益於",
+      "root_note": "bene- (good) + fit (do or make)",
+      "sentences": [
+        {
+          "en": "One major ______ of working from home is the complete elimination of daily commuting stress.",
+          "zh": "在家工作的一個主要好處是完全消除了每天通勤的壓力。"
+        },
+        {
+          "en": "The historical preservation project will greatly ______ future generations of researchers.",
+          "zh": "這個歷史保護計畫將使未來的研究人員大為受益。"
+        }
+      ],
+      "category": {"part": 1, "num": "06", "spelling": "bene", "meaning": "良好；慈善；祝福"}
+    },
+    {
+      "word": "beneficent",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "doing good or actively helping others:",
+      "defn_zh": "行善的；有慈善心的",
+      "root_note": "bene- (good) + fic (do or make) + -ent (adjective suffix)",
+      "sentences": [
+        {
+          "en": "The organization is recognized worldwide for its ______ efforts to provide clean water to remote villages.",
+          "zh": "該組織因其在向偏遠村莊提供乾淨飲用水方面的行善努力，而獲得全球認可。"
+        },
+        {
+          "en": "She dedicated her retirement years to ______ work, volunteering at the local animal shelter every day.",
+          "zh": "她將退休後的歲月投入到行善工作中，每天都在當地的動物收容所當志工。"
+        }
+      ],
+      "category": {"part": 1, "num": "06", "spelling": "bene", "meaning": "良好；慈善；祝福"}
+    }
+  ]
+}

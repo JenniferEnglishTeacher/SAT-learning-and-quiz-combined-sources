@@ -4,7 +4,7 @@
     "total_batches": 235,
     "part1_part2_batches": 158,
     "unclassified_batches": 77,
-    "generated_batches": 6
+    "generated_batches": 7
   },
   "batches": [
     {
@@ -82,10 +82,10 @@
       "part": "part1",
       "part_label": "Part 1 字首篇 (Prefixes)",
       "name": "bene",
-      "subtitle": "好",
-      "count": 7,
-      "generated": false,
-      "search_terms": "benediction benefactor beneficence beneficent beneficial benevolence benign"
+      "subtitle": "良好；慈善；祝福",
+      "count": 10,
+      "generated": true,
+      "search_terms": "benediction benefactor beneficence beneficent beneficial benevolence benign benevolent beneficiary benefit"
     },
     {
       "id": "p1-07-bi",
