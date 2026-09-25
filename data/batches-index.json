@@ -4,7 +4,7 @@
     "total_batches": 235,
     "part1_part2_batches": 158,
     "unclassified_batches": 77,
-    "generated_batches": 11
+    "generated_batches": 12
   },
   "batches": [
     {
@@ -124,7 +124,7 @@
       "name": "co；com (1/5)",
       "subtitle": "共同；一起",
       "count": 50,
-      "generated": false,
+      "generated": true,
       "search_terms": "coagulate coalesce coalescence coalescent coalition coerce cogent cognate cognizant coherent coincidence coincident collaboration collateral collect collection collide collision colloquial collude collusion commencing commend commendation commensurate commentary commercialization commercialize commingle comminute commiserate committed commodious companionable compassion compassionate compatibility compatible compelling compendious compendium compensation compensatory competent complacency complacent complement complementary complexity compliant"
     },
     {
