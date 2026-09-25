@@ -1,0 +1,178 @@
+{
+  "id": "p1-04-arch",
+  "name": "arch",
+  "subtitle": "統治；首領；主要；古老",
+  "words": [
+    {
+      "word": "patriarchy",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a social system in which men hold the primary power and authority:",
+      "defn_zh": "父權制；父系社會",
+      "root_note": "patri- (father) + arch (rule)",
+      "sentences": [
+        {
+          "en": "Many modern sociologists study how the traditional ______ influenced career opportunities for women in the 19th century.",
+          "zh": "許多現代社會學家研究傳統的父權制度如何影響 19 世紀女性的職業機會。"
+        },
+        {
+          "en": "The tribe operates under a strict ______, where the oldest male member holds final decision-making power.",
+          "zh": "該部落在嚴格的父權制下運作，由最年長的男性成員掌握最終決定權。"
+        }
+      ],
+      "category": {"part": 1, "num": "04", "spelling": "arch", "meaning": "統治；首領；主要；古老"}
+    },
+    {
+      "word": "anarchy",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a state without government or effective control; disorder and confusion:",
+      "defn_zh": "無政府狀態；混亂",
+      "root_note": "an- (without) + arch (rule)",
+      "sentences": [
+        {
+          "en": "Without a central government to enforce the law, the country rapidly descended into total ______.",
+          "zh": "在沒有中央政府執法的情況下，該國迅速陷入了完全的無政府混亂狀態。"
+        },
+        {
+          "en": "The critics argued that the removal of trade regulations would create economic ______.",
+          "zh": "批評者認為，取消貿易管制將會造成經濟混亂。"
+        }
+      ],
+      "category": {"part": 1, "num": "04", "spelling": "arch", "meaning": "統治；首領；主要；古老"}
+    },
+    {
+      "word": "hierarchy",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a system in which people or things are ranked in levels of importance or authority:",
+      "defn_zh": "階層；等級制度",
+      "root_note": "hier- (sacred) + arch (rule)",
+      "sentences": [
+        {
+          "en": "The corporation's rigid ______ made it difficult for entry-level employees to pitch ideas directly to the CEO.",
+          "zh": "這家公司僵化的等級制度，使得基層員工很難直接向執行長提出想法。"
+        },
+        {
+          "en": "Biologists observed a clear social ______ within the wolf pack, led by an alpha pair.",
+          "zh": "生物學家觀察到狼群內部有明顯的社會階層，由一對領頭狼率領。"
+        }
+      ],
+      "category": {"part": 1, "num": "04", "spelling": "arch", "meaning": "統治；首領；主要；古老"}
+    },
+    {
+      "word": "oligarchy",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a form of government or control exercised by a small, powerful group:",
+      "defn_zh": "寡頭政治；少數人統治",
+      "root_note": "olig- (few) + arch (rule)",
+      "sentences": [
+        {
+          "en": "The nation was ruled by an ______ of wealthy landowners who controlled all major industries.",
+          "zh": "這個國家由富有的地主寡頭集團所統治，他們控制了所有主要產業。"
+        },
+        {
+          "en": "Critics fear that the merging of giant tech corporations could turn the market into a corporate ______.",
+          "zh": "批評者擔心，大型科技公司的合併可能會使市場變成企業寡頭壟斷。"
+        }
+      ],
+      "category": {"part": 1, "num": "04", "spelling": "arch", "meaning": "統治；首領；主要；古老"}
+    },
+    {
+      "word": "monarchy",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a system of government headed by a king or queen:",
+      "defn_zh": "君主政體",
+      "root_note": "mon- (one) + arch (rule)",
+      "sentences": [
+        {
+          "en": "The country transitioned from an absolute ______ to a democracy after the historic revolution.",
+          "zh": "在歷史性的革命之後，該國從君主專制政體轉型為民主政體。"
+        },
+        {
+          "en": "In a constitutional ______, the king or queen acts as a ceremonial head of state with limited political power.",
+          "zh": "在君主立憲制中，國王或女王作為儀式性的國家元首，政治權力有限。"
+        }
+      ],
+      "category": {"part": 1, "num": "04", "spelling": "arch", "meaning": "統治；首領；主要；古老"}
+    },
+    {
+      "word": "architect",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a person who designs buildings; a person who plans or creates something:",
+      "defn_zh": "建築師；設計者；締造者",
+      "root_note": "arch- (chief) + tect (build)",
+      "sentences": [
+        {
+          "en": "The renowned ______ spent decades designing sustainable buildings that blend with nature.",
+          "zh": "這位著名的建築師花了數十年的時間，設計與自然融合的可持續性建築。"
+        },
+        {
+          "en": "The Prime Minister was widely considered the chief ______ of the peace treaty.",
+          "zh": "首相被廣泛認為是這份和平條約的主要締造者。"
+        }
+      ],
+      "category": {"part": 1, "num": "04", "spelling": "arch", "meaning": "統治；首領；主要；古老"}
+    },
+    {
+      "word": "archenemy",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a person's principal or most powerful enemy:",
+      "defn_zh": "頭號敵人；死敵",
+      "root_note": "arch- (chief or principal) + enemy",
+      "sentences": [
+        {
+          "en": "In the classic novel, the detective finally confronts his ______ in a dramatic final showdown.",
+          "zh": "在這部經典小說中，偵探終於在戲劇性的最終對決中與他的頭號死敵對峙。"
+        },
+        {
+          "en": "For years, inflation has been the economic ______ of developing nations trying to stabilize their currency.",
+          "zh": "多年來，通貨膨脹一直是試圖穩定貨幣的開發中國家在經濟上的頭號大敵。"
+        }
+      ],
+      "category": {"part": 1, "num": "04", "spelling": "arch", "meaning": "統治；首領；主要；古老"}
+    },
+    {
+      "word": "archaic",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "very old or old-fashioned; no longer in ordinary use:",
+      "defn_zh": "古老的；陳舊的；過時的",
+      "root_note": "arch- (ancient or beginning) + -aic (adjective suffix)",
+      "sentences": [
+        {
+          "en": "The company decided to update its software because the ______ operating system was prone to cyber attacks.",
+          "zh": "公司決定更新軟體，因為那套陳舊的作業系統很容易受到網路攻擊。"
+        },
+        {
+          "en": "Scholars often use specialized dictionaries to understand the ______ words found in Shakespearean plays.",
+          "zh": "學者們經常使用專門的詞典，來理解莎士比亞戲劇中出現的古老詞彙。"
+        }
+      ],
+      "category": {"part": 1, "num": "04", "spelling": "arch", "meaning": "統治；首領；主要；古老"}
+    },
+    {
+      "word": "archives",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "collections of historical documents or records; places where such records are kept:",
+      "defn_zh": "檔案館；歷史文獻記錄",
+      "root_note": "arch- (ancient or beginning) + -ive (noun-forming suffix)",
+      "sentences": [
+        {
+          "en": "Historians spent months digging through the national ______ to discover the forgotten letters of the president.",
+          "zh": "歷史學家花了數月時間翻閱國家檔案館，以尋找總統被遺忘的書信。"
+        },
+        {
+          "en": "The university digitized its historic photographic ______ to protect them from environmental damage.",
+          "zh": "這所大學將其歷史照片檔案數位化，以保護它們免受環境破壞。"
+        }
+      ],
+      "category": {"part": 1, "num": "04", "spelling": "arch", "meaning": "統治；首領；主要；古老"}
+    }
+  ]
+}
