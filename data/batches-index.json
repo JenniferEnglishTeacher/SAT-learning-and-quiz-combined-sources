@@ -4,7 +4,7 @@
     "total_batches": 235,
     "part1_part2_batches": 158,
     "unclassified_batches": 77,
-    "generated_batches": 9
+    "generated_batches": 10
   },
   "batches": [
     {
@@ -72,10 +72,10 @@
       "part": "part1",
       "part_label": "Part 1 字首篇 (Prefixes)",
       "name": "auto",
-      "subtitle": "自己；自動",
-      "count": 2,
-      "generated": false,
-      "search_terms": "automaton autonomous"
+      "subtitle": "自己；自動；獨立",
+      "count": 8,
+      "generated": true,
+      "search_terms": "automaton autonomous autonomy autocrat autobiography automotive automate autograph"
     },
     {
       "id": "p1-06-bene",

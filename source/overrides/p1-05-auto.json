@@ -1,0 +1,160 @@
+{
+  "id": "p1-05-auto",
+  "merge_with_source": true,
+  "name": "auto",
+  "subtitle": "自己；自動；獨立",
+  "words": [
+    {
+      "word": "autonomy",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "the right or ability to govern oneself or make one's own decisions:",
+      "defn_zh": "自治權；自主性",
+      "root_note": "auto- (self) + nomy (law or management)",
+      "sentences": [
+        {
+          "en": "The university grants high academic ______ to its professors, allowing them to design their own research projects.",
+          "zh": "這所大學給予教授們高度的學術自主權，允許他們設計自己的研究計畫。"
+        },
+        {
+          "en": "After a long struggle, the region finally gained political ______ from the central government.",
+          "zh": "經過長期的鬥爭，該地區終於獲得了脫離中央政府的政治自治權。"
+        }
+      ],
+      "category": {"part": 1, "num": "05", "spelling": "auto", "meaning": "自己；自動；獨立"}
+    },
+    {
+      "word": "autonomous",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "independent and self-governing; able to operate without direct human control:",
+      "defn_zh": "自治的；獨立自主的；自動駕駛的",
+      "root_note": "auto- (self) + nomous (governing or law)",
+      "sentences": [
+        {
+          "en": "The tech company is heavily investing in the development of ______ vehicles to revolutionize public transportation.",
+          "zh": "這家科技公司正大量投資開發自動駕駛車輛，以徹底改變大眾運輸。"
+        },
+        {
+          "en": "The philosophy department operates as an ______ unit within the university, managing its own budget.",
+          "zh": "哲學系在大學內部作為一個獨立自主的單位運作，管理自己的預算。"
+        }
+      ],
+      "category": {"part": 1, "num": "05", "spelling": "auto", "meaning": "自己；自動；獨立"}
+    },
+    {
+      "word": "autocrat",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a ruler or leader who holds unlimited power and makes decisions alone:",
+      "defn_zh": "獨裁者；專制君主",
+      "root_note": "auto- (self) + crat (ruler or one who governs)",
+      "sentences": [
+        {
+          "en": "The country was ruled for decades by a merciless ______ who suppressed all political dissent.",
+          "zh": "這個國家被一個殘酷的獨裁者統治了數十年，他鎮壓了所有政治異議。"
+        },
+        {
+          "en": "Employees complained that the manager behaved like an ______, never accepting feedback from the team.",
+          "zh": "員工們抱怨經理的行為像個獨裁者，從不接受團隊的反饋。"
+        }
+      ],
+      "category": {"part": 1, "num": "05", "spelling": "auto", "meaning": "自己；自動；獨立"}
+    },
+    {
+      "word": "autobiography",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a written account of a person's life composed by that person:",
+      "defn_zh": "自傳",
+      "root_note": "auto- (self) + bio (life) + graphy (writing)",
+      "sentences": [
+        {
+          "en": "In her newly published ______, the civil rights activist reflects on her childhood challenges in the segregated South.",
+          "zh": "在她新出版的自傳中，這位民權運動家回顧了她在實行種族隔離的南部所度過的童年挑戰。"
+        },
+        {
+          "en": "The historian analyzed the president's ______ to understand the personal motivations behind his political decisions.",
+          "zh": "歷史學家分析了總統的自傳，以理解其政治決策背後的個人動機。"
+        }
+      ],
+      "category": {"part": 1, "num": "05", "spelling": "auto", "meaning": "自己；自動；獨立"}
+    },
+    {
+      "word": "automaton",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a self-operating machine or a person who acts mechanically without thought:",
+      "defn_zh": "自動機器；機器人；機械般行動的人",
+      "root_note": "auto- (self) + maton (acting or moving)",
+      "sentences": [
+        {
+          "en": "In the 18th century, inventors amazed audiences with a mechanical ______ that could play chess.",
+          "zh": "在 18 世紀，發明家們用一個會下西洋棋的機械自動木偶讓觀眾大為驚嘆。"
+        },
+        {
+          "en": "Exhausted by the repetitive factory work, he felt like a mere ______ moving without any thought.",
+          "zh": "由於工廠重複性的工作讓他精疲力竭，他覺得自己就像個毫無想法、機械般運作的機器人。"
+        }
+      ],
+      "category": {"part": 1, "num": "05", "spelling": "auto", "meaning": "自己；自動；獨立"}
+    },
+    {
+      "word": "automotive",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "relating to motor vehicles or the automobile industry:",
+      "defn_zh": "汽車的；自動推進的",
+      "root_note": "auto- (self) + motive (moving)",
+      "sentences": [
+        {
+          "en": "The shift toward electric vehicles has caused a massive disruption in the traditional ______ industry.",
+          "zh": "向電動車的轉型對傳統汽車工業造成了巨大的衝擊。"
+        },
+        {
+          "en": "Engineers are constantly looking for ways to improve fuel efficiency in modern ______ design.",
+          "zh": "工程師們正不斷尋找在現代汽車設計中提高燃油效率的方法。"
+        }
+      ],
+      "category": {"part": 1, "num": "05", "spelling": "auto", "meaning": "自己；自動；獨立"}
+    },
+    {
+      "word": "automate",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to make a process operate automatically by using machines or technology:",
+      "defn_zh": "使自動化",
+      "root_note": "auto- (self) + -mate (act or make)",
+      "sentences": [
+        {
+          "en": "To cut operational costs, the warehouse decided to ______ its sorting and packaging processes.",
+          "zh": "為了降低營運成本，該倉庫決定將其分揀和包裝流程自動化。"
+        },
+        {
+          "en": "Advancements in artificial intelligence allow businesses to ______ complex customer service tasks.",
+          "zh": "人工智慧的進步使企業能夠將複雜的客戶服務任務自動化。"
+        }
+      ],
+      "category": {"part": 1, "num": "05", "spelling": "auto", "meaning": "自己；自動；獨立"}
+    },
+    {
+      "word": "autograph",
+      "pos": "n. / v.",
+      "pos_key": "n.",
+      "defn_en": "a person's handwritten signature; to sign one's name on something:",
+      "defn_zh": "親筆簽名；親筆簽署",
+      "root_note": "auto- (self) + graph (write or draw)",
+      "sentences": [
+        {
+          "en": "A huge crowd of enthusiastic fans waited outside the theater, hoping to get the actor's ______.",
+          "zh": "大批熱情的粉絲在劇院外等待，希望能拿到這位演員的親筆簽名。"
+        },
+        {
+          "en": "The author was asked to ______ hundreds of copies of her new book at the international literary festival.",
+          "zh": "在國際文學節上，這位作者被邀請在她新書的數百本複本上親筆簽名。"
+        }
+      ],
+      "category": {"part": 1, "num": "05", "spelling": "auto", "meaning": "自己；自動；獨立"}
+    }
+  ]
+}
