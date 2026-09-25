@@ -4,7 +4,7 @@
     "total_batches": 236,
     "part1_part2_batches": 159,
     "unclassified_batches": 77,
-    "generated_batches": 4
+    "generated_batches": 5
   },
   "batches": [
     {
@@ -54,7 +54,7 @@
       "name": "ad (4/4)",
       "subtitle": "朝向",
       "count": 3,
-      "generated": false,
+      "generated": true,
       "search_terms": "inadvertently maladjusted unabated"
     },
     {
