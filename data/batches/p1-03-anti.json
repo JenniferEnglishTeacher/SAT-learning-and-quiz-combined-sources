@@ -1,0 +1,705 @@
+{
+  "id": "p1-03-anti",
+  "part": "part1",
+  "part_label": "Part 1 字首篇 (Prefixes)",
+  "name": "anti",
+  "subtitle": "反對；對抗；相反",
+  "count": 12,
+  "words": [
+    {
+      "word": "antithesis",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "the exact opposite of something:",
+      "defn_zh": "對立面；正相反的事物",
+      "root_note": "anti- (opposite) + thesis (proposition, placing)",
+      "sentences": [
+        {
+          "en": "The peaceful, quiet countryside was the exact ______ of the noisy, chaotic city life he was used to.",
+          "zh": "寧靜祥和的鄉村，與他所習慣的吵雜混亂的城市生活恰恰形成鮮明對比。"
+        },
+        {
+          "en": "Greed is the absolute ______ of the charity and generosity that the organization promotes.",
+          "zh": "貪婪與該機構所提倡的慈善與慷慨完全背道而馳。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "03",
+        "spelling": "anti",
+        "meaning": "反對；對抗；相反"
+      }
+    },
+    {
+      "word": "antipathy",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a strong feeling of dislike or hostility:",
+      "defn_zh": "反感；厭惡",
+      "root_note": "anti- (against) + pathy (feeling)",
+      "sentences": [
+        {
+          "en": "Despite their political ______, the two senators collaborated to pass the emergency relief bill.",
+          "zh": "儘管存在政治上的反感，這兩位參議員仍通力合作通過了緊急救濟法案。"
+        },
+        {
+          "en": "Her natural ______ toward authority figures often caused friction during her early school years.",
+          "zh": "她對權威人物天生的反感，常常在她早年的求學時期引發摩擦。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "03",
+        "spelling": "anti",
+        "meaning": "反對；對抗；相反"
+      }
+    },
+    {
+      "word": "antagonism",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "hatred or hostility",
+      "defn_zh": "敵對；對抗",
+      "root_note": "anti- (against) + agonizesthai (to struggle, Greek)",
+      "sentences": [
+        {
+          "en": "Their constant ______ made teamwork nearly impossible.",
+          "zh": "他們之間持續的敵對讓團隊合作幾乎變得不可能。"
+        },
+        {
+          "en": "The rivalry grew into open ______ after the failed business deal.",
+          "zh": "這場競爭在這筆生意失敗後演變成了公開的敵對。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "03",
+        "spelling": "anti",
+        "meaning": "反對"
+      }
+    },
+    {
+      "word": "antidote",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a remedy that counteracts poison or relieves a harmful condition:",
+      "defn_zh": "解毒劑；緩解辦法",
+      "root_note": "anti- (against) + dote (to give)",
+      "sentences": [
+        {
+          "en": "Scientists are working urgently to develop an effective ______ to the venom of the newly discovered snake.",
+          "zh": "科學家們正加緊努力，研發對抗新發現蛇毒的有效解毒劑。"
+        },
+        {
+          "en": "Education is often considered the best ______ to ignorance and prejudice within a society.",
+          "zh": "教育通常被認為是消除社會中愚昧與偏見的最佳良方。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "03",
+        "spelling": "anti",
+        "meaning": "反對；對抗；相反"
+      }
+    },
+    {
+      "word": "antagonistic",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "showing hostility or opposition:",
+      "defn_zh": "敵對的/對抗性的",
+      "root_note": "anti- (against) + agon (struggle)",
+      "sentences": [
+        {
+          "en": "His ______ behavior created tension at work.",
+          "zh": "他充滿敵意的行為在職場上造成了緊張氣氛。"
+        },
+        {
+          "en": "The two rival companies have maintained an ______ relationship for years.",
+          "zh": "這兩家競爭公司多年來一直維持著敵對的關係。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "03",
+        "spelling": "anti",
+        "meaning": "反對"
+      }
+    },
+    {
+      "word": "antagonize",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to provoke hostility in someone:",
+      "defn_zh": "激怒;使敵對",
+      "root_note": "anti- (against) + agonizesthai (to contend), from Greek",
+      "sentences": [
+        {
+          "en": "He didn't mean to ______ his coworkers, but his blunt feedback often did.",
+          "zh": "他無意激怒同事,但他直白的意見卻常常造成這種效果。"
+        },
+        {
+          "en": "The new tax proposal is likely to ______ small business owners.",
+          "zh": "這項新稅制提案很可能會激怒小企業主。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "03",
+        "spelling": "anti",
+        "meaning": "反對"
+      }
+    },
+    {
+      "word": "anticlimax",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a disappointing ending after an exciting or impressive buildup:",
+      "defn_zh": "令人失望的結局；虎頭蛇尾",
+      "root_note": "anti- (opposite) + climax (highest point)",
+      "sentences": [
+        {
+          "en": "After months of intense media hype, the championship game turned out to be an utter ______, ending in a boring scoreless draw.",
+          "zh": "經過媒體數月的大肆宣傳，這場冠軍賽結果令人大失所望，以一場乏味的零比零平局收場。"
+        },
+        {
+          "en": "The final chapter of the mystery novel was a disappointing ______ that left many questions unanswered.",
+          "zh": "這本推理小說的最後一章是一個令人失望的突降結局，留下了許多未解之謎。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "03",
+        "spelling": "anti",
+        "meaning": "反對；對抗；相反"
+      }
+    },
+    {
+      "word": "antipyretic",
+      "pos": "adj./n.",
+      "pos_key": "adj.",
+      "defn_en": "reducing fever; a medicine that reduces fever:",
+      "defn_zh": "退燒的;退燒藥",
+      "root_note": "anti- (against) + pyretos (fever), from Greek",
+      "sentences": [
+        {
+          "en": "The doctor prescribed an ______ to bring down the child's high temperature.",
+          "zh": "醫生開了退燒藥,以降低孩子的高燒。"
+        },
+        {
+          "en": "Aspirin has both ______ and pain-relieving properties.",
+          "zh": "阿斯匹靈同時具有退燒與止痛的功效。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "03",
+        "spelling": "anti",
+        "meaning": "反對"
+      }
+    },
+    {
+      "word": "antiseptic",
+      "pos": "n. / adj.",
+      "pos_key": "n.",
+      "defn_en": "a substance that prevents infection; sterile, impersonal, or lacking warmth:",
+      "defn_zh": "殺菌劑；防腐的；缺乏生氣的",
+      "root_note": "anti- (against) + septic (infected or putrefying)",
+      "sentences": [
+        {
+          "en": "The nurse applied an ______ solution to the wound to prevent any potential bacterial infection.",
+          "zh": "護理師在傷口上塗抹了殺菌劑，以防止任何潛在的細菌感染。"
+        },
+        {
+          "en": "The minimalist office design felt cold and ______, completely lacking personal warmth.",
+          "zh": "這間極簡主義的辦公室設計顯得冰冷而缺乏生氣，完全沒有個人的溫暖。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "03",
+        "spelling": "anti",
+        "meaning": "反對；對抗；相反"
+      }
+    },
+    {
+      "word": "antiquated",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "old-fashioned, outdated, or no longer useful:",
+      "defn_zh": "陳舊的；過時的",
+      "root_note": "from Latin antiquus (ancient, old); often associated with old or outdated things",
+      "sentences": [
+        {
+          "en": "The factory was forced to close because its ______ machinery could no longer compete with modern technology.",
+          "zh": "這家工廠被迫關閉，因為其陳舊的機械設備已無法與現代技術競爭。"
+        },
+        {
+          "en": "Many citizens argued that the government's voting system was ______ and needed major reform.",
+          "zh": "許多公民認為政府的選舉投票制度過於過時，需要進行重大改革。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "03",
+        "spelling": "anti",
+        "meaning": "反對；對抗；相反"
+      }
+    },
+    {
+      "word": "antibody",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a protective protein produced by the immune system to neutralize harmful substances:",
+      "defn_zh": "抗體",
+      "root_note": "anti- (against) + body (body or substance)",
+      "sentences": [
+        {
+          "en": "The medical test showed that the patient had developed a strong ______ response after receiving the vaccine.",
+          "zh": "醫學檢驗顯示，病人在接種疫苗後體內已產生高水平的抗體。"
+        },
+        {
+          "en": "The immune system produces a specific ______ to neutralize each harmful virus or bacterium.",
+          "zh": "免疫系統會產生特定的抗體來中和有害的病毒和細菌。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "03",
+        "spelling": "anti",
+        "meaning": "反對；對抗；相反"
+      }
+    },
+    {
+      "word": "antisocial",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "avoiding social interaction or showing disregard for social rules and others' rights:",
+      "defn_zh": "反社會的；不愛社交的",
+      "root_note": "anti- (against) + social (relating to society or companionship)",
+      "sentences": [
+        {
+          "en": "Psychologists noted that the suspect exhibited ______ behavior, showing a complete disregard for the rights of others.",
+          "zh": "心理學家指出，嫌犯表現出反社會行為，完全漠視他人的權利。"
+        },
+        {
+          "en": "Turning off his phone and ignoring his friends' messages was seen as a sign of temporary ______ tendencies.",
+          "zh": "他關掉手機並忽視朋友的訊息，被視為暫時性不願社交的傾向。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "03",
+        "spelling": "anti",
+        "meaning": "反對；對抗；相反"
+      }
+    }
+  ],
+  "fallback_options": {
+    "v.": [
+      {
+        "word": "abound",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to exist in great numbers:",
+        "defn_zh": "充滿"
+      },
+      {
+        "word": "abrogate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to deprive of legal force, to nullify:=abolish",
+        "defn_zh": "廢除/取消"
+      },
+      {
+        "word": "abjure",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to renounce, abstain from:",
+        "defn_zh": "發誓放棄/棄絕"
+      },
+      {
+        "word": "abbreviate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to shorten a word or phrase:",
+        "defn_zh": "縮寫;縮短"
+      },
+      {
+        "word": "abdicate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to give up a position, usually one of leadership:",
+        "defn_zh": "退位/放棄(職位)"
+      },
+      {
+        "word": "abduct",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to kidnap, take by force:",
+        "defn_zh": "綁架/劫持"
+      },
+      {
+        "word": "abhor",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to regard with disgust and hatred:",
+        "defn_zh": "憎惡/厭惡"
+      },
+      {
+        "word": "abnegate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to deny or renounce:",
+        "defn_zh": "放棄/克制"
+      },
+      {
+        "word": "abolish",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to formally put an end to a system, practice, or institution:",
+        "defn_zh": "廢除"
+      },
+      {
+        "word": "abort",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to give up on a half-finished project or effort:",
+        "defn_zh": "中止/放棄"
+      },
+      {
+        "word": "abrade",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to scrape or wear away by friction:",
+        "defn_zh": "磨損;擦傷"
+      },
+      {
+        "word": "abscond",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to sneak away and hide:",
+        "defn_zh": "潛逃/逃匿"
+      }
+    ],
+    "adj.": [
+      {
+        "word": "abortive",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "fruitless, failing:",
+        "defn_zh": "失敗的/夭折的"
+      },
+      {
+        "word": "abstemious",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "moderate in eating or drinking:",
+        "defn_zh": "飲食有節制的"
+      },
+      {
+        "word": "abhorrent",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "detestable, despised:",
+        "defn_zh": "令人厭惡的"
+      },
+      {
+        "word": "absurd",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "ridiculous:",
+        "defn_zh": "荒謬的"
+      },
+      {
+        "word": "aberrant",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "deviating from what is normal or expected:",
+        "defn_zh": "異常的;脫軌的"
+      },
+      {
+        "word": "abject",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "wretched, pitiful:",
+        "defn_zh": "卑賤的/淒慘的"
+      },
+      {
+        "word": "abominable",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "causing moral revulsion; extremely unpleasant:",
+        "defn_zh": "可憎的;惡劣的"
+      },
+      {
+        "word": "abounding",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "existing in large numbers or amounts:",
+        "defn_zh": "大量存在的;豐富的"
+      },
+      {
+        "word": "abrasive",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "showing little concern for others; harsh:",
+        "defn_zh": "粗暴的/刺耳的"
+      },
+      {
+        "word": "abrupt",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "sudden or unexpected; brief and curt in manner:",
+        "defn_zh": "突然的/唐突的"
+      },
+      {
+        "word": "abstract",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "existing purely in the mind; not representing actual reality:",
+        "defn_zh": "抽象的"
+      },
+      {
+        "word": "abstruse",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "hard to comprehend:",
+        "defn_zh": "深奧難懂的"
+      }
+    ],
+    "n.": [
+      {
+        "word": "aversion",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "strong dislike, opposition:",
+        "defn_zh": "厭惡/反感"
+      },
+      {
+        "word": "aberration",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "something that differs from the norm:",
+        "defn_zh": "異常/脫軌"
+      },
+      {
+        "word": "abjection",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a state of complete misery, hopelessness, or degradation:",
+        "defn_zh": "卑賤;悲慘狀態"
+      },
+      {
+        "word": "abjuration",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the solemn renunciation of a belief, cause, or claim:",
+        "defn_zh": "公開放棄;誓絕"
+      },
+      {
+        "word": "ablution",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the act of washing oneself, especially as part of a religious ritual:",
+        "defn_zh": "沐浴;淨身儀式"
+      },
+      {
+        "word": "abnegation",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "denial of comfort to oneself:",
+        "defn_zh": "自我克制/放棄"
+      },
+      {
+        "word": "abomination",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "something that causes disgust or hatred:",
+        "defn_zh": "可憎之事;令人厭惡的東西"
+      },
+      {
+        "word": "abridgement",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a shortened version of a book or other written work:",
+        "defn_zh": "節略本;縮減版"
+      },
+      {
+        "word": "absolution",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "freedom from blame, guilt, sin:",
+        "defn_zh": "赦免/免罪"
+      },
+      {
+        "word": "abstemiousness",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "moderation or self-restraint, especially in eating and drinking:",
+        "defn_zh": "節制;克己"
+      },
+      {
+        "word": "abstinence",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the practice of restraining oneself from something enjoyable, especially food, alcohol, or sex:",
+        "defn_zh": "節制;戒絕"
+      },
+      {
+        "word": "avocation",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a hobby or minor occupation apart from one's main career:",
+        "defn_zh": "副業;業餘愛好"
+      }
+    ],
+    "adv.": [
+      {
+        "word": "accordingly",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in a manner that fits the circumstances; consequently:",
+        "defn_zh": "相應地;因此"
+      },
+      {
+        "word": "inadvertently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "unintentionally or by accident:",
+        "defn_zh": "無意間/不小心地"
+      },
+      {
+        "word": "consequently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "as a result; therefore:",
+        "defn_zh": "因此;結果"
+      },
+      {
+        "word": "contemptuously",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "without respect; in a disdainful manner:",
+        "defn_zh": "輕蔑地"
+      },
+      {
+        "word": "involuntarily",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "done without conscious control:",
+        "defn_zh": "不由自主地"
+      },
+      {
+        "word": "cordially",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in a warm or friendly manner:",
+        "defn_zh": "誠摯地/友好地"
+      },
+      {
+        "word": "ipso facto",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "by that very fact or act:",
+        "defn_zh": "事實上;因此"
+      },
+      {
+        "word": "en passant",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in passing; incidentally:",
+        "defn_zh": "順帶一提地;偶然地"
+      },
+      {
+        "word": "regardless",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "despite the prevailing circumstances; without being deterred:",
+        "defn_zh": "不管怎樣;儘管如此"
+      },
+      {
+        "word": "subsequently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "afterward; following in time or order:",
+        "defn_zh": "隨後;其後"
+      },
+      {
+        "word": "aside",
+        "pos": "adv./n.",
+        "pos_key": "adv.",
+        "defn_en": "to or on one side; a remark not meant to be heard by everyone:",
+        "defn_zh": "在旁邊;旁白"
+      },
+      {
+        "word": "vice versa",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "with the order or meaning reversed; conversely:",
+        "defn_zh": "反之亦然"
+      }
+    ],
+    "other": [
+      {
+        "word": "（此批單字中，暫無符合此字根/字首的單字）",
+        "pos": "",
+        "pos_key": "other",
+        "defn_en": "",
+        "defn_zh": ""
+      }
+    ],
+    "prep./adv.": [
+      {
+        "word": "besides",
+        "pos": "prep./adv.",
+        "pos_key": "prep./adv.",
+        "defn_en": "in addition to; furthermore:",
+        "defn_zh": "除...之外;此外"
+      }
+    ],
+    "phrasalv.": [
+      {
+        "word": "egg on",
+        "pos": "phrasal v.",
+        "pos_key": "phrasalv.",
+        "defn_en": "to encourage someone to do something, often risky:",
+        "defn_zh": "慫恿;鼓動"
+      }
+    ],
+    "abbr.": [
+      {
+        "word": "etc.",
+        "pos": "abbr.",
+        "pos_key": "abbr.",
+        "defn_en": "and other similar things (abbreviation of et cetera):",
+        "defn_zh": "等等(et cetera的縮寫)"
+      }
+    ],
+    "interj.": [
+      {
+        "word": "fiddledeedee",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "an exclamation expressing dismissal of something as nonsense:",
+        "defn_zh": "廢話!(表示不屑一顧)"
+      },
+      {
+        "word": "gesundheit",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "an expression said to someone who has just sneezed:",
+        "defn_zh": "保重(打噴嚏後的祝福語)"
+      }
+    ],
+    "prep.": [
+      {
+        "word": "via",
+        "pos": "prep.",
+        "pos_key": "prep.",
+        "defn_en": "by way of; passing through:",
+        "defn_zh": "經由;透過"
+      }
+    ]
+  }
+}

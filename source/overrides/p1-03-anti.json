@@ -1,0 +1,160 @@
+{
+  "id": "p1-03-anti",
+  "merge_with_source": true,
+  "name": "anti",
+  "subtitle": "反對；對抗；相反",
+  "words": [
+    {
+      "word": "antipathy",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a strong feeling of dislike or hostility:",
+      "defn_zh": "反感；厭惡",
+      "root_note": "anti- (against) + pathy (feeling)",
+      "sentences": [
+        {
+          "en": "Despite their political ______, the two senators collaborated to pass the emergency relief bill.",
+          "zh": "儘管存在政治上的反感，這兩位參議員仍通力合作通過了緊急救濟法案。"
+        },
+        {
+          "en": "Her natural ______ toward authority figures often caused friction during her early school years.",
+          "zh": "她對權威人物天生的反感，常常在她早年的求學時期引發摩擦。"
+        }
+      ],
+      "category": {"part": 1, "num": "03", "spelling": "anti", "meaning": "反對；對抗；相反"}
+    },
+    {
+      "word": "antidote",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a remedy that counteracts poison or relieves a harmful condition:",
+      "defn_zh": "解毒劑；緩解辦法",
+      "root_note": "anti- (against) + dote (to give)",
+      "sentences": [
+        {
+          "en": "Scientists are working urgently to develop an effective ______ to the venom of the newly discovered snake.",
+          "zh": "科學家們正加緊努力，研發對抗新發現蛇毒的有效解毒劑。"
+        },
+        {
+          "en": "Education is often considered the best ______ to ignorance and prejudice within a society.",
+          "zh": "教育通常被認為是消除社會中愚昧與偏見的最佳良方。"
+        }
+      ],
+      "category": {"part": 1, "num": "03", "spelling": "anti", "meaning": "反對；對抗；相反"}
+    },
+    {
+      "word": "antithesis",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "the exact opposite of something:",
+      "defn_zh": "對立面；正相反的事物",
+      "root_note": "anti- (opposite) + thesis (proposition, placing)",
+      "sentences": [
+        {
+          "en": "The peaceful, quiet countryside was the exact ______ of the noisy, chaotic city life he was used to.",
+          "zh": "寧靜祥和的鄉村，與他所習慣的吵雜混亂的城市生活恰恰形成鮮明對比。"
+        },
+        {
+          "en": "Greed is the absolute ______ of the charity and generosity that the organization promotes.",
+          "zh": "貪婪與該機構所提倡的慈善與慷慨完全背道而馳。"
+        }
+      ],
+      "category": {"part": 1, "num": "03", "spelling": "anti", "meaning": "反對；對抗；相反"}
+    },
+    {
+      "word": "antiquated",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "old-fashioned, outdated, or no longer useful:",
+      "defn_zh": "陳舊的；過時的",
+      "root_note": "from Latin antiquus (ancient, old); often associated with old or outdated things",
+      "sentences": [
+        {
+          "en": "The factory was forced to close because its ______ machinery could no longer compete with modern technology.",
+          "zh": "這家工廠被迫關閉，因為其陳舊的機械設備已無法與現代技術競爭。"
+        },
+        {
+          "en": "Many citizens argued that the government's voting system was ______ and needed major reform.",
+          "zh": "許多公民認為政府的選舉投票制度過於過時，需要進行重大改革。"
+        }
+      ],
+      "category": {"part": 1, "num": "03", "spelling": "anti", "meaning": "反對；對抗；相反"}
+    },
+    {
+      "word": "anticlimax",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a disappointing ending after an exciting or impressive buildup:",
+      "defn_zh": "令人失望的結局；虎頭蛇尾",
+      "root_note": "anti- (opposite) + climax (highest point)",
+      "sentences": [
+        {
+          "en": "After months of intense media hype, the championship game turned out to be an utter ______, ending in a boring scoreless draw.",
+          "zh": "經過媒體數月的大肆宣傳，這場冠軍賽結果令人大失所望，以一場乏味的零比零平局收場。"
+        },
+        {
+          "en": "The final chapter of the mystery novel was a disappointing ______ that left many questions unanswered.",
+          "zh": "這本推理小說的最後一章是一個令人失望的突降結局，留下了許多未解之謎。"
+        }
+      ],
+      "category": {"part": 1, "num": "03", "spelling": "anti", "meaning": "反對；對抗；相反"}
+    },
+    {
+      "word": "antibody",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a protective protein produced by the immune system to neutralize harmful substances:",
+      "defn_zh": "抗體",
+      "root_note": "anti- (against) + body (body or substance)",
+      "sentences": [
+        {
+          "en": "The medical test showed that the patient had developed a strong ______ response after receiving the vaccine.",
+          "zh": "醫學檢驗顯示，病人在接種疫苗後體內已產生高水平的抗體。"
+        },
+        {
+          "en": "The immune system produces a specific ______ to neutralize each harmful virus or bacterium.",
+          "zh": "免疫系統會產生特定的抗體來中和有害的病毒和細菌。"
+        }
+      ],
+      "category": {"part": 1, "num": "03", "spelling": "anti", "meaning": "反對；對抗；相反"}
+    },
+    {
+      "word": "antisocial",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "avoiding social interaction or showing disregard for social rules and others' rights:",
+      "defn_zh": "反社會的；不愛社交的",
+      "root_note": "anti- (against) + social (relating to society or companionship)",
+      "sentences": [
+        {
+          "en": "Psychologists noted that the suspect exhibited ______ behavior, showing a complete disregard for the rights of others.",
+          "zh": "心理學家指出，嫌犯表現出反社會行為，完全漠視他人的權利。"
+        },
+        {
+          "en": "Turning off his phone and ignoring his friends' messages was seen as a sign of temporary ______ tendencies.",
+          "zh": "他關掉手機並忽視朋友的訊息，被視為暫時性不願社交的傾向。"
+        }
+      ],
+      "category": {"part": 1, "num": "03", "spelling": "anti", "meaning": "反對；對抗；相反"}
+    },
+    {
+      "word": "antiseptic",
+      "pos": "n. / adj.",
+      "pos_key": "n.",
+      "defn_en": "a substance that prevents infection; sterile, impersonal, or lacking warmth:",
+      "defn_zh": "殺菌劑；防腐的；缺乏生氣的",
+      "root_note": "anti- (against) + septic (infected or putrefying)",
+      "sentences": [
+        {
+          "en": "The nurse applied an ______ solution to the wound to prevent any potential bacterial infection.",
+          "zh": "護理師在傷口上塗抹了殺菌劑，以防止任何潛在的細菌感染。"
+        },
+        {
+          "en": "The minimalist office design felt cold and ______, completely lacking personal warmth.",
+          "zh": "這間極簡主義的辦公室設計顯得冰冷而缺乏生氣，完全沒有個人的溫暖。"
+        }
+      ],
+      "category": {"part": 1, "num": "03", "spelling": "anti", "meaning": "反對；對抗；相反"}
+    }
+  ]
+}

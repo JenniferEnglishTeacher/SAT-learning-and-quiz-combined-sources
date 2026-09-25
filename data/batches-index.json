@@ -4,7 +4,7 @@
     "total_batches": 235,
     "part1_part2_batches": 158,
     "unclassified_batches": 77,
-    "generated_batches": 4
+    "generated_batches": 5
   },
   "batches": [
     {
@@ -52,10 +52,10 @@
       "part": "part1",
       "part_label": "Part 1 字首篇 (Prefixes)",
       "name": "anti",
-      "subtitle": "反對",
-      "count": 9,
-      "generated": false,
-      "search_terms": "antithesis antipathy antagonism antidote antagonistic antagonize anticlimax antipyretic antiseptic"
+      "subtitle": "反對；對抗；相反",
+      "count": 12,
+      "generated": true,
+      "search_terms": "antithesis antipathy antagonism antidote antagonistic antagonize anticlimax antipyretic antiseptic antiquated antibody antisocial"
     },
     {
       "id": "p1-04-arch",

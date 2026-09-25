@@ -11,6 +11,7 @@ ROOT = Path(__file__).resolve().parents[1]
 DEFAULT_SOURCE = ROOT / "source" / "Barrons_1100_by_root_prefix.xlsx"
 DATA_DIR, BATCH_DIR = ROOT / "data", ROOT / "data" / "batches"
 INDEX_PATH, PROGRESS_PATH = DATA_DIR / "batches-index.json", DATA_DIR / "progress.json"
+OVERRIDE_DIR = ROOT / "source" / "overrides"
 
 def clean(value): return "" if value is None else str(value).strip()
 def split_lines(value): return [x.strip() for x in clean(value).replace("\r\n", "\n").split("\n") if x.strip()]
@@ -92,13 +93,35 @@ def fallbacks(records,batch_words):
         seen[key].add(word); pools[key].append({k:r[k] for k in ("word","pos","pos_key","defn_en","defn_zh")})
     return dict(pools)
 
+def apply_overrides(batches):
+    by_id={b["id"]:b for b in batches}
+    if not OVERRIDE_DIR.exists(): return batches
+    for path in sorted(OVERRIDE_DIR.glob("*.json")):
+        override=json.loads(path.read_text(encoding="utf-8")); batch_id=override["id"]
+        if batch_id not in by_id: raise ValueError(f"Unknown override batch id: {batch_id}")
+        batch=by_id[batch_id]
+        for key in ("name","subtitle"):
+            if key in override: batch[key]=override[key]
+        if "words" in override:
+            if override.get("merge_with_source"):
+                replacements={w["word"].casefold():w for w in override["words"]}
+                merged=[]
+                for word in batch["words"]:
+                    merged.append(replacements.pop(word["word"].casefold(),word))
+                merged.extend(w for w in override["words"] if w["word"].casefold() in replacements)
+                batch["words"]=merged
+            else:
+                batch["words"]=override["words"]
+        batch["count"]=len(batch["words"])
+    return batches
+
 def write_json(path,value):
     path.parent.mkdir(parents=True,exist_ok=True); path.write_text(json.dumps(value,ensure_ascii=False,indent=2),encoding="utf-8")
 
 def main():
     parser=argparse.ArgumentParser(); parser.add_argument("--source",type=Path,default=DEFAULT_SOURCE); parser.add_argument("--batch-count",type=int,default=1); parser.add_argument("--batch-id")
     args=parser.parse_args(); p1,p2,u=load_records(args.source); all_records=p1+p2+u
-    batches=categorized_batches(p1,1)+categorized_batches(p2,2)+unclassified_batches(u)
+    batches=apply_overrides(categorized_batches(p1,1)+categorized_batches(p2,2)+unclassified_batches(u))
     categories=len({(r["category"]["part"],r["category"]["num"],r["category"]["spelling"]) for r in p1+p2})
     if (len(all_records),len(u),categories,len(batches))!=(6805,3824,134,235): raise ValueError(f"Sanity check failed: {len(all_records)=}, {len(u)=}, {categories=}, {len(batches)=}")
     progress={"generated":[],"total":len(batches)}
