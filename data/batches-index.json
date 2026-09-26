@@ -4,7 +4,7 @@
     "total_batches": 235,
     "part1_part2_batches": 158,
     "unclassified_batches": 77,
-    "generated_batches": 16
+    "generated_batches": 17
   },
   "batches": [
     {
@@ -174,7 +174,7 @@
       "name": "contra；contro；counter",
       "subtitle": "反對；對抗",
       "count": 9,
-      "generated": false,
+      "generated": true,
       "search_terms": "incontrovertible controversial contradict contrarianism contravene controversy controvert counteract counterintuitive"
     },
     {
