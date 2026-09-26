@@ -1,0 +1,1617 @@
+{
+  "id": "p1-10-co-com-3",
+  "part": "part1",
+  "part_label": "Part 1 字首篇 (Prefixes)",
+  "name": "co；com (3/5)",
+  "subtitle": "共同；一起",
+  "count": 50,
+  "words": [
+    {
+      "word": "confidant",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "one to whom you confide your secrets:",
+      "defn_zh": "知己",
+      "root_note": "con- (with) + fidere (to trust)",
+      "sentences": [
+        {
+          "en": "She has always been his closest ______, someone he trusts completely.",
+          "zh": "她一直是他最親密的知己,一個他完全信任的人。"
+        },
+        {
+          "en": "He shared his biggest secret with his most trusted ______.",
+          "zh": "他把最大的秘密告訴了他最信任的知己。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "10",
+        "spelling": "co；com",
+        "meaning": "共同；一起"
+      }
+    },
+    {
+      "word": "confident",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "feeling sure or self-assured:",
+      "defn_zh": "有信心的",
+      "root_note": "con- (together) + fidere (to trust)",
+      "sentences": [
+        {
+          "en": "Michael Jordan is ______ in his abilities as a basketball player.",
+          "zh": "麥可喬丹對自己身為籃球員的能力充滿信心。"
+        },
+        {
+          "en": "She felt ______ enough to give the presentation without notes.",
+          "zh": "她自信滿滿,足以不看筆記就完成這場簡報。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "10",
+        "spelling": "co；com",
+        "meaning": "共同；一起"
+      }
+    },
+    {
+      "word": "configure",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to arrange or set up something in a particular way:",
+      "defn_zh": "設定/配置",
+      "root_note": "con- (together) + figurare (to shape)",
+      "sentences": [
+        {
+          "en": "You need to ______ the software settings before use.",
+          "zh": "你必須在使用前先設定好這套軟體。"
+        },
+        {
+          "en": "The technician helped him ______ the new router at home.",
+          "zh": "技術人員協助他在家中設定這台新路由器。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "10",
+        "spelling": "co；com",
+        "meaning": "共同；一起"
+      }
+    },
+    {
+      "word": "confirmed",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "firmly established in a habit or belief; verified as true:",
+      "defn_zh": "根深蒂固的;已確認的",
+      "root_note": "con- (thoroughly) + firmare (to strengthen), from Latin",
+      "sentences": [
+        {
+          "en": "He remained a ______ bachelor well into his sixties.",
+          "zh": "他一直到六十多歲仍是個死心塌地的單身漢。"
+        },
+        {
+          "en": "Officials issued a statement once the outbreak was ______.",
+          "zh": "疫情確認後,官方隨即發布了聲明。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "10",
+        "spelling": "co；com",
+        "meaning": "共同；一起"
+      }
+    },
+    {
+      "word": "conflagrant",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "burning fiercely; ablaze:",
+      "defn_zh": "熊熊燃燒的",
+      "root_note": "con- (thoroughly) + flagrare (to burn), from Latin",
+      "sentences": [
+        {
+          "en": "Firefighters could see the ______ building from three miles away.",
+          "zh": "消防隊員在三英里外就能看見這棟熊熊燃燒的建築。"
+        },
+        {
+          "en": "The ______ forest lit up the night sky for miles around.",
+          "zh": "這片熊熊燃燒的森林,將方圓數英里的夜空照得通紅。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "10",
+        "spelling": "co；com",
+        "meaning": "共同；一起"
+      }
+    },
+    {
+      "word": "conflagration",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "great fire:",
+      "defn_zh": "大火災",
+      "root_note": "con- (together) + flagrare (to burn)",
+      "sentences": [
+        {
+          "en": "Dry winds turned the small brush fire into a massive ______.",
+          "zh": "乾燥的強風將這場小型灌木叢火災變成了一場巨大的火災。"
+        },
+        {
+          "en": "The ______ destroyed dozens of buildings before firefighters brought it under control.",
+          "zh": "在消防員將火勢控制住之前,這場大火已摧毀了數十棟建築物。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "10",
+        "spelling": "co；com",
+        "meaning": "共同；一起"
+      }
+    },
+    {
+      "word": "conflate",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to combine two or more things into one, sometimes mistakenly:",
+      "defn_zh": "混淆;合併",
+      "root_note": "con- (together) + flare (to blow), from Latin",
+      "sentences": [
+        {
+          "en": "News reports mistakenly began to ______ the two separate incidents.",
+          "zh": "新聞報導開始誤將這兩起原本各自獨立的事件混為一談。"
+        },
+        {
+          "en": "The editor warned against ______ing correlation with causation in the study's summary.",
+          "zh": "編輯提醒不要在這份研究摘要中,將相關性與因果關係混為一談。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "10",
+        "spelling": "co；com",
+        "meaning": "共同；一起"
+      }
+    },
+    {
+      "word": "conflated",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "combined in a misleading way:",
+      "defn_zh": "混淆合併的",
+      "root_note": "con- (together) + flare (to blow)",
+      "sentences": [
+        {
+          "en": "The two issues were ______ in the argument.",
+          "zh": "這兩個議題在這場爭論中被混淆合併在一起。"
+        },
+        {
+          "en": "Many people have ______ the two historical events, though they are unrelated.",
+          "zh": "許多人將這兩個歷史事件混為一談,儘管它們其實毫不相關。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "10",
+        "spelling": "co；com",
+        "meaning": "共同；一起"
+      }
+    },
+    {
+      "word": "conflation",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "the act of combining two or more things into one, sometimes mistakenly:",
+      "defn_zh": "混淆;合併",
+      "root_note": "con- (together) + flare (to blow), from Latin",
+      "sentences": [
+        {
+          "en": "The lawsuit hinges on a ______ of two very different legal concepts.",
+          "zh": "這起訴訟的關鍵,在於混淆了兩個截然不同的法律概念。"
+        },
+        {
+          "en": "Critics pointed out the ______ of the two historical figures in the film's script.",
+          "zh": "評論家指出,這部電影劇本混淆了這兩位歷史人物。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "10",
+        "spelling": "co；com",
+        "meaning": "共同；一起"
+      }
+    },
+    {
+      "word": "confluence",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a gathering together:",
+      "defn_zh": "匯流/匯集",
+      "root_note": "con- (together) + fluere (to flow)",
+      "sentences": [
+        {
+          "en": "The city was built at the ______ of two great rivers.",
+          "zh": "這座城市建在兩條大河的匯流處。"
+        },
+        {
+          "en": "Her success was the result of a rare ______ of talent and opportunity.",
+          "zh": "她的成功是天賦與機運難得匯聚的結果。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "10",
+        "spelling": "co；com",
+        "meaning": "共同；一起"
+      }
+    },
+    {
+      "word": "conform",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to comply with rules or expectations:",
+      "defn_zh": "順從/遵從",
+      "root_note": "con- (together) + formare (to shape)",
+      "sentences": [
+        {
+          "en": "The alternative rocker refuses to ______ to societal norms.",
+          "zh": "這位另類搖滾歌手拒絕順從社會的規範。"
+        },
+        {
+          "en": "New employees are expected to ______ to the company's dress code.",
+          "zh": "新進員工被要求遵守公司的服裝規定。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "10",
+        "spelling": "co；com",
+        "meaning": "共同；一起"
+      }
+    },
+    {
+      "word": "conformist",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "one who behaves the same as others:",
+      "defn_zh": "順從者/從眾者",
+      "root_note": "con- (together) + forma (shape)",
+      "sentences": [
+        {
+          "en": "Unlike his rebellious classmates, he was seen as a quiet ______.",
+          "zh": "與叛逆的同學不同,他被視為安分守己的順從者。"
+        },
+        {
+          "en": "The school discouraged individuality, favoring students who were ______s.",
+          "zh": "這所學校不鼓勵個人特色,偏好循規蹈矩的學生。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "10",
+        "spelling": "co；com",
+        "meaning": "共同；一起"
+      }
+    },
+    {
+      "word": "confound",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to frustrate, confuse:",
+      "defn_zh": "使困惑/使混淆",
+      "root_note": "con- (together) + fundere (to pour)",
+      "sentences": [
+        {
+          "en": "The magician's trick continued to ______ the audience.",
+          "zh": "這位魔術師的把戲讓觀眾持續感到困惑不解。"
+        },
+        {
+          "en": "Her sudden decision to quit ______ed everyone at the company.",
+          "zh": "她突然辭職的決定讓公司裡的每個人都感到困惑。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "10",
+        "spelling": "co；com",
+        "meaning": "共同；一起"
+      }
+    },
+    {
+      "word": "confounding",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "puzzling; baffling",
+      "defn_zh": "令人困惑的",
+      "root_note": "con- (together) + fundere (to pour)",
+      "sentences": [
+        {
+          "en": "The sudden drop in sales was ______ to the entire marketing team.",
+          "zh": "銷售額突然暴跌,讓整個行銷團隊感到困惑不解。"
+        },
+        {
+          "en": "Scientists found the results ______ and difficult to explain.",
+          "zh": "科學家發現這些結果令人困惑,難以解釋。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "10",
+        "spelling": "co；com",
+        "meaning": "共同；一起"
+      }
+    },
+    {
+      "word": "confront",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to come face-to-face with:",
+      "defn_zh": "面對/遭遇",
+      "root_note": "con- (with) + frons (forehead)",
+      "sentences": [
+        {
+          "en": "She decided to ______ her fears by going skydiving.",
+          "zh": "她決定去跳傘,以直面自己的恐懼。"
+        },
+        {
+          "en": "He finally worked up the courage to ______ his rival about the rumors.",
+          "zh": "他終於鼓起勇氣去找對手當面對質這些謠言。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "10",
+        "spelling": "co；com",
+        "meaning": "共同；一起"
+      }
+    },
+    {
+      "word": "confuse",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to cause someone to be unable to understand clearly:",
+      "defn_zh": "使困惑;混淆",
+      "root_note": "con- (together) + fundere (to pour), from Latin",
+      "sentences": [
+        {
+          "en": "The conflicting instructions began to ______ even the most experienced staff.",
+          "zh": "這些互相矛盾的指示,連經驗最豐富的員工都開始感到困惑。"
+        },
+        {
+          "en": "Don't ______ enthusiasm with actual expertise.",
+          "zh": "別把熱情和真正的專業能力混為一談。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "10",
+        "spelling": "co；com",
+        "meaning": "共同；一起"
+      }
+    },
+    {
+      "word": "congeal",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to thicken into a solid:",
+      "defn_zh": "凝結/凝固",
+      "root_note": "con- (together) + gelare (to freeze)",
+      "sentences": [
+        {
+          "en": "The leftover gravy had ______ed into a solid mass overnight.",
+          "zh": "剩下的肉汁隔夜後已經凝固成一團固體。"
+        },
+        {
+          "en": "Cold air caused the wax to ______ around the candle's base.",
+          "zh": "冷空氣使蠟油在蠟燭底部凝結成塊。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "10",
+        "spelling": "co；com",
+        "meaning": "共同；一起"
+      }
+    },
+    {
+      "word": "congenial",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "sympathetic, agreeable:",
+      "defn_zh": "意氣相投的",
+      "root_note": "con- (with) + genialis (of birth/spirit)",
+      "sentences": [
+        {
+          "en": "The staff at the small inn were warm and ______.",
+          "zh": "這家小旅館的員工既熱情又意氣相投。"
+        },
+        {
+          "en": "She found her new coworkers to be friendly and ______.",
+          "zh": "她發現新同事既友善又合得來。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "10",
+        "spelling": "co；com",
+        "meaning": "共同；一起"
+      }
+    },
+    {
+      "word": "congenital",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "present at birth but not necessarily hereditary:",
+      "defn_zh": "先天性的",
+      "root_note": "con- (together) + gignere/genitus (to bring forth, born)",
+      "sentences": [
+        {
+          "en": "The infant was diagnosed with a rare ______ heart defect.",
+          "zh": "這名嬰兒被診斷出患有一種罕見的先天性心臟缺陷。"
+        },
+        {
+          "en": "Doctors monitored the baby closely for any ______ conditions.",
+          "zh": "醫生密切觀察這名嬰兒是否有任何先天性病症。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "10",
+        "spelling": "co；com",
+        "meaning": "共同；一起"
+      }
+    },
+    {
+      "word": "conglomeration",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a mass of different things gathered together:",
+      "defn_zh": "聚合物;大雜燴",
+      "root_note": "con- (together) + glomus (ball), from Latin",
+      "sentences": [
+        {
+          "en": "The attic held a strange ______ of old toys, letters, and broken furniture.",
+          "zh": "這間閣樓堆滿了一堆舊玩具、信件與壞掉的家具,雜亂無章。"
+        },
+        {
+          "en": "The city grew into a sprawling ______ of neighborhoods with no clear center.",
+          "zh": "這座城市發展成一大片雜亂延伸的社區聚合體,沒有明確的中心。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "10",
+        "spelling": "co；com",
+        "meaning": "共同；一起"
+      }
+    },
+    {
+      "word": "congregate",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to gather together into a crowd or group:",
+      "defn_zh": "聚集;集合",
+      "root_note": "con- (together) + grex (herd), from Latin",
+      "sentences": [
+        {
+          "en": "Fans began to ______ outside the stadium hours before the game.",
+          "zh": "球迷們在比賽開始前好幾個小時就開始聚集在體育場外。"
+        },
+        {
+          "en": "Birds would ______ near the lake each evening at dusk.",
+          "zh": "鳥兒們每天傍晚都會聚集在這座湖泊附近。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "10",
+        "spelling": "co；com",
+        "meaning": "共同；一起"
+      }
+    },
+    {
+      "word": "congregation",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a gathering of people, especially for religious services:",
+      "defn_zh": "會眾/集會",
+      "root_note": "con- (together) + grex, gregis (flock)",
+      "sentences": [
+        {
+          "en": "The ______ sang together as the sun set over the church.",
+          "zh": "當夕陽在教堂上空落下時,會眾一同歌唱。"
+        },
+        {
+          "en": "The new pastor addressed his ______ for the first time on Sunday.",
+          "zh": "這位新牧師在週日首次向他的會眾講道。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "10",
+        "spelling": "co；com",
+        "meaning": "共同；一起"
+      }
+    },
+    {
+      "word": "congruent",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "in agreement or harmony; identical in shape and size (geometry):",
+      "defn_zh": "一致的;全等的(幾何)",
+      "root_note": "con- (together) + gruere (to agree), from Latin",
+      "sentences": [
+        {
+          "en": "Her actions were finally ______ with the values she preached.",
+          "zh": "她的行為終於與她宣揚的價值觀一致了。"
+        },
+        {
+          "en": "The two triangles are ______ , with all corresponding sides and angles equal.",
+          "zh": "這兩個三角形是全等的,對應的邊與角皆相等。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "10",
+        "spelling": "co；com",
+        "meaning": "共同；一起"
+      }
+    },
+    {
+      "word": "congruity",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "the quality of being in agreement:",
+      "defn_zh": "一致性/協調",
+      "root_note": "con- (together) + congruere (to agree)",
+      "sentences": [
+        {
+          "en": "Editors checked the manuscript for ______ between the timeline and the plot.",
+          "zh": "編輯檢查了這份手稿的時間軸與情節是否一致。"
+        },
+        {
+          "en": "There was a striking ______ between her values and her actions.",
+          "zh": "她的價值觀與行為之間有著驚人的一致性。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "10",
+        "spelling": "co；com",
+        "meaning": "共同；一起"
+      }
+    },
+    {
+      "word": "congruous",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "appropriate or in agreement with something:",
+      "defn_zh": "相稱的;調和的",
+      "root_note": "con- (together) + gruere (to agree), from Latin",
+      "sentences": [
+        {
+          "en": "The modern addition was designed to be ______ with the historic building's style.",
+          "zh": "這棟現代增建的部分,經過設計以與這座歷史建築的風格相協調。"
+        },
+        {
+          "en": "His calm response was entirely ______ with his usual demeanor.",
+          "zh": "他鎮定的回應,完全符合他一貫的作風。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "10",
+        "spelling": "co；com",
+        "meaning": "共同；一起"
+      }
+    },
+    {
+      "word": "conjecture",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "guess:",
+      "defn_zh": "推測/猜測",
+      "root_note": "con- (together) + jacere (to throw)",
+      "sentences": [
+        {
+          "en": "Without any real evidence, his theory remained pure ______.",
+          "zh": "在沒有任何實際證據的情況下,他的理論仍只是純粹的推測。"
+        },
+        {
+          "en": "Scientists made a ______ about the planet's composition based on limited data.",
+          "zh": "科學家根據有限的數據對這顆行星的組成做出了推測。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "10",
+        "spelling": "co；com",
+        "meaning": "共同；一起"
+      }
+    },
+    {
+      "word": "conjugal",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "relating to marriage:",
+      "defn_zh": "婚姻的/夫妻的",
+      "root_note": "con- (together) + jugum (yoke)",
+      "sentences": [
+        {
+          "en": "The couple enjoyed decades of ______ happiness before he passed away.",
+          "zh": "這對夫妻在他過世前享有數十年美滿的婚姻生活。"
+        },
+        {
+          "en": "Prisoners in some facilities are allowed brief ______ visits.",
+          "zh": "在某些機構中,受刑人可獲准短暫的夫妻探視。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "10",
+        "spelling": "co；com",
+        "meaning": "共同；一起"
+      }
+    },
+    {
+      "word": "connive",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to plot, scheme:",
+      "defn_zh": "共謀/密謀",
+      "root_note": "con- (together) + connivere (to close the eyes, wink)",
+      "sentences": [
+        {
+          "en": "The two employees began to ______ against their new manager.",
+          "zh": "這兩名員工開始密謀對付他們的新主管。"
+        },
+        {
+          "en": "Investigators believed the clerk had ______d with outsiders to steal the funds.",
+          "zh": "調查人員認為這名職員與外部人士共謀偷竊資金。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "10",
+        "spelling": "co；com",
+        "meaning": "共同；一起"
+      }
+    },
+    {
+      "word": "connoisseur",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "expert:",
+      "defn_zh": "鑑賞家/行家",
+      "root_note": "con- (with) + gnoscere (to know)",
+      "sentences": [
+        {
+          "en": "He considers himself a ______ of fine wine.",
+          "zh": "他自認是一位美酒鑑賞行家。"
+        },
+        {
+          "en": "As a ______ of classical music, she rarely missed a symphony performance.",
+          "zh": "身為古典音樂的行家,她幾乎不會錯過任何一場交響樂演出。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "10",
+        "spelling": "co；com",
+        "meaning": "共同；一起"
+      }
+    },
+    {
+      "word": "connotation",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "an idea or feeling associated with a word beyond its literal meaning:",
+      "defn_zh": "隱含意義;言外之意",
+      "root_note": "con- (together) + notare (to mark), from Latin",
+      "sentences": [
+        {
+          "en": "The word \"cheap\" carries a more negative ______ than \"inexpensive.\"",
+          "zh": "cheap(便宜)這個字比 inexpensive(經濟實惠)帶有更負面的隱含意義。"
+        },
+        {
+          "en": "Writers must consider both the definition and the ______ of every word they choose.",
+          "zh": "作家必須同時考量每個用字的字面意義與隱含意義。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "10",
+        "spelling": "co；com",
+        "meaning": "共同；一起"
+      }
+    },
+    {
+      "word": "connote",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to suggest or imply an idea beyond its literal meaning:",
+      "defn_zh": "隱含;暗示",
+      "root_note": "con- (together) + notare (to mark), from Latin",
+      "sentences": [
+        {
+          "en": "The color red can ______ danger, passion, or celebration depending on context.",
+          "zh": "紅色依情境不同,可以隱含危險、熱情或慶祝之意。"
+        },
+        {
+          "en": "Her tone seemed to ______ disapproval, even though her words were neutral.",
+          "zh": "儘管她的用詞中立,她的語氣卻似乎隱含著不贊同。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "10",
+        "spelling": "co；com",
+        "meaning": "共同；一起"
+      }
+    },
+    {
+      "word": "connubial",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "related to marriage:=Conjugal",
+      "defn_zh": "婚姻的",
+      "root_note": "con- (together) + nubere (to marry)",
+      "sentences": [
+        {
+          "en": "The couple enjoyed decades of ______ happiness together.",
+          "zh": "這對夫妻共同享有數十年美滿的婚姻幸福。"
+        },
+        {
+          "en": "Their ______ bond only grew stronger with time.",
+          "zh": "他們的婚姻情感隨著時間變得越來越堅固。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "10",
+        "spelling": "co；com",
+        "meaning": "共同；一起"
+      }
+    },
+    {
+      "word": "conquer",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to overcome or defeat by force; to gain control of by military force:",
+      "defn_zh": "征服;戰勝",
+      "root_note": "con- (thoroughly) + quaerere (to seek), from Latin",
+      "sentences": [
+        {
+          "en": "The empire sought to ______ every neighboring kingdom within a generation.",
+          "zh": "這個帝國企圖在一代人之內征服每一個鄰近的王國。"
+        },
+        {
+          "en": "She finally managed to ______ her fear of public speaking.",
+          "zh": "她終於成功戰勝了自己對公開演講的恐懼。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "10",
+        "spelling": "co；com",
+        "meaning": "共同；一起"
+      }
+    },
+    {
+      "word": "consanguinity",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "the state of being related by blood:",
+      "defn_zh": "血緣關係",
+      "root_note": "con- (together) + sanguis (blood), from Latin",
+      "sentences": [
+        {
+          "en": "The court examined the family tree to determine the degree of ______.",
+          "zh": "法院查閱了家族族譜,以確定血緣關係的親疏程度。"
+        },
+        {
+          "en": "Marriage laws in most countries restrict unions based on close ______.",
+          "zh": "大多數國家的婚姻法都會依血緣關係的親近程度來限制婚配。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "10",
+        "spelling": "co；com",
+        "meaning": "共同；一起"
+      }
+    },
+    {
+      "word": "conscience",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "an inner sense of right and wrong that guides behavior:",
+      "defn_zh": "良心;良知",
+      "root_note": "con- (with) + scio (know), from Latin",
+      "sentences": [
+        {
+          "en": "Her ______ wouldn't let her keep the extra change the cashier gave her.",
+          "zh": "她的良心不允許她把收銀員多找的零錢留下來。"
+        },
+        {
+          "en": "He confessed out of a guilty ______ .",
+          "zh": "他因良心不安而坦白認錯。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "10",
+        "spelling": "co；com",
+        "meaning": "共同；一起"
+      }
+    },
+    {
+      "word": "conscientious",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "relating to doing what one knows is right; scrupulous",
+      "defn_zh": "認真負責的",
+      "root_note": "con- (together) + scire (to know)",
+      "sentences": [
+        {
+          "en": "The ______ student double-checked every answer before submitting the exam.",
+          "zh": "這位認真負責的學生在交卷前把每個答案都檢查了一遍。"
+        },
+        {
+          "en": "He was known as a ______ worker who never missed a deadline.",
+          "zh": "他以認真負責、從不錯過截止期限的員工形象聞名。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "10",
+        "spelling": "co；com",
+        "meaning": "共同；一起"
+      }
+    },
+    {
+      "word": "conscionable",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "conforming to what is right or reasonable:",
+      "defn_zh": "合乎良心的;公道的",
+      "root_note": "con- (together) + scire (to know), from Latin",
+      "sentences": [
+        {
+          "en": "Is it even ______ to charge such high prices during a shortage?",
+          "zh": "在物資短缺時收取這麼高的價格,這樣做真的合乎良心嗎?"
+        },
+        {
+          "en": "The company insisted its labor practices were entirely ______.",
+          "zh": "這家公司堅稱他們的勞動作法完全合乎道德良心。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "10",
+        "spelling": "co；com",
+        "meaning": "共同；一起"
+      }
+    },
+    {
+      "word": "consecrate",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to dedicate something to a holy purpose:",
+      "defn_zh": "奉獻/使神聖化",
+      "root_note": "con- (thoroughly) + sacer (sacred)",
+      "sentences": [
+        {
+          "en": "The bishop arrived to ______ the newly built cathedral.",
+          "zh": "主教前來為這座新落成的大教堂進行奉獻儀式。"
+        },
+        {
+          "en": "The ground was ______d as a memorial for fallen soldiers.",
+          "zh": "這片土地被奉為紀念陣亡士兵的聖地。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "10",
+        "spelling": "co；com",
+        "meaning": "共同；一起"
+      }
+    },
+    {
+      "word": "consecration",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "the act of formally dedicating something to a sacred purpose:",
+      "defn_zh": "奉獻;祝聖",
+      "root_note": "con- (thoroughly) + sacrare (to make sacred), from Latin",
+      "sentences": [
+        {
+          "en": "The bishop performed the ______ of the newly built cathedral.",
+          "zh": "這位主教主持了這座新建大教堂的祝聖儀式。"
+        },
+        {
+          "en": "Her ______ to the cause left no room for personal ambition.",
+          "zh": "她對這項志業全心的奉獻,已經容不下任何個人的野心。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "10",
+        "spelling": "co；com",
+        "meaning": "共同；一起"
+      }
+    },
+    {
+      "word": "consensus",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "general agreement:",
+      "defn_zh": "共識",
+      "root_note": "con- (together) + sentire (to feel)",
+      "sentences": [
+        {
+          "en": "The team finally reached a ______ on the decision.",
+          "zh": "團隊終於就這項決定達成了共識。"
+        },
+        {
+          "en": "Scientists have reached a broad ______ on the causes of climate change.",
+          "zh": "科學家們對氣候變遷的成因已達成廣泛的共識。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "10",
+        "spelling": "co；com",
+        "meaning": "共同；一起"
+      }
+    },
+    {
+      "word": "consent",
+      "pos": "n./v.",
+      "pos_key": "n.",
+      "defn_en": "permission for something to happen; to give permission:",
+      "defn_zh": "同意;許可",
+      "root_note": "con- (together) + sentire (to feel), from Latin",
+      "sentences": [
+        {
+          "en": "The surgery could not proceed without the patient's written ______.",
+          "zh": "沒有病人的書面同意,這場手術無法進行。"
+        },
+        {
+          "en": "Her parents finally ______ed to the overseas trip after months of discussion.",
+          "zh": "經過好幾個月的討論,她的父母終於同意了這趟海外旅行。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "10",
+        "spelling": "co；com",
+        "meaning": "共同；一起"
+      }
+    },
+    {
+      "word": "consequently",
+      "pos": "adv.",
+      "pos_key": "adv.",
+      "defn_en": "as a result; therefore:",
+      "defn_zh": "因此;結果",
+      "root_note": "con- (together) + sequi (to follow), from Latin",
+      "sentences": [
+        {
+          "en": "The factory closed early; ______ , dozens of workers lost their jobs.",
+          "zh": "工廠提前關閉;因此,數十名工人因而失業。"
+        },
+        {
+          "en": "He missed the deadline and, ______ , lost the contract entirely.",
+          "zh": "他錯過了截止期限,結果因此完全失去了這份合約。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "10",
+        "spelling": "co；com",
+        "meaning": "共同；一起"
+      }
+    },
+    {
+      "word": "consideration",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "careful thought about something; thoughtfulness toward others:",
+      "defn_zh": "考量;體貼",
+      "root_note": "con- (together) + sidus (star), from Latin",
+      "sentences": [
+        {
+          "en": "After much ______ , she decided to accept the job offer.",
+          "zh": "經過再三考量後,她決定接受這份工作邀約。"
+        },
+        {
+          "en": "His ______ for his elderly neighbor never went unnoticed.",
+          "zh": "他對年邁鄰居的體貼,從未被人忽略。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "10",
+        "spelling": "co；com",
+        "meaning": "共同；一起"
+      }
+    },
+    {
+      "word": "consign",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to give something over to another's care:",
+      "defn_zh": "託付/委託",
+      "root_note": "con- (together) + signare (to mark, seal)",
+      "sentences": [
+        {
+          "en": "She had no choice but to ______ her belongings to a storage unit.",
+          "zh": "她別無選擇,只能把物品託付給倉儲空間保管。"
+        },
+        {
+          "en": "The old letters were ______ed to the museum's archive.",
+          "zh": "這些舊信件被託付給博物館的檔案室保存。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "10",
+        "spelling": "co；com",
+        "meaning": "共同；一起"
+      }
+    },
+    {
+      "word": "consistent",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "acting in the same way over time:",
+      "defn_zh": "一致的/前後一致的",
+      "root_note": "con- (together) + sistere (to stand)",
+      "sentences": [
+        {
+          "en": "My grandmother's knitting is always ______ in quality.",
+          "zh": "我祖母的編織作品品質總是十分一致穩定。"
+        },
+        {
+          "en": "The referee's calls were not ______ throughout the game.",
+          "zh": "裁判在整場比賽中的判決並不一致。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "10",
+        "spelling": "co；com",
+        "meaning": "共同；一起"
+      }
+    },
+    {
+      "word": "consolation",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "an act of comforting:",
+      "defn_zh": "安慰",
+      "root_note": "con- (together) + solari (to comfort)",
+      "sentences": [
+        {
+          "en": "Her only ______ after losing the match was the crowd's applause.",
+          "zh": "輸掉這場比賽後,她唯一的安慰就是觀眾的掌聲。"
+        },
+        {
+          "en": "He offered words of ______ to the grieving family.",
+          "zh": "他向這個悲痛的家庭致上安慰之詞。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "10",
+        "spelling": "co；com",
+        "meaning": "共同；一起"
+      }
+    },
+    {
+      "word": "console",
+      "pos": "v./n.",
+      "pos_key": "v.",
+      "defn_en": "to comfort someone in distress; a control panel or cabinet:",
+      "defn_zh": "安慰;控制台",
+      "root_note": "con- (together) + solari (to comfort), from Latin",
+      "sentences": [
+        {
+          "en": "She tried to ______ her friend after the difficult breakup.",
+          "zh": "她試著在朋友經歷艱難的分手後安慰她。"
+        },
+        {
+          "en": "The pilot checked every switch on the cockpit ______ before takeoff.",
+          "zh": "飛行員在起飛前檢查了駕駛艙控制台上的每個開關。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "10",
+        "spelling": "co；com",
+        "meaning": "共同；一起"
+      }
+    },
+    {
+      "word": "consonance",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "agreement or harmony between things; repetition of consonant sounds in poetry:",
+      "defn_zh": "和諧一致;子音韻",
+      "root_note": "con- (together) + sonare (to sound), from Latin",
+      "sentences": [
+        {
+          "en": "The new policy was crafted in ______ with the company's stated values.",
+          "zh": "這項新政策是依循公司宣示的價值觀,協調一致地制定的。"
+        },
+        {
+          "en": "The poet used ______ , repeating the \"t\" sound, to create a clipped, tense rhythm.",
+          "zh": "詩人運用子音韻,重複「t」音,營造出短促緊張的節奏。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "10",
+        "spelling": "co；com",
+        "meaning": "共同；一起"
+      }
+    },
+    {
+      "word": "consonant",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "in harmony:",
+      "defn_zh": "一致的/和諧的",
+      "root_note": "con- (together) + sonare (to sound)",
+      "sentences": [
+        {
+          "en": "Her actions were entirely ______ with the values she preached.",
+          "zh": "她的行為與她所宣揚的價值觀完全一致。"
+        },
+        {
+          "en": "The new policy is ______ with the company's long-term goals.",
+          "zh": "這項新政策與公司的長期目標一致。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "10",
+        "spelling": "co；com",
+        "meaning": "共同；一起"
+      }
+    },
+    {
+      "word": "conspectus",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a general survey or summary of a subject:",
+      "defn_zh": "概覽;綜覽",
+      "root_note": "con- (together) + specere (to look), from Latin",
+      "sentences": [
+        {
+          "en": "The introduction offers a useful ______ of the entire field before diving into specifics.",
+          "zh": "這篇導言在深入細節之前,先提供了整個領域實用的概覽。"
+        },
+        {
+          "en": "Her lecture served as a ______ of twentieth-century art movements.",
+          "zh": "她的講座是一場對二十世紀藝術流派的綜覽。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "10",
+        "spelling": "co；com",
+        "meaning": "共同；一起"
+      }
+    }
+  ],
+  "fallback_options": {
+    "v.": [
+      {
+        "word": "abound",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to exist in great numbers:",
+        "defn_zh": "充滿"
+      },
+      {
+        "word": "abrogate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to deprive of legal force, to nullify:=abolish",
+        "defn_zh": "廢除/取消"
+      },
+      {
+        "word": "abjure",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to renounce, abstain from:",
+        "defn_zh": "發誓放棄/棄絕"
+      },
+      {
+        "word": "abbreviate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to shorten a word or phrase:",
+        "defn_zh": "縮寫;縮短"
+      },
+      {
+        "word": "abdicate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to give up a position, usually one of leadership:",
+        "defn_zh": "退位/放棄(職位)"
+      },
+      {
+        "word": "abduct",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to kidnap, take by force:",
+        "defn_zh": "綁架/劫持"
+      },
+      {
+        "word": "abhor",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to regard with disgust and hatred:",
+        "defn_zh": "憎惡/厭惡"
+      },
+      {
+        "word": "abnegate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to deny or renounce:",
+        "defn_zh": "放棄/克制"
+      },
+      {
+        "word": "abolish",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to formally put an end to a system, practice, or institution:",
+        "defn_zh": "廢除"
+      },
+      {
+        "word": "abort",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to give up on a half-finished project or effort:",
+        "defn_zh": "中止/放棄"
+      },
+      {
+        "word": "abrade",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to scrape or wear away by friction:",
+        "defn_zh": "磨損;擦傷"
+      },
+      {
+        "word": "abscond",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to sneak away and hide:",
+        "defn_zh": "潛逃/逃匿"
+      }
+    ],
+    "adj.": [
+      {
+        "word": "abortive",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "fruitless, failing:",
+        "defn_zh": "失敗的/夭折的"
+      },
+      {
+        "word": "abstemious",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "moderate in eating or drinking:",
+        "defn_zh": "飲食有節制的"
+      },
+      {
+        "word": "abhorrent",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "detestable, despised:",
+        "defn_zh": "令人厭惡的"
+      },
+      {
+        "word": "absurd",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "ridiculous:",
+        "defn_zh": "荒謬的"
+      },
+      {
+        "word": "aberrant",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "deviating from what is normal or expected:",
+        "defn_zh": "異常的;脫軌的"
+      },
+      {
+        "word": "abject",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "wretched, pitiful:",
+        "defn_zh": "卑賤的/淒慘的"
+      },
+      {
+        "word": "abominable",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "causing moral revulsion; extremely unpleasant:",
+        "defn_zh": "可憎的;惡劣的"
+      },
+      {
+        "word": "abounding",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "existing in large numbers or amounts:",
+        "defn_zh": "大量存在的;豐富的"
+      },
+      {
+        "word": "abrasive",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "showing little concern for others; harsh:",
+        "defn_zh": "粗暴的/刺耳的"
+      },
+      {
+        "word": "abrupt",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "sudden or unexpected; brief and curt in manner:",
+        "defn_zh": "突然的/唐突的"
+      },
+      {
+        "word": "abstract",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "existing purely in the mind; not representing actual reality:",
+        "defn_zh": "抽象的"
+      },
+      {
+        "word": "abstruse",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "hard to comprehend:",
+        "defn_zh": "深奧難懂的"
+      }
+    ],
+    "n.": [
+      {
+        "word": "aversion",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "strong dislike, opposition:",
+        "defn_zh": "厭惡/反感"
+      },
+      {
+        "word": "aberration",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "something that differs from the norm:",
+        "defn_zh": "異常/脫軌"
+      },
+      {
+        "word": "abjection",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a state of complete misery, hopelessness, or degradation:",
+        "defn_zh": "卑賤;悲慘狀態"
+      },
+      {
+        "word": "abjuration",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the solemn renunciation of a belief, cause, or claim:",
+        "defn_zh": "公開放棄;誓絕"
+      },
+      {
+        "word": "ablution",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the act of washing oneself, especially as part of a religious ritual:",
+        "defn_zh": "沐浴;淨身儀式"
+      },
+      {
+        "word": "abnegation",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "denial of comfort to oneself:",
+        "defn_zh": "自我克制/放棄"
+      },
+      {
+        "word": "abomination",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "something that causes disgust or hatred:",
+        "defn_zh": "可憎之事;令人厭惡的東西"
+      },
+      {
+        "word": "abridgement",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a shortened version of a book or other written work:",
+        "defn_zh": "節略本;縮減版"
+      },
+      {
+        "word": "absolution",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "freedom from blame, guilt, sin:",
+        "defn_zh": "赦免/免罪"
+      },
+      {
+        "word": "abstemiousness",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "moderation or self-restraint, especially in eating and drinking:",
+        "defn_zh": "節制;克己"
+      },
+      {
+        "word": "abstinence",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the practice of restraining oneself from something enjoyable, especially food, alcohol, or sex:",
+        "defn_zh": "節制;戒絕"
+      },
+      {
+        "word": "avocation",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a hobby or minor occupation apart from one's main career:",
+        "defn_zh": "副業;業餘愛好"
+      }
+    ],
+    "adv.": [
+      {
+        "word": "accordingly",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in a manner that fits the circumstances; consequently:",
+        "defn_zh": "相應地;因此"
+      },
+      {
+        "word": "inadvertently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "unintentionally or by accident:",
+        "defn_zh": "無意間/不小心地"
+      },
+      {
+        "word": "contemptuously",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "without respect; in a disdainful manner:",
+        "defn_zh": "輕蔑地"
+      },
+      {
+        "word": "involuntarily",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "done without conscious control:",
+        "defn_zh": "不由自主地"
+      },
+      {
+        "word": "cordially",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in a warm or friendly manner:",
+        "defn_zh": "誠摯地/友好地"
+      },
+      {
+        "word": "ipso facto",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "by that very fact or act:",
+        "defn_zh": "事實上;因此"
+      },
+      {
+        "word": "en passant",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in passing; incidentally:",
+        "defn_zh": "順帶一提地;偶然地"
+      },
+      {
+        "word": "regardless",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "despite the prevailing circumstances; without being deterred:",
+        "defn_zh": "不管怎樣;儘管如此"
+      },
+      {
+        "word": "subsequently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "afterward; following in time or order:",
+        "defn_zh": "隨後;其後"
+      },
+      {
+        "word": "aside",
+        "pos": "adv./n.",
+        "pos_key": "adv.",
+        "defn_en": "to or on one side; a remark not meant to be heard by everyone:",
+        "defn_zh": "在旁邊;旁白"
+      },
+      {
+        "word": "vice versa",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "with the order or meaning reversed; conversely:",
+        "defn_zh": "反之亦然"
+      },
+      {
+        "word": "forward",
+        "pos": "adv./adj.",
+        "pos_key": "adv.",
+        "defn_en": "toward the front or future; bold or presumptuous:",
+        "defn_zh": "向前的;冒失的"
+      }
+    ],
+    "other": [
+      {
+        "word": "（此批單字中，暫無符合此字根/字首的單字）",
+        "pos": "",
+        "pos_key": "other",
+        "defn_en": "",
+        "defn_zh": ""
+      }
+    ],
+    "prep./adv.": [
+      {
+        "word": "besides",
+        "pos": "prep./adv.",
+        "pos_key": "prep./adv.",
+        "defn_en": "in addition to; furthermore:",
+        "defn_zh": "除...之外;此外"
+      }
+    ],
+    "phrasalv.": [
+      {
+        "word": "egg on",
+        "pos": "phrasal v.",
+        "pos_key": "phrasalv.",
+        "defn_en": "to encourage someone to do something, often risky:",
+        "defn_zh": "慫恿;鼓動"
+      }
+    ],
+    "abbr.": [
+      {
+        "word": "etc.",
+        "pos": "abbr.",
+        "pos_key": "abbr.",
+        "defn_en": "and other similar things (abbreviation of et cetera):",
+        "defn_zh": "等等(et cetera的縮寫)"
+      }
+    ],
+    "interj.": [
+      {
+        "word": "fiddledeedee",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "an exclamation expressing dismissal of something as nonsense:",
+        "defn_zh": "廢話!(表示不屑一顧)"
+      },
+      {
+        "word": "gesundheit",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "an expression said to someone who has just sneezed:",
+        "defn_zh": "保重(打噴嚏後的祝福語)"
+      }
+    ],
+    "prep.": [
+      {
+        "word": "via",
+        "pos": "prep.",
+        "pos_key": "prep.",
+        "defn_en": "by way of; passing through:",
+        "defn_zh": "經由;透過"
+      }
+    ]
+  }
+}
