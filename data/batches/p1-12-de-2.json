@@ -1,0 +1,1617 @@
+{
+  "id": "p1-12-de-2",
+  "part": "part1",
+  "part_label": "Part 1 字首篇 (Prefixes)",
+  "name": "de (2/3)",
+  "subtitle": "去除；下降",
+  "count": 50,
+  "words": [
+    {
+      "word": "degenerate",
+      "pos": "v./adj.",
+      "pos_key": "v.",
+      "defn_en": "to decline in quality or morals; morally corrupt:",
+      "defn_zh": "退化;墮落的",
+      "root_note": "de- (down) + genus (birth, kind), from Latin",
+      "sentences": [
+        {
+          "en": "The debate quickly ______ d into shouting.",
+          "zh": "這場辯論很快就退化成了互相叫囂。"
+        },
+        {
+          "en": "The novel's ______ characters live only for pleasure.",
+          "zh": "這本小說中墮落的角色只為享樂而活。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "12",
+        "spelling": "de",
+        "meaning": "去除；下降"
+      }
+    },
+    {
+      "word": "degrade",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to make contemptible, lower:",
+      "defn_zh": "貶低/使降級",
+      "root_note": "de- (down) + gradus (step)",
+      "sentences": [
+        {
+          "en": "The harsh chemicals began to ______ the fabric over time.",
+          "zh": "這些刺激性化學物質隨著時間逐漸使這塊布料劣化。"
+        },
+        {
+          "en": "He refused to let the insults ______ his sense of self-worth.",
+          "zh": "他拒絕讓這些侮辱貶低他的自我價值感。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "12",
+        "spelling": "de",
+        "meaning": "去除；下降"
+      }
+    },
+    {
+      "word": "dejected",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "sad and depressed; disheartened:",
+      "defn_zh": "沮喪的;意氣消沉的",
+      "root_note": "de- (down) + jacere (to throw), from Latin",
+      "sentences": [
+        {
+          "en": "He looked ______ after losing the championship game.",
+          "zh": "他在輸掉冠軍賽後看起來十分沮喪。"
+        },
+        {
+          "en": "Her ______ expression revealed her disappointment.",
+          "zh": "她意氣消沉的表情透露出失望之情。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "12",
+        "spelling": "de",
+        "meaning": "去除；下降"
+      }
+    },
+    {
+      "word": "delay",
+      "pos": "v./n.",
+      "pos_key": "v.",
+      "defn_en": "to postpone or make late:",
+      "defn_zh": "延遲;延誤",
+      "root_note": "de- (thoroughly) + laier (to leave), from Old French",
+      "sentences": [
+        {
+          "en": "Heavy snow caused a ______ in the flight schedule.",
+          "zh": "大雪造成了航班時刻的延誤。"
+        },
+        {
+          "en": "They decided to ______ the announcement until next week.",
+          "zh": "他們決定將這項宣布延後至下週。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "12",
+        "spelling": "de",
+        "meaning": "去除；下降"
+      }
+    },
+    {
+      "word": "delectable",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "delicious",
+      "defn_zh": "美味可口的",
+      "root_note": "de- (thoroughly) + lacere (to entice)",
+      "sentences": [
+        {
+          "en": "The bakery is famous for its ______ pastries.",
+          "zh": "這家烘焙坊以美味可口的糕點聞名。"
+        },
+        {
+          "en": "She served a ______ meal that left every guest satisfied.",
+          "zh": "她端出一頓美味可口的餐點,讓每位賓客都心滿意足。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "12",
+        "spelling": "de",
+        "meaning": "去除；下降"
+      }
+    },
+    {
+      "word": "delegate",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to assign responsibility or authority to another person or group:",
+      "defn_zh": "委派/授權",
+      "root_note": "de- (down) + legare (to send)",
+      "sentences": [
+        {
+          "en": "She ______ the task to her assistant, trusting them to handle it efficiently.",
+          "zh": "她把這項任務委派給她的助理,相信對方能有效處理。"
+        },
+        {
+          "en": "A good leader knows how to ______ responsibilities.",
+          "zh": "優秀的領導者懂得如何委派責任。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "12",
+        "spelling": "de",
+        "meaning": "去除；下降"
+      }
+    },
+    {
+      "word": "delete",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to remove or erase something:",
+      "defn_zh": "刪除",
+      "root_note": "de- (away) + linere (to smear, wipe out), from Latin",
+      "sentences": [
+        {
+          "en": "She accidentally ______ d an important file.",
+          "zh": "她不小心刪除了一個重要檔案。"
+        },
+        {
+          "en": "Please ______ any outdated information from the report.",
+          "zh": "請刪除報告中任何過時的資訊。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "12",
+        "spelling": "de",
+        "meaning": "去除；下降"
+      }
+    },
+    {
+      "word": "deliberate",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "done consciously and intentionally:",
+      "defn_zh": "故意的/深思熟慮的",
+      "root_note": "de- (down) + librare (to weigh)",
+      "sentences": [
+        {
+          "en": "The ______ actions of the protestors drew widespread attention.",
+          "zh": "抗議者刻意為之的行動引起了廣泛關注。"
+        },
+        {
+          "en": "His silence was entirely ______, meant to make her uncomfortable.",
+          "zh": "他的沉默完全是故意的,目的是要讓她感到不自在。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "12",
+        "spelling": "de",
+        "meaning": "去除；下降"
+      }
+    },
+    {
+      "word": "deliberation",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "careful consideration or discussion:",
+      "defn_zh": "深思熟慮/商議",
+      "root_note": "de- (down) + librare (to weigh)",
+      "sentences": [
+        {
+          "en": "After much ______, they made their decision.",
+          "zh": "經過一番深思熟慮,他們做出了決定。"
+        },
+        {
+          "en": "The jury's ______ lasted nearly ten hours before reaching a verdict.",
+          "zh": "陪審團商議了將近十個小時才做出判決。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "12",
+        "spelling": "de",
+        "meaning": "去除；下降"
+      }
+    },
+    {
+      "word": "delineate",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to describe, outline, shed light on:",
+      "defn_zh": "描繪/勾勒",
+      "root_note": "de- (completely) + linea (line)",
+      "sentences": [
+        {
+          "en": "The contract clearly ______s each party's responsibilities.",
+          "zh": "這份合約清楚描繪出雙方各自的責任。"
+        },
+        {
+          "en": "Her essay carefully ______s the causes of the economic crisis.",
+          "zh": "她的文章仔細勾勒出這場經濟危機的成因。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "12",
+        "spelling": "de",
+        "meaning": "去除；下降"
+      }
+    },
+    {
+      "word": "delineation",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "sketch, description in words:",
+      "defn_zh": "描繪/輪廓",
+      "root_note": "de- (out) + linea (line)",
+      "sentences": [
+        {
+          "en": "The report offers a clear ______ of the project's next steps.",
+          "zh": "這份報告清楚地描繪了這項計畫的後續步驟。"
+        },
+        {
+          "en": "The map provided a precise ______ of the property boundaries.",
+          "zh": "這張地圖精確地描繪出了地產的邊界。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "12",
+        "spelling": "de",
+        "meaning": "去除；下降"
+      }
+    },
+    {
+      "word": "delinquent",
+      "pos": "adj./n.",
+      "pos_key": "adj.",
+      "defn_en": "failing to fulfill an obligation; a young offender:",
+      "defn_zh": "違法的;不良少年",
+      "root_note": "de- (away) + linquere (to leave), from Latin",
+      "sentences": [
+        {
+          "en": "The account was marked ______ after months of missed payments.",
+          "zh": "這個帳戶因數月未繳款而被標記為逾期未繳。"
+        },
+        {
+          "en": "The program helps young ______ s find a better path.",
+          "zh": "這個計畫幫助不良少年找到更好的人生道路。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "12",
+        "spelling": "de",
+        "meaning": "去除；下降"
+      }
+    },
+    {
+      "word": "deliquesce",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to become liquid, especially by absorbing moisture from the air:",
+      "defn_zh": "潮解;液化",
+      "root_note": "de- (thoroughly) + liquescere (to become liquid), from Latin",
+      "sentences": [
+        {
+          "en": "The salt began to ______ in the humid summer air.",
+          "zh": "這些鹽在潮濕的夏季空氣中開始潮解。"
+        },
+        {
+          "en": "Certain crystals ______ when left exposed overnight.",
+          "zh": "某些結晶體若整夜暴露在外就會潮解。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "12",
+        "spelling": "de",
+        "meaning": "去除；下降"
+      }
+    },
+    {
+      "word": "delirious",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "in a disturbed state of mind, often marked by confusion or excitement:",
+      "defn_zh": "神智不清的;狂喜的",
+      "root_note": "de- (away from) + lira (furrow), from Latin",
+      "sentences": [
+        {
+          "en": "The fevered patient became ______ during the night.",
+          "zh": "這位發燒的病患在夜裡變得神智不清。"
+        },
+        {
+          "en": "Fans were ______ with joy when the band appeared.",
+          "zh": "當樂團出現時,粉絲們狂喜不已。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "12",
+        "spelling": "de",
+        "meaning": "去除；下降"
+      }
+    },
+    {
+      "word": "delude",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to fool:",
+      "defn_zh": "欺騙/蠱惑",
+      "root_note": "de- (down) + ludere (to play)",
+      "sentences": [
+        {
+          "en": "He tried to ______ himself into thinking the relationship could still be saved.",
+          "zh": "他試圖欺騙自己,認為這段感情仍有挽回的可能。"
+        },
+        {
+          "en": "The scammer managed to ______ dozens of investors with false promises.",
+          "zh": "這名詐騙犯用虛假的承諾成功欺騙了數十名投資者。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "12",
+        "spelling": "de",
+        "meaning": "去除；下降"
+      }
+    },
+    {
+      "word": "delusion",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a false opinion or belief",
+      "defn_zh": "妄想",
+      "root_note": "de- (down/away) + ludere (to play)",
+      "sentences": [
+        {
+          "en": "He suffered from the ______ that everyone at work was against him.",
+          "zh": "他一直妄想認為公司裡的每個人都在針對他。"
+        },
+        {
+          "en": "Her belief that she could win without practicing was pure ______.",
+          "zh": "她相信自己不用練習就能獲勝,根本是一種妄想。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "12",
+        "spelling": "de",
+        "meaning": "去除；下降"
+      }
+    },
+    {
+      "word": "demarcate",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to set boundaries or distinguish:",
+      "defn_zh": "劃定界線/區分",
+      "root_note": "de- (down) + marcare (to mark)",
+      "sentences": [
+        {
+          "en": "The Tornio river ______ the border between Sweden and Finland.",
+          "zh": "托爾尼奧河劃定了瑞典與芬蘭之間的邊界。"
+        },
+        {
+          "en": "A low fence was used to ______ the two neighboring properties.",
+          "zh": "一道矮籬被用來劃分這兩塊相鄰的地產。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "12",
+        "spelling": "de",
+        "meaning": "去除；下降"
+      }
+    },
+    {
+      "word": "demarcation",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "the marking of boundaries or categories:",
+      "defn_zh": "劃界/分界",
+      "root_note": "de- (off) + marca (mark, boundary)",
+      "sentences": [
+        {
+          "en": "A fence marked the ______ between the two properties.",
+          "zh": "一道圍籬標示出這兩塊地產之間的分界線。"
+        },
+        {
+          "en": "The treaty established a clear ______ between the two nations' territories.",
+          "zh": "這項條約在兩國領土之間劃定了明確的分界線。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "12",
+        "spelling": "de",
+        "meaning": "去除；下降"
+      }
+    },
+    {
+      "word": "demeanor",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "conduct, bearing:",
+      "defn_zh": "舉止/風度",
+      "root_note": "de- (completely) + mener (to lead/conduct)",
+      "sentences": [
+        {
+          "en": "Her calm ______ helped put the nervous patient at ease.",
+          "zh": "她沉著鎮定的舉止讓緊張的病人感到安心。"
+        },
+        {
+          "en": "Despite the pressure, he maintained a professional ______ throughout the meeting.",
+          "zh": "儘管壓力沉重,他在整場會議中依然維持著專業的舉止。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "12",
+        "spelling": "de",
+        "meaning": "去除；下降"
+      }
+    },
+    {
+      "word": "demonstrable",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "able to be shown or proven clearly:",
+      "defn_zh": "可證明的",
+      "root_note": "de- (thoroughly) + monstrare (to show), from Latin",
+      "sentences": [
+        {
+          "en": "The new treatment showed ______ improvements in patient recovery.",
+          "zh": "這種新療法在病患康復方面顯示出可證明的進步。"
+        },
+        {
+          "en": "Her claims were backed by ______ evidence.",
+          "zh": "她的說法有可證明的證據支持。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "12",
+        "spelling": "de",
+        "meaning": "去除；下降"
+      }
+    },
+    {
+      "word": "demonstrate",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to show clearly by evidence or reasoning:",
+      "defn_zh": "證明;示範",
+      "root_note": "de- (thoroughly) + monstrare (to show), from Latin",
+      "sentences": [
+        {
+          "en": "The scientist ______ d the experiment for the class.",
+          "zh": "這位科學家為班上示範了這項實驗。"
+        },
+        {
+          "en": "The results ______ a clear link between diet and health.",
+          "zh": "這些結果證明了飲食與健康之間的明確關聯。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "12",
+        "spelling": "de",
+        "meaning": "去除；下降"
+      }
+    },
+    {
+      "word": "demur",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to object:",
+      "defn_zh": "反對/抗議",
+      "root_note": "de- (delay) + morari (to tarry)",
+      "sentences": [
+        {
+          "en": "When asked to work overtime again, she finally began to ______.",
+          "zh": "當她再次被要求加班時,她終於開始表示反對。"
+        },
+        {
+          "en": "Most board members agreed, though one director chose to ______.",
+          "zh": "大多數董事會成員都同意,不過有一位董事選擇提出異議。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "12",
+        "spelling": "de",
+        "meaning": "去除；下降"
+      }
+    },
+    {
+      "word": "denigrate",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to belittle, diminish the opinion of:",
+      "defn_zh": "詆毀/貶低",
+      "root_note": "de- (thoroughly) + niger (black, Latin)",
+      "sentences": [
+        {
+          "en": "He was quick to ______ any idea that wasn't his own.",
+          "zh": "他總是急於貶低任何不是他自己提出的想法。"
+        },
+        {
+          "en": "The article was criticized for trying to ______ the scientist's decades of research.",
+          "zh": "這篇文章因試圖詆毀這位科學家數十年的研究而遭到批評。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "12",
+        "spelling": "de",
+        "meaning": "去除；下降"
+      }
+    },
+    {
+      "word": "denigrated",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "criticized unfairly; disparaged:",
+      "defn_zh": "被詆毀的;被貶低的",
+      "root_note": "de- (thoroughly) + nigrare (to blacken), from Latin",
+      "sentences": [
+        {
+          "en": "Her achievements were unfairly ______ by jealous colleagues.",
+          "zh": "她的成就被心懷嫉妒的同事不公平地貶低了。"
+        },
+        {
+          "en": "The once-respected scientist felt ______ by the media's coverage.",
+          "zh": "這位曾備受尊敬的科學家覺得自己被媒體的報導所詆毀。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "12",
+        "spelling": "de",
+        "meaning": "去除；下降"
+      }
+    },
+    {
+      "word": "denigration",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "the act of unfairly criticizing or belittling someone:",
+      "defn_zh": "詆毀;貶損",
+      "root_note": "de- (thoroughly) + nigrare (to blacken), from Latin",
+      "sentences": [
+        {
+          "en": "The campaign was marked by constant ______ of the opponent.",
+          "zh": "這場競選活動充斥著對對手不斷的詆毀。"
+        },
+        {
+          "en": "He refused to respond to the online ______ of his work.",
+          "zh": "他拒絕回應網路上對他作品的貶損言論。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "12",
+        "spelling": "de",
+        "meaning": "去除；下降"
+      }
+    },
+    {
+      "word": "denotation",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "the literal or primary meaning of a word:",
+      "defn_zh": "本義;字面意義",
+      "root_note": "de- (thoroughly) + notare (to mark), from Latin",
+      "sentences": [
+        {
+          "en": "The word's ______ differs greatly from its emotional connotation.",
+          "zh": "這個字的字面意義與其情感上的言外之意有很大的不同。"
+        },
+        {
+          "en": "Students learned to distinguish ______ from connotation in poetry.",
+          "zh": "學生們學習在詩歌中區分本義與言外之意。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "12",
+        "spelling": "de",
+        "meaning": "去除；下降"
+      }
+    },
+    {
+      "word": "denote",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to indicate, show, mean:",
+      "defn_zh": "表示/意味著",
+      "root_note": "de- (completely) + notare (to mark)",
+      "sentences": [
+        {
+          "en": "A red flag on the beach ______s dangerous swimming conditions.",
+          "zh": "海灘上的紅旗表示游泳條件危險。"
+        },
+        {
+          "en": "The symbol ______s a chemical bond between two atoms.",
+          "zh": "這個符號表示兩個原子之間的化學鍵結。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "12",
+        "spelling": "de",
+        "meaning": "去除；下降"
+      }
+    },
+    {
+      "word": "denounce",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to criticize publicly:",
+      "defn_zh": "公開譴責/揭發",
+      "root_note": "de- (thoroughly) + nuntiare (to announce)",
+      "sentences": [
+        {
+          "en": "World leaders quickly moved to ______ the attack.",
+          "zh": "各國領袖迅速採取行動,公開譴責這起攻擊事件。"
+        },
+        {
+          "en": "She stood up in the meeting to ______ the unfair treatment of new hires.",
+          "zh": "她在會議中站起來公開譴責新進員工受到的不公平待遇。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "12",
+        "spelling": "de",
+        "meaning": "去除；下降"
+      }
+    },
+    {
+      "word": "denouncement",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a public condemnation of someone or something:",
+      "defn_zh": "公開譴責",
+      "root_note": "de- (thoroughly) + nuntiare (to announce), from Latin",
+      "sentences": [
+        {
+          "en": "The activist's ______ of the policy drew national attention.",
+          "zh": "這位社運人士對該政策的公開譴責引起了全國關注。"
+        },
+        {
+          "en": "His ______ of corruption cost him his political career.",
+          "zh": "他對貪腐的公開譴責讓他付出了政治生涯的代價。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "12",
+        "spelling": "de",
+        "meaning": "去除；下降"
+      }
+    },
+    {
+      "word": "denudation",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "the process of stripping away covering or protection; erosion:",
+      "defn_zh": "剝蝕;裸露",
+      "root_note": "de- (away) + nudare (to strip bare), from Latin",
+      "sentences": [
+        {
+          "en": "Centuries of ______ exposed the ancient rock formations.",
+          "zh": "數個世紀的剝蝕使古老的岩層裸露出來。"
+        },
+        {
+          "en": "Deforestation accelerated the ______ of the hillside.",
+          "zh": "森林砍伐加速了這座山坡的剝蝕。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "12",
+        "spelling": "de",
+        "meaning": "去除；下降"
+      }
+    },
+    {
+      "word": "denude",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to strip bare of covering:",
+      "defn_zh": "剝光;裸露",
+      "root_note": "de- (away) + nudare (to strip bare), from Latin",
+      "sentences": [
+        {
+          "en": "The storm began to ______ the trees of their leaves.",
+          "zh": "這場暴風雨開始把樹上的葉子吹光。"
+        },
+        {
+          "en": "Overgrazing can ______ hillsides of vegetation.",
+          "zh": "過度放牧會使山坡失去植被。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "12",
+        "spelling": "de",
+        "meaning": "去除；下降"
+      }
+    },
+    {
+      "word": "denunciatory",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "expressing strong public criticism or condemnation:",
+      "defn_zh": "譴責的;告發性的",
+      "root_note": "de- (thoroughly) + nuntiare (to announce), from Latin",
+      "sentences": [
+        {
+          "en": "The editorial took a sharply ______ tone toward the administration.",
+          "zh": "這篇社論以尖銳的譴責語氣批評當局。"
+        },
+        {
+          "en": "His ______ speech named the corrupt officials directly.",
+          "zh": "他譴責性的演說直接點名了那些貪腐官員。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "12",
+        "spelling": "de",
+        "meaning": "去除；下降"
+      }
+    },
+    {
+      "word": "depict",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to describe clearly, picture, portray:",
+      "defn_zh": "描繪/描述",
+      "root_note": "de- (down) + pingere (to paint)",
+      "sentences": [
+        {
+          "en": "The mural ______s the history of the town in vivid colors.",
+          "zh": "這幅壁畫以鮮豔的色彩描繪了這座城鎮的歷史。"
+        },
+        {
+          "en": "The novel ______s life in a small fishing village.",
+          "zh": "這部小說描繪了小漁村的生活景象。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "12",
+        "spelling": "de",
+        "meaning": "去除；下降"
+      }
+    },
+    {
+      "word": "deplete",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to use up the supply or resources of something:",
+      "defn_zh": "耗盡;使枯竭",
+      "root_note": "de- (away) + plere (to fill), from Latin",
+      "sentences": [
+        {
+          "en": "The drought began to ______ the region's water reserves.",
+          "zh": "這場乾旱開始使該地區的水資源逐漸枯竭。"
+        },
+        {
+          "en": "Overfishing has ______ d the local fish population.",
+          "zh": "過度捕撈已使當地魚群數量耗盡。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "12",
+        "spelling": "de",
+        "meaning": "去除；下降"
+      }
+    },
+    {
+      "word": "depleted",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "reduced in quantity, especially to a critically low level:",
+      "defn_zh": "耗盡的;枯竭的",
+      "root_note": "de- (away) + plere (to fill), from Latin",
+      "sentences": [
+        {
+          "en": "Soldiers fought on with ______ ammunition.",
+          "zh": "士兵們在彈藥耗盡的情況下仍持續作戰。"
+        },
+        {
+          "en": "The country's ______ oil reserves forced new energy policies.",
+          "zh": "這個國家枯竭的石油儲備迫使政府制定新的能源政策。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "12",
+        "spelling": "de",
+        "meaning": "去除；下降"
+      }
+    },
+    {
+      "word": "deplorable",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "sad, pitiable:",
+      "defn_zh": "可悲的/應受譴責的",
+      "root_note": "de- (thoroughly) + plorare (to weep)",
+      "sentences": [
+        {
+          "en": "The prisoners were kept in ______ conditions with little food or light.",
+          "zh": "這些囚犯被關在食物與光線都極度匱乏的悲慘環境中。"
+        },
+        {
+          "en": "Critics called the film's treatment of the subject ______.",
+          "zh": "評論家批評這部電影對這個主題的處理方式令人不齒。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "12",
+        "spelling": "de",
+        "meaning": "去除；下降"
+      }
+    },
+    {
+      "word": "deplore",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to feel or express sorrow, disapproval:",
+      "defn_zh": "深感遺憾/譴責",
+      "root_note": "de- (thoroughly) + plorare (to wail)",
+      "sentences": [
+        {
+          "en": "The committee issued a statement to ______ the recent violence.",
+          "zh": "委員會發表聲明,對近日的暴力事件表示深切譴責。"
+        },
+        {
+          "en": "Many citizens ______ the growing gap between rich and poor.",
+          "zh": "許多市民對貧富差距日益擴大深感遺憾。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "12",
+        "spelling": "de",
+        "meaning": "去除；下降"
+      }
+    },
+    {
+      "word": "deport",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to expel a foreigner from a country:",
+      "defn_zh": "驅逐出境",
+      "root_note": "de- (away) + portare (to carry), from Latin",
+      "sentences": [
+        {
+          "en": "The government moved to ______ the undocumented workers.",
+          "zh": "政府採取行動要驅逐這些無合法文件的工人出境。"
+        },
+        {
+          "en": "He was ______ ed after his visa expired.",
+          "zh": "他的簽證過期後就被驅逐出境了。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "12",
+        "spelling": "de",
+        "meaning": "去除；下降"
+      }
+    },
+    {
+      "word": "deportment",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a person's manner of behaving; conduct:",
+      "defn_zh": "行為舉止;禮儀",
+      "root_note": "de- (away) + portare (to carry), from Latin",
+      "sentences": [
+        {
+          "en": "The academy taught etiquette and proper ______ .",
+          "zh": "這所學院教授禮儀與正確的行為舉止。"
+        },
+        {
+          "en": "Her calm ______ impressed the interview panel.",
+          "zh": "她沉穩的舉止讓面試官印象深刻。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "12",
+        "spelling": "de",
+        "meaning": "去除；下降"
+      }
+    },
+    {
+      "word": "deprave",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to make morally corrupt:",
+      "defn_zh": "使墮落;腐化",
+      "root_note": "de- (thoroughly) + pravus (crooked), from Latin",
+      "sentences": [
+        {
+          "en": "Critics argued the film would ______ young audiences.",
+          "zh": "評論家主張這部電影會腐化年輕的觀眾。"
+        },
+        {
+          "en": "Absolute power tends to ______ even good rulers.",
+          "zh": "絕對的權力往往會使即使是好的統治者也墮落。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "12",
+        "spelling": "de",
+        "meaning": "去除；下降"
+      }
+    },
+    {
+      "word": "depraved",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "morally corrupt; wicked:",
+      "defn_zh": "墮落的;邪惡的",
+      "root_note": "de- (thoroughly) + pravus (crooked), from Latin",
+      "sentences": [
+        {
+          "en": "The novel's ______ villain shows no remorse.",
+          "zh": "這本小說裡墮落邪惡的反派毫無悔意。"
+        },
+        {
+          "en": "The court called his crimes shockingly ______ .",
+          "zh": "法庭稱他的罪行極其邪惡令人震驚。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "12",
+        "spelling": "de",
+        "meaning": "去除；下降"
+      }
+    },
+    {
+      "word": "depravity",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "wickedness:",
+      "defn_zh": "墮落/邪惡",
+      "root_note": "de- (thoroughly) + pravus (crooked, depraved)",
+      "sentences": [
+        {
+          "en": "The novel explores the depths of human ______ during wartime.",
+          "zh": "這部小說探討了戰爭期間人性墮落的深淵。"
+        },
+        {
+          "en": "The judge condemned the sheer ______ of the crime.",
+          "zh": "法官譴責了這起罪行極端的邪惡程度。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "12",
+        "spelling": "de",
+        "meaning": "去除；下降"
+      }
+    },
+    {
+      "word": "deprecate",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to express disapproval:",
+      "defn_zh": "抨擊/反對",
+      "root_note": "de- (away) + precari (to pray)",
+      "sentences": [
+        {
+          "en": "Critics ______d the movie's shallow attempt at humor.",
+          "zh": "評論家對這部電影膚淺的幽默嘗試表示不以為然。"
+        },
+        {
+          "en": "He tends to self-______, joking about his own shortcomings.",
+          "zh": "他習慣自我貶抑,拿自己的缺點開玩笑。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "12",
+        "spelling": "de",
+        "meaning": "去除；下降"
+      }
+    },
+    {
+      "word": "deprecatory",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "expressing disapproval; self-belittling:",
+      "defn_zh": "貶低的;自我貶抑的",
+      "root_note": "de- (down) + precari (to pray), from Latin",
+      "sentences": [
+        {
+          "en": "He gave a ______ shrug when praised for his work.",
+          "zh": "當作品受到讚揚時,他自我貶抑地聳了聳肩。"
+        },
+        {
+          "en": "Her ______ remarks masked genuine pride in her achievement.",
+          "zh": "她自我貶低的言辭掩蓋了她對成就的真實驕傲。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "12",
+        "spelling": "de",
+        "meaning": "去除；下降"
+      }
+    },
+    {
+      "word": "depreciate",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to diminish in value over time:",
+      "defn_zh": "貶值;跌價",
+      "root_note": "de- (down) + pretium (price), from Latin",
+      "sentences": [
+        {
+          "en": "New cars ______ quickly within the first year.",
+          "zh": "新車在第一年內會迅速貶值。"
+        },
+        {
+          "en": "The currency began to ______ against the dollar.",
+          "zh": "這種貨幣開始對美元貶值。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "12",
+        "spelling": "de",
+        "meaning": "去除；下降"
+      }
+    },
+    {
+      "word": "depreciatory",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "tending to belittle or disparage:",
+      "defn_zh": "貶低的;輕蔑的",
+      "root_note": "de- (down) + pretium (price), from Latin",
+      "sentences": [
+        {
+          "en": "His ______ tone toward junior staff created resentment.",
+          "zh": "他對基層員工輕蔑的語氣引起了不滿。"
+        },
+        {
+          "en": "She brushed off the ______ comments about her accent.",
+          "zh": "她對於那些貶低她口音的評論一笑置之。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "12",
+        "spelling": "de",
+        "meaning": "去除；下降"
+      }
+    },
+    {
+      "word": "deprivation",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "the state of lacking basic necessities:",
+      "defn_zh": "剝奪;匱乏",
+      "root_note": "de- (away) + privare (to deprive), from Latin",
+      "sentences": [
+        {
+          "en": "Years of ______ left the refugees malnourished.",
+          "zh": "多年的匱乏使這些難民營養不良。"
+        },
+        {
+          "en": "Sleep ______ can seriously impair judgment.",
+          "zh": "睡眠剝奪會嚴重損害判斷力。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "12",
+        "spelling": "de",
+        "meaning": "去除；下降"
+      }
+    },
+    {
+      "word": "deprive",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to prevent someone from having or enjoying something:",
+      "defn_zh": "剝奪",
+      "root_note": "de- (away) + privare (to deprive), from Latin",
+      "sentences": [
+        {
+          "en": "The prisoners were ______ d of natural light for weeks.",
+          "zh": "這些囚犯數週未見自然光,遭到剝奪。"
+        },
+        {
+          "en": "Poverty can ______ children of basic education.",
+          "zh": "貧窮可能剝奪兒童接受基本教育的機會。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "12",
+        "spelling": "de",
+        "meaning": "去除；下降"
+      }
+    },
+    {
+      "word": "deracinate",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to uproot someone or something from their natural environment:",
+      "defn_zh": "連根拔起;使脫離故土",
+      "root_note": "de- (away) + racine (root), from French",
+      "sentences": [
+        {
+          "en": "War ______ d thousands of families from their homeland.",
+          "zh": "戰爭使數千個家庭被迫離開他們的故土。"
+        },
+        {
+          "en": "The old oak was finally ______ d by the hurricane.",
+          "zh": "這棵老橡樹最終被颶風連根拔起。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "12",
+        "spelling": "de",
+        "meaning": "去除；下降"
+      }
+    },
+    {
+      "word": "deranged",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "seriously disturbed in mind; insane:",
+      "defn_zh": "精神錯亂的;瘋狂的",
+      "root_note": "de- (away) + rang (row, rank), from French",
+      "sentences": [
+        {
+          "en": "The ______ gunman was eventually subdued by police.",
+          "zh": "這名精神錯亂的槍手最終被警方制伏。"
+        },
+        {
+          "en": "Grief left her temporarily ______ with sorrow.",
+          "zh": "悲痛使她一度因哀傷而精神錯亂。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "12",
+        "spelling": "de",
+        "meaning": "去除；下降"
+      }
+    }
+  ],
+  "fallback_options": {
+    "v.": [
+      {
+        "word": "abound",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to exist in great numbers:",
+        "defn_zh": "充滿"
+      },
+      {
+        "word": "abrogate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to deprive of legal force, to nullify:=abolish",
+        "defn_zh": "廢除/取消"
+      },
+      {
+        "word": "abjure",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to renounce, abstain from:",
+        "defn_zh": "發誓放棄/棄絕"
+      },
+      {
+        "word": "abbreviate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to shorten a word or phrase:",
+        "defn_zh": "縮寫;縮短"
+      },
+      {
+        "word": "abdicate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to give up a position, usually one of leadership:",
+        "defn_zh": "退位/放棄(職位)"
+      },
+      {
+        "word": "abduct",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to kidnap, take by force:",
+        "defn_zh": "綁架/劫持"
+      },
+      {
+        "word": "abhor",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to regard with disgust and hatred:",
+        "defn_zh": "憎惡/厭惡"
+      },
+      {
+        "word": "abnegate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to deny or renounce:",
+        "defn_zh": "放棄/克制"
+      },
+      {
+        "word": "abolish",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to formally put an end to a system, practice, or institution:",
+        "defn_zh": "廢除"
+      },
+      {
+        "word": "abort",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to give up on a half-finished project or effort:",
+        "defn_zh": "中止/放棄"
+      },
+      {
+        "word": "abrade",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to scrape or wear away by friction:",
+        "defn_zh": "磨損;擦傷"
+      },
+      {
+        "word": "abscond",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to sneak away and hide:",
+        "defn_zh": "潛逃/逃匿"
+      }
+    ],
+    "adj.": [
+      {
+        "word": "abortive",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "fruitless, failing:",
+        "defn_zh": "失敗的/夭折的"
+      },
+      {
+        "word": "abstemious",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "moderate in eating or drinking:",
+        "defn_zh": "飲食有節制的"
+      },
+      {
+        "word": "abhorrent",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "detestable, despised:",
+        "defn_zh": "令人厭惡的"
+      },
+      {
+        "word": "absurd",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "ridiculous:",
+        "defn_zh": "荒謬的"
+      },
+      {
+        "word": "aberrant",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "deviating from what is normal or expected:",
+        "defn_zh": "異常的;脫軌的"
+      },
+      {
+        "word": "abject",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "wretched, pitiful:",
+        "defn_zh": "卑賤的/淒慘的"
+      },
+      {
+        "word": "abominable",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "causing moral revulsion; extremely unpleasant:",
+        "defn_zh": "可憎的;惡劣的"
+      },
+      {
+        "word": "abounding",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "existing in large numbers or amounts:",
+        "defn_zh": "大量存在的;豐富的"
+      },
+      {
+        "word": "abrasive",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "showing little concern for others; harsh:",
+        "defn_zh": "粗暴的/刺耳的"
+      },
+      {
+        "word": "abrupt",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "sudden or unexpected; brief and curt in manner:",
+        "defn_zh": "突然的/唐突的"
+      },
+      {
+        "word": "abstract",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "existing purely in the mind; not representing actual reality:",
+        "defn_zh": "抽象的"
+      },
+      {
+        "word": "abstruse",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "hard to comprehend:",
+        "defn_zh": "深奧難懂的"
+      }
+    ],
+    "n.": [
+      {
+        "word": "aversion",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "strong dislike, opposition:",
+        "defn_zh": "厭惡/反感"
+      },
+      {
+        "word": "aberration",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "something that differs from the norm:",
+        "defn_zh": "異常/脫軌"
+      },
+      {
+        "word": "abjection",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a state of complete misery, hopelessness, or degradation:",
+        "defn_zh": "卑賤;悲慘狀態"
+      },
+      {
+        "word": "abjuration",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the solemn renunciation of a belief, cause, or claim:",
+        "defn_zh": "公開放棄;誓絕"
+      },
+      {
+        "word": "ablution",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the act of washing oneself, especially as part of a religious ritual:",
+        "defn_zh": "沐浴;淨身儀式"
+      },
+      {
+        "word": "abnegation",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "denial of comfort to oneself:",
+        "defn_zh": "自我克制/放棄"
+      },
+      {
+        "word": "abomination",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "something that causes disgust or hatred:",
+        "defn_zh": "可憎之事;令人厭惡的東西"
+      },
+      {
+        "word": "abridgement",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a shortened version of a book or other written work:",
+        "defn_zh": "節略本;縮減版"
+      },
+      {
+        "word": "absolution",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "freedom from blame, guilt, sin:",
+        "defn_zh": "赦免/免罪"
+      },
+      {
+        "word": "abstemiousness",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "moderation or self-restraint, especially in eating and drinking:",
+        "defn_zh": "節制;克己"
+      },
+      {
+        "word": "abstinence",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the practice of restraining oneself from something enjoyable, especially food, alcohol, or sex:",
+        "defn_zh": "節制;戒絕"
+      },
+      {
+        "word": "avocation",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a hobby or minor occupation apart from one's main career:",
+        "defn_zh": "副業;業餘愛好"
+      }
+    ],
+    "adv.": [
+      {
+        "word": "accordingly",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in a manner that fits the circumstances; consequently:",
+        "defn_zh": "相應地;因此"
+      },
+      {
+        "word": "inadvertently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "unintentionally or by accident:",
+        "defn_zh": "無意間/不小心地"
+      },
+      {
+        "word": "consequently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "as a result; therefore:",
+        "defn_zh": "因此;結果"
+      },
+      {
+        "word": "contemptuously",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "without respect; in a disdainful manner:",
+        "defn_zh": "輕蔑地"
+      },
+      {
+        "word": "involuntarily",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "done without conscious control:",
+        "defn_zh": "不由自主地"
+      },
+      {
+        "word": "cordially",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in a warm or friendly manner:",
+        "defn_zh": "誠摯地/友好地"
+      },
+      {
+        "word": "ipso facto",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "by that very fact or act:",
+        "defn_zh": "事實上;因此"
+      },
+      {
+        "word": "en passant",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in passing; incidentally:",
+        "defn_zh": "順帶一提地;偶然地"
+      },
+      {
+        "word": "regardless",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "despite the prevailing circumstances; without being deterred:",
+        "defn_zh": "不管怎樣;儘管如此"
+      },
+      {
+        "word": "subsequently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "afterward; following in time or order:",
+        "defn_zh": "隨後;其後"
+      },
+      {
+        "word": "aside",
+        "pos": "adv./n.",
+        "pos_key": "adv.",
+        "defn_en": "to or on one side; a remark not meant to be heard by everyone:",
+        "defn_zh": "在旁邊;旁白"
+      },
+      {
+        "word": "vice versa",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "with the order or meaning reversed; conversely:",
+        "defn_zh": "反之亦然"
+      }
+    ],
+    "other": [
+      {
+        "word": "（此批單字中，暫無符合此字根/字首的單字）",
+        "pos": "",
+        "pos_key": "other",
+        "defn_en": "",
+        "defn_zh": ""
+      }
+    ],
+    "prep./adv.": [
+      {
+        "word": "besides",
+        "pos": "prep./adv.",
+        "pos_key": "prep./adv.",
+        "defn_en": "in addition to; furthermore:",
+        "defn_zh": "除...之外;此外"
+      }
+    ],
+    "phrasalv.": [
+      {
+        "word": "egg on",
+        "pos": "phrasal v.",
+        "pos_key": "phrasalv.",
+        "defn_en": "to encourage someone to do something, often risky:",
+        "defn_zh": "慫恿;鼓動"
+      }
+    ],
+    "abbr.": [
+      {
+        "word": "etc.",
+        "pos": "abbr.",
+        "pos_key": "abbr.",
+        "defn_en": "and other similar things (abbreviation of et cetera):",
+        "defn_zh": "等等(et cetera的縮寫)"
+      }
+    ],
+    "interj.": [
+      {
+        "word": "fiddledeedee",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "an exclamation expressing dismissal of something as nonsense:",
+        "defn_zh": "廢話!(表示不屑一顧)"
+      },
+      {
+        "word": "gesundheit",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "an expression said to someone who has just sneezed:",
+        "defn_zh": "保重(打噴嚏後的祝福語)"
+      }
+    ],
+    "prep.": [
+      {
+        "word": "via",
+        "pos": "prep.",
+        "pos_key": "prep.",
+        "defn_en": "by way of; passing through:",
+        "defn_zh": "經由;透過"
+      }
+    ]
+  }
+}
