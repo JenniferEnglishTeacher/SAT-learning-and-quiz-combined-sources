@@ -1,0 +1,3299 @@
+{
+  "title": "SAT Grammar: Punctuation",
+  "subtitle": "23 punctuation skills · 2 examples and 5 SAT questions per skill",
+  "source_url": "https://docs.google.com/document/d/1g6mZjHdPe3ZiS3tlFgQ_2qAYbqsuq9qTlvJB_FQigJw/edit",
+  "section_count": 23,
+  "question_count": 115,
+  "sections": [
+    {
+      "number": 1,
+      "id": "rule-1-sentence-boundaries-periods-run-ons-comma-splices-and-fragments",
+      "title": "Sentence Boundaries: Periods, Run-ons, Comma Splices, and Fragments",
+      "explanation_en": "An independent clause has a subject, a verb, and a complete idea; it can stand alone as a sentence. When two independent clauses meet, you must separate them correctly—usually with a period. A comma alone between two independent clauses is a comma splice, and no punctuation is a run-on. Never use a period to cut off a phrase or a dependent clause (that makes a fragment). Watch out: the second clause often begins with a phrase (\"With a pressure cooker, …\", \"Built into the rocks, …\") that hides its subject.",
+      "explanation_zh": "獨立子句有主詞、動詞，意思完整，可以單獨成為一個句子。兩個獨立子句相接時，必須正確分開，最常用句號。兩個獨立子句之間只用逗號連接，叫做「逗號拼接」(comma splice)，是錯誤的；完全沒有標點叫做「連寫句」(run-on)，也是錯誤的。不可以用句號把片語或從屬子句單獨切開，否則會變成「句子片段」(fragment)。注意：第二個子句常以片語開頭（例如 With a pressure cooker, …），要找出它真正的主詞與動詞。",
+      "examples": [
+        "Jamaican British artist Willard Wigan is known for his remarkable microsculptures. Creations so small that they are best viewed through a microscope, Wigan’s sculptures are made from tiny natural materials, such as spiderweb strands. [Digital SAT 6, Module 1, Q24]",
+        "What increases is the rate at which the water turns to vapor. With a pressure cooker pot, though, an airtight seal traps the vapor in the pot, creating pressure that allows the temperature of the water to increase past its boiling point. [Digital SAT 7, Module 1, Q24]"
+      ],
+      "questions": [
+        {
+          "number": 1,
+          "source": "Official Digital SAT 2, Module 1, Q22",
+          "passage": "The intense pressure found in the deep ocean can affect the structure of proteins in fish’s cells, distorting the proteins’ shape. The chemical trimethylamine N-oxide (TMAO) counters this effect, ensuring that proteins retain their original ______ is found in high concentrations in the cells of the deepest-dwelling fish.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "configurations. TMAO"
+            },
+            {
+              "label": "B",
+              "text": "configurations TMAO"
+            },
+            {
+              "label": "C",
+              "text": "configurations, TMAO"
+            },
+            {
+              "label": "D",
+              "text": "configurations and TMAO"
+            }
+          ],
+          "correct": "A",
+          "explanation": "Two independent clauses (\"The chemical TMAO counters...\" and \"TMAO is found...\") must be separated. A period does this correctly. B is a run-on, C a comma splice, and D joins them with \"and\" but no comma and creates confusion with \"configurations and TMAO\" as a compound object."
+        },
+        {
+          "number": 2,
+          "source": "Official Digital SAT 3, Module 1, Q22 — also SAT 8 M2 Q21",
+          "passage": "After the United Kingdom began rolling out taxes equivalent to a few cents on single-use plastic grocery bags in 2011, plastic-bag consumption decreased by up to ninety ______ taxes are subject to what economists call the “rebound effect”: as the change became normalized, plastic-bag use started to creep back up.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "percent, such"
+            },
+            {
+              "label": "B",
+              "text": "percent and such"
+            },
+            {
+              "label": "C",
+              "text": "percent. Such"
+            },
+            {
+              "label": "D",
+              "text": "percent such"
+            }
+          ],
+          "correct": "C",
+          "explanation": "Two independent clauses must be separated; a period does this. A is a comma splice, D is a run-on, and B needs a comma before \"and.\""
+        },
+        {
+          "number": 3,
+          "source": "Official Digital SAT 3, Module 2, Q26",
+          "passage": "Hegra is an archaeological site in present-day Saudi Arabia and was the second largest city of the Nabataean Kingdom (fourth century BCE to first century CE). Archaeologist Laila Nehmé recently traveled to Hegra to study its ancient ______ into the rocky outcrops of a vast desert, these burial chambers seem to blend seamlessly with nature.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "tombs. Built"
+            },
+            {
+              "label": "B",
+              "text": "tombs, built"
+            },
+            {
+              "label": "C",
+              "text": "tombs and built"
+            },
+            {
+              "label": "D",
+              "text": "tombs built"
+            }
+          ],
+          "correct": "A",
+          "explanation": "\"Built into the rocky outcrops...\" introduces the second independent clause (\"these burial chambers seem...\"). A period separates the two sentences. B–D create a run-on/comma splice or misattach the modifier."
+        },
+        {
+          "number": 4,
+          "source": "Official Digital SAT 4, Module 2, Q23",
+          "passage": "In 2010, archaeologist Noel Hidalgo Tan was visiting the twelfth-century temple of Angkor Wat in Cambodia when he noticed markings of red paint on the temple ______ the help of digital imaging techniques, he discovered the markings to be part of an elaborate mural containing over 200 paintings.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "walls, with"
+            },
+            {
+              "label": "B",
+              "text": "walls with"
+            },
+            {
+              "label": "C",
+              "text": "walls so with"
+            },
+            {
+              "label": "D",
+              "text": "walls. With"
+            }
+          ],
+          "correct": "D",
+          "explanation": "\"With the help of digital imaging techniques, he discovered...\" is a new independent clause, so a period is needed. A is a comma splice, B a run-on, C illogical."
+        },
+        {
+          "number": 5,
+          "source": "Official Digital SAT 1, Module 2, Q24",
+          "passage": "The first computerized spreadsheet, Dan Bricklin’s VisiCalc, improved financial recordkeeping not only by providing users with an easy means of adjusting data in spreadsheets but also by automatically updating all calculations that were dependent on these ______ to VisiCalc’s release, changing a paper spreadsheet often required redoing the entire sheet by hand, a process that could take days.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "adjustments prior"
+            },
+            {
+              "label": "B",
+              "text": "adjustments, prior"
+            },
+            {
+              "label": "C",
+              "text": "adjustments. Prior"
+            },
+            {
+              "label": "D",
+              "text": "adjustments and prior"
+            }
+          ],
+          "correct": "C",
+          "explanation": "\"Prior to VisiCalc’s release, changing a paper spreadsheet often required...\" is a new independent clause, so a period is needed after \"adjustments.\" B is a comma splice; A and D fuse the sentences and make \"prior to\" illogically modify \"adjustments.\""
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "id": "rule-2-comma-fanboys-for-and-nor-but-or-yet-so",
+      "title": "Comma + FANBOYS (for, and, nor, but, or, yet, so)",
+      "explanation_en": "A comma can join two independent clauses—but only when it is followed by one of the seven coordinating conjunctions: for, and, nor, but, or, yet, so (FANBOYS). The pattern is IC, but IC. Put the comma before the conjunction, not after it. If the words after and/but have no new subject, you are only joining two verbs, so use no comma (\"The archivist catalogued the letters and scanned each page\").",
+      "explanation_zh": "逗號可以連接兩個獨立子句，但後面必須加上七個對等連接詞之一：for, and, nor, but, or, yet, so（口訣 FANBOYS）。句型是 獨立子句, but 獨立子句.，逗號放在連接詞前面，不是後面。如果 and / but 後面沒有新的主詞，只是連接兩個動詞，就不加逗號（例：The archivist catalogued the letters and scanned each page.）。",
+      "examples": [
+        "The liquid metals in Earth’s core circulate constantly, and this circulation generates electrical currents that flow between Earth’s North and South magnetic poles. [Digital SAT 6, Module 2, Q28]",
+        "No one was hurt, but in two hours the original Globe was gone. [Digital SAT 7, Module 2, Q20]"
+      ],
+      "questions": [
+        {
+          "number": 6,
+          "source": "Official Digital SAT 3, Module 1, Q21 — also SAT 10 M1 Q21",
+          "passage": "Typically, underlines, scribbles, and notes left in the margins by a former owner lower a book’s ______ when the former owner is a famous poet like Walt Whitman, such markings, known as marginalia, can be a gold mine to literary scholars.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "value, but"
+            },
+            {
+              "label": "B",
+              "text": "value"
+            },
+            {
+              "label": "C",
+              "text": "value,"
+            },
+            {
+              "label": "D",
+              "text": "value but"
+            }
+          ],
+          "correct": "A",
+          "explanation": "Two independent clauses with contrasting ideas are joined; a comma plus the coordinating conjunction \"but\" is correct. B is a run-on, C a comma splice, D lacks the comma before \"but.\""
+        },
+        {
+          "number": 7,
+          "source": "Official Digital SAT 3, Module 2, Q23",
+          "passage": "Materials scientist Marie-Agathe Charpagne and her colleagues believed they could improve on the multicomponent alloy NiCoCr, an equal-proportions mixture of nickel (Ni), cobalt (Co), and chromium (Cr), by replacing chromium with ruthenium ______ the alloy that resulted, NiCoRu, turned out to be an unsuitable replacement for NiCoCr.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "(Ru)"
+            },
+            {
+              "label": "B",
+              "text": "(Ru) but"
+            },
+            {
+              "label": "C",
+              "text": "(Ru),"
+            },
+            {
+              "label": "D",
+              "text": "(Ru), but"
+            }
+          ],
+          "correct": "D",
+          "explanation": "Two contrasting independent clauses are joined with a comma plus \"but.\" A is a run-on, B lacks the comma, C is a comma splice."
+        },
+        {
+          "number": 8,
+          "source": "Official Digital SAT 7, Module 1, Q22",
+          "passage": "Many mechanical calculators were powered by a notched cylinder mechanism called the Leibniz wheel. Leibniz wheel calculators were popular in the first half of the twentieth ______ these ingenious devices were eventually replaced by electronic calculators.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "century"
+            },
+            {
+              "label": "B",
+              "text": "century,"
+            },
+            {
+              "label": "C",
+              "text": "century, but"
+            },
+            {
+              "label": "D",
+              "text": "century that"
+            }
+          ],
+          "correct": "C",
+          "explanation": "Two independent clauses with a contrast are joined with a comma + \"but.\" A is a run-on, B a comma splice, D creates an illogical relative clause."
+        },
+        {
+          "number": 9,
+          "source": "Official Digital SAT 10, Module 1, Q20 — also SAT 1 M2 Q20",
+          "passage": "The Alvarez theory, developed in 1980 by physicist Luis Walter Alvarez and his geologist son Walter Alvarez, maintained that the secondary effects of an asteroid impact caused many dinosaurs and other animals to die ______ it left unexplored the question of whether unrelated volcanic activity might have also contributed to the mass extinctions.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "out but"
+            },
+            {
+              "label": "B",
+              "text": "out, but"
+            },
+            {
+              "label": "C",
+              "text": "out"
+            },
+            {
+              "label": "D",
+              "text": "out,"
+            }
+          ],
+          "correct": "B",
+          "explanation": "Two independent clauses are joined with a comma plus the coordinating conjunction \"but.\" A lacks the comma, C is a run-on, D is a comma splice."
+        },
+        {
+          "number": 10,
+          "source": "Practice item",
+          "passage": "The archivist catalogued the damaged ______ scanned each page at high resolution.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "letters, and"
+            },
+            {
+              "label": "B",
+              "text": "letters and"
+            },
+            {
+              "label": "C",
+              "text": "letters; and"
+            },
+            {
+              "label": "D",
+              "text": "letters. And"
+            }
+          ],
+          "correct": "B",
+          "explanation": "\"Scanned\" shares the subject \"the archivist\"; there is no second subject, so this is ONE clause with a compound verb. Do not put a comma (or semicolon) before \"and\" when it joins two verbs."
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "id": "rule-3-the-semicolon-between-two-independent-clauses",
+      "title": "The Semicolon Between Two Independent Clauses",
+      "explanation_en": "A semicolon works like a \"soft period.\" It joins two closely related independent clauses without a conjunction: IC; IC. Test it exactly like a period: the words on both sides must be able to stand alone as sentences. Never put a semicolon before a phrase or a dependent clause. (A semicolon is not normally used with FANBOYS: write \", but\", not \"; but\".)",
+      "explanation_zh": "分號就像「較輕的句號」，用來連接兩個意思密切相關的獨立子句，中間不需要連接詞：獨立子句; 獨立子句. 判斷方法和句號完全一樣：分號左右兩邊都必須能單獨成為完整句子。分號後面不可以接片語或從屬子句。（分號通常不和 FANBOYS 一起用：寫「, but」而不是「; but」。）",
+      "examples": [
+        "Oddly, there is no evidence that any type of bottle gourd is native to the Western Hemisphere; either the fruit or its seeds must have somehow been carried from Asia or Africa. [Digital SAT 2, Module 2, Q18]",
+        "Sher-Gil longed to return to her childhood home of India; only there, she believed, could her art truly flourish. [Digital SAT 8, Module 1, Q27]"
+      ],
+      "questions": [
+        {
+          "number": 11,
+          "source": "Official Digital SAT 4, Module 1, Q23",
+          "passage": "Seneca sculptor Marie Watt’s blanket art comes in a range of shapes and sizes. In 2004, Watt sewed strips of blankets together to craft a 10-by-13-inch ______ in 2014, she arranged folded blankets into two large stacks and then cast them in bronze, creating two curving 18-foot-tall blue-bronze pillars.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "sampler later,"
+            },
+            {
+              "label": "B",
+              "text": "sampler;"
+            },
+            {
+              "label": "C",
+              "text": "sampler,"
+            },
+            {
+              "label": "D",
+              "text": "sampler, later,"
+            }
+          ],
+          "correct": "B",
+          "explanation": "Two independent clauses (\"In 2004, Watt sewed...\" / \"in 2014, she arranged...\") are joined without a conjunction, so a semicolon is required. C and D are comma splices; A is a run-on."
+        },
+        {
+          "number": 12,
+          "source": "Official Digital SAT 6, Module 2, Q22",
+          "passage": "Physical materials can be classified by how much light passes through them. Clear glass, which is classified as transparent, allows all (or almost all) light to pass ______ wax paper, which is classified as translucent, allows only some light to pass through.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "through,"
+            },
+            {
+              "label": "B",
+              "text": "through"
+            },
+            {
+              "label": "C",
+              "text": "through;"
+            },
+            {
+              "label": "D",
+              "text": "through and"
+            }
+          ],
+          "correct": "C",
+          "explanation": "Two independent clauses are joined with no conjunction, so a semicolon is required. A is a comma splice; B is a run-on; D lacks the needed comma before \"and.\""
+        },
+        {
+          "number": 13,
+          "source": "Official Digital SAT 7, Module 2, Q26",
+          "passage": "That the geographic center of North America lay in the state of North Dakota was conceded by all ______ establishing its precise coordinates proved more divisive.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "involved:"
+            },
+            {
+              "label": "B",
+              "text": "involved,"
+            },
+            {
+              "label": "C",
+              "text": "involved"
+            },
+            {
+              "label": "D",
+              "text": "involved;"
+            }
+          ],
+          "correct": "D",
+          "explanation": "Two independent clauses are joined without a conjunction, so a semicolon is required. B is a comma splice, C a run-on; a colon (A) does not fit because the second clause contrasts rather than explains."
+        },
+        {
+          "number": 14,
+          "source": "Official Digital SAT 9, Module 2, Q23",
+          "passage": "Sociologist Todd Gitlin co-opted the term “recombinant,” normally used in reference to genetic engineering, to describe serialized television shows of the 1980s. Gitlin’s use of the term referenced TV studios’ practice of repackaging successful narrative formulas as new ______ even shows that varied only slightly from other shows still attracted sizeable audiences.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "content, in that era"
+            },
+            {
+              "label": "B",
+              "text": "content; in that era,"
+            },
+            {
+              "label": "C",
+              "text": "content in that era,"
+            },
+            {
+              "label": "D",
+              "text": "content, in that era,"
+            }
+          ],
+          "correct": "B",
+          "explanation": "Two independent clauses are joined, so a semicolon is needed after \"content.\" \"In that era\" introduces the second clause and is followed by a comma."
+        },
+        {
+          "number": 15,
+          "source": "Practice item",
+          "passage": "Radio astronomers detecting fast radio bursts initially struggled to isolate their stellar ______ subsequent observations using the CHIME telescope confirmed that magnetars were a primary source.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "origins, subsequent"
+            },
+            {
+              "label": "B",
+              "text": "origins; subsequent"
+            },
+            {
+              "label": "C",
+              "text": "origins subsequent"
+            },
+            {
+              "label": "D",
+              "text": "origins, and, subsequent"
+            }
+          ],
+          "correct": "B",
+          "explanation": "Both sides are independent clauses, so a semicolon works. A is a comma splice, C a run-on, and D puts an unnecessary comma after \"and.\""
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "id": "rule-4-conjunctive-adverbs-starting-the-second-clause-however-however",
+      "title": "Conjunctive Adverbs Starting the Second Clause: “; however,” / “. However,”",
+      "explanation_en": "Words like however, therefore, thus, rather, instead, for example, by contrast, in fact are conjunctive adverbs (transition words), not conjunctions. They cannot join two independent clauses by themselves. When the transition begins the second clause, put a semicolon or period before it and a comma after it: IC; however, IC. or IC. However, IC. Using only commas (\"IC, however, IC\") creates a comma splice.",
+      "explanation_zh": "however, therefore, thus, rather, instead, for example, by contrast, in fact 等是「連接副詞」（轉折詞），不是連接詞，不能單獨連接兩個獨立子句。當轉折詞放在第二個子句開頭時，它前面要用分號或句號，後面加逗號：獨立子句; however, 獨立子句. 或 獨立子句. However, 獨立子句. 如果前後都只用逗號（IC, however, IC），就是逗號拼接錯誤。",
+      "examples": [
+        "However, the differences between the 1881 first edition and the 1908 edition of his novel A Portrait of a Lady are extreme, even by James’s standards; in fact, some critics regard the two editions as two different novels altogether. [Digital SAT 6, Module 2, Q29]",
+        "Geoscientists have long considered Hawaii’s Mauna Loa volcano to be Earth’s largest shield volcano by volume, measuring approximately 74,000 cubic kilometers. However, according to a 2020 study by local geoscientist Michael Garcia, Hawaii’s Pūhāhonu shield volcano is significantly larger, boasting a volume of about 148,000 cubic kilometers. [Digital SAT 4, Module 1, Q28]"
+      ],
+      "questions": [
+        {
+          "number": 16,
+          "source": "Official Digital SAT 2, Module 1, Q26",
+          "passage": "To humans, it does not appear that the golden orb-weaver spider uses camouflage to capture its ______ the brightly colored arachnid seems to wait conspicuously in the center of its large circular web for insects to approach. Researcher Po Peng of the University of Melbourne has explained that the spider’s distinctive coloration may in fact be part of its appeal.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "prey, rather,"
+            },
+            {
+              "label": "B",
+              "text": "prey rather,"
+            },
+            {
+              "label": "C",
+              "text": "prey, rather;"
+            },
+            {
+              "label": "D",
+              "text": "prey; rather,"
+            }
+          ],
+          "correct": "D",
+          "explanation": "Two independent clauses are joined here. \"Rather\" is a conjunctive adverb that begins the second clause, so a semicolon goes before it and a comma after it. A is a comma splice; B is a run-on; C puts the semicolon in the wrong place."
+        },
+        {
+          "number": 17,
+          "source": "Practice item",
+          "passage": "Cognitive load theory posits that working memory can process only a limited number of information chunks ______ instructional designers must structure educational software to minimize unnecessary mental effort.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "simultaneously, therefore,"
+            },
+            {
+              "label": "B",
+              "text": "simultaneously; therefore,"
+            },
+            {
+              "label": "C",
+              "text": "simultaneously therefore"
+            },
+            {
+              "label": "D",
+              "text": "simultaneously therefore,"
+            }
+          ],
+          "correct": "B",
+          "explanation": "\"Therefore\" is a conjunctive adverb, not a conjunction; it cannot join clauses by itself. Use a semicolon before it and a comma after it. A is a comma splice; C and D are run-ons."
+        },
+        {
+          "number": 18,
+          "source": "Practice item",
+          "passage": "Pine seedlings inoculated with ectomycorrhizal fungi demonstrate enhanced phosphorus ______ uninoculated seedlings in nutrient-poor soils exhibit severely stunted root development.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "absorption, by contrast,"
+            },
+            {
+              "label": "B",
+              "text": "absorption; by contrast,"
+            },
+            {
+              "label": "C",
+              "text": "absorption by contrast,"
+            },
+            {
+              "label": "D",
+              "text": "absorption, by contrast;"
+            }
+          ],
+          "correct": "B",
+          "explanation": "Two independent clauses joined by the transition \"by contrast\": semicolon before, comma after. The contrast describes the second clause, so the transition belongs at its start. A is a comma splice; C is a run-on; D attaches \"by contrast\" to the wrong clause."
+        },
+        {
+          "number": 19,
+          "source": "Practice item",
+          "passage": "Economists evaluating microfinance initiatives observed significant improvements in local ______ during periods of macroeconomic instability, small-business survival rates remained fragile.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "entrepreneurship, however,"
+            },
+            {
+              "label": "B",
+              "text": "entrepreneurship. However,"
+            },
+            {
+              "label": "C",
+              "text": "entrepreneurship however"
+            },
+            {
+              "label": "D",
+              "text": "entrepreneurship, however"
+            }
+          ],
+          "correct": "B",
+          "explanation": "\"However\" introduces a contrast with the second clause. Start a new sentence (or use a semicolon) before it, and put a comma after it. A and D are comma splices; C is a run-on."
+        },
+        {
+          "number": 20,
+          "source": "Practice item",
+          "passage": "The expedition reached the summit two days ahead of ______ the descent took twice as long as planned because of a sudden blizzard.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "schedule; however,"
+            },
+            {
+              "label": "B",
+              "text": "schedule, however,"
+            },
+            {
+              "label": "C",
+              "text": "schedule however,"
+            },
+            {
+              "label": "D",
+              "text": "schedule; however"
+            }
+          ],
+          "correct": "A",
+          "explanation": "Two independent clauses; \"however\" contrasts the second with the first: semicolon before, comma after. B is a comma splice; C is a run-on; D omits the comma after the adverb."
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "id": "rule-5-conjunctive-adverbs-ending-the-first-clause-however-though",
+      "title": "Conjunctive Adverbs Ending the First Clause: “, however;” / “, though;”",
+      "explanation_en": "This is the SAT's favorite hard pattern. Sometimes the transition word belongs to the first clause because it contrasts that clause with the previous sentence. Then it goes at the end of clause 1 with a comma before it, and the semicolon comes after it: IC, however; IC. To decide, ask: Which idea is the adverb contrasting? If clause 2 simply explains or supports clause 1, the adverb belongs to clause 1. The semicolon must always sit exactly at the boundary between the two independent clauses.",
+      "explanation_zh": "這是 SAT 最常考的難題型。有時轉折詞屬於第一個子句，因為它是把第一個子句和前一句做對比。這時轉折詞放在第一個子句的結尾，前面加逗號，分號放在它後面：獨立子句, however; 獨立子句. 判斷方法：問自己「這個轉折詞在對比哪兩個想法？」如果第二個子句只是在解釋或支持第一個子句，轉折詞就屬於第一個子句。分號永遠要放在兩個獨立子句的交界處。",
+      "examples": [
+        "Only five of these dances are included in international ballroom dance competitions, however: rumba, samba, cha-cha-cha, paso doble, and jive—the last of which is grouped with the other Latin dances despite not having Latin roots. [Digital SAT 6, Module 2, Q24]",
+        "Siderophiles are much more abundant in the mantle than predicted in that model, however. [Digital SAT 10, Module 1, Q30]"
+      ],
+      "questions": [
+        {
+          "number": 21,
+          "source": "Official Digital SAT 4, Module 1, Q26",
+          "passage": "Sociologist Alton Okinaka sits on the review board tasked with adding new sites to the Hawai‘i Register of Historic Places, which includes Pi‘ilanihale Heiau and the ‘Ōpaeka‘a Road Bridge. Okinaka doesn’t make such decisions ______ all historical designations must be approved by a group of nine other experts from the fields of architecture, archaeology, history, and Hawaiian culture.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "single-handedly, however;"
+            },
+            {
+              "label": "B",
+              "text": "single-handedly; however,"
+            },
+            {
+              "label": "C",
+              "text": "single-handedly, however,"
+            },
+            {
+              "label": "D",
+              "text": "single-handedly however"
+            }
+          ],
+          "correct": "A",
+          "explanation": "\"However\" belongs to the first clause (it contrasts with the previous sentence), so it is set off with a comma and followed by a semicolon that separates the two independent clauses. B would link \"however\" illogically to the second clause."
+        },
+        {
+          "number": 22,
+          "source": "Official Digital SAT 8, Module 1, Q24",
+          "passage": "During the English neoclassical period (1660–1789), many writers imitated the epic poetry and satires of ancient Greece and Rome. They were not the first in England to adopt the literary modes of classical ______ some of the most prominent figures of the earlier Renaissance period were also influenced by ancient Greek and Roman literature.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "antiquity, however"
+            },
+            {
+              "label": "B",
+              "text": "antiquity, however,"
+            },
+            {
+              "label": "C",
+              "text": "antiquity, however;"
+            },
+            {
+              "label": "D",
+              "text": "antiquity; however,"
+            }
+          ],
+          "correct": "C",
+          "explanation": "\"However\" belongs with the first clause (it contrasts with the previous sentence), and a semicolon separates the two independent clauses. A and B are comma splices; D wrongly attaches \"however\" to the second clause, where it makes no sense (the second clause supports rather than contrasts with the first)."
+        },
+        {
+          "number": 23,
+          "source": "Official Digital SAT 7, Module 2, Q25",
+          "passage": "Chondrites are stony meteorites that are undifferentiated—that is, their contents have not melted and separated into distinct layers. They are hardly ______ many chondrites experience aqueous alteration as a result of exposure to fluids, as well as fracturing, veining, and localized melting due to collisions with other objects.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "pristine, though"
+            },
+            {
+              "label": "B",
+              "text": "pristine, though;"
+            },
+            {
+              "label": "C",
+              "text": "pristine; though"
+            },
+            {
+              "label": "D",
+              "text": "pristine, though,"
+            }
+          ],
+          "correct": "B",
+          "explanation": "\"They are hardly pristine, though\" is a complete clause (with \"though\" as an adverb at its end). A semicolon then separates it from the next independent clause \"many chondrites experience...\"."
+        },
+        {
+          "number": 24,
+          "source": "Official Digital SAT 8, Module 2, Q26",
+          "passage": "Jetties—long, narrow structures that extend from a landmass into the water—are often constructed to protect coastlines from erosion. Jetties can sometimes have the opposite ______ obstructing the natural flow of sand along the shore can lead to increased erosion in some areas.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "effect, though;"
+            },
+            {
+              "label": "B",
+              "text": "effect, though"
+            },
+            {
+              "label": "C",
+              "text": "effect; though"
+            },
+            {
+              "label": "D",
+              "text": "effect, though,"
+            }
+          ],
+          "correct": "A",
+          "explanation": "\"Though\" is an adverb ending the first clause, set off by a comma. A semicolon then separates the two independent clauses. B and D are comma splices/run-ons; C attaches \"though\" to the second clause, making it a dependent clause fragment after the semicolon."
+        },
+        {
+          "number": 25,
+          "source": "Official Digital SAT 9, Module 2, Q26",
+          "passage": "With the development of new technologies that use natural resources more efficiently, the overall consumption of those resources might be expected to decrease. Economists have observed that improvements in efficiency often correlate negatively with resource ______ efficiency gains, lowering the cost of use, may increase demand to the extent that resource consumption ultimately rises.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "conservation, though,"
+            },
+            {
+              "label": "B",
+              "text": "conservation; though"
+            },
+            {
+              "label": "C",
+              "text": "conservation, though;"
+            },
+            {
+              "label": "D",
+              "text": "conservation, though"
+            }
+          ],
+          "correct": "C",
+          "explanation": "\"Though\" ends the first clause as a contrast adverb (set off with a comma); a semicolon then separates the two independent clauses. A and D create comma splices; B makes the second part a dependent clause after a semicolon."
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "id": "rule-6-conjunctive-adverbs-interrupting-one-clause-however",
+      "title": "Conjunctive Adverbs Interrupting One Clause: “, however,”",
+      "explanation_en": "When there is only one independent clause, a transition word like however or though is an interrupter. Set it off with a comma on both sides: Subject, however, verb… A semicolon is wrong here because there is no second independent clause for it to separate—it would split the subject from its verb. Tip: if the words after the transition are only a phrase (e.g., \"feeling that…\"), there is no clause boundary, so use commas only.",
+      "explanation_zh": "當句子裡只有一個獨立子句時，however、though 等轉折詞是插入語，前後都要加逗號：主詞, however, 動詞… 這時不能用分號，因為沒有第二個獨立子句可以分隔；用分號會把主詞和動詞切開。小技巧：如果轉折詞後面只是片語（例如 feeling that…），就沒有子句交界，只用逗號。",
+      "examples": [
+        "Tadpole shrimp (Triops longicaudatus) embryos, for example, can pause development for over ten years during extended periods of drought. [Digital SAT 2, Module 2, Q28]",
+        "Larch trees, for instance, lose their needles every fall. [Digital SAT 3, Module 1, Q27]"
+      ],
+      "questions": [
+        {
+          "number": 26,
+          "source": "Official Digital SAT 3, Module 1, Q25 — also SAT 9 M1 Q22",
+          "passage": "Journalists have dubbed Gil Scott-Heron the “godfather of rap,” a title that has appeared in hundreds of articles about him since the 1990s. Scott-Heron himself resisted the godfather ______ feeling that it didn’t encapsulate his devotion to the broader African American blues music tradition as well as “bluesologist,” the moniker he preferred.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "nickname, however"
+            },
+            {
+              "label": "B",
+              "text": "nickname, however;"
+            },
+            {
+              "label": "C",
+              "text": "nickname, however,"
+            },
+            {
+              "label": "D",
+              "text": "nickname; however,"
+            }
+          ],
+          "correct": "C",
+          "explanation": "\"However\" interrupts one sentence (the participial phrase \"feeling that...\" is not an independent clause), so it is set off by a pair of commas. D uses a semicolon, which would require an independent clause after it."
+        },
+        {
+          "number": 27,
+          "source": "Official Digital SAT 7, Module 2, Q24",
+          "passage": "Digital artist Jung (Lulu) Chen primarily uses a suite of software tools to create illustrations for children’s books. To manifest the warm and welcoming atmospheres that are a signature of her ______ she occasionally relies on more traditional art techniques, such as painting with watercolors.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "work, though,"
+            },
+            {
+              "label": "B",
+              "text": "work, though"
+            },
+            {
+              "label": "C",
+              "text": "work; though,"
+            },
+            {
+              "label": "D",
+              "text": "work, though;"
+            }
+          ],
+          "correct": "A",
+          "explanation": "The introductory infinitive phrase ends at \"work,\" and \"though\" is an interrupting adverb within the same sentence; it needs commas on both sides before the main clause \"she occasionally relies....\" Semicolons (C, D) would require independent clauses on both sides."
+        },
+        {
+          "number": 28,
+          "source": "Practice item",
+          "passage": "Quantum entanglement links pairs of particles so that measuring one instantly reveals information about the other, even across vast distances. This ______ cannot be used to send messages faster than the speed of light.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "phenomenon, however,"
+            },
+            {
+              "label": "B",
+              "text": "phenomenon; however,"
+            },
+            {
+              "label": "C",
+              "text": "phenomenon however;"
+            },
+            {
+              "label": "D",
+              "text": "phenomenon, however"
+            }
+          ],
+          "correct": "A",
+          "explanation": "Here \"however\" sits inside a single independent clause (\"This phenomenon...cannot be used...\"), interrupting subject and verb. An interrupter takes paired commas. B and C put a semicolon between a subject and its verb; D leaves the interrupter unclosed."
+        },
+        {
+          "number": 29,
+          "source": "Practice item",
+          "passage": "Everyone called the young linguist a walking dictionary; he ______ disliked the nickname and asked colleagues to use his name instead.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "himself, however,"
+            },
+            {
+              "label": "B",
+              "text": "himself; however,"
+            },
+            {
+              "label": "C",
+              "text": "himself however,"
+            },
+            {
+              "label": "D",
+              "text": "himself, however;"
+            }
+          ],
+          "correct": "A",
+          "explanation": "The semicolon after \"dictionary\" already separates the two clauses. In the second clause, \"however\" interrupts the subject (\"he himself\") and the verb (\"disliked\"), so it needs a comma on both sides."
+        },
+        {
+          "number": 30,
+          "source": "Practice item",
+          "passage": "Most critics praised the film’s groundbreaking visual effects. Its ______ was widely considered weak and predictable.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "screenplay, however,"
+            },
+            {
+              "label": "B",
+              "text": "screenplay; however,"
+            },
+            {
+              "label": "C",
+              "text": "screenplay however,"
+            },
+            {
+              "label": "D",
+              "text": "screenplay, however;"
+            }
+          ],
+          "correct": "A",
+          "explanation": "There is only one clause (\"Its screenplay…was widely considered weak\"), and \"however\" interrupts its subject and verb, so paired commas are needed. A semicolon (B, D) would split the subject from its verb."
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "id": "rule-7-though-adverb-however-vs-conjunction-although",
+      "title": "“Though”: Adverb (= however) vs. Conjunction (= although)",
+      "explanation_en": "Though has two jobs. (1) As an adverb meaning however, it is set off by commas: at the end of a sentence (\"…far higher than projected, though.\"), in the middle of a clause (\"The novel, though, still raises questions\"), or at the end of clause 1 before a semicolon or colon. (2) As a conjunction meaning although, it begins a dependent clause and takes no comma after it (\"Though the museum is small, its collection…\"). Test: if you can replace it with however, it is an adverb; if you can replace it with although, it is a conjunction.",
+      "explanation_zh": "though 有兩種用法。(1) 當副詞，意思是「然而」(= however)，要用逗號隔開：可放在句尾（…far higher than projected, though.）、子句中間（The novel, though, still raises questions），或第一個子句的結尾、分號或冒號之前。(2) 當連接詞，意思是「雖然」(= although)，引導從屬子句，後面不加逗號（Though the museum is small, its collection…）。判斷方法：能換成 however → 副詞；能換成 although → 連接詞。",
+      "examples": [
+        "Hopper’s subsequent career would involve more than just equations, though: as a pioneering computer programmer, Hopper would help usher in the digital age. [Digital SAT 8, Module 1, Q22 (adverb)]",
+        "Even though bats prefer very sweet nectar, the plants that attract them have evolved to produce nectar that is only moderately sweet. [Digital SAT 3, Module 2, Q19 (conjunction)]"
+      ],
+      "questions": [
+        {
+          "number": 31,
+          "source": "Practice item",
+          "passage": "The new bridge was completed in record time. Its construction costs were far higher than originally ______",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "projected, though."
+            },
+            {
+              "label": "B",
+              "text": "projected; though."
+            },
+            {
+              "label": "C",
+              "text": "projected though,"
+            },
+            {
+              "label": "D",
+              "text": "projected: though."
+            }
+          ],
+          "correct": "A",
+          "explanation": "A sentence-final \"though\" (= however) takes a comma before it and the period after it. A semicolon or colon cannot introduce a single adverb."
+        },
+        {
+          "number": 32,
+          "source": "Practice item",
+          "passage": "______ the museum is small, its collection of Ming dynasty ceramics is considered one of the finest in the world.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Though,"
+            },
+            {
+              "label": "B",
+              "text": "Though"
+            },
+            {
+              "label": "C",
+              "text": "However,"
+            },
+            {
+              "label": "D",
+              "text": "Though;"
+            }
+          ],
+          "correct": "B",
+          "explanation": "Here \"though\" means \"although\": it is a conjunction that begins a dependent clause, so no comma follows it. The comma after \"small\" ends the dependent clause. C creates a comma splice."
+        },
+        {
+          "number": 33,
+          "source": "Practice item",
+          "passage": "The mountain trail is only three kilometers ______ it climbs nearly 900 meters from the parking lot to the summit.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "long, though"
+            },
+            {
+              "label": "B",
+              "text": "long though,"
+            },
+            {
+              "label": "C",
+              "text": "long; though"
+            },
+            {
+              "label": "D",
+              "text": "long. Though"
+            }
+          ],
+          "correct": "A",
+          "explanation": "Here \"though\" = \"although\" and begins a dependent clause, which is joined to the main clause with a comma. C and D cut the dependent clause off as a fragment; B puts the comma in the wrong place."
+        },
+        {
+          "number": 34,
+          "source": "Practice item",
+          "passage": "Mary Shelley’s Frankenstein was published more than two centuries ago. The ______ still raises urgent questions about scientific responsibility.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "novel, though,"
+            },
+            {
+              "label": "B",
+              "text": "novel though;"
+            },
+            {
+              "label": "C",
+              "text": "novel; though,"
+            },
+            {
+              "label": "D",
+              "text": "novel though"
+            }
+          ],
+          "correct": "A",
+          "explanation": "\"Though\" (= however) interrupts one independent clause between its subject (\"The novel\") and verb (\"raises\"), so it takes a comma on both sides. B and C put a semicolon between subject and verb."
+        },
+        {
+          "number": 35,
+          "source": "Practice item",
+          "passage": "Most residents supported building a new public library. The city council rejected the ______ it cited rising construction costs as its main concern.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "proposal, though;"
+            },
+            {
+              "label": "B",
+              "text": "proposal; though,"
+            },
+            {
+              "label": "C",
+              "text": "proposal though,"
+            },
+            {
+              "label": "D",
+              "text": "proposal, though,"
+            }
+          ],
+          "correct": "A",
+          "explanation": "\"Though\" contrasts the council's decision with the residents' support (the previous sentence), so it ends the first clause: comma before it, then a semicolon at the clause boundary. B wrongly makes the second clause contrast with the first; C and D are comma splices."
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "id": "rule-8-the-colon-introducing-an-explanation",
+      "title": "The Colon Introducing an Explanation",
+      "explanation_en": "A colon must come after a complete independent clause. It introduces something that explains, defines, or specifies what the first clause announced. What comes after the colon may be another complete clause. Ask: Could I put \"namely\" or \"that is\" here? If yes, and the left side is a full sentence, the colon is correct. Use a semicolon instead when the second clause merely adds or contrasts rather than explains.",
+      "explanation_zh": "冒號前面必須是完整的獨立子句。冒號後面的內容用來解釋、定義或具體說明前面子句提到的事情，可以是另一個完整子句。判斷方法：能不能在這裡換成「namely（也就是）」或「that is（即）」？如果可以，而且冒號左邊是完整句子，冒號就是正確的。如果第二個子句只是補充或對比，而不是解釋，就用分號。",
+      "examples": [
+        "A recent study explains why: making sugar is energy-intensive, and it is more advantageous for plants to make a large amount of low-sugar nectar than a small amount of high-sugar nectar. [Digital SAT 3, Module 2, Q19]",
+        "Public-awareness campaigns about the need to reduce single-use plastics can be successful, says researcher Kim Borg of Monash University in Australia, when these campaigns give consumers a choice: for example, Japan achieved a 40 percent reduction in plastic-bag use after cashiers were instructed to ask customers whether they wanted a bag. [Digital SAT 10, Module 2, Q18]"
+      ],
+      "questions": [
+        {
+          "number": 36,
+          "source": "Official Digital SAT 2, Module 2, Q25 — also SAT 8 M2 Q24",
+          "passage": "Over twenty years ago, in a landmark experiment in the psychology of choice, professor Sheena Iyengar set up a jam-tasting booth at a grocery store. The number of jams available for tasting ______ some shoppers had twenty-four different options, others only six. Interestingly, the shoppers with fewer jams to choose from purchased more jam.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "varied:"
+            },
+            {
+              "label": "B",
+              "text": "varied,"
+            },
+            {
+              "label": "C",
+              "text": "varied, while"
+            },
+            {
+              "label": "D",
+              "text": "varied while"
+            }
+          ],
+          "correct": "A",
+          "explanation": "The second part explains how the number varied, so a colon (which introduces an explanation after an independent clause) is correct. B is a comma splice; C and D create an illogical/garbled structure with \"while\" followed by another comma-joined clause."
+        },
+        {
+          "number": 37,
+          "source": "Official Digital SAT 6, Module 2, Q25",
+          "passage": "For thousands of years, humans have used domesticated goats (Capra hircus) to clear land of unwanted vegetation. When it comes to their diets, goats are notoriously ______ they will devour all kinds of shrubs and weeds, leaving virtually no part of any plant unconsumed.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "indiscriminate and"
+            },
+            {
+              "label": "B",
+              "text": "indiscriminate,"
+            },
+            {
+              "label": "C",
+              "text": "indiscriminate"
+            },
+            {
+              "label": "D",
+              "text": "indiscriminate:"
+            }
+          ],
+          "correct": "D",
+          "explanation": "The second clause explains what \"indiscriminate\" means, so a colon (after an independent clause) is correct. B is a comma splice, C a run-on, A lacks a comma before \"and.\""
+        },
+        {
+          "number": 38,
+          "source": "Official Digital SAT 9, Module 1, Q24",
+          "passage": "As cheesemaking practices spread throughout Europe and Asia during and after the Neolithic, divergent strategies for preserving milk ______ whereas rennet-coagulated cheesemaking became key to milk preservation in Europe and Southwest Asia, acid-heat coagulation methods became common among nomadic herding populations of the northeastern Eurasian steppe.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "emerged"
+            },
+            {
+              "label": "B",
+              "text": "emerged and"
+            },
+            {
+              "label": "C",
+              "text": "emerged:"
+            },
+            {
+              "label": "D",
+              "text": "emerged,"
+            }
+          ],
+          "correct": "C",
+          "explanation": "The first part is a complete sentence; the second part explains what the \"divergent strategies\" were. A colon introduces this explanation. D creates a comma splice, A a run-on, B an illogical compound."
+        },
+        {
+          "number": 39,
+          "source": "Official Digital SAT 10, Module 1, Q25",
+          "passage": "Along with carbon dioxide concentration and temperature, light intensity affects the chemical reaction rate of ______ as light intensity increases, so does the rate at which the reactants (water and carbon dioxide) are converted into their products (glucose and oxygen).",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "photosynthesis and"
+            },
+            {
+              "label": "B",
+              "text": "photosynthesis,"
+            },
+            {
+              "label": "C",
+              "text": "photosynthesis:"
+            },
+            {
+              "label": "D",
+              "text": "photosynthesis"
+            }
+          ],
+          "correct": "C",
+          "explanation": "The second independent clause explains how light intensity affects the rate, so a colon is appropriate. B is a comma splice, D a run-on, A lacks the comma before \"and.\""
+        },
+        {
+          "number": 40,
+          "source": "Official Digital SAT 10, Module 2, Q25 — also SAT 1 M1 Q24",
+          "passage": "Researchers studying magnetosensation have determined why some soil-dwelling roundworms in the Southern Hemisphere move in the opposite direction of Earth’s magnetic field when searching for ______ in the Northern Hemisphere, the magnetic field points down, into the ground, but in the Southern Hemisphere, it points up, toward the surface and away from worms’ food sources.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "food:"
+            },
+            {
+              "label": "B",
+              "text": "food,"
+            },
+            {
+              "label": "C",
+              "text": "food while"
+            },
+            {
+              "label": "D",
+              "text": "food"
+            }
+          ],
+          "correct": "A",
+          "explanation": "The second independent clause explains why the worms behave this way, so a colon is appropriate. B is a comma splice, D a run-on, C creates a confusing structure."
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "id": "rule-9-the-colon-introducing-a-list-or-a-specific-item",
+      "title": "The Colon Introducing a List or a Specific Item",
+      "explanation_en": "A colon can also introduce a list, a noun phrase, or even a single word that names what the clause announced (\"three goals: …\", \"the ideal city for a young artist: Paris\"). The rule is still the same: the words before the colon must form a complete sentence. A transition word can end that clause before the colon (\"…competitions, however: rumba, samba…\").",
+      "explanation_zh": "冒號也可以引出清單、名詞片語，甚至一個單字，用來說明前面子句所提到的東西（例如 three goals: …、the ideal city for a young artist: Paris）。規則不變：冒號前面必須是完整句子。轉折詞也可以放在冒號前、第一個子句的結尾（…competitions, however: rumba, samba…）。",
+      "examples": [
+        "Amrita Sher-Gil was living in what must have seemed like the ideal city for a young artist: Paris. [Digital SAT 8, Module 1, Q27]",
+        "In addition, Zufall suggested selling the product under a child-friendly name: Play-Doh. [Digital SAT 2, Module 2, Q20]"
+      ],
+      "questions": [
+        {
+          "number": 41,
+          "source": "Official Digital SAT 10, Module 2, Q23",
+          "passage": "In February 1919, following the end of the First World War, women from ten countries around the world convened the Inter-Allied Women’s Conference in Paris. The conference’s goals were ______ ensure women’s participation in the proceedings of the Paris Peace Conference, to secure the right of women to serve in the League of Nations, and to advocate for human rights.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "threefold: to"
+            },
+            {
+              "label": "B",
+              "text": "threefold. To"
+            },
+            {
+              "label": "C",
+              "text": "threefold to"
+            },
+            {
+              "label": "D",
+              "text": "threefold; to"
+            }
+          ],
+          "correct": "A",
+          "explanation": "\"The conference’s goals were threefold\" is complete; a colon introduces the list of the three goals that follows. B and D would leave the list as a fragment; C runs them together."
+        },
+        {
+          "number": 42,
+          "source": "Official Digital SAT 4, Module 2, Q26",
+          "passage": "A study published by Rice University geoscientist Ming Tang in 2019 offers a new explanation for the origin of Earth’s ______ structures called arcs, towering ridges that form when a dense oceanic plate subducts under a less dense continental plate, melts in the mantle below, and then rises and bursts through the continental crust above.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "continents geological"
+            },
+            {
+              "label": "B",
+              "text": "continents: geological"
+            },
+            {
+              "label": "C",
+              "text": "continents; geological"
+            },
+            {
+              "label": "D",
+              "text": "continents. Geological"
+            }
+          ],
+          "correct": "B",
+          "explanation": "The first part is an independent clause, and what follows (\"geological structures called arcs...\") is a noun phrase that specifies the explanation. A colon correctly introduces it. C and D would leave a fragment; A runs the two together."
+        },
+        {
+          "number": 43,
+          "source": "Official Digital SAT 5, Module 2, Q22",
+          "passage": "On March 23, 2021, a gust of wind wreaked havoc on global trade. Ever Given, an international shipping container vessel, became lodged in Egypt’s Suez Canal, a major shipping route between Europe and Asia. The vessel took six days to ______ it’s as heavy as two thousand blue whales when fully loaded.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "dislodge in part due to its sheer size,"
+            },
+            {
+              "label": "B",
+              "text": "dislodge, in part due to its sheer size:"
+            },
+            {
+              "label": "C",
+              "text": "dislodge, in part due to its sheer size,"
+            },
+            {
+              "label": "D",
+              "text": "dislodge, in part, due to its sheer size"
+            }
+          ],
+          "correct": "B",
+          "explanation": "\"In part due to its sheer size\" is a supplementary phrase set off with a comma. The next part (\"it’s as heavy as...\") is an independent clause that explains the size, so a colon is appropriate. A and C create comma splices; D is a run-on."
+        },
+        {
+          "number": 44,
+          "source": "Practice item",
+          "passage": "Traditional Mandé drumming ensembles rely on three bass drums, known collectively as dunun, to anchor their polyrhythmic ______ the dununba, the sangban, and the kenkeni.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "patterns:"
+            },
+            {
+              "label": "B",
+              "text": "patterns;"
+            },
+            {
+              "label": "C",
+              "text": "patterns,"
+            },
+            {
+              "label": "D",
+              "text": "patterns"
+            }
+          ],
+          "correct": "A",
+          "explanation": "An independent clause announces \"three bass drums,\" and a list names them. A colon introduces a list after a complete clause. A semicolon (B) cannot introduce a list that isn't an independent clause."
+        },
+        {
+          "number": 45,
+          "source": "Practice item",
+          "passage": "Industrial chemists searching for a cost-effective alternative to platinum catalysts focused their research on a single abundant ______",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "element: iron."
+            },
+            {
+              "label": "B",
+              "text": "element; iron."
+            },
+            {
+              "label": "C",
+              "text": "element. Iron."
+            },
+            {
+              "label": "D",
+              "text": "element and iron."
+            }
+          ],
+          "correct": "A",
+          "explanation": "A colon can introduce a single word that names or specifies what the clause announced (\"a single abundant element\"). A semicolon or period (B, C) would need an independent clause after it; D says the chemists studied two things, which is illogical."
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "id": "rule-10-colon-traps-no-colon-after-a-verb-such-as-or-including",
+      "title": "Colon Traps: No Colon After a Verb, “such as,” or “including”",
+      "explanation_en": "Because a colon needs a complete clause before it, it is illegal right after a verb (are, were, include), a preposition, or the words such as / including. These words already lead into the list, so they are followed by no punctuation at all. Fix a verb + colon by completing the clause first: ✘ \"The goals were: …\" → ✔ \"The goals were threefold: …\" or ✔ \"The goals were to …\"",
+      "explanation_zh": "因為冒號前面必須是完整子句，所以冒號不可以直接放在動詞（are, were, include）、介系詞，或 such as / including 後面。這些字本身就會引出後面的清單，後面什麼標點都不加。如果是「動詞 + 冒號」的錯誤，要先把子句補完整：✘ The goals were: … → ✔ The goals were threefold: … 或 ✔ The goals were to …",
+      "examples": [
+        "In assessing the films of Japanese director Akira Kurosawa, many critics have focused on Kurosawa’s use of Western literary sources but have missed his equally deep engagement with Japanese artistic traditions such as Noh theater. [Digital SAT 2, Module 2, Q22 (no punctuation after “such as”)]",
+        "Formed in 1967 to foster political and economic stability within the Asia-Pacific region, the Association of Southeast Asian Nations was originally made up of five members: Thailand, the Philippines, Singapore, Malaysia, and Indonesia. [Digital SAT 2, Module 1, Q21 (complete clause before the colon)]"
+      ],
+      "questions": [
+        {
+          "number": 46,
+          "source": "Practice item",
+          "passage": "Among the primary advantages of early movable-type printing presses ______ rapid duplication of text, decreased production costs, and increased literacy across Europe.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "were:"
+            },
+            {
+              "label": "B",
+              "text": "were;"
+            },
+            {
+              "label": "C",
+              "text": "were"
+            },
+            {
+              "label": "D",
+              "text": "were,"
+            }
+          ],
+          "correct": "C",
+          "explanation": "The sentence is inverted: the subject is the list (\"rapid duplication..., decreased costs, and increased literacy\") and the verb is \"were.\" No punctuation may separate a verb from its subject/complement. A colon needs a complete clause before it—\"Among the advantages were\" is not complete."
+        },
+        {
+          "number": 47,
+          "source": "Practice item",
+          "passage": "The urban wetland restoration project aimed to preserve habitat for vulnerable bird species such ______ the blue heron, the snowy egret, and the belted kingfisher.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "as:"
+            },
+            {
+              "label": "B",
+              "text": "as;"
+            },
+            {
+              "label": "C",
+              "text": "as,"
+            },
+            {
+              "label": "D",
+              "text": "as"
+            }
+          ],
+          "correct": "D",
+          "explanation": "\"Such as\" already introduces the examples; it is never followed by a colon, semicolon, or comma. A colon also requires a complete clause before it."
+        },
+        {
+          "number": 48,
+          "source": "Practice item",
+          "passage": "The three finalists in this year’s international robotics competition ______ teams from Seoul, Nairobi, and Monterrey.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "were:"
+            },
+            {
+              "label": "B",
+              "text": "were"
+            },
+            {
+              "label": "C",
+              "text": "were;"
+            },
+            {
+              "label": "D",
+              "text": "were,"
+            }
+          ],
+          "correct": "B",
+          "explanation": "\"The three finalists…were\" is not a complete clause until the verb has its complement, so no colon (or any punctuation) may separate \"were\" from \"teams from Seoul, Nairobi, and Monterrey.\""
+        },
+        {
+          "number": 49,
+          "source": "Practice item",
+          "passage": "The museum’s new Asian art wing displays artifacts ______ jade carvings, bronze vessels, and silk scrolls from the Song dynasty.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "including:"
+            },
+            {
+              "label": "B",
+              "text": "including,"
+            },
+            {
+              "label": "C",
+              "text": "including—"
+            },
+            {
+              "label": "D",
+              "text": "including"
+            }
+          ],
+          "correct": "D",
+          "explanation": "\"Including\" (like \"such as\") already introduces the examples, so no punctuation follows it."
+        },
+        {
+          "number": 50,
+          "source": "Practice item",
+          "passage": "The bakery’s famous sourdough bread requires only three ______ flour, water, and salt.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "ingredients:"
+            },
+            {
+              "label": "B",
+              "text": "ingredients;"
+            },
+            {
+              "label": "C",
+              "text": "ingredients such as:"
+            },
+            {
+              "label": "D",
+              "text": "ingredients are:"
+            }
+          ],
+          "correct": "A",
+          "explanation": "\"The bakery's famous sourdough bread requires only three ingredients\" is a complete clause that announces a list, so a colon is correct. B uses a semicolon before a list; C puts a colon after \"such as\"; D creates a second verb with no subject."
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "id": "rule-11-commas-after-introductory-elements-and-dependent-clauses",
+      "title": "Commas After Introductory Elements and Dependent Clauses",
+      "explanation_en": "A dependent clause starts with a word like because, although, while, when, if, since, whenever. It cannot stand alone. When it comes first, put a comma after it before the main clause. When a while/whereas contrast clause comes second, use a comma before it. An essential clause that tells when/under what condition at the end of the sentence usually takes no comma (\"…is added whenever…\"). Introductory phrases (participial, prepositional, infinitive) are also followed by a comma—after the whole phrase, never inside it. A dependent clause can never be separated from its main clause by a period, semicolon, or dash.",
+      "explanation_zh": "從屬子句以 because, although, while, when, if, since, whenever 等字開頭，不能單獨成句。從屬子句放在句首時，後面加逗號再接主要子句。表示對比的 while / whereas 子句放在後面時，前面加逗號。放在句尾、說明「何時／在什麼條件下」的必要子句通常不加逗號（…is added whenever…）。開頭的片語（分詞片語、介系詞片語、不定詞片語）後面也要加逗號——加在整個片語之後，不要加在片語中間。從屬子句和主要子句之間絕對不能用句號、分號或破折號分開。",
+      "examples": [
+        "When they were first introduced to western Europe from Byzantium in the eleventh century, table forks were met with much resistance. [Digital SAT 5, Module 2, Q20]",
+        "Featuring jagged peaks of black ink surrounded by hazy swirls of blue and green paint, Zhang Daqian’s 1983 painting Panorama of Mount Lu is inspired by the tradition of qinglü shanshui, a type of Chinese landscape painting characterized by the use of blue and green hues to depict ethereal, otherworldly landscapes. [Digital SAT 7, Module 1, Q23]"
+      ],
+      "questions": [
+        {
+          "number": 51,
+          "source": "Practice item",
+          "passage": "Although sauropod dinosaurs possessed air-filled bones that reduced overall skeletal ______ their massive body weight still required column-like limbs for support.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "density; their"
+            },
+            {
+              "label": "B",
+              "text": "density, their"
+            },
+            {
+              "label": "C",
+              "text": "density. Their"
+            },
+            {
+              "label": "D",
+              "text": "density their"
+            }
+          ],
+          "correct": "B",
+          "explanation": "\"Although...\" makes the first part a dependent clause. A dependent clause joins the main clause with a comma. A semicolon or period (A, C) would leave the \"Although\" clause as a fragment."
+        },
+        {
+          "number": 52,
+          "source": "Practice item",
+          "passage": "Because synthetic RNA guides can target specific DNA sequences with unprecedented ______ bioengineers can disable defective genes without disrupting surrounding cellular structures.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "precision—bioengineers"
+            },
+            {
+              "label": "B",
+              "text": "precision, bioengineers"
+            },
+            {
+              "label": "C",
+              "text": "precision; bioengineers"
+            },
+            {
+              "label": "D",
+              "text": "precision. Bioengineers"
+            }
+          ],
+          "correct": "B",
+          "explanation": "\"Because...\" is a dependent clause; it attaches to the main clause with a comma. A semicolon or period leaves a fragment, and a single dash may follow only an independent clause."
+        },
+        {
+          "number": 53,
+          "source": "Official Digital SAT 2, Module 2, Q19 — also SAT 10 M1 Q23",
+          "passage": "While many video game creators strive to make their graphics ever more ______ others look to the past, developing titles with visuals inspired by the “8-bit” games of the 1980s and 1990s. (The term “8-bit” refers to a console whose processor could only handle eight bits of data at once.)",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "lifelike but"
+            },
+            {
+              "label": "B",
+              "text": "lifelike"
+            },
+            {
+              "label": "C",
+              "text": "lifelike,"
+            },
+            {
+              "label": "D",
+              "text": "lifelike, but"
+            }
+          ],
+          "correct": "C",
+          "explanation": "\"While…lifelike\" is an introductory dependent clause, so a comma separates it from the main clause \"others look to the past.\" Adding \"but\" (A, D) is wrong because \"while\" already links the clauses; B lacks the needed comma."
+        },
+        {
+          "number": 54,
+          "source": "Official Digital SAT 3, Module 2, Q21",
+          "passage": "The life spans of rockfish vary greatly by species. For instance, the colorful calico rockfish (Sebastes dalli) can survive for a little over a ______ the rougheye rockfish (Sebastes aleutianus) boasts a maximum life span of about two centuries.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "decade: while"
+            },
+            {
+              "label": "B",
+              "text": "decade. While"
+            },
+            {
+              "label": "C",
+              "text": "decade; while"
+            },
+            {
+              "label": "D",
+              "text": "decade, while"
+            }
+          ],
+          "correct": "D",
+          "explanation": "\"While the rougheye rockfish boasts...\" is a dependent clause showing contrast, so it is joined to the main clause with a comma. A period or semicolon (B, C) would leave it as a fragment; a colon (A) is not used before a dependent clause here."
+        },
+        {
+          "number": 55,
+          "source": "Official Digital SAT 3, Module 2, Q22",
+          "passage": "The Lion Light system, developed by Kenyan inventor Richard Turere, consists of LED lights installed around the perimeter of livestock pastures. Powered with ______ the blinking LEDs keep lions away at night, thus protecting the livestock without risking harm to the endangered lions.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "energy collected, by solar panels, during the day"
+            },
+            {
+              "label": "B",
+              "text": "energy collected by solar panels during the day"
+            },
+            {
+              "label": "C",
+              "text": "energy collected by solar panels during the day,"
+            },
+            {
+              "label": "D",
+              "text": "energy, collected by solar panels during the day,"
+            }
+          ],
+          "correct": "C",
+          "explanation": "The introductory phrase \"Powered with energy collected by solar panels during the day\" must be followed by a comma before the main clause. Its internal parts are essential, so no internal commas are needed."
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "id": "rule-12-essential-appositives-title-name-takes-no-commas",
+      "title": "Essential Appositives: Title + Name Takes No Commas",
+      "explanation_en": "An appositive is a noun that renames another noun. When a title or description comes directly before a name (\"plant cell biologist Yuree Lee,\" \"portrait artist Marie-Denise Villers,\" \"the chemical compound aluminum oxide\"), the name is essential—it tells us which person or thing—so no commas are used. Also remember that no comma may separate the whole subject from its verb.",
+      "explanation_zh": "同位語是用來重新說明另一個名詞的名詞。當頭銜或描述直接放在名字前面時（plant cell biologist Yuree Lee、portrait artist Marie-Denise Villers、the chemical compound aluminum oxide），這個名字是必要的，告訴我們「是哪一位／哪一個」，所以不加逗號。另外也要記得：整個主詞和它的動詞之間不能加逗號。",
+      "examples": [
+        "When writing The Other Black Girl (2021), novelist Zakiya Dalila Harris drew on her own experiences working at a publishing office. [Digital SAT 1, Module 2, Q19]",
+        "Brazilian biologist Mariana Nery believes the answer might be found in whales’ DNA. [Digital SAT 5, Module 2, Q18]"
+      ],
+      "questions": [
+        {
+          "number": 56,
+          "source": "Official Digital SAT 9, Module 1, Q23 — also SAT 1 M2 Q27",
+          "passage": "Stomata, tiny pore structures in a leaf that absorb gases needed for plant growth, open when guard cells surrounding each pore swell with water. In a pivotal 2007 article, plant cell ______ showed that lipid molecules called phosphatidylinositol phosphates are responsible for signaling guard cells to open stomata.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "biologist, Yuree Lee"
+            },
+            {
+              "label": "B",
+              "text": "biologist Yuree Lee,"
+            },
+            {
+              "label": "C",
+              "text": "biologist Yuree Lee"
+            },
+            {
+              "label": "D",
+              "text": "biologist, Yuree Lee,"
+            }
+          ],
+          "correct": "C",
+          "explanation": "\"Plant cell biologist Yuree Lee\" is a title + name (restrictive), so no commas. No punctuation belongs between the subject and the verb \"showed.\""
+        },
+        {
+          "number": 57,
+          "source": "Official Digital SAT 5, Module 1, Q25",
+          "passage": "Long attributed to Jacques-Louis David, the preeminent Neoclassical painter of his day, the 1801 painting Marie Joséphine Charlotte du Val d’Ognes gained fresh attention in the 1990s when art historians discovered that the painting—which depicts a solitary young woman sketching—was actually the work of little-known French portrait ______ Marie-Denise Villers (1774–1821).",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "artist—"
+            },
+            {
+              "label": "B",
+              "text": "artist"
+            },
+            {
+              "label": "C",
+              "text": "artist:"
+            },
+            {
+              "label": "D",
+              "text": "artist,"
+            }
+          ],
+          "correct": "B",
+          "explanation": "\"Marie-Denise Villers\" is an essential (restrictive) appositive identifying which portrait artist, so no punctuation separates it from \"artist.\""
+        },
+        {
+          "number": 58,
+          "source": "Official Digital SAT 8, Module 1, Q21",
+          "passage": "Paintings by the renowned twentieth-century US ______ were featured in Artist to Artist, an exhibition at the Smithsonian Art Museum that paired the works of artists whose career trajectories intersected in meaningful ways.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "artists: Thomas Hart Benton and Jackson Pollock,"
+            },
+            {
+              "label": "B",
+              "text": "artists Thomas Hart Benton and Jackson Pollock"
+            },
+            {
+              "label": "C",
+              "text": "artists Thomas Hart Benton, and Jackson Pollock,"
+            },
+            {
+              "label": "D",
+              "text": "artists, Thomas Hart Benton and Jackson Pollock"
+            }
+          ],
+          "correct": "B",
+          "explanation": "The names are a restrictive appositive identifying which artists, so no punctuation is used. Also, no punctuation belongs between the subject and the verb \"were featured.\""
+        },
+        {
+          "number": 59,
+          "source": "Official Digital SAT 1, Module 1, Q22",
+          "passage": "In 1937, Chinese American screen actor Anna May Wong, who had portrayed numerous villains and secondary characters but never a heroine, finally got a starring role in Paramount Pictures’ Daughter of Shanghai, a film that ______ “expanded the range of possibilities for Asian images on screen.”",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "critic, Stina Chyn, claims"
+            },
+            {
+              "label": "B",
+              "text": "critic, Stina Chyn, claims,"
+            },
+            {
+              "label": "C",
+              "text": "critic Stina Chyn claims"
+            },
+            {
+              "label": "D",
+              "text": "critic Stina Chyn, claims,"
+            }
+          ],
+          "correct": "C",
+          "explanation": "\"Critic Stina Chyn\" is a title + name (restrictive appositive), so no commas around the name. No comma belongs between the subject and the verb \"claims\" or between \"claims\" and the quotation that serves as its content."
+        },
+        {
+          "number": 60,
+          "source": "Official Digital SAT 3, Module 2, Q27 — also SAT 9 M2 Q24",
+          "passage": "When external forces are applied to common glass made from silicates, energy builds up around minuscule defects in the material, resulting in fractures. Recently, engineer Erkka Frankberg of Tampere University in Finland used the chemical ______ to make a glassy solid that can withstand higher strain than silicate glass can before fracturing.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "compound, aluminum oxide"
+            },
+            {
+              "label": "B",
+              "text": "compound aluminum oxide,"
+            },
+            {
+              "label": "C",
+              "text": "compound, aluminum oxide,"
+            },
+            {
+              "label": "D",
+              "text": "compound aluminum oxide"
+            }
+          ],
+          "correct": "D",
+          "explanation": "\"Aluminum oxide\" is an essential (restrictive) appositive identifying which compound; it takes no commas. Nothing should separate the object from \"to make.\""
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "id": "rule-13-other-essential-elements-that-clauses-titles-of-works-essential-phrases",
+      "title": "Other Essential Elements: “that” Clauses, Titles of Works, Essential Phrases",
+      "explanation_en": "Any word group that identifies which one is essential and takes no commas: a that-clause (\"a company that specializes in…\"), the title of a work after a common noun (\"her 2019 novel Gingerbread offers…\"), an essential participial phrase (\"Students enrolled in the course must…\"), or an essential time clause at the end of a sentence (\"…is added whenever…\"). Adding commas would either split the subject from its verb or change the meaning.",
+      "explanation_zh": "凡是用來指明「是哪一個」的字組都是必要成分，不加逗號：that 子句（a company that specializes in…）、普通名詞後面的作品名稱（her 2019 novel Gingerbread offers…）、必要的分詞片語（Students enrolled in the course must…），以及放在句尾的必要時間子句（…is added whenever…）。如果加上逗號，會把主詞和動詞切開，或改變句子的意思。",
+      "examples": [
+        "Former First Lady of the United States Eleanor Roosevelt and Indian activist and educator Hansa Mehta were instrumental in drafting the United Nations’ Universal Declaration of Human Rights, a document that outlines the basic freedoms to which all people are entitled. [Digital SAT 3, Module 2, Q20]",
+        "Researchers studying the “terra-cotta army,” the thousands of life-size statues of warriors found interred near the tomb of Emperor Qin Shi Huang of China, were shocked to realize that the shape of each statue’s ears, like the shape of each person’s ears, is unique. [Digital SAT 9, Module 1, Q26]"
+      ],
+      "questions": [
+        {
+          "number": 61,
+          "source": "Official Digital SAT 4, Module 2, Q21",
+          "passage": "Both Sona Charaipotra, an Indian American, and Dhonielle Clayton, an African American, grew up frustrated by the lack of diverse characters in books for young people. In 2011, these two writers joined forces to found CAKE Literary, a book packaging ______ specializes in the creation and promotion of stories told from diverse perspectives for children and young adults.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "company,"
+            },
+            {
+              "label": "B",
+              "text": "company that"
+            },
+            {
+              "label": "C",
+              "text": "company"
+            },
+            {
+              "label": "D",
+              "text": "company, that"
+            }
+          ],
+          "correct": "B",
+          "explanation": "\"That specializes in...\" is an essential relative clause describing the company; it needs the relative pronoun \"that\" and no comma. A and C lack a connecting word; D wrongly uses a comma before \"that.\""
+        },
+        {
+          "number": 62,
+          "source": "Official Digital SAT 3, Module 1, Q23",
+          "passage": "As British scientist Peter Whibberley has observed, “the Earth is not a very good timekeeper.” Earth’s slightly irregular rotation rate means that measurements of time must be periodically adjusted. Specifically, an extra “leap second” (the 86,401st second of the day) is ______ time based on the planet’s rotation lags a full nine-tenths of a second behind time kept by precise atomic clocks.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "added, whenever"
+            },
+            {
+              "label": "B",
+              "text": "added; whenever"
+            },
+            {
+              "label": "C",
+              "text": "added. Whenever"
+            },
+            {
+              "label": "D",
+              "text": "added whenever"
+            }
+          ],
+          "correct": "D",
+          "explanation": "\"Whenever time...lags\" is an essential dependent clause telling when the second is added, so no punctuation is needed. B and C would leave the dependent clause as a fragment; A inserts an unnecessary comma."
+        },
+        {
+          "number": 63,
+          "source": "Official Digital SAT 2, Module 1, Q28 — also SAT 9 M2 Q22",
+          "passage": "In crafting her fantasy fiction, Nigerian-born British author Helen Oyeyemi has drawn inspiration from the classic nineteenth-century fairy tales of the Brothers Grimm. Her 2014 novel Boy, Snow, Bird, for instance, is a complex retelling of the story of Snow White, while her 2019 novel ______ offers a delicious twist on the classic tale of Hansel and Gretel.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Gingerbread—"
+            },
+            {
+              "label": "B",
+              "text": "Gingerbread,"
+            },
+            {
+              "label": "C",
+              "text": "Gingerbread"
+            },
+            {
+              "label": "D",
+              "text": "Gingerbread:"
+            }
+          ],
+          "correct": "C",
+          "explanation": "\"Her 2019 novel Gingerbread\" is the subject of the clause and \"offers\" is its verb. No punctuation should separate a subject from its verb, and the title is an essential (restrictive) identifier."
+        },
+        {
+          "number": 64,
+          "source": "Official Digital SAT 5, Module 2, Q23",
+          "passage": "Fans of the film Moana (2016) may not know that the deep and humorous voice behind the ______ belongs to comedian, actor, and musician Jemaine Clement. The versatile performer has appeared in everything from television commercials to action movies, but voice acting, specifically, has become a notable part of his career.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "character Tamatoa the crab"
+            },
+            {
+              "label": "B",
+              "text": "character Tamatoa the crab,"
+            },
+            {
+              "label": "C",
+              "text": "character: Tamatoa the crab,"
+            },
+            {
+              "label": "D",
+              "text": "character, Tamatoa the crab"
+            }
+          ],
+          "correct": "A",
+          "explanation": "\"Tamatoa the crab\" is a restrictive appositive identifying which character, so no commas are used. Also, no punctuation belongs between the subject (\"the...voice behind the character Tamatoa the crab\") and the verb \"belongs.\""
+        },
+        {
+          "number": 65,
+          "source": "Practice item",
+          "passage": "Students ______ the advanced literature course must complete a summer reading assignment before the first class.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": ", enrolled in"
+            },
+            {
+              "label": "B",
+              "text": "enrolled in"
+            },
+            {
+              "label": "C",
+              "text": ", enrolled in,"
+            },
+            {
+              "label": "D",
+              "text": "enrolled, in"
+            }
+          ],
+          "correct": "B",
+          "explanation": "\"Enrolled in the advanced literature course\" tells WHICH students (essential), so no commas. With commas (C) the sentence would say that all students are enrolled; A separates the subject from its verb."
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "id": "rule-14-nonessential-elements-paired-commas",
+      "title": "Nonessential Elements: Paired Commas",
+      "explanation_en": "A nonessential element adds extra information; if you delete it, the sentence is still complete and still means the same thing. It must be set off by matching punctuation on both sides—usually a pair of commas. Most SAT questions give you the opening comma earlier in the sentence and ask you to supply the closing one. Deletion test: remove the words between the commas—the remaining sentence must be grammatical.",
+      "explanation_zh": "非必要成分是額外補充的資訊；刪掉它，句子仍然完整，意思也不變。它的前後必須用相同的標點隔開，最常見的是一對逗號。SAT 題目常常在前面已經給了開頭的逗號，要你補上結尾的逗號。刪除測試：把兩個逗號之間的字刪掉，剩下的句子必須合乎文法。",
+      "examples": [
+        "Bengali author Toru Dutt’s A Sheaf Gleaned in French Fields (1876), a volume of English translations of French poems, has enhanced scholars’ understanding of the transnational and multilingual contexts in which Dutt lived and worked. [Digital SAT 3, Module 1, Q24]",
+        "In 2016, engineer Vanessa Galvez oversaw the installation of 164 bioswales, vegetated channels designed to absorb and divert stormwater, along the streets of Queens, New York. [Digital SAT 4, Module 2, Q25]"
+      ],
+      "questions": [
+        {
+          "number": 66,
+          "source": "Practice item",
+          "passage": "Linguists studying ancient Sumerian cuneiform tablets, ______ have discovered that sentence syntax rules shifted rapidly during the Early Dynastic Period.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "many of whom were previously skeptical"
+            },
+            {
+              "label": "B",
+              "text": "many of whom were previously skeptical,"
+            },
+            {
+              "label": "C",
+              "text": "many of whom were previously skeptical;"
+            },
+            {
+              "label": "D",
+              "text": "many of whom, were previously skeptical"
+            }
+          ],
+          "correct": "B",
+          "explanation": "The comma after \"tablets\" opens a nonessential relative clause (\"many of whom were previously skeptical\"). It must be closed with a matching comma before the main verb \"have discovered.\""
+        },
+        {
+          "number": 67,
+          "source": "Official Digital SAT 5, Module 2, Q21",
+          "passage": "Julia Alvarez’s 1994 novel In the Time of the Butterflies, a fictionalized account of the lives of the Mirabal ______ can serve as a starting point for those wanting to explore how the rule of dictator Rafael Trujillo has been represented in Dominican American literature.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "sisters, and"
+            },
+            {
+              "label": "B",
+              "text": "sisters and"
+            },
+            {
+              "label": "C",
+              "text": "sisters,"
+            },
+            {
+              "label": "D",
+              "text": "sisters"
+            }
+          ],
+          "correct": "C",
+          "explanation": "The appositive \"a fictionalized account...Mirabal sisters\" is opened with a comma, so it must close with a comma before the verb \"can serve.\" Adding \"and\" would create a compound subject with no verb logic."
+        },
+        {
+          "number": 68,
+          "source": "Official Digital SAT 8, Module 1, Q25",
+          "passage": "English poet and Shakespeare contemporary John Donne’s ______ much admired during his lifetime (1572–1631) and in the decades that followed, had, at the time of their enthusiastic rediscovery by the early twentieth-century modernists, been essentially gathering dust for the intervening 250 years.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "works were"
+            },
+            {
+              "label": "B",
+              "text": "works, were"
+            },
+            {
+              "label": "C",
+              "text": "works,"
+            },
+            {
+              "label": "D",
+              "text": "works had been"
+            }
+          ],
+          "correct": "C",
+          "explanation": "The main verb is \"had...been gathering.\" \"Much admired during his lifetime...\" is a nonessential participial phrase that must be set off by commas; it needs an opening comma after \"works.\" Adding \"were\" or \"had been\" creates two main verbs."
+        },
+        {
+          "number": 69,
+          "source": "Official Digital SAT 4, Module 2, Q22",
+          "passage": "A study led by scientist Rebecca Kirby at the University of Wisconsin–Madison found that black bears that eat human food before hibernation have increased levels of a rare carbon isotope, ______ due to the higher 13C levels in corn and cane sugar. Bears with these elevated levels were also found to have much shorter hibernation periods on average.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "carbon-13, (13C)"
+            },
+            {
+              "label": "B",
+              "text": "carbon-13 (13C)"
+            },
+            {
+              "label": "C",
+              "text": "carbon-13, (13C),"
+            },
+            {
+              "label": "D",
+              "text": "carbon-13 (13C),"
+            }
+          ],
+          "correct": "D",
+          "explanation": "\"Carbon-13 (13C)\" is a nonessential appositive opened by the comma after \"isotope,\" so it must close with a comma. The parenthetical abbreviation stays attached to \"carbon-13\" with no comma in between."
+        },
+        {
+          "number": 70,
+          "source": "Practice item",
+          "passage": "Langston Hughes's poetry collection The Weary Blues, published in 1926 during the height of the Harlem ______ fused traditional verse structures with blues rhythms.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Renaissance—"
+            },
+            {
+              "label": "B",
+              "text": "Renaissance,"
+            },
+            {
+              "label": "C",
+              "text": "Renaissance:"
+            },
+            {
+              "label": "D",
+              "text": "Renaissance"
+            }
+          ],
+          "correct": "B",
+          "explanation": "The comma after the title opens a nonessential participial phrase; it must close with the matching mark—another comma—before the verb \"fused.\" A mixes a comma with a dash."
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "id": "rule-15-nonessential-elements-paired-dashes",
+      "title": "Nonessential Elements: Paired Dashes",
+      "explanation_en": "Paired dashes work exactly like paired commas but give more emphasis. The key rule: whatever mark opens the interrupter must close it. If it opens with a dash, it must close with a dash—never mix a dash with a comma. Always scan left in the sentence to see whether a dash has already opened an interrupter.",
+      "explanation_zh": "一對破折號的功能和一對逗號完全相同，只是語氣更強調。關鍵規則：插入語用什麼標點開始，就要用同樣的標點結束。以破折號開始，就必須以破折號結束——絕對不可以破折號配逗號。一定要往左看，確認句子前面是否已經用破折號開啟了插入語。",
+      "examples": [
+        "Earth’s auroras—colorful displays of light seen above the northern and southern poles—result, broadly speaking, from the Sun’s activity. [Digital SAT 9, Module 2, Q28]",
+        "Working from an earlier discovery of Charpentier’s, chemists Emmanuelle Charpentier and Jennifer Doudna—winners of the 2020 Nobel Prize in Chemistry—re-created and then reprogrammed the so-called “genetic scissors” of a species of DNA-cleaving bacteria to forge a tool that is revolutionizing the field of gene technology. [Digital SAT 4, Module 2, Q24]"
+      ],
+      "questions": [
+        {
+          "number": 71,
+          "source": "Official Digital SAT 2, Module 2, Q24 — also SAT 8 M2 Q23",
+          "passage": "The forty-seven geothermal springs of Arkansas’ Hot Springs National Park are sourced via a process known as natural groundwater recharge, in which rainwater percolates downward through the earth—in this case, the porous rocks of the hills around Hot ______ collect in a subterranean basin.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Springs to"
+            },
+            {
+              "label": "B",
+              "text": "Springs: to"
+            },
+            {
+              "label": "C",
+              "text": "Springs—to"
+            },
+            {
+              "label": "D",
+              "text": "Springs, to"
+            }
+          ],
+          "correct": "C",
+          "explanation": "The supplementary phrase \"in this case, the porous rocks...Hot Springs\" opens with a dash, so it must close with a matching dash before the sentence resumes (\"percolates downward through the earth...to collect\")."
+        },
+        {
+          "number": 72,
+          "source": "Official Digital SAT 5, Module 1, Q26",
+          "passage": "In 1986, conceptual artist Sophie Calle asked twenty-three people, all of whom had been born without sight, to describe “their image of beauty” in rich detail. Calle paired excerpts of these conversations with photographs—both of interviewees and the items they ______ to powerful effect in her exhibition The Blind.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "described, from hair to grass to sculptures"
+            },
+            {
+              "label": "B",
+              "text": "described, from hair to grass to sculptures—"
+            },
+            {
+              "label": "C",
+              "text": "described—from hair to grass to sculptures,"
+            },
+            {
+              "label": "D",
+              "text": "described: from hair to grass to sculptures"
+            }
+          ],
+          "correct": "B",
+          "explanation": "The supplementary element begins with a dash after \"photographs,\" so it must close with a dash before \"to powerful effect.\" Inside it, a comma sets off the examples \"from hair to grass to sculptures.\""
+        },
+        {
+          "number": 73,
+          "source": "Practice item",
+          "passage": "Neural pathways governing motor-skill acquisition—once believed to solidify permanently during early ______ remain remarkably adaptable throughout adulthood.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "childhood—"
+            },
+            {
+              "label": "B",
+              "text": "childhood,"
+            },
+            {
+              "label": "C",
+              "text": "childhood;"
+            },
+            {
+              "label": "D",
+              "text": "childhood"
+            }
+          ],
+          "correct": "A",
+          "explanation": "The interrupter opened with a dash after \"acquisition,\" so it must close with a dash before the verb \"remain.\" Never mix a dash with a comma (B)."
+        },
+        {
+          "number": 74,
+          "source": "Practice item",
+          "passage": "The Great Barrier ______ the largest living structure on Earth—is visible from space.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Reef—arguably"
+            },
+            {
+              "label": "B",
+              "text": "Reef, arguably"
+            },
+            {
+              "label": "C",
+              "text": "Reef arguably"
+            },
+            {
+              "label": "D",
+              "text": "Reef: arguably"
+            }
+          ],
+          "correct": "A",
+          "explanation": "The interrupter \"arguably the largest living structure on Earth\" closes with a dash, so it must also open with a dash. B mixes a comma with a dash."
+        },
+        {
+          "number": 75,
+          "source": "Practice item",
+          "passage": "Three spices—cumin, coriander, and ______ form the base of many South Asian curries.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "turmeric—"
+            },
+            {
+              "label": "B",
+              "text": "turmeric,"
+            },
+            {
+              "label": "C",
+              "text": "turmeric;"
+            },
+            {
+              "label": "D",
+              "text": "turmeric"
+            }
+          ],
+          "correct": "A",
+          "explanation": "The list is an interrupter that opened with a dash after \"spices,\" so it must close with a dash before the verb \"form.\""
+        }
+      ]
+    },
+    {
+      "number": 16,
+      "id": "rule-16-participial-phrases-at-the-end-of-a-sentence-including-thus-thereby-ing",
+      "title": "Participial Phrases (分詞構句) at the End of a Sentence, Including “thus / thereby + -ing”",
+      "explanation_en": "A participial phrase begins with an -ing or -ed verb and has no subject and no main verb, so it can never stand alone. When it comes after a complete clause to describe a result or add information, attach it with a comma—never a semicolon or period. The same rule applies to thus / thereby + -ing (\"…, thus protecting the livestock\"; \"…, thereby leading to his demise\"). Also: commas and periods go inside closing quotation marks.",
+      "explanation_zh": "分詞片語以 -ing 或 -ed 動詞開頭，沒有主詞，也沒有主要動詞，所以不能單獨成句。它放在完整子句後面、用來說明結果或補充資訊時，要用逗號連接——絕不能用分號或句號。thus / thereby + V-ing 也一樣（…, thus protecting the livestock；…, thereby leading to his demise）。另外，逗號和句號要放在結尾引號的裡面。",
+      "examples": [
+        "Upon recovering two years later, Henry resumed his reign, forcing an angered Richard from the royal court and precipitating a series of battles later known as the Wars of the Roses. [Digital SAT 1, Module 1, Q28]",
+        "A firefly uses specialized muscles to draw oxygen into its lower abdomen through narrow tubes, triggering a chemical reaction whereby the oxygen combines with chemicals in the firefly’s abdomen to produce a glow. [Digital SAT 9, Module 1, Q30]"
+      ],
+      "questions": [
+        {
+          "number": 76,
+          "source": "Official Digital SAT 2, Module 2, Q21",
+          "passage": "Beatrix Potter is perhaps best known for writing and illustrating children’s books such as The Tale of Peter Rabbit (1902), but she also dedicated herself to mycology, the study of ______ more than 350 paintings of the fungal species she observed in nature and submitting her research on spore germination to the Linnean Society of London.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "fungi; producing"
+            },
+            {
+              "label": "B",
+              "text": "fungi. Producing"
+            },
+            {
+              "label": "C",
+              "text": "fungi producing"
+            },
+            {
+              "label": "D",
+              "text": "fungi, producing"
+            }
+          ],
+          "correct": "D",
+          "explanation": "\"Producing...and submitting...\" is a participial phrase describing how Potter dedicated herself, so it is joined to the main clause with a comma. A semicolon (A) or period (B) would leave the phrase as an incomplete sentence; C makes it seem the fungi are producing paintings."
+        },
+        {
+          "number": 77,
+          "source": "Official Digital SAT 1, Module 1, Q20",
+          "passage": "In ancient Greece, an Epicurean was a follower of Epicurus, a philosopher whose beliefs revolved around the pursuit of pleasure. Epicurus defined pleasure as “the absence of pain in the body and of trouble in the ______ that all life’s virtues derived from this absence.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "soul,” positing"
+            },
+            {
+              "label": "B",
+              "text": "soul”: positing"
+            },
+            {
+              "label": "C",
+              "text": "soul”; positing"
+            },
+            {
+              "label": "D",
+              "text": "soul.” Positing"
+            }
+          ],
+          "correct": "A",
+          "explanation": "\"Positing that all life’s virtues derived...\" is a participial phrase (no subject, no finite verb) describing Epicurus, so it attaches to the main clause with a comma, placed inside the closing quotation mark. A semicolon or period (C, D) would leave the phrase as a fragment; a colon (B) is not used before a participial phrase."
+        },
+        {
+          "number": 78,
+          "source": "Practice item",
+          "passage": "Merchants traversing the Pamir Mountains during the Han Dynasty exchanged woven silk and lapis lazuli for Central Asian ______ significantly altering the economic trajectory of regional trade networks.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "horses"
+            },
+            {
+              "label": "B",
+              "text": "horses,"
+            },
+            {
+              "label": "C",
+              "text": "horses;"
+            },
+            {
+              "label": "D",
+              "text": "horses:"
+            }
+          ],
+          "correct": "B",
+          "explanation": "\"Significantly altering...\" is a participial phrase (no subject, no finite verb) describing a result of the main clause. It attaches with a comma. A semicolon or colon (C, D) would need an independent clause after it; A runs the phrase into \"horses.\""
+        },
+        {
+          "number": 79,
+          "source": "Practice item",
+          "passage": "Engineers added a second spillway to the ______ the risk of overflow during spring floods.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "dam; thus reducing"
+            },
+            {
+              "label": "B",
+              "text": "dam, thus reducing"
+            },
+            {
+              "label": "C",
+              "text": "dam. Thus reducing"
+            },
+            {
+              "label": "D",
+              "text": "dam, thus, reducing"
+            }
+          ],
+          "correct": "B",
+          "explanation": "\"Thus reducing the risk…\" is a participial phrase showing a result, not an independent clause, so it attaches with a comma. A and C leave the phrase as a fragment; D adds an unnecessary comma."
+        },
+        {
+          "number": 80,
+          "source": "Practice item",
+          "passage": "The city replaced its entire fleet of diesel buses with electric ______ its transportation emissions by nearly forty percent.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "models, thereby cutting"
+            },
+            {
+              "label": "B",
+              "text": "models; thereby cutting"
+            },
+            {
+              "label": "C",
+              "text": "models, thereby cut"
+            },
+            {
+              "label": "D",
+              "text": "models thereby, cutting"
+            }
+          ],
+          "correct": "A",
+          "explanation": "\"Thereby cutting…\" is a result phrase: comma before \"thereby,\" then the -ing participle. B leaves a fragment; C uses a verb with no subject; D misplaces the comma."
+        }
+      ]
+    },
+    {
+      "number": 17,
+      "id": "rule-17-absolute-phrases-and-appositives-at-the-end-of-a-sentence",
+      "title": "Absolute Phrases and Appositives at the End of a Sentence",
+      "explanation_en": "Two more phrase types attach to a complete clause with a comma. An absolute phrase is a noun + participle with no main verb (\"…to be quilts, the stitching barely visible…\"). An appositive at the end of a sentence is a noun phrase that renames the noun right before it (\"…the “tragedy of the commons,” the view that…\"); a summative appositive such as a finding that… renames the whole idea before it. Because neither is an independent clause, a semicolon or period before it is always wrong. A single dash may also be used for emphasis.",
+      "explanation_zh": "還有兩種片語用逗號接在完整子句後面。獨立分詞構句（絕對片語）是「名詞 + 分詞」，沒有主要動詞（…to be quilts, the stitching barely visible…）。句尾同位語是用來重新說明前一個名詞的名詞片語（…“tragedy of the commons,” the view that…）；a finding that… 這類總結式同位語則是重新概括前面整件事。這兩種都不是獨立子句，所以前面用分號或句號一定是錯的。也可以用一個破折號來加強語氣。",
+      "examples": [
+        "Known as the Brass Era, this period in automotive design is remembered for its grandeur and artistry, its vehicles highly prized by collectors for their ornate detailing and gleaming brass fittings. [Digital SAT 9, Module 2, Q25 (absolute phrase)]",
+        "As such, Ostrom’s work is a repudiation of the “tragedy of the commons,” the view that individuals will inevitably overexploit a finite shared resource if given unfettered access to it. [Digital SAT 8, Module 2, Q31 (appositive at the end)]"
+      ],
+      "questions": [
+        {
+          "number": 81,
+          "source": "Official Digital SAT 3, Module 1, Q26",
+          "passage": "From afar, African American fiber artist Bisa Butler’s portraits look like paintings, their depictions of human faces, bodies, and clothing so intricate that it seems only a fine brush could have rendered them. When viewed up close, however, the portraits reveal themselves to be ______ stitching barely visible among the thousands of pieces of printed, microcut fabric.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "quilts, and the"
+            },
+            {
+              "label": "B",
+              "text": "quilts, the"
+            },
+            {
+              "label": "C",
+              "text": "quilts; the"
+            },
+            {
+              "label": "D",
+              "text": "quilts. The"
+            }
+          ],
+          "correct": "B",
+          "explanation": "\"The stitching barely visible...\" is an absolute phrase (no finite verb), so it attaches to the main clause with a comma. A, C, and D treat it as an independent clause, which it is not."
+        },
+        {
+          "number": 82,
+          "source": "Official Digital SAT 7, Module 1, Q26",
+          "passage": "Recently unearthed Neronian tools in France dating to 54,000 years ago and attributed to Homo sapiens may provide evidence that interactions between Neanderthals and modern humans occurred 10,000 years earlier than was previously ______ finding that, if true, would overturn current theories about H. sapiens migration during the Upper Paleolithic.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "supposed; a"
+            },
+            {
+              "label": "B",
+              "text": "supposed. A"
+            },
+            {
+              "label": "C",
+              "text": "supposed a"
+            },
+            {
+              "label": "D",
+              "text": "supposed, a"
+            }
+          ],
+          "correct": "D",
+          "explanation": "\"A finding that...\" is a noun phrase (appositive) summing up the preceding clause, not an independent clause, so it is attached with a comma. A and B would leave it as a fragment; C omits needed punctuation."
+        },
+        {
+          "number": 83,
+          "source": "Official Digital SAT 2, Module 1, Q25",
+          "passage": "In her analysis of Edith Wharton’s The House of Mirth (1905), scholar Candace Waid observes that the novel depicts the upper classes of New York society as “consumed by the appetite of a soulless ______ an apt assessment given that The House of Mirth is set during the Gilded Age, a period marked by rapid industrialization, economic greed, and widening wealth disparities.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "materialism”; and"
+            },
+            {
+              "label": "B",
+              "text": "materialism” and"
+            },
+            {
+              "label": "C",
+              "text": "materialism,”"
+            },
+            {
+              "label": "D",
+              "text": "materialism”"
+            }
+          ],
+          "correct": "C",
+          "explanation": "\"An apt assessment...\" is a noun phrase that renames/comments on the preceding clause, so it is set off with a comma. In American style, the comma goes inside the closing quotation mark. A and B wrongly add \"and\" to a phrase that isn't a clause; D has no punctuation."
+        },
+        {
+          "number": 84,
+          "source": "Practice item",
+          "passage": "The marathon runner crossed the finish ______ raised in triumph above her head.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "line, her arms"
+            },
+            {
+              "label": "B",
+              "text": "line; her arms"
+            },
+            {
+              "label": "C",
+              "text": "line. Her arms"
+            },
+            {
+              "label": "D",
+              "text": "line her arms,"
+            }
+          ],
+          "correct": "A",
+          "explanation": "\"Her arms raised in triumph\" is an absolute phrase (noun + participle, no finite verb), so it attaches with a comma. B and C would leave it as a fragment."
+        },
+        {
+          "number": 85,
+          "source": "Practice item",
+          "passage": "Deep-field images captured by space telescopes revealed galaxies forming merely 300 million years after the Big ______ discovery that challenged prevailing cosmological models.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Bang—a"
+            },
+            {
+              "label": "B",
+              "text": "Bang; a"
+            },
+            {
+              "label": "C",
+              "text": "Bang. A"
+            },
+            {
+              "label": "D",
+              "text": "Bang a"
+            }
+          ],
+          "correct": "A",
+          "explanation": "\"A discovery that challenged...\" is a noun phrase that sums up the clause. A single dash (or a comma) attaches it. A semicolon or period (B, C) would require an independent clause; D runs the phrase in with no break."
+        }
+      ]
+    },
+    {
+      "number": 18,
+      "id": "rule-18-the-single-dash",
+      "title": "The Single Dash",
+      "explanation_en": "A single dash acts like a colon (or an emphatic comma) at the end of a sentence. It must follow a complete independent clause, and it introduces an explanation, a list, an example, or a summarizing phrase. A single dash can never follow a dependent clause. If a dash was already used earlier in the sentence to open an interrupter, the next dash must close it.",
+      "explanation_zh": "單一破折號在句尾的作用就像冒號（或語氣較強的逗號）。它前面必須是完整的獨立子句，後面用來引出解釋、清單、例子或總結的片語。單一破折號絕不能放在從屬子句後面。如果句子前面已經用破折號開啟了插入語，下一個破折號就必須用來結束它。",
+      "examples": [
+        "In this state, embryonic development is paused for as long as two years—longer than the life span of an adult killifish. [Digital SAT 2, Module 1, Q20]",
+        "At the age of twelve, she entered a contest to have a story published in American Girl magazine—and won. [Digital SAT 8, Module 1, Q19]"
+      ],
+      "questions": [
+        {
+          "number": 86,
+          "source": "Practice item",
+          "passage": "Reintroducing apex predators can trigger ripple effects across an entire ______ gray wolves, sea otters, and raptors all regulate herbivore populations and foster plant diversity.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "ecosystem—gray"
+            },
+            {
+              "label": "B",
+              "text": "ecosystem, gray"
+            },
+            {
+              "label": "C",
+              "text": "ecosystem gray"
+            },
+            {
+              "label": "D",
+              "text": "ecosystem, and, gray"
+            }
+          ],
+          "correct": "A",
+          "explanation": "A single dash works like a colon: after a complete clause, it introduces an explanation or example. B is a comma splice; C is a run-on."
+        },
+        {
+          "number": 87,
+          "source": "Practice item",
+          "passage": "After months of testing, the engineers finally identified the source of the ______ single loose wire in the control panel.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "malfunction—a"
+            },
+            {
+              "label": "B",
+              "text": "malfunction; a"
+            },
+            {
+              "label": "C",
+              "text": "malfunction. A"
+            },
+            {
+              "label": "D",
+              "text": "malfunction a"
+            }
+          ],
+          "correct": "A",
+          "explanation": "After a complete clause, a single dash introduces a phrase that explains or specifies (here, what the source was). A semicolon or period (B, C) would need an independent clause after it."
+        },
+        {
+          "number": 88,
+          "source": "Practice item",
+          "passage": "Because the storm had knocked out power across the ______ students finished their final exams by candlelight.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "campus—the"
+            },
+            {
+              "label": "B",
+              "text": "campus, the"
+            },
+            {
+              "label": "C",
+              "text": "campus; the"
+            },
+            {
+              "label": "D",
+              "text": "campus. The"
+            }
+          ],
+          "correct": "B",
+          "explanation": "\"Because the storm had knocked out power…\" is a dependent clause. It attaches to the main clause with a comma. A single dash, semicolon, or period can follow only an independent clause."
+        },
+        {
+          "number": 89,
+          "source": "Practice item",
+          "passage": "For her solo hike across the desert, the explorer packed only what she truly ______ water, a compass, and a detailed map.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "needed—"
+            },
+            {
+              "label": "B",
+              "text": "needed;"
+            },
+            {
+              "label": "C",
+              "text": "needed,"
+            },
+            {
+              "label": "D",
+              "text": "needed"
+            }
+          ],
+          "correct": "A",
+          "explanation": "The clause is complete, and what follows is a list that specifies what she needed. A single dash (like a colon) introduces it. A semicolon cannot introduce a list; C and D run the clause into the list."
+        },
+        {
+          "number": 90,
+          "source": "Practice item",
+          "passage": "The space telescope revealed something no astronomer had ______ appeared to orbit two stars at the same time.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "expected—a planet that"
+            },
+            {
+              "label": "B",
+              "text": "expected. A planet that"
+            },
+            {
+              "label": "C",
+              "text": "expected; a planet that"
+            },
+            {
+              "label": "D",
+              "text": "expected—a planet, that"
+            }
+          ],
+          "correct": "A",
+          "explanation": "A single dash after the complete clause introduces the noun phrase that specifies the \"something.\" B and C leave \"a planet that appeared…\" as a fragment; D inserts an incorrect comma before the essential clause \"that appeared…\""
+        }
+      ]
+    },
+    {
+      "number": 19,
+      "id": "rule-19-where-punctuation-is-illegal-subject-verb-verb-object-preposition-object",
+      "title": "Where Punctuation Is Illegal: Subject–Verb, Verb–Object, Preposition–Object",
+      "explanation_en": "Many SAT answers are no punctuation. Never put a single comma, colon, semicolon, or dash between a subject and its verb, between a verb and its object, or between a preposition and its object. The SAT makes subjects very long (\"The strings inside the instrument\") so that the blank falls right before the verb. Find the verb: if the blank sits between the full subject and that verb, choose no punctuation—unless you are closing a pair of commas or dashes opened earlier.",
+      "explanation_zh": "很多 SAT 題目的正確答案是不加標點。絕對不可以在主詞和動詞之間、動詞和受詞之間，或介系詞和受詞之間加上單一的逗號、冒號、分號或破折號。SAT 常把主詞寫得很長（The strings inside the instrument），讓空格剛好落在動詞前面。先找出動詞：如果空格位於完整主詞和動詞之間，就選不加標點——除非你是在結束前面已經開啟的一對逗號或破折號。",
+      "examples": [
+        "The Progressive Era in the United States witnessed the rise of numerous Black women’s clubs, local organizations that advocated for racial and gender equality. [Digital SAT 3, Module 2, Q24]",
+        "In the historical novel The Surrender Tree, Cuban American author Margarita Engle uses poetry rather than prose to tell the true story of Cuban folk hero Rosa La Bayamesa. [Digital SAT 9, Module 2, Q20]"
+      ],
+      "questions": [
+        {
+          "number": 91,
+          "source": "Official Digital SAT 5, Module 2, Q19",
+          "passage": "A harpsichord may look just like a piano, but the difference between the two instruments is easy to hear. When a harpsichord’s keys are pressed, the strings inside the ______ are plucked, not struck.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "instrument:"
+            },
+            {
+              "label": "B",
+              "text": "instrument"
+            },
+            {
+              "label": "C",
+              "text": "instrument—"
+            },
+            {
+              "label": "D",
+              "text": "instrument,"
+            }
+          ],
+          "correct": "B",
+          "explanation": "\"The strings inside the instrument\" is the subject and \"are plucked\" is the verb. No punctuation belongs between a subject and its verb."
+        },
+        {
+          "number": 92,
+          "source": "Official Digital SAT 7, Module 2, Q21",
+          "passage": "Nigerian American artist Toyin Ojih Odutola uses black-ink pens to create highly detailed drawings of human figures. Her portrait of novelist Zadie ______ is displayed in the National Portrait Gallery in London.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Smith:"
+            },
+            {
+              "label": "B",
+              "text": "Smith—"
+            },
+            {
+              "label": "C",
+              "text": "Smith"
+            },
+            {
+              "label": "D",
+              "text": "Smith,"
+            }
+          ],
+          "correct": "C",
+          "explanation": "\"Her portrait of novelist Zadie Smith\" is the subject, and \"is displayed\" is its verb. No punctuation belongs between a subject and its verb."
+        },
+        {
+          "number": 93,
+          "source": "Official Digital SAT 6, Module 1, Q20",
+          "passage": "Louise Bennett (1919–2006), also known as “Miss Lou,” was an influential Jamaican poet and folklorist. Her innovative poems ______ the use of Jamaican Creole (a spoken language) in literature.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "popularized;"
+            },
+            {
+              "label": "B",
+              "text": "popularized,"
+            },
+            {
+              "label": "C",
+              "text": "popularized"
+            },
+            {
+              "label": "D",
+              "text": "popularized:"
+            }
+          ],
+          "correct": "C",
+          "explanation": "\"The use of Jamaican Creole\" is the direct object of \"popularized.\" No punctuation belongs between a verb and its object."
+        },
+        {
+          "number": 94,
+          "source": "Official Digital SAT 4, Module 2, Q20",
+          "passage": "In her two major series “Memory Test” and “Autobiography,” painter Howardena Pindell explored themes ______ healing, self-discovery, and memory by cutting and sewing back together pieces of canvas and inserting personal artifacts, such as postcards, into some of the paintings.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "of"
+            },
+            {
+              "label": "B",
+              "text": "of,"
+            },
+            {
+              "label": "C",
+              "text": "of—"
+            },
+            {
+              "label": "D",
+              "text": "of:"
+            }
+          ],
+          "correct": "A",
+          "explanation": "No punctuation belongs between a preposition (\"of\") and its object (\"healing, self-discovery, and memory\")."
+        },
+        {
+          "number": 95,
+          "source": "Practice item",
+          "passage": "The dinosaur nests discovered in the Gobi Desert by the joint Mongolian-American research ______ that some species laid their eggs in large colonies.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "team, reveal"
+            },
+            {
+              "label": "B",
+              "text": "team— reveal"
+            },
+            {
+              "label": "C",
+              "text": "team reveal"
+            },
+            {
+              "label": "D",
+              "text": "team: reveal"
+            }
+          ],
+          "correct": "C",
+          "explanation": "The long subject is \"The dinosaur nests discovered…by the joint Mongolian-American research team,\" and \"reveal\" is its verb. No punctuation may separate a subject from its verb."
+        }
+      ]
+    },
+    {
+      "number": 20,
+      "id": "rule-20-semicolons-commas-in-a-complex-series-three-ideas",
+      "title": "Semicolons + Commas in a Complex Series (Three Ideas)",
+      "explanation_en": "List items are normally separated by commas. But when the items already contain commas (a name + description, a city + country, a title + appositive), separate the items with semicolons so the reader can see where each item ends: item 1, detail; item 2, detail; and item 3, detail. Look ahead for \"; and\" before the last item—it tells you the list uses semicolons. The semicolon goes at the end of each item, never inside it.",
+      "explanation_zh": "清單中的項目通常用逗號分開。但當每個項目本身已經含有逗號時（人名 + 說明、城市 + 國家、作品名 + 同位語），項目之間要改用分號，讓讀者看清每一項在哪裡結束：項目一, 說明; 項目二, 說明; and 項目三, 說明. 先往後看最後一項前是否有「; and」，有的話就代表這個清單用分號。分號放在每個項目的結尾，不可放在項目中間。",
+      "examples": [
+        "These include overseeing the Library of Congress’s collections, which boast more than 162 million items; managing the US Copyright Office, which registers copyright claims and advises Congress on copyright law; and appointing the US poet laureate. [Digital SAT 7, Module 2, Q23]",
+        "Buchi Emecheta’s celebrated literary oeuvre includes The Joys of Motherhood, a novel about the changing roles of women in 1950s Lagos; A Kind of Marriage, a television play about the private struggles of a newlywed couple in Nigeria; and Head Above Water, her autobiography. [Digital SAT 2, Module 2, Q26]"
+      ],
+      "questions": [
+        {
+          "number": 96,
+          "source": "Official Digital SAT 2, Module 2, Q23",
+          "passage": "Joshua Hinson, director of the language revitalization program of the Chickasaw Nation in Oklahoma, helped produce the world’s first Indigenous-language instructional app, Chickasaw ______ Chickasaw TV, in 2010; and a Rosetta Stone language course in Chickasaw, in 2015.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Basic; in 2009, an online television network;"
+            },
+            {
+              "label": "B",
+              "text": "Basic; in 2009, an online television network,"
+            },
+            {
+              "label": "C",
+              "text": "Basic, in 2009; an online television network,"
+            },
+            {
+              "label": "D",
+              "text": "Basic, in 2009, an online television network,"
+            }
+          ],
+          "correct": "C",
+          "explanation": "This is a list of three items that contain internal commas, so the items are separated by semicolons. Item 1 is \"the...app, Chickasaw Basic, in 2009\"; the semicolon comes after \"2009,\" and item 2 begins \"an online television network, Chickasaw TV, in 2010.\""
+        },
+        {
+          "number": 97,
+          "source": "Official Digital SAT 4, Module 1, Q25",
+          "passage": "The Arctic-Alpine Botanic Garden in Norway and the Jardim Botânico of Rio de Janeiro in Brazil are two of many botanical gardens around the world dedicated to growing diverse plant ______ fostering scientific research; and educating the public about plant conservation.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "species, both native and nonnative,"
+            },
+            {
+              "label": "B",
+              "text": "species, both native and nonnative;"
+            },
+            {
+              "label": "C",
+              "text": "species; both native and nonnative,"
+            },
+            {
+              "label": "D",
+              "text": "species both native and nonnative,"
+            }
+          ],
+          "correct": "B",
+          "explanation": "This is a series of three items separated by semicolons (\"; and educating...\"). Item 1 contains an internal comma (\"species, both native and nonnative\"), so it ends with a semicolon."
+        },
+        {
+          "number": 98,
+          "source": "Official Digital SAT 6, Module 2, Q23",
+          "passage": "Using natural debris, such as dried ______ such as plastic bags; and more traditional art supplies, such as tree glue, Ghanaian artist Ed Franklin Gavua creates his striking Yiiiiikakaii African masks, which he hopes can help viewers rethink how waste is used in their communities.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "leaves, man-made trash:"
+            },
+            {
+              "label": "B",
+              "text": "leaves; man-made trash,"
+            },
+            {
+              "label": "C",
+              "text": "leaves, man-made trash,"
+            },
+            {
+              "label": "D",
+              "text": "leaves; man-made trash;"
+            }
+          ],
+          "correct": "B",
+          "explanation": "The list items contain internal commas, so items are separated with semicolons (\"...leaves; man-made trash, such as plastic bags; and...\"). Within item 2, a comma precedes \"such as.\""
+        },
+        {
+          "number": 99,
+          "source": "Practice item",
+          "passage": "The international preservation team included Dr. Kenzo Sato, an urban preservationist from Tokyo ______ Dr. Maria Alvarez, an architectural historian from Madrid ______ and Thomas Wright, a structural engineer from London.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Tokyo, / Madrid,"
+            },
+            {
+              "label": "B",
+              "text": "Tokyo; / Madrid;"
+            },
+            {
+              "label": "C",
+              "text": "Tokyo / Madrid"
+            },
+            {
+              "label": "D",
+              "text": "Tokyo; / Madrid,"
+            }
+          ],
+          "correct": "B",
+          "explanation": "Each list item already contains a comma (name, description). To keep the three items distinct, separate them with semicolons at both blanks."
+        },
+        {
+          "number": 100,
+          "source": "Practice item",
+          "passage": "The science fair’s top prizes went to Priya Nair, a ninth grader from ______ Marcus Lee, whose solar-powered water filter impressed the judges; and Elena Ruiz, a senior from Austin, Texas.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Dayton, Ohio;"
+            },
+            {
+              "label": "B",
+              "text": "Dayton; Ohio,"
+            },
+            {
+              "label": "C",
+              "text": "Dayton, Ohio,"
+            },
+            {
+              "label": "D",
+              "text": "Dayton, Ohio"
+            }
+          ],
+          "correct": "A",
+          "explanation": "The items already contain commas (name, description), and the last item begins with \"; and,\" so each item must end with a semicolon. The comma between the city and state stays inside the item: \"Dayton, Ohio;\"."
+        }
+      ]
+    },
+    {
+      "number": 21,
+      "id": "rule-21-apostrophes-with-nouns-plurals-vs-possessives",
+      "title": "Apostrophes with Nouns: Plurals vs. Possessives",
+      "explanation_en": "(1) Simple plural = no apostrophe (stories, hands, antennas). (2) Singular possessive = 's (the screw's threads). (3) Regular plural possessive = s' (the rocks' migration). (4) Irregular plural possessive = 's (people's stories, children's museum). Two steps: first decide whether the noun is singular or plural (look for clues like a, one vs. 162, all five); then ask whether it owns the next noun (\"the threads of the screw\"). If it owns nothing, it takes no apostrophe.",
+      "explanation_zh": "(1) 一般複數：不加撇號（stories, hands, antennas）。(2) 單數所有格：加 's（the screw's threads）。(3) 規則複數所有格：加 s'（the rocks' migration）。(4) 不規則複數所有格：加 's（people's stories, children's museum）。兩個步驟：先判斷名詞是單數還是複數（看 a, one 或 162, all five 等線索）；再問它是否擁有後面的名詞（the threads of the screw）。如果沒有擁有任何東西，就不加撇號。",
+      "examples": [
+        "Currently, archaeologists’ efforts are aided by drones that capture high-resolution aerial photographs of the lines. [Digital SAT 3, Module 2, Q28 (plural possessive + simple plurals)]",
+        "Additionally, they help regulate a plant’s water loss. [Digital SAT 7, Module 1, Q27 (singular possessive)]"
+      ],
+      "questions": [
+        {
+          "number": 101,
+          "source": "Official Digital SAT 2, Module 1, Q24",
+          "passage": "Inventor John Friedman created a prototype of the first flexible straw by inserting a screw into a paper straw and, using dental floss, binding the straw tightly around the ______ When the floss and screw were removed, the resulting corrugations in the paper allowed the straw to bend easily over the edge of a glass.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "screw’s thread’s."
+            },
+            {
+              "label": "B",
+              "text": "screws’ threads."
+            },
+            {
+              "label": "C",
+              "text": "screw’s threads."
+            },
+            {
+              "label": "D",
+              "text": "screws threads’."
+            }
+          ],
+          "correct": "C",
+          "explanation": "There is one screw (\"a screw\"), so the singular possessive \"screw’s\" is needed. The threads belong to the screw and are plural but do not possess anything, so \"threads\" takes no apostrophe."
+        },
+        {
+          "number": 102,
+          "source": "Official Digital SAT 2, Module 1, Q27",
+          "passage": "In Death Valley National Park’s Racetrack Playa, a flat, dry lakebed, are 162 rocks—some weighing less than a pound but others almost 700 pounds—that move periodically from place to place, seemingly of their own volition. Racetrack-like trails in the ______ mysterious migration.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "playas sediment mark the rock’s"
+            },
+            {
+              "label": "B",
+              "text": "playa’s sediment mark the rocks"
+            },
+            {
+              "label": "C",
+              "text": "playa’s sediment mark the rocks’"
+            },
+            {
+              "label": "D",
+              "text": "playas’ sediment mark the rocks’"
+            }
+          ],
+          "correct": "C",
+          "explanation": "There is one playa, so \"playa’s\" (singular possessive) is correct. The migration belongs to the 162 rocks, so the plural possessive \"rocks’\" is required."
+        },
+        {
+          "number": 103,
+          "source": "Official Digital SAT 4, Module 1, Q19",
+          "passage": "Literary agents estimate that more than half of all nonfiction books credited to a celebrity or other public figure are in fact written by ghostwriters, professional authors who are paid to write other ______ but whose names never appear on book covers.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "people’s stories"
+            },
+            {
+              "label": "B",
+              "text": "peoples story’s"
+            },
+            {
+              "label": "C",
+              "text": "peoples stories"
+            },
+            {
+              "label": "D",
+              "text": "people’s story’s"
+            }
+          ],
+          "correct": "A",
+          "explanation": "\"People\" is already plural, so its possessive is \"people’s.\" \"Stories\" is a plural noun that owns nothing, so it takes no apostrophe."
+        },
+        {
+          "number": 104,
+          "source": "Official Digital SAT 4, Module 2, Q19",
+          "passage": "In his groundbreaking book Bengali Harlem and the Lost Histories of South Asian America, Vivek Bald uses newspaper articles, census records, ships’ logs, and memoirs to tell the ______ who made New York City their home in the early twentieth century.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "story’s of the South Asian immigrants"
+            },
+            {
+              "label": "B",
+              "text": "story’s of the South Asian immigrants’"
+            },
+            {
+              "label": "C",
+              "text": "stories of the South Asian immigrants"
+            },
+            {
+              "label": "D",
+              "text": "stories’ of the South Asian immigrant’s"
+            }
+          ],
+          "correct": "C",
+          "explanation": "Neither \"stories\" nor \"immigrants\" possesses anything here, so both are simple plurals without apostrophes."
+        },
+        {
+          "number": 105,
+          "source": "Official Digital SAT 5, Module 1, Q23",
+          "passage": "What makes the theremin a unique musical instrument? You play it without touching it. When you place your ______ the pitch will shift as your hands move through the air.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "hand’s between the two antenna’s,"
+            },
+            {
+              "label": "B",
+              "text": "hands between the two antennas,"
+            },
+            {
+              "label": "C",
+              "text": "hands’ between the two antennas’,"
+            },
+            {
+              "label": "D",
+              "text": "hands’ between the two antennas,"
+            }
+          ],
+          "correct": "B",
+          "explanation": "\"Hands\" and \"antennas\" are simple plurals that do not possess anything, so neither takes an apostrophe. (Note: the source prints the transition stem for this item, but it tests Standard English conventions.)"
+        }
+      ]
+    },
+    {
+      "number": 22,
+      "id": "rule-22-apostrophes-with-pronouns-its-its-their-theyre-there",
+      "title": "Apostrophes with Pronouns: its / it's, their / they're / there",
+      "explanation_en": "Possessive pronouns never take an apostrophe: its, their, whose, yours. A word with an apostrophe is a contraction: it's = it is/it has, they're = they are, who's = who is. There is a place or \"there is/are.\" Test by expanding the contraction: if \"it is\" or \"they are\" makes sense, use the apostrophe form. Also match number: its for a singular noun (including collective nouns like committee), their for plural nouns.",
+      "explanation_zh": "所有格代名詞永遠不加撇號：its, their, whose, yours。有撇號的字是縮寫：it's = it is / it has，they're = they are，who's = who is。there 表示地點或「there is / are」。判斷方法：把縮寫展開，如果 it is 或 they are 講得通，就用有撇號的形式。另外要注意單複數：單數名詞（包括 committee 這類集合名詞）用 its，複數名詞用 their。",
+      "examples": [
+        "Like other amphibians, the wood frog (Rana sylvatica) is unable to generate its own heat, so during periods of subfreezing temperatures, it survives by producing large amounts of glucose, a sugar that helps prevent damaging ice from forming inside its cells. [Digital SAT 4, Module 1, Q20]",
+        "When, in 2017, Cambridge University students Lucy Moss and Toby Marlow decided they wanted to develop a musical together, one of their goals was for their female actor friends to have good parts to play. [Digital SAT 7, Module 2, Q30]"
+      ],
+      "questions": [
+        {
+          "number": 106,
+          "source": "Official Digital SAT 9, Module 2, Q19 — also SAT 1 M1 Q21",
+          "passage": "British scientists James Watson and Francis Crick won the Nobel Prize in part for their 1953 paper announcing the double helix structure of DNA, but it is misleading to say that Watson and Crick discovered the double helix. ______ findings were based on a famous X-ray image of DNA fibers, “Photo 51,” developed by X-ray crystallographer Rosalind Franklin and her graduate student Raymond Gosling.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "They’re"
+            },
+            {
+              "label": "B",
+              "text": "It’s"
+            },
+            {
+              "label": "C",
+              "text": "Their"
+            },
+            {
+              "label": "D",
+              "text": "Its"
+            }
+          ],
+          "correct": "C",
+          "explanation": "A plural possessive determiner is needed to show the findings belong to Watson and Crick: \"Their.\" \"They’re\" and \"It’s\" are contractions; \"Its\" is singular."
+        },
+        {
+          "number": 107,
+          "source": "Official Digital SAT 10, Module 1, Q26",
+          "passage": "In Marisol’s 1968 sculpture Mi Mama y Yo, gone are the types of pop culture references that made the Parisian-born Venezuelan American artist a star at the height of the pop art movement. In ______ place is a far more personal subject: a sculptural depiction of the artist as a young girl with her mother.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "its"
+            },
+            {
+              "label": "B",
+              "text": "they’re"
+            },
+            {
+              "label": "C",
+              "text": "their"
+            },
+            {
+              "label": "D",
+              "text": "it’s"
+            }
+          ],
+          "correct": "C",
+          "explanation": "The possessive refers to \"the types of pop culture references\" (plural), which are gone; the new subject takes their place. So the plural possessive \"their\" is correct. \"It’s\" and \"they’re\" are contractions."
+        },
+        {
+          "number": 108,
+          "source": "Practice item",
+          "passage": "The machine-learning algorithm adjusts ______ internal parameters during training to minimize errors, ensuring that ______ capable of making accurate real-time predictions.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "its / it's"
+            },
+            {
+              "label": "B",
+              "text": "it's / its"
+            },
+            {
+              "label": "C",
+              "text": "its' / it's"
+            },
+            {
+              "label": "D",
+              "text": "its / its"
+            }
+          ],
+          "correct": "A",
+          "explanation": "Blank 1 shows possession (the algorithm's parameters): its—no apostrophe. Blank 2 means \"it is capable\": the contraction it's. \"Its'\" is never correct."
+        },
+        {
+          "number": 109,
+          "source": "Practice item",
+          "passage": "After three hours of debate, the selection committee announced that ______ decision on the scholarship winners would be final.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "it's"
+            },
+            {
+              "label": "B",
+              "text": "its"
+            },
+            {
+              "label": "C",
+              "text": "they're"
+            },
+            {
+              "label": "D",
+              "text": "there"
+            }
+          ],
+          "correct": "B",
+          "explanation": "The decision belongs to the committee (a singular collective noun), so the possessive \"its\" is needed. \"It's\" = it is; \"they're\" = they are; \"there\" is a place word."
+        },
+        {
+          "number": 110,
+          "source": "Practice item",
+          "passage": "Sea otters are among the few mammals that use tools; ______ able to crack open shellfish by pounding them against stones balanced on their chests.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "their"
+            },
+            {
+              "label": "B",
+              "text": "there"
+            },
+            {
+              "label": "C",
+              "text": "they're"
+            },
+            {
+              "label": "D",
+              "text": "its"
+            }
+          ],
+          "correct": "C",
+          "explanation": "The blank needs a subject + verb: \"they are able.\" The contraction \"they're\" = they are. \"Their\" is possessive, \"there\" is a place word, and \"its\" is singular possessive."
+        }
+      ]
+    },
+    {
+      "number": 23,
+      "id": "rule-23-question-marks-direct-vs-indirect-questions",
+      "title": "Question Marks: Direct vs. Indirect Questions",
+      "explanation_en": "A direct question uses question word order (helping verb before the subject: \"how do they affect…\") and ends with a question mark. It often stands alone and is followed by a new sentence. An indirect question is reported inside a statement after verbs like investigated, wondered, debated, wanted to understand; it uses statement word order (\"how people perceive…\") and ends with a period.",
+      "explanation_zh": "直接問句使用疑問句語序（助動詞在主詞前面：how do they affect…），句尾用問號，通常單獨成句，後面接著另一個新句子。間接問句是放在陳述句裡、跟在 investigated, wondered, debated, wanted to understand 等動詞後面的問句，使用陳述句語序（how people perceive…），句尾用句號。",
+      "examples": [
+        "How did whales, once no bigger than seals, evolve to become the largest animals on Earth? [Digital SAT 5, Module 2, Q18 (direct question)]",
+        "Neuroscientist Karen Konkoly wanted to determine whether individuals can understand and respond to questions during REM sleep. [Digital SAT 10, Module 2, Q27 (indirect question)]"
+      ],
+      "questions": [
+        {
+          "number": 111,
+          "source": "Official Digital SAT 6, Module 2, Q19",
+          "passage": "In forecasting weather events, meteorologists sometimes discuss the role of atmospheric rivers. What are atmospheric rivers, and how ______ Part of the water cycle, atmospheric rivers are narrow channels of moisture moving through the atmosphere. In certain conditions, these “rivers” can release some of their moisture as precipitation.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "do they affect our weather."
+            },
+            {
+              "label": "B",
+              "text": "they do affect our weather."
+            },
+            {
+              "label": "C",
+              "text": "do they affect our weather?"
+            },
+            {
+              "label": "D",
+              "text": "they do affect our weather?"
+            }
+          ],
+          "correct": "C",
+          "explanation": "This is a direct question (\"What are atmospheric rivers, and how...\"), so it needs question word order (\"do they affect\") and a question mark."
+        },
+        {
+          "number": 112,
+          "source": "Official Digital SAT 10, Module 2, Q19 — also SAT 1 M2 Q22",
+          "passage": "Lucía Michel of the University of Chile observed that alkaline soils contain an insoluble form of iron that blueberry plants cannot absorb, thus inhibiting blueberry growth. If these plants were grown in alkaline soil alongside grasses that aid in iron solubilization, ______ Michel was determined to find out.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "could the blueberries thrive."
+            },
+            {
+              "label": "B",
+              "text": "the blueberries could thrive."
+            },
+            {
+              "label": "C",
+              "text": "the blueberries could thrive?"
+            },
+            {
+              "label": "D",
+              "text": "could the blueberries thrive?"
+            }
+          ],
+          "correct": "D",
+          "explanation": "This is a direct question that Michel wanted answered (\"...could the blueberries thrive? Michel was determined to find out.\"). A direct question uses inverted word order and a question mark."
+        },
+        {
+          "number": 113,
+          "source": "Official Digital SAT 6, Module 1, Q22",
+          "passage": "Researchers Amit Kumar and Nicholas Epley investigated how ______ In a series of experiments conducted in 2022, they found that people performing small acts of kindness underestimated the positive effect their actions had on others.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "do people perceive acts of kindness."
+            },
+            {
+              "label": "B",
+              "text": "do people perceive acts of kindness?"
+            },
+            {
+              "label": "C",
+              "text": "people perceive acts of kindness?"
+            },
+            {
+              "label": "D",
+              "text": "people perceive acts of kindness."
+            }
+          ],
+          "correct": "D",
+          "explanation": "This is an indirect (embedded) question inside a statement, so it uses statement word order (subject + verb: \"people perceive\") and ends with a period, not a question mark."
+        },
+        {
+          "number": 114,
+          "source": "Practice item",
+          "passage": "Researchers wanted to understand ______ The team designed an experiment that offered bees identical sugar water in dishes of different colors.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "why do bees prefer blue flowers?"
+            },
+            {
+              "label": "B",
+              "text": "why bees prefer blue flowers."
+            },
+            {
+              "label": "C",
+              "text": "why bees prefer blue flowers?"
+            },
+            {
+              "label": "D",
+              "text": "why do bees prefer blue flowers."
+            }
+          ],
+          "correct": "B",
+          "explanation": "The question is reported inside a statement (\"Researchers wanted to understand why...\"), so it is an indirect question: statement word order (bees prefer) and a period."
+        },
+        {
+          "number": 115,
+          "source": "Practice item",
+          "passage": "Linguists have long debated ______ Some argue that it began with gestures; others believe it began with song.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "how did human language originate?"
+            },
+            {
+              "label": "B",
+              "text": "how human language originated."
+            },
+            {
+              "label": "C",
+              "text": "how human language originated?"
+            },
+            {
+              "label": "D",
+              "text": "how did human language originate."
+            }
+          ],
+          "correct": "B",
+          "explanation": "The question is reported inside a statement (\"Linguists have long debated how…\"), so it is an indirect question: statement word order (language originated) and a period."
+        }
+      ]
+    }
+  ]
+}
+
