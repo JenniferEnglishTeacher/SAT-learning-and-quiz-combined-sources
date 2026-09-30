@@ -463,6 +463,18 @@
       }
     }
   ],
+  "family_options": {
+    "n.": [
+      {
+        "word": "divergence",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the process or state of moving apart or becoming different:",
+        "defn_zh": "分歧；分岔；差異",
+        "derived_from": "diverge"
+      }
+    ]
+  },
   "fallback_options": {
     "v.": [
       {

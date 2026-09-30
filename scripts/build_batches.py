@@ -12,6 +12,7 @@ DEFAULT_SOURCE = ROOT / "source" / "Barrons_1100_by_root_prefix.xlsx"
 DATA_DIR, BATCH_DIR = ROOT / "data", ROOT / "data" / "batches"
 INDEX_PATH, PROGRESS_PATH = DATA_DIR / "batches-index.json", DATA_DIR / "progress.json"
 OVERRIDE_DIR = ROOT / "source" / "overrides"
+FAMILY_OPTIONS_PATH = ROOT / "source" / "family-options.json"
 
 def clean(value): return "" if value is None else str(value).strip()
 def split_lines(value): return [x.strip() for x in clean(value).replace("\r\n", "\n").split("\n") if x.strip()]
@@ -93,6 +94,28 @@ def fallbacks(records,batch_words):
         seen[key].add(word); pools[key].append({k:r[k] for k in ("word","pos","pos_key","defn_en","defn_zh")})
     return dict(pools)
 
+def family_options(batch):
+    """Load curated same-batch word-family choices, grouped by target POS."""
+    if not FAMILY_OPTIONS_PATH.exists(): return {}
+    config=json.loads(FAMILY_OPTIONS_PATH.read_text(encoding="utf-8"))
+    options=config.get(batch["id"],{})
+    batch_words={r["word"].casefold() for r in batch["words"]}
+    validated={}
+    for pos,items in options.items():
+        pos_key=normalize_pos(pos); validated[pos_key]=[]
+        for item in items:
+            derived_from=clean(item.get("derived_from"))
+            if derived_from.casefold() not in batch_words:
+                raise ValueError(f"Family option {item.get('word')} must derive from a word in {batch['id']}")
+            if normalize_pos(item.get("pos")) != pos_key:
+                raise ValueError(f"Family option {item.get('word')} has the wrong part of speech")
+            validated[pos_key].append({
+                "word":clean(item.get("word")),"pos":clean(item.get("pos")),"pos_key":pos_key,
+                "defn_en":clean(item.get("defn_en")),"defn_zh":clean(item.get("defn_zh")),
+                "derived_from":derived_from,
+            })
+    return validated
+
 def apply_overrides(batches):
     by_id={b["id"]:b for b in batches}
     if not OVERRIDE_DIR.exists(): return batches
@@ -130,7 +153,7 @@ def main():
     selected=[b for b in batches if b["id"]==args.batch_id] if args.batch_id else [b for b in batches if b["id"] not in generated][:max(0,args.batch_count)]
     if args.batch_id and not selected: raise ValueError(f"Unknown batch id: {args.batch_id}")
     for b in selected:
-        payload=dict(b); payload["fallback_options"]=fallbacks(all_records,b["words"]); write_json(BATCH_DIR/f"{b['id']}.json",payload); generated.add(b["id"]); print(f"Generated {b['id']}: {b['name']} ({b['count']} words)")
+        payload=dict(b); payload["family_options"]=family_options(b); payload["fallback_options"]=fallbacks(all_records,b["words"]); write_json(BATCH_DIR/f"{b['id']}.json",payload); generated.add(b["id"]); print(f"Generated {b['id']}: {b['name']} ({b['count']} words)")
     ordered=[b["id"] for b in batches if b["id"] in generated]; next_id=next((b["id"] for b in batches if b["id"] not in generated),None)
     write_json(PROGRESS_PATH,{"generated":ordered,"generated_count":len(ordered),"total":len(batches),"next_batch":next_id})
     metadata=[]

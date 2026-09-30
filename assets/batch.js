@@ -50,9 +50,12 @@ document.addEventListener('click', event => {
 
 function candidates(target, count) {
   const local = batch.words.filter(item => item.pos_key === target.pos_key && item.word !== target.word);
+  const family = (batch.family_options?.[target.pos_key] || []).filter(item => item.word !== target.word);
   const fallback = (batch.fallback_options[target.pos_key] || []).filter(item => item.word !== target.word);
   const seen = new Set();
-  return [...local, ...fallback].filter(item => {
+  // Prefer a derived form of a word from this batch before using unrelated
+  // same-part-of-speech choices from elsewhere in the course.
+  return [...local, ...family, ...fallback].filter(item => {
     const key = item.word.toLocaleLowerCase();
     if (seen.has(key)) return false;
     seen.add(key);
