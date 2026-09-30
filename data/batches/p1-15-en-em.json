@@ -1,0 +1,1594 @@
+{
+  "id": "p1-15-en-em",
+  "part": "part1",
+  "part_label": "Part 1 字首篇 (Prefixes)",
+  "name": "en；em",
+  "subtitle": "使進入",
+  "count": 49,
+  "words": [
+    {
+      "word": "embellish",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "adorn, touch up:",
+      "defn_zh": "裝飾/潤飾",
+      "root_note": "em- (in) + bel (beautiful)",
+      "sentences": [
+        {
+          "en": "She loves to ______ her stories with exaggerated details.",
+          "zh": "她喜歡用誇張的細節來潤飾她的故事。"
+        },
+        {
+          "en": "The tailor decided to ______ the dress with delicate lace trim.",
+          "zh": "這位裁縫決定用精緻的蕾絲花邊來裝飾這件洋裝。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "15",
+        "spelling": "en；em",
+        "meaning": "使進入"
+      }
+    },
+    {
+      "word": "entreaty",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "appeal, plea:",
+      "defn_zh": "懇求/乞求",
+      "root_note": "en- (make) + traitier (to treat/handle)",
+      "sentences": [
+        {
+          "en": "The prisoner's desperate ______ for mercy fell on deaf ears.",
+          "zh": "這名囚犯絕望的懇求並未得到憐憫回應。"
+        },
+        {
+          "en": "She ignored his repeated ______s to stay a little longer.",
+          "zh": "她無視他一再懇求她再多留一會兒。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "15",
+        "spelling": "en；em",
+        "meaning": "使進入"
+      }
+    },
+    {
+      "word": "encumbrance",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "burden, handicap, load:",
+      "defn_zh": "累贅/妨礙",
+      "root_note": "en- (in) + combre (barrier)",
+      "sentences": [
+        {
+          "en": "The old debt became a heavy ______ on the family's finances.",
+          "zh": "這筆舊債成了這個家庭財務上沉重的負擔。"
+        },
+        {
+          "en": "Carrying so much luggage proved to be quite an ______ on the trip.",
+          "zh": "在這趟旅程中,攜帶這麼多行李成了相當沉重的累贅。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "15",
+        "spelling": "en；em",
+        "meaning": "使進入"
+      }
+    },
+    {
+      "word": "encomium",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "high praise:",
+      "defn_zh": "讚美/頌詞",
+      "root_note": "en- (within) + komos (revel/celebration)",
+      "sentences": [
+        {
+          "en": "The retiring teacher received a heartfelt ______ from her former students.",
+          "zh": "這位即將退休的老師收到了學生們發自內心的頌詞讚美。"
+        },
+        {
+          "en": "The biography reads more like an ______ than an honest account.",
+          "zh": "這本傳記讀起來更像是一篇讚頌之詞,而非誠實的記述。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "15",
+        "spelling": "en；em",
+        "meaning": "使進入"
+      }
+    },
+    {
+      "word": "embellishment",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a decorative detail added to make something more attractive; an exaggeration:",
+      "defn_zh": "裝飾;誇大",
+      "root_note": "en- (in) + bel (beautiful), from Old French",
+      "sentences": [
+        {
+          "en": "The dress featured intricate lace ______ s.",
+          "zh": "這件洋裝有著精緻繁複的蕾絲裝飾。"
+        },
+        {
+          "en": "His story included a few obvious ______ s for effect.",
+          "zh": "他的故事為了效果而加入了幾處明顯的誇大之詞。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "15",
+        "spelling": "en；em",
+        "meaning": "使進入"
+      }
+    },
+    {
+      "word": "embrace",
+      "pos": "v./n.",
+      "pos_key": "v.",
+      "defn_en": "to hold someone closely; to accept an idea willingly:",
+      "defn_zh": "擁抱;欣然接受",
+      "root_note": "en- (in) + bracchium (arm), from Latin",
+      "sentences": [
+        {
+          "en": "They shared a warm ______ at the airport.",
+          "zh": "他們在機場相擁,場面溫馨。"
+        },
+        {
+          "en": "The company decided to ______ new technology early.",
+          "zh": "這家公司決定及早欣然接受新科技。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "15",
+        "spelling": "en；em",
+        "meaning": "使進入"
+      }
+    },
+    {
+      "word": "embroilment",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "the state of being involved in an argument, conflict, or difficult situation:",
+      "defn_zh": "捲入紛爭;糾葛",
+      "root_note": "en- (in) + brouiller (to confuse), from French",
+      "sentences": [
+        {
+          "en": "His ______ in the scandal damaged his career.",
+          "zh": "他捲入這場醜聞的紛爭損害了他的事業。"
+        },
+        {
+          "en": "The lawsuit resulted from the company's ______ with a rival firm.",
+          "zh": "這場訴訟源於這家公司與競爭對手的紛爭糾葛。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "15",
+        "spelling": "en；em",
+        "meaning": "使進入"
+      }
+    },
+    {
+      "word": "embryonic",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "in an early or undeveloped stage:",
+      "defn_zh": "胚胎的;萌芽階段的",
+      "root_note": "em- (in) + bryein (to swell), from Greek",
+      "sentences": [
+        {
+          "en": "The project is still in its ______ stages of planning.",
+          "zh": "這項計畫仍處於規劃的萌芽階段。"
+        },
+        {
+          "en": "Doctors monitored the ______ development closely.",
+          "zh": "醫生密切監測著這個胚胎的發育情況。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "15",
+        "spelling": "en；em",
+        "meaning": "使進入"
+      }
+    },
+    {
+      "word": "empathy",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "sensitivity to another's feelings as if they were one's own:",
+      "defn_zh": "同理心",
+      "root_note": "en- (in) + pathos (feeling, suffering, Greek)",
+      "sentences": [
+        {
+          "en": "Good nurses show great ______ toward their patients' fears.",
+          "zh": "優秀的護理師對病人的恐懼展現出高度的同理心。"
+        },
+        {
+          "en": "Her ______ for the refugees inspired her to volunteer at the shelter.",
+          "zh": "她對難民的同理心促使她到收容所擔任志工。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "15",
+        "spelling": "en；em",
+        "meaning": "使進入"
+      }
+    },
+    {
+      "word": "emphasize",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to give special importance or attention to something:",
+      "defn_zh": "強調",
+      "root_note": "en- (in) + phainein (to show)",
+      "sentences": [
+        {
+          "en": "The teacher ______ the importance of completing the assignment on time.",
+          "zh": "老師強調準時完成作業的重要性。"
+        },
+        {
+          "en": "The coach continued to ______ teamwork over individual performance.",
+          "zh": "教練持續強調團隊合作勝過個人表現。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "15",
+        "spelling": "en；em",
+        "meaning": "使進入"
+      }
+    },
+    {
+      "word": "empirical",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "based on observation or experience:",
+      "defn_zh": "經驗性的/實證的",
+      "root_note": "en- (in) + peira (trial, experiment, Greek)",
+      "sentences": [
+        {
+          "en": "The theory lacked any ______ evidence to support it.",
+          "zh": "這項理論缺乏任何實證證據的支持。"
+        },
+        {
+          "en": "Scientists rely on ______ data rather than mere speculation.",
+          "zh": "科學家依賴實證數據,而非單純的臆測。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "15",
+        "spelling": "en；em",
+        "meaning": "使進入"
+      }
+    },
+    {
+      "word": "employee",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a person employed for wages or salary:",
+      "defn_zh": "員工;受雇者",
+      "root_note": "en- (in) + plicare (to fold), from Latin",
+      "sentences": [
+        {
+          "en": "Every ______ received a bonus this year.",
+          "zh": "今年每位員工都領到了獎金。"
+        },
+        {
+          "en": "The company hired a new ______ to manage the accounts.",
+          "zh": "這家公司雇用了一位新員工來管理帳務。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "15",
+        "spelling": "en；em",
+        "meaning": "使進入"
+      }
+    },
+    {
+      "word": "employer",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a person or organization that employs people:",
+      "defn_zh": "雇主",
+      "root_note": "en- (in) + plicare (to fold), from Latin",
+      "sentences": [
+        {
+          "en": "Her ______ offered flexible working hours.",
+          "zh": "她的雇主提供了彈性的工作時間。"
+        },
+        {
+          "en": "A good ______ listens to employee feedback.",
+          "zh": "一位好雇主會傾聽員工的意見。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "15",
+        "spelling": "en；em",
+        "meaning": "使進入"
+      }
+    },
+    {
+      "word": "enamor",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to fill with love, fascinate:",
+      "defn_zh": "使迷戀/使傾心",
+      "root_note": "en- (into) + amor (love)",
+      "sentences": [
+        {
+          "en": "He was completely ______ed of the small coastal town after just one visit.",
+          "zh": "僅僅造訪一次,他就完全迷戀上了這座濱海小鎮。"
+        },
+        {
+          "en": "The audience was ______ed with the young violinist's performance.",
+          "zh": "觀眾們對這位年輕小提琴家的演出深深著迷。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "15",
+        "spelling": "en；em",
+        "meaning": "使進入"
+      }
+    },
+    {
+      "word": "enamored",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "filled with love or admiration for someone or something:",
+      "defn_zh": "迷戀的;傾心的",
+      "root_note": "en- (in) + amor (love), from Latin",
+      "sentences": [
+        {
+          "en": "She became instantly ______ of the small coastal town.",
+          "zh": "她立刻迷戀上了這座濱海小鎮。"
+        },
+        {
+          "en": "He was completely ______ with the idea of starting his own business.",
+          "zh": "他完全迷戀上創業的想法。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "15",
+        "spelling": "en；em",
+        "meaning": "使進入"
+      }
+    },
+    {
+      "word": "enchant",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to fill with great delight; to put under a magic spell:",
+      "defn_zh": "使著迷;施魔法",
+      "root_note": "en- (in) + cantare (to sing), from Latin",
+      "sentences": [
+        {
+          "en": "The fairy tale's magic continued to ______ young readers.",
+          "zh": "這則童話的魔力持續讓年輕讀者著迷。"
+        },
+        {
+          "en": "The witch claimed to ______ the forest to protect it.",
+          "zh": "這位女巫聲稱對這片森林施了魔法來保護它。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "15",
+        "spelling": "en；em",
+        "meaning": "使進入"
+      }
+    },
+    {
+      "word": "enchanting",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "delightfully charming or attractive:",
+      "defn_zh": "迷人的;令人著迷的",
+      "root_note": "en- (in) + cantare (to sing), from Latin",
+      "sentences": [
+        {
+          "en": "They spent an ______ evening watching the sunset over the lake.",
+          "zh": "他們度過了一個迷人的夜晚,欣賞湖面上的夕陽。"
+        },
+        {
+          "en": "The village had an ______ old-world charm.",
+          "zh": "這座村莊有著令人著迷的古樸魅力。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "15",
+        "spelling": "en；em",
+        "meaning": "使進入"
+      }
+    },
+    {
+      "word": "encircle",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to surround something completely:",
+      "defn_zh": "包圍;環繞",
+      "root_note": "en- (in) + circulus (circle), from Latin",
+      "sentences": [
+        {
+          "en": "Mountains ______ the small alpine village.",
+          "zh": "群山環繞著這座小小的高山村莊。"
+        },
+        {
+          "en": "Police began to ______ the building during the standoff.",
+          "zh": "在這場對峙中,警方開始包圍這棟建築物。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "15",
+        "spelling": "en；em",
+        "meaning": "使進入"
+      }
+    },
+    {
+      "word": "enclose",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to surround or close off; to include something with a letter:",
+      "defn_zh": "圍住;附上",
+      "root_note": "en- (in) + claudere (to close), from Latin",
+      "sentences": [
+        {
+          "en": "A tall fence began to ______ the property.",
+          "zh": "一道高聳的圍籬開始圍住這處產業。"
+        },
+        {
+          "en": "Please ______ your resume with the application.",
+          "zh": "請隨申請書附上您的履歷。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "15",
+        "spelling": "en；em",
+        "meaning": "使進入"
+      }
+    },
+    {
+      "word": "encroach",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to gradually intrude on a person's territory or rights:",
+      "defn_zh": "侵占;侵犯",
+      "root_note": "en- (in) + croc (hook), from Old French",
+      "sentences": [
+        {
+          "en": "The new development began to ______ on protected wetlands.",
+          "zh": "這項新開發案開始侵占受保護的溼地。"
+        },
+        {
+          "en": "He felt the new policy would ______ on personal freedoms.",
+          "zh": "他認為這項新政策將會侵犯個人自由。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "15",
+        "spelling": "en；em",
+        "meaning": "使進入"
+      }
+    },
+    {
+      "word": "encumber",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to weigh down, burden:",
+      "defn_zh": "拖累/妨礙",
+      "root_note": "en- (in) + cumulus (heap, Latin)",
+      "sentences": [
+        {
+          "en": "Heavy debt continued to ______ the young couple's plans for the future.",
+          "zh": "沉重的債務持續拖累著這對年輕夫妻對未來的規劃。"
+        },
+        {
+          "en": "The hikers were ______ed by their overloaded backpacks.",
+          "zh": "這些健行者因背包過重而行動遲緩。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "15",
+        "spelling": "en；em",
+        "meaning": "使進入"
+      }
+    },
+    {
+      "word": "endeavour",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a purposeful or industrious undertaking:",
+      "defn_zh": "努力/事業",
+      "root_note": "en- (in) + debere (to owe, Latin)",
+      "sentences": [
+        {
+          "en": "Building the new hospital was a costly but worthwhile ______.",
+          "zh": "興建這座新醫院是項耗資龐大卻值得的事業。"
+        },
+        {
+          "en": "Their scientific ______ eventually led to a groundbreaking discovery.",
+          "zh": "他們的科學研究最終促成了一項突破性的發現。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "15",
+        "spelling": "en；em",
+        "meaning": "使進入"
+      }
+    },
+    {
+      "word": "endorse",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to declare public approval or support of:",
+      "defn_zh": "支持;背書",
+      "root_note": "en- (on) + dorsum (back), from Latin",
+      "sentences": [
+        {
+          "en": "The union decided to ______ the candidate for mayor.",
+          "zh": "這個工會決定為這位市長候選人背書。"
+        },
+        {
+          "en": "Several celebrities publicly ______ d the charity campaign.",
+          "zh": "好幾位名人公開支持了這項慈善活動。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "15",
+        "spelling": "en；em",
+        "meaning": "使進入"
+      }
+    },
+    {
+      "word": "endorsement",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a public declaration of support or approval:",
+      "defn_zh": "支持;背書",
+      "root_note": "en- (on) + dorsum (back), from Latin",
+      "sentences": [
+        {
+          "en": "The athlete's ______ boosted sales of the new shoe.",
+          "zh": "這位運動員的背書提升了這款新鞋的銷量。"
+        },
+        {
+          "en": "The senator's ______ carried significant weight in the campaign.",
+          "zh": "這位參議員的支持在這場競選中具有相當的分量。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "15",
+        "spelling": "en；em",
+        "meaning": "使進入"
+      }
+    },
+    {
+      "word": "endow",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to give a permanent income or gift to; to provide with a quality:",
+      "defn_zh": "捐贈;賦予",
+      "root_note": "en- (in) + dotare (to give a dowry), from Latin",
+      "sentences": [
+        {
+          "en": "The alumnus chose to ______ a new scholarship fund.",
+          "zh": "這位校友選擇捐贈成立一個新的獎學金基金。"
+        },
+        {
+          "en": "Nature has ______ ed her with remarkable patience.",
+          "zh": "天生賦予了她非凡的耐心。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "15",
+        "spelling": "en；em",
+        "meaning": "使進入"
+      }
+    },
+    {
+      "word": "energetic",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "showing or involving great activity or vitality:",
+      "defn_zh": "精力充沛的;充滿活力的",
+      "root_note": "en- (in) + ergon (work), from Greek",
+      "sentences": [
+        {
+          "en": "The ______ puppy ran circles around the yard.",
+          "zh": "這隻精力充沛的小狗在院子裡繞圈奔跑。"
+        },
+        {
+          "en": "Her ______ leadership revitalized the struggling team.",
+          "zh": "她充滿活力的領導讓這支陷入困境的隊伍重新振作。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "15",
+        "spelling": "en；em",
+        "meaning": "使進入"
+      }
+    },
+    {
+      "word": "energize",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to give vitality and enthusiasm to:",
+      "defn_zh": "使充滿活力;激勵",
+      "root_note": "en- (in) + ergon (work), from Greek",
+      "sentences": [
+        {
+          "en": "The coach's speech began to ______ the tired players.",
+          "zh": "教練的談話開始激勵這些疲憊的球員。"
+        },
+        {
+          "en": "A short walk can ______ you before a long meeting.",
+          "zh": "在長時間的會議前,散個步能讓你恢復活力。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "15",
+        "spelling": "en；em",
+        "meaning": "使進入"
+      }
+    },
+    {
+      "word": "enfeeble",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to make weak or feeble:",
+      "defn_zh": "使衰弱;削弱",
+      "root_note": "en- (in) + feeble, from Old French feble",
+      "sentences": [
+        {
+          "en": "Years of illness began to ______ him.",
+          "zh": "多年的疾病開始使他日漸衰弱。"
+        },
+        {
+          "en": "The scandal ______ d the once-powerful institution.",
+          "zh": "這場醜聞削弱了這個曾經強大的機構。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "15",
+        "spelling": "en；em",
+        "meaning": "使進入"
+      }
+    },
+    {
+      "word": "enfranchise",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to grant the vote to:",
+      "defn_zh": "賦予選舉權",
+      "root_note": "en- (in) + francus (free, Frankish)",
+      "sentences": [
+        {
+          "en": "The amendment finally ______d women across the entire country.",
+          "zh": "這項修正案終於讓全國的女性獲得了選舉權。"
+        },
+        {
+          "en": "Reformers fought for decades to ______ working-class citizens.",
+          "zh": "改革者為了讓勞工階層公民獲得選舉權,奮鬥了數十年。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "15",
+        "spelling": "en；em",
+        "meaning": "使進入"
+      }
+    },
+    {
+      "word": "engender",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to bring about, create, generate:",
+      "defn_zh": "產生/引起",
+      "root_note": "en- (in) + generare (to beget)",
+      "sentences": [
+        {
+          "en": "The new policy is likely to ______ significant public debate.",
+          "zh": "這項新政策很可能引發重大的公眾辯論。"
+        },
+        {
+          "en": "Years of shared hardship helped ______ a deep trust among the crew.",
+          "zh": "多年共同經歷的困境,幫助這群船員之間培養出深厚的信任。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "15",
+        "spelling": "en；em",
+        "meaning": "使進入"
+      }
+    },
+    {
+      "word": "engulf",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to completely surround or overwhelm:",
+      "defn_zh": "吞沒;籠罩",
+      "root_note": "en- (in) + golfe (gulf), from Old French",
+      "sentences": [
+        {
+          "en": "Flames quickly began to ______ the old barn.",
+          "zh": "火焰迅速吞沒了這座老穀倉。"
+        },
+        {
+          "en": "Grief seemed to ______ her after the news.",
+          "zh": "聽到這個消息後,悲痛似乎將她完全籠罩。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "15",
+        "spelling": "en；em",
+        "meaning": "使進入"
+      }
+    },
+    {
+      "word": "enlightened",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "having or showing a rational, modern, and well-informed outlook:",
+      "defn_zh": "開明的;有見識的",
+      "root_note": "en- (in) + light, from Old English leoht",
+      "sentences": [
+        {
+          "en": "The new policy reflects a more ______ approach to education.",
+          "zh": "這項新政策反映出一種更開明的教育方針。"
+        },
+        {
+          "en": "He was praised as an ______ leader ahead of his time.",
+          "zh": "他被讚揚為一位超前時代的開明領袖。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "15",
+        "spelling": "en；em",
+        "meaning": "使進入"
+      }
+    },
+    {
+      "word": "enliven",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to make more lively or interesting:",
+      "defn_zh": "使活躍;使生動",
+      "root_note": "en- (in) + life, from Old English lif",
+      "sentences": [
+        {
+          "en": "A splash of color can ______ any dull room.",
+          "zh": "一抹色彩就能讓任何沉悶的房間變得生動。"
+        },
+        {
+          "en": "Her witty jokes ______ ed the otherwise dull meeting.",
+          "zh": "她機智的笑話讓原本枯燥的會議變得活躍起來。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "15",
+        "spelling": "en；em",
+        "meaning": "使進入"
+      }
+    },
+    {
+      "word": "enrapture",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to fill with intense delight:",
+      "defn_zh": "使狂喜;使著迷",
+      "root_note": "en- (in) + rapture, from Latin rapere (to seize)",
+      "sentences": [
+        {
+          "en": "The symphony's finale ______ d the entire audience.",
+          "zh": "這首交響曲的終樂章讓全場觀眾為之著迷。"
+        },
+        {
+          "en": "Children were ______ d by the puppet show.",
+          "zh": "孩子們被這場木偶戲迷得如癡如醉。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "15",
+        "spelling": "en；em",
+        "meaning": "使進入"
+      }
+    },
+    {
+      "word": "enraptured",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "filled with intense delight; captivated:",
+      "defn_zh": "狂喜的;著迷的",
+      "root_note": "en- (in) + rapture, from Latin rapere (to seize)",
+      "sentences": [
+        {
+          "en": "The ______ crowd watched the fireworks in silence.",
+          "zh": "這群著迷的觀眾靜靜地觀賞著煙火。"
+        },
+        {
+          "en": "She sat ______ through the entire performance.",
+          "zh": "她整場表演都全神貫注、如癡如醉地坐著。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "15",
+        "spelling": "en；em",
+        "meaning": "使進入"
+      }
+    },
+    {
+      "word": "ensconce",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to settle oneself securely or comfortably:",
+      "defn_zh": "安頓;安置",
+      "root_note": "en- (in) + sconce (fortification), from Dutch schans",
+      "sentences": [
+        {
+          "en": "He ______ d himself in the corner armchair with a good book.",
+          "zh": "他帶著一本好書,舒適地窩在角落的扶手椅上。"
+        },
+        {
+          "en": "The cat ______ d itself among the warm blankets.",
+          "zh": "這隻貓在溫暖的毯子中舒適地安頓了下來。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "15",
+        "spelling": "en；em",
+        "meaning": "使進入"
+      }
+    },
+    {
+      "word": "enshrine",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to preserve a right, tradition, or idea in a form that ensures it will be protected:",
+      "defn_zh": "銘記;奉為神聖",
+      "root_note": "en- (in) + shrine, from Latin scrinium",
+      "sentences": [
+        {
+          "en": "The right to free speech is ______ d in the constitution.",
+          "zh": "言論自由的權利已明訂於憲法之中,受到保障。"
+        },
+        {
+          "en": "Her achievements are ______ d in the museum's permanent collection.",
+          "zh": "她的成就被永久典藏於這座博物館之中,受到珍視。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "15",
+        "spelling": "en；em",
+        "meaning": "使進入"
+      }
+    },
+    {
+      "word": "enslave",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to make someone a slave; to dominate completely:",
+      "defn_zh": "奴役",
+      "root_note": "en- (in) + slave, from Medieval Latin sclavus",
+      "sentences": [
+        {
+          "en": "The invaders sought to conquer and ______ the population.",
+          "zh": "入侵者試圖征服並奴役這裡的人民。"
+        },
+        {
+          "en": "Addiction can ______ even the strongest of wills.",
+          "zh": "成癮能奴役即使是意志最堅強的人。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "15",
+        "spelling": "en；em",
+        "meaning": "使進入"
+      }
+    },
+    {
+      "word": "ensnare",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to catch in or as if in a trap:",
+      "defn_zh": "使落入圈套;誘捕",
+      "root_note": "en- (in) + snare, from Old Norse snara",
+      "sentences": [
+        {
+          "en": "The hunter set a trap to ______ the fox.",
+          "zh": "這位獵人設下陷阱來誘捕這隻狐狸。"
+        },
+        {
+          "en": "Debt began to ______ the struggling family.",
+          "zh": "債務開始讓這個陷入困境的家庭深陷其中。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "15",
+        "spelling": "en；em",
+        "meaning": "使進入"
+      }
+    },
+    {
+      "word": "ensorcel",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to enchant or bewitch:",
+      "defn_zh": "施魔法;迷惑",
+      "root_note": "en- (in) + sorcele (sorcery), from Old French",
+      "sentences": [
+        {
+          "en": "The old tale describes a witch who could ______ entire villages.",
+          "zh": "這則古老的傳說描述一位能對整座村莊施魔法的女巫。"
+        },
+        {
+          "en": "Her voice seemed to ______ everyone in the concert hall.",
+          "zh": "她的歌聲似乎迷住了音樂廳裡的每一個人。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "15",
+        "spelling": "en；em",
+        "meaning": "使進入"
+      }
+    },
+    {
+      "word": "entail",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to include as a necessary step:",
+      "defn_zh": "牽涉/需要",
+      "root_note": "en- (in) + taliare (to cut, Latin)",
+      "sentences": [
+        {
+          "en": "Starting a new business can ______ significant financial risk.",
+          "zh": "創立新事業可能牽涉相當大的財務風險。"
+        },
+        {
+          "en": "The job will ______ frequent travel to overseas offices.",
+          "zh": "這份工作將需要經常前往海外辦事處出差。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "15",
+        "spelling": "en；em",
+        "meaning": "使進入"
+      }
+    },
+    {
+      "word": "entanglement",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a complicated or awkward situation; the state of being tangled:",
+      "defn_zh": "糾纏;糾葛",
+      "root_note": "en- (in) + tangle, of uncertain Scandinavian origin",
+      "sentences": [
+        {
+          "en": "Their romantic ______ complicated the business partnership.",
+          "zh": "他們的戀愛糾葛使這段商業夥伴關係變得複雜。"
+        },
+        {
+          "en": "The fishing net's ______ took hours to undo.",
+          "zh": "這張漁網的糾纏花了好幾個小時才解開。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "15",
+        "spelling": "en；em",
+        "meaning": "使進入"
+      }
+    },
+    {
+      "word": "enthralled",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "captivated; filled with wonder and delight:",
+      "defn_zh": "著迷的;被迷住的",
+      "root_note": "en- (in) + thrall (slave), from Old Norse thrall",
+      "sentences": [
+        {
+          "en": "The children sat ______ as the storyteller spoke.",
+          "zh": "說書人講故事時,孩子們聽得入迷。"
+        },
+        {
+          "en": "She was completely ______ by the underwater world she saw while diving.",
+          "zh": "她潛水時看到的海底世界讓她完全著迷。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "15",
+        "spelling": "en；em",
+        "meaning": "使進入"
+      }
+    },
+    {
+      "word": "enthrone",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to install someone as a monarch or ruler; to place in a position of high honor:",
+      "defn_zh": "使登基;推崇",
+      "root_note": "en- (in) + thronos (seat, throne), from Greek",
+      "sentences": [
+        {
+          "en": "The young prince was ______ d in a grand ceremony.",
+          "zh": "這位年輕王子在一場盛大的儀式中登基。"
+        },
+        {
+          "en": "Critics say the film ______ s violence rather than critiquing it.",
+          "zh": "評論家表示這部電影推崇暴力,而非加以批判。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "15",
+        "spelling": "en；em",
+        "meaning": "使進入"
+      }
+    },
+    {
+      "word": "enthusiasm",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "intense and eager enjoyment or interest:",
+      "defn_zh": "熱情;熱忱",
+      "root_note": "en- (in) + theos (god), from Greek",
+      "sentences": [
+        {
+          "en": "She approached every new project with great ______ .",
+          "zh": "她以極大的熱忱面對每一項新計畫。"
+        },
+        {
+          "en": "His ______ for hiking was contagious.",
+          "zh": "他對健行的熱情具有感染力。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "15",
+        "spelling": "en；em",
+        "meaning": "使進入"
+      }
+    },
+    {
+      "word": "enthusiast",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a person who is highly interested in a particular activity:",
+      "defn_zh": "熱衷者;愛好者",
+      "root_note": "en- (in) + theos (god), from Greek",
+      "sentences": [
+        {
+          "en": "As a car ______ , he attends every auto show.",
+          "zh": "身為一位汽車愛好者,他參加了每一場車展。"
+        },
+        {
+          "en": "The club welcomes ______ s of all skill levels.",
+          "zh": "這個社團歡迎各種技術程度的愛好者加入。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "15",
+        "spelling": "en；em",
+        "meaning": "使進入"
+      }
+    },
+    {
+      "word": "entomb",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to place in or as if in a tomb:",
+      "defn_zh": "埋葬;禁閉",
+      "root_note": "en- (in) + tumba (tomb), from Latin",
+      "sentences": [
+        {
+          "en": "The ancient pharaoh was ______ ed with countless treasures.",
+          "zh": "這位古代法老連同無數珍寶一起被埋葬。"
+        },
+        {
+          "en": "Workers were briefly ______ ed after the tunnel collapsed.",
+          "zh": "隧道坍塌後,工人們曾一度被困在裡面。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "15",
+        "spelling": "en；em",
+        "meaning": "使進入"
+      }
+    },
+    {
+      "word": "entreat",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to ask someone earnestly or anxiously to do something:",
+      "defn_zh": "懇求;哀求",
+      "root_note": "en- (in) + traiter (to treat), from Old French",
+      "sentences": [
+        {
+          "en": "She began to ______ him to reconsider his decision.",
+          "zh": "她開始懇求他重新考慮他的決定。"
+        },
+        {
+          "en": "The villagers ______ ed the king for mercy.",
+          "zh": "村民們懇求國王施予仁慈。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "15",
+        "spelling": "en；em",
+        "meaning": "使進入"
+      }
+    },
+    {
+      "word": "envelope",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a flat paper container used to enclose a letter:",
+      "defn_zh": "信封",
+      "root_note": "en- (in) + voloper (to wrap), from Old French",
+      "sentences": [
+        {
+          "en": "He sealed the letter in a plain white ______ .",
+          "zh": "他把信裝進一個素白色的信封裡封好。"
+        },
+        {
+          "en": "The invitation arrived in a golden ______ .",
+          "zh": "這份邀請函裝在一個金色的信封裡送達。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "15",
+        "spelling": "en；em",
+        "meaning": "使進入"
+      }
+    }
+  ],
+  "family_options": {},
+  "fallback_options": {
+    "v.": [
+      {
+        "word": "abound",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to exist in great numbers:",
+        "defn_zh": "充滿"
+      },
+      {
+        "word": "abrogate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to deprive of legal force, to nullify:=abolish",
+        "defn_zh": "廢除/取消"
+      },
+      {
+        "word": "abjure",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to renounce, abstain from:",
+        "defn_zh": "發誓放棄/棄絕"
+      },
+      {
+        "word": "abbreviate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to shorten a word or phrase:",
+        "defn_zh": "縮寫;縮短"
+      },
+      {
+        "word": "abdicate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to give up a position, usually one of leadership:",
+        "defn_zh": "退位/放棄(職位)"
+      },
+      {
+        "word": "abduct",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to kidnap, take by force:",
+        "defn_zh": "綁架/劫持"
+      },
+      {
+        "word": "abhor",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to regard with disgust and hatred:",
+        "defn_zh": "憎惡/厭惡"
+      },
+      {
+        "word": "abnegate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to deny or renounce:",
+        "defn_zh": "放棄/克制"
+      },
+      {
+        "word": "abolish",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to formally put an end to a system, practice, or institution:",
+        "defn_zh": "廢除"
+      },
+      {
+        "word": "abort",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to give up on a half-finished project or effort:",
+        "defn_zh": "中止/放棄"
+      },
+      {
+        "word": "abrade",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to scrape or wear away by friction:",
+        "defn_zh": "磨損;擦傷"
+      },
+      {
+        "word": "abscond",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to sneak away and hide:",
+        "defn_zh": "潛逃/逃匿"
+      }
+    ],
+    "adj.": [
+      {
+        "word": "abortive",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "fruitless, failing:",
+        "defn_zh": "失敗的/夭折的"
+      },
+      {
+        "word": "abstemious",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "moderate in eating or drinking:",
+        "defn_zh": "飲食有節制的"
+      },
+      {
+        "word": "abhorrent",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "detestable, despised:",
+        "defn_zh": "令人厭惡的"
+      },
+      {
+        "word": "absurd",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "ridiculous:",
+        "defn_zh": "荒謬的"
+      },
+      {
+        "word": "aberrant",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "deviating from what is normal or expected:",
+        "defn_zh": "異常的;脫軌的"
+      },
+      {
+        "word": "abject",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "wretched, pitiful:",
+        "defn_zh": "卑賤的/淒慘的"
+      },
+      {
+        "word": "abominable",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "causing moral revulsion; extremely unpleasant:",
+        "defn_zh": "可憎的;惡劣的"
+      },
+      {
+        "word": "abounding",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "existing in large numbers or amounts:",
+        "defn_zh": "大量存在的;豐富的"
+      },
+      {
+        "word": "abrasive",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "showing little concern for others; harsh:",
+        "defn_zh": "粗暴的/刺耳的"
+      },
+      {
+        "word": "abrupt",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "sudden or unexpected; brief and curt in manner:",
+        "defn_zh": "突然的/唐突的"
+      },
+      {
+        "word": "abstract",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "existing purely in the mind; not representing actual reality:",
+        "defn_zh": "抽象的"
+      },
+      {
+        "word": "abstruse",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "hard to comprehend:",
+        "defn_zh": "深奧難懂的"
+      }
+    ],
+    "n.": [
+      {
+        "word": "aversion",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "strong dislike, opposition:",
+        "defn_zh": "厭惡/反感"
+      },
+      {
+        "word": "aberration",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "something that differs from the norm:",
+        "defn_zh": "異常/脫軌"
+      },
+      {
+        "word": "abjection",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a state of complete misery, hopelessness, or degradation:",
+        "defn_zh": "卑賤;悲慘狀態"
+      },
+      {
+        "word": "abjuration",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the solemn renunciation of a belief, cause, or claim:",
+        "defn_zh": "公開放棄;誓絕"
+      },
+      {
+        "word": "ablution",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the act of washing oneself, especially as part of a religious ritual:",
+        "defn_zh": "沐浴;淨身儀式"
+      },
+      {
+        "word": "abnegation",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "denial of comfort to oneself:",
+        "defn_zh": "自我克制/放棄"
+      },
+      {
+        "word": "abomination",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "something that causes disgust or hatred:",
+        "defn_zh": "可憎之事;令人厭惡的東西"
+      },
+      {
+        "word": "abridgement",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a shortened version of a book or other written work:",
+        "defn_zh": "節略本;縮減版"
+      },
+      {
+        "word": "absolution",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "freedom from blame, guilt, sin:",
+        "defn_zh": "赦免/免罪"
+      },
+      {
+        "word": "abstemiousness",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "moderation or self-restraint, especially in eating and drinking:",
+        "defn_zh": "節制;克己"
+      },
+      {
+        "word": "abstinence",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the practice of restraining oneself from something enjoyable, especially food, alcohol, or sex:",
+        "defn_zh": "節制;戒絕"
+      },
+      {
+        "word": "avocation",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a hobby or minor occupation apart from one's main career:",
+        "defn_zh": "副業;業餘愛好"
+      }
+    ],
+    "adv.": [
+      {
+        "word": "accordingly",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in a manner that fits the circumstances; consequently:",
+        "defn_zh": "相應地;因此"
+      },
+      {
+        "word": "inadvertently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "unintentionally or by accident:",
+        "defn_zh": "無意間/不小心地"
+      },
+      {
+        "word": "consequently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "as a result; therefore:",
+        "defn_zh": "因此;結果"
+      },
+      {
+        "word": "contemptuously",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "without respect; in a disdainful manner:",
+        "defn_zh": "輕蔑地"
+      },
+      {
+        "word": "involuntarily",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "done without conscious control:",
+        "defn_zh": "不由自主地"
+      },
+      {
+        "word": "cordially",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in a warm or friendly manner:",
+        "defn_zh": "誠摯地/友好地"
+      },
+      {
+        "word": "ipso facto",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "by that very fact or act:",
+        "defn_zh": "事實上;因此"
+      },
+      {
+        "word": "en passant",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in passing; incidentally:",
+        "defn_zh": "順帶一提地;偶然地"
+      },
+      {
+        "word": "regardless",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "despite the prevailing circumstances; without being deterred:",
+        "defn_zh": "不管怎樣;儘管如此"
+      },
+      {
+        "word": "subsequently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "afterward; following in time or order:",
+        "defn_zh": "隨後;其後"
+      },
+      {
+        "word": "aside",
+        "pos": "adv./n.",
+        "pos_key": "adv.",
+        "defn_en": "to or on one side; a remark not meant to be heard by everyone:",
+        "defn_zh": "在旁邊;旁白"
+      },
+      {
+        "word": "vice versa",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "with the order or meaning reversed; conversely:",
+        "defn_zh": "反之亦然"
+      }
+    ],
+    "other": [
+      {
+        "word": "（此批單字中，暫無符合此字根/字首的單字）",
+        "pos": "",
+        "pos_key": "other",
+        "defn_en": "",
+        "defn_zh": ""
+      }
+    ],
+    "prep./adv.": [
+      {
+        "word": "besides",
+        "pos": "prep./adv.",
+        "pos_key": "prep./adv.",
+        "defn_en": "in addition to; furthermore:",
+        "defn_zh": "除...之外;此外"
+      }
+    ],
+    "phrasalv.": [
+      {
+        "word": "egg on",
+        "pos": "phrasal v.",
+        "pos_key": "phrasalv.",
+        "defn_en": "to encourage someone to do something, often risky:",
+        "defn_zh": "慫恿;鼓動"
+      }
+    ],
+    "abbr.": [
+      {
+        "word": "etc.",
+        "pos": "abbr.",
+        "pos_key": "abbr.",
+        "defn_en": "and other similar things (abbreviation of et cetera):",
+        "defn_zh": "等等(et cetera的縮寫)"
+      }
+    ],
+    "interj.": [
+      {
+        "word": "fiddledeedee",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "an exclamation expressing dismissal of something as nonsense:",
+        "defn_zh": "廢話!(表示不屑一顧)"
+      },
+      {
+        "word": "gesundheit",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "an expression said to someone who has just sneezed:",
+        "defn_zh": "保重(打噴嚏後的祝福語)"
+      }
+    ],
+    "prep.": [
+      {
+        "word": "via",
+        "pos": "prep.",
+        "pos_key": "prep.",
+        "defn_en": "by way of; passing through:",
+        "defn_zh": "經由;透過"
+      }
+    ]
+  }
+}
