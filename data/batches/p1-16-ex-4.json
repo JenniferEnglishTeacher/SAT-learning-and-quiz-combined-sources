@@ -1,0 +1,946 @@
+{
+  "id": "p1-16-ex-4",
+  "part": "part1",
+  "part_label": "Part 1 字首篇 (Prefixes)",
+  "name": "ex (4/4)",
+  "subtitle": "向外",
+  "count": 22,
+  "words": [
+    {
+      "word": "extemporaneous",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "spoken or done without preparation:",
+      "defn_zh": "即興的;臨時的",
+      "root_note": "ex- (out of) + tempus (time), from Latin",
+      "sentences": [
+        {
+          "en": "He delivered a witty, ______ speech at the reunion.",
+          "zh": "他在這場同學會上發表了一段機智的即興演說。"
+        },
+        {
+          "en": "The debate required students to give ______ responses.",
+          "zh": "這場辯論要求學生做出即興的回應。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "16",
+        "spelling": "ex",
+        "meaning": "向外"
+      }
+    },
+    {
+      "word": "extemporize",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to perform or speak without preparation:",
+      "defn_zh": "即興發言;臨場發揮",
+      "root_note": "ex- (out of) + tempus (time), from Latin",
+      "sentences": [
+        {
+          "en": "When his notes went missing, he had to ______ the whole lecture.",
+          "zh": "當他的筆記不見時,他不得不即興發表整場講座。"
+        },
+        {
+          "en": "Jazz musicians often ______ during a solo.",
+          "zh": "爵士樂手在獨奏時常常即興發揮。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "16",
+        "spelling": "ex",
+        "meaning": "向外"
+      }
+    },
+    {
+      "word": "extend",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to make something longer or larger; to offer:",
+      "defn_zh": "延伸;延長;給予",
+      "root_note": "ex- (out) + tendere (to stretch), from Latin",
+      "sentences": [
+        {
+          "en": "The city voted to ______ the subway line further north.",
+          "zh": "這座城市投票決定將地鐵線向北延伸。"
+        },
+        {
+          "en": "She decided to ______ an invitation to her old rival.",
+          "zh": "她決定向她昔日的對手發出邀請。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "16",
+        "spelling": "ex",
+        "meaning": "向外"
+      }
+    },
+    {
+      "word": "extension",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "an additional period of time; a part added to something:",
+      "defn_zh": "延期;延伸部分",
+      "root_note": "ex- (out) + tendere (to stretch), from Latin",
+      "sentences": [
+        {
+          "en": "She requested a two-day ______ on the deadline.",
+          "zh": "她申請了兩天的期限延長。"
+        },
+        {
+          "en": "They built an ______ onto the back of the house.",
+          "zh": "他們在房子後方加蓋了一個延伸部分。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "16",
+        "spelling": "ex",
+        "meaning": "向外"
+      }
+    },
+    {
+      "word": "extensive",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "covering a large area or scope:",
+      "defn_zh": "廣泛的",
+      "root_note": "ex- (out) + tendere (to stretch)",
+      "sentences": [
+        {
+          "en": "The Art Institute of Chicago has an ______ Impressionist collection.",
+          "zh": "芝加哥藝術博物館擁有一批廣泛豐富的印象派收藏。"
+        },
+        {
+          "en": "The company conducted ______ research before launching the product.",
+          "zh": "這家公司在產品上市前進行了廣泛的研究。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "16",
+        "spelling": "ex",
+        "meaning": "向外"
+      }
+    },
+    {
+      "word": "extenuate",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to make a fault or crime seem less serious by providing partial excuses:",
+      "defn_zh": "減輕(罪責);使情有可原",
+      "root_note": "ex- (out) + tenuis (thin), from Latin",
+      "sentences": [
+        {
+          "en": "His difficult childhood did not ______ the seriousness of the crime.",
+          "zh": "他艱困的童年並不能減輕這起罪行的嚴重性。"
+        },
+        {
+          "en": "The lawyer tried to ______ her client's actions during the trial.",
+          "zh": "這位律師在審判中試圖為當事人的行為找理由開脫。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "16",
+        "spelling": "ex",
+        "meaning": "向外"
+      }
+    },
+    {
+      "word": "extenuating",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "serving to lessen the seriousness of an offense by providing context:",
+      "defn_zh": "情有可原的;減輕罪責的",
+      "root_note": "ex- (out) + tenuis (thin), from Latin",
+      "sentences": [
+        {
+          "en": "The judge considered the ______ circumstances before sentencing.",
+          "zh": "法官在判刑前考慮了這些情有可原的情況。"
+        },
+        {
+          "en": "Financial hardship was cited as an ______ factor in the case.",
+          "zh": "財務困境被列為這起案件中一項情有可原的因素。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "16",
+        "spelling": "ex",
+        "meaning": "向外"
+      }
+    },
+    {
+      "word": "extinct",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "no longer existing:",
+      "defn_zh": "滅絕的",
+      "root_note": "ex- (out) + stinguere (to quench)",
+      "sentences": [
+        {
+          "en": "The dodo bird became ______ due to hunting and habitat loss.",
+          "zh": "渡渡鳥因獵捕和棲地喪失而滅絕。"
+        },
+        {
+          "en": "Many languages are at risk of becoming ______ within a generation.",
+          "zh": "許多語言在一個世代之內就有滅絕的風險。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "16",
+        "spelling": "ex",
+        "meaning": "向外"
+      }
+    },
+    {
+      "word": "extirpate",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to root out and destroy completely:",
+      "defn_zh": "根除;滅絕",
+      "root_note": "ex- (out) + stirps (root, stem), from Latin",
+      "sentences": [
+        {
+          "en": "Conservationists worked to ______ the invasive species from the island.",
+          "zh": "保育人士致力於根除島上的入侵物種。"
+        },
+        {
+          "en": "The campaign sought to ______ corruption from every level of government.",
+          "zh": "這場運動試圖根除政府各個層級的貪腐。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "16",
+        "spelling": "ex",
+        "meaning": "向外"
+      }
+    },
+    {
+      "word": "extirpation",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "the complete destruction or removal of something:",
+      "defn_zh": "根除;滅絕",
+      "root_note": "ex- (out) + stirps (root, stem), from Latin",
+      "sentences": [
+        {
+          "en": "The ______ of the disease required years of vaccination efforts.",
+          "zh": "根除這種疾病需要多年的疫苗接種努力。"
+        },
+        {
+          "en": "Overhunting led to the ______ of the species in the region.",
+          "zh": "過度獵捕導致該物種在這個地區絕跡。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "16",
+        "spelling": "ex",
+        "meaning": "向外"
+      }
+    },
+    {
+      "word": "extol",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to praise highly:",
+      "defn_zh": "讚美/頌揚",
+      "root_note": "ex- (out) + tollere (to raise)",
+      "sentences": [
+        {
+          "en": "The reviewer ______led the film's stunning visual effects.",
+          "zh": "這位評論家極力讚揚了這部電影驚人的視覺特效。"
+        },
+        {
+          "en": "He never tires of ______ing the virtues of his hometown.",
+          "zh": "他總是不厭其煩地讚頌自己家鄉的種種好處。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "16",
+        "spelling": "ex",
+        "meaning": "向外"
+      }
+    },
+    {
+      "word": "extortion",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "getting money by threats or favors:",
+      "defn_zh": "勒索",
+      "root_note": "ex- (out) + torquere (to twist)",
+      "sentences": [
+        {
+          "en": "The gang was arrested for running an ______ scheme against local shop owners.",
+          "zh": "這個幫派因對當地店主進行勒索而遭到逮捕。"
+        },
+        {
+          "en": "Police charged him with ______ after he threatened to release private photos unless paid.",
+          "zh": "警方以勒索罪起訴他,因為他威脅除非付款否則要公開私人照片。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "16",
+        "spelling": "ex",
+        "meaning": "向外"
+      }
+    },
+    {
+      "word": "extricate",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to disentangle:",
+      "defn_zh": "解脫/擺脫",
+      "root_note": "ex- (out) + tricae (hindrances, snares, Latin)",
+      "sentences": [
+        {
+          "en": "It took hours for rescuers to ______ the driver from the wrecked car.",
+          "zh": "救援人員花了好幾個小時才把司機從撞毀的車中救出。"
+        },
+        {
+          "en": "She struggled to ______ herself from the failing business partnership.",
+          "zh": "她努力想要脫身,擺脫這段失敗的合夥事業。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "16",
+        "spelling": "ex",
+        "meaning": "向外"
+      }
+    },
+    {
+      "word": "exuberance",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "the quality of being full of energy and enthusiasm:",
+      "defn_zh": "熱情洋溢;活力充沛",
+      "root_note": "ex- (thoroughly) + uber (fertile), from Latin",
+      "sentences": [
+        {
+          "en": "The puppy's ______ made everyone smile.",
+          "zh": "這隻小狗活力充沛的樣子讓每個人都露出微笑。"
+        },
+        {
+          "en": "Her youthful ______ was infectious among the team.",
+          "zh": "她年輕的熱情洋溢感染了整個團隊。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "16",
+        "spelling": "ex",
+        "meaning": "向外"
+      }
+    },
+    {
+      "word": "exuberant",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "overflowing with vitality and good spirits",
+      "defn_zh": "熱情奔放的",
+      "root_note": "ex- (thoroughly) + uber (fertile/abundant)",
+      "sentences": [
+        {
+          "en": "The children were ______ after their first day at the amusement park.",
+          "zh": "在遊樂園玩了第一天後,孩子們興奮得活力四射。"
+        },
+        {
+          "en": "Her ______ enthusiasm for the project inspired the entire team.",
+          "zh": "她對這項計畫熱情奔放的投入激勵了整個團隊。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "16",
+        "spelling": "ex",
+        "meaning": "向外"
+      }
+    },
+    {
+      "word": "exult",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to rejoice greatly:",
+      "defn_zh": "歡欣鼓舞/狂喜",
+      "root_note": "ex- (out) + salire (to leap)",
+      "sentences": [
+        {
+          "en": "Fans began to ______ as their team scored the winning goal.",
+          "zh": "當球隊踢進致勝一球時,球迷們開始歡欣鼓舞。"
+        },
+        {
+          "en": "She could not help but ______ over her daughter's acceptance to medical school.",
+          "zh": "她忍不住為女兒被醫學院錄取而欣喜若狂。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "16",
+        "spelling": "ex",
+        "meaning": "向外"
+      }
+    },
+    {
+      "word": "exultation",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "triumphant joy:",
+      "defn_zh": "狂喜/歡躍",
+      "root_note": "ex- (out) + salire (to leap)",
+      "sentences": [
+        {
+          "en": "The team erupted in ______ when the final whistle blew.",
+          "zh": "終場哨聲響起時,這支隊伍爆發出狂喜的歡呼。"
+        },
+        {
+          "en": "A feeling of ______ swept through the crowd as the results were announced.",
+          "zh": "當結果公布時,一股狂喜之情席捲了整個人群。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "16",
+        "spelling": "ex",
+        "meaning": "向外"
+      }
+    },
+    {
+      "word": "ineffable",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "unspeakable, incapable of being expressed through words:",
+      "defn_zh": "難以言喻的",
+      "root_note": "in- (not) + ex- (out) + fari (to speak)",
+      "sentences": [
+        {
+          "en": "Watching the sunrise from the mountain top filled her with ______ joy.",
+          "zh": "在山頂看日出讓她感受到難以言喻的喜悅。"
+        },
+        {
+          "en": "The loss left the family with an ______ sadness that words could not capture.",
+          "zh": "這場失去讓這個家庭陷入言語無法表達的哀傷。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "16",
+        "spelling": "ex",
+        "meaning": "向外"
+      }
+    },
+    {
+      "word": "inevitable",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "sure, certain, unavoidable:",
+      "defn_zh": "不可避免的",
+      "root_note": "in- (not) + e- (out) + vitare (to shun)",
+      "sentences": [
+        {
+          "en": "Given his reckless driving, the accident seemed ______.",
+          "zh": "考量到他魯莽的駕駛方式,這場意外似乎是無法避免的。"
+        },
+        {
+          "en": "Change is ______ in any growing organization.",
+          "zh": "在任何持續成長的組織中,改變都是不可避免的。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "16",
+        "spelling": "ex",
+        "meaning": "向外"
+      }
+    },
+    {
+      "word": "inexpensive",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "not costly:",
+      "defn_zh": "不昂貴的/便宜的",
+      "root_note": "in- (not) + ex- (out) + pendere (to weigh)",
+      "sentences": [
+        {
+          "en": "The new Vietnamese restaurant down the street serves ______ but delicious meals.",
+          "zh": "街角那家新開的越南餐廳提供便宜卻美味的餐點。"
+        },
+        {
+          "en": "She found an ______ way to redecorate her entire apartment.",
+          "zh": "她找到了一種既便宜又能重新裝潢整間公寓的方法。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "16",
+        "spelling": "ex",
+        "meaning": "向外"
+      }
+    },
+    {
+      "word": "inexplicable",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "unable to be explained or understood; baffling:",
+      "defn_zh": "無法解釋的",
+      "root_note": "in- (not) + ex- (out) + plicare (to fold)",
+      "sentences": [
+        {
+          "en": "The disappearance of the airplane remains ______, despite extensive research.",
+          "zh": "儘管進行了廣泛的研究,這架飛機的失蹤原因至今仍無法解釋。"
+        },
+        {
+          "en": "My uncle's sudden departure from the family reunion was ______.",
+          "zh": "我叔叔在家庭聚會上突然離開,實在讓人無法理解。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "16",
+        "spelling": "ex",
+        "meaning": "向外"
+      }
+    },
+    {
+      "word": "inextricable",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "hopelessly tangled or entangled:",
+      "defn_zh": "無法解開的/密不可分的",
+      "root_note": "in- (not) + ex- (out) + tricae (snares, hindrances)",
+      "sentences": [
+        {
+          "en": "The two nations' economies had become ______ over decades of trade.",
+          "zh": "數十年的貿易往來讓這兩國的經濟變得密不可分。"
+        },
+        {
+          "en": "Her fate seemed ______ from that of the small village she grew up in.",
+          "zh": "她的命運似乎與她成長的這座小村莊密不可分。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "16",
+        "spelling": "ex",
+        "meaning": "向外"
+      }
+    }
+  ],
+  "family_options": {},
+  "fallback_options": {
+    "v.": [
+      {
+        "word": "abound",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to exist in great numbers:",
+        "defn_zh": "充滿"
+      },
+      {
+        "word": "abrogate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to deprive of legal force, to nullify:=abolish",
+        "defn_zh": "廢除/取消"
+      },
+      {
+        "word": "abjure",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to renounce, abstain from:",
+        "defn_zh": "發誓放棄/棄絕"
+      },
+      {
+        "word": "abbreviate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to shorten a word or phrase:",
+        "defn_zh": "縮寫;縮短"
+      },
+      {
+        "word": "abdicate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to give up a position, usually one of leadership:",
+        "defn_zh": "退位/放棄(職位)"
+      },
+      {
+        "word": "abduct",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to kidnap, take by force:",
+        "defn_zh": "綁架/劫持"
+      },
+      {
+        "word": "abhor",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to regard with disgust and hatred:",
+        "defn_zh": "憎惡/厭惡"
+      },
+      {
+        "word": "abnegate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to deny or renounce:",
+        "defn_zh": "放棄/克制"
+      },
+      {
+        "word": "abolish",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to formally put an end to a system, practice, or institution:",
+        "defn_zh": "廢除"
+      },
+      {
+        "word": "abort",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to give up on a half-finished project or effort:",
+        "defn_zh": "中止/放棄"
+      },
+      {
+        "word": "abrade",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to scrape or wear away by friction:",
+        "defn_zh": "磨損;擦傷"
+      },
+      {
+        "word": "abscond",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to sneak away and hide:",
+        "defn_zh": "潛逃/逃匿"
+      }
+    ],
+    "adj.": [
+      {
+        "word": "abortive",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "fruitless, failing:",
+        "defn_zh": "失敗的/夭折的"
+      },
+      {
+        "word": "abstemious",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "moderate in eating or drinking:",
+        "defn_zh": "飲食有節制的"
+      },
+      {
+        "word": "abhorrent",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "detestable, despised:",
+        "defn_zh": "令人厭惡的"
+      },
+      {
+        "word": "absurd",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "ridiculous:",
+        "defn_zh": "荒謬的"
+      },
+      {
+        "word": "aberrant",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "deviating from what is normal or expected:",
+        "defn_zh": "異常的;脫軌的"
+      },
+      {
+        "word": "abject",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "wretched, pitiful:",
+        "defn_zh": "卑賤的/淒慘的"
+      },
+      {
+        "word": "abominable",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "causing moral revulsion; extremely unpleasant:",
+        "defn_zh": "可憎的;惡劣的"
+      },
+      {
+        "word": "abounding",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "existing in large numbers or amounts:",
+        "defn_zh": "大量存在的;豐富的"
+      },
+      {
+        "word": "abrasive",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "showing little concern for others; harsh:",
+        "defn_zh": "粗暴的/刺耳的"
+      },
+      {
+        "word": "abrupt",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "sudden or unexpected; brief and curt in manner:",
+        "defn_zh": "突然的/唐突的"
+      },
+      {
+        "word": "abstract",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "existing purely in the mind; not representing actual reality:",
+        "defn_zh": "抽象的"
+      },
+      {
+        "word": "abstruse",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "hard to comprehend:",
+        "defn_zh": "深奧難懂的"
+      }
+    ],
+    "n.": [
+      {
+        "word": "aversion",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "strong dislike, opposition:",
+        "defn_zh": "厭惡/反感"
+      },
+      {
+        "word": "aberration",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "something that differs from the norm:",
+        "defn_zh": "異常/脫軌"
+      },
+      {
+        "word": "abjection",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a state of complete misery, hopelessness, or degradation:",
+        "defn_zh": "卑賤;悲慘狀態"
+      },
+      {
+        "word": "abjuration",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the solemn renunciation of a belief, cause, or claim:",
+        "defn_zh": "公開放棄;誓絕"
+      },
+      {
+        "word": "ablution",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the act of washing oneself, especially as part of a religious ritual:",
+        "defn_zh": "沐浴;淨身儀式"
+      },
+      {
+        "word": "abnegation",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "denial of comfort to oneself:",
+        "defn_zh": "自我克制/放棄"
+      },
+      {
+        "word": "abomination",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "something that causes disgust or hatred:",
+        "defn_zh": "可憎之事;令人厭惡的東西"
+      },
+      {
+        "word": "abridgement",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a shortened version of a book or other written work:",
+        "defn_zh": "節略本;縮減版"
+      },
+      {
+        "word": "absolution",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "freedom from blame, guilt, sin:",
+        "defn_zh": "赦免/免罪"
+      },
+      {
+        "word": "abstemiousness",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "moderation or self-restraint, especially in eating and drinking:",
+        "defn_zh": "節制;克己"
+      },
+      {
+        "word": "abstinence",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the practice of restraining oneself from something enjoyable, especially food, alcohol, or sex:",
+        "defn_zh": "節制;戒絕"
+      },
+      {
+        "word": "avocation",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a hobby or minor occupation apart from one's main career:",
+        "defn_zh": "副業;業餘愛好"
+      }
+    ],
+    "adv.": [
+      {
+        "word": "accordingly",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in a manner that fits the circumstances; consequently:",
+        "defn_zh": "相應地;因此"
+      },
+      {
+        "word": "inadvertently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "unintentionally or by accident:",
+        "defn_zh": "無意間/不小心地"
+      },
+      {
+        "word": "consequently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "as a result; therefore:",
+        "defn_zh": "因此;結果"
+      },
+      {
+        "word": "contemptuously",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "without respect; in a disdainful manner:",
+        "defn_zh": "輕蔑地"
+      },
+      {
+        "word": "involuntarily",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "done without conscious control:",
+        "defn_zh": "不由自主地"
+      },
+      {
+        "word": "cordially",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in a warm or friendly manner:",
+        "defn_zh": "誠摯地/友好地"
+      },
+      {
+        "word": "ipso facto",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "by that very fact or act:",
+        "defn_zh": "事實上;因此"
+      },
+      {
+        "word": "en passant",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in passing; incidentally:",
+        "defn_zh": "順帶一提地;偶然地"
+      },
+      {
+        "word": "regardless",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "despite the prevailing circumstances; without being deterred:",
+        "defn_zh": "不管怎樣;儘管如此"
+      },
+      {
+        "word": "subsequently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "afterward; following in time or order:",
+        "defn_zh": "隨後;其後"
+      },
+      {
+        "word": "aside",
+        "pos": "adv./n.",
+        "pos_key": "adv.",
+        "defn_en": "to or on one side; a remark not meant to be heard by everyone:",
+        "defn_zh": "在旁邊;旁白"
+      },
+      {
+        "word": "vice versa",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "with the order or meaning reversed; conversely:",
+        "defn_zh": "反之亦然"
+      }
+    ],
+    "other": [
+      {
+        "word": "（此批單字中，暫無符合此字根/字首的單字）",
+        "pos": "",
+        "pos_key": "other",
+        "defn_en": "",
+        "defn_zh": ""
+      }
+    ],
+    "prep./adv.": [
+      {
+        "word": "besides",
+        "pos": "prep./adv.",
+        "pos_key": "prep./adv.",
+        "defn_en": "in addition to; furthermore:",
+        "defn_zh": "除...之外;此外"
+      }
+    ],
+    "phrasalv.": [
+      {
+        "word": "egg on",
+        "pos": "phrasal v.",
+        "pos_key": "phrasalv.",
+        "defn_en": "to encourage someone to do something, often risky:",
+        "defn_zh": "慫恿;鼓動"
+      }
+    ],
+    "abbr.": [
+      {
+        "word": "etc.",
+        "pos": "abbr.",
+        "pos_key": "abbr.",
+        "defn_en": "and other similar things (abbreviation of et cetera):",
+        "defn_zh": "等等(et cetera的縮寫)"
+      }
+    ],
+    "interj.": [
+      {
+        "word": "fiddledeedee",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "an exclamation expressing dismissal of something as nonsense:",
+        "defn_zh": "廢話!(表示不屑一顧)"
+      },
+      {
+        "word": "gesundheit",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "an expression said to someone who has just sneezed:",
+        "defn_zh": "保重(打噴嚏後的祝福語)"
+      }
+    ],
+    "prep.": [
+      {
+        "word": "via",
+        "pos": "prep.",
+        "pos_key": "prep.",
+        "defn_en": "by way of; passing through:",
+        "defn_zh": "經由;透過"
+      }
+    ]
+  }
+}
