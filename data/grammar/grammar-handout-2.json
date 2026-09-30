@@ -1,0 +1,3195 @@
+{
+  "slug": "grammar-handout-2",
+  "title": "Verbs, Agreement, Modifiers & Transitions",
+  "description": "A comprehensive rule-by-rule grammar course covering verb forms, tense, agreement, modifiers, pronouns, and transitions.",
+  "source_url": "https://docs.google.com/document/d/1qCcGAN8IrGFEVWoBAYQyGCre3IC_cmtYWMPx_sDNLT8",
+  "section_count": 7,
+  "question_count": 119,
+  "sections": [
+    {
+      "number": 1,
+      "id": "focus-1-every-clause-needs-a-finite-main-verb",
+      "title": "Every Clause Needs a Finite (Main) Verb",
+      "explanation_en": "A finite verb shows tense and can serve as the main verb of a sentence: enters, entered, has used, explains, provided. Nonfinite forms cannot be the main verb on their own:",
+      "explanation_zh": "",
+      "examples": [
+        "✔ Embryos inside African turquoise killifish eggs enter a dormant state.",
+        "✘ Embryos inside African turquoise killifish eggs entering a dormant state. (fragment — no main verb)"
+      ],
+      "questions": [
+        {
+          "number": "1",
+          "source": "New practice item",
+          "passage": "The fossilized footprints discovered along a dry lakebed in New Mexico’s White Sands National Park, some dating back more than 21,000 years, ______ that humans reached North America earlier than once believed.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "suggesting"
+            },
+            {
+              "label": "B",
+              "text": "to suggest"
+            },
+            {
+              "label": "C",
+              "text": "suggest"
+            },
+            {
+              "label": "D",
+              "text": "having suggested"
+            }
+          ],
+          "correct": "C",
+          "explanation": "The long subject \"The fossilized footprints...\" still has no main verb. \"Suggest\" is finite and plural. The other choices are nonfinite and leave the sentence without a main verb."
+        },
+        {
+          "number": "2",
+          "source": "Official Digital SAT 2, Module 1, Q20 — also SAT 8 M2 Q19",
+          "passage": "To survive when water is scarce, embryos inside African turquoise killifish eggs ______ a dormant state known as diapause. In this state, embryonic development is paused for as long as two years—longer than the life span of an adult killifish.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "enter"
+            },
+            {
+              "label": "B",
+              "text": "to enter"
+            },
+            {
+              "label": "C",
+              "text": "having entered"
+            },
+            {
+              "label": "D",
+              "text": "entering"
+            }
+          ],
+          "correct": "A",
+          "explanation": "The subject \"embryos\" needs a main (finite) verb. \"Enter\" is a finite plural present-tense verb. The infinitive (B) and participles (C, D) cannot serve as the main verb, leaving the sentence incomplete."
+        },
+        {
+          "number": "3",
+          "source": "Official Digital SAT 2, Module 2, Q18",
+          "passage": "For thousands of years, people in the Americas ______ the bottle gourd, a large bitter fruit with a thick rind, to make bottles, other types of containers, and even musical instruments. Oddly, there is no evidence that any type of bottle gourd is native to the Western Hemisphere; either the fruit or its seeds must have somehow been carried from Asia or Africa.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "to use"
+            },
+            {
+              "label": "B",
+              "text": "have used"
+            },
+            {
+              "label": "C",
+              "text": "having used"
+            },
+            {
+              "label": "D",
+              "text": "using"
+            }
+          ],
+          "correct": "B",
+          "explanation": "The subject \"people\" needs a finite main verb. \"Have used\" is finite, and the present perfect fits an action continuing \"for thousands of years.\" A, C, and D are nonfinite and leave the sentence without a main verb."
+        },
+        {
+          "number": "4",
+          "source": "Official Digital SAT 3, Module 2, Q19",
+          "passage": "Even though bats prefer very sweet nectar, the plants that attract them have evolved to produce nectar that is only moderately sweet. A recent study ______ why: making sugar is energy-intensive, and it is more advantageous for plants to make a large amount of low-sugar nectar than a small amount of high-sugar nectar.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "explains"
+            },
+            {
+              "label": "B",
+              "text": "explaining"
+            },
+            {
+              "label": "C",
+              "text": "having explained"
+            },
+            {
+              "label": "D",
+              "text": "to explain"
+            }
+          ],
+          "correct": "A",
+          "explanation": "The subject \"A recent study\" needs a finite main verb: \"explains.\" The other choices are nonfinite."
+        },
+        {
+          "number": "5",
+          "source": "Official Digital SAT 5, Module 1, Q21",
+          "passage": "In 1929, Edwin Herbert Land invented a polarizing filter that was featured in a number of products, from sunglasses to 3D movies. A decade later, Land ______ his technology to invent the world’s first instant camera, the Polaroid Land camera.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "used"
+            },
+            {
+              "label": "B",
+              "text": "to have used"
+            },
+            {
+              "label": "C",
+              "text": "to use"
+            },
+            {
+              "label": "D",
+              "text": "using"
+            }
+          ],
+          "correct": "A",
+          "explanation": "The subject \"Land\" needs a finite main verb. \"Used\" is finite and in the past tense, matching \"invented\" and \"a decade later.\""
+        },
+        {
+          "number": "6",
+          "source": "Official Digital SAT 5, Module 2, Q18",
+          "passage": "How did whales, once no bigger than seals, evolve to become the largest animals on Earth? Brazilian biologist Mariana Nery believes the answer might be found in whales’ DNA. In January 2023, Nery and her colleagues ______ a study showing changes over time in four whale genes associated with body size.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "published"
+            },
+            {
+              "label": "B",
+              "text": "publishing"
+            },
+            {
+              "label": "C",
+              "text": "having published"
+            },
+            {
+              "label": "D",
+              "text": "to publish"
+            }
+          ],
+          "correct": "A",
+          "explanation": "The subject \"Nery and her colleagues\" needs a finite main verb; \"published\" is finite and past tense (January 2023)."
+        },
+        {
+          "number": "7",
+          "source": "Official Digital SAT 8, Module 2, Q22",
+          "passage": "In 1966, Emmett Ashford became the first African American to umpire a Major League Baseball game. His energetic gestures announcing when a player had struck out and his habit of barreling after a hit ball to see if it would land out of ______ transform the traditionally solemn umpire role into a dynamic one.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "bounds helped"
+            },
+            {
+              "label": "B",
+              "text": "bounds, helping"
+            },
+            {
+              "label": "C",
+              "text": "bounds that helped"
+            },
+            {
+              "label": "D",
+              "text": "bounds to help"
+            }
+          ],
+          "correct": "A",
+          "explanation": "The compound subject (\"His energetic gestures...and his habit...\") needs a finite main verb: \"helped.\" The other choices are nonfinite or create a relative clause, leaving the sentence without a main verb."
+        },
+        {
+          "number": "8",
+          "source": "Official Digital SAT 3, Module 1, Q20 — also SAT 9 M1 Q19",
+          "passage": "A member of the Cherokee Nation, Mary Golda Ross is renowned for her contributions to NASA’s Planetary Flight Handbook, which ______ detailed mathematical guidance for missions to Mars and Venus.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "provided"
+            },
+            {
+              "label": "B",
+              "text": "having provided"
+            },
+            {
+              "label": "C",
+              "text": "to provide"
+            },
+            {
+              "label": "D",
+              "text": "providing"
+            }
+          ],
+          "correct": "A",
+          "explanation": "The relative clause \"which [blank] detailed mathematical guidance\" needs a finite verb. \"Provided\" is finite; the other choices are nonfinite and leave the clause without a verb."
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "id": "focus-2-nonfinite-verbs-used-correctly-participles-infinitives-absolute-phrase",
+      "title": "Nonfinite Verbs Used Correctly (Participles, Infinitives, Absolute Phrases, Parallel Verbs)",
+      "explanation_en": "When a sentence already has its main verb, additional verb forms must be nonfinite. The SAT tests six patterns:",
+      "explanation_zh": "",
+      "examples": [
+        "Describes the subject or shows a result",
+        "…snow and ice cover, forcing the monkeys to hunt for marine animals."
+      ],
+      "questions": [
+        {
+          "number": "9",
+          "source": "Official Digital SAT 9, Module 1, Q25",
+          "passage": "Recent pollen analyses of the Aran Islands have led some researchers to propose that the now treeless islands were once wooded. This hypothesis ______ that certain trees, such as P. sylvestris, survived without interruption or human intervention throughout the Holocene cannot stand, researchers Michael O’Connell and Karen Molloy counter, unless other explanations can first be ruled out.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "suggesting"
+            },
+            {
+              "label": "B",
+              "text": "suggested"
+            },
+            {
+              "label": "C",
+              "text": "suggests"
+            },
+            {
+              "label": "D",
+              "text": "has suggested"
+            }
+          ],
+          "correct": "A",
+          "explanation": "The main verb of the sentence is \"cannot stand.\" \"Suggesting that...\" is a participial phrase modifying \"This hypothesis.\" A finite verb (B, C, D) would give the subject two main verbs."
+        },
+        {
+          "number": "10",
+          "source": "Official Digital SAT 5, Module 2, Q25",
+          "passage": "American abstract artist Richard ______ his installations to make passersby keenly aware of how one’s movements are affected by the physical features of one’s environment, assembles large-scale steel plates into sculptures that dominate the outdoor spaces they occupy.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Serra is intending"
+            },
+            {
+              "label": "B",
+              "text": "Serra, intends"
+            },
+            {
+              "label": "C",
+              "text": "Serra, intending"
+            },
+            {
+              "label": "D",
+              "text": "Serra intends"
+            }
+          ],
+          "correct": "C",
+          "explanation": "The main verb is \"assembles.\" The words between the commas must be a nonessential participial phrase (\"intending his installations to...\"), so \"Serra, intending\" is correct. A finite verb (A, B, D) would create two main verbs."
+        },
+        {
+          "number": "11",
+          "source": "Official Digital SAT 10, Module 1, Q22",
+          "passage": "In winter, the diets of Japanese macaques, also known as snow monkeys, are influenced more by food availability than by food preference. Although the monkeys prefer to eat vegetation and land-dwelling invertebrates, those food sources may become unavailable because of extensive snow and ice cover, ______ the monkeys to hunt for marine animals in any streams that have not frozen over.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "forces"
+            },
+            {
+              "label": "B",
+              "text": "to force"
+            },
+            {
+              "label": "C",
+              "text": "forcing"
+            },
+            {
+              "label": "D",
+              "text": "forced"
+            }
+          ],
+          "correct": "C",
+          "explanation": "\"Forcing the monkeys to hunt...\" is a participial phrase describing the result of the snow cover; it attaches with a comma. A finite verb (A, D) would create a comma splice; \"to force\" suggests purpose, which is illogical."
+        },
+        {
+          "number": "12",
+          "source": "Official Digital SAT 6, Module 1, Q19",
+          "passage": "The Boston Saloon was one of the most popular African American–owned establishments in nineteenth-century Nevada. ______ by businessman William A.G. Brown, the saloon was known to offer elegant accommodations and an inclusive environment.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Created"
+            },
+            {
+              "label": "B",
+              "text": "Creates"
+            },
+            {
+              "label": "C",
+              "text": "Creating"
+            },
+            {
+              "label": "D",
+              "text": "Create"
+            }
+          ],
+          "correct": "A",
+          "explanation": "The introductory phrase modifies \"the saloon,\" which was created (passive meaning) by Brown. The past participle \"Created\" expresses this. \"Creating\" would mean the saloon did the creating; B and D are finite verbs that don't fit an introductory modifier."
+        },
+        {
+          "number": "13",
+          "source": "Official Digital SAT 7, Module 1, Q23",
+          "passage": "Featuring jagged peaks of black ink surrounded by hazy swirls of blue and green paint, Zhang Daqian’s 1983 painting Panorama of Mount Lu is inspired by the tradition of qinglü shanshui, a type of Chinese landscape painting ______ by the use of blue and green hues to depict ethereal, otherworldly landscapes.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "has been characterized"
+            },
+            {
+              "label": "B",
+              "text": "will be characterized"
+            },
+            {
+              "label": "C",
+              "text": "characterized"
+            },
+            {
+              "label": "D",
+              "text": "is characterized"
+            }
+          ],
+          "correct": "C",
+          "explanation": "\"Characterized by...\" is a past-participle phrase modifying \"a type of Chinese landscape painting.\" A finite verb (A, B, D) would create a second main verb inside the appositive."
+        },
+        {
+          "number": "14",
+          "source": "Official Digital SAT 9, Module 2, Q25",
+          "passage": "In the late nineteenth and early twentieth centuries, automobiles were commonly referred to as horseless carriages after the older technology they still resembled. Known as the Brass Era, this period in automotive design is remembered for its grandeur and artistry, its vehicles ______ by collectors for their ornate detailing and gleaming brass fittings.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "are highly prized"
+            },
+            {
+              "label": "B",
+              "text": "had been highly prized"
+            },
+            {
+              "label": "C",
+              "text": "highly prized"
+            },
+            {
+              "label": "D",
+              "text": "were highly prized"
+            }
+          ],
+          "correct": "C",
+          "explanation": "\"Its vehicles highly prized by collectors...\" is an absolute phrase (noun + participle) attached with a comma. A finite verb (A, B, D) would create a comma splice."
+        },
+        {
+          "number": "15",
+          "source": "Official Digital SAT 4, Module 2, Q24",
+          "passage": "Working from an earlier discovery of Charpentier’s, chemists Emmanuelle Charpentier and Jennifer Doudna—winners of the 2020 Nobel Prize in Chemistry—re-created and then reprogrammed the so-called “genetic scissors” of a species of DNA-cleaving bacteria ______ a tool that is revolutionizing the field of gene technology.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "to forge"
+            },
+            {
+              "label": "B",
+              "text": "forging"
+            },
+            {
+              "label": "C",
+              "text": "forged"
+            },
+            {
+              "label": "D",
+              "text": "and forging"
+            }
+          ],
+          "correct": "A",
+          "explanation": "The infinitive \"to forge\" expresses purpose (they reprogrammed the scissors in order to forge a tool). \"Forging\" (B) would illogically modify \"bacteria,\" and C/D create faulty structure."
+        },
+        {
+          "number": "16",
+          "source": "Official Digital SAT 9, Module 2, Q20",
+          "passage": "In the historical novel The Surrender Tree, Cuban American author Margarita Engle uses poetry rather than prose ______ the true story of Cuban folk hero Rosa La Bayamesa.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "tells"
+            },
+            {
+              "label": "B",
+              "text": "told"
+            },
+            {
+              "label": "C",
+              "text": "is telling"
+            },
+            {
+              "label": "D",
+              "text": "to tell"
+            }
+          ],
+          "correct": "D",
+          "explanation": "The infinitive \"to tell\" expresses purpose (she uses poetry in order to tell the story). The sentence already has its main verb, \"uses.\""
+        },
+        {
+          "number": "17",
+          "source": "Official Digital SAT 7, Module 2, Q19",
+          "passage": "Nowadays, tug-of-war is usually seen as an informal game one might play at a picnic or in gym class. Surprisingly, the Olympic committee once decided ______ tug-of-war as an official Olympic event! Nations competed in the event at the Olympic Games from 1900 to 1920.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "included"
+            },
+            {
+              "label": "B",
+              "text": "including"
+            },
+            {
+              "label": "C",
+              "text": "include"
+            },
+            {
+              "label": "D",
+              "text": "to include"
+            }
+          ],
+          "correct": "D",
+          "explanation": "The verb \"decide\" is followed by an infinitive (decide to do something), so \"to include\" is correct."
+        },
+        {
+          "number": "18",
+          "source": "Official Digital SAT 8, Module 1, Q20",
+          "passage": "In order to prevent nonnative fish species from moving freely between the Mediterranean and Red Seas, marine biologist Bella Galil has proposed that a saline lock system be installed along the Suez Canal in Egypt’s Great Bitter Lakes. The lock would increase the salinity of the lakes and ______ a natural barrier of water most marine creatures would be unable to cross.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "creates"
+            },
+            {
+              "label": "B",
+              "text": "create"
+            },
+            {
+              "label": "C",
+              "text": "creating"
+            },
+            {
+              "label": "D",
+              "text": "created"
+            }
+          ],
+          "correct": "B",
+          "explanation": "The verb is parallel with \"increase\" after the modal \"would\" (would increase...and create), so the base form \"create\" is required."
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "id": "focus-3-verb-tense",
+      "title": "Verb Tense",
+      "explanation_en": "Tense questions are solved with time clues in the passage—dates, words like today, since, by the end of, now, and the tense of nearby verbs.",
+      "explanation_zh": "",
+      "examples": [
+        "General facts, repeated processes, current states; describing books, art, documents (literary present)",
+        "\"Atoms...travel faster until they reach...\"; \"Today, Paik is considered...\"; \"Linda experiences...\" (novel)"
+      ],
+      "questions": [
+        {
+          "number": "19",
+          "source": "Official Digital SAT 7, Module 2, Q20",
+          "passage": "The Globe Theatre in London is a reconstruction of the famed venue where many of Shakespeare’s plays were first performed. In 1613, a prop cannon ______ during a performance and ignited the Globe’s thatched roof. No one was hurt, but in two hours the original Globe was gone.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "malfunctions"
+            },
+            {
+              "label": "B",
+              "text": "will malfunction"
+            },
+            {
+              "label": "C",
+              "text": "has malfunctioned"
+            },
+            {
+              "label": "D",
+              "text": "malfunctioned"
+            }
+          ],
+          "correct": "D",
+          "explanation": "The event occurred \"in 1613\" and is parallel with \"ignited,\" so the simple past \"malfunctioned\" is correct."
+        },
+        {
+          "number": "20",
+          "source": "Official Digital SAT 7, Module 1, Q21",
+          "passage": "The Dust Bowl was a period of severe drought that plagued the Great Plains of the US during the 1930s. During this time, dust storms ______ over 100 million acres of land. They even reached as far east as New York City.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "are affecting"
+            },
+            {
+              "label": "B",
+              "text": "will have affected"
+            },
+            {
+              "label": "C",
+              "text": "will affect"
+            },
+            {
+              "label": "D",
+              "text": "affected"
+            }
+          ],
+          "correct": "D",
+          "explanation": "The events happened in the 1930s (\"was,\" \"plagued,\" \"reached\"), so the simple past \"affected\" is correct."
+        },
+        {
+          "number": "21",
+          "source": "Official Digital SAT 2, Module 2, Q20",
+          "passage": "In the 1950s, a man named Joseph McVicker was struggling to keep his business afloat when his sister-in-law Kay Zufall advised him to repurpose the company’s product, a nontoxic, clay-like substance for removing soot from wallpaper, as a modeling putty for kids. In addition, Zufall ______ selling the product under a child-friendly name: Play-Doh.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "suggested"
+            },
+            {
+              "label": "B",
+              "text": "suggests"
+            },
+            {
+              "label": "C",
+              "text": "had suggested"
+            },
+            {
+              "label": "D",
+              "text": "was suggesting"
+            }
+          ],
+          "correct": "A",
+          "explanation": "The story is told in the simple past (\"advised\"). Zufall's suggestion is another completed past action in sequence, so the simple past \"suggested\" is consistent."
+        },
+        {
+          "number": "22",
+          "source": "Official Digital SAT 2, Module 1, Q21 — also SAT 8 M2 Q20",
+          "passage": "Formed in 1967 to foster political and economic stability within the Asia-Pacific region, the Association of Southeast Asian Nations was originally made up of five members: Thailand, the Philippines, Singapore, Malaysia, and Indonesia. By the end of the 1990s, the organization ______ its initial membership.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "has doubled"
+            },
+            {
+              "label": "B",
+              "text": "had doubled"
+            },
+            {
+              "label": "C",
+              "text": "doubles"
+            },
+            {
+              "label": "D",
+              "text": "will double"
+            }
+          ],
+          "correct": "B",
+          "explanation": "\"By the end of the 1990s\" marks an action completed before a specific past point, which requires the past perfect \"had doubled.\""
+        },
+        {
+          "number": "23",
+          "source": "New practice item",
+          "passage": "Since its founding in 1998, the observatory ______ more than 40 previously unknown near-Earth asteroids.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "discovers"
+            },
+            {
+              "label": "B",
+              "text": "has discovered"
+            },
+            {
+              "label": "C",
+              "text": "will discover"
+            },
+            {
+              "label": "D",
+              "text": "had been discovering"
+            }
+          ],
+          "correct": "B",
+          "explanation": "\"Since 1998\" describes an action that began in the past and continues up to now, which requires the present perfect \"has discovered.\" The past perfect (D) needs a later past reference point."
+        },
+        {
+          "number": "24",
+          "source": "Official Digital SAT 10, Module 2, Q21",
+          "passage": "In his 1963 exhibition Exposition of Music—Electronic Television, Korean American artist Nam June Paik showed how television images could be manipulated to express an artist’s perspective. Today, Paik ______ considered the first video artist.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "will be"
+            },
+            {
+              "label": "B",
+              "text": "had been"
+            },
+            {
+              "label": "C",
+              "text": "was"
+            },
+            {
+              "label": "D",
+              "text": "is"
+            }
+          ],
+          "correct": "D",
+          "explanation": "\"Today\" signals the present, so the simple present \"is\" is correct."
+        },
+        {
+          "number": "25",
+          "source": "Official Digital SAT 4, Module 1, Q20",
+          "passage": "Like other amphibians, the wood frog (Rana sylvatica) is unable to generate its own heat, so during periods of subfreezing temperatures, it ______ by producing large amounts of glucose, a sugar that helps prevent damaging ice from forming inside its cells.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "had survived"
+            },
+            {
+              "label": "B",
+              "text": "survived"
+            },
+            {
+              "label": "C",
+              "text": "would survive"
+            },
+            {
+              "label": "D",
+              "text": "survives"
+            }
+          ],
+          "correct": "D",
+          "explanation": "The text states a general scientific fact in the present tense (\"is unable\"), so the simple present \"survives\" is consistent."
+        },
+        {
+          "number": "26",
+          "source": "Official Digital SAT 3, Module 2, Q18 — also SAT 10 M2 Q20",
+          "passage": "Atoms in a synchrotron, a type of circular particle accelerator, travel faster and faster until they ______ a desired energy level, at which point they are diverted to collide with a target, smashing the atoms.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "will reach"
+            },
+            {
+              "label": "B",
+              "text": "reach"
+            },
+            {
+              "label": "C",
+              "text": "had reached"
+            },
+            {
+              "label": "D",
+              "text": "are reaching"
+            }
+          ],
+          "correct": "B",
+          "explanation": "The text describes a general, repeated process in the simple present (\"travel,\" \"are diverted\"), so the simple present \"reach\" is consistent."
+        },
+        {
+          "number": "27",
+          "source": "Official Digital SAT 2, Module 1, Q23 — also SAT 10 M1 Q24",
+          "passage": "Food and the sensation of taste are central to Monique Truong’s novels. In The Book of Salt, for example, the exiled character of Bình connects to his native Saigon through the food he prepares, while in Bitter in the Mouth, the character of Linda ______ a form of synesthesia whereby the words she hears evoke tastes.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "experienced"
+            },
+            {
+              "label": "B",
+              "text": "had experienced"
+            },
+            {
+              "label": "C",
+              "text": "experiences"
+            },
+            {
+              "label": "D",
+              "text": "will be experiencing"
+            }
+          ],
+          "correct": "C",
+          "explanation": "The sentence uses the literary present (\"connects\") to describe events in novels. The parallel verb for Linda must also be simple present: \"experiences.\""
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "id": "focus-4-subjectverb-agreement",
+      "title": "Subject–Verb Agreement",
+      "explanation_en": "A verb must agree in number with its true subject—not with the noun closest to it. The SAT hides the subject in several ways:",
+      "explanation_zh": "",
+      "examples": [
+        "Long interrupter between subject and verb",
+        "Such objects, depicted in exquisite detail by Vermeer, a painter celebrated for his naturalism, [blank]"
+      ],
+      "questions": [
+        {
+          "number": "28",
+          "source": "Official Digital SAT 7, Module 1, Q19",
+          "passage": "One of the earliest known maps is a Babylonian clay tablet thought to be almost 4,500 years old. The map ______ the area of a plot of land, shows a river valley, and includes the cardinal directions.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "describes"
+            },
+            {
+              "label": "B",
+              "text": "describe"
+            },
+            {
+              "label": "C",
+              "text": "have described"
+            },
+            {
+              "label": "D",
+              "text": "are describing"
+            }
+          ],
+          "correct": "A",
+          "explanation": "The subject \"The map\" is singular, and the other verbs in the series (\"shows,\" \"includes\") are singular simple present. \"Describes\" agrees and keeps the series parallel."
+        },
+        {
+          "number": "29",
+          "source": "Official Digital SAT 4, Module 1, Q22",
+          "passage": "In many of her landscape paintings from the 1970s and 1980s, Lebanese American artist Etel Adnan worked to capture the essence of California’s fog-shrouded Mount Tamalpais region through abstraction, using splotches of color to represent the area’s features. Interestingly, the triangle representing the mountain itself ______ among the few defined figures in her paintings.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "are"
+            },
+            {
+              "label": "B",
+              "text": "have been"
+            },
+            {
+              "label": "C",
+              "text": "were"
+            },
+            {
+              "label": "D",
+              "text": "is"
+            }
+          ],
+          "correct": "D",
+          "explanation": "The subject is the singular \"the triangle\" (ignore \"representing the mountain itself\"), so the singular \"is\" is needed. Present tense suits describing existing paintings."
+        },
+        {
+          "number": "30",
+          "source": "Official Digital SAT 3, Module 1, Q24",
+          "passage": "Bengali author Toru Dutt’s A Sheaf Gleaned in French Fields (1876), a volume of English translations of French poems, ______ scholars’ understanding of the transnational and multilingual contexts in which Dutt lived and worked.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "has enhanced"
+            },
+            {
+              "label": "B",
+              "text": "are enhancing"
+            },
+            {
+              "label": "C",
+              "text": "have enhanced"
+            },
+            {
+              "label": "D",
+              "text": "enhance"
+            }
+          ],
+          "correct": "A",
+          "explanation": "The subject is the singular book title \"A Sheaf Gleaned in French Fields\" (ignore the appositive and \"poems\"). It takes the singular verb \"has enhanced.\""
+        },
+        {
+          "number": "31",
+          "source": "Official Digital SAT 5, Module 1, Q24",
+          "passage": "In the music video for the song “We Didn’t Start the Fire” by Billy Joel, the singer lists 118 political and cultural references. Such iconic references, cited in rapid and frenetic procession by the musician, who is seated impassively at a dinner table, ______ key moments and personalities of the twentieth century.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "represents"
+            },
+            {
+              "label": "B",
+              "text": "has represented"
+            },
+            {
+              "label": "C",
+              "text": "was representing"
+            },
+            {
+              "label": "D",
+              "text": "represent"
+            }
+          ],
+          "correct": "D",
+          "explanation": "The subject is the plural \"Such iconic references\" (the long interrupter doesn't change it), so the plural verb \"represent\" is needed."
+        },
+        {
+          "number": "32",
+          "source": "Official Digital SAT 5, Module 2, Q24",
+          "passage": "In her 1983 book The Managed Heart: Commercialization of Human Feeling, sociologist Arlie Russell Hochschild first explored at length her conception of a “sociology of emotions”—the idea that the various cultural and ideological frameworks a person has internalized (class, gender, political affiliation, etc.) ______ each emotional reaction that person has within a situation.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "underlies"
+            },
+            {
+              "label": "B",
+              "text": "is underlying"
+            },
+            {
+              "label": "C",
+              "text": "underlie"
+            },
+            {
+              "label": "D",
+              "text": "has been underlying"
+            }
+          ],
+          "correct": "C",
+          "explanation": "The subject is the plural \"the various cultural and ideological frameworks,\" so the plural verb \"underlie\" is required. Present tense fits a general idea."
+        },
+        {
+          "number": "33",
+          "source": "Official Digital SAT 6, Module 1, Q23",
+          "passage": "In a painting titled “The Milkmaid” by Johannes Vermeer, the artist prominently features a bread basket, milk pitcher, and bowl. Such quotidian objects, depicted in exquisite detail by Vermeer, a painter celebrated for his naturalism, ______ the daily minutiae of a seventeenth-century Dutch household.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "was revealing"
+            },
+            {
+              "label": "B",
+              "text": "has revealed"
+            },
+            {
+              "label": "C",
+              "text": "reveals"
+            },
+            {
+              "label": "D",
+              "text": "reveal"
+            }
+          ],
+          "correct": "D",
+          "explanation": "The subject is the plural \"Such quotidian objects\" (ignore the long interrupter), so the plural verb \"reveal\" is needed."
+        },
+        {
+          "number": "34",
+          "source": "Official Digital SAT 6, Module 2, Q26",
+          "passage": "A species of Byropsis algae produces toxins to avoid being eaten by predators. However, in some cases, the toxins the organism uses to protect itself from predation actually ______ its attractiveness to predators. The Hawaiian sea slug, for example, not only tolerates Byropsis toxins but actually uses them for protection in the same way the algae does.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "is increasing"
+            },
+            {
+              "label": "B",
+              "text": "increase"
+            },
+            {
+              "label": "C",
+              "text": "increases"
+            },
+            {
+              "label": "D",
+              "text": "has increased"
+            }
+          ],
+          "correct": "B",
+          "explanation": "The subject is the plural \"the toxins\" (not \"the organism\" in the relative clause), so the plural verb \"increase\" is needed."
+        },
+        {
+          "number": "35",
+          "source": "Official Digital SAT 8, Module 1, Q23",
+          "passage": "Increased gender diversity is revitalizing the field of economics, according to Harvard’s Claudia Goldin. The trailblazing accomplishments of Goldin, winner of the 2023 Nobel Prize in Economics for her work on women in the labor force, ______ to the value of scholars of diverse backgrounds in spurring research into previously unexplored, but vitally important, topics.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "attests"
+            },
+            {
+              "label": "B",
+              "text": "has attested"
+            },
+            {
+              "label": "C",
+              "text": "is attesting"
+            },
+            {
+              "label": "D",
+              "text": "attest"
+            }
+          ],
+          "correct": "D",
+          "explanation": "The subject is the plural \"accomplishments\" (not \"Goldin\"), so the plural verb \"attest\" is required."
+        },
+        {
+          "number": "36",
+          "source": "Official Digital SAT 9, Module 2, Q21",
+          "passage": "Interest in mechanotransduction, the mechanism by which cells sense and convert mechanical stimuli into biochemical signals, is expanding because of innovative work by biomedical scientists—many of whom, like neuroscience and biophysics expert Elba Serrano, ______ this mechanism to better understand how the body’s neurological and biomechanical systems interact.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "is studying"
+            },
+            {
+              "label": "B",
+              "text": "has studied"
+            },
+            {
+              "label": "C",
+              "text": "study"
+            },
+            {
+              "label": "D",
+              "text": "studies"
+            }
+          ],
+          "correct": "C",
+          "explanation": "The subject is \"many of whom\" (many scientists), which is plural; \"like...Elba Serrano\" is an interrupter. The plural verb \"study\" is required."
+        },
+        {
+          "number": "37",
+          "source": "Official Digital SAT 9, Module 1, Q26",
+          "passage": "Researchers studying the “terra-cotta army,” the thousands of life-size statues of warriors found interred near the tomb of Emperor Qin Shi Huang of China, were shocked to realize that the shape of each statue’s ears, like the shape of each person’s ears, ______ unique.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "are"
+            },
+            {
+              "label": "B",
+              "text": "is"
+            },
+            {
+              "label": "C",
+              "text": "were"
+            },
+            {
+              "label": "D",
+              "text": "have been"
+            }
+          ],
+          "correct": "B",
+          "explanation": "The subject is \"the shape\" (singular), not \"ears\"; the comparison phrase is an interrupter. The fact is permanently true, so the singular present \"is\" is correct."
+        },
+        {
+          "number": "38",
+          "source": "Official Digital SAT 5, Module 1, Q22",
+          "passage": "An online content creator who uses copyrighted songs without permission risks being demonetized (prohibited from including paid advertisements in content). The best way to avoid demonetization is to choose music from the public domain. Using one of these noncopyrighted songs ______ a creator won’t lose advertising revenue.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "are ensuring"
+            },
+            {
+              "label": "B",
+              "text": "have ensured"
+            },
+            {
+              "label": "C",
+              "text": "ensure"
+            },
+            {
+              "label": "D",
+              "text": "ensures"
+            }
+          ],
+          "correct": "D",
+          "explanation": "The subject is the gerund phrase \"Using one of these noncopyrighted songs,\" which is singular, so it takes the singular verb \"ensures.\""
+        },
+        {
+          "number": "39",
+          "source": "Official Digital SAT 9, Module 1, Q20",
+          "passage": "The classic children’s board game Chutes and Ladders is a version of an ancient Nepalese game, Paramapada Sopanapata. In both games, players encounter “good” or “bad” spaces while traveling along a path; landing on one of the good spaces ______ a player to skip ahead and arrive closer to the end goal.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "allows"
+            },
+            {
+              "label": "B",
+              "text": "are allowing"
+            },
+            {
+              "label": "C",
+              "text": "have allowed"
+            },
+            {
+              "label": "D",
+              "text": "allow"
+            }
+          ],
+          "correct": "A",
+          "explanation": "The subject is the gerund phrase \"landing on one of the good spaces,\" which is singular (not \"spaces\"), so the singular \"allows\" is correct."
+        },
+        {
+          "number": "40",
+          "source": "Official Digital SAT 3, Module 2, Q24",
+          "passage": "The Progressive Era in the United States witnessed the rise of numerous Black women’s clubs, local organizations that advocated for racial and gender equality. Among the clubs’ leaders ______ Josephine St. Pierre Ruffin, founder of the Women’s Era Club of Boston.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "was"
+            },
+            {
+              "label": "B",
+              "text": "were"
+            },
+            {
+              "label": "C",
+              "text": "are"
+            },
+            {
+              "label": "D",
+              "text": "have been"
+            }
+          ],
+          "correct": "A",
+          "explanation": "The sentence is inverted; the true subject is the singular \"Josephine St. Pierre Ruffin\" (not \"leaders\"). The historical context calls for past tense, so \"was.\""
+        },
+        {
+          "number": "41",
+          "source": "Official Digital SAT 3, Module 2, Q20 — also SAT 10 M2 Q22",
+          "passage": "Former First Lady of the United States Eleanor Roosevelt and Indian activist and educator Hansa Mehta were instrumental in drafting the United Nations’ Universal Declaration of Human Rights, a document that ______ the basic freedoms to which all people are entitled.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "have outlined"
+            },
+            {
+              "label": "B",
+              "text": "were outlining"
+            },
+            {
+              "label": "C",
+              "text": "outlines"
+            },
+            {
+              "label": "D",
+              "text": "outline"
+            }
+          ],
+          "correct": "C",
+          "explanation": "The relative pronoun \"that\" refers to the singular \"a document,\" so the singular verb \"outlines\" is required. The present tense suits a document that still exists."
+        },
+        {
+          "number": "42",
+          "source": "Official Digital SAT 6, Module 1, Q21",
+          "passage": "“He was just the man for such a place, and it was just the place for such a man.” This line is from Frederick Douglass’s autobiography Narrative of the Life of Frederick Douglass (1845). It’s an example of antimetabole, a writing technique that ______ emphasis by repeating a statement in a reversed order.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "create"
+            },
+            {
+              "label": "B",
+              "text": "are creating"
+            },
+            {
+              "label": "C",
+              "text": "have created"
+            },
+            {
+              "label": "D",
+              "text": "creates"
+            }
+          ],
+          "correct": "D",
+          "explanation": "\"That\" refers to the singular \"a writing technique,\" so the singular present-tense \"creates\" is correct (general definition)."
+        },
+        {
+          "number": "43",
+          "source": "Official Digital SAT 10, Module 1, Q27",
+          "passage": "The ghazal, a poetic form originating in seventh‑century Arabic poetry, has an intricate structure. The twentieth‑century Kashmiri American poet Agha Shahid Ali explains that each one of a ghazal’s couplets, while adhering to the patterns of rhyme (qafia) and refrain (radif) established in the poem’s opening lines (matla), ______ thematically and logically autonomous, resulting in a poem with “a stringently formal disunity.”",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "is"
+            },
+            {
+              "label": "B",
+              "text": "were"
+            },
+            {
+              "label": "C",
+              "text": "have been"
+            },
+            {
+              "label": "D",
+              "text": "are"
+            }
+          ],
+          "correct": "A",
+          "explanation": "The subject is \"each one\" (singular), not \"couplets.\" The present tense matches \"explains\" and a general description, so \"is\" is correct."
+        },
+        {
+          "number": "44",
+          "source": "Official Digital SAT 10, Module 2, Q24",
+          "passage": "Mathematician Grigori Perelman, sometimes in conjunction with mathematicians Richard S. Hamilton and Shing-Tung Yau, ______ credited with proving the Poincaré conjecture. Having built on Hamilton’s previous work to solve the proof, Perelman has insisted that Hamilton receive credit. Yau later found and closed gaps in Perelman’s proof, persuading some mathematicians that he deserves credit as well.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "are"
+            },
+            {
+              "label": "B",
+              "text": "have been"
+            },
+            {
+              "label": "C",
+              "text": "are being"
+            },
+            {
+              "label": "D",
+              "text": "is"
+            }
+          ],
+          "correct": "D",
+          "explanation": "The subject is the singular \"Grigori Perelman\"; the phrase \"sometimes in conjunction with...\" is an interrupter and does not make the subject plural. So the singular \"is\" is required."
+        },
+        {
+          "number": "45",
+          "source": "Official Digital SAT 8, Module 1, Q19",
+          "passage": "When writing The Other Black Girl (2021), novelist Zakiya Dalila Harris drew on her own experiences working at a publishing office. The award-winning book is Harris’s first novel, but her writing ______ honored before. At the age of twelve, she entered a contest to have a story published in American Girl magazine—and won.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "were"
+            },
+            {
+              "label": "B",
+              "text": "have been"
+            },
+            {
+              "label": "C",
+              "text": "has been"
+            },
+            {
+              "label": "D",
+              "text": "are"
+            }
+          ],
+          "correct": "C",
+          "explanation": "The subject \"her writing\" is singular, and \"before\" signals an experience up to now, so the singular present perfect \"has been\" is correct."
+        },
+        {
+          "number": "46",
+          "source": "New practice item",
+          "passage": "The committee of researchers from three universities ______ its final report on coastal erosion next spring.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "plan to publish"
+            },
+            {
+              "label": "B",
+              "text": "are planning to publish"
+            },
+            {
+              "label": "C",
+              "text": "plans to publish"
+            },
+            {
+              "label": "D",
+              "text": "have planned to publish"
+            }
+          ],
+          "correct": "C",
+          "explanation": "The subject is the singular collective noun \"committee\" (not \"researchers\" or \"universities\"), and the pronoun \"its\" confirms it is treated as a single unit. Only \"plans\" is singular."
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "id": "focus-5-pronoun-and-determiner-agreement",
+      "title": "Pronoun and Determiner Agreement",
+      "explanation_en": "A pronoun (it, they, them, this, these, its, their) must match the number of the noun it refers to (its antecedent), and the reference must be clear.",
+      "explanation_zh": "",
+      "examples": [
+        "a given industry… it often consists; became secretary-general, making this the first time",
+        "two woodcuts… they were exhibited; eighteen letters… These letters"
+      ],
+      "questions": [
+        {
+          "number": "47",
+          "source": "Official Digital SAT 7, Module 1, Q20",
+          "passage": "Eighteen letters written by Louisa May Alcott, author of the popular novel Little Women (1868), can be found at the New York Historical Society. ______ letters demonstrate Alcott’s keen business sense in her interactions with publishers.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "One"
+            },
+            {
+              "label": "B",
+              "text": "That"
+            },
+            {
+              "label": "C",
+              "text": "This"
+            },
+            {
+              "label": "D",
+              "text": "These"
+            }
+          ],
+          "correct": "D",
+          "explanation": "The determiner must match the plural noun \"letters\" (and refer back to the eighteen letters). Only \"These\" is plural."
+        },
+        {
+          "number": "48",
+          "source": "Official Digital SAT 5, Module 1, Q20",
+          "passage": "Lê Lương Minh became the thirteenth secretary-general of the Association of Southeast Asian Nations (ASEAN) in January 2013, making ______ the first time the organization would appoint a Vietnamese leader.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "these"
+            },
+            {
+              "label": "B",
+              "text": "those"
+            },
+            {
+              "label": "C",
+              "text": "this"
+            },
+            {
+              "label": "D",
+              "text": "some"
+            }
+          ],
+          "correct": "C",
+          "explanation": "The pronoun refers to a single event—Minh becoming secretary-general—so the singular \"this\" is required."
+        },
+        {
+          "number": "49",
+          "source": "Official Digital SAT 7, Module 2, Q22",
+          "passage": "When a given industry—water and electricity are two well-known examples—carries high infrastructural start-up costs and other barriers that discourage competition, ______ of just one or two suppliers per municipality. Such industries are known as natural monopolies.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "these often consist"
+            },
+            {
+              "label": "B",
+              "text": "they often consist"
+            },
+            {
+              "label": "C",
+              "text": "it often consists"
+            },
+            {
+              "label": "D",
+              "text": "this often consists"
+            }
+          ],
+          "correct": "C",
+          "explanation": "The pronoun refers to \"a given industry,\" which is singular; the dashed examples are an interrupter. \"It often consists\" is singular and clearly refers to the industry."
+        },
+        {
+          "number": "50",
+          "source": "Official Digital SAT 5, Module 2, Q20",
+          "passage": "When they were first introduced to western Europe from Byzantium in the eleventh century, table forks were met with much resistance. The Bishop of Ostia, St. Peter Damian, condemned the eating utensils because he considered ______ dangerous and unnecessary luxury items.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "them"
+            },
+            {
+              "label": "B",
+              "text": "this"
+            },
+            {
+              "label": "C",
+              "text": "that"
+            },
+            {
+              "label": "D",
+              "text": "it"
+            }
+          ],
+          "correct": "A",
+          "explanation": "The pronoun refers to the plural \"the eating utensils\" (table forks) and must match \"items,\" so the plural \"them\" is correct."
+        },
+        {
+          "number": "51",
+          "source": "Official Digital SAT 9, Module 1, Q21",
+          "passage": "In 1930, Japanese American artist Chiura Obata depicted the natural beauty of Yosemite National Park in two memorable woodcuts: Evening at Carl Inn and Lake Basin in the High Sierra. In 2019, ______ exhibited alongside 150 of Obata’s other works in a single-artist show at the Smithsonian American Art Museum.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "it was"
+            },
+            {
+              "label": "B",
+              "text": "they were"
+            },
+            {
+              "label": "C",
+              "text": "this was"
+            },
+            {
+              "label": "D",
+              "text": "some were"
+            }
+          ],
+          "correct": "B",
+          "explanation": "The pronoun refers to the two woodcuts, a plural antecedent, so \"they were\" is correct. \"Some\" is illogical because both woodcuts are meant."
+        },
+        {
+          "number": "52",
+          "source": "Official Digital SAT 10, Module 2, Q18",
+          "passage": "Public-awareness campaigns about the need to reduce single-use plastics can be successful, says researcher Kim Borg of Monash University in Australia, when these campaigns give consumers a choice: for example, Japan achieved a 40 percent reduction in plastic-bag use after cashiers were instructed to ask customers whether ______ wanted a bag.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "they"
+            },
+            {
+              "label": "B",
+              "text": "one"
+            },
+            {
+              "label": "C",
+              "text": "you"
+            },
+            {
+              "label": "D",
+              "text": "it"
+            }
+          ],
+          "correct": "A",
+          "explanation": "The pronoun refers to the plural \"customers,\" so \"they\" is required."
+        },
+        {
+          "number": "53",
+          "source": "Official Digital SAT 9, Module 2, Q19",
+          "passage": "British scientists James Watson and Francis Crick won the Nobel Prize in part for their 1953 paper announcing the double helix structure of DNA, but it is misleading to say that Watson and Crick discovered the double helix. ______ findings were based on a famous X-ray image of DNA fibers, “Photo 51,” developed by X-ray crystallographer Rosalind Franklin and her graduate student Raymond Gosling.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "They’re"
+            },
+            {
+              "label": "B",
+              "text": "It’s"
+            },
+            {
+              "label": "C",
+              "text": "Their"
+            },
+            {
+              "label": "D",
+              "text": "Its"
+            }
+          ],
+          "correct": "C",
+          "explanation": "A plural possessive determiner is needed to show the findings belong to Watson and Crick: \"Their.\" \"They’re\" and \"It’s\" are contractions; \"Its\" is singular."
+        },
+        {
+          "number": "54",
+          "source": "Official Digital SAT 10, Module 1, Q26",
+          "passage": "In Marisol’s 1968 sculpture Mi Mama y Yo, gone are the types of pop culture references that made the Parisian-born Venezuelan American artist a star at the height of the pop art movement. In ______ place is a far more personal subject: a sculptural depiction of the artist as a young girl with her mother.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "its"
+            },
+            {
+              "label": "B",
+              "text": "they’re"
+            },
+            {
+              "label": "C",
+              "text": "their"
+            },
+            {
+              "label": "D",
+              "text": "it’s"
+            }
+          ],
+          "correct": "C",
+          "explanation": "The possessive refers to \"the types of pop culture references\" (plural), which are gone; the new subject takes their place. So the plural possessive \"their\" is correct. \"It’s\" and \"they’re\" are contractions."
+        },
+        {
+          "number": "55",
+          "source": "New practice item",
+          "passage": "After a two-year renovation of its concert hall, the city orchestra performed ______ first season in the restored building to sold-out audiences.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "its"
+            },
+            {
+              "label": "B",
+              "text": "their"
+            },
+            {
+              "label": "C",
+              "text": "it's"
+            },
+            {
+              "label": "D",
+              "text": "they're"
+            }
+          ],
+          "correct": "A",
+          "explanation": "\"The city orchestra\" is a singular collective noun (note \"its concert hall\" earlier), so the singular possessive \"its\" is correct. \"It's\" means \"it is.\""
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "id": "focus-6-modifiers-dangling-modifiers-and-logical-comparisons",
+      "title": "Modifiers: Dangling Modifiers and Logical Comparisons",
+      "explanation_en": "An introductory modifier (a phrase before the comma with no subject of its own) must be followed IMMEDIATELY by the noun it describes—the one doing (or receiving) the action.",
+      "explanation_zh": "",
+      "examples": [
+        "✘ Dangling",
+        "✔ Correct"
+      ],
+      "questions": [
+        {
+          "number": "56",
+          "source": "Official Digital SAT 2, Module 2, Q22",
+          "passage": "In assessing the films of Japanese director Akira Kurosawa, ______ have missed his equally deep engagement with Japanese artistic traditions such as Noh theater.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "many critics have focused on Kurosawa’s use of Western literary sources but"
+            },
+            {
+              "label": "B",
+              "text": "Kurosawa’s use of Western literary sources has been the focus of many critics, who"
+            },
+            {
+              "label": "C",
+              "text": "there are many critics who have focused on Kurosawa’s use of Western literary sources, but they"
+            },
+            {
+              "label": "D",
+              "text": "the focus of many critics has been on Kurosawa’s use of Western literary sources; they"
+            }
+          ],
+          "correct": "A",
+          "explanation": "The introductory modifier \"In assessing the films...\" must be followed immediately by the people doing the assessing: \"many critics.\" Only A places \"many critics\" right after the modifier; the others make \"Kurosawa’s use,\" \"there,\" or \"the focus\" do the assessing (dangling modifier)."
+        },
+        {
+          "number": "57",
+          "source": "Official Digital SAT 3, Module 2, Q25",
+          "passage": "Based on genetic evidence, archaeologists have generally agreed that reindeer domestication began in the eleventh century CE. However, since uncovering fragments of a 2,000-year-old reindeer training harness in northern Siberia, ______ may have begun much earlier.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "researcher Robert Losey has argued that domestication"
+            },
+            {
+              "label": "B",
+              "text": "researcher Robert Losey’s argument is that domestication"
+            },
+            {
+              "label": "C",
+              "text": "domestication, researcher Robert Losey has argued,"
+            },
+            {
+              "label": "D",
+              "text": "the argument researcher Robert Losey has made is that domestication"
+            }
+          ],
+          "correct": "A",
+          "explanation": "The modifier \"since uncovering fragments...\" describes a person who uncovered them, so the subject right after the comma must be \"researcher Robert Losey.\" The other choices create dangling modifiers (an argument or domestication did not uncover anything)."
+        },
+        {
+          "number": "58",
+          "source": "Official Digital SAT 4, Module 1, Q24",
+          "passage": "African American Percy Julian was a scientist and entrepreneur whose work helped people around the world to see. Named in 1999 as one of the greatest achievements by a US chemist in the past hundred years, ______ led to the first mass-produced treatment for glaucoma.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Julian synthesized the alkaloid physostigmine in 1935; it"
+            },
+            {
+              "label": "B",
+              "text": "in 1935 Julian synthesized the alkaloid physostigmine, which"
+            },
+            {
+              "label": "C",
+              "text": "Julian’s 1935 synthesis of the alkaloid physostigmine"
+            },
+            {
+              "label": "D",
+              "text": "the alkaloid physostigmine was synthesized by Julian in 1935 and"
+            }
+          ],
+          "correct": "C",
+          "explanation": "The introductory modifier says something was \"named...as one of the greatest achievements.\" The achievement is Julian’s synthesis, so \"Julian’s 1935 synthesis...\" must come right after the comma. The other choices make Julian or the alkaloid the \"achievement\" (dangling modifier)."
+        },
+        {
+          "number": "59",
+          "source": "Official Digital SAT 4, Module 2, Q25",
+          "passage": "In 2016, engineer Vanessa Galvez oversaw the installation of 164 bioswales, vegetated channels designed to absorb and divert stormwater, along the streets of Queens, New York. By reducing the runoff flowing into city sewers, ______",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "the mitigation of both street flooding and the resulting pollution of nearby waterways has been achieved by bioswales."
+            },
+            {
+              "label": "B",
+              "text": "the bioswales have mitigated both street flooding and the resulting pollution of nearby waterways."
+            },
+            {
+              "label": "C",
+              "text": "the bioswales’ mitigation of both street flooding and the resulting pollution of nearby waterways has been achieved."
+            },
+            {
+              "label": "D",
+              "text": "both street flooding and the resulting pollution of nearby waterways have been mitigated by bioswales."
+            }
+          ],
+          "correct": "B",
+          "explanation": "\"By reducing the runoff\" describes what the bioswales did, so \"the bioswales\" must be the subject immediately after the comma. The other choices make \"the mitigation,\" \"the bioswales’ mitigation,\" or \"flooding\" do the reducing."
+        },
+        {
+          "number": "60",
+          "source": "Official Digital SAT 6, Module 2, Q20",
+          "passage": "One of the few African American global explorers during the turn of the 20th century, ______",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Matthew Henson made several treks across Greenland between 1891 and 1909."
+            },
+            {
+              "label": "B",
+              "text": "1891 and 1909 were the years between which Matthew Henson made several treks across Greenland."
+            },
+            {
+              "label": "C",
+              "text": "Greenland was where Matthew Henson made several treks between 1891 and 1909."
+            },
+            {
+              "label": "D",
+              "text": "several treks across Greenland were made by Matthew Henson between 1891 and 1909."
+            }
+          ],
+          "correct": "A",
+          "explanation": "The introductory phrase describes a person (an explorer), so the subject right after the comma must be \"Matthew Henson.\" The other choices make years, Greenland, or treks the explorer (dangling modifier)."
+        },
+        {
+          "number": "61",
+          "source": "Official Digital SAT 6, Module 2, Q21",
+          "passage": "Woven from recycled yarn and hand tufted using a carpet weaving technique passed down by the artist’s Turkish grandmother, ______ so lush and tactilely inviting that you are tempted to reach out and touch them.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "the topological tapestries of Argentine textile artist Alexandra Kehayoglou are"
+            },
+            {
+              "label": "B",
+              "text": "the Argentine textile artist Alexandra Kehayoglou creates topological tapestries that are"
+            },
+            {
+              "label": "C",
+              "text": "when she creates her topological tapestries, Argentine textile artist Alexandra Kehayoglou makes them"
+            },
+            {
+              "label": "D",
+              "text": "Alexandra Kehayoglou is an Argentine textile artist whose topological tapestries are"
+            }
+          ],
+          "correct": "A",
+          "explanation": "Things \"woven from recycled yarn\" are the tapestries, so \"the topological tapestries\" must immediately follow the modifier. The other choices put the artist (or a clause) there, creating a dangling modifier."
+        },
+        {
+          "number": "62",
+          "source": "Official Digital SAT 7, Module 1, Q25",
+          "passage": "Wanting to celebrate the 100th anniversary of the Alaska Purchase, ______ up with a motto that best captured the state’s unique character. The commission selected “North to the Future,” submitted by Juneau journalist Richard Peter, as its winning entry.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "a contest sponsored by the Alaska Centennial Commission would award $300 to an individual who came"
+            },
+            {
+              "label": "B",
+              "text": "an award of $300 would go to an individual in a contest sponsored by the Alaska Centennial Commission for coming"
+            },
+            {
+              "label": "C",
+              "text": "$300 would be awarded to an individual by the Alaska Centennial Commission in a contest for coming"
+            },
+            {
+              "label": "D",
+              "text": "the Alaska Centennial Commission sponsored a contest that would award $300 to an individual who came"
+            }
+          ],
+          "correct": "D",
+          "explanation": "The modifier \"Wanting to celebrate...\" must describe the entity that wanted to celebrate—the Alaska Centennial Commission—so it must come right after the comma. The other choices make a contest, an award, or $300 do the \"wanting.\""
+        },
+        {
+          "number": "63",
+          "source": "New practice item",
+          "passage": "Buried under volcanic ash for nearly two millennia, ______",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "archaeologists have found Pompeii’s frescoes remarkably intact."
+            },
+            {
+              "label": "B",
+              "text": "Pompeii’s frescoes have survived remarkably intact."
+            },
+            {
+              "label": "C",
+              "text": "the survival of Pompeii’s frescoes is remarkable."
+            },
+            {
+              "label": "D",
+              "text": "there are frescoes in Pompeii that survived intact."
+            }
+          ],
+          "correct": "B",
+          "explanation": "The frescoes were buried, so \"Pompeii’s frescoes\" must come right after the modifier. A says the archaeologists were buried; C says the survival was buried; D starts with \"there.\""
+        },
+        {
+          "number": "64",
+          "source": "Official Digital SAT 8, Module 1, Q26",
+          "passage": "Compared to that of alumina glass, ______ silica glass atoms are so far apart that they are unable to re-form bonds after being separated.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "silica glass is at a significant disadvantage due to its more dispersed atomic arrangement:"
+            },
+            {
+              "label": "B",
+              "text": "silica glass has a more dispersed atomic arrangement, resulting in a significant disadvantage:"
+            },
+            {
+              "label": "C",
+              "text": "a significant disadvantage of silica glass is that its atomic arrangement is more dispersed:"
+            },
+            {
+              "label": "D",
+              "text": "silica glass’s atomic arrangement is more dispersed, resulting in a significant disadvantage:"
+            }
+          ],
+          "correct": "D",
+          "explanation": "\"That of alumina glass\" means \"the atomic arrangement of alumina glass,\" so it must be compared with another atomic arrangement—\"silica glass’s atomic arrangement.\" The other choices compare an arrangement with silica glass itself or with a disadvantage (illogical comparison/modifier)."
+        },
+        {
+          "number": "65",
+          "source": "New practice item",
+          "passage": "Researchers measuring bite strength found that the bite force of a saltwater crocodile is far greater than ______",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "a lion."
+            },
+            {
+              "label": "B",
+              "text": "that of a lion."
+            },
+            {
+              "label": "C",
+              "text": "lions."
+            },
+            {
+              "label": "D",
+              "text": "a lion’s bite is strong."
+            }
+          ],
+          "correct": "B",
+          "explanation": "Compare like with like: bite force to bite force. \"That of a lion\" means \"the bite force of a lion.\" A and C illogically compare a bite force to an animal."
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "id": "focus-7-transitions-choosing-the-logical-connector",
+      "title": "Transitions: Choosing the Logical Connector",
+      "explanation_en": "Transition questions (\"Which choice completes the text with the most logical transition?\") are logic questions, not grammar questions. Read the sentence BEFORE the blank and the sentence AFTER it, decide the relationship in your own words, then match a category.",
+      "explanation_zh": "",
+      "examples": [
+        "Additionally, In addition, Moreover, Furthermore, Also",
+        "Is this another point of the same kind?"
+      ],
+      "questions": [
+        {
+          "number": "66",
+          "source": "Official Digital SAT 2, Module 2, Q29",
+          "passage": "In 1933, the Twentieth Amendment to the US Constitution was ratified. The amendment mandates that presidential inaugurations be held on January 20, approximately ten weeks after the November election. ______ this amendment requires newly elected US senators and representatives to be sworn into their respective offices on January 3.",
+          "prompt": "Which choice completes the text with the most logical transition?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Instead,"
+            },
+            {
+              "label": "B",
+              "text": "For instance,"
+            },
+            {
+              "label": "C",
+              "text": "Specifically,"
+            },
+            {
+              "label": "D",
+              "text": "In addition,"
+            }
+          ],
+          "correct": "D",
+          "explanation": "The sentence adds a second, separate requirement of the amendment, so \"In addition\" (addition) is correct."
+        },
+        {
+          "number": "67",
+          "source": "Official Digital SAT 4, Module 1, Q29",
+          "passage": "Samuel Coleridge-Taylor was a prominent classical music composer from England who toured the US three times in the early 1900s. The child of a West African father and an English mother, Coleridge-Taylor emphasized his mixed-race ancestry. For example, he referred to himself as Anglo-African. ______ he incorporated the sounds of traditional African music into his classical music compositions.",
+          "prompt": "Which choice completes the text with the most logical transition?",
+          "options": [
+            {
+              "label": "A",
+              "text": "In addition,"
+            },
+            {
+              "label": "B",
+              "text": "Actually,"
+            },
+            {
+              "label": "C",
+              "text": "However,"
+            },
+            {
+              "label": "D",
+              "text": "Regardless,"
+            }
+          ],
+          "correct": "A",
+          "explanation": "The sentence gives a second example of how he emphasized his ancestry, so \"In addition\" is logical."
+        },
+        {
+          "number": "68",
+          "source": "Official Digital SAT 6, Module 1, Q29",
+          "passage": "The Inca of South America used intricately knotted string devices called quipus to record countable information, like population data and payments. ______ they may have used quipus to record more complex information, like stories and myths, according to researchers.",
+          "prompt": "Which choice completes the text with the most logical transition?",
+          "options": [
+            {
+              "label": "A",
+              "text": "As a result,"
+            },
+            {
+              "label": "B",
+              "text": "In other words,"
+            },
+            {
+              "label": "C",
+              "text": "In addition,"
+            },
+            {
+              "label": "D",
+              "text": "For example,"
+            }
+          ],
+          "correct": "C",
+          "explanation": "Recording stories is an additional possible use of quipus, so \"In addition\" is logical."
+        },
+        {
+          "number": "69",
+          "source": "Official Digital SAT 7, Module 1, Q27",
+          "passage": "Guard cells are specialized cells that are part of a plant’s pores. These cells help regulate the amount of carbon dioxide a plant takes in. ______ they help regulate a plant’s water loss.",
+          "prompt": "Which choice completes the text with the most logical transition?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Additionally,"
+            },
+            {
+              "label": "B",
+              "text": "Previously,"
+            },
+            {
+              "label": "C",
+              "text": "In conclusion,"
+            },
+            {
+              "label": "D",
+              "text": "Instead,"
+            }
+          ],
+          "correct": "A",
+          "explanation": "The sentence adds another function of guard cells, so \"Additionally\" is logical."
+        },
+        {
+          "number": "70",
+          "source": "Official Digital SAT 9, Module 1, Q28",
+          "passage": "Some members of the US Supreme Court have resisted calls to televise the court’s oral arguments, concerned that the participants would be tempted to perform for the cameras (and thus lower the quality of the discourse). ______ the justices worry that most viewers would not even watch the full deliberations, only short clips that could be misinterpreted and mischaracterized.",
+          "prompt": "Which choice completes the text with the most logical transition?",
+          "options": [
+            {
+              "label": "A",
+              "text": "However,"
+            },
+            {
+              "label": "B",
+              "text": "Additionally,"
+            },
+            {
+              "label": "C",
+              "text": "In comparison,"
+            },
+            {
+              "label": "D",
+              "text": "For example,"
+            }
+          ],
+          "correct": "B",
+          "explanation": "The sentence adds a second concern the justices have, so \"Additionally\" is logical."
+        },
+        {
+          "number": "71",
+          "source": "Official Digital SAT 2, Module 2, Q28 — also SAT 10 M1 Q28",
+          "passage": "Organisms have evolved a number of surprising adaptations to ensure their survival in adverse conditions. Tadpole shrimp (Triops longicaudatus) embryos, ______ can pause development for over ten years during extended periods of drought.",
+          "prompt": "Which choice completes the text with the most logical transition?",
+          "options": [
+            {
+              "label": "A",
+              "text": "in contrast,"
+            },
+            {
+              "label": "B",
+              "text": "for example,"
+            },
+            {
+              "label": "C",
+              "text": "meanwhile,"
+            },
+            {
+              "label": "D",
+              "text": "consequently,"
+            }
+          ],
+          "correct": "B",
+          "explanation": "Tadpole shrimp embryos are a specific instance of the \"surprising adaptations\" mentioned in the first sentence, so \"for example\" is logical."
+        },
+        {
+          "number": "72",
+          "source": "Official Digital SAT 3, Module 1, Q27 — also SAT 10 M2 Q26",
+          "passage": "Most conifers (trees belonging to the phylum Coniferophyta) are evergreen. That is, they keep their green leaves or needles year-round. However, not all conifer species are evergreen. Larch trees, ______ lose their needles every fall.",
+          "prompt": "Which choice completes the text with the most logical transition?",
+          "options": [
+            {
+              "label": "A",
+              "text": "for instance,"
+            },
+            {
+              "label": "B",
+              "text": "nevertheless,"
+            },
+            {
+              "label": "C",
+              "text": "meanwhile,"
+            },
+            {
+              "label": "D",
+              "text": "in addition,"
+            }
+          ],
+          "correct": "A",
+          "explanation": "Larch trees are an example of a conifer that is not evergreen, so \"for instance\" is logical."
+        },
+        {
+          "number": "73",
+          "source": "Official Digital SAT 7, Module 2, Q28",
+          "passage": "In 2021, a model developed by astrophysicist Catherine Zucker and her research team revealed that the same supernovas responsible for the creation and ongoing expansion of the Local Bubble—a 14-million-year-old cavity in the Milky Way—are likely responsible for the formation of new stars. ______ this model detailed how the bubble’s expansion trapped interstellar clouds of gas and dust that became stars upon their eventual collapse.",
+          "prompt": "Which choice completes the text with the most logical transition?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Hence,"
+            },
+            {
+              "label": "B",
+              "text": "However,"
+            },
+            {
+              "label": "C",
+              "text": "Admittedly,"
+            },
+            {
+              "label": "D",
+              "text": "Specifically,"
+            }
+          ],
+          "correct": "D",
+          "explanation": "The sentence gives a more detailed explanation of the general claim in the previous sentence, so \"Specifically\" is correct."
+        },
+        {
+          "number": "74",
+          "source": "Official Digital SAT 8, Module 1, Q28",
+          "passage": "In 1974, Mexican chemist Mario Molina and US chemist F. Sherwood Rowland discovered that chemicals called CFCs were harmful to the ozone layer. Their research was extremely influential in the fight against CFCs. ______ it laid the foundation for a 1987 treaty that phased out the use of CFCs across the globe.",
+          "prompt": "Which choice completes the text with the most logical transition?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Regardless,"
+            },
+            {
+              "label": "B",
+              "text": "Specifically,"
+            },
+            {
+              "label": "C",
+              "text": "However,"
+            },
+            {
+              "label": "D",
+              "text": "Earlier,"
+            }
+          ],
+          "correct": "B",
+          "explanation": "The sentence gives a specific example of how the research was influential, so \"Specifically\" is logical."
+        },
+        {
+          "number": "75",
+          "source": "Official Digital SAT 9, Module 2, Q28",
+          "passage": "Earth’s auroras—colorful displays of light seen above the northern and southern poles—result, broadly speaking, from the Sun’s activity. ______ the Sun releases charged particles that are captured by Earth’s magnetic field and channeled toward the poles. These particles then collide with atoms in the atmosphere, causing the atoms to emit auroral light.",
+          "prompt": "Which choice completes the text with the most logical transition?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Specifically,"
+            },
+            {
+              "label": "B",
+              "text": "Similarly,"
+            },
+            {
+              "label": "C",
+              "text": "Nevertheless,"
+            },
+            {
+              "label": "D",
+              "text": "Hence,"
+            }
+          ],
+          "correct": "A",
+          "explanation": "The following sentences give precise details of the \"broadly speaking\" explanation. \"Specifically\" signals this elaboration."
+        },
+        {
+          "number": "76",
+          "source": "Official Digital SAT 10, Module 2, Q28",
+          "passage": "In his 1925 book The Morphology of Landscape, US geographer Carl Sauer challenged prevailing views about how natural landscapes influence human cultures. ______ Sauer argued that instead of being shaped entirely by their natural surroundings, cultures play an active role in their own development by virtue of their interactions with the environment.",
+          "prompt": "Which choice completes the text with the most logical transition?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Similarly,"
+            },
+            {
+              "label": "B",
+              "text": "Finally,"
+            },
+            {
+              "label": "C",
+              "text": "Therefore,"
+            },
+            {
+              "label": "D",
+              "text": "Specifically,"
+            }
+          ],
+          "correct": "D",
+          "explanation": "The second sentence explains exactly how Sauer challenged the prevailing views, so \"Specifically\" is logical."
+        },
+        {
+          "number": "77",
+          "source": "Official Digital SAT 7, Module 2, Q29",
+          "passage": "Following the American Revolutionary War, North American foodways underwent a radical transformation, fueled in large part by spiking consumer demand for certain grains. The cultivation, trade, and transportation of maize and wheat, ______ reconfigured the continent’s existing regional foodways into a globally oriented food system.",
+          "prompt": "Which choice completes the text with the most logical transition?",
+          "options": [
+            {
+              "label": "A",
+              "text": "in particular,"
+            },
+            {
+              "label": "B",
+              "text": "alternatively,"
+            },
+            {
+              "label": "C",
+              "text": "by comparison,"
+            },
+            {
+              "label": "D",
+              "text": "second of all,"
+            }
+          ],
+          "correct": "A",
+          "explanation": "Maize and wheat are the specific \"certain grains\" mentioned before, so \"in particular\" is logical."
+        },
+        {
+          "number": "78",
+          "source": "Official Digital SAT 8, Module 1, Q29",
+          "passage": "With his room-sized installation Unicorn/My Private Sky, Norwegian artist Børre Sæthre succeeds in creating a whimsical yet perplexing experience. ______ when visitors set foot inside the fantastically blue room and encounter the life-sized stuffed unicorn preening at the far end of it, they are both dazzled and confused—as if stepping into a strange and enchanting new world.",
+          "prompt": "Which choice completes the text with the most logical transition?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Second,"
+            },
+            {
+              "label": "B",
+              "text": "Instead,"
+            },
+            {
+              "label": "C",
+              "text": "Indeed,"
+            },
+            {
+              "label": "D",
+              "text": "Nevertheless,"
+            }
+          ],
+          "correct": "C",
+          "explanation": "The second sentence confirms and reinforces the claim that the experience is whimsical yet perplexing. \"Indeed\" signals this support."
+        },
+        {
+          "number": "79",
+          "source": "Official Digital SAT 6, Module 2, Q29",
+          "passage": "Biographer Michael Gorra notes that the novelist Henry James “lived in a world of second thoughts,” frequently tinkering with his novels and stories after their initial publication. However, the differences between the 1881 first edition and the 1908 edition of his novel A Portrait of a Lady are extreme, even by James’s standards; ______ some critics regard the two editions as two different novels altogether.",
+          "prompt": "Which choice completes the text with the most logical transition?",
+          "options": [
+            {
+              "label": "A",
+              "text": "by contrast,"
+            },
+            {
+              "label": "B",
+              "text": "in fact,"
+            },
+            {
+              "label": "C",
+              "text": "nevertheless,"
+            },
+            {
+              "label": "D",
+              "text": "in other words,"
+            }
+          ],
+          "correct": "B",
+          "explanation": "The final clause intensifies the claim that the differences are extreme. \"In fact\" introduces this stronger supporting point."
+        },
+        {
+          "number": "80",
+          "source": "Official Digital SAT 8, Module 2, Q27",
+          "passage": "The Alaska Native Language Archive (ANLA) is known for its impressive audio collection. ______ the ANLA has more than 5,000 audio recordings of Native Alaskan languages dating as far back as 1943.",
+          "prompt": "Which choice completes the text with the most logical transition?",
+          "options": [
+            {
+              "label": "A",
+              "text": "In fact,"
+            },
+            {
+              "label": "B",
+              "text": "After,"
+            },
+            {
+              "label": "C",
+              "text": "Regardless,"
+            },
+            {
+              "label": "D",
+              "text": "Instead,"
+            }
+          ],
+          "correct": "A",
+          "explanation": "The second sentence gives concrete evidence that strengthens the claim about the \"impressive\" collection. \"In fact\" introduces this emphasis."
+        },
+        {
+          "number": "81",
+          "source": "Official Digital SAT 4, Module 1, Q28",
+          "passage": "Geoscientists have long considered Hawaii’s Mauna Loa volcano to be Earth’s largest shield volcano by volume, measuring approximately 74,000 cubic kilometers. ______ according to a 2020 study by local geoscientist Michael Garcia, Hawaii’s Pūhāhonu shield volcano is significantly larger, boasting a volume of about 148,000 cubic kilometers.",
+          "prompt": "Which choice completes the text with the most logical transition?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Secondly,"
+            },
+            {
+              "label": "B",
+              "text": "Consequently,"
+            },
+            {
+              "label": "C",
+              "text": "Moreover,"
+            },
+            {
+              "label": "D",
+              "text": "However,"
+            }
+          ],
+          "correct": "D",
+          "explanation": "The new study contradicts the long-held view, so the contrast word \"However\" is needed."
+        },
+        {
+          "number": "82",
+          "source": "Official Digital SAT 6, Module 1, Q28",
+          "passage": "Working together with the Navajo Nation Department of Water Resources, Dr. Lani Tsinnajinnie analyzed data about snowpack levels in the Chuska Mountains. She found that the snowpack (the amount of snow on the ground) was deepest in early March at lower elevations. At higher elevations, ______ the snowpack was deepest in mid-March.",
+          "prompt": "Which choice completes the text with the most logical transition?",
+          "options": [
+            {
+              "label": "A",
+              "text": "in other words,"
+            },
+            {
+              "label": "B",
+              "text": "for instance,"
+            },
+            {
+              "label": "C",
+              "text": "on the other hand,"
+            },
+            {
+              "label": "D",
+              "text": "in summary,"
+            }
+          ],
+          "correct": "C",
+          "explanation": "Higher elevations show a different result than lower elevations. \"On the other hand\" signals this contrast."
+        },
+        {
+          "number": "83",
+          "source": "Official Digital SAT 8, Module 2, Q29",
+          "passage": "At two weeks old, the time their critical socialization period begins, wolves can smell but cannot yet see or hear. Domesticated dogs, ______ can see, hear, and smell by the end of two weeks. This relative lack of sensory input may help explain why wolves behave so differently around humans than dogs do: from a very young age, wolves are more wary and less exploratory.",
+          "prompt": "Which choice completes the text with the most logical transition?",
+          "options": [
+            {
+              "label": "A",
+              "text": "in other words,"
+            },
+            {
+              "label": "B",
+              "text": "for instance,"
+            },
+            {
+              "label": "C",
+              "text": "by contrast,"
+            },
+            {
+              "label": "D",
+              "text": "accordingly,"
+            }
+          ],
+          "correct": "C",
+          "explanation": "Dogs differ from wolves in sensory development at two weeks, so \"by contrast\" is logical."
+        },
+        {
+          "number": "84",
+          "source": "Official Digital SAT 9, Module 1, Q30",
+          "passage": "A firefly uses specialized muscles to draw oxygen into its lower abdomen through narrow tubes, triggering a chemical reaction whereby the oxygen combines with chemicals in the firefly’s abdomen to produce a glow. ______ when the firefly stops drawing in oxygen, the reaction—and the glow—cease.",
+          "prompt": "Which choice completes the text with the most logical transition?",
+          "options": [
+            {
+              "label": "A",
+              "text": "For instance,"
+            },
+            {
+              "label": "B",
+              "text": "By contrast,"
+            },
+            {
+              "label": "C",
+              "text": "Specifically,"
+            },
+            {
+              "label": "D",
+              "text": "In conclusion,"
+            }
+          ],
+          "correct": "B",
+          "explanation": "Stopping oxygen intake (glow ceases) is the opposite of drawing in oxygen (glow produced). \"By contrast\" signals this opposite situation."
+        },
+        {
+          "number": "85",
+          "source": "Official Digital SAT 5, Module 1, Q29",
+          "passage": "According to Duverger’s law, countries with single-ballot majoritarian elections for single-member districts tend to polarize into two-party systems, wherein dueling political parties consistently dominate the political system. ______ countries with proportional-representation electoral systems tend to support multi-partyism, under which power gets distributed among many political parties.",
+          "prompt": "Which choice completes the text with the most logical transition?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Subsequently,"
+            },
+            {
+              "label": "B",
+              "text": "Conversely,"
+            },
+            {
+              "label": "C",
+              "text": "For instance,"
+            },
+            {
+              "label": "D",
+              "text": "In other words,"
+            }
+          ],
+          "correct": "B",
+          "explanation": "The sentence describes the opposite situation (multi-party vs. two-party), so \"Conversely\" is logical."
+        },
+        {
+          "number": "86",
+          "source": "Official Digital SAT 7, Module 2, Q31",
+          "passage": "Mountain climbing routes that incorporate metal rungs and cables are known as via ferratas, from the Italian phrase for “iron path.” As climbing these routes has shifted from a mode of travel to a sporting activity, modern via ferratas are rarely designed to simply reach a summit. ______ new routes favor recreation over utility, aiming to provide a challenging climb or showcase dramatic scenery.",
+          "prompt": "Which choice completes the text with the most logical transition?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Additionally,"
+            },
+            {
+              "label": "B",
+              "text": "On the other hand,"
+            },
+            {
+              "label": "C",
+              "text": "More often,"
+            },
+            {
+              "label": "D",
+              "text": "Nonetheless,"
+            }
+          ],
+          "correct": "C",
+          "explanation": "The previous sentence says routes are \"rarely\" designed just to reach a summit; the next tells what they are \"more often\" designed to do. \"More often\" completes this contrast of frequency."
+        },
+        {
+          "number": "87",
+          "source": "Official Digital SAT 5, Module 1, Q28",
+          "passage": "Historians agree that the jazz pianist Jelly Roll Morton was exaggerating when he claimed to have invented jazz music. No one can deny, ______ that Morton’s innovative compositions and remarkable improvisational skills helped shape jazz as a genre during its early years.",
+          "prompt": "Which choice completes the text with the most logical transition?",
+          "options": [
+            {
+              "label": "A",
+              "text": "therefore,"
+            },
+            {
+              "label": "B",
+              "text": "in the second place,"
+            },
+            {
+              "label": "C",
+              "text": "in other words,"
+            },
+            {
+              "label": "D",
+              "text": "though,"
+            }
+          ],
+          "correct": "D",
+          "explanation": "The sentence concedes Morton's real importance in contrast to his exaggeration. \"Though\" signals this contrast."
+        },
+        {
+          "number": "88",
+          "source": "Official Digital SAT 8, Module 1, Q27",
+          "passage": "In November 1934, Amrita Sher-Gil was living in what must have seemed like the ideal city for a young artist: Paris. She was studying firsthand the color-saturated style of France’s modernist masters and beginning to make a name for herself as a painter. ______ Sher-Gil longed to return to her childhood home of India; only there, she believed, could her art truly flourish.",
+          "prompt": "Which choice completes the text with the most logical transition?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Still,"
+            },
+            {
+              "label": "B",
+              "text": "Therefore,"
+            },
+            {
+              "label": "C",
+              "text": "Indeed,"
+            },
+            {
+              "label": "D",
+              "text": "Furthermore,"
+            }
+          ],
+          "correct": "A",
+          "explanation": "Despite ideal conditions in Paris, she wanted to leave. \"Still\" signals this unexpected contrast."
+        },
+        {
+          "number": "89",
+          "source": "Official Digital SAT 8, Module 2, Q30",
+          "passage": "Upon first approaching artist Kurt Wenner’s Dies Irae, a colorful scene painted on the surface of a cobblestone street in Mantua, Italy, one might assume a deep hole filled with life-sized, classically styled sculptures had opened up in the street. ______ by expertly applying the principles of perspective, Wenner created merely the illusion of depth.",
+          "prompt": "Which choice completes the text with the most logical transition?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Additionally,"
+            },
+            {
+              "label": "B",
+              "text": "On the contrary,"
+            },
+            {
+              "label": "C",
+              "text": "As a result,"
+            },
+            {
+              "label": "D",
+              "text": "Next,"
+            }
+          ],
+          "correct": "B",
+          "explanation": "The second sentence corrects the false assumption in the first (there is no real hole). \"On the contrary\" signals this correction."
+        },
+        {
+          "number": "90",
+          "source": "Official Digital SAT 3, Module 2, Q31",
+          "passage": "When designing costumes for film, American artist Suttirat Larlarb typically custom fits the garments to each actor. ______ for the film Sunshine, in which astronauts must reignite a dying Sun, she designed a golden spacesuit and had a factory reproduce it in a few standard sizes; lacking a tailor-made quality, the final creations reflected the ungainliness of actual spacesuits.",
+          "prompt": "Which choice completes the text with the most logical transition?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Nevertheless,"
+            },
+            {
+              "label": "B",
+              "text": "Thus,"
+            },
+            {
+              "label": "C",
+              "text": "Likewise,"
+            },
+            {
+              "label": "D",
+              "text": "Moreover,"
+            }
+          ],
+          "correct": "A",
+          "explanation": "Standard-size spacesuits contrast with her usual custom-fitting practice. \"Nevertheless\" signals this exception/contrast."
+        },
+        {
+          "number": "91",
+          "source": "Official Digital SAT 5, Module 1, Q27",
+          "passage": "Celebrated Tewa potter Maria Martinez (1887–1980) made her signature all-black ceramic vessels using a heating technique called reduction firing. This technique involves smothering the flame surrounding the clay vessel. ______ the vessel takes on a shiny, black hue.",
+          "prompt": "Which choice completes the text with the most logical transition?",
+          "options": [
+            {
+              "label": "A",
+              "text": "On the contrary,"
+            },
+            {
+              "label": "B",
+              "text": "For example,"
+            },
+            {
+              "label": "C",
+              "text": "Previously,"
+            },
+            {
+              "label": "D",
+              "text": "As a result,"
+            }
+          ],
+          "correct": "D",
+          "explanation": "The black hue is the effect of smothering the flame, so \"As a result\" (cause–effect) is correct."
+        },
+        {
+          "number": "92",
+          "source": "Official Digital SAT 5, Module 1, Q30",
+          "passage": "A turtle shell appears external to the animal, protecting its body like armor. ______ the shell is often incorrectly assumed to be an exoskeleton, a rigid outer casing like that of a crustacean or an insect, when in fact it is an endoskeleton, a part of the turtle’s internal bone structure, more akin to a spine or a pair of ribs.",
+          "prompt": "Which choice completes the text with the most logical transition?",
+          "options": [
+            {
+              "label": "A",
+              "text": "That being said,"
+            },
+            {
+              "label": "B",
+              "text": "However,"
+            },
+            {
+              "label": "C",
+              "text": "For instance,"
+            },
+            {
+              "label": "D",
+              "text": "Hence,"
+            }
+          ],
+          "correct": "D",
+          "explanation": "Because the shell looks external, people assume it is an exoskeleton. \"Hence\" shows that this assumption follows from the previous sentence."
+        },
+        {
+          "number": "93",
+          "source": "Official Digital SAT 5, Module 2, Q28",
+          "passage": "To guarantee the validity of experimental results, scientists rely on precise, unchanging standards of measurement. ______ metrologists (scientists who study measurement) developed the SI, or International System of Units. The SI’s units of measurement are based on unchanging values in nature, such as the mass of an electron or the speed of light.",
+          "prompt": "Which choice completes the text with the most logical transition?",
+          "options": [
+            {
+              "label": "A",
+              "text": "In contrast,"
+            },
+            {
+              "label": "B",
+              "text": "Regardless,"
+            },
+            {
+              "label": "C",
+              "text": "In addition,"
+            },
+            {
+              "label": "D",
+              "text": "For this reason,"
+            }
+          ],
+          "correct": "D",
+          "explanation": "Metrologists developed the SI because scientists need unchanging standards. \"For this reason\" signals cause–effect."
+        },
+        {
+          "number": "94",
+          "source": "Official Digital SAT 7, Module 2, Q27",
+          "passage": "Famous for its four-degree tilt, the leaning Garisenda Tower is a popular attraction in Bologna’s city center. However, measurements taken in 2023 showed that the tower was rotating in a concerning way. ______ city officials closed the area around the tower so experts could explore solutions to stabilize the historical twelfth-century structure.",
+          "prompt": "Which choice completes the text with the most logical transition?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Similarly,"
+            },
+            {
+              "label": "B",
+              "text": "As a result,"
+            },
+            {
+              "label": "C",
+              "text": "For example,"
+            },
+            {
+              "label": "D",
+              "text": "In comparison,"
+            }
+          ],
+          "correct": "B",
+          "explanation": "Closing the area is a consequence of the concerning rotation, so \"As a result\" is logical."
+        },
+        {
+          "number": "95",
+          "source": "Official Digital SAT 6, Module 2, Q28",
+          "passage": "The liquid metals in Earth’s core circulate constantly, and this circulation generates electrical currents that flow between Earth’s North and South magnetic poles. These electrical currents, ______ create a barrier around Earth that protects us from radiation and charged particles coming from space.",
+          "prompt": "Which choice completes the text with the most logical transition?",
+          "options": [
+            {
+              "label": "A",
+              "text": "in turn,"
+            },
+            {
+              "label": "B",
+              "text": "likewise,"
+            },
+            {
+              "label": "C",
+              "text": "nevertheless,"
+            },
+            {
+              "label": "D",
+              "text": "in reality,"
+            }
+          ],
+          "correct": "A",
+          "explanation": "Circulation creates currents, and the currents then create a barrier—a chain of cause and effect. \"In turn\" signals this next step."
+        },
+        {
+          "number": "96",
+          "source": "Official Digital SAT 3, Module 2, Q30 — also SAT 9 M1 Q29",
+          "passage": "The more diverse and wide ranging an animal’s behaviors, the larger and more energy demanding the animal’s brain tends to be. ______ from an evolutionary perspective, animals that perform only basic actions should allocate fewer resources to growing and maintaining brain tissue. The specialized subtypes of ants within colonies provide an opportunity to explore this hypothesis.",
+          "prompt": "Which choice completes the text with the most logical transition?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Subsequently,"
+            },
+            {
+              "label": "B",
+              "text": "Besides,"
+            },
+            {
+              "label": "C",
+              "text": "Nevertheless,"
+            },
+            {
+              "label": "D",
+              "text": "Thus,"
+            }
+          ],
+          "correct": "D",
+          "explanation": "The second sentence is a logical conclusion drawn from the first, so \"Thus\" (cause–effect) fits."
+        },
+        {
+          "number": "97",
+          "source": "Official Digital SAT 4, Module 1, Q30",
+          "passage": "In 2019, researcher Patricia Jurado Gonzalez and food historian Nawal Nasrallah prepared a stew from a 4,000-year-old recipe found on a Mesopotamian clay tablet. When they tasted the dish, known as pašrūtum (“unwinding”), they found that it had a mild taste and inspired a sense of calm. ______ the researchers, knowing that dishes were sometimes named after their intended effects, theorized that the dish’s name, “unwinding,” referred to its function: to help ancient diners relax.",
+          "prompt": "Which choice completes the text with the most logical transition?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Therefore,"
+            },
+            {
+              "label": "B",
+              "text": "Alternately,"
+            },
+            {
+              "label": "C",
+              "text": "Nevertheless,"
+            },
+            {
+              "label": "D",
+              "text": "Likewise,"
+            }
+          ],
+          "correct": "A",
+          "explanation": "The researchers' theory is a conclusion drawn from their experience of the dish's calming effect. \"Therefore\" signals this result."
+        },
+        {
+          "number": "98",
+          "source": "Official Digital SAT 10, Module 1, Q30",
+          "passage": "If the formation of Earth’s mantle had been purely a product of core differentiation—whereby heavier elements sink toward the core and lighter elements rise—the upper mantle would be depleted of heavy siderophile elements. Siderophiles are much more abundant in the mantle than predicted in that model, however. ______ extraterrestrial material containing siderophiles, likely from asteroid or comet impacts, almost certainly accreted to Earth following core differentiation.",
+          "prompt": "Which choice completes the text with the most logical transition?",
+          "options": [
+            {
+              "label": "A",
+              "text": "That said,"
+            },
+            {
+              "label": "B",
+              "text": "Hence,"
+            },
+            {
+              "label": "C",
+              "text": "For example,"
+            },
+            {
+              "label": "D",
+              "text": "Likewise,"
+            }
+          ],
+          "correct": "B",
+          "explanation": "The final sentence is a conclusion drawn from the evidence (siderophiles are more abundant than predicted), so \"Hence\" is logical."
+        },
+        {
+          "number": "99",
+          "source": "Official Digital SAT 5, Module 2, Q29",
+          "passage": "In retrospect, one of the lessons of the 2003 Human Genome Project is that a gene is affected by many factors, not the least of which is its interactions with the protein products of other genes. ______ rather than just focusing on the human genome, efforts to better understand gene mutations related to disease have begun to consider the human proteome, the complete set of proteins expressed by human genes.",
+          "prompt": "Which choice completes the text with the most logical transition?",
+          "options": [
+            {
+              "label": "A",
+              "text": "In other words,"
+            },
+            {
+              "label": "B",
+              "text": "That said,"
+            },
+            {
+              "label": "C",
+              "text": "For example,"
+            },
+            {
+              "label": "D",
+              "text": "Accordingly,"
+            }
+          ],
+          "correct": "D",
+          "explanation": "The shift in research focus is a consequence of the lesson learned. \"Accordingly\" signals a response that follows logically."
+        },
+        {
+          "number": "100",
+          "source": "Official Digital SAT 8, Module 2, Q31",
+          "passage": "Economist Elinor Ostrom’s studies of communities around the world have empirically demonstrated that common pool resources, such as grazing lands, can be sustainably managed by the people who use them (rather than through private entities or centralized governments). ______ Ostrom’s work is a repudiation of the “tragedy of the commons,” the view that individuals will inevitably overexploit a finite shared resource if given unfettered access to it.",
+          "prompt": "Which choice completes the text with the most logical transition?",
+          "options": [
+            {
+              "label": "A",
+              "text": "By contrast,"
+            },
+            {
+              "label": "B",
+              "text": "For example,"
+            },
+            {
+              "label": "C",
+              "text": "That said,"
+            },
+            {
+              "label": "D",
+              "text": "As such,"
+            }
+          ],
+          "correct": "D",
+          "explanation": "Because her work demonstrates sustainable shared management, it therefore functions as a repudiation of the \"tragedy of the commons.\" \"As such\" signals this consequence/characterization."
+        },
+        {
+          "number": "101",
+          "source": "Official Digital SAT 6, Module 1, Q30",
+          "passage": "In hindsight, given the ideas about the natural world circulating among British scientists in the 1800s, the theory of natural selection was an obvious next step. It may not have been a coincidence, ______ that Charles Darwin and Alfred Wallace arrived at the concept independently. Indeed, contrary to the popular myth of the lone genius, theirs is not the first paradigm-shifting theory to have emerged from multiple scholars working in parallel.",
+          "prompt": "Which choice completes the text with the most logical transition?",
+          "options": [
+            {
+              "label": "A",
+              "text": "however,"
+            },
+            {
+              "label": "B",
+              "text": "then,"
+            },
+            {
+              "label": "C",
+              "text": "moreover,"
+            },
+            {
+              "label": "D",
+              "text": "for example,"
+            }
+          ],
+          "correct": "B",
+          "explanation": "The sentence draws a conclusion from the previous one (since the theory was an obvious next step, simultaneous discovery was likely no coincidence). \"Then\" here means \"therefore/in that case.\""
+        },
+        {
+          "number": "102",
+          "source": "Official Digital SAT 7, Module 2, Q30",
+          "passage": "When, in 2017, Cambridge University students Lucy Moss and Toby Marlow decided they wanted to develop a musical together, one of their goals was for their female actor friends to have good parts to play. ______ they created the show Six, a retelling of the history of King Henry VIII’s wives in which each of the six queens has a starring role.",
+          "prompt": "Which choice completes the text with the most logical transition?",
+          "options": [
+            {
+              "label": "A",
+              "text": "In other words,"
+            },
+            {
+              "label": "B",
+              "text": "In summary,"
+            },
+            {
+              "label": "C",
+              "text": "For example,"
+            },
+            {
+              "label": "D",
+              "text": "To that end,"
+            }
+          ],
+          "correct": "D",
+          "explanation": "Creating a show with six starring female roles was done to achieve the stated goal. \"To that end\" signals purpose."
+        },
+        {
+          "number": "103",
+          "source": "Official Digital SAT 2, Module 2, Q30",
+          "passage": "In her poetry collection Thomas and Beulah, Rita Dove interweaves the titular characters’ personal stories with broader historical narratives. She places Thomas’s journey from the American South to the Midwest in the early 1900s within the larger context of the Great Migration. ______ Dove sets events from Beulah’s personal life against the backdrop of the US Civil Rights Movement.",
+          "prompt": "Which choice completes the text with the most logical transition?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Specifically,"
+            },
+            {
+              "label": "B",
+              "text": "Thus,"
+            },
+            {
+              "label": "C",
+              "text": "Regardless,"
+            },
+            {
+              "label": "D",
+              "text": "Similarly,"
+            }
+          ],
+          "correct": "D",
+          "explanation": "Dove does the same thing for Beulah that she did for Thomas (placing a personal story in a historical context). \"Similarly\" signals this parallel."
+        },
+        {
+          "number": "104",
+          "source": "Official Digital SAT 9, Module 2, Q27",
+          "passage": "Before California’s 1911 election to approve a proposition granting women the right to vote, activists across the state sold tea to promote the cause of suffrage. In San Francisco, the Woman’s Suffrage Party sold Equality Tea at local fairs. ______ in Los Angeles, activist Nancy Tuttle Craig, who ran one of California’s largest grocery store firms, distributed Votes for Women Tea.",
+          "prompt": "Which choice completes the text with the most logical transition?",
+          "options": [
+            {
+              "label": "A",
+              "text": "For example,"
+            },
+            {
+              "label": "B",
+              "text": "To conclude,"
+            },
+            {
+              "label": "C",
+              "text": "Similarly,"
+            },
+            {
+              "label": "D",
+              "text": "In other words,"
+            }
+          ],
+          "correct": "C",
+          "explanation": "The Los Angeles activity is parallel to the San Francisco one (both sold tea for suffrage), so \"Similarly\" is logical."
+        },
+        {
+          "number": "105",
+          "source": "Official Digital SAT 5, Module 2, Q26",
+          "passage": "In 1949, Frank Zamboni developed an ice rink resurfacing machine. As Zamboni’s machine moved along the rink’s surface, it first scraped off the top layer of ice. ______ it sprayed water into the deep grooves left behind by customers’ skates. Lastly, it smoothed over the newly formed ice.",
+          "prompt": "Which choice completes the text with the most logical transition?",
+          "options": [
+            {
+              "label": "A",
+              "text": "For example,"
+            },
+            {
+              "label": "B",
+              "text": "Next,"
+            },
+            {
+              "label": "C",
+              "text": "Similarly,"
+            },
+            {
+              "label": "D",
+              "text": "In contrast,"
+            }
+          ],
+          "correct": "B",
+          "explanation": "The steps are in order: \"first,\" [blank], \"Lastly.\" \"Next\" fits the middle step."
+        },
+        {
+          "number": "106",
+          "source": "Official Digital SAT 6, Module 2, Q27",
+          "passage": "After appropriate permissions are granted, a typical archaeological dig begins with a surveyor making a detailed grid of the excavation site. Then, the site is carefully dug, and any artifacts found are recorded and mapped onto the site grid. ______ the artifacts are removed, cataloged, and analyzed in a laboratory.",
+          "prompt": "Which choice completes the text with the most logical transition?",
+          "options": [
+            {
+              "label": "A",
+              "text": "For instance,"
+            },
+            {
+              "label": "B",
+              "text": "On the contrary,"
+            },
+            {
+              "label": "C",
+              "text": "Earlier,"
+            },
+            {
+              "label": "D",
+              "text": "Finally,"
+            }
+          ],
+          "correct": "D",
+          "explanation": "The text describes steps in order (\"begins,\" \"Then\"); the last step is introduced by \"Finally.\""
+        },
+        {
+          "number": "107",
+          "source": "Official Digital SAT 10, Module 2, Q27",
+          "passage": "Neuroscientist Karen Konkoly wanted to determine whether individuals can understand and respond to questions during REM sleep. She first taught volunteers eye movements they would use to respond to basic math problems while asleep (a single left-right eye movement indicated the number one). ______ she attached electrodes to the volunteers’ faces to record their eye movements during sleep.",
+          "prompt": "Which choice completes the text with the most logical transition?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Specifically,"
+            },
+            {
+              "label": "B",
+              "text": "Next,"
+            },
+            {
+              "label": "C",
+              "text": "For instance,"
+            },
+            {
+              "label": "D",
+              "text": "In sum,"
+            }
+          ],
+          "correct": "B",
+          "explanation": "The procedure is described in order (\"first\"); the following step is introduced by \"Next.\""
+        },
+        {
+          "number": "108",
+          "source": "Official Digital SAT 4, Module 1, Q27",
+          "passage": "In 1968, US Congressman John Conyers introduced a bill to establish a national holiday in honor of Dr. Martin Luther King Jr. The bill didn’t make it to a vote, but Conyers was determined. He teamed up with Shirley Chisholm, the first Black woman to be elected to Congress, and they resubmitted the bill every session for the next fifteen years. ______ in 1983, the bill passed.",
+          "prompt": "Which choice completes the text with the most logical transition?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Instead,"
+            },
+            {
+              "label": "B",
+              "text": "Likewise,"
+            },
+            {
+              "label": "C",
+              "text": "Finally,"
+            },
+            {
+              "label": "D",
+              "text": "Additionally,"
+            }
+          ],
+          "correct": "C",
+          "explanation": "After fifteen years of effort, the bill passed at last. \"Finally\" signals the end of a long sequence."
+        },
+        {
+          "number": "109",
+          "source": "Official Digital SAT 3, Module 2, Q29",
+          "passage": "Archaeologist Sue Brunning explains why the seventh-century ship burial site at Sutton Hoo in England was likely the tomb of a king. First, the gold artifacts inside the ship suggest that the person buried with them was a wealthy and respected leader. ______ the massive effort required to bury the ship would likely only have been undertaken for a king.",
+          "prompt": "Which choice completes the text with the most logical transition?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Instead,"
+            },
+            {
+              "label": "B",
+              "text": "Still,"
+            },
+            {
+              "label": "C",
+              "text": "Specifically,"
+            },
+            {
+              "label": "D",
+              "text": "Second,"
+            }
+          ],
+          "correct": "D",
+          "explanation": "The text lists reasons beginning with \"First\"; the next reason is introduced by \"Second.\""
+        },
+        {
+          "number": "110",
+          "source": "Official Digital SAT 10, Module 1, Q29",
+          "passage": "When Chinese director Chloé Zhao accepted the Oscar in 2021 for her film Nomadland, she made Academy Award history. ______ only one other woman, Kathryn Bigelow of the United States, had been named best director at the Oscars, making Zhao the second woman and the first Asian woman to win the award.",
+          "prompt": "Which choice completes the text with the most logical transition?",
+          "options": [
+            {
+              "label": "A",
+              "text": "As a result,"
+            },
+            {
+              "label": "B",
+              "text": "Previously,"
+            },
+            {
+              "label": "C",
+              "text": "However,"
+            },
+            {
+              "label": "D",
+              "text": "Likewise,"
+            }
+          ],
+          "correct": "B",
+          "explanation": "The sentence describes what had happened before Zhao's win (\"had been named\"), so the time transition \"Previously\" is logical."
+        },
+        {
+          "number": "111",
+          "source": "Official Digital SAT 6, Module 1, Q27",
+          "passage": "Before it unveiled a massive new gallery in 2009, the Art Institute of Chicago was only able to display about 5% of its art collection. ______ the museum is able to display close to 30% of its collection.",
+          "prompt": "Which choice completes the text with the most logical transition?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Additionally,"
+            },
+            {
+              "label": "B",
+              "text": "For example,"
+            },
+            {
+              "label": "C",
+              "text": "Nevertheless,"
+            },
+            {
+              "label": "D",
+              "text": "Today,"
+            }
+          ],
+          "correct": "D",
+          "explanation": "The text contrasts the past (before 2009) with the present (\"is able\"), so \"Today\" is the logical time transition."
+        },
+        {
+          "number": "112",
+          "source": "Official Digital SAT 3, Module 2, Q28 — also SAT 8 M2 Q28",
+          "passage": "Etched into Peru’s Nazca Desert are line drawings so large that they can only be fully seen from high above. Archaeologists have known of the lines since the 1920s, when a researcher spotted some from a nearby foothill, and they have been studying the markings ever since. ______ archaeologists’ efforts are aided by drones that capture high-resolution aerial photographs of the lines.",
+          "prompt": "Which choice completes the text with the most logical transition?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Currently,"
+            },
+            {
+              "label": "B",
+              "text": "In comparison,"
+            },
+            {
+              "label": "C",
+              "text": "Still,"
+            },
+            {
+              "label": "D",
+              "text": "However,"
+            }
+          ],
+          "correct": "A",
+          "explanation": "The text moves from past study (since the 1920s) to present practice (\"are aided\"). \"Currently\" marks this time shift."
+        },
+        {
+          "number": "113",
+          "source": "Official Digital SAT 4, Module 2, Q27",
+          "passage": "During a 2021 launch, Rocket Labs’ Electron rocket experienced an unexpected failure: its second-stage booster shut down suddenly after ignition. ______ instead of downplaying the incident, Rocket Labs’ CEO publicly acknowledged what happened and apologized for the loss of the rocket’s payload, which had consisted of two satellites.",
+          "prompt": "Which choice completes the text with the most logical transition?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Afterward,"
+            },
+            {
+              "label": "B",
+              "text": "Additionally,"
+            },
+            {
+              "label": "C",
+              "text": "Indeed,"
+            },
+            {
+              "label": "D",
+              "text": "Similarly,"
+            }
+          ],
+          "correct": "A",
+          "explanation": "The CEO’s response came after the failure, so the time-sequence transition \"Afterward\" is logical."
+        },
+        {
+          "number": "114",
+          "source": "Official Digital SAT 5, Module 2, Q27",
+          "passage": "In 2014, Nestor Gomez won his first-ever storytelling competition, relating a tale about his life as a Guatemalan immigrant living in Chicago. ______ in 2017, Gomez created the show 80 Minutes Around the World as a platform for others to share stories about their immigration experiences.",
+          "prompt": "Which choice completes the text with the most logical transition?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Instead,"
+            },
+            {
+              "label": "B",
+              "text": "For example,"
+            },
+            {
+              "label": "C",
+              "text": "Later,"
+            },
+            {
+              "label": "D",
+              "text": "In other words,"
+            }
+          ],
+          "correct": "C",
+          "explanation": "The 2017 event came after the 2014 event, so the time transition \"Later\" is logical."
+        },
+        {
+          "number": "115",
+          "source": "Official Digital SAT 2, Module 2, Q27 — also SAT 9 M1 Q27",
+          "passage": "Chimamanda Ngozi Adichie’s 2013 novel Americanah chronicles the divergent experiences of Ifemelu and Obinze, a young Nigerian couple, after high school. Ifemelu moves to the United States to attend a prestigious university. ______ Obinze travels to London, hoping to start a career there. However, frustrated with the lack of opportunities, he soon returns to Nigeria.",
+          "prompt": "Which choice completes the text with the most logical transition?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Meanwhile,"
+            },
+            {
+              "label": "B",
+              "text": "Nevertheless,"
+            },
+            {
+              "label": "C",
+              "text": "Secondly,"
+            },
+            {
+              "label": "D",
+              "text": "In fact,"
+            }
+          ],
+          "correct": "A",
+          "explanation": "The two events happen at the same time to two different characters. \"Meanwhile\" signals simultaneous action."
+        },
+        {
+          "number": "116",
+          "source": "Official Digital SAT 10, Module 2, Q30",
+          "passage": "Researchers Helena Mihaljević-Brandt, Lucía Santamaría, and Marco Tullney report that while mathematicians may have traditionally worked alone, evidence points to a shift in the opposite direction. ______ mathematicians are choosing to collaborate with their peers—a trend illustrated by a rise in the number of mathematics publications credited to multiple authors.",
+          "prompt": "Which choice completes the text with the most logical transition?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Similarly,"
+            },
+            {
+              "label": "B",
+              "text": "For this reason,"
+            },
+            {
+              "label": "C",
+              "text": "Furthermore,"
+            },
+            {
+              "label": "D",
+              "text": "Increasingly,"
+            }
+          ],
+          "correct": "D",
+          "explanation": "The sentence describes a growing trend (\"a shift\"), so \"Increasingly\" is logical."
+        },
+        {
+          "number": "117",
+          "source": "Official Digital SAT 4, Module 2, Q28",
+          "passage": "When soil becomes contaminated by toxic metals, it can be removed from the ground and disposed of in a landfill. ______ contaminated soil can be detoxified via phytoremediation: plants that can withstand high concentrations of metals absorb the pollutants and store them in their shoots, which are then cut off and safely disposed of, preserving the health of the plants.",
+          "prompt": "Which choice completes the text with the most logical transition?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Alternatively,"
+            },
+            {
+              "label": "B",
+              "text": "Specifically,"
+            },
+            {
+              "label": "C",
+              "text": "For example,"
+            },
+            {
+              "label": "D",
+              "text": "As a result,"
+            }
+          ],
+          "correct": "A",
+          "explanation": "Phytoremediation is a different option from removing the soil to a landfill. \"Alternatively\" introduces another possible method."
+        },
+        {
+          "number": "118",
+          "source": "Official Digital SAT 6, Module 1, Q26",
+          "passage": "In the search for extraterrestrial life, astrobiologists Stuart Bartlett and Michael L. Wong propose that scientists avoid using the term “life.” ______ researchers should use another word: “lyfe.” This new term, they argue, could be used to draw distinctions between the known characteristics of life on Earth and the potentially differing characteristics of lyfe on other planets.",
+          "prompt": "Which choice completes the text with the most logical transition?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Previously,"
+            },
+            {
+              "label": "B",
+              "text": "Regardless,"
+            },
+            {
+              "label": "C",
+              "text": "There,"
+            },
+            {
+              "label": "D",
+              "text": "Instead,"
+            }
+          ],
+          "correct": "D",
+          "explanation": "Using \"lyfe\" is proposed as a replacement for \"life,\" so \"Instead\" is logical."
+        },
+        {
+          "number": "119",
+          "source": "Official Digital SAT 10, Module 2, Q29",
+          "passage": "In her 2012 analysis of tree rings from Japan’s Yaku Island, cosmic ray physicist Fusa Miyake noted an anomalous carbon-14 spike dating to 774–775 CE, indicating that a massive burst of radiation reached Earth during that time. ______ this unprecedented radiocarbon surge was dubbed a “Miyake event” in honor of its discoverer.",
+          "prompt": "Which choice completes the text with the most logical transition?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Fittingly,"
+            },
+            {
+              "label": "B",
+              "text": "Similarly,"
+            },
+            {
+              "label": "C",
+              "text": "However,"
+            },
+            {
+              "label": "D",
+              "text": "In other words,"
+            }
+          ],
+          "correct": "A",
+          "explanation": "It is appropriate that the event is named after the person who discovered it. \"Fittingly\" expresses this appropriateness."
+        }
+      ]
+    }
+  ]
+}

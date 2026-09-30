@@ -1,0 +1,868 @@
+{
+  "slug": "transitions-part-1",
+  "title": "Transitions Part 1",
+  "description": "Contrast, concession, addition, examples, specification, elaboration, and emphasis.",
+  "source_url": "https://docs.google.com/document/d/1CooBpaTNOeWBSkHd7HafSKYHLqssSnn3mdd2CXUCcBo",
+  "section_count": 6,
+  "question_count": 30,
+  "sections": [
+    {
+      "number": 1,
+      "id": "focus-1-contrast-however-by-contrast-in-contrast-on-the-other-hand-conversely",
+      "title": "Contrast: however, by contrast, in contrast, on the other hand, conversely",
+      "explanation_en": "A contrast transition tells the reader that the next sentence goes in the opposite direction from the one before it. Use it when two things are compared and they are different (wolves vs. dogs, lower vs. higher elevations), or when a new finding disagrees with an old belief. However is the general all-purpose contrast word. By contrast / In contrast compare two different subjects side by side. On the other hand presents a second, opposing side. Conversely means the exact reverse situation is true. The test: if you can mentally insert “but” between the two sentences, you need a contrast word.",
+      "explanation_zh": "對比轉折詞（contrast）表示後一句和前一句的方向相反。當兩件事互相比較而且不同（例如：狼 vs. 狗、低海拔 vs. 高海拔），或是新的發現推翻舊的看法時，就用對比轉折詞。However 是最通用的「然而」；By contrast / In contrast 用來並排比較兩個不同的對象；On the other hand 提出「另一方面」相反的一面；Conversely 表示「正好相反」的情況。判斷方法：如果兩句之間可以放入「但是（but）」，就需要對比轉折詞。",
+      "examples": [
+        "When viewed up close, however, the portraits reveal themselves to be quilts, the stitching barely visible among the thousands of pieces of printed, microcut fabric. [Digital SAT 3, Module 1, Q26] (from afar they look like paintings; up close they are quilts)",
+        "With a pressure cooker pot, though, an airtight seal traps the vapor in the pot, creating pressure that allows the temperature of the water to increase past its boiling point. [Digital SAT 7, Module 1, Q24] (an uncovered pot vs. a pressure cooker)"
+      ],
+      "questions": [
+        {
+          "number": "1",
+          "source": "Official Digital SAT 1, Module 1, Q30 — also SAT 8 M2 Q29",
+          "passage": "At two weeks old, the time their critical socialization period begins, wolves can smell but cannot yet see or hear. Domesticated dogs, ______ can see, hear, and smell by the end of two weeks. This relative lack of sensory input may help explain why wolves behave so differently around humans than dogs do: from a very young age, wolves are more wary and less exploratory.",
+          "prompt": "Which choice completes the text with the most logical transition?",
+          "options": [
+            {
+              "label": "A",
+              "text": "in other words,"
+            },
+            {
+              "label": "B",
+              "text": "for instance,"
+            },
+            {
+              "label": "C",
+              "text": "by contrast,"
+            },
+            {
+              "label": "D",
+              "text": "accordingly,"
+            }
+          ],
+          "correct": "C",
+          "explanation": "Wolves at two weeks cannot see or hear; dogs at two weeks can. Two different subjects are compared, so by contrast fits. A (in other words) would need a restatement, B (for instance) an example of wolves, and D (accordingly) a result; none of these relationships exists."
+        },
+        {
+          "number": "2",
+          "source": "Official Digital SAT 4, Module 1, Q28",
+          "passage": "Geoscientists have long considered Hawaii’s Mauna Loa volcano to be Earth’s largest shield volcano by volume, measuring approximately 74,000 cubic kilometers. ______ according to a 2020 study by local geoscientist Michael Garcia, Hawaii’s Pūhāhonu shield volcano is significantly larger, boasting a volume of about 148,000 cubic kilometers.",
+          "prompt": "Which choice completes the text with the most logical transition?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Secondly,"
+            },
+            {
+              "label": "B",
+              "text": "Consequently,"
+            },
+            {
+              "label": "C",
+              "text": "Moreover,"
+            },
+            {
+              "label": "D",
+              "text": "However,"
+            }
+          ],
+          "correct": "D",
+          "explanation": "The first sentence gives the long-held belief (Mauna Loa is largest); the second gives a 2020 study that contradicts it (Pūhāhonu is larger). A contradiction needs However. Secondly and Moreover add a point in the same direction, and Consequently wrongly says the new study was caused by the old belief."
+        },
+        {
+          "number": "3",
+          "source": "Official Digital SAT 5, Module 1, Q29",
+          "passage": "According to Duverger’s law, countries with single-ballot majoritarian elections for single-member districts tend to polarize into two-party systems, wherein dueling political parties consistently dominate the political system. ______ countries with proportional-representation electoral systems tend to support multi-partyism, under which power gets distributed among many political parties.",
+          "prompt": "Which choice completes the text with the most logical transition?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Subsequently,"
+            },
+            {
+              "label": "B",
+              "text": "Conversely,"
+            },
+            {
+              "label": "C",
+              "text": "For instance,"
+            },
+            {
+              "label": "D",
+              "text": "In other words,"
+            }
+          ],
+          "correct": "B",
+          "explanation": "Two-party systems vs. multi-party systems: the second sentence describes the exact reverse situation, so Conversely is correct. Subsequently is time, For instance would need an example of two-party countries, and In other words would need a restatement."
+        },
+        {
+          "number": "4",
+          "source": "Official Digital SAT 6, Module 1, Q28",
+          "passage": "Working together with the Navajo Nation Department of Water Resources, Dr. Lani Tsinnajinnie analyzed data about snowpack levels in the Chuska Mountains. She found that the snowpack (the amount of snow on the ground) was deepest in early March at lower elevations. At higher elevations, ______ the snowpack was deepest in mid-March.",
+          "prompt": "Which choice completes the text with the most logical transition?",
+          "options": [
+            {
+              "label": "A",
+              "text": "in other words,"
+            },
+            {
+              "label": "B",
+              "text": "for instance,"
+            },
+            {
+              "label": "C",
+              "text": "on the other hand,"
+            },
+            {
+              "label": "D",
+              "text": "in summary,"
+            }
+          ],
+          "correct": "C",
+          "explanation": "Lower elevations: deepest in early March. Higher elevations: deepest in mid-March. The result for the second group differs, so on the other hand fits. A restates, B gives an example, and D summarizes; none fits a difference between two groups."
+        },
+        {
+          "number": "5",
+          "source": "Official Digital SAT 9, Module 1, Q30",
+          "passage": "A firefly uses specialized muscles to draw oxygen into its lower abdomen through narrow tubes, triggering a chemical reaction whereby the oxygen combines with chemicals in the firefly’s abdomen to produce a glow. ______ when the firefly stops drawing in oxygen, the reaction—and the glow—cease.",
+          "prompt": "Which choice completes the text with the most logical transition?",
+          "options": [
+            {
+              "label": "A",
+              "text": "For instance,"
+            },
+            {
+              "label": "B",
+              "text": "By contrast,"
+            },
+            {
+              "label": "C",
+              "text": "Specifically,"
+            },
+            {
+              "label": "D",
+              "text": "In conclusion,"
+            }
+          ],
+          "correct": "B",
+          "explanation": "Drawing in oxygen produces a glow; stopping produces no glow. The second sentence describes the opposite condition, so By contrast is logical. For instance and Specifically would need an example or detail of how the glow is produced, and In conclusion would need a summary."
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "id": "focus-2-concession-correction-and-exception-still-nevertheless-nonetheless-tho",
+      "title": "Concession, Correction, and Exception: still, nevertheless, nonetheless, though, even so, instead, rather, on the contrary",
+      "explanation_en": "These transitions are also “turning” words, but each has a special job. Concession words (still, nevertheless, nonetheless, even so, though) mean “even though the first sentence is true, the next thing still happens.” The second sentence is surprising given the first (Paris was ideal, still she wanted to leave). Exception is a kind of concession: the first sentence gives the usual rule (typically…) and the next gives the case that breaks it. Correction / replacement words (instead, rather, on the contrary) mean “not that — this.” The first sentence states something that is rejected, avoided, or false, and the second gives the replacement or the truth. Clue: look for words like avoid, not, might assume, typically before the blank.",
+      "explanation_zh": "這類也是「轉折」詞，但各有特別的功能。讓步（concession）：still, nevertheless, nonetheless, even so, though 表示「雖然前一句是真的，但後面的事情仍然發生」，後一句在前一句的情況下顯得出乎意料（巴黎很理想，但她仍然想回印度）。例外（exception）也是一種讓步：前一句說一般情況（typically 通常），後一句說打破常規的例子。更正／取代（correction）：instead, rather, on the contrary 表示「不是那樣，而是這樣」——前一句的說法被否定、避免或是錯誤的，後一句提出取代的做法或真相。線索：空格前出現 avoid、not、might assume（可能以為）、typically 等字時，要特別注意。",
+      "examples": [
+        "To humans, it does not appear that the golden orb-weaver spider uses camouflage to capture its prey; rather, the brightly colored arachnid seems to wait conspicuously in the center of its large circular web for insects to approach. [Digital SAT 2, Module 1, Q26] (correction: not camouflage — rather, waiting in plain sight)",
+        "Jetties can sometimes have the opposite effect, though; obstructing the natural flow of sand along the shore can lead to increased erosion in some areas. [Digital SAT 8, Module 2, Q26] (concession: jetties are built to prevent erosion, though they can cause it)"
+      ],
+      "questions": [
+        {
+          "number": "6",
+          "source": "Official Digital SAT 1, Module 2, Q29 — also SAT 8 M1 Q27",
+          "passage": "In November 1934, Amrita Sher-Gil was living in what must have seemed like the ideal city for a young artist: Paris. She was studying firsthand the color-saturated style of France’s modernist masters and beginning to make a name for herself as a painter. ______ Sher-Gil longed to return to her childhood home of India; only there, she believed, could her art truly flourish.",
+          "prompt": "Which choice completes the text with the most logical transition?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Still,"
+            },
+            {
+              "label": "B",
+              "text": "Therefore,"
+            },
+            {
+              "label": "C",
+              "text": "Indeed,"
+            },
+            {
+              "label": "D",
+              "text": "Furthermore,"
+            }
+          ],
+          "correct": "A",
+          "explanation": "Paris seemed ideal and her career was starting, yet she wanted to leave. The second sentence is surprising given the first, so the concession word Still is correct. Therefore wrongly shows cause, and Indeed / Furthermore continue in the same direction."
+        },
+        {
+          "number": "7",
+          "source": "Official Digital SAT 3, Module 2, Q31",
+          "passage": "When designing costumes for film, American artist Suttirat Larlarb typically custom fits the garments to each actor. ______ for the film Sunshine, in which astronauts must reignite a dying Sun, she designed a golden spacesuit and had a factory reproduce it in a few standard sizes; lacking a tailor-made quality, the final creations reflected the ungainliness of actual spacesuits.",
+          "prompt": "Which choice completes the text with the most logical transition?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Nevertheless,"
+            },
+            {
+              "label": "B",
+              "text": "Thus,"
+            },
+            {
+              "label": "C",
+              "text": "Likewise,"
+            },
+            {
+              "label": "D",
+              "text": "Moreover,"
+            }
+          ],
+          "correct": "A",
+          "explanation": "“Typically custom fits” sets up the usual practice; the Sunshine spacesuits in standard sizes are an exception. Nevertheless signals this contrast/exception. Thus shows a result, and Likewise / Moreover add a similar point."
+        },
+        {
+          "number": "8",
+          "source": "Official Digital SAT 5, Module 1, Q28",
+          "passage": "Historians agree that the jazz pianist Jelly Roll Morton was exaggerating when he claimed to have invented jazz music. No one can deny, ______ that Morton’s innovative compositions and remarkable improvisational skills helped shape jazz as a genre during its early years.",
+          "prompt": "Which choice completes the text with the most logical transition?",
+          "options": [
+            {
+              "label": "A",
+              "text": "therefore,"
+            },
+            {
+              "label": "B",
+              "text": "in the second place,"
+            },
+            {
+              "label": "C",
+              "text": "in other words,"
+            },
+            {
+              "label": "D",
+              "text": "though,"
+            }
+          ],
+          "correct": "D",
+          "explanation": "Historians agree Morton exaggerated; the second sentence concedes that he was nevertheless very important. The mid-sentence concession word though fits. Therefore shows a result, in the second place lists a reason, and in other words restates; none shows the turn in meaning."
+        },
+        {
+          "number": "9",
+          "source": "Official Digital SAT 8, Module 2, Q30",
+          "passage": "Upon first approaching artist Kurt Wenner’s Dies Irae, a colorful scene painted on the surface of a cobblestone street in Mantua, Italy, one might assume a deep hole filled with life-sized, classically styled sculptures had opened up in the street. ______ by expertly applying the principles of perspective, Wenner created merely the illusion of depth.",
+          "prompt": "Which choice completes the text with the most logical transition?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Additionally,"
+            },
+            {
+              "label": "B",
+              "text": "On the contrary,"
+            },
+            {
+              "label": "C",
+              "text": "As a result,"
+            },
+            {
+              "label": "D",
+              "text": "Next,"
+            }
+          ],
+          "correct": "B",
+          "explanation": "“One might assume” a real hole had opened; the truth is that there is only an illusion. The second sentence corrects a false impression, so On the contrary is right. Additionally adds, As a result shows cause, and Next shows sequence."
+        },
+        {
+          "number": "10",
+          "source": "Official Digital SAT 6, Module 1, Q26",
+          "passage": "In the search for extraterrestrial life, astrobiologists Stuart Bartlett and Michael L. Wong propose that scientists avoid using the term “life.” ______ researchers should use another word: “lyfe.” This new term, they argue, could be used to draw distinctions between the known characteristics of life on Earth and the potentially differing characteristics of lyfe on other planets.",
+          "prompt": "Which choice completes the text with the most logical transition?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Previously,"
+            },
+            {
+              "label": "B",
+              "text": "Regardless,"
+            },
+            {
+              "label": "C",
+              "text": "There,"
+            },
+            {
+              "label": "D",
+              "text": "Instead,"
+            }
+          ],
+          "correct": "D",
+          "explanation": "The scientists want to avoid the word “life”; “lyfe” is the replacement. Instead introduces a replacement for something rejected. Previously is time, Regardless dismisses the first idea, and There has no place to refer to."
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "id": "focus-3-addition-in-addition-additionally-moreover-furthermore-also",
+      "title": "Addition: in addition, additionally, moreover, furthermore, also",
+      "explanation_en": "An addition transition adds another point of the same kind to the list. The two sentences are parallel: both describe a function, a requirement, a concern, or a piece of evidence about the same topic, and the second is new, not a restatement or a detail of the first. In addition and additionally are neutral; moreover and furthermore add a point that builds an argument. Test: can you say “and another thing is…”? If yes, use an addition word. Trap: if the second sentence only explains or narrows the first, that is specification (Section 5), not addition; if it is one case of the first, that is example (Section 4).",
+      "explanation_zh": "遞進／附加轉折詞（addition）是在清單中再加上同一類的另一點。兩句是平行的：都在講同一主題的功能、規定、顧慮或證據，而且第二句是新的資訊，不是換句話說，也不是前一句的細節。In addition、additionally 語氣中性；moreover、furthermore 常用於論證中「此外、而且」。判斷方法：能不能說成「還有另一點是…」？可以的話就選 addition。陷阱：如果第二句只是解釋或具體說明第一句，那是具體說明（Section 5）；如果第二句是第一句的一個例子，那是舉例（Section 4）。",
+      "examples": [
+        "In addition, Zufall suggested selling the product under a child-friendly name: Play-Doh. [Digital SAT 2, Module 2, Q20] (a second suggestion added to the first)",
+        "The first computerized spreadsheet, Dan Bricklin’s VisiCalc, improved financial recordkeeping not only by providing users with an easy means of adjusting data in spreadsheets but also by automatically updating all calculations that were dependent on these adjustments. [Digital SAT 1, Module 2, Q24] (addition inside one sentence: not only… but also)"
+      ],
+      "questions": [
+        {
+          "number": "11",
+          "source": "Official Digital SAT 2, Module 2, Q29",
+          "passage": "In 1933, the Twentieth Amendment to the US Constitution was ratified. The amendment mandates that presidential inaugurations be held on January 20, approximately ten weeks after the November election. ______ this amendment requires newly elected US senators and representatives to be sworn into their respective offices on January 3.",
+          "prompt": "Which choice completes the text with the most logical transition?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Instead,"
+            },
+            {
+              "label": "B",
+              "text": "For instance,"
+            },
+            {
+              "label": "C",
+              "text": "Specifically,"
+            },
+            {
+              "label": "D",
+              "text": "In addition,"
+            }
+          ],
+          "correct": "D",
+          "explanation": "The first requirement is the January 20 inauguration date; the second, separate requirement is the January 3 swearing-in. A new, parallel point needs In addition. Instead signals replacement, For instance and Specifically would make the second rule an example or detail of the first, which it is not."
+        },
+        {
+          "number": "12",
+          "source": "Official Digital SAT 4, Module 1, Q29",
+          "passage": "Samuel Coleridge-Taylor was a prominent classical music composer from England who toured the US three times in the early 1900s. The child of a West African father and an English mother, Coleridge-Taylor emphasized his mixed-race ancestry. For example, he referred to himself as Anglo-African. ______ he incorporated the sounds of traditional African music into his classical music compositions.",
+          "prompt": "Which choice completes the text with the most logical transition?",
+          "options": [
+            {
+              "label": "A",
+              "text": "In addition,"
+            },
+            {
+              "label": "B",
+              "text": "Actually,"
+            },
+            {
+              "label": "C",
+              "text": "However,"
+            },
+            {
+              "label": "D",
+              "text": "Regardless,"
+            }
+          ],
+          "correct": "A",
+          "explanation": "Calling himself Anglo-African is one way he emphasized his ancestry; using African music is a second, parallel way. In addition adds this point. Actually corrects, However contrasts, and Regardless dismisses; none fits two points in the same direction."
+        },
+        {
+          "number": "13",
+          "source": "Official Digital SAT 6, Module 1, Q29",
+          "passage": "The Inca of South America used intricately knotted string devices called quipus to record countable information, like population data and payments. ______ they may have used quipus to record more complex information, like stories and myths, according to researchers.",
+          "prompt": "Which choice completes the text with the most logical transition?",
+          "options": [
+            {
+              "label": "A",
+              "text": "As a result,"
+            },
+            {
+              "label": "B",
+              "text": "In other words,"
+            },
+            {
+              "label": "C",
+              "text": "In addition,"
+            },
+            {
+              "label": "D",
+              "text": "For example,"
+            }
+          ],
+          "correct": "C",
+          "explanation": "Quipus recorded countable data; they may also have recorded stories. A second possible use is added, so In addition is logical. As a result shows cause, In other words restates, and For example would need an example of countable information."
+        },
+        {
+          "number": "14",
+          "source": "Official Digital SAT 7, Module 1, Q27",
+          "passage": "Guard cells are specialized cells that are part of a plant’s pores. These cells help regulate the amount of carbon dioxide a plant takes in. ______ they help regulate a plant’s water loss.",
+          "prompt": "Which choice completes the text with the most logical transition?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Additionally,"
+            },
+            {
+              "label": "B",
+              "text": "Previously,"
+            },
+            {
+              "label": "C",
+              "text": "In conclusion,"
+            },
+            {
+              "label": "D",
+              "text": "Instead,"
+            }
+          ],
+          "correct": "A",
+          "explanation": "Guard cells regulate carbon dioxide intake and also regulate water loss: two parallel functions. Additionally adds the second function. Previously is time, In conclusion summarizes, and Instead replaces."
+        },
+        {
+          "number": "15",
+          "source": "Official Digital SAT 9, Module 1, Q28",
+          "passage": "Some members of the US Supreme Court have resisted calls to televise the court’s oral arguments, concerned that the participants would be tempted to perform for the cameras (and thus lower the quality of the discourse). ______ the justices worry that most viewers would not even watch the full deliberations, only short clips that could be misinterpreted and mischaracterized.",
+          "prompt": "Which choice completes the text with the most logical transition?",
+          "options": [
+            {
+              "label": "A",
+              "text": "However,"
+            },
+            {
+              "label": "B",
+              "text": "Additionally,"
+            },
+            {
+              "label": "C",
+              "text": "In comparison,"
+            },
+            {
+              "label": "D",
+              "text": "For example,"
+            }
+          ],
+          "correct": "B",
+          "explanation": "The justices’ first concern is performing for cameras; their second concern is misleading short clips. Additionally adds this second concern. However contrasts, In comparison compares two things, and For example would need an example of performing for cameras."
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "id": "focus-4-example-and-illustration-for-example-for-instance",
+      "title": "Example and Illustration: for example, for instance",
+      "explanation_en": "An example transition introduces one specific case of a general category named in the sentence before. Look for a general, plural noun phrase before the blank (hybrid works, surprising adaptations, not all conifer species) and then one named member of that group after the blank (The Emperor’s Babe, tadpole shrimp embryos, larch trees). For example and for instance mean the same thing. These words often appear in the middle of the sentence, right after the subject, set off by commas: Larch trees, for instance, lose… Test: can you say “one case of this is…”? If yes, use an example word. Trap: specifically adds precise detail about the same idea; for example gives one case out of many.",
+      "explanation_zh": "舉例轉折詞（example）用來介紹前一句所說的一般類別中的一個具體例子。先找空格前的一般性、複數名詞片語（例如 hybrid works 混合作品、surprising adaptations 驚人的適應方式、not all conifer species 並非所有針葉樹），再看空格後是不是該類別中一個具名的成員（The Emperor’s Babe、蝌蚪蝦胚胎、落葉松）。For example 和 for instance 意思相同，常出現在句子中間、主詞後面，前後用逗號隔開：Larch trees, for instance, lose… 判斷方法：能不能說成「其中一個例子是…」？可以就選舉例。陷阱：specifically 是對同一件事提供更精確的細節；for example 是從許多情況中舉出一個例子。",
+      "examples": [
+        "Her 2014 novel Boy, Snow, Bird, for instance, is a complex retelling of the story of Snow White, while her 2019 novel Gingerbread offers a delicious twist on the classic tale of Hansel and Gretel. [Digital SAT 2, Module 1, Q28] (examples of fiction inspired by the Brothers Grimm)",
+        "For instance, the colorful calico rockfish (Sebastes dalli) can survive for a little over a decade, while the rougheye rockfish (Sebastes aleutianus) boasts a maximum life span of about two centuries. [Digital SAT 3, Module 2, Q21] (examples of how rockfish life spans vary)"
+      ],
+      "questions": [
+        {
+          "number": "16",
+          "source": "Official Digital SAT 1, Module 1, Q29",
+          "passage": "Although novels and poems are considered distinct literary forms, many authors have created hybrid works that incorporate elements of both. Bernardine Evaristo’s The Emperor’s Babe, ______ is a verse novel, a book-length narrative complete with characters and a plot but conveyed in short, crisp lines of poetry rather than prose.",
+          "prompt": "Which choice completes the text with the most logical transition?",
+          "options": [
+            {
+              "label": "A",
+              "text": "by contrast,"
+            },
+            {
+              "label": "B",
+              "text": "consequently,"
+            },
+            {
+              "label": "C",
+              "text": "secondly,"
+            },
+            {
+              "label": "D",
+              "text": "for example,"
+            }
+          ],
+          "correct": "D",
+          "explanation": "“Hybrid works” is a general group; The Emperor’s Babe is one specific case of it. for example introduces the case. by contrast signals difference, consequently a result, and secondly a second item in a list."
+        },
+        {
+          "number": "17",
+          "source": "Official Digital SAT 2, Module 2, Q28 — also SAT 10 M1 Q28",
+          "passage": "Organisms have evolved a number of surprising adaptations to ensure their survival in adverse conditions. Tadpole shrimp (Triops longicaudatus) embryos, ______ can pause development for over ten years during extended periods of drought.",
+          "prompt": "Which choice completes the text with the most logical transition?",
+          "options": [
+            {
+              "label": "A",
+              "text": "in contrast,"
+            },
+            {
+              "label": "B",
+              "text": "for example,"
+            },
+            {
+              "label": "C",
+              "text": "meanwhile,"
+            },
+            {
+              "label": "D",
+              "text": "consequently,"
+            }
+          ],
+          "correct": "B",
+          "explanation": "“Surprising adaptations” is general; tadpole shrimp embryos pausing development is one specific case. for example fits. in contrast and meanwhile signal difference or time, and consequently a result."
+        },
+        {
+          "number": "18",
+          "source": "Official Digital SAT 3, Module 1, Q27 — also SAT 10 M2 Q26",
+          "passage": "Most conifers (trees belonging to the phylum Coniferophyta) are evergreen. That is, they keep their green leaves or needles year-round. However, not all conifer species are evergreen. Larch trees, ______ lose their needles every fall.",
+          "prompt": "Which choice completes the text with the most logical transition?",
+          "options": [
+            {
+              "label": "A",
+              "text": "for instance,"
+            },
+            {
+              "label": "B",
+              "text": "nevertheless,"
+            },
+            {
+              "label": "C",
+              "text": "meanwhile,"
+            },
+            {
+              "label": "D",
+              "text": "in addition,"
+            }
+          ],
+          "correct": "A",
+          "explanation": "“Not all conifer species are evergreen” is the general claim; larch trees are one specific case. for instance is correct. nevertheless signals concession (but larches agree with the claim), meanwhile is time, and in addition adds a new point."
+        },
+        {
+          "number": "19",
+          "source": "Practice item",
+          "passage": "Many desert plants have developed striking strategies for conserving water. The saguaro cactus, ______ can expand its pleated stem to store hundreds of liters of water after a single rainstorm.",
+          "prompt": "Which choice completes the text with the most logical transition?",
+          "options": [
+            {
+              "label": "A",
+              "text": "in contrast,"
+            },
+            {
+              "label": "B",
+              "text": "for instance,"
+            },
+            {
+              "label": "C",
+              "text": "in addition,"
+            },
+            {
+              "label": "D",
+              "text": "nevertheless,"
+            }
+          ],
+          "correct": "B",
+          "explanation": "“Striking strategies for conserving water” is general; the saguaro cactus is one specific case. for instance fits. in contrast signals difference, in addition would need a parallel new point, and nevertheless signals concession."
+        },
+        {
+          "number": "20",
+          "source": "Practice item",
+          "passage": "Several Renaissance painters experimented with unconventional materials, sometimes with unfortunate results. Leonardo da Vinci’s The Last Supper, ______ was painted in tempera on dry plaster rather than in the traditional fresco technique, and it began flaking within decades.",
+          "prompt": "Which choice completes the text with the most logical transition?",
+          "options": [
+            {
+              "label": "A",
+              "text": "similarly,"
+            },
+            {
+              "label": "B",
+              "text": "however,"
+            },
+            {
+              "label": "C",
+              "text": "as a result,"
+            },
+            {
+              "label": "D",
+              "text": "for example,"
+            }
+          ],
+          "correct": "D",
+          "explanation": "“Several Renaissance painters experimented with unconventional materials” is general; Leonardo’s tempera on dry plaster is one case. for example is correct. similarly would need a second, parallel painter, however signals contrast, and as a result signals an effect."
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "id": "focus-5-specification-and-elaboration-specifically-in-particular-that-is-in-ot",
+      "title": "Specification and Elaboration: specifically, in particular, that is, in other words",
+      "explanation_en": "A specification transition takes a general or vague statement and makes it more precise. The sentence before the blank uses a broad word (broadly speaking, challenged prevailing views, extremely influential, certain grains, likely responsible), and the sentence after the blank tells exactly how, exactly what, or exactly which. Specifically gives the precise details; in particular singles out the exact items meant (certain grains → maize and wheat, in particular). That is and in other words restate the same idea in clearer or simpler words; they add no new information. Test: does the second sentence answer “How exactly?” or “Which exactly?” about the first? Then use specifically / in particular. Does it say the same thing again in plainer words? Then use that is / in other words.",
+      "explanation_zh": "具體說明轉折詞（specification）把前一句籠統、模糊的說法變得更精確。空格前通常有概括性的字眼（broadly speaking 大致來說、challenged prevailing views 挑戰主流看法、extremely influential 影響極大、certain grains 某些穀物），空格後則說明到底如何、到底是什麼、到底是哪些。Specifically「具體來說」提供精確細節；in particular「尤其是、特別是」點出確切所指的項目（certain grains → maize and wheat, in particular）。That is 和 in other words「也就是說、換句話說」是用更清楚或更簡單的方式重述同一個意思，不增加新資訊。判斷方法：第二句是在回答第一句的「到底怎麼做？到底是哪些？」嗎？是的話選 specifically / in particular。第二句只是換句話再說一次嗎？那就選 that is / in other words。",
+      "examples": [
+        "Specifically, an extra “leap second” (the 86,401st second of the day) is added whenever time based on the planet’s rotation lags a full nine-tenths of a second behind time kept by precise atomic clocks. [Digital SAT 3, Module 1, Q23] (exactly how time measurements are adjusted)",
+        "Chondrites are stony meteorites that are undifferentiated—that is, their contents have not melted and separated into distinct layers. [Digital SAT 7, Module 2, Q25] (“that is” defines the term undifferentiated)"
+      ],
+      "questions": [
+        {
+          "number": "21",
+          "source": "Official Digital SAT 7, Module 2, Q28",
+          "passage": "In 2021, a model developed by astrophysicist Catherine Zucker and her research team revealed that the same supernovas responsible for the creation and ongoing expansion of the Local Bubble—a 14-million-year-old cavity in the Milky Way—are likely responsible for the formation of new stars. ______ this model detailed how the bubble’s expansion trapped interstellar clouds of gas and dust that became stars upon their eventual collapse.",
+          "prompt": "Which choice completes the text with the most logical transition?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Hence,"
+            },
+            {
+              "label": "B",
+              "text": "However,"
+            },
+            {
+              "label": "C",
+              "text": "Admittedly,"
+            },
+            {
+              "label": "D",
+              "text": "Specifically,"
+            }
+          ],
+          "correct": "D",
+          "explanation": "The first sentence says the supernovas are “likely responsible” for new stars (general); the second explains exactly how (trapping clouds of gas and dust). Specifically introduces precise detail. Hence shows a conclusion, However a contrast, and Admittedly a concession."
+        },
+        {
+          "number": "22",
+          "source": "Official Digital SAT 8, Module 1, Q28",
+          "passage": "In 1974, Mexican chemist Mario Molina and US chemist F. Sherwood Rowland discovered that chemicals called CFCs were harmful to the ozone layer. Their research was extremely influential in the fight against CFCs. ______ it laid the foundation for a 1987 treaty that phased out the use of CFCs across the globe.",
+          "prompt": "Which choice completes the text with the most logical transition?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Regardless,"
+            },
+            {
+              "label": "B",
+              "text": "Specifically,"
+            },
+            {
+              "label": "C",
+              "text": "However,"
+            },
+            {
+              "label": "D",
+              "text": "Earlier,"
+            }
+          ],
+          "correct": "B",
+          "explanation": "“Extremely influential in the fight against CFCs” is general; laying the foundation for the 1987 treaty is the exact way it was influential. Specifically fits. Regardless and However signal a turn, and Earlier is time (the treaty came later)."
+        },
+        {
+          "number": "23",
+          "source": "Official Digital SAT 9, Module 2, Q28",
+          "passage": "Earth’s auroras—colorful displays of light seen above the northern and southern poles—result, broadly speaking, from the Sun’s activity. ______ the Sun releases charged particles that are captured by Earth’s magnetic field and channeled toward the poles. These particles then collide with atoms in the atmosphere, causing the atoms to emit auroral light.",
+          "prompt": "Which choice completes the text with the most logical transition?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Specifically,"
+            },
+            {
+              "label": "B",
+              "text": "Similarly,"
+            },
+            {
+              "label": "C",
+              "text": "Nevertheless,"
+            },
+            {
+              "label": "D",
+              "text": "Hence,"
+            }
+          ],
+          "correct": "A",
+          "explanation": "“Broadly speaking, from the Sun’s activity” is openly vague; the next sentences give the precise process. Specifically is correct. Similarly would need a parallel phenomenon, Nevertheless a contrast, and Hence a conclusion."
+        },
+        {
+          "number": "24",
+          "source": "Official Digital SAT 10, Module 2, Q28",
+          "passage": "In his 1925 book The Morphology of Landscape, US geographer Carl Sauer challenged prevailing views about how natural landscapes influence human cultures. ______ Sauer argued that instead of being shaped entirely by their natural surroundings, cultures play an active role in their own development by virtue of their interactions with the environment.",
+          "prompt": "Which choice completes the text with the most logical transition?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Similarly,"
+            },
+            {
+              "label": "B",
+              "text": "Finally,"
+            },
+            {
+              "label": "C",
+              "text": "Therefore,"
+            },
+            {
+              "label": "D",
+              "text": "Specifically,"
+            }
+          ],
+          "correct": "D",
+          "explanation": "“Challenged prevailing views” is general; the second sentence states exactly what Sauer argued. Specifically fits. Similarly needs a parallel idea, Finally a last step, and Therefore a result."
+        },
+        {
+          "number": "25",
+          "source": "Official Digital SAT 7, Module 2, Q29",
+          "passage": "Following the American Revolutionary War, North American foodways underwent a radical transformation, fueled in large part by spiking consumer demand for certain grains. The cultivation, trade, and transportation of maize and wheat, ______ reconfigured the continent’s existing regional foodways into a globally oriented food system.",
+          "prompt": "Which choice completes the text with the most logical transition?",
+          "options": [
+            {
+              "label": "A",
+              "text": "in particular,"
+            },
+            {
+              "label": "B",
+              "text": "alternatively,"
+            },
+            {
+              "label": "C",
+              "text": "by comparison,"
+            },
+            {
+              "label": "D",
+              "text": "second of all,"
+            }
+          ],
+          "correct": "A",
+          "explanation": "“Certain grains” is vague; “maize and wheat” names exactly which grains. in particular singles them out. alternatively offers another option, by comparison compares, and second of all lists a second reason."
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "id": "focus-6-emphasis-and-confirmation-in-fact-indeed-certainly",
+      "title": "Emphasis and Confirmation: in fact, indeed, certainly",
+      "explanation_en": "An emphasis transition confirms and strengthens the claim just made. The first sentence makes a claim with an evaluative word (impressive, whimsical yet perplexing, extreme); the next sentence gives stronger evidence or a more extreme version of the same point. In fact often introduces a concrete fact or a surprising intensification (extreme → in fact, critics call them two different novels). Indeed means “yes, truly” and supports the claim with vivid proof. Certainly stresses that something is sure. The direction does not change, so contrast words are wrong. Test: can you say “and to prove it / and even more than that…”? Then use an emphasis word. Trap: emphasis vs. example — for example gives one case of a group; in fact / indeed strengthens a single claim.",
+      "explanation_zh": "強調／證實轉折詞（emphasis）用來確認並加強前面剛說的論點。第一句通常含有評價性的字眼（impressive 令人印象深刻的、whimsical yet perplexing 奇幻又令人困惑的、extreme 極端的）；下一句則提出更有力的證據或程度更強的說法。In fact「事實上」常引出具體事實或更進一步的強調（差異極大 → 事實上，有些評論家認為是兩本不同的小說）。Indeed「的確、確實」用生動的證據支持前述說法。Certainly「當然、無疑」強調確定性。因為語意方向沒有改變，所以對比轉折詞是錯的。判斷方法：能不能說成「而且可以證明／甚至更…」？可以就選強調轉折詞。陷阱：強調 vs. 舉例——for example 是從一個群體中舉出一例；in fact / indeed 是加強單一論點。",
+      "examples": [
+        "Indeed, contrary to the popular myth of the lone genius, theirs is not the first paradigm-shifting theory to have emerged from multiple scholars working in parallel. [Digital SAT 6, Module 1, Q30] (confirms that simultaneous discovery was no coincidence)",
+        "Literary agents estimate that more than half of all nonfiction books credited to a celebrity or other public figure are in fact written by ghostwriters, professional authors who are paid to write other people’s stories but whose names never appear on book covers. [Digital SAT 4, Module 1, Q19] (“in fact” stresses the surprising truth)"
+      ],
+      "questions": [
+        {
+          "number": "26",
+          "source": "Official Digital SAT 6, Module 2, Q29",
+          "passage": "Biographer Michael Gorra notes that the novelist Henry James “lived in a world of second thoughts,” frequently tinkering with his novels and stories after their initial publication. However, the differences between the 1881 first edition and the 1908 edition of his novel A Portrait of a Lady are extreme, even by James’s standards; ______ some critics regard the two editions as two different novels altogether.",
+          "prompt": "Which choice completes the text with the most logical transition?",
+          "options": [
+            {
+              "label": "A",
+              "text": "by contrast,"
+            },
+            {
+              "label": "B",
+              "text": "in fact,"
+            },
+            {
+              "label": "C",
+              "text": "nevertheless,"
+            },
+            {
+              "label": "D",
+              "text": "in other words,"
+            }
+          ],
+          "correct": "B",
+          "explanation": "The differences are called “extreme”; the next clause gives an even stronger statement (critics call them two different novels). in fact intensifies the claim. by contrast and nevertheless signal a turn, and in other words would need a restatement, but this clause goes further than the first."
+        },
+        {
+          "number": "27",
+          "source": "Official Digital SAT 8, Module 1, Q29",
+          "passage": "With his room-sized installation Unicorn/My Private Sky, Norwegian artist Børre Sæthre succeeds in creating a whimsical yet perplexing experience. ______ when visitors set foot inside the fantastically blue room and encounter the life-sized stuffed unicorn preening at the far end of it, they are both dazzled and confused—as if stepping into a strange and enchanting new world.",
+          "prompt": "Which choice completes the text with the most logical transition?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Second,"
+            },
+            {
+              "label": "B",
+              "text": "Instead,"
+            },
+            {
+              "label": "C",
+              "text": "Indeed,"
+            },
+            {
+              "label": "D",
+              "text": "Nevertheless,"
+            }
+          ],
+          "correct": "C",
+          "explanation": "The first sentence claims the experience is “whimsical yet perplexing”; the second confirms it with vivid proof (visitors are dazzled and confused). Indeed fits. Second lists, Instead replaces, and Nevertheless contrasts."
+        },
+        {
+          "number": "28",
+          "source": "Official Digital SAT 8, Module 2, Q27",
+          "passage": "The Alaska Native Language Archive (ANLA) is known for its impressive audio collection. ______ the ANLA has more than 5,000 audio recordings of Native Alaskan languages dating as far back as 1943.",
+          "prompt": "Which choice completes the text with the most logical transition?",
+          "options": [
+            {
+              "label": "A",
+              "text": "In fact,"
+            },
+            {
+              "label": "B",
+              "text": "After,"
+            },
+            {
+              "label": "C",
+              "text": "Regardless,"
+            },
+            {
+              "label": "D",
+              "text": "Instead,"
+            }
+          ],
+          "correct": "A",
+          "explanation": "The collection is called “impressive”; the second sentence gives the concrete evidence (over 5,000 recordings since 1943). In fact introduces this proof. After is time and is not a sentence adverb here, Regardless dismisses, and Instead replaces."
+        },
+        {
+          "number": "29",
+          "source": "Practice item",
+          "passage": "Honeybees are remarkably skilled navigators. ______ a foraging bee can find its way back to its hive from more than five kilometers away, using the position of the Sun as a compass.",
+          "prompt": "Which choice completes the text with the most logical transition?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Instead,"
+            },
+            {
+              "label": "B",
+              "text": "By contrast,"
+            },
+            {
+              "label": "C",
+              "text": "In fact,"
+            },
+            {
+              "label": "D",
+              "text": "Nevertheless,"
+            }
+          ],
+          "correct": "C",
+          "explanation": "“Remarkably skilled navigators” is the claim; finding the hive from more than five kilometers away is concrete proof. In fact strengthens the claim. Instead replaces, By contrast and Nevertheless signal a turn in direction."
+        },
+        {
+          "number": "30",
+          "source": "Practice item",
+          "passage": "Many early reviewers dismissed Zora Neale Hurston’s Their Eyes Were Watching God (1937) as a minor work. Over the following decades, however, the novel’s reputation grew steadily; ______ it is now widely regarded as a classic of American literature and is taught in classrooms around the world.",
+          "prompt": "Which choice completes the text with the most logical transition?",
+          "options": [
+            {
+              "label": "A",
+              "text": "indeed,"
+            },
+            {
+              "label": "B",
+              "text": "for example,"
+            },
+            {
+              "label": "C",
+              "text": "instead,"
+            },
+            {
+              "label": "D",
+              "text": "in contrast,"
+            }
+          ],
+          "correct": "A",
+          "explanation": "The novel’s reputation “grew steadily”; the next clause confirms and intensifies this (it is now a widely taught classic). indeed fits. for example would need one case of a group, instead replaces, and in contrast signals a difference."
+        }
+      ]
+    }
+  ]
+}

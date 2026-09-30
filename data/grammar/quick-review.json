@@ -1,0 +1,1297 @@
+{
+  "slug": "quick-review",
+  "title": "SAT Grammar Quick Review Quiz",
+  "description": "A cumulative 45-question review across nine essential Digital SAT grammar skills.",
+  "source_url": "https://docs.google.com/document/d/1FAKp80HBDN2a4CZ3NS33p5soCdNfMEnJSB5CC0LQj0M",
+  "section_count": 9,
+  "question_count": 45,
+  "sections": [
+    {
+      "number": 1,
+      "id": "focus-1-punctuation-boundaries-structural-elements",
+      "title": "Punctuation (Boundaries & Structural Elements)",
+      "explanation_en": "📌 Rules: (1) Two independent clauses must be joined by a period, a semicolon, or a comma + FANBOYS; a comma alone is a comma splice. (2) A colon must follow a complete independent clause and introduces an explanation, list, or specification. (3) Title + name (e.g., \"plant cell biologist Yuree Lee\") takes NO commas; nonessential elements take paired commas, dashes, or parentheses. (4) Use semicolons between list items that already contain commas.",
+      "explanation_zh": "",
+      "examples": [
+        "Correct: The spacecraft's primary sensor failed during re-entry; however, the backup system engaged immediately.",
+        "Incorrect: The spacecraft's primary sensor failed during re-entry, however, the backup system engaged immediately."
+      ],
+      "questions": [
+        {
+          "number": "1",
+          "source": "H1 Q2 (SAT 2 M1 Q22)",
+          "passage": "The chemical trimethylamine N-oxide (TMAO) counters deep-ocean pressure effects, ensuring that proteins retain their original ______ is found in high concentrations in the cells of the deepest-dwelling fish.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "configurations. TMAO"
+            },
+            {
+              "label": "B",
+              "text": "configurations TMAO"
+            },
+            {
+              "label": "C",
+              "text": "configurations, TMAO"
+            },
+            {
+              "label": "D",
+              "text": "configurations and TMAO"
+            }
+          ],
+          "correct": "A",
+          "explanation": "\"The chemical TMAO counters…, ensuring that proteins retain their original configurations\" is the first independent clause (the \"ensuring\" part is a participial phrase inside it). \"TMAO is found…\" is a second independent clause, so a period separates them. B run-on; C comma splice; D makes \"configurations and TMAO\" a compound object."
+        },
+        {
+          "number": "2",
+          "source": "H1 Q27 (SAT 2 M1 Q26)",
+          "passage": "To humans, it does not appear that the golden orb-weaver spider uses camouflage to capture its ______ the brightly colored arachnid seems to wait conspicuously in the center of its large circular web for insects to approach.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "prey, rather,"
+            },
+            {
+              "label": "B",
+              "text": "prey rather,"
+            },
+            {
+              "label": "C",
+              "text": "prey, rather;"
+            },
+            {
+              "label": "D",
+              "text": "prey; rather,"
+            }
+          ],
+          "correct": "D",
+          "explanation": "\"Rather\" begins the second independent clause: semicolon before, comma after. A comma splice; B run-on; C semicolon in the wrong place."
+        },
+        {
+          "number": "3",
+          "source": "H1 Q72 (SAT 9 M1 Q23 / SAT 1 M2 Q27)",
+          "passage": "Stomata open when guard cells swell with water. In a pivotal 2007 article, plant cell ______ showed that lipid molecules called phosphatidylinositol phosphates are responsible for signaling guard cells to open stomata.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "biologist, Yuree Lee"
+            },
+            {
+              "label": "B",
+              "text": "biologist Yuree Lee,"
+            },
+            {
+              "label": "C",
+              "text": "biologist Yuree Lee"
+            },
+            {
+              "label": "D",
+              "text": "biologist, Yuree Lee,"
+            }
+          ],
+          "correct": "C",
+          "explanation": "Title + name takes no commas, and no comma may separate the subject from the verb \"showed.\""
+        },
+        {
+          "number": "4",
+          "source": "H1 Q84 (SAT 2 M2 Q23)",
+          "passage": "Chickasaw Nation language revitalization director Joshua Hinson helped produce the world’s first Indigenous-language instructional app, Chickasaw ______ Chickasaw TV, in 2010; and a Rosetta Stone language course in Chickasaw, in 2015.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Basic; in 2009, an online television network;"
+            },
+            {
+              "label": "B",
+              "text": "Basic; in 2009, an online television network,"
+            },
+            {
+              "label": "C",
+              "text": "Basic, in 2009; an online television network,"
+            },
+            {
+              "label": "D",
+              "text": "Basic, in 2009, an online television network,"
+            }
+          ],
+          "correct": "C",
+          "explanation": "Items contain internal commas, so semicolons separate them; item 1 ends after \"in 2009.\""
+        },
+        {
+          "number": "5",
+          "source": "H1 Q61 (SAT 2 M2 Q24)",
+          "passage": "The forty-seven geothermal springs of Arkansas’ Hot Springs National Park are sourced via groundwater recharge, in which rainwater percolates downward through the earth—in this case, the porous rocks of the hills around Hot ______ collect in a subterranean basin.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Springs to"
+            },
+            {
+              "label": "B",
+              "text": "Springs: to"
+            },
+            {
+              "label": "C",
+              "text": "Springs—to"
+            },
+            {
+              "label": "D",
+              "text": "Springs, to"
+            }
+          ],
+          "correct": "C",
+          "explanation": "The interrupter opened with a dash after \"earth,\" so it must close with a dash."
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "id": "focus-2-verb-form-finite-vs-nonfinite-participles-infinitives",
+      "title": "Verb Form (Finite vs. Nonfinite, Participles, Infinitives)",
+      "explanation_en": "📌 Rules: (1) Every clause needs a finite (conjugated) main verb; infinitives (to enter) and participles (entering, having entered) cannot be main verbs alone. (2) -ing / -ed participial phrases act as modifiers when the sentence already has its main verb. (3) Use \"to + verb\" for purpose.",
+      "explanation_zh": "",
+      "examples": [
+        "Correct: To survive when water is scarce, embryos inside killifish eggs enter a dormant state.",
+        "Incorrect: To survive when water is scarce, embryos inside killifish eggs entering a dormant state."
+      ],
+      "questions": [
+        {
+          "number": "6",
+          "source": "H2 Q2 (SAT 2 M1 Q20)",
+          "passage": "To survive when water is scarce, embryos inside African turquoise killifish eggs ______ a dormant state known as diapause. In this state, embryonic development is paused for as long as two years.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "enter"
+            },
+            {
+              "label": "B",
+              "text": "to enter"
+            },
+            {
+              "label": "C",
+              "text": "having entered"
+            },
+            {
+              "label": "D",
+              "text": "entering"
+            }
+          ],
+          "correct": "A",
+          "explanation": "\"Embryos\" needs a finite main verb: \"enter.\""
+        },
+        {
+          "number": "7",
+          "source": "H2 Q16 (SAT 9 M2 Q20)",
+          "passage": "In the historical novel The Surrender Tree, Cuban American author Margarita Engle uses poetry rather than prose ______ the true story of Cuban folk hero Rosa La Bayamesa.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "tells"
+            },
+            {
+              "label": "B",
+              "text": "told"
+            },
+            {
+              "label": "C",
+              "text": "is telling"
+            },
+            {
+              "label": "D",
+              "text": "to tell"
+            }
+          ],
+          "correct": "D",
+          "explanation": "Main verb is \"uses\"; \"to tell\" expresses purpose."
+        },
+        {
+          "number": "8",
+          "source": "H2 Q11 (SAT 10 M1 Q22 / SAT 1 M2 Q21)",
+          "passage": "Although Japanese macaques prefer to eat vegetation and land invertebrates, those food sources may become unavailable because of extensive ice cover, ______ the monkeys to hunt for marine animals in unfrozen streams.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "forces"
+            },
+            {
+              "label": "B",
+              "text": "to force"
+            },
+            {
+              "label": "C",
+              "text": "forcing"
+            },
+            {
+              "label": "D",
+              "text": "forced"
+            }
+          ],
+          "correct": "C",
+          "explanation": "Clause is complete; \"forcing…\" shows the result and attaches with a comma. A/D create a comma splice; B implies purpose."
+        },
+        {
+          "number": "9",
+          "source": "H2 Q12 (SAT 6 M1 Q19)",
+          "passage": "The Boston Saloon was one of the most popular African American–owned establishments in nineteenth-century Nevada. ______ by businessman William A.G. Brown, the saloon was known for its elegant accommodations.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Created"
+            },
+            {
+              "label": "B",
+              "text": "Creates"
+            },
+            {
+              "label": "C",
+              "text": "Creating"
+            },
+            {
+              "label": "D",
+              "text": "Create"
+            }
+          ],
+          "correct": "A",
+          "explanation": "The saloon was created by Brown → \"Created.\""
+        },
+        {
+          "number": "10",
+          "source": "H2 Q14 (SAT 9 M2 Q25)",
+          "passage": "Known as the Brass Era, this period in automotive design is remembered for its grandeur and artistry, its vehicles ______ by collectors for their ornate detailing and gleaming brass fittings.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "are highly prized"
+            },
+            {
+              "label": "B",
+              "text": "had been highly prized"
+            },
+            {
+              "label": "C",
+              "text": "highly prized"
+            },
+            {
+              "label": "D",
+              "text": "were highly prized"
+            }
+          ],
+          "correct": "C",
+          "explanation": "\"Its vehicles highly prized…\" = noun + participle; a finite verb would create a comma splice."
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "id": "focus-3-verb-tense-consistency",
+      "title": "Verb Tense & Consistency",
+      "explanation_en": "📌 Rules: (1) Simple present for general facts, processes, and literary analysis. (2) Simple past for completed actions at a specific past time. (3) Past perfect (had + -ed) for an action completed before another past point (\"By the end of the 1990s…\").",
+      "explanation_zh": "",
+      "examples": [
+        "Correct: By the end of the 1990s, the organization had doubled its membership.",
+        "Incorrect: By the end of the 1990s, the organization has doubled its membership."
+      ],
+      "questions": [
+        {
+          "number": "11",
+          "source": "H2 Q22 (SAT 2 M1 Q21)",
+          "passage": "Formed in 1967 to foster political stability, ASEAN was originally made up of five members. By the end of the 1990s, the organization ______ its initial membership.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "has doubled"
+            },
+            {
+              "label": "B",
+              "text": "had doubled"
+            },
+            {
+              "label": "C",
+              "text": "doubles"
+            },
+            {
+              "label": "D",
+              "text": "will double"
+            }
+          ],
+          "correct": "B",
+          "explanation": "\"By the end of the 1990s\" → had doubled."
+        },
+        {
+          "number": "12",
+          "source": "H2 Q27 (SAT 2 M1 Q23)",
+          "passage": "In Monique Truong’s novel The Book of Salt, Bình connects to his native Saigon through food, while in Bitter in the Mouth, Linda ______ a form of synesthesia whereby words evoke tastes.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "experienced"
+            },
+            {
+              "label": "B",
+              "text": "had experienced"
+            },
+            {
+              "label": "C",
+              "text": "experiences"
+            },
+            {
+              "label": "D",
+              "text": "will be experiencing"
+            }
+          ],
+          "correct": "C",
+          "explanation": "Parallel with \"connects\" → experiences."
+        },
+        {
+          "number": "13",
+          "source": "H2 Q26 (SAT 3 M2 Q18)",
+          "passage": "Atoms in a synchrotron travel faster and faster until they ______ a desired energy level, at which point they are diverted to collide with a target, smashing the atoms.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "will reach"
+            },
+            {
+              "label": "B",
+              "text": "reach"
+            },
+            {
+              "label": "C",
+              "text": "had reached"
+            },
+            {
+              "label": "D",
+              "text": "are reaching"
+            }
+          ],
+          "correct": "B",
+          "explanation": "General process (\"travel,\" \"are diverted\") → reach."
+        },
+        {
+          "number": "14",
+          "source": "H2 Q19 (SAT 7 M2 Q20)",
+          "passage": "The Globe Theatre is a reconstruction of the famed Shakespearean venue. In 1613, a prop cannon ______ during a performance and ignited the Globe’s thatched roof.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "malfunctions"
+            },
+            {
+              "label": "B",
+              "text": "will malfunction"
+            },
+            {
+              "label": "C",
+              "text": "has malfunctioned"
+            },
+            {
+              "label": "D",
+              "text": "malfunctioned"
+            }
+          ],
+          "correct": "D",
+          "explanation": "\"In 1613,\" parallel with \"ignited\" → malfunctioned."
+        },
+        {
+          "number": "15",
+          "source": "H2 Q24 (SAT 10 M2 Q21)",
+          "passage": "In his 1963 exhibition, Korean American artist Nam June Paik showed how television images could be manipulated. Today, Paik ______ considered the first video artist.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "will be"
+            },
+            {
+              "label": "B",
+              "text": "had been"
+            },
+            {
+              "label": "C",
+              "text": "was"
+            },
+            {
+              "label": "D",
+              "text": "is"
+            }
+          ],
+          "correct": "D",
+          "explanation": "\"Today\" → is."
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "id": "focus-4-subjectverb-agreement",
+      "title": "Subject–Verb Agreement",
+      "explanation_en": "📌 Rules: (1) Ignore prepositional phrases, appositives, and relative clauses between subject and verb. (2) Gerund subjects (\"landing on the spaces\") are singular. (3) In inverted sentences, find the true subject after the verb.",
+      "explanation_zh": "",
+      "examples": [
+        "Correct: Landing on one of the good spaces allows a player to skip ahead.",
+        "Incorrect: Landing on one of the good spaces allow a player to skip ahead."
+      ],
+      "questions": [
+        {
+          "number": "16",
+          "source": "H2 Q39 (SAT 9 M1 Q20 / SAT 1 M1 Q26)",
+          "passage": "In the board game Chutes and Ladders, players encounter good or bad spaces; landing on one of the good spaces ______ a player to skip ahead and arrive closer to the goal.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "allows"
+            },
+            {
+              "label": "B",
+              "text": "are allowing"
+            },
+            {
+              "label": "C",
+              "text": "have allowed"
+            },
+            {
+              "label": "D",
+              "text": "allow"
+            }
+          ],
+          "correct": "A",
+          "explanation": "\"Landing…\" is singular → allows."
+        },
+        {
+          "number": "17",
+          "source": "H2 Q31 (SAT 5 M1 Q24)",
+          "passage": "In the music video for “We Didn’t Start the Fire,” Billy Joel lists 118 cultural references. Such iconic references, cited in rapid procession by the musician, ______ key moments of the twentieth century.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "represents"
+            },
+            {
+              "label": "B",
+              "text": "has represented"
+            },
+            {
+              "label": "C",
+              "text": "was representing"
+            },
+            {
+              "label": "D",
+              "text": "represent"
+            }
+          ],
+          "correct": "D",
+          "explanation": "\"references\" is plural → represent."
+        },
+        {
+          "number": "18",
+          "source": "H2 Q40 (SAT 3 M2 Q24)",
+          "passage": "The Progressive Era witnessed the rise of numerous Black women’s clubs that advocated for racial equality. Among the clubs’ leaders ______ Josephine St. Pierre Ruffin, founder of the Women’s Era Club.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "was"
+            },
+            {
+              "label": "B",
+              "text": "were"
+            },
+            {
+              "label": "C",
+              "text": "are"
+            },
+            {
+              "label": "D",
+              "text": "have been"
+            }
+          ],
+          "correct": "A",
+          "explanation": "True subject \"Josephine St. Pierre Ruffin\" (singular, past) → was."
+        },
+        {
+          "number": "19",
+          "source": "H2 Q30 (SAT 3 M1 Q24)",
+          "passage": "Bengali author Toru Dutt’s A Sheaf Gleaned in French Fields (1876), a volume of English translations of French poems, ______ scholars’ understanding of her transnational contexts.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "has enhanced"
+            },
+            {
+              "label": "B",
+              "text": "are enhancing"
+            },
+            {
+              "label": "C",
+              "text": "have enhanced"
+            },
+            {
+              "label": "D",
+              "text": "enhance"
+            }
+          ],
+          "correct": "A",
+          "explanation": "The book title is singular → has enhanced."
+        },
+        {
+          "number": "20",
+          "source": "H2 Q43 (SAT 10 M1 Q27)",
+          "passage": "The ghazal has an intricate structure. Twentieth-century poet Agha Shahid Ali explains that each one of a ghazal’s couplets ______ thematically and logically autonomous.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "is"
+            },
+            {
+              "label": "B",
+              "text": "were"
+            },
+            {
+              "label": "C",
+              "text": "have been"
+            },
+            {
+              "label": "D",
+              "text": "are"
+            }
+          ],
+          "correct": "A",
+          "explanation": "Subject \"each one,\" not \"couplets\" → is."
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "id": "focus-5-pronoun-determiner-agreement",
+      "title": "Pronoun & Determiner Agreement",
+      "explanation_en": "📌 Rules: (1) Singular antecedents → it, its, this; plural antecedents → they, them, their, these. (2) its (possessive) vs. it's (it is); their vs. they're. (3) this/that + singular noun; these/those + plural noun.",
+      "explanation_zh": "",
+      "examples": [
+        "Correct: Obata depicted Yosemite in two woodcuts. In 2019, they were exhibited at the Smithsonian.",
+        "Incorrect: Obata depicted Yosemite in two woodcuts. In 2019, it was exhibited at the Smithsonian."
+      ],
+      "questions": [
+        {
+          "number": "21",
+          "source": "H2 Q51 (SAT 9 M1 Q21)",
+          "passage": "In 1930, artist Chiura Obata depicted Yosemite National Park in two memorable woodcuts. In 2019, ______ exhibited alongside 150 of Obata’s other works at the Smithsonian.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "it was"
+            },
+            {
+              "label": "B",
+              "text": "they were"
+            },
+            {
+              "label": "C",
+              "text": "this was"
+            },
+            {
+              "label": "D",
+              "text": "some were"
+            }
+          ],
+          "correct": "B",
+          "explanation": "\"two woodcuts\" → they were."
+        },
+        {
+          "number": "22",
+          "source": "H2 Q53 (SAT 9 M2 Q19 / SAT 1 M1 Q21)",
+          "passage": "James Watson and Francis Crick won the Nobel Prize for their paper on the structure of DNA, but it is misleading to say they discovered the double helix. ______ findings were based on an X-ray image developed by Rosalind Franklin and Raymond Gosling.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "They’re"
+            },
+            {
+              "label": "B",
+              "text": "It’s"
+            },
+            {
+              "label": "C",
+              "text": "Their"
+            },
+            {
+              "label": "D",
+              "text": "Its"
+            }
+          ],
+          "correct": "C",
+          "explanation": "Possessive plural for Watson and Crick; they're / it's are contractions."
+        },
+        {
+          "number": "23",
+          "source": "H2 Q48 (SAT 5 M1 Q20)",
+          "passage": "Lê Lương Minh became the secretary-general of ASEAN in January 2013, making ______ the first time the organization would appoint a Vietnamese leader.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "these"
+            },
+            {
+              "label": "B",
+              "text": "those"
+            },
+            {
+              "label": "C",
+              "text": "this"
+            },
+            {
+              "label": "D",
+              "text": "some"
+            }
+          ],
+          "correct": "C",
+          "explanation": "Refers to one event → this."
+        },
+        {
+          "number": "24",
+          "source": "H2 Q47 (SAT 7 M1 Q20)",
+          "passage": "Eighteen letters written by Louisa May Alcott can be found at the New York Historical Society. ______ letters demonstrate Alcott’s keen business sense in her interactions with publishers.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "One"
+            },
+            {
+              "label": "B",
+              "text": "That"
+            },
+            {
+              "label": "C",
+              "text": "This"
+            },
+            {
+              "label": "D",
+              "text": "These"
+            }
+          ],
+          "correct": "D",
+          "explanation": "\"letters\" is plural → These."
+        },
+        {
+          "number": "25",
+          "source": "H2 Q49 (SAT 7 M2 Q22)",
+          "passage": "When a given industry—water and electricity are two well-known examples—carries high infrastructural start-up costs that discourage competition, ______ of just one or two suppliers per municipality.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "these often consist"
+            },
+            {
+              "label": "B",
+              "text": "they often consist"
+            },
+            {
+              "label": "C",
+              "text": "it often consists"
+            },
+            {
+              "label": "D",
+              "text": "this often consists"
+            }
+          ],
+          "correct": "C",
+          "explanation": "The pronoun refers to \"a given industry\" (singular), not \"water and electricity\" inside the dashes → it often consists."
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "id": "focus-6-possessive-vs-plural-nouns",
+      "title": "Possessive vs. Plural Nouns",
+      "explanation_en": "📌 Rules: (1) Singular possessive: -'s (the screw's threads). (2) Regular plural possessive: -s' (the rocks' migration). (3) Simple plurals take no apostrophe (hands, antennas, stories). (4) Irregular plural possessive: -'s (people's stories).",
+      "explanation_zh": "",
+      "examples": [
+        "Correct: Trails in the playa’s sediment mark the rocks’ mysterious migration.",
+        "Incorrect: Trails in the playas sediment mark the rocks mysterious migration."
+      ],
+      "questions": [
+        {
+          "number": "26",
+          "source": "H1 Q90 (SAT 2 M1 Q24)",
+          "passage": "Inventor John Friedman created a flexible straw prototype by inserting a screw into a paper straw and binding the straw tightly around the ______",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "screw’s thread’s."
+            },
+            {
+              "label": "B",
+              "text": "screws’ threads."
+            },
+            {
+              "label": "C",
+              "text": "screw’s threads."
+            },
+            {
+              "label": "D",
+              "text": "screws threads’."
+            }
+          ],
+          "correct": "C",
+          "explanation": "one screw → screw's; threads own nothing."
+        },
+        {
+          "number": "27",
+          "source": "H1 Q91 (SAT 2 M1 Q27)",
+          "passage": "In Death Valley’s Racetrack Playa are 162 rocks that move periodically. Racetrack-like trails in the ______ mysterious migration.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "playas sediment mark the rock’s"
+            },
+            {
+              "label": "B",
+              "text": "playa’s sediment mark the rocks"
+            },
+            {
+              "label": "C",
+              "text": "playa’s sediment mark the rocks’"
+            },
+            {
+              "label": "D",
+              "text": "playas’ sediment mark the rocks’"
+            }
+          ],
+          "correct": "C",
+          "explanation": "one playa → playa's; 162 rocks → rocks'."
+        },
+        {
+          "number": "28",
+          "source": "H1 Q94 (SAT 5 M1 Q23)",
+          "passage": "What makes the theremin unique? You play it without touching it. When you place your ______ the pitch will shift as your hands move.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "hand’s between the two antenna’s,"
+            },
+            {
+              "label": "B",
+              "text": "hands between the two antennas,"
+            },
+            {
+              "label": "C",
+              "text": "hands’ between the two antennas’,"
+            },
+            {
+              "label": "D",
+              "text": "hands’ between the two antennas,"
+            }
+          ],
+          "correct": "B",
+          "explanation": "hands, antennas own nothing."
+        },
+        {
+          "number": "29",
+          "source": "H1 Q92 (SAT 4 M1 Q19)",
+          "passage": "Literary agents estimate that more than half of all nonfiction books credited to a public figure are written by ghostwriters who are paid to write other ______ but whose names never appear on book covers.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "people’s stories"
+            },
+            {
+              "label": "B",
+              "text": "peoples story’s"
+            },
+            {
+              "label": "C",
+              "text": "peoples stories"
+            },
+            {
+              "label": "D",
+              "text": "people’s story’s"
+            }
+          ],
+          "correct": "A",
+          "explanation": "people's stories."
+        },
+        {
+          "number": "30",
+          "source": "H1 Q93 (SAT 4 M2 Q19)",
+          "passage": "In Bengali Harlem, Vivek Bald uses newspaper articles, census records, ships’ logs, and memoirs to tell the ______ who made New York City their home.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "story’s of the South Asian immigrants"
+            },
+            {
+              "label": "B",
+              "text": "story’s of the South Asian immigrants’"
+            },
+            {
+              "label": "C",
+              "text": "stories of the South Asian immigrants"
+            },
+            {
+              "label": "D",
+              "text": "stories’ of the South Asian immigrant’s"
+            }
+          ],
+          "correct": "C",
+          "explanation": "stories, immigrants own nothing."
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "id": "focus-7-modifier-placement-logic",
+      "title": "Modifier Placement & Logic",
+      "explanation_en": "📌 Rules: (1) An introductory modifier must be followed immediately by the noun that performs (or receives) its action. (2) Compare like with like (\"that of alumina glass\" = the arrangement of alumina glass → compare it with silica glass's arrangement).",
+      "explanation_zh": "",
+      "examples": [
+        "Correct: Having analyzed thousands of stellar spectra, astrophysicist Maria Santos identified six exoplanets.",
+        "Incorrect: Having analyzed thousands of stellar spectra, six exoplanets were identified by astrophysicist Maria Santos."
+      ],
+      "questions": [
+        {
+          "number": "31",
+          "source": "H2 Q56 (SAT 2 M2 Q22)",
+          "passage": "In assessing the films of Japanese director Akira Kurosawa, ______ have missed his equally deep engagement with Japanese artistic traditions such as Noh theater.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "many critics have focused on Kurosawa’s use of Western literary sources but"
+            },
+            {
+              "label": "B",
+              "text": "Kurosawa’s use of Western literary sources has been the focus of many critics, who"
+            },
+            {
+              "label": "C",
+              "text": "there are many critics who have focused on Kurosawa’s use of Western literary sources, but they"
+            },
+            {
+              "label": "D",
+              "text": "the focus of many critics has been on Kurosawa’s use of Western literary sources; they"
+            }
+          ],
+          "correct": "A",
+          "explanation": "The critics do the assessing."
+        },
+        {
+          "number": "32",
+          "source": "H2 Q57 (SAT 3 M2 Q25)",
+          "passage": "Archaeologists agreed that reindeer domestication began in the eleventh century. However, since uncovering fragments of a 2,000-year-old reindeer harness in Siberia, ______ may have begun much earlier.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "researcher Robert Losey has argued that domestication"
+            },
+            {
+              "label": "B",
+              "text": "researcher Robert Losey’s argument is that domestication"
+            },
+            {
+              "label": "C",
+              "text": "domestication, researcher Robert Losey has argued,"
+            },
+            {
+              "label": "D",
+              "text": "the argument researcher Robert Losey has made is that domestication"
+            }
+          ],
+          "correct": "A",
+          "explanation": "Losey did the uncovering."
+        },
+        {
+          "number": "33",
+          "source": "H2 Q58 (SAT 4 M1 Q24)",
+          "passage": "Percy Julian was a scientist whose work helped people see. Named in 1999 as one of the greatest achievements by a US chemist in the past hundred years, ______ led to the first mass-produced treatment for glaucoma.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Julian synthesized the alkaloid physostigmine in 1935; it"
+            },
+            {
+              "label": "B",
+              "text": "in 1935 Julian synthesized the alkaloid physostigmine, which"
+            },
+            {
+              "label": "C",
+              "text": "Julian’s 1935 synthesis of the alkaloid physostigmine"
+            },
+            {
+              "label": "D",
+              "text": "the alkaloid physostigmine was synthesized by Julian in 1935 and"
+            }
+          ],
+          "correct": "C",
+          "explanation": "The synthesis was \"named… one of the greatest achievements.\""
+        },
+        {
+          "number": "34",
+          "source": "H2 Q59 (SAT 4 M2 Q25)",
+          "passage": "Engineer Vanessa Galvez oversaw the installation of 164 bioswales along the streets of Queens, New York. By reducing the runoff flowing into city sewers, ______",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "the mitigation of flooding has been achieved by bioswales."
+            },
+            {
+              "label": "B",
+              "text": "the bioswales have mitigated both street flooding and pollution."
+            },
+            {
+              "label": "C",
+              "text": "the bioswales’ mitigation of flooding has been achieved."
+            },
+            {
+              "label": "D",
+              "text": "both street flooding and pollution have been mitigated by bioswales."
+            }
+          ],
+          "correct": "B",
+          "explanation": "The bioswales do the reducing."
+        },
+        {
+          "number": "35",
+          "source": "H2 Q64 (SAT 8 M1 Q26)",
+          "passage": "Compared to that of alumina glass, ______ silica glass atoms are so far apart that they are unable to re-form bonds after being separated.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "silica glass is at a significant disadvantage due to its structure:"
+            },
+            {
+              "label": "B",
+              "text": "silica glass has a more dispersed atomic arrangement, resulting in a disadvantage:"
+            },
+            {
+              "label": "C",
+              "text": "a significant disadvantage of silica glass is its atomic arrangement:"
+            },
+            {
+              "label": "D",
+              "text": "silica glass’s atomic arrangement is more dispersed, resulting in a disadvantage:"
+            }
+          ],
+          "correct": "D",
+          "explanation": "Arrangement compared with arrangement."
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "id": "focus-8-sentence-structure-questions-relative-clauses",
+      "title": "Sentence Structure (Questions & Relative Clauses)",
+      "explanation_en": "📌 Rules: (1) Direct questions use inverted word order and a question mark. (2) Indirect (embedded) questions use statement word order and end with a period. (3) Essential \"that\" clauses take no comma.",
+      "explanation_zh": "",
+      "examples": [
+        "Correct: Researchers investigated how people perceive acts of kindness.",
+        "Incorrect: Researchers investigated how do people perceive acts of kindness?"
+      ],
+      "questions": [
+        {
+          "number": "36",
+          "source": "H1 Q101 (SAT 10 M2 Q19 / SAT 1 M2 Q22)",
+          "passage": "If these blueberry plants were grown in alkaline soil alongside grasses that aid in iron solubilization, ______ Michel was determined to find out.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "could the blueberries thrive."
+            },
+            {
+              "label": "B",
+              "text": "the blueberries could thrive."
+            },
+            {
+              "label": "C",
+              "text": "the blueberries could thrive?"
+            },
+            {
+              "label": "D",
+              "text": "could the blueberries thrive?"
+            }
+          ],
+          "correct": "D",
+          "explanation": "Inverted order + question mark, then a new sentence."
+        },
+        {
+          "number": "37",
+          "source": "H1 Q100 (SAT 6 M2 Q19)",
+          "passage": "In forecasting weather events, meteorologists discuss atmospheric rivers. What are atmospheric rivers, and how ______ Part of the water cycle, atmospheric rivers are narrow channels of moisture.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "do they affect our weather."
+            },
+            {
+              "label": "B",
+              "text": "they do affect our weather."
+            },
+            {
+              "label": "C",
+              "text": "do they affect our weather?"
+            },
+            {
+              "label": "D",
+              "text": "they do affect our weather?"
+            }
+          ],
+          "correct": "C",
+          "explanation": "\"how do they affect our weather?\""
+        },
+        {
+          "number": "38",
+          "source": "H1 Q102 (SAT 6 M1 Q22)",
+          "passage": "Researchers investigated how ______ In experiments conducted in 2022, they found that people performing small acts of kindness underestimated the positive effect on others.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "do people perceive acts of kindness."
+            },
+            {
+              "label": "B",
+              "text": "do people perceive acts of kindness?"
+            },
+            {
+              "label": "C",
+              "text": "people perceive acts of kindness?"
+            },
+            {
+              "label": "D",
+              "text": "people perceive acts of kindness."
+            }
+          ],
+          "correct": "D",
+          "explanation": "Statement order + period."
+        },
+        {
+          "number": "39",
+          "source": "H1 Q78 (SAT 4 M2 Q21)",
+          "passage": "In 2011, writers Charaipotra and Clayton joined forces to found CAKE Literary, a book packaging ______ specializes in the creation and promotion of diverse stories for young adults.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "company,"
+            },
+            {
+              "label": "B",
+              "text": "company that"
+            },
+            {
+              "label": "C",
+              "text": "company"
+            },
+            {
+              "label": "D",
+              "text": "company, that"
+            }
+          ],
+          "correct": "B",
+          "explanation": "Essential clause, no comma."
+        },
+        {
+          "number": "40",
+          "source": "H1 Q103 (practice item)",
+          "passage": "Researchers wanted to understand ______ The team designed an experiment that offered bees identical sugar water in dishes of different colors.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "why do bees prefer blue flowers?"
+            },
+            {
+              "label": "B",
+              "text": "why bees prefer blue flowers."
+            },
+            {
+              "label": "C",
+              "text": "why bees prefer blue flowers?"
+            },
+            {
+              "label": "D",
+              "text": "why do bees prefer blue flowers."
+            }
+          ],
+          "correct": "B",
+          "explanation": "Reported question after \"understand\" → statement order + period."
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "id": "focus-9-transitions-logical-relationships",
+      "title": "Transitions (Logical Relationships)",
+      "explanation_en": "📌 Categories: Cause/effect (as a result, therefore, thus, accordingly, hence) · Contrast (however, nevertheless, by contrast, conversely, still) · Addition (additionally, furthermore, in addition, moreover) · Example/specification (for example, for instance, specifically, in particular) · Time/sequence (meanwhile, previously, currently, next, finally, later, today).",
+      "explanation_zh": "",
+      "examples": [
+        "Correct: Smothering the flame starves the vessel of oxygen. As a result, the vessel takes on a shiny, black hue.",
+        "Incorrect: Smothering the flame starves the vessel of oxygen. On the contrary, the vessel takes on a shiny, black hue."
+      ],
+      "questions": [
+        {
+          "number": "41",
+          "source": "H2 Q66 (SAT 2 M2 Q29)",
+          "passage": "The Twentieth Amendment mandates that presidential inaugurations be held on January 20. ______ this amendment requires newly elected US representatives to be sworn in on January 3.",
+          "prompt": "Which choice completes the text with the most logical transition?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Instead,"
+            },
+            {
+              "label": "B",
+              "text": "For instance,"
+            },
+            {
+              "label": "C",
+              "text": "Specifically,"
+            },
+            {
+              "label": "D",
+              "text": "In addition,"
+            }
+          ],
+          "correct": "D",
+          "explanation": "A second, separate requirement → In addition."
+        },
+        {
+          "number": "42",
+          "source": "H2 Q91 (SAT 5 M1 Q27)",
+          "passage": "Potter Maria Martinez made black vessels using reduction firing. This technique involves smothering the flame surrounding the clay vessel. ______ the vessel takes on a shiny, black hue.",
+          "prompt": "Which choice completes the text with the most logical transition?",
+          "options": [
+            {
+              "label": "A",
+              "text": "On the contrary,"
+            },
+            {
+              "label": "B",
+              "text": "For example,"
+            },
+            {
+              "label": "C",
+              "text": "Previously,"
+            },
+            {
+              "label": "D",
+              "text": "As a result,"
+            }
+          ],
+          "correct": "D",
+          "explanation": "The hue results from smothering the flame."
+        },
+        {
+          "number": "43",
+          "source": "H2 Q83 (SAT 8 M2 Q29 / SAT 1 M1 Q30)",
+          "passage": "At two weeks old, wolves can smell but cannot yet see or hear. Domesticated dogs, ______ can see, hear, and smell by the end of two weeks.",
+          "prompt": "Which choice completes the text with the most logical transition?",
+          "options": [
+            {
+              "label": "A",
+              "text": "in other words,"
+            },
+            {
+              "label": "B",
+              "text": "for instance,"
+            },
+            {
+              "label": "C",
+              "text": "by contrast,"
+            },
+            {
+              "label": "D",
+              "text": "accordingly,"
+            }
+          ],
+          "correct": "C",
+          "explanation": "Dogs differ from wolves."
+        },
+        {
+          "number": "44",
+          "source": "H2 Q71 (SAT 2 M2 Q28)",
+          "passage": "Organisms have evolved surprising adaptations to ensure survival in adverse conditions. Tadpole shrimp embryos, ______ can pause development for over ten years during extended drought.",
+          "prompt": "Which choice completes the text with the most logical transition?",
+          "options": [
+            {
+              "label": "A",
+              "text": "in contrast,"
+            },
+            {
+              "label": "B",
+              "text": "for example,"
+            },
+            {
+              "label": "C",
+              "text": "meanwhile,"
+            },
+            {
+              "label": "D",
+              "text": "consequently,"
+            }
+          ],
+          "correct": "B",
+          "explanation": "Shrimp are one instance of \"surprising adaptations.\""
+        },
+        {
+          "number": "45",
+          "source": "H2 Q112 (SAT 3 M2 Q28)",
+          "passage": "Archaeologists have studied the Nazca Desert line drawings since the 1920s. ______ archaeologists’ efforts are aided by drones that capture high-resolution aerial photographs.",
+          "prompt": "Which choice completes the text with the most logical transition?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Currently,"
+            },
+            {
+              "label": "B",
+              "text": "In comparison,"
+            },
+            {
+              "label": "C",
+              "text": "Still,"
+            },
+            {
+              "label": "D",
+              "text": "However,"
+            }
+          ],
+          "correct": "A",
+          "explanation": "Past study → present practice."
+        }
+      ]
+    }
+  ]
+}

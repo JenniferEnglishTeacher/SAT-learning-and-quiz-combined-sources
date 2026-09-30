@@ -1,0 +1,868 @@
+{
+  "slug": "verb-forms",
+  "title": "Verb Forms",
+  "description": "Finite verbs, relative clauses, participles, absolute phrases, infinitives, and parallel verb forms.",
+  "source_url": "https://docs.google.com/document/d/1CI0-Ry34qtBQTbxrWTzLWn1qflQRyyCDEWe9ge-RGmM",
+  "section_count": 6,
+  "question_count": 30,
+  "sections": [
+    {
+      "number": 1,
+      "id": "focus-1-every-clause-needs-a-finite-main-verb",
+      "title": "Every Clause Needs a Finite (Main) Verb",
+      "explanation_en": "Every sentence—and every clause inside it—needs a finite verb: a verb that shows tense and agrees with its subject (claim, enter, have used, explains, helped). Nonfinite forms cannot do this job: the infinitive (to claim), the gerund or present participle (claiming), and the perfect participle (having claimed). When the blank comes right after the subject, ask: Does this sentence already have a main verb? If not, the blank must be finite. Tip: look past long subjects (e.g., \"His energetic gestures … and his habit of barreling after a hit ball\") to find where the main verb must go, and use time clues (\"A decade later,\" \"For thousands of years\") to choose the tense.",
+      "explanation_zh": "每個句子（以及句中的每個子句）都需要一個限定動詞（主要動詞）：它會顯示時態，並與主詞一致（如 claim、enter、have used、explains、helped）。非限定動詞不能當主要動詞，包括不定詞（to claim）、現在分詞／動名詞（claiming）和完成式分詞（having claimed）。當空格緊接在主詞後面時，先問自己：「這個句子已經有主要動詞了嗎？」如果沒有，空格就必須填限定動詞。小技巧：遇到很長的主詞（例如 His energetic gestures … and his habit of barreling after a hit ball），要找到主詞結束的位置，主要動詞就在那裡；再用時間線索（A decade later、For thousands of years）判斷時態。",
+      "examples": [
+        "A decade later, Land used his technology to invent the world’s first instant camera, the Polaroid Land camera. [Digital SAT 5, Module 1, Q21] (finite verb used; to invent is nonfinite)",
+        "In January 2023, Nery and her colleagues published a study showing changes over time in four whale genes associated with body size. [Digital SAT 5, Module 2, Q18] (finite verb published; showing is nonfinite)"
+      ],
+      "questions": [
+        {
+          "number": "1",
+          "source": "Official Digital SAT 1, Module 1, Q23",
+          "passage": "In 1637, the price of tulips skyrocketed in Amsterdam, with single bulbs of rare varieties selling for up to the equivalent of $200,000 in today’s US dollars. Some historians ______ that this “tulip mania” was the first historical instance of an asset bubble, which occurs when investors drive prices to highs not supported by actual demand.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "claiming"
+            },
+            {
+              "label": "B",
+              "text": "claim"
+            },
+            {
+              "label": "C",
+              "text": "having claimed"
+            },
+            {
+              "label": "D",
+              "text": "to claim"
+            }
+          ],
+          "correct": "B",
+          "explanation": "The subject \"Some historians\" has no verb yet, so the blank needs a finite, plural present-tense verb: \"claim.\" A, C, and D are nonfinite forms and would leave the sentence without a main verb."
+        },
+        {
+          "number": "2",
+          "source": "Official Digital SAT 2, Module 1, Q20 — also SAT 8 M2 Q19",
+          "passage": "To survive when water is scarce, embryos inside African turquoise killifish eggs ______ a dormant state known as diapause. In this state, embryonic development is paused for as long as two years—longer than the life span of an adult killifish.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "enter"
+            },
+            {
+              "label": "B",
+              "text": "to enter"
+            },
+            {
+              "label": "C",
+              "text": "having entered"
+            },
+            {
+              "label": "D",
+              "text": "entering"
+            }
+          ],
+          "correct": "A",
+          "explanation": "\"To survive when water is scarce\" is only an introductory infinitive phrase; the subject \"embryos\" still needs a finite verb. \"Enter\" is finite and plural. B, C, and D are nonfinite and leave the sentence incomplete."
+        },
+        {
+          "number": "3",
+          "source": "Official Digital SAT 2, Module 2, Q18",
+          "passage": "For thousands of years, people in the Americas ______ the bottle gourd, a large bitter fruit with a thick rind, to make bottles, other types of containers, and even musical instruments. Oddly, there is no evidence that any type of bottle gourd is native to the Western Hemisphere; either the fruit or its seeds must have somehow been carried from Asia or Africa.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "to use"
+            },
+            {
+              "label": "B",
+              "text": "have used"
+            },
+            {
+              "label": "C",
+              "text": "having used"
+            },
+            {
+              "label": "D",
+              "text": "using"
+            }
+          ],
+          "correct": "B",
+          "explanation": "The subject \"people\" needs a finite main verb. \"Have used\" is finite, and the present perfect fits an action that has continued \"for thousands of years.\" A, C, and D are nonfinite."
+        },
+        {
+          "number": "4",
+          "source": "Official Digital SAT 3, Module 2, Q19",
+          "passage": "Even though bats prefer very sweet nectar, the plants that attract them have evolved to produce nectar that is only moderately sweet. A recent study ______ why: making sugar is energy-intensive, and it is more advantageous for plants to make a large amount of low-sugar nectar than a small amount of high-sugar nectar.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "explains"
+            },
+            {
+              "label": "B",
+              "text": "explaining"
+            },
+            {
+              "label": "C",
+              "text": "having explained"
+            },
+            {
+              "label": "D",
+              "text": "to explain"
+            }
+          ],
+          "correct": "A",
+          "explanation": "\"A recent study ___ why\" is a complete clause before the colon, so it needs a finite verb: \"explains\" (singular, present). B, C, and D are nonfinite, leaving the clause before the colon without a verb."
+        },
+        {
+          "number": "5",
+          "source": "Official Digital SAT 8, Module 2, Q22",
+          "passage": "In 1966, Emmett Ashford became the first African American to umpire a Major League Baseball game. His energetic gestures announcing when a player had struck out and his habit of barreling after a hit ball to see if it would land out of ______ transform the traditionally solemn umpire role into a dynamic one.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "bounds helped"
+            },
+            {
+              "label": "B",
+              "text": "bounds, helping"
+            },
+            {
+              "label": "C",
+              "text": "bounds that helped"
+            },
+            {
+              "label": "D",
+              "text": "bounds to help"
+            }
+          ],
+          "correct": "A",
+          "explanation": "The long compound subject (\"His energetic gestures … and his habit …\") ends at \"bounds\" and needs a finite verb: \"helped.\" B and D use nonfinite forms, and C turns \"helped\" into part of a relative clause, so none of them gives the subject a main verb."
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "id": "focus-2-finite-verbs-in-relative-clauses-who-that-which-verb",
+      "title": "Finite Verbs in Relative Clauses (who / that / which + verb)",
+      "explanation_en": "A relative clause begins with who, that, or which and describes a noun. It is still a clause, so it needs its own finite verb (which provided …, that specializes …). A participle or infinitive after which/that (which providing, which to provide) is wrong. The relative pronoun is also needed to connect the clause to the noun: \"a company that specializes\"—without that, \"specializes\" would have no subject. Use that with no comma for essential (restrictive) information; use a comma + which for extra (nonrestrictive) information. Remember: the relative clause's verb does not replace the sentence's main verb—the main clause needs one too.",
+      "explanation_zh": "關係子句以 who、that 或 which 開頭，用來修飾名詞。它仍然是子句，所以必須有自己的限定動詞（which provided …、that specializes …）。在 which/that 後面接分詞或不定詞（which providing、which to provide）都是錯的。關係代名詞也不能省略，它負責把子句連接到名詞上：a company that specializes——少了 that，specializes 就沒有主詞。表示必要的（限定）資訊時用 that，前面不加逗號；表示補充的（非限定）資訊時用逗號 + which。記住：關係子句裡的動詞不能取代整句的主要動詞，主要子句也需要自己的動詞。",
+      "examples": [
+        "Former First Lady of the United States Eleanor Roosevelt and Indian activist and educator Hansa Mehta were instrumental in drafting the United Nations’ Universal Declaration of Human Rights, a document that outlines the basic freedoms to which all people are entitled. [Digital SAT 3, Module 2, Q20] (that + finite outlines)",
+        "Clear glass, which is classified as transparent, allows all (or almost all) light to pass through; wax paper, which is classified as translucent, allows only some light to pass through. [Digital SAT 6, Module 2, Q22] (each which clause has its own verb is classified; main verbs allows)"
+      ],
+      "questions": [
+        {
+          "number": "6",
+          "source": "Official Digital SAT 3, Module 1, Q20 — also SAT 9 M1 Q19",
+          "passage": "A member of the Cherokee Nation, Mary Golda Ross is renowned for her contributions to NASA’s Planetary Flight Handbook, which ______ detailed mathematical guidance for missions to Mars and Venus.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "provided"
+            },
+            {
+              "label": "B",
+              "text": "having provided"
+            },
+            {
+              "label": "C",
+              "text": "to provide"
+            },
+            {
+              "label": "D",
+              "text": "providing"
+            }
+          ],
+          "correct": "A",
+          "explanation": "The relative clause \"which ___ detailed mathematical guidance\" needs a finite verb, and \"provided\" is finite (past tense). B, C, and D are nonfinite, so the \"which\" clause would have no verb."
+        },
+        {
+          "number": "7",
+          "source": "Official Digital SAT 4, Module 2, Q21",
+          "passage": "Both Sona Charaipotra, an Indian American, and Dhonielle Clayton, an African American, grew up frustrated by the lack of diverse characters in books for young people. In 2011, these two writers joined forces to found CAKE Literary, a book packaging ______ specializes in the creation and promotion of stories told from diverse perspectives for children and young adults.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "company,"
+            },
+            {
+              "label": "B",
+              "text": "company that"
+            },
+            {
+              "label": "C",
+              "text": "company"
+            },
+            {
+              "label": "D",
+              "text": "company, that"
+            }
+          ],
+          "correct": "B",
+          "explanation": "\"Specializes\" needs a subject; the relative pronoun \"that\" supplies it and links the essential clause to \"company.\" A and C leave \"specializes\" without a subject (creating a run-on structure), and D wrongly puts a comma before restrictive \"that.\""
+        },
+        {
+          "number": "8",
+          "source": "Practice item",
+          "passage": "The Rosetta Stone, a granite slab discovered in 1799, bears a decree that ______ in three scripts: Egyptian hieroglyphs, Demotic, and ancient Greek. This feature allowed scholars to decipher hieroglyphs for the first time.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "written"
+            },
+            {
+              "label": "B",
+              "text": "having been written"
+            },
+            {
+              "label": "C",
+              "text": "was written"
+            },
+            {
+              "label": "D",
+              "text": "to be written"
+            }
+          ],
+          "correct": "C",
+          "explanation": "The relative clause \"that ___ in three scripts\" needs a finite verb, and \"was written\" is finite (past, passive). A, B, and D are nonfinite forms, so the \"that\" clause would have no verb."
+        },
+        {
+          "number": "9",
+          "source": "Practice item",
+          "passage": "Botanist Ynes Mexía, who began her scientific career at the age of fifty-five, collected more than 145,000 plant specimens, including some 500 species that ______ previously unknown to science.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "being"
+            },
+            {
+              "label": "B",
+              "text": "having been"
+            },
+            {
+              "label": "C",
+              "text": "to be"
+            },
+            {
+              "label": "D",
+              "text": "were"
+            }
+          ],
+          "correct": "D",
+          "explanation": "The clause \"that ___ previously unknown to science\" describes \"species\" and needs a finite, plural verb: \"were.\" \"Being,\" \"having been,\" and \"to be\" are nonfinite and leave the relative clause incomplete."
+        },
+        {
+          "number": "10",
+          "source": "Practice item",
+          "passage": "Hedy Lamarr is often remembered as a film star, but she was also an inventor. During World War II, she co-developed a frequency-hopping ______ later influenced Wi-Fi and Bluetooth technologies.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "system,"
+            },
+            {
+              "label": "B",
+              "text": "system that"
+            },
+            {
+              "label": "C",
+              "text": "system"
+            },
+            {
+              "label": "D",
+              "text": "system, that"
+            }
+          ],
+          "correct": "B",
+          "explanation": "\"Later influenced\" needs a subject; \"that\" provides it and connects the essential clause to \"system.\" Without \"that\" (A, C), the sentence has two verbs with nothing joining them. D incorrectly separates restrictive \"that\" with a comma."
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "id": "focus-3-participial-phrases-as-modifiers-ing-ed",
+      "title": "Participial Phrases as Modifiers (-ing / -ed)",
+      "explanation_en": "A participial phrase is a nonfinite phrase that describes a noun; it is not a main verb. Use the present participle (-ing) for an active meaning (the noun does the action) and the past participle (-ed/-en) for a passive meaning (the action is done to the noun). The phrase can appear in several places: introductory (\"Created by businessman William A.G. Brown, the saloon …\"); supplementary, set off by a pair of commas between subject and verb (\"Richard Serra, intending …, assembles …\"); directly after a noun (\"a type of painting characterized by …\"); or at the end as a result phrase after a comma (\"…snow and ice cover, forcing the monkeys to hunt …\"). Test: if the sentence already has its main verb, the blank must be nonfinite—a finite verb would create two main verbs or a comma splice.",
+      "explanation_zh": "分詞片語（分詞構句）是用來修飾名詞的非限定片語，不是主要動詞。表示主動（名詞自己做動作）時用現在分詞（-ing）；表示被動（動作施加在名詞上）時用過去分詞（-ed/-en）。分詞片語可以出現在不同位置：句首（Created by businessman William A.G. Brown, the saloon …）；補充說明，放在主詞和動詞之間、前後用逗號隔開（Richard Serra, intending …, assembles …）；直接放在名詞後面（a type of painting characterized by …）；或放在句尾、逗號後面，表示結果（…snow and ice cover, forcing the monkeys to hunt …）。判斷方法：如果句子已經有主要動詞，空格就必須是非限定形式；填入限定動詞會造成兩個主要動詞或逗號連接句（comma splice）。",
+      "examples": [
+        "Powered with energy collected by solar panels during the day, the blinking LEDs keep lions away at night, thus protecting the livestock without risking harm to the endangered lions. [Digital SAT 3, Module 2, Q22] (introductory past participle Powered; result phrase protecting)",
+        "Because the hole’s small size restricts light to a single ray, all light passing through the hole can only arrive at a single destination, eliminating diffraction and ensuring a clear image. [Digital SAT 6, Module 1, Q25] (passing modifies light; result phrase eliminating … ensuring)"
+      ],
+      "questions": [
+        {
+          "number": "11",
+          "source": "Official Digital SAT 1, Module 2, Q21 — also SAT 10 M1 Q22",
+          "passage": "In winter, the diets of Japanese macaques, also known as snow monkeys, are influenced more by food availability than by food preference. Although the monkeys prefer to eat vegetation and land-dwelling invertebrates, those food sources may become unavailable because of extensive snow and ice cover, ______ the monkeys to hunt for marine animals in any streams that have not frozen over.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "forces"
+            },
+            {
+              "label": "B",
+              "text": "to force"
+            },
+            {
+              "label": "C",
+              "text": "forcing"
+            },
+            {
+              "label": "D",
+              "text": "forced"
+            }
+          ],
+          "correct": "C",
+          "explanation": "The main clause already has its verb (\"may become\"). \"Forcing the monkeys to hunt …\" is a result phrase attached with a comma. A and D are finite verbs and would create a comma splice; B (\"to force\") wrongly suggests purpose, as if the snow intended to force the monkeys."
+        },
+        {
+          "number": "12",
+          "source": "Official Digital SAT 5, Module 2, Q25",
+          "passage": "American abstract artist Richard ______ his installations to make passersby keenly aware of how one’s movements are affected by the physical features of one’s environment, assembles large-scale steel plates into sculptures that dominate the outdoor spaces they occupy.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Serra is intending"
+            },
+            {
+              "label": "B",
+              "text": "Serra, intends"
+            },
+            {
+              "label": "C",
+              "text": "Serra, intending"
+            },
+            {
+              "label": "D",
+              "text": "Serra intends"
+            }
+          ],
+          "correct": "C",
+          "explanation": "The sentence's main verb is \"assembles.\" The words between the commas must be a nonessential participial phrase, so \"Serra, intending\" is correct. A, B, and D insert a second finite verb and break the sentence structure."
+        },
+        {
+          "number": "13",
+          "source": "Official Digital SAT 6, Module 1, Q19",
+          "passage": "The Boston Saloon was one of the most popular African American–owned establishments in nineteenth-century Nevada. ______ by businessman William A.G. Brown, the saloon was known to offer elegant accommodations and an inclusive environment.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Created"
+            },
+            {
+              "label": "B",
+              "text": "Creates"
+            },
+            {
+              "label": "C",
+              "text": "Creating"
+            },
+            {
+              "label": "D",
+              "text": "Create"
+            }
+          ],
+          "correct": "A",
+          "explanation": "The introductory phrase describes \"the saloon,\" which was created by Brown—a passive meaning, so the past participle \"Created\" is correct. \"Creating\" (C) would mean the saloon did the creating; B and D are finite verbs that cannot begin an introductory modifier."
+        },
+        {
+          "number": "14",
+          "source": "Official Digital SAT 7, Module 1, Q23",
+          "passage": "Featuring jagged peaks of black ink surrounded by hazy swirls of blue and green paint, Zhang Daqian’s 1983 painting Panorama of Mount Lu is inspired by the tradition of qinglü shanshui, a type of Chinese landscape painting ______ by the use of blue and green hues to depict ethereal, otherworldly landscapes.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "has been characterized"
+            },
+            {
+              "label": "B",
+              "text": "will be characterized"
+            },
+            {
+              "label": "C",
+              "text": "characterized"
+            },
+            {
+              "label": "D",
+              "text": "is characterized"
+            }
+          ],
+          "correct": "C",
+          "explanation": "\"Characterized by …\" is a past-participle phrase modifying \"a type of Chinese landscape painting.\" A, B, and D are finite verbs; with no relative pronoun to introduce them, they would create an ungrammatical second main verb inside the appositive."
+        },
+        {
+          "number": "15",
+          "source": "Official Digital SAT 9, Module 1, Q25",
+          "passage": "Recent pollen analyses of the Aran Islands have led some researchers to propose that the now treeless islands were once wooded. This hypothesis ______ that certain trees, such as P. sylvestris, survived without interruption or human intervention throughout the Holocene cannot stand, researchers Michael O’Connell and Karen Molloy counter, unless other explanations can first be ruled out.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "suggesting"
+            },
+            {
+              "label": "B",
+              "text": "suggested"
+            },
+            {
+              "label": "C",
+              "text": "suggests"
+            },
+            {
+              "label": "D",
+              "text": "has suggested"
+            }
+          ],
+          "correct": "A",
+          "explanation": "The main verb of \"This hypothesis …\" is \"cannot stand.\" So \"suggesting that …\" must be a participial phrase describing the hypothesis. B, C, and D are finite and would give the subject two main verbs."
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "id": "focus-4-absolute-phrases-noun-participle",
+      "title": "Absolute Phrases (noun + participle)",
+      "explanation_en": "An absolute phrase is a noun (or pronoun) + participle (or adjective) that adds detail to a whole sentence: \"…, its vehicles highly prized by collectors.\" It has its own \"subject\" but no finite verb, so it can be attached to a complete sentence with just a comma. If you put a finite verb in the blank (its vehicles were highly prized), you create two independent clauses joined by only a comma—a comma splice. Recognize the pattern: comma + possessive/noun (its, their, his, the stitching) + blank. Choose the present participle (-ing) for active meaning (their facades still astonishing visitors) and the past participle (-ed) for passive meaning (her hands scarred by …).",
+      "explanation_zh": "獨立分詞構句（absolute phrase）的結構是名詞（或代名詞）＋分詞（或形容詞），用來為整個句子補充細節：…, its vehicles highly prized by collectors。它有自己的「意義上的主詞」，但沒有限定動詞，所以只要用逗號就能接在完整句子後面。如果在空格填入限定動詞（its vehicles were highly prized），就會變成兩個獨立子句只用逗號相連，形成逗號連接句（comma splice）。辨認方式：逗號＋所有格或名詞（its、their、his、the stitching）＋空格。表示主動用現在分詞（-ing）（their facades still astonishing visitors），表示被動用過去分詞（-ed）（her hands scarred by …）。",
+      "examples": [
+        "From afar, African American fiber artist Bisa Butler’s portraits look like paintings, their depictions of human faces, bodies, and clothing so intricate that it seems only a fine brush could have rendered them. [Digital SAT 3, Module 1, Q26] (absolute phrase: their depictions … so intricate)",
+        "When viewed up close, however, the portraits reveal themselves to be quilts, the stitching barely visible among the thousands of pieces of printed, microcut fabric. [Digital SAT 3, Module 1, Q26] (absolute phrase: the stitching barely visible)"
+      ],
+      "questions": [
+        {
+          "number": "16",
+          "source": "Official Digital SAT 9, Module 2, Q25",
+          "passage": "In the late nineteenth and early twentieth centuries, automobiles were commonly referred to as horseless carriages after the older technology they still resembled. Known as the Brass Era, this period in automotive design is remembered for its grandeur and artistry, its vehicles ______ by collectors for their ornate detailing and gleaming brass fittings.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "are highly prized"
+            },
+            {
+              "label": "B",
+              "text": "had been highly prized"
+            },
+            {
+              "label": "C",
+              "text": "highly prized"
+            },
+            {
+              "label": "D",
+              "text": "were highly prized"
+            }
+          ],
+          "correct": "C",
+          "explanation": "\"Its vehicles highly prized by collectors …\" is an absolute phrase (noun + past participle) attached to the main clause with a comma. A, B, and D add a finite verb, turning the phrase into an independent clause and creating a comma splice."
+        },
+        {
+          "number": "17",
+          "source": "Practice item",
+          "passage": "Emperor penguins survive the Antarctic winter by huddling together in dense groups of thousands, their backs ______ against the relentless polar wind.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "were turned"
+            },
+            {
+              "label": "B",
+              "text": "turned"
+            },
+            {
+              "label": "C",
+              "text": "are turning"
+            },
+            {
+              "label": "D",
+              "text": "had been turned"
+            }
+          ],
+          "correct": "B",
+          "explanation": "\"Their backs turned against the … wind\" is an absolute phrase (noun + participle) that adds detail to the complete main clause. A, C, and D are finite verbs and would join two independent clauses with only a comma (comma splice)."
+        },
+        {
+          "number": "18",
+          "source": "Practice item",
+          "passage": "For years, Marie Curie processed tons of pitchblende ore in a converted shed at the School of Physics and Chemistry in Paris, her hands ______ by the radioactive materials she handled daily.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "are scarred"
+            },
+            {
+              "label": "B",
+              "text": "were scarred"
+            },
+            {
+              "label": "C",
+              "text": "have been scarred"
+            },
+            {
+              "label": "D",
+              "text": "scarred"
+            }
+          ],
+          "correct": "D",
+          "explanation": "The main clause is complete (\"Marie Curie processed …\"). \"Her hands scarred by …\" is an absolute phrase; the past participle shows the passive meaning (the hands were scarred). A, B, and C are finite and create a comma splice."
+        },
+        {
+          "number": "19",
+          "source": "Practice item",
+          "passage": "The ancient city of Petra was carved directly into rose-colored sandstone cliffs, its elaborate facades still ______ visitors more than two thousand years after their construction.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "astonishing"
+            },
+            {
+              "label": "B",
+              "text": "astonish"
+            },
+            {
+              "label": "C",
+              "text": "astonished"
+            },
+            {
+              "label": "D",
+              "text": "have astonished"
+            }
+          ],
+          "correct": "A",
+          "explanation": "After the comma, \"its elaborate facades ___ visitors\" must be an absolute phrase, so a participle is needed. The facades do the astonishing (active), so the present participle \"astonishing\" is correct. B and D are finite (comma splice); C is passive and would illogically mean the facades were astonished."
+        },
+        {
+          "number": "20",
+          "source": "Practice item",
+          "passage": "The 2021 survey of urban commuters produced striking results, nearly 80 percent of respondents ______ that they had changed their travel habits within the previous two years.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "reported"
+            },
+            {
+              "label": "B",
+              "text": "have reported"
+            },
+            {
+              "label": "C",
+              "text": "reporting"
+            },
+            {
+              "label": "D",
+              "text": "report"
+            }
+          ],
+          "correct": "C",
+          "explanation": "\"Nearly 80 percent of respondents reporting that …\" is an absolute phrase that explains the \"striking results.\" A, B, and D are finite verbs and would create a comma splice."
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "id": "focus-5-infinitives-purpose-and-after-certain-verbs",
+      "title": "Infinitives: Purpose and After Certain Verbs",
+      "explanation_en": "The infinitive is to + base verb (to tell, to forge, to include). The SAT tests it in two main ways. (1) Infinitive of purpose: when the sentence already has its main verb, to + verb explains why (= in order to): \"Engle uses poetry rather than prose to tell the true story …\" (2) After certain verbs: some verbs must be followed by an infinitive, not an -ing form or a bare verb—decide to, agree to, plan to, hope to, want to, refuse to, attempt to, fail to, need to. \"The committee decided to include …\" Watch out: an -ing phrase in the same position may illogically modify the nearest noun, and a finite verb would create a second main verb.",
+      "explanation_zh": "不定詞的形式是 to＋原形動詞（to tell、to forge、to include）。SAT 主要用兩種方式考它：（1）表示目的的不定詞：當句子已經有主要動詞時，to＋動詞 用來說明「為什麼」（＝in order to）：Engle uses poetry rather than prose to tell the true story …（2）特定動詞後面接不定詞：有些動詞後面必須接不定詞，不能接 -ing 或原形動詞，例如 decide to、agree to、plan to、hope to、want to、refuse to、attempt to、fail to、need to：The committee decided to include … 注意：在同一位置使用 -ing 片語，可能會不合邏輯地修飾前面最近的名詞；使用限定動詞則會多出第二個主要動詞。",
+      "examples": [
+        "In 1943, in the midst of World War II, mathematics professor Grace Hopper was recruited by the US military to help the war effort by solving complex equations. [Digital SAT 1, Module 1, Q27] (infinitive of purpose to help)",
+        "When, in 2017, Cambridge University students Lucy Moss and Toby Marlow decided they wanted to develop a musical together, one of their goals was for their female actor friends to have good parts to play. [Digital SAT 7, Module 2, Q30] (wanted to develop: infinitive after want)"
+      ],
+      "questions": [
+        {
+          "number": "21",
+          "source": "Official Digital SAT 4, Module 2, Q24",
+          "passage": "Working from an earlier discovery of Charpentier’s, chemists Emmanuelle Charpentier and Jennifer Doudna—winners of the 2020 Nobel Prize in Chemistry—re-created and then reprogrammed the so-called “genetic scissors” of a species of DNA-cleaving bacteria ______ a tool that is revolutionizing the field of gene technology.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "to forge"
+            },
+            {
+              "label": "B",
+              "text": "forging"
+            },
+            {
+              "label": "C",
+              "text": "forged"
+            },
+            {
+              "label": "D",
+              "text": "and forging"
+            }
+          ],
+          "correct": "A",
+          "explanation": "The main verbs are \"re-created and then reprogrammed.\" The infinitive \"to forge\" explains the purpose: they reprogrammed the scissors in order to forge a tool. B would seem to describe the bacteria, C creates an unclear extra verb, and D wrongly joins a participle to two finite verbs."
+        },
+        {
+          "number": "22",
+          "source": "Official Digital SAT 9, Module 2, Q20",
+          "passage": "In the historical novel The Surrender Tree, Cuban American author Margarita Engle uses poetry rather than prose ______ the true story of Cuban folk hero Rosa La Bayamesa.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "tells"
+            },
+            {
+              "label": "B",
+              "text": "told"
+            },
+            {
+              "label": "C",
+              "text": "is telling"
+            },
+            {
+              "label": "D",
+              "text": "to tell"
+            }
+          ],
+          "correct": "D",
+          "explanation": "The sentence already has its main verb, \"uses.\" The infinitive \"to tell\" expresses purpose (she uses poetry in order to tell the story). A and C are finite verbs that would give the sentence a second main verb; B (\"told\") would illogically describe \"prose\" as the thing that was told."
+        },
+        {
+          "number": "23",
+          "source": "Official Digital SAT 7, Module 2, Q19",
+          "passage": "Nowadays, tug-of-war is usually seen as an informal game one might play at a picnic or in gym class. Surprisingly, the Olympic committee once decided ______ tug-of-war as an official Olympic event! Nations competed in the event at the Olympic Games from 1900 to 1920.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "included"
+            },
+            {
+              "label": "B",
+              "text": "including"
+            },
+            {
+              "label": "C",
+              "text": "include"
+            },
+            {
+              "label": "D",
+              "text": "to include"
+            }
+          ],
+          "correct": "D",
+          "explanation": "\"Decide\" is followed by an infinitive (decide to do something), so \"to include\" is correct. A and C are finite forms that cannot follow \"decided\" directly, and \"decided including\" (B) is not standard."
+        },
+        {
+          "number": "24",
+          "source": "Practice item",
+          "passage": "In 1953, before large-scale trials began, Jonas Salk agreed ______ his experimental polio vaccine on himself and his family to demonstrate his confidence in its safety.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "testing"
+            },
+            {
+              "label": "B",
+              "text": "to test"
+            },
+            {
+              "label": "C",
+              "text": "tested"
+            },
+            {
+              "label": "D",
+              "text": "tests"
+            }
+          ],
+          "correct": "B",
+          "explanation": "\"Agree\" takes an infinitive (agree to do something), so \"to test\" is correct. \"Agreed testing\" (A) is not standard English, and C and D are finite verbs that cannot follow \"agreed\" directly."
+        },
+        {
+          "number": "25",
+          "source": "Practice item",
+          "passage": "Iraqi British architect Zaha Hadid used sweeping curves and sharply angled surfaces ______ buildings that seem to be in motion even while standing still.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "she created"
+            },
+            {
+              "label": "B",
+              "text": "created"
+            },
+            {
+              "label": "C",
+              "text": "to create"
+            },
+            {
+              "label": "D",
+              "text": "creates"
+            }
+          ],
+          "correct": "C",
+          "explanation": "The main verb is \"used,\" so the blank should explain the purpose of using the curves: \"to create buildings.\" A adds a second independent clause with no punctuation (run-on), and B and D are finite verbs that would give the sentence two main verbs."
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "id": "focus-6-parallel-verb-forms-after-modals-and-in-compound-predicates",
+      "title": "Parallel Verb Forms (after modals and in compound predicates)",
+      "explanation_en": "When one subject has two or more verbs joined by and / or / but, those verbs form a compound predicate and must be parallel—the same form and tense. After a modal verb (can, could, will, would, may, might, must, should), every verb in the series takes the base form: \"The lock would increase the salinity … and create a natural barrier\" (= would create). In a past-tense series, all verbs are past: \"The map describes …, shows …, and includes …\" To solve: find the subject, find the first verb in the pair or list, and match the blank to it. -ing forms, infinitives, or a different tense break the parallel structure.",
+      "explanation_zh": "當一個主詞有兩個以上的動詞，由 and / or / but 連接時，這些動詞構成複合述語，必須平行——形式和時態都要一致。在情態助動詞（can、could、will、would、may、might、must、should）後面，系列中的每一個動詞都要用原形：The lock would increase the salinity … and create a natural barrier（＝would create）。如果是過去式的系列，所有動詞都要用過去式；現在式的系列則都用現在式：The map describes …, shows …, and includes … 解題步驟：先找主詞，再找這組動詞中的第一個動詞，讓空格的形式與它一致。使用 -ing、不定詞或不同時態都會破壞平行結構。",
+      "examples": [
+        "The map describes the area of a plot of land, shows a river valley, and includes the cardinal directions. [Digital SAT 7, Module 1, Q19] (three parallel present-tense verbs)",
+        "In 1613, a prop cannon malfunctioned during a performance and ignited the Globe’s thatched roof. [Digital SAT 7, Module 2, Q20] (parallel past-tense verbs malfunctioned … and ignited)"
+      ],
+      "questions": [
+        {
+          "number": "26",
+          "source": "Official Digital SAT 1, Module 2, Q25 — also SAT 8 M1 Q20",
+          "passage": "In order to prevent nonnative fish species from moving freely between the Mediterranean and Red Seas, marine biologist Bella Galil has proposed that a saline lock system be installed along the Suez Canal in Egypt’s Great Bitter Lakes. The lock would increase the salinity of the lakes and ______ a natural barrier of water most marine creatures would be unable to cross.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "creates"
+            },
+            {
+              "label": "B",
+              "text": "create"
+            },
+            {
+              "label": "C",
+              "text": "creating"
+            },
+            {
+              "label": "D",
+              "text": "created"
+            }
+          ],
+          "correct": "B",
+          "explanation": "\"Would\" governs both verbs: the lock would increase … and (would) create. After a modal, the base form is required. A and D are not base forms, and C (\"creating\") breaks the parallel structure."
+        },
+        {
+          "number": "27",
+          "source": "Practice item",
+          "passage": "According to the engineers’ proposal, the new seawall would shield the harbor from storm surges and ______ local fishers a safer place to anchor their boats.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "provides"
+            },
+            {
+              "label": "B",
+              "text": "providing"
+            },
+            {
+              "label": "C",
+              "text": "provided"
+            },
+            {
+              "label": "D",
+              "text": "provide"
+            }
+          ],
+          "correct": "D",
+          "explanation": "Both verbs follow the modal \"would\": the seawall would shield … and (would) provide. The base form \"provide\" keeps the compound predicate parallel. A and C change the form, and B uses an -ing form that is not parallel with \"shield.\""
+        },
+        {
+          "number": "28",
+          "source": "Practice item",
+          "passage": "Octopuses can change the color of their skin in a fraction of a second and ______ its texture to match nearby rocks, coral, or seaweed.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "alter"
+            },
+            {
+              "label": "B",
+              "text": "altering"
+            },
+            {
+              "label": "C",
+              "text": "alters"
+            },
+            {
+              "label": "D",
+              "text": "to have altered"
+            }
+          ],
+          "correct": "A",
+          "explanation": "The modal \"can\" applies to both verbs: octopuses can change … and (can) alter. The base form \"alter\" is parallel with \"change.\" B, C, and D do not match the base form after \"can.\""
+        },
+        {
+          "number": "29",
+          "source": "Practice item",
+          "passage": "During the Crimean War, Florence Nightingale collected mortality data from military hospitals, analyzed the causes of soldiers’ deaths, and ______ her findings in innovative statistical diagrams.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "presenting"
+            },
+            {
+              "label": "B",
+              "text": "presents"
+            },
+            {
+              "label": "C",
+              "text": "presented"
+            },
+            {
+              "label": "D",
+              "text": "to present"
+            }
+          ],
+          "correct": "C",
+          "explanation": "The three verbs share the subject \"Florence Nightingale\" and must all be past tense: collected, analyzed, and presented. A and D are nonfinite and break the series; B shifts to the present tense."
+        },
+        {
+          "number": "30",
+          "source": "Practice item",
+          "passage": "To earn the certification, a laboratory must document every step of its testing process and ______ its equipment at regular intervals.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "calibrating"
+            },
+            {
+              "label": "B",
+              "text": "calibrated"
+            },
+            {
+              "label": "C",
+              "text": "calibrates"
+            },
+            {
+              "label": "D",
+              "text": "calibrate"
+            }
+          ],
+          "correct": "D",
+          "explanation": "\"Must\" governs both verbs: a laboratory must document … and (must) calibrate. After a modal, the base form is required. A, B, and C are not base forms and break the parallel structure."
+        }
+      ]
+    }
+  ]
+}

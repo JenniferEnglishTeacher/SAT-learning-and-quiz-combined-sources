@@ -1,0 +1,868 @@
+{
+  "slug": "pronouns-modifiers",
+  "title": "Pronouns & Modifiers",
+  "description": "Pronoun agreement, determiners, dangling modifiers, logical comparisons, and modifier placement.",
+  "source_url": "https://docs.google.com/document/d/1HN879ll7eNoSDs1F83X7Spdf5yc2kXXtHlHEtRfUNeY",
+  "section_count": 6,
+  "question_count": 30,
+  "sections": [
+    {
+      "number": 1,
+      "id": "focus-1-pronounantecedent-agreement-singular-it-its-collective-nouns",
+      "title": "Pronoun–Antecedent Agreement: Singular (it / its; Collective Nouns)",
+      "explanation_en": "A pronoun must match its antecedent, the noun it refers to. A singular antecedent takes it / its / itself. On the SAT the antecedent is often far from the pronoun, or hidden behind an interrupter (dashes, commas, along with…). Cross out the interrupter and ask, “What does the pronoun point back to?” In “a given industry—water and electricity are two well-known examples—carries high costs,” the pronoun refers to industry (singular), not to examples. Collective nouns such as organization, committee, team, jury, museum, company, government, union name one group, so the SAT treats them as singular: the organization doubled its membership. A single animal species (the wood frog) is also singular. (Quick reminder: its is possessive; it’s = it is. See the punctuation handout for the apostrophe rules.)",
+      "explanation_zh": "代名詞必須和它的先行詞（它所指的名詞）一致。單數先行詞要用 it / its / itself。SAT 常把先行詞放得離代名詞很遠，或用插入語（破折號、逗號、along with…）把它藏起來。請先刪去插入語，再問自己：「這個代名詞指的是哪個名詞？」例如 “a given industry—water and electricity are two well-known examples—carries high costs” 中，代名詞指的是 industry（單數），不是 examples。集合名詞如 organization、committee、team、jury、museum、company、government、union 代表「一個」團體，SAT 一律視為單數：the organization doubled its membership。單一物種（the wood frog）也是單數。（提醒：its 是所有格；it’s = it is，撇號規則請見標點符號講義。）",
+      "examples": [
+        "Like other amphibians, the wood frog (Rana sylvatica) is unable to generate its own heat, so during periods of subfreezing temperatures, it survives by producing large amounts of glucose, a sugar that helps prevent damaging ice from forming inside its cells. [Digital SAT 4, Module 1, Q20] (singular “the wood frog” → its, it, its)",
+        "By the end of the 1990s, the organization had doubled its initial membership. [Digital SAT 2, Module 1, Q21] (collective noun “the organization” → its)"
+      ],
+      "questions": [
+        {
+          "number": "1",
+          "source": "Official Digital SAT 7, Module 2, Q22",
+          "passage": "When a given industry—water and electricity are two well-known examples—carries high infrastructural start-up costs and other barriers that discourage competition, ______ of just one or two suppliers per municipality. Such industries are known as natural monopolies.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "these often consist"
+            },
+            {
+              "label": "B",
+              "text": "they often consist"
+            },
+            {
+              "label": "C",
+              "text": "it often consists"
+            },
+            {
+              "label": "D",
+              "text": "this often consists"
+            }
+          ],
+          "correct": "C",
+          "explanation": "The pronoun refers to a given industry (singular). The dashed words water and electricity are two well-known examples are an interrupter with a plural trap noun. It often consists is singular and points clearly to the industry. A and B are plural. D (this) is singular but vague: this would seem to point to the whole situation, not to the industry."
+        },
+        {
+          "number": "2",
+          "source": "Practice item",
+          "passage": "The International Union for Conservation of Nature updates ______ Red List of Threatened Species several times a year, reclassifying species as new population data become available.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "its"
+            },
+            {
+              "label": "B",
+              "text": "their"
+            },
+            {
+              "label": "C",
+              "text": "them"
+            },
+            {
+              "label": "D",
+              "text": "one’s"
+            }
+          ],
+          "correct": "A",
+          "explanation": "The International Union for Conservation of Nature is one organization (a collective noun), so the possessive must be singular: its. B treats the organization as plural. C is an object pronoun, not a possessive. D (one’s) refers to a general person, not the organization."
+        },
+        {
+          "number": "3",
+          "source": "Practice item",
+          "passage": "After reviewing more than three hundred submissions, the selection committee announced that ______ had chosen a design by a young Brazilian architect for the new public library.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "they"
+            },
+            {
+              "label": "B",
+              "text": "we"
+            },
+            {
+              "label": "C",
+              "text": "those"
+            },
+            {
+              "label": "D",
+              "text": "it"
+            }
+          ],
+          "correct": "D",
+          "explanation": "The selection committee is a collective noun that acts as one unit, so the SAT requires the singular pronoun it. A (they) treats the committee as plural. B (we) shifts to the first person. C (those) is plural and has no clear antecedent."
+        },
+        {
+          "number": "4",
+          "source": "Practice item",
+          "passage": "Unlike most other mammals, the naked mole-rat can survive for up to eighteen minutes without oxygen by switching ______ metabolism to a fructose-based pathway that does not require oxygen.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "their"
+            },
+            {
+              "label": "B",
+              "text": "his"
+            },
+            {
+              "label": "C",
+              "text": "its"
+            },
+            {
+              "label": "D",
+              "text": "those"
+            }
+          ],
+          "correct": "C",
+          "explanation": "The antecedent is the naked mole-rat, a singular noun (the words most other mammals are part of an introductory phrase, not the antecedent). An animal takes its. A and D are plural and wrongly agree with mammals. B (his) is used for people, not for an animal species."
+        },
+        {
+          "number": "5",
+          "source": "Practice item",
+          "passage": "The Hubble Space Telescope, along with dozens of ground-based observatories, has transformed modern astronomy; among ______ best-known achievements is a precise measurement of the rate at which the universe is expanding.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "their"
+            },
+            {
+              "label": "B",
+              "text": "its"
+            },
+            {
+              "label": "C",
+              "text": "these"
+            },
+            {
+              "label": "D",
+              "text": "there"
+            }
+          ],
+          "correct": "B",
+          "explanation": "The subject is The Hubble Space Telescope; along with dozens of ground-based observatories is an interrupter and does not create a plural antecedent (the verb has confirms the subject is singular). The possessive must be singular: its. A and C are plural and agree with the trap noun observatories. D (there) is an adverb, not a possessive."
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "id": "focus-2-pronounantecedent-agreement-plural-they-their-them",
+      "title": "Pronoun–Antecedent Agreement: Plural (they / their / them)",
+      "explanation_en": "A plural antecedent takes they / their / them / themselves. Plural antecedents include plural nouns (customers, table forks, two woodcuts) and compound subjects joined by and (Watson and Crick). The antecedent may be in an earlier sentence or may be renamed (table forks → the eating utensils), so read back until you find it. Watch for three traps: (1) a nearby singular noun that is not the antecedent; (2) vague pronouns such as this, that, some, one, you that do not match the antecedent; (3) choices that look alike but are contractions (they’re = they are, it’s = it is). The possessive of they is their.",
+      "explanation_zh": "複數先行詞要用 they / their / them / themselves。複數先行詞包括複數名詞（customers、table forks、two woodcuts）以及用 and 連接的複合主詞（Watson and Crick）。先行詞可能在前一句，也可能換了說法（table forks → the eating utensils），所以要往前讀，找到它。注意三個陷阱：(1) 附近有一個單數名詞，但它不是先行詞；(2) this、that、some、one、you 等指代不清或不一致的代名詞；(3) 看起來很像的縮寫（they’re = they are，it’s = it is）。they 的所有格是 their。",
+      "examples": [
+        "Larch trees, for instance, lose their needles every fall. [Digital SAT 3, Module 1, Q27] (plural “Larch trees” → their)",
+        "Alternatively, contaminated soil can be detoxified via phytoremediation: plants that can withstand high concentrations of metals absorb the pollutants and store them in their shoots, which are then cut off and safely disposed of, preserving the health of the plants. [Digital SAT 4, Module 2, Q28] (plural “the pollutants” → them; plural “plants” → their)"
+      ],
+      "questions": [
+        {
+          "number": "6",
+          "source": "Official Digital SAT 1, Module 1, Q19 — also SAT 10 M2 Q18",
+          "passage": "Public-awareness campaigns about the need to reduce single-use plastics can be successful, says researcher Kim Borg of Monash University in Australia, when these campaigns give consumers a choice: for example, Japan achieved a 40 percent reduction in plastic-bag use after cashiers were instructed to ask customers whether ______ wanted a bag.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "they"
+            },
+            {
+              "label": "B",
+              "text": "one"
+            },
+            {
+              "label": "C",
+              "text": "you"
+            },
+            {
+              "label": "D",
+              "text": "it"
+            }
+          ],
+          "correct": "A",
+          "explanation": "The pronoun refers to customers (plural), the people who are asked, so the plural subject pronoun they is required. B (one) and C (you) shift to a general or second-person point of view. D (it) is singular and has no logical antecedent."
+        },
+        {
+          "number": "7",
+          "source": "Official Digital SAT 5, Module 2, Q20",
+          "passage": "When they were first introduced to western Europe from Byzantium in the eleventh century, table forks were met with much resistance. The Bishop of Ostia, St. Peter Damian, condemned the eating utensils because he considered ______ dangerous and unnecessary luxury items.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "them"
+            },
+            {
+              "label": "B",
+              "text": "this"
+            },
+            {
+              "label": "C",
+              "text": "that"
+            },
+            {
+              "label": "D",
+              "text": "it"
+            }
+          ],
+          "correct": "A",
+          "explanation": "The pronoun refers to the eating utensils (= the table forks), which is plural, and it must also match the plural items. The object pronoun them is correct. B, C, and D are singular."
+        },
+        {
+          "number": "8",
+          "source": "Official Digital SAT 9, Module 1, Q21",
+          "passage": "In 1930, Japanese American artist Chiura Obata depicted the natural beauty of Yosemite National Park in two memorable woodcuts: Evening at Carl Inn and Lake Basin in the High Sierra. In 2019, ______ exhibited alongside 150 of Obata’s other works in a single-artist show at the Smithsonian American Art Museum.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "it was"
+            },
+            {
+              "label": "B",
+              "text": "they were"
+            },
+            {
+              "label": "C",
+              "text": "this was"
+            },
+            {
+              "label": "D",
+              "text": "some were"
+            }
+          ],
+          "correct": "B",
+          "explanation": "The antecedent is two memorable woodcuts (plural), so the pronoun and verb must be plural: they were. A and C are singular. D (some) is illogical because both woodcuts are meant, not only part of them."
+        },
+        {
+          "number": "9",
+          "source": "Official Digital SAT 1, Module 1, Q21 — also SAT 9 M2 Q19",
+          "passage": "British scientists James Watson and Francis Crick won the Nobel Prize in part for their 1953 paper announcing the double helix structure of DNA, but it is misleading to say that Watson and Crick discovered the double helix. ______ findings were based on a famous X-ray image of DNA fibers, “Photo 51,” developed by X-ray crystallographer Rosalind Franklin and her graduate student Raymond Gosling.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "They’re"
+            },
+            {
+              "label": "B",
+              "text": "It’s"
+            },
+            {
+              "label": "C",
+              "text": "Their"
+            },
+            {
+              "label": "D",
+              "text": "Its"
+            }
+          ],
+          "correct": "C",
+          "explanation": "The findings belong to Watson and Crick, a compound (plural) antecedent, so the plural possessive Their is required. A and B are contractions (they are, it is). D (Its) is singular."
+        },
+        {
+          "number": "10",
+          "source": "Official Digital SAT 10, Module 1, Q26",
+          "passage": "In Marisol’s 1968 sculpture Mi Mama y Yo, gone are the types of pop culture references that made the Parisian-born Venezuelan American artist a star at the height of the pop art movement. In ______ place is a far more personal subject: a sculptural depiction of the artist as a young girl with her mother.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "its"
+            },
+            {
+              "label": "B",
+              "text": "they’re"
+            },
+            {
+              "label": "C",
+              "text": "their"
+            },
+            {
+              "label": "D",
+              "text": "it’s"
+            }
+          ],
+          "correct": "C",
+          "explanation": "The possessive refers to the types of pop culture references (plural), which are gone; a new subject takes their place. The plural possessive their is correct. A (its) is singular. B and D are contractions."
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "id": "focus-3-reflexive-pronouns-and-determinernoun-number-this-these-that-those",
+      "title": "Reflexive Pronouns and Determiner–Noun Number (this / these, that / those)",
+      "explanation_en": "Use a reflexive pronoun (myself, itself, themselves…) when the object is the same thing as the subject: the barnacles attach themselves. A reflexive must match the subject in number: singular itself, plural themselves. If the object is someone or something different, use an ordinary object pronoun (them, it). Demonstratives must match in number too: this / that + singular noun, these / those + plural noun (these letters, this building). When this or that stands alone as a pronoun, it refers to one idea or event (making this the first time…). Those often replaces a plural noun in comparisons (the teeth in this layer and those in that layer).",
+      "explanation_zh": "當受詞和主詞是同一個人或事物時，用反身代名詞（myself、itself、themselves…）：the barnacles attach themselves。反身代名詞必須和主詞單複數一致：單數用 itself，複數用 themselves。如果受詞是不同的人或事物，就用一般受格代名詞（them、it）。指示詞也要單複數一致：this / that + 單數名詞，these / those + 複數名詞（these letters、this building）。this 或 that 單獨當代名詞時，指的是一個想法或事件（making this the first time…）。those 常在比較句中代替複數名詞（the teeth in this layer and those in that layer）。",
+      "examples": [
+        "When viewed up close, however, the portraits reveal themselves to be quilts, the stitching barely visible among the thousands of pieces of printed, microcut fabric. [Digital SAT 3, Module 1, Q26] (subject “the portraits” = object → reflexive plural themselves)",
+        "In 2011, these two writers joined forces to found CAKE Literary, a book packaging company that specializes in the creation and promotion of stories told from diverse perspectives for children and young adults. [Digital SAT 4, Module 2, Q21] (plural noun “writers” → these)"
+      ],
+      "questions": [
+        {
+          "number": "11",
+          "source": "Official Digital SAT 1, Module 1, Q25",
+          "passage": "Scientists believe that, unlike most other species of barnacle, turtle barnacles (Chelonibia testudinari) can dissolve the cement-like secretions they use to attach ______ to a sea turtle shell, enabling the barnacles to move short distances across the shell’s surface.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "it"
+            },
+            {
+              "label": "B",
+              "text": "themselves"
+            },
+            {
+              "label": "C",
+              "text": "them"
+            },
+            {
+              "label": "D",
+              "text": "itself"
+            }
+          ],
+          "correct": "B",
+          "explanation": "The barnacles (they) attach their own bodies to the shell, so the object is the same as the subject and must be reflexive and plural: themselves. C (them) would mean some other group, such as the secretions. A and D are singular."
+        },
+        {
+          "number": "12",
+          "source": "Official Digital SAT 7, Module 1, Q20",
+          "passage": "Eighteen letters written by Louisa May Alcott, author of the popular novel Little Women (1868), can be found at the New York Historical Society. ______ letters demonstrate Alcott’s keen business sense in her interactions with publishers.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "One"
+            },
+            {
+              "label": "B",
+              "text": "That"
+            },
+            {
+              "label": "C",
+              "text": "This"
+            },
+            {
+              "label": "D",
+              "text": "These"
+            }
+          ],
+          "correct": "D",
+          "explanation": "The determiner must match the plural noun letters and point back to the eighteen letters just mentioned. Only These is plural. A, B, and C are singular (and One letters is ungrammatical)."
+        },
+        {
+          "number": "13",
+          "source": "Official Digital SAT 5, Module 1, Q20",
+          "passage": "Lê Lương Minh became the thirteenth secretary-general of the Association of Southeast Asian Nations (ASEAN) in January 2013, making ______ the first time the organization would appoint a Vietnamese leader.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "these"
+            },
+            {
+              "label": "B",
+              "text": "those"
+            },
+            {
+              "label": "C",
+              "text": "this"
+            },
+            {
+              "label": "D",
+              "text": "some"
+            }
+          ],
+          "correct": "C",
+          "explanation": "The pronoun refers to one event, Minh becoming secretary-general, and it is renamed by the singular the first time. The singular this is correct. A, B, and D are plural."
+        },
+        {
+          "number": "14",
+          "source": "Practice item",
+          "passage": "Unlike most spiders, the diving bell spider spends nearly its entire life underwater, where it surrounds ______ with a bubble of air held in place by a web of silk.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "itself"
+            },
+            {
+              "label": "B",
+              "text": "themselves"
+            },
+            {
+              "label": "C",
+              "text": "it"
+            },
+            {
+              "label": "D",
+              "text": "them"
+            }
+          ],
+          "correct": "A",
+          "explanation": "The subject it (the spider) surrounds its own body, so a reflexive pronoun is needed, and it must be singular: itself. B is plural and agrees with the trap noun spiders. C would mean the spider surrounds something else. D is plural and not reflexive."
+        },
+        {
+          "number": "15",
+          "source": "Practice item",
+          "passage": "Researchers compared the fossilized teeth found in the upper layers of the cave with ______ found in the lower layers and concluded that the animals from the two periods had eaten very different diets.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "that"
+            },
+            {
+              "label": "B",
+              "text": "those"
+            },
+            {
+              "label": "C",
+              "text": "this"
+            },
+            {
+              "label": "D",
+              "text": "it"
+            }
+          ],
+          "correct": "B",
+          "explanation": "The pronoun replaces teeth, a plural noun, so it must be plural: those (= the teeth found in the lower layers). A, C, and D are singular and would compare teeth with a single thing."
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "id": "focus-4-dangling-modifiers-i-the-subject-must-come-right-after-an-introductory",
+      "title": "Dangling Modifiers I: The Subject Must Come Right After an Introductory -ing / -ed Phrase",
+      "explanation_en": "An introductory participial phrase (Wanting…, Featuring…, Named…, Woven…, Created…) has no subject of its own. It describes the first noun after the comma, which must be the doer (for -ing) or the thing acted on (for -ed). Ask: “Who or what is doing / receiving this action?” Then pick the choice that puts that noun right after the comma. If the phrase is followed by there, it, the award, $300, or a possessive that shifts the focus, the modifier is dangling. The same rule applies when a conjunction introduces the -ing phrase (since uncovering…, while studying…). Tip: passive voice (…was sponsored by the commission) usually creates the dangling error; the correct choice is often active.",
+      "explanation_zh": "句首的分詞片語（Wanting…、Featuring…、Named…、Woven…、Created…）本身沒有主詞，它修飾的是逗號後的第一個名詞。這個名詞必須是動作的執行者（-ing 現在分詞）或承受者（-ed 過去分詞）。先問：「是誰／什麼在做（或被做）這個動作？」再選出把那個名詞放在逗號後面的選項。如果逗號後接的是 there、it、the award、$300，或是轉移焦點的所有格，就是懸垂修飾語（dangling modifier）。連接詞加 -ing 片語（since uncovering…、while studying…）也適用同樣規則。小技巧：被動語態（…was sponsored by the commission）常造成懸垂錯誤，正確選項通常是主動語態。",
+      "examples": [
+        "Created by businessman William A.G. Brown, the saloon was known to offer elegant accommodations and an inclusive environment. [Digital SAT 6, Module 1, Q19] (the saloon was created → “the saloon” right after the comma)",
+        "Featuring jagged peaks of black ink surrounded by hazy swirls of blue and green paint, Zhang Daqian’s 1983 painting Panorama of Mount Lu is inspired by the tradition of qinglü shanshui, a type of Chinese landscape painting characterized by the use of blue and green hues to depict ethereal, otherworldly landscapes. [Digital SAT 7, Module 1, Q23] (the painting features the peaks → “Zhang Daqian’s 1983 painting” right after the comma)"
+      ],
+      "questions": [
+        {
+          "number": "16",
+          "source": "Official Digital SAT 7, Module 1, Q25",
+          "passage": "Wanting to celebrate the 100th anniversary of the Alaska Purchase, ______ up with a motto that best captured the state’s unique character. The commission selected “North to the Future,” submitted by Juneau journalist Richard Peter, as its winning entry.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "a contest sponsored by the Alaska Centennial Commission would award $300 to an individual who came"
+            },
+            {
+              "label": "B",
+              "text": "an award of $300 would go to an individual in a contest sponsored by the Alaska Centennial Commission for coming"
+            },
+            {
+              "label": "C",
+              "text": "$300 would be awarded to an individual by the Alaska Centennial Commission in a contest for coming"
+            },
+            {
+              "label": "D",
+              "text": "the Alaska Centennial Commission sponsored a contest that would award $300 to an individual who came"
+            }
+          ],
+          "correct": "D",
+          "explanation": "Only a group of people can want to celebrate an anniversary, so the Alaska Centennial Commission must come right after the comma. A makes a contest the one wanting; B makes an award the one wanting; C makes $300 the one wanting. All three are dangling modifiers."
+        },
+        {
+          "number": "17",
+          "source": "Official Digital SAT 4, Module 1, Q24",
+          "passage": "African American Percy Julian was a scientist and entrepreneur whose work helped people around the world to see. Named in 1999 as one of the greatest achievements by a US chemist in the past hundred years, ______ led to the first mass-produced treatment for glaucoma.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Julian synthesized the alkaloid physostigmine in 1935; it"
+            },
+            {
+              "label": "B",
+              "text": "in 1935 Julian synthesized the alkaloid physostigmine, which"
+            },
+            {
+              "label": "C",
+              "text": "Julian’s 1935 synthesis of the alkaloid physostigmine"
+            },
+            {
+              "label": "D",
+              "text": "the alkaloid physostigmine was synthesized by Julian in 1935 and"
+            }
+          ],
+          "correct": "C",
+          "explanation": "The -ed phrase describes something named… as one of the greatest achievements. An achievement is an act, so the subject must be Julian’s 1935 synthesis. A and B make Julian himself the achievement; D makes the chemical the achievement."
+        },
+        {
+          "number": "18",
+          "source": "Official Digital SAT 6, Module 2, Q21",
+          "passage": "Woven from recycled yarn and hand tufted using a carpet weaving technique passed down by the artist’s Turkish grandmother, ______ so lush and tactilely inviting that you are tempted to reach out and touch them.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "the topological tapestries of Argentine textile artist Alexandra Kehayoglou are"
+            },
+            {
+              "label": "B",
+              "text": "the Argentine textile artist Alexandra Kehayoglou creates topological tapestries that are"
+            },
+            {
+              "label": "C",
+              "text": "when she creates her topological tapestries, Argentine textile artist Alexandra Kehayoglou makes them"
+            },
+            {
+              "label": "D",
+              "text": "Alexandra Kehayoglou is an Argentine textile artist whose topological tapestries are"
+            }
+          ],
+          "correct": "A",
+          "explanation": "What was woven from recycled yarn? The tapestries, not the artist. Choice A puts the topological tapestries right after the comma. B and D place the artist there, and C places a when clause there, so the modifier dangles."
+        },
+        {
+          "number": "19",
+          "source": "Official Digital SAT 3, Module 2, Q25",
+          "passage": "Based on genetic evidence, archaeologists have generally agreed that reindeer domestication began in the eleventh century CE. However, since uncovering fragments of a 2,000-year-old reindeer training harness in northern Siberia, ______ may have begun much earlier.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "researcher Robert Losey has argued that domestication"
+            },
+            {
+              "label": "B",
+              "text": "researcher Robert Losey’s argument is that domestication"
+            },
+            {
+              "label": "C",
+              "text": "domestication, researcher Robert Losey has argued,"
+            },
+            {
+              "label": "D",
+              "text": "the argument researcher Robert Losey has made is that domestication"
+            }
+          ],
+          "correct": "A",
+          "explanation": "Since uncovering fragments… describes a person who uncovered them, so researcher Robert Losey must be the subject right after the comma. B and D make an argument do the uncovering; C makes domestication do it."
+        },
+        {
+          "number": "20",
+          "source": "Practice item",
+          "passage": "Discovered in 1856 by workers in a cave in Germany’s Neander Valley, ______ gave its name to an entire species of ancient humans.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "workers found the partial skeleton known as Neanderthal 1, which"
+            },
+            {
+              "label": "B",
+              "text": "the partial skeleton known as Neanderthal 1"
+            },
+            {
+              "label": "C",
+              "text": "scientists named the partial skeleton Neanderthal 1, and it"
+            },
+            {
+              "label": "D",
+              "text": "it was the partial skeleton known as Neanderthal 1 that"
+            }
+          ],
+          "correct": "B",
+          "explanation": "What was discovered in 1856? The skeleton. B places the partial skeleton known as Neanderthal 1 right after the comma, and it is also the subject of gave. A makes the workers the thing discovered; C makes scientists the thing discovered; D begins with the empty subject it, so the modifier dangles."
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "id": "focus-5-dangling-modifiers-ii-introductory-prepositional-appositive-and-as-a-p",
+      "title": "Dangling Modifiers II: Introductory Prepositional, Appositive, and “As a…” Phrases",
+      "explanation_en": "The same rule holds for other introductory modifiers. (1) Preposition + -ing (Upon recovering…, In assessing…, By reducing…, Despite being…): the noun after the comma must be the one that recovers, assesses, reduces, or is cheap. (2) Appositive phrase (a noun phrase that renames: A member of the Cherokee Nation, …; One of the few explorers…, …): the noun after the comma must be the same person or thing the appositive names. (3) “As a / As the…” phrase (As the librarian of Congress, …): the subject must be the person who holds that role. Wrong choices often begin with there is / it was, a possessive (Henry’s reign), a thing (the focus, the mitigation), or a passive verb.",
+      "explanation_zh": "其他句首修飾語也適用相同規則。(1) 介系詞 + -ing（Upon recovering…、In assessing…、By reducing…、Despite being…）：逗號後的名詞必須是「康復、評論、減少、便宜」的那一方。(2) 同位語片語（重新命名的名詞片語：A member of the Cherokee Nation, …；One of the few explorers…, …）：逗號後的名詞必須和同位語指的是同一個人或事物。(3) “As a / As the…” 片語（As the librarian of Congress, …）：主詞必須是擔任該角色的人。錯誤選項常以 there is / it was、所有格（Henry’s reign）、事物（the focus、the mitigation）或被動語態開頭。",
+      "examples": [
+        "As the fourteenth US librarian of Congress, Carla Hayden has many responsibilities. [Digital SAT 7, Module 2, Q23] (“As the… librarian” → the person “Carla Hayden” right after the comma)",
+        "A member of the Cherokee Nation, Mary Golda Ross is renowned for her contributions to NASA’s Planetary Flight Handbook, which provided detailed mathematical guidance for missions to Mars and Venus. [Digital SAT 3, Module 1, Q20] (appositive “A member…” renames “Mary Golda Ross”)"
+      ],
+      "questions": [
+        {
+          "number": "21",
+          "source": "Official Digital SAT 6, Module 2, Q20",
+          "passage": "One of the few African American global explorers during the turn of the 20th century, ______",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Matthew Henson made several treks across Greenland between 1891 and 1909."
+            },
+            {
+              "label": "B",
+              "text": "1891 and 1909 were the years between which Matthew Henson made several treks across Greenland."
+            },
+            {
+              "label": "C",
+              "text": "Greenland was where Matthew Henson made several treks between 1891 and 1909."
+            },
+            {
+              "label": "D",
+              "text": "several treks across Greenland were made by Matthew Henson between 1891 and 1909."
+            }
+          ],
+          "correct": "A",
+          "explanation": "The appositive One of the few African American global explorers names a person, so the subject right after the comma must be Matthew Henson. B makes years the explorer, C makes Greenland the explorer, and D makes treks the explorer."
+        },
+        {
+          "number": "22",
+          "source": "Official Digital SAT 1, Module 1, Q28",
+          "passage": "In 1453, English King Henry VI became unfit to rule after falling gravely ill. As a result, Parliament appointed Richard, Third Duke of York, who had a strong claim to the English throne, to rule as Lord Protector. Upon recovering two years later, ______ forcing an angered Richard from the royal court and precipitating a series of battles later known as the Wars of the Roses.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Henry resumed his reign,"
+            },
+            {
+              "label": "B",
+              "text": "the reign of Henry resumed,"
+            },
+            {
+              "label": "C",
+              "text": "Henry’s reign resumed,"
+            },
+            {
+              "label": "D",
+              "text": "it was Henry who resumed his reign,"
+            }
+          ],
+          "correct": "A",
+          "explanation": "Upon recovering describes the person who recovered: Henry. A puts Henry right after the comma. B and C make the reign recover (in C, Henry’s is only a possessive, not the subject). D begins with the empty subject it."
+        },
+        {
+          "number": "23",
+          "source": "Official Digital SAT 2, Module 2, Q22",
+          "passage": "In assessing the films of Japanese director Akira Kurosawa, ______ have missed his equally deep engagement with Japanese artistic traditions such as Noh theater.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "many critics have focused on Kurosawa’s use of Western literary sources but"
+            },
+            {
+              "label": "B",
+              "text": "Kurosawa’s use of Western literary sources has been the focus of many critics, who"
+            },
+            {
+              "label": "C",
+              "text": "there are many critics who have focused on Kurosawa’s use of Western literary sources, but they"
+            },
+            {
+              "label": "D",
+              "text": "the focus of many critics has been on Kurosawa’s use of Western literary sources; they"
+            }
+          ],
+          "correct": "A",
+          "explanation": "The people assessing the films are the critics, so many critics must follow the comma. A does this and joins the two verbs (have focused… but have missed). B makes Kurosawa’s use do the assessing, C starts with there, and D makes the focus do the assessing."
+        },
+        {
+          "number": "24",
+          "source": "Official Digital SAT 4, Module 2, Q25",
+          "passage": "In 2016, engineer Vanessa Galvez oversaw the installation of 164 bioswales, vegetated channels designed to absorb and divert stormwater, along the streets of Queens, New York. By reducing the runoff flowing into city sewers, ______",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "the mitigation of both street flooding and the resulting pollution of nearby waterways has been achieved by bioswales."
+            },
+            {
+              "label": "B",
+              "text": "the bioswales have mitigated both street flooding and the resulting pollution of nearby waterways."
+            },
+            {
+              "label": "C",
+              "text": "the bioswales’ mitigation of both street flooding and the resulting pollution of nearby waterways has been achieved."
+            },
+            {
+              "label": "D",
+              "text": "both street flooding and the resulting pollution of nearby waterways have been mitigated by bioswales."
+            }
+          ],
+          "correct": "B",
+          "explanation": "By reducing the runoff describes what the bioswales do, so the bioswales must be the subject right after the comma. A makes the mitigation do the reducing, C makes the bioswales’ mitigation do it (a possessive is not the subject), and D makes the flooding and pollution do it. Note that A, C, and D are all passive."
+        },
+        {
+          "number": "25",
+          "source": "Official Digital SAT 1, Module 2, Q26",
+          "passage": "Despite being cheap, versatile, and easy to produce, ______ they are made from nonrenewable petroleum, and most do not biodegrade in landfills.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "there are two problems associated with commercial plastics:"
+            },
+            {
+              "label": "B",
+              "text": "two problems are associated with commercial plastics:"
+            },
+            {
+              "label": "C",
+              "text": "commercial plastics’ two associated problems are that"
+            },
+            {
+              "label": "D",
+              "text": "commercial plastics have two associated problems:"
+            }
+          ],
+          "correct": "D",
+          "explanation": "What is cheap, versatile, and easy to produce? The plastics. D puts commercial plastics right after the comma. A starts with there; B makes two problems cheap and versatile; C makes the subject problems (plastics’ is only a possessive)."
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "id": "focus-6-logical-comparisons-and-modifier-placement",
+      "title": "Logical Comparisons and Modifier Placement",
+      "explanation_en": "A comparison must compare like with like: a trait with the same trait, a group with a similar group. Compare the shape of each statue’s ears with the shape of each person’s ears, not with each person. To avoid repeating the noun, use that of (singular) or those of (plural): the atomic arrangement of silica glass vs. that of alumina glass. An introductory comparison phrase (Compared to…, Unlike…, Like…) works like any modifier: the noun right after the comma must be the thing being compared. In Compared to that of alumina glass, that = the atomic arrangement, so the subject must be silica glass’s atomic arrangement. In general, place every modifier next to the word it describes.",
+      "explanation_zh": "比較必須同類相比：特徵比特徵、群體比同類群體。要比較 the shape of each statue’s ears 和 the shape of each person’s ears，而不是和 each person 比。為了避免重複名詞，可以用 that of（單數）或 those of（複數）：the atomic arrangement of silica glass 對比 that of alumina glass。句首的比較片語（Compared to…、Unlike…、Like…）和其他修飾語一樣：逗號後的名詞必須是被比較的東西。在 Compared to that of alumina glass 中，that = the atomic arrangement，所以主詞必須是 silica glass’s atomic arrangement。總之，修飾語要緊靠它所修飾的字。",
+      "examples": [
+        "Researchers studying the “terra-cotta army,” the thousands of life-size statues of warriors found interred near the tomb of Emperor Qin Shi Huang of China, were shocked to realize that the shape of each statue’s ears, like the shape of each person’s ears, is unique. [Digital SAT 9, Module 1, Q26] (shape compared with shape)",
+        "Hence, the shell is often incorrectly assumed to be an exoskeleton, a rigid outer casing like that of a crustacean or an insect, when in fact it is an endoskeleton, a part of the turtle’s internal bone structure, more akin to a spine or a pair of ribs. [Digital SAT 5, Module 1, Q30] (“that of” = the outer casing of a crustacean)"
+      ],
+      "questions": [
+        {
+          "number": "26",
+          "source": "Official Digital SAT 8, Module 1, Q26",
+          "passage": "Compared to that of alumina glass, ______ silica glass atoms are so far apart that they are unable to re-form bonds after being separated.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "silica glass is at a significant disadvantage due to its more dispersed atomic arrangement:"
+            },
+            {
+              "label": "B",
+              "text": "silica glass has a more dispersed atomic arrangement, resulting in a significant disadvantage:"
+            },
+            {
+              "label": "C",
+              "text": "a significant disadvantage of silica glass is that its atomic arrangement is more dispersed:"
+            },
+            {
+              "label": "D",
+              "text": "silica glass’s atomic arrangement is more dispersed, resulting in a significant disadvantage:"
+            }
+          ],
+          "correct": "D",
+          "explanation": "That of alumina glass means the atomic arrangement of alumina glass, so it must be compared with another atomic arrangement: silica glass’s atomic arrangement. A and B compare an arrangement with silica glass itself; C compares it with a disadvantage."
+        },
+        {
+          "number": "27",
+          "source": "Practice item",
+          "passage": "The annual migration route of the Arctic tern, which can stretch roughly 70,000 kilometers from pole to pole, is far longer than ______",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "any other bird."
+            },
+            {
+              "label": "B",
+              "text": "that of any other bird."
+            },
+            {
+              "label": "C",
+              "text": "those of any other bird."
+            },
+            {
+              "label": "D",
+              "text": "any other bird has."
+            }
+          ],
+          "correct": "B",
+          "explanation": "The sentence compares a migration route with another route. That of any other bird (= the route of any other bird) is singular and logical. A and D compare a route with a bird. C uses the plural those, which does not match the singular route."
+        },
+        {
+          "number": "28",
+          "source": "Practice item",
+          "passage": "The cave paintings at Lascaux, in southwestern France, are often compared with ______ at Chauvet, which were created thousands of years earlier.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "that"
+            },
+            {
+              "label": "B",
+              "text": "this"
+            },
+            {
+              "label": "C",
+              "text": "those"
+            },
+            {
+              "label": "D",
+              "text": "it"
+            }
+          ],
+          "correct": "C",
+          "explanation": "The pronoun replaces cave paintings, a plural noun, so the comparison needs those (= the paintings at Chauvet). A, B, and D are singular and do not match paintings."
+        },
+        {
+          "number": "29",
+          "source": "Practice item",
+          "passage": "Unlike most mammals, whose mature red blood cells lack a nucleus, ______",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "birds have red blood cells that keep their nucleus throughout their life span."
+            },
+            {
+              "label": "B",
+              "text": "the red blood cells of birds keep their nucleus throughout their life span."
+            },
+            {
+              "label": "C",
+              "text": "a bird’s red blood cells keep their nucleus throughout their life span."
+            },
+            {
+              "label": "D",
+              "text": "keeping their nucleus throughout their life span is typical of birds’ red blood cells."
+            }
+          ],
+          "correct": "A",
+          "explanation": "Unlike most mammals compares animals, so the noun right after the comma must be animals of another kind: birds. B and C compare mammals with red blood cells (in C, a bird’s is only a possessive). D compares mammals with an action (keeping…)."
+        },
+        {
+          "number": "30",
+          "source": "Practice item",
+          "passage": "Analysis of fossils showed that the wing bones of one extinct giant seabird were much lighter than ______ supporting the idea that the bird glided for long distances rather than flapping its wings.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "modern albatrosses,"
+            },
+            {
+              "label": "B",
+              "text": "that of modern albatrosses,"
+            },
+            {
+              "label": "C",
+              "text": "those of modern albatrosses,"
+            },
+            {
+              "label": "D",
+              "text": "modern albatrosses do,"
+            }
+          ],
+          "correct": "C",
+          "explanation": "The comparison is between wing bones, so the second item must also be bones: those of modern albatrosses (plural, matching bones). A and D compare bones with birds. B uses the singular that, which does not match the plural bones."
+        }
+      ]
+    }
+  ]
+}

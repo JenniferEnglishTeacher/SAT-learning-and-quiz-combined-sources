@@ -1,0 +1,868 @@
+{
+  "slug": "transitions-part-2",
+  "title": "Transitions Part 2",
+  "description": "Cause and effect, inference, sequence, time, similarity, alternatives, purpose, and comment.",
+  "source_url": "https://docs.google.com/document/d/1Rb64kBmof5KsgMs_N4AeltE3VOt6uPoJNgdfJcDCZyM",
+  "section_count": 6,
+  "question_count": 30,
+  "sections": [
+    {
+      "number": 1,
+      "id": "focus-1-cause-and-effect-consequence-therefore-thus-as-a-result-consequently-f",
+      "title": "Cause and Effect / Consequence: therefore, thus, as a result, consequently, for this reason, in turn",
+      "explanation_en": "A cause-and-effect transition tells the reader that the next sentence is a result of the one before it. The first sentence gives a cause (a process, a problem, a need); the second sentence gives what happens because of it. As a result, consequently, therefore, and thus all mean “because of this, …”. For this reason points back to a reason just stated (scientists need unchanging standards → for this reason, metrologists developed the SI). In turn shows a chain: A causes B, and B in turn causes C. Test: can you connect the two sentences with “so”? If yes, you need a cause-and-effect word. Trap: make sure the direction is right. If the second sentence gives the reason for the first (not the result), a result word is wrong.",
+      "explanation_zh": "因果轉折詞（cause and effect）表示後一句是前一句造成的結果。前一句提出原因（一個過程、一個問題、一個需求），後一句說明因此發生了什麼。As a result、consequently、therefore、thus 都是「因此、結果」的意思。For this reason「基於這個原因」指回剛剛說過的理由（科學家需要不變的標準 → 因此計量學家制定了國際單位制）。In turn「進而、接著」表示連鎖反應：A 造成 B，B 又進而造成 C。判斷方法：兩句之間能不能放入「所以（so）」？可以的話就選因果轉折詞。陷阱：注意方向！如果第二句是第一句的原因而不是結果，就不能用表示結果的字。",
+      "examples": [
+        "As a result, Parliament appointed Richard, Third Duke of York, who had a strong claim to the English throne, to rule as Lord Protector. [Digital SAT 1, Module 1, Q28] (Henry VI became unfit to rule → as a result, a Lord Protector was appointed)",
+        "Therefore, the researchers, knowing that dishes were sometimes named after their intended effects, theorized that the dish’s name, “unwinding,” referred to its function: to help ancient diners relax. [Digital SAT 4, Module 1, Q30] (the stew inspired calm → therefore, the researchers drew their theory)"
+      ],
+      "questions": [
+        {
+          "number": "1",
+          "source": "Official Digital SAT 7, Module 2, Q27",
+          "passage": "Famous for its four-degree tilt, the leaning Garisenda Tower is a popular attraction in Bologna’s city center. However, measurements taken in 2023 showed that the tower was rotating in a concerning way. ______ city officials closed the area around the tower so experts could explore solutions to stabilize the historical twelfth-century structure.",
+          "prompt": "Which choice completes the text with the most logical transition?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Similarly,"
+            },
+            {
+              "label": "B",
+              "text": "As a result,"
+            },
+            {
+              "label": "C",
+              "text": "For example,"
+            },
+            {
+              "label": "D",
+              "text": "In comparison,"
+            }
+          ],
+          "correct": "B",
+          "explanation": "The tower was rotating in a concerning way (cause), so officials closed the area (effect). As a result shows this. Similarly and In comparison compare two things, and For example would need one case of a general group."
+        },
+        {
+          "number": "2",
+          "source": "Official Digital SAT 1, Module 2, Q28",
+          "passage": "Small, flat structures called spatulae are found at the tips of the hairs on a spider’s leg. These spatulae temporarily bond with the atoms of whatever they touch. ______ spiders are able to cling to and climb almost any surface.",
+          "prompt": "Which choice completes the text with the most logical transition?",
+          "options": [
+            {
+              "label": "A",
+              "text": "For instance,"
+            },
+            {
+              "label": "B",
+              "text": "However,"
+            },
+            {
+              "label": "C",
+              "text": "Similarly,"
+            },
+            {
+              "label": "D",
+              "text": "As a result,"
+            }
+          ],
+          "correct": "D",
+          "explanation": "The spatulae bond with whatever they touch (cause), so spiders can climb almost any surface (effect). As a result is correct. For instance gives an example, However signals contrast, and Similarly a parallel idea."
+        },
+        {
+          "number": "3",
+          "source": "Official Digital SAT 6, Module 2, Q28",
+          "passage": "The liquid metals in Earth’s core circulate constantly, and this circulation generates electrical currents that flow between Earth’s North and South magnetic poles. These electrical currents, ______ create a barrier around Earth that protects us from radiation and charged particles coming from space.",
+          "prompt": "Which choice completes the text with the most logical transition?",
+          "options": [
+            {
+              "label": "A",
+              "text": "in turn,"
+            },
+            {
+              "label": "B",
+              "text": "likewise,"
+            },
+            {
+              "label": "C",
+              "text": "nevertheless,"
+            },
+            {
+              "label": "D",
+              "text": "in reality,"
+            }
+          ],
+          "correct": "A",
+          "explanation": "Circulation produces currents, and the currents then produce a protective barrier: a chain of causes. in turn marks the next link. likewise signals similarity, nevertheless contrast, and in reality a correction of a false idea."
+        },
+        {
+          "number": "4",
+          "source": "Official Digital SAT 5, Module 1, Q27",
+          "passage": "Celebrated Tewa potter Maria Martinez (1887–1980) made her signature all-black ceramic vessels using a heating technique called reduction firing. This technique involves smothering the flame surrounding the clay vessel. ______ the vessel takes on a shiny, black hue.",
+          "prompt": "Which choice completes the text with the most logical transition?",
+          "options": [
+            {
+              "label": "A",
+              "text": "On the contrary,"
+            },
+            {
+              "label": "B",
+              "text": "For example,"
+            },
+            {
+              "label": "C",
+              "text": "Previously,"
+            },
+            {
+              "label": "D",
+              "text": "As a result,"
+            }
+          ],
+          "correct": "D",
+          "explanation": "Smothering the flame (cause) makes the vessel shiny and black (effect), so As a result fits. On the contrary corrects a false statement, For example gives an example, and Previously refers to an earlier time."
+        },
+        {
+          "number": "5",
+          "source": "Official Digital SAT 5, Module 2, Q28",
+          "passage": "To guarantee the validity of experimental results, scientists rely on precise, unchanging standards of measurement. ______ metrologists (scientists who study measurement) developed the SI, or International System of Units. The SI’s units of measurement are based on unchanging values in nature, such as the mass of an electron or the speed of light.",
+          "prompt": "Which choice completes the text with the most logical transition?",
+          "options": [
+            {
+              "label": "A",
+              "text": "In contrast,"
+            },
+            {
+              "label": "B",
+              "text": "Regardless,"
+            },
+            {
+              "label": "C",
+              "text": "In addition,"
+            },
+            {
+              "label": "D",
+              "text": "For this reason,"
+            }
+          ],
+          "correct": "D",
+          "explanation": "Scientists need unchanging standards; that need is the reason the SI was developed. For this reason points back to it. In contrast signals difference, Regardless dismisses the first idea, and In addition adds a parallel point."
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "id": "focus-2-conclusion-and-inference-hence-thus-accordingly-as-such-then-in-conclu",
+      "title": "Conclusion and Inference: hence, thus, accordingly, as such, then, in conclusion",
+      "explanation_en": "A conclusion transition introduces an idea that the writer reasons out (infers) from the evidence before it. It is close to cause and effect, but the second sentence is often a claim, theory, or judgment rather than a physical result: siderophiles are more abundant than predicted → hence, material from asteroids almost certainly arrived later. Hence and thus mean “from this we can conclude.” Accordingly means “in response to this, people acted in a matching way.” As such means “because it is this kind of thing, …” (her work proves shared resources can be managed → as such, it rejects the “tragedy of the commons”). Then, placed mid-sentence between commas, means “in that case / so”, not time. In conclusion sums up a whole passage. Test: can you insert “so we can say that…”? If yes, use a conclusion word.",
+      "explanation_zh": "結論／推論轉折詞（conclusion / inference）引出作者根據前面的證據推理出來的想法。它和因果很接近，但第二句常常是一個主張、理論或判斷，而不是實際發生的結果：親鐵元素比預測的多 → 因此（hence）可推論小行星物質幾乎一定是後來才到達地球的。Hence、thus「因此、由此可知」；accordingly「據此、相應地」表示人們針對這個情況做出相應的行動；as such「既然如此、就此而言」表示「因為它是這樣的東西，所以…」；then 放在句中、前後有逗號時，意思是「那麼、這樣看來」，不是表示時間；in conclusion「總之」用來總結整段內容。判斷方法：兩句之間能不能放入「所以我們可以說…」？可以的話就選結論轉折詞。",
+      "examples": [
+        "As such, Ostrom’s work is a repudiation of the “tragedy of the commons,” the view that individuals will inevitably overexploit a finite shared resource if given unfettered access to it. [Digital SAT 8, Module 2, Q31] (her studies show shared resources can be managed → as such, her work rejects the old view)",
+        "Some members of the US Supreme Court have resisted calls to televise the court’s oral arguments, concerned that the participants would be tempted to perform for the cameras (and thus lower the quality of the discourse). [Digital SAT 9, Module 1, Q28] (“thus” = as a logical consequence)"
+      ],
+      "questions": [
+        {
+          "number": "6",
+          "source": "Official Digital SAT 3, Module 2, Q30 — also SAT 9 M1 Q29",
+          "passage": "The more diverse and wide ranging an animal’s behaviors, the larger and more energy demanding the animal’s brain tends to be. ______ from an evolutionary perspective, animals that perform only basic actions should allocate fewer resources to growing and maintaining brain tissue. The specialized subtypes of ants within colonies provide an opportunity to explore this hypothesis.",
+          "prompt": "Which choice completes the text with the most logical transition?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Subsequently,"
+            },
+            {
+              "label": "B",
+              "text": "Besides,"
+            },
+            {
+              "label": "C",
+              "text": "Nevertheless,"
+            },
+            {
+              "label": "D",
+              "text": "Thus,"
+            }
+          ],
+          "correct": "D",
+          "explanation": "If varied behavior requires a big, costly brain, it follows logically that animals with only basic actions should invest less in brain tissue. This is an inference, so Thus is correct. Subsequently is time, Besides adds a point, and Nevertheless signals contrast."
+        },
+        {
+          "number": "7",
+          "source": "Official Digital SAT 6, Module 1, Q30",
+          "passage": "In hindsight, given the ideas about the natural world circulating among British scientists in the 1800s, the theory of natural selection was an obvious next step. It may not have been a coincidence, ______ that Charles Darwin and Alfred Wallace arrived at the concept independently. Indeed, contrary to the popular myth of the lone genius, theirs is not the first paradigm-shifting theory to have emerged from multiple scholars working in parallel.",
+          "prompt": "Which choice completes the text with the most logical transition?",
+          "options": [
+            {
+              "label": "A",
+              "text": "however,"
+            },
+            {
+              "label": "B",
+              "text": "then,"
+            },
+            {
+              "label": "C",
+              "text": "moreover,"
+            },
+            {
+              "label": "D",
+              "text": "for example,"
+            }
+          ],
+          "correct": "B",
+          "explanation": "Because the theory was “an obvious next step,” the writer infers that two scientists reaching it independently was no coincidence. Mid-sentence then means “in that case / so.” however signals contrast, moreover adds, and for example gives an example."
+        },
+        {
+          "number": "8",
+          "source": "Official Digital SAT 5, Module 1, Q30",
+          "passage": "A turtle shell appears external to the animal, protecting its body like armor. ______ the shell is often incorrectly assumed to be an exoskeleton, a rigid outer casing like that of a crustacean or an insect, when in fact it is an endoskeleton, a part of the turtle’s internal bone structure, more akin to a spine or a pair of ribs.",
+          "prompt": "Which choice completes the text with the most logical transition?",
+          "options": [
+            {
+              "label": "A",
+              "text": "That being said,"
+            },
+            {
+              "label": "B",
+              "text": "However,"
+            },
+            {
+              "label": "C",
+              "text": "For instance,"
+            },
+            {
+              "label": "D",
+              "text": "Hence,"
+            }
+          ],
+          "correct": "D",
+          "explanation": "The shell looks external, and that appearance is why people wrongly assume it is an exoskeleton. Hence shows that the assumption follows from the first sentence. That being said and However signal contrast, and For instance gives an example."
+        },
+        {
+          "number": "9",
+          "source": "Official Digital SAT 10, Module 1, Q30",
+          "passage": "If the formation of Earth’s mantle had been purely a product of core differentiation—whereby heavier elements sink toward the core and lighter elements rise—the upper mantle would be depleted of heavy siderophile elements. Siderophiles are much more abundant in the mantle than predicted in that model, however. ______ extraterrestrial material containing siderophiles, likely from asteroid or comet impacts, almost certainly accreted to Earth following core differentiation.",
+          "prompt": "Which choice completes the text with the most logical transition?",
+          "options": [
+            {
+              "label": "A",
+              "text": "That said,"
+            },
+            {
+              "label": "B",
+              "text": "Hence,"
+            },
+            {
+              "label": "C",
+              "text": "For example,"
+            },
+            {
+              "label": "D",
+              "text": "Likewise,"
+            }
+          ],
+          "correct": "B",
+          "explanation": "The evidence (too many siderophiles for the core-differentiation model) leads to a conclusion (extra material must have arrived from space later). Hence introduces the conclusion; note the clue “almost certainly.” That said signals contrast, For example an example, and Likewise similarity."
+        },
+        {
+          "number": "10",
+          "source": "Official Digital SAT 5, Module 2, Q29",
+          "passage": "In retrospect, one of the lessons of the 2003 Human Genome Project is that a gene is affected by many factors, not the least of which is its interactions with the protein products of other genes. ______ rather than just focusing on the human genome, efforts to better understand gene mutations related to disease have begun to consider the human proteome, the complete set of proteins expressed by human genes.",
+          "prompt": "Which choice completes the text with the most logical transition?",
+          "options": [
+            {
+              "label": "A",
+              "text": "In other words,"
+            },
+            {
+              "label": "B",
+              "text": "That said,"
+            },
+            {
+              "label": "C",
+              "text": "For example,"
+            },
+            {
+              "label": "D",
+              "text": "Accordingly,"
+            }
+          ],
+          "correct": "D",
+          "explanation": "Researchers learned that genes interact with proteins, so they changed their research to match that lesson. Accordingly signals an action that responds to what was learned. In other words restates, That said signals contrast, and For example gives an example."
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "id": "focus-3-sequence-and-enumeration-first-second-next-then-finally-lastly-afterwa",
+      "title": "Sequence and Enumeration: first, second, next, then, finally, lastly, afterward, later",
+      "explanation_en": "A sequence transition puts steps or events in order. Look for order clues already in the passage: first, began, then, lastly, dates (1968… fifteen years… 1983). If the passage says first, the next step is second or next; if a step comes after then, the last step is finally. Enumeration words (first, second, third) count reasons or points in an argument (“First, the gold artifacts… Second, the massive effort…”). Finally can also mean “at last, after a long time” (they resubmitted the bill for fifteen years → finally, in 1983, it passed). Afterward and later say that one event happened after another. Test: are the sentences steps in a process or events on a timeline? Then choose the word that matches the position of the step: beginning, middle, or end.",
+      "explanation_zh": "順序轉折詞（sequence）把步驟或事件按先後排列。先找文章中已有的順序線索：first（首先）、began（開始）、then（接著）、lastly（最後）、年份（1968…十五年…1983）。如果文章已經寫了 first，下一步就是 second 或 next；如果前面已經有 then，最後一步就用 finally。列舉（enumeration）的字（first, second, third）用來依序列出理由或論點（「第一，黃金文物…第二，巨大的工程…」）。Finally 也可以表示「經過很長時間，終於」（連續十五年重新提案 → 終於在 1983 年通過）。Afterward、later 表示一件事發生在另一件事之後。判斷方法：這幾句是不是一個過程的步驟，或時間軸上的事件？如果是，就依照該步驟的位置（開頭、中間、結尾）選字。",
+      "examples": [
+        "Afterward, instead of downplaying the incident, Rocket Labs’ CEO publicly acknowledged what happened and apologized for the loss of the rocket’s payload, which had consisted of two satellites. [Digital SAT 4, Module 2, Q27] (first the rocket failed; afterward the CEO responded)",
+        "Later, in 2017, Gomez created the show 80 Minutes Around the World as a platform for others to share stories about their immigration experiences. [Digital SAT 5, Module 2, Q27] (2014 → later, in 2017)"
+      ],
+      "questions": [
+        {
+          "number": "11",
+          "source": "Official Digital SAT 3, Module 2, Q29",
+          "passage": "Archaeologist Sue Brunning explains why the seventh-century ship burial site at Sutton Hoo in England was likely the tomb of a king. First, the gold artifacts inside the ship suggest that the person buried with them was a wealthy and respected leader. ______ the massive effort required to bury the ship would likely only have been undertaken for a king.",
+          "prompt": "Which choice completes the text with the most logical transition?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Instead,"
+            },
+            {
+              "label": "B",
+              "text": "Still,"
+            },
+            {
+              "label": "C",
+              "text": "Specifically,"
+            },
+            {
+              "label": "D",
+              "text": "Second,"
+            }
+          ],
+          "correct": "D",
+          "explanation": "Brunning lists reasons, and the first begins with “First.” The next reason needs Second. Instead replaces, Still signals concession, and Specifically adds detail to the first reason, but this is a new reason."
+        },
+        {
+          "number": "12",
+          "source": "Official Digital SAT 5, Module 2, Q26",
+          "passage": "In 1949, Frank Zamboni developed an ice rink resurfacing machine. As Zamboni’s machine moved along the rink’s surface, it first scraped off the top layer of ice. ______ it sprayed water into the deep grooves left behind by customers’ skates. Lastly, it smoothed over the newly formed ice.",
+          "prompt": "Which choice completes the text with the most logical transition?",
+          "options": [
+            {
+              "label": "A",
+              "text": "For example,"
+            },
+            {
+              "label": "B",
+              "text": "Next,"
+            },
+            {
+              "label": "C",
+              "text": "Similarly,"
+            },
+            {
+              "label": "D",
+              "text": "In contrast,"
+            }
+          ],
+          "correct": "B",
+          "explanation": "The steps are “first,” ___, “Lastly.” The middle step needs Next. For example gives an example, Similarly a parallel idea, and In contrast a difference."
+        },
+        {
+          "number": "13",
+          "source": "Official Digital SAT 4, Module 1, Q27",
+          "passage": "In 1968, US Congressman John Conyers introduced a bill to establish a national holiday in honor of Dr. Martin Luther King Jr. The bill didn’t make it to a vote, but Conyers was determined. He teamed up with Shirley Chisholm, the first Black woman to be elected to Congress, and they resubmitted the bill every session for the next fifteen years. ______ in 1983, the bill passed.",
+          "prompt": "Which choice completes the text with the most logical transition?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Instead,"
+            },
+            {
+              "label": "B",
+              "text": "Likewise,"
+            },
+            {
+              "label": "C",
+              "text": "Finally,"
+            },
+            {
+              "label": "D",
+              "text": "Additionally,"
+            }
+          ],
+          "correct": "C",
+          "explanation": "After fifteen years of effort, the bill passed at last. Finally marks the end of a long sequence. Instead replaces, Likewise signals similarity, and Additionally adds a parallel point."
+        },
+        {
+          "number": "14",
+          "source": "Official Digital SAT 10, Module 2, Q27",
+          "passage": "Neuroscientist Karen Konkoly wanted to determine whether individuals can understand and respond to questions during REM sleep. She first taught volunteers eye movements they would use to respond to basic math problems while asleep (a single left-right eye movement indicated the number one). ______ she attached electrodes to the volunteers’ faces to record their eye movements during sleep.",
+          "prompt": "Which choice completes the text with the most logical transition?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Specifically,"
+            },
+            {
+              "label": "B",
+              "text": "Next,"
+            },
+            {
+              "label": "C",
+              "text": "For instance,"
+            },
+            {
+              "label": "D",
+              "text": "In sum,"
+            }
+          ],
+          "correct": "B",
+          "explanation": "The procedure begins with “first”; attaching electrodes is the following step, so Next is correct. Specifically and For instance would add detail or an example of the first step, and In sum summarizes."
+        },
+        {
+          "number": "15",
+          "source": "Official Digital SAT 6, Module 2, Q27",
+          "passage": "After appropriate permissions are granted, a typical archaeological dig begins with a surveyor making a detailed grid of the excavation site. Then, the site is carefully dug, and any artifacts found are recorded and mapped onto the site grid. ______ the artifacts are removed, cataloged, and analyzed in a laboratory.",
+          "prompt": "Which choice completes the text with the most logical transition?",
+          "options": [
+            {
+              "label": "A",
+              "text": "For instance,"
+            },
+            {
+              "label": "B",
+              "text": "On the contrary,"
+            },
+            {
+              "label": "C",
+              "text": "Earlier,"
+            },
+            {
+              "label": "D",
+              "text": "Finally,"
+            }
+          ],
+          "correct": "D",
+          "explanation": "The steps are “begins,” “Then,” ___. Lab analysis is the last step, so Finally fits. Earlier reverses the order, For instance gives an example, and On the contrary corrects."
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "id": "focus-4-time-simultaneity-earlier-events-past-vs-present-and-change-over-time-",
+      "title": "Time: Simultaneity, Earlier Events, Past vs. Present, and Change over Time: meanwhile, previously, currently, today, increasingly",
+      "explanation_en": "Time transitions place an event on a timeline relative to another event. Check the verb tenses and dates around the blank. Meanwhile means “at the same time”: two different people or places, simultaneous actions (Ifemelu moves to the US; meanwhile, Obinze travels to London). Previously points to an earlier event; look for the past perfect had + V-pp (had been named). Today, currently, and now switch from the past to the present (before 2009… 5% → today… 30%; since the 1920s → currently… are aided). Increasingly shows a trend that grows over time; look for words like shift, trend, rise. Test: ask “When does the second sentence happen compared with the first?” Same time → meanwhile; earlier → previously; now → today / currently; more and more → increasingly.",
+      "explanation_zh": "時間轉折詞把一個事件放在時間軸上，說明它和另一事件的時間關係。請看空格前後的動詞時態和年份。Meanwhile「同時、與此同時」：兩個不同的人或地點，同時發生的動作（Ifemelu 去美國；同時，Obinze 去倫敦）。Previously「先前、之前」指更早的事件，常搭配過去完成式 had + 過去分詞（had been named）。Today、currently、now「現今、目前」把時間從過去轉到現在（2009 年以前 5% → 今天 30%；從 1920 年代起 → 目前…are aided）。Increasingly「越來越多地」表示隨時間增長的趨勢，常見線索有 shift（轉變）、trend（趨勢）、rise（上升）。判斷方法：問自己「第二句發生的時間和第一句相比如何？」同時 → meanwhile；更早 → previously；現在 → today / currently；越來越 → increasingly。",
+      "examples": [
+        "Today, Paik is considered the first video artist. [Digital SAT 1, Module 2, Q23] (1963 exhibition → today’s reputation)",
+        "Recently, engineer Erkka Frankberg of Tampere University in Finland used the chemical compound aluminum oxide to make a glassy solid that can withstand higher strain than silicate glass can before fracturing. [Digital SAT 3, Module 2, Q27] (a recent development after a long-known problem)"
+      ],
+      "questions": [
+        {
+          "number": "16",
+          "source": "Official Digital SAT 2, Module 2, Q27 — also SAT 9 M1 Q27",
+          "passage": "Chimamanda Ngozi Adichie’s 2013 novel Americanah chronicles the divergent experiences of Ifemelu and Obinze, a young Nigerian couple, after high school. Ifemelu moves to the United States to attend a prestigious university. ______ Obinze travels to London, hoping to start a career there. However, frustrated with the lack of opportunities, he soon returns to Nigeria.",
+          "prompt": "Which choice completes the text with the most logical transition?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Meanwhile,"
+            },
+            {
+              "label": "B",
+              "text": "Nevertheless,"
+            },
+            {
+              "label": "C",
+              "text": "Secondly,"
+            },
+            {
+              "label": "D",
+              "text": "In fact,"
+            }
+          ],
+          "correct": "A",
+          "explanation": "Ifemelu goes to the US while, at the same time, Obinze goes to London: two characters, simultaneous actions. Meanwhile fits. Nevertheless signals concession, Secondly lists a reason, and In fact emphasizes."
+        },
+        {
+          "number": "17",
+          "source": "Official Digital SAT 10, Module 1, Q29",
+          "passage": "When Chinese director Chloé Zhao accepted the Oscar in 2021 for her film Nomadland, she made Academy Award history. ______ only one other woman, Kathryn Bigelow of the United States, had been named best director at the Oscars, making Zhao the second woman and the first Asian woman to win the award.",
+          "prompt": "Which choice completes the text with the most logical transition?",
+          "options": [
+            {
+              "label": "A",
+              "text": "As a result,"
+            },
+            {
+              "label": "B",
+              "text": "Previously,"
+            },
+            {
+              "label": "C",
+              "text": "However,"
+            },
+            {
+              "label": "D",
+              "text": "Likewise,"
+            }
+          ],
+          "correct": "B",
+          "explanation": "The sentence describes what had happened before 2021 (past perfect “had been named”), so Previously is right. As a result wrongly says Zhao’s win caused Bigelow’s, However signals contrast, and Likewise similarity."
+        },
+        {
+          "number": "18",
+          "source": "Official Digital SAT 3, Module 2, Q28 — also SAT 8 M2 Q28",
+          "passage": "Etched into Peru’s Nazca Desert are line drawings so large that they can only be fully seen from high above. Archaeologists have known of the lines since the 1920s, when a researcher spotted some from a nearby foothill, and they have been studying the markings ever since. ______ archaeologists’ efforts are aided by drones that capture high-resolution aerial photographs of the lines.",
+          "prompt": "Which choice completes the text with the most logical transition?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Currently,"
+            },
+            {
+              "label": "B",
+              "text": "In comparison,"
+            },
+            {
+              "label": "C",
+              "text": "Still,"
+            },
+            {
+              "label": "D",
+              "text": "However,"
+            }
+          ],
+          "correct": "A",
+          "explanation": "The passage moves from the past (“since the 1920s”) to the present (“are aided by drones”). Currently marks this shift to now. In comparison compares two things, and Still and However signal contrast, but drones help the study rather than oppose it."
+        },
+        {
+          "number": "19",
+          "source": "Official Digital SAT 6, Module 1, Q27",
+          "passage": "Before it unveiled a massive new gallery in 2009, the Art Institute of Chicago was only able to display about 5% of its art collection. ______ the museum is able to display close to 30% of its collection.",
+          "prompt": "Which choice completes the text with the most logical transition?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Additionally,"
+            },
+            {
+              "label": "B",
+              "text": "For example,"
+            },
+            {
+              "label": "C",
+              "text": "Nevertheless,"
+            },
+            {
+              "label": "D",
+              "text": "Today,"
+            }
+          ],
+          "correct": "D",
+          "explanation": "Before 2009 (past, “was only able”) vs. now (present, “is able”). Today marks the present. Additionally adds, For example gives an example, and Nevertheless signals concession."
+        },
+        {
+          "number": "20",
+          "source": "Official Digital SAT 1, Module 1, Q31 — also SAT 10 M2 Q30",
+          "passage": "Researchers Helena Mihaljević-Brandt, Lucía Santamaría, and Marco Tullney report that while mathematicians may have traditionally worked alone, evidence points to a shift in the opposite direction. ______ mathematicians are choosing to collaborate with their peers—a trend illustrated by a rise in the number of mathematics publications credited to multiple authors.",
+          "prompt": "Which choice completes the text with the most logical transition?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Similarly,"
+            },
+            {
+              "label": "B",
+              "text": "For this reason,"
+            },
+            {
+              "label": "C",
+              "text": "Furthermore,"
+            },
+            {
+              "label": "D",
+              "text": "Increasingly,"
+            }
+          ],
+          "correct": "D",
+          "explanation": "Clues “a shift,” “a trend,” and “a rise” show a change that grows over time, so Increasingly fits. Similarly signals a parallel idea, For this reason a result, and Furthermore an added point."
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "id": "focus-5-similarity-and-comparison-similarly-likewise-in-the-same-way",
+      "title": "Similarity and Comparison: similarly, likewise, in the same way",
+      "explanation_en": "A similarity transition says that the second sentence describes the same kind of action or pattern as the first, but for a different person, place, or thing. The two sentences are parallel: activists in San Francisco sold tea → similarly, an activist in Los Angeles sold tea. Similarly, likewise, and in the same way all mean “the same is true of this second case.” Compare addition (Part 1): in addition adds another point about the same subject, while similarly shows a second subject doing the same thing. Compare example: for example gives one case of a group, but a similarity word links two equal cases. Test: can you say “the same thing happens with…”? If yes, use a similarity word. Trap: by contrast is its opposite (two subjects that differ).",
+      "explanation_zh": "相似轉折詞（similarity）表示第二句描述的是同一類的行為或模式，只是主角換成不同的人、地點或事物。兩句是平行的：舊金山的社運人士賣茶 → 同樣地，洛杉磯的社運人士也賣茶。Similarly、likewise、in the same way 都是「同樣地；同理」。和附加（Part 1）比較：in addition 是就同一主題再加一點；similarly 是另一個主題做同樣的事。和舉例比較：for example 是從一個群體中舉出一例；相似轉折詞連接的是兩個對等的情況。判斷方法：能不能說成「同樣的事也發生在…」？可以就選相似轉折詞。陷阱：by contrast 正好相反，表示兩個主題不同。",
+      "examples": [
+        "Like other amphibians, the wood frog (Rana sylvatica) is unable to generate its own heat, so during periods of subfreezing temperatures, it survives by producing large amounts of glucose, a sugar that helps prevent damaging ice from forming inside its cells. [Digital SAT 4, Module 1, Q20] (“Like other amphibians” shows similarity inside one sentence)",
+        "The Hawaiian sea slug, for example, not only tolerates Byropsis toxins but actually uses them for protection in the same way the algae does. [Digital SAT 6, Module 2, Q26] (“in the same way” links two subjects doing the same thing)"
+      ],
+      "questions": [
+        {
+          "number": "21",
+          "source": "Official Digital SAT 1, Module 2, Q30 — also SAT 9 M2 Q27",
+          "passage": "Before California’s 1911 election to approve a proposition granting women the right to vote, activists across the state sold tea to promote the cause of suffrage. In San Francisco, the Woman’s Suffrage Party sold Equality Tea at local fairs. ______ in Los Angeles, activist Nancy Tuttle Craig, who ran one of California’s largest grocery store firms, distributed Votes for Women Tea.",
+          "prompt": "Which choice completes the text with the most logical transition?",
+          "options": [
+            {
+              "label": "A",
+              "text": "For example,"
+            },
+            {
+              "label": "B",
+              "text": "To conclude,"
+            },
+            {
+              "label": "C",
+              "text": "Similarly,"
+            },
+            {
+              "label": "D",
+              "text": "In other words,"
+            }
+          ],
+          "correct": "C",
+          "explanation": "San Francisco and Los Angeles are two parallel cases of selling tea for suffrage, so Similarly fits. For example would introduce the first example, but San Francisco already did that. To conclude summarizes, and In other words restates."
+        },
+        {
+          "number": "22",
+          "source": "Official Digital SAT 2, Module 2, Q30",
+          "passage": "In her poetry collection Thomas and Beulah, Rita Dove interweaves the titular characters’ personal stories with broader historical narratives. She places Thomas’s journey from the American South to the Midwest in the early 1900s within the larger context of the Great Migration. ______ Dove sets events from Beulah’s personal life against the backdrop of the US Civil Rights Movement.",
+          "prompt": "Which choice completes the text with the most logical transition?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Specifically,"
+            },
+            {
+              "label": "B",
+              "text": "Thus,"
+            },
+            {
+              "label": "C",
+              "text": "Regardless,"
+            },
+            {
+              "label": "D",
+              "text": "Similarly,"
+            }
+          ],
+          "correct": "D",
+          "explanation": "Dove does for Beulah exactly what she did for Thomas: she sets a personal story in a historical context. Similarly shows this parallel. Specifically adds detail, Thus shows a result, and Regardless dismisses the first idea."
+        },
+        {
+          "number": "23",
+          "source": "Practice item",
+          "passage": "Honeybees perform a “waggle dance” to tell other members of the hive where food can be found. ______ many species of ants lay down chemical trails that guide their nestmates to a food source.",
+          "prompt": "Which choice completes the text with the most logical transition?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Likewise,"
+            },
+            {
+              "label": "B",
+              "text": "Instead,"
+            },
+            {
+              "label": "C",
+              "text": "For example,"
+            },
+            {
+              "label": "D",
+              "text": "Consequently,"
+            }
+          ],
+          "correct": "A",
+          "explanation": "Bees and ants are two different insects that do the same thing: share the location of food with their group. Likewise fits. Instead would replace the bee behavior, For example would need ants to be a case of honeybees, and Consequently wrongly says the bees’ dance causes the ants’ trails."
+        },
+        {
+          "number": "24",
+          "source": "Practice item",
+          "passage": "The Roman architect Vitruvius argued that a good building must be sturdy, useful, and beautiful. Centuries later, the Renaissance architect Leon Battista Alberti ______ insisted that great architecture must combine strength, function, and beauty.",
+          "prompt": "Which choice completes the text with the most logical transition?",
+          "options": [
+            {
+              "label": "A",
+              "text": "however,"
+            },
+            {
+              "label": "B",
+              "text": "likewise,"
+            },
+            {
+              "label": "C",
+              "text": "for instance,"
+            },
+            {
+              "label": "D",
+              "text": "meanwhile,"
+            }
+          ],
+          "correct": "B",
+          "explanation": "Alberti held the same three-part view as Vitruvius. The mid-sentence likewise signals that a second person shares the idea. however signals contrast, for instance would make Alberti an example of Vitruvius, and meanwhile means “at the same time,” but Alberti lived centuries later."
+        },
+        {
+          "number": "25",
+          "source": "Practice item",
+          "passage": "In the 1840s, Hungarian physician Ignaz Semmelweis found that hand washing sharply reduced deaths in hospital maternity wards. ______ British surgeon Joseph Lister showed in the 1860s that sterilizing surgical instruments dramatically lowered infection rates after surgery.",
+          "prompt": "Which choice completes the text with the most logical transition?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Nevertheless,"
+            },
+            {
+              "label": "B",
+              "text": "In other words,"
+            },
+            {
+              "label": "C",
+              "text": "Specifically,"
+            },
+            {
+              "label": "D",
+              "text": "In a similar way,"
+            }
+          ],
+          "correct": "D",
+          "explanation": "Both doctors showed that cleanliness reduced deaths or infections, in two different medical settings. In a similar way links these parallel discoveries. Nevertheless signals contrast, In other words would restate Semmelweis’s finding, and Specifically would add detail about it."
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "id": "focus-6-alternative-replacement-purpose-and-comment-alternatively-instead-more",
+      "title": "Alternative, Replacement, Purpose, and Comment: alternatively, instead, more often, to that end, fittingly",
+      "explanation_en": "These transitions each do a special job. Alternative: alternatively offers another possible option for the same goal; both options are acceptable (remove the soil to a landfill; alternatively, clean it with plants). Replacement: instead and rather mean “not that — this”; the first idea is rejected or avoided. A related pattern is frequency: “X is rarely true. More often, Y.” Here more often tells what usually happens instead. Purpose: to that end (for that purpose) links a goal in the first sentence to the action taken to reach it (their goal was good parts for female friends → to that end, they created Six). Comment: fittingly (appropriately) gives the writer’s judgment that something is suitable (the event was named after its discoverer). Test: look for clue words before the blank: can be (option), avoid / rarely / not (replacement), goal / wanted (purpose), discoverer / named for (comment).",
+      "explanation_zh": "這幾類轉折詞各有特別的功能。替代選項：alternatively「或者、另一種方式」提出達成同一目的的另一個可行選項，兩種方式都可以（把土壤運到掩埋場；或者用植物淨化）。取代：instead、rather「反而、而是」表示「不是那樣，而是這樣」，前面的做法被否定或避免。相關的句型是頻率對比：「X 很少是這樣。更常見的是 Y。」more often 說明通常的情況。目的：to that end「為此、為了達到這個目的」把前一句的目標和為達成目標所採取的行動連起來（她們的目標是讓女演員朋友有好角色 → 為此創作了音樂劇 Six）。評論：fittingly「恰如其分地、很合適地」表達作者認為某件事很恰當（以發現者的名字為這個事件命名）。判斷方法：找空格前的線索字：can be（選項）→ alternatively；avoid / rarely / not（避免／很少／不）→ instead / more often；goal / wanted（目標／想要）→ to that end；discoverer / named（發現者／命名）→ fittingly。",
+      "examples": [
+        "Instead, researchers should use another word: “lyfe.” [Digital SAT 6, Module 1, Q26] (replacement: avoid “life” — use “lyfe” instead)",
+        "In order to prevent nonnative fish species from moving freely between the Mediterranean and Red Seas, marine biologist Bella Galil has proposed that a saline lock system be installed along the Suez Canal in Egypt’s Great Bitter Lakes. [Digital SAT 1, Module 2, Q25] (purpose: “in order to” states the goal of the action)"
+      ],
+      "questions": [
+        {
+          "number": "26",
+          "source": "Official Digital SAT 4, Module 2, Q28",
+          "passage": "When soil becomes contaminated by toxic metals, it can be removed from the ground and disposed of in a landfill. ______ contaminated soil can be detoxified via phytoremediation: plants that can withstand high concentrations of metals absorb the pollutants and store them in their shoots, which are then cut off and safely disposed of, preserving the health of the plants.",
+          "prompt": "Which choice completes the text with the most logical transition?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Alternatively,"
+            },
+            {
+              "label": "B",
+              "text": "Specifically,"
+            },
+            {
+              "label": "C",
+              "text": "For example,"
+            },
+            {
+              "label": "D",
+              "text": "As a result,"
+            }
+          ],
+          "correct": "A",
+          "explanation": "Removing soil to a landfill and cleaning it with plants are two different options for the same problem (note “can be… can be”). Alternatively introduces the second option. Specifically and For example would describe the landfill method in more detail, and As a result shows an effect."
+        },
+        {
+          "number": "27",
+          "source": "Official Digital SAT 7, Module 2, Q31",
+          "passage": "Mountain climbing routes that incorporate metal rungs and cables are known as via ferratas, from the Italian phrase for “iron path.” As climbing these routes has shifted from a mode of travel to a sporting activity, modern via ferratas are rarely designed to simply reach a summit. ______ new routes favor recreation over utility, aiming to provide a challenging climb or showcase dramatic scenery.",
+          "prompt": "Which choice completes the text with the most logical transition?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Additionally,"
+            },
+            {
+              "label": "B",
+              "text": "On the other hand,"
+            },
+            {
+              "label": "C",
+              "text": "More often,"
+            },
+            {
+              "label": "D",
+              "text": "Nonetheless,"
+            }
+          ],
+          "correct": "C",
+          "explanation": "Routes are “rarely” designed just to reach a summit; the next sentence tells what they are usually designed for. More often completes this rarely → more often pattern. Additionally adds, and On the other hand and Nonetheless signal contrast, but the second sentence continues the same idea (sport, not travel) rather than opposing it."
+        },
+        {
+          "number": "28",
+          "source": "Official Digital SAT 7, Module 2, Q30",
+          "passage": "When, in 2017, Cambridge University students Lucy Moss and Toby Marlow decided they wanted to develop a musical together, one of their goals was for their female actor friends to have good parts to play. ______ they created the show Six, a retelling of the history of King Henry VIII’s wives in which each of the six queens has a starring role.",
+          "prompt": "Which choice completes the text with the most logical transition?",
+          "options": [
+            {
+              "label": "A",
+              "text": "In other words,"
+            },
+            {
+              "label": "B",
+              "text": "In summary,"
+            },
+            {
+              "label": "C",
+              "text": "For example,"
+            },
+            {
+              "label": "D",
+              "text": "To that end,"
+            }
+          ],
+          "correct": "D",
+          "explanation": "The first sentence states a goal (good parts for female friends); the second gives the action taken to reach it (a show with six starring queens). To that end signals purpose. In other words restates, In summary summarizes, and For example gives an example."
+        },
+        {
+          "number": "29",
+          "source": "Official Digital SAT 10, Module 2, Q29",
+          "passage": "In her 2012 analysis of tree rings from Japan’s Yaku Island, cosmic ray physicist Fusa Miyake noted an anomalous carbon-14 spike dating to 774–775 CE, indicating that a massive burst of radiation reached Earth during that time. ______ this unprecedented radiocarbon surge was dubbed a “Miyake event” in honor of its discoverer.",
+          "prompt": "Which choice completes the text with the most logical transition?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Fittingly,"
+            },
+            {
+              "label": "B",
+              "text": "Similarly,"
+            },
+            {
+              "label": "C",
+              "text": "However,"
+            },
+            {
+              "label": "D",
+              "text": "In other words,"
+            }
+          ],
+          "correct": "A",
+          "explanation": "It is appropriate that the event is named after the scientist who discovered it. Fittingly expresses the writer’s approving comment. Similarly needs a parallel case, However signals contrast, and In other words would restate the discovery."
+        },
+        {
+          "number": "30",
+          "source": "Practice item",
+          "passage": "For decades, biologists tried to count wild snow leopards by following their tracks on foot through the Himalayas, a slow and often dangerous method that missed many animals. ______ many researchers now rely on motion-activated cameras that photograph the leopards as they pass.",
+          "prompt": "Which choice completes the text with the most logical transition?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Similarly,"
+            },
+            {
+              "label": "B",
+              "text": "Instead,"
+            },
+            {
+              "label": "C",
+              "text": "For example,"
+            },
+            {
+              "label": "D",
+              "text": "In addition,"
+            }
+          ],
+          "correct": "B",
+          "explanation": "The old tracking method is being replaced by camera traps. Instead introduces the replacement. Similarly would make the cameras the same kind of method, For example would make them an example of tracking on foot, and In addition would keep both methods side by side rather than replacing the first."
+        }
+      ]
+    }
+  ]
+}

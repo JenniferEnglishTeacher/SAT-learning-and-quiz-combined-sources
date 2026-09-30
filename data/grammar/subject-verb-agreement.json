@@ -1,0 +1,868 @@
+{
+  "slug": "subject-verb-agreement",
+  "title": "Subject–Verb Agreement",
+  "description": "True subjects, interrupters, inverted sentences, relative clauses, and agreement with tense.",
+  "source_url": "https://docs.google.com/document/d/1l9DtYoGSMBcpCW75uRyqPVVbensp1ZUcW7CgYVImAkI",
+  "section_count": 6,
+  "question_count": 30,
+  "sections": [
+    {
+      "number": 1,
+      "id": "focus-1-find-the-true-subject-ignore-prepositional-phrases-and-interrupters-si",
+      "title": "Find the True Subject: Ignore Prepositional Phrases and Interrupters (Singular Subjects)",
+      "explanation_en": "The verb must agree with its true subject, and the SAT hides that subject behind extra words. Cross out prepositional phrases (of the good spaces, between the two instruments), participial phrases (representing the mountain itself), and anything set off by commas or dashes (like the shape of each person’s ears). The noun right before the blank is often a trap noun: in “the shape of each statue’s ears ___ unique,” the subject is shape, not ears. Singular subject → singular verb (is, was, has, -s verb). Words such as each, every, either, neither, one, the number are singular too.",
+      "explanation_zh": "動詞要和真正的主詞一致，而 SAT 常用多餘的字把主詞藏起來。請先刪去介系詞片語（of the good spaces、between the two instruments）、分詞片語（representing the mountain itself），以及用逗號或破折號隔開的插入語（like the shape of each person’s ears）。空格前最近的名詞常常是陷阱名詞：在 “the shape of each statue’s ears ___ unique” 中，主詞是 shape，不是 ears。單數主詞 → 單數動詞（is、was、has、動詞加 -s）。each、every、either、neither、one、the number 也都是單數。",
+      "examples": [
+        "A harpsichord may look just like a piano, but the difference between the two instruments is easy to hear. [Digital SAT 5, Module 2, Q19] (subject “the difference,” not “instruments” → is)",
+        "The Lion Light system, developed by Kenyan inventor Richard Turere, consists of LED lights installed around the perimeter of livestock pastures. [Digital SAT 3, Module 2, Q22] (singular “system” + interrupter → consists)"
+      ],
+      "questions": [
+        {
+          "number": "1",
+          "source": "Official Digital SAT 4, Module 1, Q22",
+          "passage": "In many of her landscape paintings from the 1970s and 1980s, Lebanese American artist Etel Adnan worked to capture the essence of California’s fog-shrouded Mount Tamalpais region through abstraction, using splotches of color to represent the area’s features. Interestingly, the triangle representing the mountain itself ______ among the few defined figures in her paintings.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "are"
+            },
+            {
+              "label": "B",
+              "text": "have been"
+            },
+            {
+              "label": "C",
+              "text": "were"
+            },
+            {
+              "label": "D",
+              "text": "is"
+            }
+          ],
+          "correct": "D",
+          "explanation": "The subject is the singular the triangle; representing the mountain itself is a participial phrase that modifies it. Singular is agrees, and present tense fits a description of existing paintings. A and C (are, were) are plural; B (have been) is plural."
+        },
+        {
+          "number": "2",
+          "source": "Official Digital SAT 9, Module 1, Q26",
+          "passage": "Researchers studying the “terra-cotta army,” the thousands of life-size statues of warriors found interred near the tomb of Emperor Qin Shi Huang of China, were shocked to realize that the shape of each statue’s ears, like the shape of each person’s ears, ______ unique.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "are"
+            },
+            {
+              "label": "B",
+              "text": "is"
+            },
+            {
+              "label": "C",
+              "text": "were"
+            },
+            {
+              "label": "D",
+              "text": "have been"
+            }
+          ],
+          "correct": "B",
+          "explanation": "The subject of the that clause is the shape (singular); of each statue’s ears is a prepositional phrase and like the shape of each person’s ears is an interrupter. A permanent fact takes the present is. A, C, and D are plural forms that wrongly agree with ears."
+        },
+        {
+          "number": "3",
+          "source": "Practice item",
+          "passage": "The collection of ancient manuscripts housed in the monastery’s library ______ texts written in at least six languages, including Syriac and Ge’ez.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "contain"
+            },
+            {
+              "label": "B",
+              "text": "have contained"
+            },
+            {
+              "label": "C",
+              "text": "contains"
+            },
+            {
+              "label": "D",
+              "text": "are containing"
+            }
+          ],
+          "correct": "C",
+          "explanation": "Cross out of ancient manuscripts housed in the monastery’s library; the true subject is The collection, a singular noun. Only contains is singular. A, B, and D are plural and agree with the trap noun manuscripts."
+        },
+        {
+          "number": "4",
+          "source": "Practice item",
+          "passage": "Recent measurements show that the average temperature of the ocean’s surface layers, like that of the lower atmosphere, ______ risen steadily over the past century.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "has"
+            },
+            {
+              "label": "B",
+              "text": "have"
+            },
+            {
+              "label": "C",
+              "text": "are"
+            },
+            {
+              "label": "D",
+              "text": "were"
+            }
+          ],
+          "correct": "A",
+          "explanation": "The subject is the average temperature (singular). Of the ocean’s surface layers is a prepositional phrase and like that of the lower atmosphere is an interrupter. Over the past century calls for the present perfect, so singular has (risen). B is plural; C and D are plural and cannot form the present perfect with risen."
+        },
+        {
+          "number": "5",
+          "source": "Practice item",
+          "passage": "Neither of the two proposed explanations for the bird’s unusual migration route ______ fully supported by the tracking data that ornithologist Ana Ruiz collected in 2021.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "are"
+            },
+            {
+              "label": "B",
+              "text": "were"
+            },
+            {
+              "label": "C",
+              "text": "have been"
+            },
+            {
+              "label": "D",
+              "text": "is"
+            }
+          ],
+          "correct": "D",
+          "explanation": "Neither is the subject and is singular; of the two proposed explanations is only a prepositional phrase. The singular is is correct. A, B, and C are plural forms that agree with explanations."
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "id": "focus-2-plural-subjects-with-long-modifiers-or-interrupters",
+      "title": "Plural Subjects with Long Modifiers or Interrupters",
+      "explanation_en": "The reverse trap: the subject is plural, but a long modifier ends with a singular noun right before the blank (Vermeer, a painter…; Goldin, winner of…; the organism uses…). Find the head noun of the subject (objects, references, accomplishments, toxins, frameworks) and use a plural verb: are, were, have, base verb without -s (represent, reveal, attest, increase, underlie). Tip: bracket everything between the first comma and the matching comma, and read the subject straight into the verb.",
+      "explanation_zh": "這是相反的陷阱：主詞是複數，但中間很長的修飾語最後剛好接一個單數名詞（Vermeer, a painter…；Goldin, winner of…；the organism uses…）。請找出主詞的中心名詞（objects、references、accomplishments、toxins、frameworks），並使用複數動詞：are、were、have、不加 -s 的原形動詞（represent、reveal、attest、increase、underlie）。小技巧：把第一個逗號到對應逗號之間的內容括起來，直接把主詞和動詞連起來讀。",
+      "examples": [
+        "The forty-seven geothermal springs of Arkansas’ Hot Springs National Park are sourced via a process known as natural groundwater recharge, in which rainwater percolates downward through the earth—in this case, the porous rocks of the hills around Hot Springs—to collect in a subterranean basin. [Digital SAT 2, Module 2, Q24] (plural “springs,” not “Park” → are)",
+        "Typically, underlines, scribbles, and notes left in the margins by a former owner lower a book’s value, but when the former owner is a famous poet like Walt Whitman, such markings, known as marginalia, can be a gold mine to literary scholars. [Digital SAT 3, Module 1, Q21] (compound subject “underlines, scribbles, and notes” → lower)"
+      ],
+      "questions": [
+        {
+          "number": "6",
+          "source": "Official Digital SAT 5, Module 1, Q24",
+          "passage": "In the music video for the song “We Didn’t Start the Fire” by Billy Joel, the singer lists 118 political and cultural references. Such iconic references, cited in rapid and frenetic procession by the musician, who is seated impassively at a dinner table, ______ key moments and personalities of the twentieth century.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "represents"
+            },
+            {
+              "label": "B",
+              "text": "has represented"
+            },
+            {
+              "label": "C",
+              "text": "was representing"
+            },
+            {
+              "label": "D",
+              "text": "represent"
+            }
+          ],
+          "correct": "D",
+          "explanation": "The subject is Such iconic references (plural). Everything from cited to table is a modifier, and the musician, who is seated… does not change the subject. Plural represent agrees. A and B are singular; C (was representing) is singular and the wrong tense."
+        },
+        {
+          "number": "7",
+          "source": "Official Digital SAT 5, Module 2, Q24",
+          "passage": "In her 1983 book The Managed Heart: Commercialization of Human Feeling, sociologist Arlie Russell Hochschild first explored at length her conception of a “sociology of emotions”—the idea that the various cultural and ideological frameworks a person has internalized (class, gender, political affiliation, etc.) ______ each emotional reaction that person has within a situation.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "underlies"
+            },
+            {
+              "label": "B",
+              "text": "is underlying"
+            },
+            {
+              "label": "C",
+              "text": "underlie"
+            },
+            {
+              "label": "D",
+              "text": "has been underlying"
+            }
+          ],
+          "correct": "C",
+          "explanation": "In the that clause the subject is the various cultural and ideological frameworks (plural); a person has internalized and the parenthesis are modifiers. Plural underlie is correct, and present tense fits a general idea. A, B, and D are singular."
+        },
+        {
+          "number": "8",
+          "source": "Official Digital SAT 6, Module 1, Q23",
+          "passage": "In a painting titled “The Milkmaid” by Johannes Vermeer, the artist prominently features a bread basket, milk pitcher, and bowl. Such quotidian objects, depicted in exquisite detail by Vermeer, a painter celebrated for his naturalism, ______ the daily minutiae of a seventeenth-century Dutch household.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "was revealing"
+            },
+            {
+              "label": "B",
+              "text": "has revealed"
+            },
+            {
+              "label": "C",
+              "text": "reveals"
+            },
+            {
+              "label": "D",
+              "text": "reveal"
+            }
+          ],
+          "correct": "D",
+          "explanation": "The subject is Such quotidian objects (plural). Depicted in exquisite detail by Vermeer, a painter celebrated for his naturalism is a long interrupter ending with a singular noun, which is the trap. Plural reveal agrees. A, B, and C are singular."
+        },
+        {
+          "number": "9",
+          "source": "Official Digital SAT 6, Module 2, Q26",
+          "passage": "A species of Byropsis algae produces toxins to avoid being eaten by predators. However, in some cases, the toxins the organism uses to protect itself from predation actually ______ its attractiveness to predators. The Hawaiian sea slug, for example, not only tolerates Byropsis toxins but actually uses them for protection in the same way the algae does.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "is increasing"
+            },
+            {
+              "label": "B",
+              "text": "increase"
+            },
+            {
+              "label": "C",
+              "text": "increases"
+            },
+            {
+              "label": "D",
+              "text": "has increased"
+            }
+          ],
+          "correct": "B",
+          "explanation": "The subject is the toxins (plural). The organism uses to protect itself from predation is a reduced relative clause (= that the organism uses…) with its own singular subject. The main verb must agree with toxins: increase. A, C, and D are singular and agree with the trap noun organism."
+        },
+        {
+          "number": "10",
+          "source": "Official Digital SAT 8, Module 1, Q23",
+          "passage": "Increased gender diversity is revitalizing the field of economics, according to Harvard’s Claudia Goldin. The trailblazing accomplishments of Goldin, winner of the 2023 Nobel Prize in Economics for her work on women in the labor force, ______ to the value of scholars of diverse backgrounds in spurring research into previously unexplored, but vitally important, topics.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "attests"
+            },
+            {
+              "label": "B",
+              "text": "has attested"
+            },
+            {
+              "label": "C",
+              "text": "is attesting"
+            },
+            {
+              "label": "D",
+              "text": "attest"
+            }
+          ],
+          "correct": "D",
+          "explanation": "The head noun is accomplishments (plural). Of Goldin is a prepositional phrase and winner of the 2023 Nobel Prize… is an appositive for Goldin. Plural attest agrees. A, B, and C are singular and agree with Goldin."
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "id": "focus-3-gerund-and-clause-subjects-are-singular-titles-of-works-are-singular",
+      "title": "Gerund and Clause Subjects Are Singular; Titles of Works Are Singular",
+      "explanation_en": "Three kinds of subjects are always singular, even when they contain plural nouns: (1) a gerund phrase (Using one of these songs, landing on one of the good spaces); (2) a noun clause beginning with that, what, whether, how, why (That the center lay in North Dakota…, Whether the city was abandoned…); (3) the title of a work (a book, painting, or film), even if the title looks plural (A Sheaf Gleaned in French Fields, The Two Fridas). Each one names a single action, idea, or work, so it takes is, was, has, or an -s verb.",
+      "explanation_zh": "有三種主詞永遠是單數，即使裡面含有複數名詞：(1) 動名詞片語（Using one of these songs、landing on one of the good spaces）；(2) 以 that、what、whether、how、why 開頭的名詞子句（That the center lay in North Dakota…、Whether the city was abandoned…）；(3) 作品名稱（書、畫作、電影），就算看起來像複數也一樣（A Sheaf Gleaned in French Fields、The Two Fridas）。它們都代表「一個」動作、想法或作品，所以要用 is、was、has 或加 -s 的動詞。",
+      "examples": [
+        "Increasing the heat on an uncovered boiling pot of water does not increase the temperature of the water. [Digital SAT 7, Module 1, Q24] (gerund subject “Increasing the heat…” → does)",
+        "That the geographic center of North America lay in the state of North Dakota was conceded by all involved; establishing its precise coordinates proved more divisive. [Digital SAT 7, Module 2, Q26] (noun-clause subject “That…” → was)"
+      ],
+      "questions": [
+        {
+          "number": "11",
+          "source": "Official Digital SAT 1, Module 1, Q26 — also SAT 9 M1 Q20",
+          "passage": "The classic children’s board game Chutes and Ladders is a version of an ancient Nepalese game, Paramapada Sopanapata. In both games, players encounter “good” or “bad” spaces while traveling along a path; landing on one of the good spaces ______ a player to skip ahead and arrive closer to the end goal.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "allows"
+            },
+            {
+              "label": "B",
+              "text": "are allowing"
+            },
+            {
+              "label": "C",
+              "text": "have allowed"
+            },
+            {
+              "label": "D",
+              "text": "allow"
+            }
+          ],
+          "correct": "A",
+          "explanation": "The subject after the semicolon is the gerund phrase landing on one of the good spaces, which names one action and is singular. Allows agrees. B, C, and D are plural and agree with the trap noun spaces."
+        },
+        {
+          "number": "12",
+          "source": "Official Digital SAT 5, Module 1, Q22",
+          "passage": "An online content creator who uses copyrighted songs without permission risks being demonetized (prohibited from including paid advertisements in content). The best way to avoid demonetization is to choose music from the public domain. Using one of these noncopyrighted songs ______ a creator won’t lose advertising revenue.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "are ensuring"
+            },
+            {
+              "label": "B",
+              "text": "have ensured"
+            },
+            {
+              "label": "C",
+              "text": "ensure"
+            },
+            {
+              "label": "D",
+              "text": "ensures"
+            }
+          ],
+          "correct": "D",
+          "explanation": "The subject is the gerund phrase Using one of these noncopyrighted songs (singular). Only ensures is singular. A, B, and C are plural and agree with songs."
+        },
+        {
+          "number": "13",
+          "source": "Official Digital SAT 3, Module 1, Q24",
+          "passage": "Bengali author Toru Dutt’s A Sheaf Gleaned in French Fields (1876), a volume of English translations of French poems, ______ scholars’ understanding of the transnational and multilingual contexts in which Dutt lived and worked.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "has enhanced"
+            },
+            {
+              "label": "B",
+              "text": "are enhancing"
+            },
+            {
+              "label": "C",
+              "text": "have enhanced"
+            },
+            {
+              "label": "D",
+              "text": "enhance"
+            }
+          ],
+          "correct": "A",
+          "explanation": "The subject is the book title A Sheaf Gleaned in French Fields, one work, so it is singular; a volume of English translations of French poems is an appositive. Has enhanced agrees, and the present perfect shows an effect that continues today. B, C, and D are plural."
+        },
+        {
+          "number": "14",
+          "source": "Practice item",
+          "passage": "Whether the ancient city of Cahokia was abandoned because of flooding or because of political conflict ______ still debated among archaeologists, who continue to analyze sediment cores from the site.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "remain"
+            },
+            {
+              "label": "B",
+              "text": "is"
+            },
+            {
+              "label": "C",
+              "text": "are"
+            },
+            {
+              "label": "D",
+              "text": "have been"
+            }
+          ],
+          "correct": "B",
+          "explanation": "The subject is the whole noun clause Whether… political conflict, and a noun clause is singular. Is (debated) agrees. A, C, and D are plural forms."
+        },
+        {
+          "number": "15",
+          "source": "Practice item",
+          "passage": "Frida Kahlo’s The Two Fridas (1939), a double self-portrait showing the artist seated beside a second version of herself, ______ among the most frequently reproduced works in the collection of Mexico City’s Museo de Arte Moderno.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "are"
+            },
+            {
+              "label": "B",
+              "text": "were"
+            },
+            {
+              "label": "C",
+              "text": "is"
+            },
+            {
+              "label": "D",
+              "text": "have been"
+            }
+          ],
+          "correct": "C",
+          "explanation": "The subject is the title The Two Fridas, a single painting, so it is singular even though Fridas looks plural. Is agrees; present tense fits a current fact. A, B, and D are plural."
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "id": "focus-4-agreement-in-relative-clauses-the-verb-agrees-with-the-antecedent",
+      "title": "Agreement in Relative Clauses: The Verb Agrees with the Antecedent",
+      "explanation_en": "In a relative clause (that, which, who + verb), the relative pronoun has no number of its own. It copies the number of its antecedent, the noun it refers to. Find that noun: a document that outlines (singular), structures that absorb (plural). Watch for one of the + plural noun + who/that: the verb usually agrees with the plural noun (one of the few astronauts who are). In many of whom, the subject many is plural. Relative clauses that state a definition or a lasting fact normally use the simple present.",
+      "explanation_zh": "在關係子句（that、which、who + 動詞）中，關係代名詞本身沒有單複數，它跟著先行詞（它所指的名詞）走。先找出先行詞：a document that outlines（單數）、structures that absorb（複數）。注意 one of the + 複數名詞 + who/that：動詞通常跟那個複數名詞一致（one of the few astronauts who are）。many of whom 中的主詞 many 是複數。表示定義或持續事實的關係子句通常用簡單現在式。",
+      "examples": [
+        "Stomata, tiny pore structures in a leaf that absorb gases needed for plant growth, open when guard cells surrounding each pore swell with water. [Digital SAT 1, Module 2, Q27] (antecedent “structures” (plural) → that absorb)",
+        "In 2011, these two writers joined forces to found CAKE Literary, a book packaging company that specializes in the creation and promotion of stories told from diverse perspectives for children and young adults. [Digital SAT 4, Module 2, Q21] (antecedent “company” (singular) → that specializes)"
+      ],
+      "questions": [
+        {
+          "number": "16",
+          "source": "Official Digital SAT 3, Module 2, Q20 — also SAT 10 M2 Q22",
+          "passage": "Former First Lady of the United States Eleanor Roosevelt and Indian activist and educator Hansa Mehta were instrumental in drafting the United Nations’ Universal Declaration of Human Rights, a document that ______ the basic freedoms to which all people are entitled.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "have outlined"
+            },
+            {
+              "label": "B",
+              "text": "were outlining"
+            },
+            {
+              "label": "C",
+              "text": "outlines"
+            },
+            {
+              "label": "D",
+              "text": "outline"
+            }
+          ],
+          "correct": "C",
+          "explanation": "That refers to a document (singular), not to the two women, so the verb is singular outlines; simple present fits a document that still exists. A and D are plural; B is plural and past progressive."
+        },
+        {
+          "number": "17",
+          "source": "Official Digital SAT 6, Module 1, Q21",
+          "passage": "“He was just the man for such a place, and it was just the place for such a man.” This line is from Frederick Douglass’s autobiography Narrative of the Life of Frederick Douglass (1845). It’s an example of antimetabole, a writing technique that ______ emphasis by repeating a statement in a reversed order.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "create"
+            },
+            {
+              "label": "B",
+              "text": "are creating"
+            },
+            {
+              "label": "C",
+              "text": "have created"
+            },
+            {
+              "label": "D",
+              "text": "creates"
+            }
+          ],
+          "correct": "D",
+          "explanation": "That refers to a writing technique (singular), so the verb is singular creates; a definition takes the simple present. A, B, and C are plural."
+        },
+        {
+          "number": "18",
+          "source": "Official Digital SAT 9, Module 2, Q21",
+          "passage": "Interest in mechanotransduction, the mechanism by which cells sense and convert mechanical stimuli into biochemical signals, is expanding because of innovative work by biomedical scientists—many of whom, like neuroscience and biophysics expert Elba Serrano, ______ this mechanism to better understand how the body’s neurological and biomechanical systems interact.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "is studying"
+            },
+            {
+              "label": "B",
+              "text": "has studied"
+            },
+            {
+              "label": "C",
+              "text": "study"
+            },
+            {
+              "label": "D",
+              "text": "studies"
+            }
+          ],
+          "correct": "C",
+          "explanation": "The subject of the relative clause is many (of whom), meaning many scientists, which is plural. Like… Elba Serrano is an interrupter with a singular noun, which is the trap. Plural study agrees. A, B, and D are singular."
+        },
+        {
+          "number": "19",
+          "source": "Practice item",
+          "passage": "Marine biologists have long studied cleaner wrasses, small reef fish that ______ parasites and dead tissue from the bodies of larger fish.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "removes"
+            },
+            {
+              "label": "B",
+              "text": "remove"
+            },
+            {
+              "label": "C",
+              "text": "has removed"
+            },
+            {
+              "label": "D",
+              "text": "is removing"
+            }
+          ],
+          "correct": "B",
+          "explanation": "That refers to small reef fish, which renames the plural cleaner wrasses, so the verb must be plural: remove. A, C, and D are singular."
+        },
+        {
+          "number": "20",
+          "source": "Practice item",
+          "passage": "Mae Jemison, the first African American woman to travel in space, is one of the few astronauts who ______ also trained physicians.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "are"
+            },
+            {
+              "label": "B",
+              "text": "is"
+            },
+            {
+              "label": "C",
+              "text": "was"
+            },
+            {
+              "label": "D",
+              "text": "has been"
+            }
+          ],
+          "correct": "A",
+          "explanation": "In one of the few astronauts who…, who refers to astronauts (the group that has this quality), so the verb is plural are. B, C, and D are singular and wrongly agree with one or Mae Jemison."
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "id": "focus-5-inverted-sentences-gone-are-among-x-is-are-each-one-and-in-conjunction",
+      "title": "Inverted Sentences (“Gone are…,” “Among X is/are…”), “Each One,” and “In Conjunction With / Along With”",
+      "explanation_en": "In an inverted sentence, the verb comes before the subject: Among the clubs’ leaders was Josephine St. Pierre Ruffin. Put the sentence back in normal order (Ruffin was among the leaders) to find the subject. Opening phrases such as Among…, In…, Gone…, Etched into… are not the subject. Each one of, each, and every are singular: each one of the couplets is. Finally, phrases like in conjunction with, along with, together with, as well as are only interrupters; they do not make a singular subject plural (only and does).",
+      "explanation_zh": "倒裝句中動詞在主詞前面：Among the clubs’ leaders was Josephine St. Pierre Ruffin。先把句子改回正常語序（Ruffin was among the leaders）再找主詞。句首的 Among…、In…、Gone…、Etched into… 都不是主詞。each one of、each、every 都是單數：each one of the couplets is。最後，in conjunction with、along with、together with、as well as 只是插入語，不會把單數主詞變成複數（只有 and 才會）。",
+      "examples": [
+        "In Death Valley National Park’s Racetrack Playa, a flat, dry lakebed, are 162 rocks—some weighing less than a pound but others almost 700 pounds—that move periodically from place to place, seemingly of their own volition. [Digital SAT 2, Module 1, Q27] (inverted; subject “162 rocks” → are)",
+        "In Marisol’s 1968 sculpture Mi Mama y Yo, gone are the types of pop culture references that made the Parisian-born Venezuelan American artist a star at the height of the pop art movement. [Digital SAT 10, Module 1, Q26] (inverted; subject “the types” → are)"
+      ],
+      "questions": [
+        {
+          "number": "21",
+          "source": "Official Digital SAT 3, Module 2, Q24",
+          "passage": "The Progressive Era in the United States witnessed the rise of numerous Black women’s clubs, local organizations that advocated for racial and gender equality. Among the clubs’ leaders ______ Josephine St. Pierre Ruffin, founder of the Women’s Era Club of Boston.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "was"
+            },
+            {
+              "label": "B",
+              "text": "were"
+            },
+            {
+              "label": "C",
+              "text": "are"
+            },
+            {
+              "label": "D",
+              "text": "have been"
+            }
+          ],
+          "correct": "A",
+          "explanation": "The sentence is inverted: normal order is Josephine St. Pierre Ruffin was among the clubs’ leaders. The subject is singular, and the historical context needs past tense: was. B, C, and D are plural and agree with the trap noun leaders."
+        },
+        {
+          "number": "22",
+          "source": "Official Digital SAT 10, Module 1, Q27",
+          "passage": "The ghazal, a poetic form originating in seventh‑century Arabic poetry, has an intricate structure. The twentieth‑century Kashmiri American poet Agha Shahid Ali explains that each one of a ghazal’s couplets, while adhering to the patterns of rhyme (qafia) and refrain (radif) established in the poem’s opening lines (matla), ______ thematically and logically autonomous, resulting in a poem with “a stringently formal disunity.”",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "is"
+            },
+            {
+              "label": "B",
+              "text": "were"
+            },
+            {
+              "label": "C",
+              "text": "have been"
+            },
+            {
+              "label": "D",
+              "text": "are"
+            }
+          ],
+          "correct": "A",
+          "explanation": "The subject of the that clause is each one (singular), not couplets; the while… phrase is an interrupter. Present is matches explains and a general description. B, C, and D are plural."
+        },
+        {
+          "number": "23",
+          "source": "Official Digital SAT 10, Module 2, Q24",
+          "passage": "Mathematician Grigori Perelman, sometimes in conjunction with mathematicians Richard S. Hamilton and Shing-Tung Yau, ______ credited with proving the Poincaré conjecture. Having built on Hamilton’s previous work to solve the proof, Perelman has insisted that Hamilton receive credit. Yau later found and closed gaps in Perelman’s proof, persuading some mathematicians that he deserves credit as well.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "are"
+            },
+            {
+              "label": "B",
+              "text": "have been"
+            },
+            {
+              "label": "C",
+              "text": "are being"
+            },
+            {
+              "label": "D",
+              "text": "is"
+            }
+          ],
+          "correct": "D",
+          "explanation": "The subject is the singular Mathematician Grigori Perelman. Sometimes in conjunction with mathematicians Richard S. Hamilton and Shing-Tung Yau is an interrupter set off by commas and does not create a compound subject. Singular is (credited) agrees. A, B, and C are plural."
+        },
+        {
+          "number": "24",
+          "source": "Practice item",
+          "passage": "The Rosetta Stone, along with dozens of other artifacts seized during the French campaign in Egypt, ______ housed in the British Museum since 1802.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "have been"
+            },
+            {
+              "label": "B",
+              "text": "has been"
+            },
+            {
+              "label": "C",
+              "text": "are"
+            },
+            {
+              "label": "D",
+              "text": "were"
+            }
+          ],
+          "correct": "B",
+          "explanation": "The subject is The Rosetta Stone (singular); along with dozens of other artifacts… is an interrupter and does not make the subject plural. Since 1802 requires the present perfect, so singular has been. A, C, and D are plural."
+        },
+        {
+          "number": "25",
+          "source": "Practice item",
+          "passage": "For decades, textbooks described the Neanderthals as brutish and unintelligent. Gone ______ such simplistic portrayals: recent discoveries of jewelry, pigments, and cave art attributed to Neanderthals have convinced most researchers that they were capable of symbolic thought.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "is"
+            },
+            {
+              "label": "B",
+              "text": "has been"
+            },
+            {
+              "label": "C",
+              "text": "was"
+            },
+            {
+              "label": "D",
+              "text": "are"
+            }
+          ],
+          "correct": "D",
+          "explanation": "Inverted sentence: normal order is Such simplistic portrayals are gone. The subject portrayals is plural, so are. A, B, and C are singular."
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "id": "focus-6-agreement-combined-with-tense-and-parallel-verbs-has-have-present-perf",
+      "title": "Agreement Combined with Tense and Parallel Verbs (has/have + Present Perfect)",
+      "explanation_en": "Many SAT items test two things at once: number and tense. First choose singular or plural, then choose the tense from clues in the passage. Words such as before, since, for, over the past…, ever since point to the present perfect: has + past participle for singular subjects, have + past participle for plural subjects. When one subject has several verbs in a series, all the verbs must be parallel: the same form and the same number (The map describes…, shows…, and includes…).",
+      "explanation_zh": "許多 SAT 題目同時考兩件事：單複數和時態。先決定單數或複數，再從文中線索判斷時態。before、since、for、over the past…、ever since 等字表示要用現在完成式：單數主詞用 has + 過去分詞，複數主詞用 have + 過去分詞。當一個主詞後面接一連串動詞時，所有動詞必須平行：形式相同、單複數也相同（The map describes…, shows…, and includes…）。",
+      "examples": [
+        "The versatile performer has appeared in everything from television commercials to action movies, but voice acting, specifically, has become a notable part of his career. [Digital SAT 5, Module 2, Q23] (singular subjects + present perfect → has)",
+        "A study published by Rice University geoscientist Ming Tang in 2019 offers a new explanation for the origin of Earth’s continents: geological structures called arcs, towering ridges that form when a dense oceanic plate subducts under a less dense continental plate, melts in the mantle below, and then rises and bursts through the continental crust above. [Digital SAT 4, Module 2, Q26] (singular “a dense oceanic plate” → parallel subducts, melts, rises, bursts)"
+      ],
+      "questions": [
+        {
+          "number": "26",
+          "source": "Official Digital SAT 1, Module 2, Q19 — also SAT 8 M1 Q19",
+          "passage": "When writing The Other Black Girl (2021), novelist Zakiya Dalila Harris drew on her own experiences working at a publishing office. The award-winning book is Harris’s first novel, but her writing ______ honored before. At the age of twelve, she entered a contest to have a story published in American Girl magazine—and won.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "were"
+            },
+            {
+              "label": "B",
+              "text": "have been"
+            },
+            {
+              "label": "C",
+              "text": "has been"
+            },
+            {
+              "label": "D",
+              "text": "are"
+            }
+          ],
+          "correct": "C",
+          "explanation": "The subject her writing is singular, and before signals an experience up to now, so the singular present perfect has been (honored) is correct. B is plural; A and D are plural and the wrong tense."
+        },
+        {
+          "number": "27",
+          "source": "Official Digital SAT 7, Module 1, Q19",
+          "passage": "One of the earliest known maps is a Babylonian clay tablet thought to be almost 4,500 years old. The map ______ the area of a plot of land, shows a river valley, and includes the cardinal directions.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "describes"
+            },
+            {
+              "label": "B",
+              "text": "describe"
+            },
+            {
+              "label": "C",
+              "text": "have described"
+            },
+            {
+              "label": "D",
+              "text": "are describing"
+            }
+          ],
+          "correct": "A",
+          "explanation": "The map is singular, and the other verbs in the series (shows, includes) are singular simple present. Describes agrees and keeps the series parallel. B, C, and D are plural, and C and D break the parallel structure."
+        },
+        {
+          "number": "28",
+          "source": "Practice item",
+          "passage": "Since the 1990s, sensors aboard NASA satellites ______ tracked changes in Arctic sea ice, revealing a steady decline in the ice’s summer extent.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "has"
+            },
+            {
+              "label": "B",
+              "text": "is"
+            },
+            {
+              "label": "C",
+              "text": "have"
+            },
+            {
+              "label": "D",
+              "text": "was"
+            }
+          ],
+          "correct": "C",
+          "explanation": "The subject is sensors (plural); aboard NASA satellites is a prepositional phrase. Since the 1990s requires the present perfect, so plural have (tracked). A is singular; B and D are singular and do not form the present perfect."
+        },
+        {
+          "number": "29",
+          "source": "Practice item",
+          "passage": "The octopus is a master of disguise. Using specialized skin cells called chromatophores, it rapidly ______ color, alters the texture of its skin, and mimics the shapes of nearby objects.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "change"
+            },
+            {
+              "label": "B",
+              "text": "changes"
+            },
+            {
+              "label": "C",
+              "text": "have changed"
+            },
+            {
+              "label": "D",
+              "text": "changing"
+            }
+          ],
+          "correct": "B",
+          "explanation": "The subject it (the octopus) is singular, and the other verbs in the series (alters, mimics) are singular simple present. Changes agrees and keeps the series parallel. A and C are plural; D is not a finite verb."
+        },
+        {
+          "number": "30",
+          "source": "Practice item",
+          "passage": "Although the individual findings were modest, the combined results of the three-year study ______ led the city council to expand its network of bike lanes.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "has"
+            },
+            {
+              "label": "B",
+              "text": "is"
+            },
+            {
+              "label": "C",
+              "text": "was"
+            },
+            {
+              "label": "D",
+              "text": "have"
+            }
+          ],
+          "correct": "D",
+          "explanation": "The subject is the combined results (plural); of the three-year study is a prepositional phrase with a trap singular noun. Plural have (led) forms the present perfect. A, B, and C are singular."
+        }
+      ]
+    }
+  ]
+}

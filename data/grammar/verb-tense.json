@@ -1,0 +1,725 @@
+{
+  "slug": "verb-tense",
+  "title": "Verb Tense",
+  "description": "Present, past, past perfect, present perfect, and tense consistency on the Digital SAT.",
+  "source_url": "https://docs.google.com/document/d/16-IC8a_nW5L6BXlLPtXpgnifkaW9tmsq8_q9AobWm8Q",
+  "section_count": 5,
+  "question_count": 25,
+  "sections": [
+    {
+      "number": 1,
+      "id": "focus-1-simple-present-for-general-facts-processes-and-today",
+      "title": "Simple Present for General Facts, Processes, and “Today”",
+      "explanation_en": "Use the simple present (is, reach, survives, indicates) for three situations: (1) general facts that are always true (science, nature, definitions); (2) repeated processes that happen the same way every time (“Atoms travel… until they reach…”); and (3) statements about now, often signaled by time markers such as today, currently, nowadays, or now. Check the other verbs in the passage: if they are in the present (is unable, travel, are diverted), the blank is usually present too. Traps: a past date elsewhere in the passage (e.g., “in 1963”) does not control a sentence that begins with “Today.” Avoid had + past participle and will forms when nothing points to an earlier past or to the future.",
+      "explanation_zh": "簡單現在式（is、reach、survives、indicates）用在三種情況：(1) 一般事實，永遠成立的科學、自然現象或定義；(2) 反覆發生的過程，每次都照同樣步驟進行（Atoms travel… until they reach…）；(3) 描述現在的狀態，常見時間標記有 today、currently、nowadays、now。解題時先看文章中其他動詞：若都是現在式（is unable、travel、are diverted），空格通常也用現在式。陷阱：文中別處出現過去年份（例如 in 1963），並不會影響以 Today 開頭的句子。沒有「更早的過去」或「未來」線索時，不要選 had + 過去分詞或 will。",
+      "examples": [
+        "Today, the museum is able to display close to 30% of its collection. [Digital SAT 6, Module 1, Q27] (“Today” → simple present is)",
+        "The liquid metals in Earth’s core circulate constantly, and this circulation generates electrical currents that flow between Earth’s North and South magnetic poles. [Digital SAT 6, Module 2, Q28] (general scientific process → circulate, generates, flow)"
+      ],
+      "questions": [
+        {
+          "number": "1",
+          "source": "Official Digital SAT 1, Module 2, Q23 — also SAT 10 M2 Q21",
+          "passage": "In his 1963 exhibition Exposition of Music—Electronic Television, Korean American artist Nam June Paik showed how television images could be manipulated to express an artist’s perspective. Today, Paik ______ considered the first video artist.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "will be"
+            },
+            {
+              "label": "B",
+              "text": "had been"
+            },
+            {
+              "label": "C",
+              "text": "was"
+            },
+            {
+              "label": "D",
+              "text": "is"
+            }
+          ],
+          "correct": "D",
+          "explanation": "“Today” signals the present, so the simple present is is correct. The 1963 date belongs to the first sentence only. Was and had been place the judgment in the past, and will be places it in the future."
+        },
+        {
+          "number": "2",
+          "source": "Official Digital SAT 3, Module 2, Q18 — also SAT 10 M2 Q20",
+          "passage": "Atoms in a synchrotron, a type of circular particle accelerator, travel faster and faster until they ______ a desired energy level, at which point they are diverted to collide with a target, smashing the atoms.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "will reach"
+            },
+            {
+              "label": "B",
+              "text": "reach"
+            },
+            {
+              "label": "C",
+              "text": "had reached"
+            },
+            {
+              "label": "D",
+              "text": "are reaching"
+            }
+          ],
+          "correct": "B",
+          "explanation": "The passage describes a general, repeated process in the simple present (travel, are diverted), so reach matches. Will reach shifts to the future, had reached to the earlier past, and are reaching describes an ongoing action rather than a completed step in a process."
+        },
+        {
+          "number": "3",
+          "source": "Official Digital SAT 4, Module 1, Q20",
+          "passage": "Like other amphibians, the wood frog (Rana sylvatica) is unable to generate its own heat, so during periods of subfreezing temperatures, it ______ by producing large amounts of glucose, a sugar that helps prevent damaging ice from forming inside its cells.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "had survived"
+            },
+            {
+              "label": "B",
+              "text": "survived"
+            },
+            {
+              "label": "C",
+              "text": "would survive"
+            },
+            {
+              "label": "D",
+              "text": "survives"
+            }
+          ],
+          "correct": "D",
+          "explanation": "This is a general scientific fact, stated in the present (is unable, helps), so the simple present survives is consistent. The past forms (A, B) and the conditional would survive (C) do not fit a timeless fact."
+        },
+        {
+          "number": "4",
+          "source": "Practice item",
+          "passage": "Honeybees communicate the location of distant flowers through a movement known as the waggle dance. The angle of the dance relative to vertical ______ the direction of the food source relative to the Sun.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "indicates"
+            },
+            {
+              "label": "B",
+              "text": "indicated"
+            },
+            {
+              "label": "C",
+              "text": "had indicated"
+            },
+            {
+              "label": "D",
+              "text": "will have indicated"
+            }
+          ],
+          "correct": "A",
+          "explanation": "The passage explains how the dance always works (communicate), a general fact in the present, so indicates is correct. Indicated and had indicated move the fact into the past; will have indicated is a future perfect with no future time point."
+        },
+        {
+          "number": "5",
+          "source": "Practice item",
+          "passage": "The Rosetta Stone was discovered by French soldiers in Egypt in 1799. Today, the stone ______ in the British Museum in London, where it attracts millions of visitors each year.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "was displayed"
+            },
+            {
+              "label": "B",
+              "text": "had been displayed"
+            },
+            {
+              "label": "C",
+              "text": "is displayed"
+            },
+            {
+              "label": "D",
+              "text": "will have been displayed"
+            }
+          ],
+          "correct": "C",
+          "explanation": "“Today” and the present-tense verb attracts call for the simple present is displayed. The discovery in 1799 is past, but that date controls only the first sentence. A and B are past forms; D is a future perfect."
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "id": "focus-2-simple-past-for-completed-events-and-specific-past-dates",
+      "title": "Simple Past for Completed Events and Specific Past Dates",
+      "explanation_en": "Use the simple past (affected, malfunctioned, discovered) for an action that started and finished in the past. The strongest clue is a specific past time: a year (“in 1613”), a decade (“during the 1930s”), or a phrase such as “in the eighteenth century,” “a decade later,” or “at that time.” The neighboring verbs usually confirm it (was, plagued, reached, ignited). Traps: the present perfect (has malfunctioned) cannot be used with a finished past time like “in 1613,” and will forms point to the future. The past perfect (had + past participle) is only needed when you must show that one past action happened before another past action (see Section 3).",
+      "explanation_zh": "簡單過去式（affected、malfunctioned、discovered）用來表示在過去開始、也在過去結束的動作。最明顯的線索是明確的過去時間：年份（in 1613）、年代（during the 1930s），或 in the eighteenth century、a decade later、at that time 等片語。前後動詞通常也會是過去式（was、plagued、reached、ignited）。陷阱：現在完成式（has malfunctioned）不能和 in 1613 這種已結束的過去時間連用；will 則表示未來。只有在需要強調某個過去動作發生在另一個過去動作之前時，才用過去完成式（had + 過去分詞，見第 3 節）。",
+      "examples": [
+        "In 1974, Mexican chemist Mario Molina and US chemist F. Sherwood Rowland discovered that chemicals called CFCs were harmful to the ozone layer. [Digital SAT 8, Module 1, Q28] (“In 1974” → discovered)",
+        "In 1966, Emmett Ashford became the first African American to umpire a Major League Baseball game. [Digital SAT 8, Module 2, Q22] (“In 1966” → became)"
+      ],
+      "questions": [
+        {
+          "number": "6",
+          "source": "Official Digital SAT 7, Module 1, Q21",
+          "passage": "The Dust Bowl was a period of severe drought that plagued the Great Plains of the US during the 1930s. During this time, dust storms ______ over 100 million acres of land. They even reached as far east as New York City.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "are affecting"
+            },
+            {
+              "label": "B",
+              "text": "will have affected"
+            },
+            {
+              "label": "C",
+              "text": "will affect"
+            },
+            {
+              "label": "D",
+              "text": "affected"
+            }
+          ],
+          "correct": "D",
+          "explanation": "The events happened during the 1930s, and the surrounding verbs are past (was, plagued, reached), so the simple past affected is correct. A is present progressive; B and C are future forms."
+        },
+        {
+          "number": "7",
+          "source": "Official Digital SAT 7, Module 2, Q20",
+          "passage": "The Globe Theatre in London is a reconstruction of the famed venue where many of Shakespeare’s plays were first performed. In 1613, a prop cannon ______ during a performance and ignited the Globe’s thatched roof. No one was hurt, but in two hours the original Globe was gone.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "malfunctions"
+            },
+            {
+              "label": "B",
+              "text": "will malfunction"
+            },
+            {
+              "label": "C",
+              "text": "has malfunctioned"
+            },
+            {
+              "label": "D",
+              "text": "malfunctioned"
+            }
+          ],
+          "correct": "D",
+          "explanation": "“In 1613” is a specific, finished past time, and the blank is parallel with ignited, so malfunctioned is correct. The present perfect (C) cannot be used with a finished past date; A is present and B is future."
+        },
+        {
+          "number": "8",
+          "source": "Practice item",
+          "passage": "Mathematician Katherine Johnson calculated flight paths for many early NASA missions. In 1962, astronaut John Glenn ______ that Johnson personally check the computer’s calculations before his orbital flight.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "requests"
+            },
+            {
+              "label": "B",
+              "text": "requested"
+            },
+            {
+              "label": "C",
+              "text": "has requested"
+            },
+            {
+              "label": "D",
+              "text": "will request"
+            }
+          ],
+          "correct": "B",
+          "explanation": "“In 1962” is a specific past date, and the passage is in the past (calculated), so the simple past requested is correct. Has requested cannot go with a finished past date; requests and will request are present and future."
+        },
+        {
+          "number": "9",
+          "source": "Practice item",
+          "passage": "The Roman city of Pompeii was buried under volcanic ash when Mount Vesuvius erupted in 79 CE. The eruption ______ the city so completely that its ruins remained hidden for more than 1,500 years.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "preserved"
+            },
+            {
+              "label": "B",
+              "text": "preserves"
+            },
+            {
+              "label": "C",
+              "text": "has preserved"
+            },
+            {
+              "label": "D",
+              "text": "will preserve"
+            }
+          ],
+          "correct": "A",
+          "explanation": "The eruption is a completed event in 79 CE, and the other verbs are past (was buried, erupted, remained), so preserved is correct. B is present, C is present perfect (not used with a finished past event), and D is future."
+        },
+        {
+          "number": "10",
+          "source": "Practice item",
+          "passage": "In 1869, Russian chemist Dmitri Mendeleev ______ the known chemical elements by atomic weight, leaving gaps in his periodic table for elements that had not yet been discovered.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "arranges"
+            },
+            {
+              "label": "B",
+              "text": "will arrange"
+            },
+            {
+              "label": "C",
+              "text": "arranged"
+            },
+            {
+              "label": "D",
+              "text": "has arranged"
+            }
+          ],
+          "correct": "C",
+          "explanation": "“In 1869” marks a completed past action, so the simple past arranged is needed. Has arranged cannot be used with a specific past year; A is present and B is future."
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "id": "focus-3-past-perfect-by-past-time-and-the-earlier-of-two-past-events",
+      "title": "Past Perfect: “By + Past Time” and the Earlier of Two Past Events",
+      "explanation_en": "The past perfect is had + past participle (had doubled, had laid, had won). Use it when an action was already complete before another point in the past. Two common signals: (1) by + a past time (“By the end of the 1990s, the organization had doubled…”; “By 1869, workers had laid…”); (2) two past events, where the earlier one takes had (“When Carter opened the tomb in 1922, robbers had already entered it”). Words such as already, previously, earlier, before, and by the time often appear. Traps: has/have + past participle (present perfect) connects the past to now, not to a past moment, so it is wrong after “by the end of the 1990s.”",
+      "explanation_zh": "過去完成式的形式是 had + 過去分詞（had doubled、had laid、had won）。當一個動作在過去某個時間點之前就已經完成時使用。常見兩種線索：(1) by + 過去時間（By the end of the 1990s, the organization had doubled…；By 1869, workers had laid…）；(2) 兩件過去的事，較早發生的那件用 had（When Carter opened the tomb in 1922, robbers had already entered it）。already、previously、earlier、before、by the time 等字也常出現。陷阱：現在完成式 has/have + 過去分詞 是把過去連到現在，而不是連到過去某個時間點，所以在 by the end of the 1990s 後面不能用。",
+      "examples": [
+        "Previously, only one other woman, Kathryn Bigelow of the United States, had been named best director at the Oscars, making Zhao the second woman and the first Asian woman to win the award. [Digital SAT 10, Module 1, Q29] (Bigelow’s award came before Zhao’s 2021 award)",
+        "In 1986, conceptual artist Sophie Calle asked twenty-three people, all of whom had been born without sight, to describe “their image of beauty” in rich detail. [Digital SAT 5, Module 1, Q26] (being born came before Calle asked them)"
+      ],
+      "questions": [
+        {
+          "number": "11",
+          "source": "Official Digital SAT 2, Module 1, Q21 — also SAT 8 M2 Q20",
+          "passage": "Formed in 1967 to foster political and economic stability within the Asia-Pacific region, the Association of Southeast Asian Nations was originally made up of five members: Thailand, the Philippines, Singapore, Malaysia, and Indonesia. By the end of the 1990s, the organization ______ its initial membership.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "has doubled"
+            },
+            {
+              "label": "B",
+              "text": "had doubled"
+            },
+            {
+              "label": "C",
+              "text": "doubles"
+            },
+            {
+              "label": "D",
+              "text": "will double"
+            }
+          ],
+          "correct": "B",
+          "explanation": "“By the end of the 1990s” marks an action completed before a specific point in the past, so the past perfect had doubled is required. Has doubled (A) links the action to the present, not to a past deadline; C is present and D is future."
+        },
+        {
+          "number": "12",
+          "source": "Practice item",
+          "passage": "Construction on the first transcontinental railroad in the United States began in 1863. By the time the final spike was driven at Promontory Summit, Utah, in 1869, workers ______ nearly 1,800 miles of track.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "lay"
+            },
+            {
+              "label": "B",
+              "text": "have laid"
+            },
+            {
+              "label": "C",
+              "text": "had laid"
+            },
+            {
+              "label": "D",
+              "text": "will lay"
+            }
+          ],
+          "correct": "C",
+          "explanation": "“By the time… in 1869” sets a past deadline; the track-laying was finished before it, so had laid is correct. Have laid connects to the present, lay is present, and will lay is future."
+        },
+        {
+          "number": "13",
+          "source": "Practice item",
+          "passage": "When archaeologist Howard Carter opened the tomb of Tutankhamun in 1922, he found evidence that ancient robbers ______ parts of the tomb long before his arrival.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "had entered"
+            },
+            {
+              "label": "B",
+              "text": "enter"
+            },
+            {
+              "label": "C",
+              "text": "will enter"
+            },
+            {
+              "label": "D",
+              "text": "are entering"
+            }
+          ],
+          "correct": "A",
+          "explanation": "Two past events: Carter’s discovery in 1922 and the robbers’ entry, which happened earlier (“long before his arrival”). The earlier event takes the past perfect had entered. B and D are present forms; C is future."
+        },
+        {
+          "number": "14",
+          "source": "Practice item",
+          "passage": "By the end of the eighteenth century, new water-powered machines ______ Britain’s textile industry, replacing many of the hand-operated looms that weavers had used for generations.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "transform"
+            },
+            {
+              "label": "B",
+              "text": "will transform"
+            },
+            {
+              "label": "C",
+              "text": "have transformed"
+            },
+            {
+              "label": "D",
+              "text": "had transformed"
+            }
+          ],
+          "correct": "D",
+          "explanation": "“By the end of the eighteenth century” is a past deadline, so the past perfect had transformed is needed. Have transformed links the change to the present; transform and will transform are present and future."
+        },
+        {
+          "number": "15",
+          "source": "Practice item",
+          "passage": "Physicist and chemist Marie Curie received the Nobel Prize in Chemistry in 1911. She ______ the Nobel Prize in Physics eight years earlier, making her the first person to win the award in two different sciences.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "wins"
+            },
+            {
+              "label": "B",
+              "text": "had won"
+            },
+            {
+              "label": "C",
+              "text": "will have won"
+            },
+            {
+              "label": "D",
+              "text": "has won"
+            }
+          ],
+          "correct": "B",
+          "explanation": "The Physics prize (1903) came before the 1911 Chemistry prize, and “eight years earlier” signals the earlier past event, so had won is correct. Has won connects to the present; wins is present; will have won is future perfect."
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "id": "focus-4-present-perfect-since-for-and-up-to-now",
+      "title": "Present Perfect: Since, For, and Up to Now",
+      "explanation_en": "The present perfect is has/have + past participle (has made, have studied). Use it for an action or situation that began in the past and continues up to now, or whose result still matters now. Key signals: since + starting point (“since 1990,” “since its launch”), for + length of time (“for more than a century”), ever since, so far, up to now, and in recent years. Compare: “In 1990, NASA launched Hubble” (finished past time → simple past) vs. “Since 1990, Hubble has made over a million observations” (from then until now → present perfect). Traps: had + past participle stops at a past point, not now; the simple past cannot go with “since” or “ever since” when the action continues to the present.",
+      "explanation_zh": "現在完成式的形式是 has/have + 過去分詞（has made、have studied）。用來表示從過去開始、一直持續到現在的動作或狀態，或其結果到現在仍有影響。重要線索：since + 起點（since 1990、since its launch）、for + 一段時間（for more than a century）、ever since、so far、up to now、in recent years。比較：In 1990, NASA launched Hubble（已結束的過去時間 → 簡單過去式）vs. Since 1990, Hubble has made over a million observations（從當時到現在 → 現在完成式）。陷阱：had + 過去分詞 只延伸到過去某一點，不是到現在；動作持續到現在時，since、ever since 後面不能用簡單過去式。",
+      "examples": [
+        "Archaeologists have known of the lines since the 1920s, when a researcher spotted some from a nearby foothill, and they have been studying the markings ever since. [Digital SAT 3, Module 2, Q28] (“since the 1920s… ever since” → have known, have been studying)",
+        "For thousands of years, people in the Americas have used the bottle gourd, a large bitter fruit with a thick rind, to make bottles, other types of containers, and even musical instruments. [Digital SAT 2, Module 2, Q18] (“For thousands of years” → have used)"
+      ],
+      "questions": [
+        {
+          "number": "16",
+          "source": "Practice item",
+          "passage": "Since its launch in 1990, the Hubble Space Telescope ______ more than 1.5 million observations, contributing data to thousands of published scientific studies.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "has made"
+            },
+            {
+              "label": "B",
+              "text": "made"
+            },
+            {
+              "label": "C",
+              "text": "had made"
+            },
+            {
+              "label": "D",
+              "text": "will make"
+            }
+          ],
+          "correct": "A",
+          "explanation": "“Since its launch in 1990” describes a period from the past up to now, so the present perfect has made is correct. Made treats the observations as finished and cut off from the present; had made stops at a past point; will make is future."
+        },
+        {
+          "number": "17",
+          "source": "Practice item",
+          "passage": "For more than a century, scientists ______ the migration of monarch butterflies, which travel up to 3,000 miles between Canada and central Mexico each year.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "study"
+            },
+            {
+              "label": "B",
+              "text": "will study"
+            },
+            {
+              "label": "C",
+              "text": "had studied"
+            },
+            {
+              "label": "D",
+              "text": "have studied"
+            }
+          ],
+          "correct": "D",
+          "explanation": "“For more than a century” describes research that began long ago and continues now, so have studied is correct. Had studied would stop at a past point, study does not show the long period, and will study is future."
+        },
+        {
+          "number": "18",
+          "source": "Practice item",
+          "passage": "The Japanese art of kintsugi repairs broken pottery with lacquer mixed with powdered gold. Up to now, conservators ______ the technique mainly on ceramics, but some designers are beginning to apply it to glass and wood.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "used"
+            },
+            {
+              "label": "B",
+              "text": "have used"
+            },
+            {
+              "label": "C",
+              "text": "had used"
+            },
+            {
+              "label": "D",
+              "text": "will use"
+            }
+          ],
+          "correct": "B",
+          "explanation": "“Up to now” and the present are beginning show a period that reaches the present, so the present perfect have used is correct. Used and had used are past forms that do not reach “now”; will use is future."
+        },
+        {
+          "number": "19",
+          "source": "Practice item",
+          "passage": "Linguists estimate that about 7,000 languages are spoken in the world today. Since 1950, more than 200 languages ______, according to researchers who track endangered languages.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "disappear"
+            },
+            {
+              "label": "B",
+              "text": "had disappeared"
+            },
+            {
+              "label": "C",
+              "text": "have disappeared"
+            },
+            {
+              "label": "D",
+              "text": "will disappear"
+            }
+          ],
+          "correct": "C",
+          "explanation": "“Since 1950” sets a starting point and the counting continues to the present, so have disappeared is correct. Had disappeared stops at a past point; disappear and will disappear are present and future."
+        },
+        {
+          "number": "20",
+          "source": "Practice item",
+          "passage": "Primatologist Jane Goodall began studying wild chimpanzees in Tanzania in 1960. Her observations ______ scientists’ understanding of primate behavior ever since.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "have shaped"
+            },
+            {
+              "label": "B",
+              "text": "shaped"
+            },
+            {
+              "label": "C",
+              "text": "had shaped"
+            },
+            {
+              "label": "D",
+              "text": "shape"
+            }
+          ],
+          "correct": "A",
+          "explanation": "“Ever since” means from 1960 until now, so the present perfect have shaped is required. Shaped and had shaped do not connect to the present, and shape does not show the period that began in 1960."
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "id": "focus-5-tense-consistency-and-the-literary-present",
+      "title": "Tense Consistency and the Literary Present",
+      "explanation_en": "Keep verbs in the same tense unless the time actually changes. If a story about the past is told in the simple past (advised, suggested), the next event in the sequence also takes the simple past. There is one special rule: when you describe what happens inside a novel, poem, play, or film, use the literary present (connects, experiences, places), even if the book was written long ago or the story is set in the past. So look at the parallel verb in the sentence: in “Bình connects…, while Linda ______,” the blank must also be present. Traps: had + past participle and was + -ing change the time relationship without any reason; will forms move the story into the future.",
+      "explanation_zh": "除非時間真的改變，否則動詞要保持同一時態。如果一段過去的故事是用簡單過去式敘述（advised、suggested），接下來同一串事件也要用簡單過去式。另有一條特別規則：描述小說、詩、劇本或電影裡發生的情節時，要用文學現在式（connects、experiences、places），即使作品寫於很久以前，或故事背景設在過去也一樣。所以要看句中平行的動詞：在 Bình connects…, while Linda ______ 中，空格也必須是現在式。陷阱：had + 過去分詞、was + -ing 會無故改變時間關係；will 則把情節移到未來。",
+      "examples": [
+        "She places Thomas’s journey from the American South to the Midwest in the early 1900s within the larger context of the Great Migration. [Digital SAT 2, Module 2, Q30] (literary present places, even though the events are set in the early 1900s)",
+        "As Zamboni’s machine moved along the rink’s surface, it first scraped off the top layer of ice. [Digital SAT 5, Module 2, Q26] (consistent simple past: moved… scraped)"
+      ],
+      "questions": [
+        {
+          "number": "21",
+          "source": "Official Digital SAT 2, Module 1, Q23 — also SAT 10 M1 Q24",
+          "passage": "Food and the sensation of taste are central to Monique Truong’s novels. In The Book of Salt, for example, the exiled character of Bình connects to his native Saigon through the food he prepares, while in Bitter in the Mouth, the character of Linda ______ a form of synesthesia whereby the words she hears evoke tastes.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "experienced"
+            },
+            {
+              "label": "B",
+              "text": "had experienced"
+            },
+            {
+              "label": "C",
+              "text": "experiences"
+            },
+            {
+              "label": "D",
+              "text": "will be experiencing"
+            }
+          ],
+          "correct": "C",
+          "explanation": "The passage describes events in novels, using the literary present (connects, prepares, hears, evoke). The parallel verb for Linda must also be simple present: experiences. A and B are past forms; D is future progressive."
+        },
+        {
+          "number": "22",
+          "source": "Official Digital SAT 2, Module 2, Q20",
+          "passage": "In the 1950s, a man named Joseph McVicker was struggling to keep his business afloat when his sister-in-law Kay Zufall advised him to repurpose the company’s product, a nontoxic, clay-like substance for removing soot from wallpaper, as a modeling putty for kids. In addition, Zufall ______ selling the product under a child-friendly name: Play-Doh.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "suggested"
+            },
+            {
+              "label": "B",
+              "text": "suggests"
+            },
+            {
+              "label": "C",
+              "text": "had suggested"
+            },
+            {
+              "label": "D",
+              "text": "was suggesting"
+            }
+          ],
+          "correct": "A",
+          "explanation": "The story is told in the simple past (advised), and “In addition” adds another completed past action in the same sequence, so suggested keeps the tense consistent. Suggests shifts to the present; had suggested wrongly places it before the advice; was suggesting describes an ongoing background action."
+        },
+        {
+          "number": "23",
+          "source": "Practice item",
+          "passage": "In Chinua Achebe’s novel Things Fall Apart, Okonkwo works tirelessly to build his reputation in the village of Umuofia. After he accidentally kills a clansman, however, he ______ into exile for seven years.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "was sent"
+            },
+            {
+              "label": "B",
+              "text": "is sent"
+            },
+            {
+              "label": "C",
+              "text": "had been sent"
+            },
+            {
+              "label": "D",
+              "text": "will have been sent"
+            }
+          ],
+          "correct": "B",
+          "explanation": "The passage describes the plot of a novel in the literary present (works, kills), so the parallel verb must be present: is sent. A and C are past forms, and D is future perfect."
+        },
+        {
+          "number": "24",
+          "source": "Practice item",
+          "passage": "In 1953, Edmund Hillary and Tenzing Norgay became the first climbers confirmed to have reached the summit of Mount Everest. They ______ only about fifteen minutes at the top before beginning their long descent.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "spend"
+            },
+            {
+              "label": "B",
+              "text": "will spend"
+            },
+            {
+              "label": "C",
+              "text": "have spent"
+            },
+            {
+              "label": "D",
+              "text": "spent"
+            }
+          ],
+          "correct": "D",
+          "explanation": "The passage narrates a completed event in 1953 in the simple past (became), so the next event in the sequence takes the simple past spent. Spend and will spend shift the time, and have spent cannot be used for a finished past event."
+        },
+        {
+          "number": "25",
+          "source": "Practice item",
+          "passage": "William Shakespeare’s Hamlet opens on a cold night at Elsinore Castle, where guards see the ghost of the dead king. Later in the play, the ghost ______ Hamlet that it was his own uncle, Claudius, who murdered him.",
+          "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "told"
+            },
+            {
+              "label": "B",
+              "text": "had told"
+            },
+            {
+              "label": "C",
+              "text": "tells"
+            },
+            {
+              "label": "D",
+              "text": "will tell"
+            }
+          ],
+          "correct": "C",
+          "explanation": "The plot of a play is described in the literary present (opens, see), so the parallel verb must be tells. Told and had told switch to the past, and will tell switches to the future."
+        }
+      ]
+    }
+  ]
+}

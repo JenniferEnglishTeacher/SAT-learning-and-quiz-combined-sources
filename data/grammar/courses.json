@@ -1,0 +1,74 @@
+[
+  {
+    "slug": "grammar-handout-2",
+    "title": "Verbs, Agreement, Modifiers & Transitions",
+    "description": "A comprehensive rule-by-rule grammar course covering verb forms, tense, agreement, modifiers, pronouns, and transitions.",
+    "section_count": 7,
+    "question_count": 119,
+    "page": "grammar-handout-2.html"
+  },
+  {
+    "slug": "supplement-1b",
+    "title": "Punctuation Supplement 1B",
+    "description": "Conjunctive adverbs, participial phrases, complex lists, and additional official SAT practice.",
+    "section_count": 4,
+    "question_count": 26,
+    "page": "supplement-1b.html"
+  },
+  {
+    "slug": "quick-review",
+    "title": "SAT Grammar Quick Review Quiz",
+    "description": "A cumulative 45-question review across nine essential Digital SAT grammar skills.",
+    "section_count": 9,
+    "question_count": 45,
+    "page": "quick-review.html"
+  },
+  {
+    "slug": "verb-forms",
+    "title": "Verb Forms",
+    "description": "Finite verbs, relative clauses, participles, absolute phrases, infinitives, and parallel verb forms.",
+    "section_count": 6,
+    "question_count": 30,
+    "page": "verb-forms.html"
+  },
+  {
+    "slug": "verb-tense",
+    "title": "Verb Tense",
+    "description": "Present, past, past perfect, present perfect, and tense consistency on the Digital SAT.",
+    "section_count": 5,
+    "question_count": 25,
+    "page": "verb-tense.html"
+  },
+  {
+    "slug": "subject-verb-agreement",
+    "title": "Subject–Verb Agreement",
+    "description": "True subjects, interrupters, inverted sentences, relative clauses, and agreement with tense.",
+    "section_count": 6,
+    "question_count": 30,
+    "page": "subject-verb-agreement.html"
+  },
+  {
+    "slug": "pronouns-modifiers",
+    "title": "Pronouns & Modifiers",
+    "description": "Pronoun agreement, determiners, dangling modifiers, logical comparisons, and modifier placement.",
+    "section_count": 6,
+    "question_count": 30,
+    "page": "pronouns-modifiers.html"
+  },
+  {
+    "slug": "transitions-part-1",
+    "title": "Transitions Part 1",
+    "description": "Contrast, concession, addition, examples, specification, elaboration, and emphasis.",
+    "section_count": 6,
+    "question_count": 30,
+    "page": "transitions-part-1.html"
+  },
+  {
+    "slug": "transitions-part-2",
+    "title": "Transitions Part 2",
+    "description": "Cause and effect, inference, sequence, time, similarity, alternatives, purpose, and comment.",
+    "section_count": 6,
+    "question_count": 30,
+    "page": "transitions-part-2.html"
+  }
+]
