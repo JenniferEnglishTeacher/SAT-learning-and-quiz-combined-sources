@@ -9,5 +9,30 @@
         "derived_from": "diverge"
       }
     ]
+  },
+  "p1-17-extra": {
+    "n.": [
+      {
+        "word": "extraneousness",
+        "pos": "n.",
+        "defn_en": "the quality of being irrelevant, unnecessary, or unrelated:",
+        "defn_zh": "無關；多餘；外來性",
+        "derived_from": "extraneous"
+      },
+      {
+        "word": "extraordinariness",
+        "pos": "n.",
+        "defn_en": "the quality of being very unusual or remarkable:",
+        "defn_zh": "非凡；異常；卓越",
+        "derived_from": "extraordinary"
+      },
+      {
+        "word": "extravagance",
+        "pos": "n.",
+        "defn_en": "excessive spending or behavior that lacks restraint:",
+        "defn_zh": "奢侈；揮霍；過度",
+        "derived_from": "extravagant"
+      }
+    ]
   }
 }

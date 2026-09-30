@@ -4,7 +4,7 @@
     "total_batches": 235,
     "part1_part2_batches": 158,
     "unclassified_batches": 77,
-    "generated_batches": 29
+    "generated_batches": 30
   },
   "batches": [
     {
@@ -304,7 +304,7 @@
       "name": "extra",
       "subtitle": "超過",
       "count": 5,
-      "generated": false,
+      "generated": true,
       "search_terms": "extraneous extraordinary extraterrestrial extravagant extrovert"
     },
     {
