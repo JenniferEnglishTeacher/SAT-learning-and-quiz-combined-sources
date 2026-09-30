@@ -4,7 +4,7 @@
     "total_batches": 235,
     "part1_part2_batches": 158,
     "unclassified_batches": 77,
-    "generated_batches": 30
+    "generated_batches": 31
   },
   "batches": [
     {
@@ -314,7 +314,7 @@
       "name": "fore",
       "subtitle": "前面",
       "count": 4,
-      "generated": false,
+      "generated": true,
       "search_terms": "foreboding forecast forerunner foresee"
     },
     {
