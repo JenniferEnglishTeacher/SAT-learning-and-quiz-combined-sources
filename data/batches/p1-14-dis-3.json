@@ -1,0 +1,873 @@
+{
+  "id": "p1-14-dis-3",
+  "part": "part1",
+  "part_label": "Part 1 字首篇 (Prefixes)",
+  "name": "dis (3/3)",
+  "subtitle": "相反的",
+  "count": 19,
+  "words": [
+    {
+      "word": "dissonance",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "lack of harmony or consistency:",
+      "defn_zh": "不和諧/矛盾",
+      "root_note": "dis- (apart) + sonare (to sound)",
+      "sentences": [
+        {
+          "en": "There was a clear ______ between what she said and how she acted.",
+          "zh": "她的言語與行為之間存在著明顯的矛盾。"
+        },
+        {
+          "en": "The composer used deliberate ______ to create a sense of unease.",
+          "zh": "作曲家刻意運用不和諧音來營造不安的氛圍。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "14",
+        "spelling": "dis",
+        "meaning": "相反的"
+      }
+    },
+    {
+      "word": "dissonant",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "lacking harmony; discordant:",
+      "defn_zh": "不和諧的;刺耳的",
+      "root_note": "dis- (apart) + sonare (to sound), from Latin",
+      "sentences": [
+        {
+          "en": "The composer used ______ chords to create tension.",
+          "zh": "這位作曲家使用不和諧的和弦來營造張力。"
+        },
+        {
+          "en": "Their ______ opinions made compromise difficult.",
+          "zh": "他們不和諧的意見讓妥協變得困難。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "14",
+        "spelling": "dis",
+        "meaning": "相反的"
+      }
+    },
+    {
+      "word": "dissuade",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to persuade someone not to do something:",
+      "defn_zh": "勸阻",
+      "root_note": "dis- (against) + suadere (to urge)",
+      "sentences": [
+        {
+          "en": "Her parents tried to ______ her from quitting school.",
+          "zh": "她的父母試圖勸阻她不要休學。"
+        },
+        {
+          "en": "Nothing could ______ him from pursuing his dream of becoming a pilot.",
+          "zh": "沒有什麼能勸阻他追求成為飛行員的夢想。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "14",
+        "spelling": "dis",
+        "meaning": "相反的"
+      }
+    },
+    {
+      "word": "distain",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "an archaic spelling of disdain, meaning to regard with contempt:",
+      "defn_zh": "輕視;鄙視(disdain的古體)",
+      "root_note": "dis- (not) + dignari (to consider worthy), from Latin",
+      "sentences": [
+        {
+          "en": "The old text used ______ where modern writers would write disdain.",
+          "zh": "這篇古文使用了distain一詞,現代作家則會寫成disdain。"
+        },
+        {
+          "en": "He seemed to ______ any form of common labor.",
+          "zh": "他似乎鄙視任何形式的體力勞動。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "14",
+        "spelling": "dis",
+        "meaning": "相反的"
+      }
+    },
+    {
+      "word": "distend",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to swell out:",
+      "defn_zh": "膨脹/腫脹",
+      "root_note": "dis- (apart) + tendere (to stretch)",
+      "sentences": [
+        {
+          "en": "The starving child's stomach began to ______ from malnutrition.",
+          "zh": "這名飢餓的孩子因營養不良而腹部開始腫脹。"
+        },
+        {
+          "en": "The balloon continued to ______ until it finally burst.",
+          "zh": "這顆氣球持續膨脹,最終終於爆裂。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "14",
+        "spelling": "dis",
+        "meaning": "相反的"
+      }
+    },
+    {
+      "word": "distinct",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "clearly different or separate:",
+      "defn_zh": "截然不同的/獨特的",
+      "root_note": "dis- (apart) + stinguere (to prick)",
+      "sentences": [
+        {
+          "en": "My twin sons have ______ personalities.",
+          "zh": "我的雙胞胎兒子有著截然不同的個性。"
+        },
+        {
+          "en": "Each region of the country has its own ______ dialect.",
+          "zh": "這個國家的每個地區都有自己獨特的方言。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "14",
+        "spelling": "dis",
+        "meaning": "相反的"
+      }
+    },
+    {
+      "word": "distinguishable",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "able to be perceived as different:",
+      "defn_zh": "可區別的",
+      "root_note": "dis- (apart) + stinguere (to prick, mark), from Latin",
+      "sentences": [
+        {
+          "en": "The twins were barely ______ from one another.",
+          "zh": "這對雙胞胎幾乎難以彼此區別。"
+        },
+        {
+          "en": "Each species is ______ by its distinct call.",
+          "zh": "每個物種都能以其獨特的叫聲加以區別。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "14",
+        "spelling": "dis",
+        "meaning": "相反的"
+      }
+    },
+    {
+      "word": "distract",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to divert attention:",
+      "defn_zh": "使分心",
+      "root_note": "dis- (apart) + trahere (to draw)",
+      "sentences": [
+        {
+          "en": "The rattling noise ______ Javi from his work.",
+          "zh": "這陣嘎嘎作響的聲音讓哈維無法專心工作。"
+        },
+        {
+          "en": "Try not to let your phone ______ you during the exam.",
+          "zh": "考試時盡量別讓你的手機分散你的注意力。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "14",
+        "spelling": "dis",
+        "meaning": "相反的"
+      }
+    },
+    {
+      "word": "distressed",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "suffering from anxiety or pain:",
+      "defn_zh": "苦惱的/憂傷的",
+      "root_note": "dis- (apart) + stringere (to draw tight)",
+      "sentences": [
+        {
+          "en": "The woman looked ______ after the doctor's call.",
+          "zh": "接到醫生的電話後,這位女士看起來十分苦惱。"
+        },
+        {
+          "en": "He seemed genuinely ______ about losing his job.",
+          "zh": "他因失業而顯得真心感到憂傷不安。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "14",
+        "spelling": "dis",
+        "meaning": "相反的"
+      }
+    },
+    {
+      "word": "disturb",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to interrupt or interfere with; to worry:",
+      "defn_zh": "打擾;使不安",
+      "root_note": "dis- (apart) + turbare (to agitate), from Latin",
+      "sentences": [
+        {
+          "en": "Please do not ______ him while he is working.",
+          "zh": "他工作時請不要打擾他。"
+        },
+        {
+          "en": "The graphic images ______ ed many viewers.",
+          "zh": "這些血腥畫面讓許多觀眾感到不安。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "14",
+        "spelling": "dis",
+        "meaning": "相反的"
+      }
+    },
+    {
+      "word": "divagate",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to stray or digress from a topic:",
+      "defn_zh": "離題;漫遊",
+      "root_note": "dis- (apart) + vagari (to wander), from Latin",
+      "sentences": [
+        {
+          "en": "The speaker began to ______ into unrelated anecdotes.",
+          "zh": "這位講者開始離題,講起了不相干的軼事。"
+        },
+        {
+          "en": "Her essay tends to ______ before returning to the main point.",
+          "zh": "她的文章常常先離題,之後才回到主要論點。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "14",
+        "spelling": "dis",
+        "meaning": "相反的"
+      }
+    },
+    {
+      "word": "divagation",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a digression or wandering from the main topic:",
+      "defn_zh": "離題;岔題之言",
+      "root_note": "dis- (apart) + vagari (to wander), from Latin",
+      "sentences": [
+        {
+          "en": "The professor's lecture included several amusing ______ s.",
+          "zh": "這位教授的講座包含了好幾段有趣的離題插話。"
+        },
+        {
+          "en": "His memoir is full of charming ______ s about his travels.",
+          "zh": "他的回憶錄裡充滿了關於旅行、迷人的離題敘述。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "14",
+        "spelling": "dis",
+        "meaning": "相反的"
+      }
+    },
+    {
+      "word": "diverge",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to separate or move in different directions from a common point:",
+      "defn_zh": "分歧/分岔",
+      "root_note": "dis- (apart) + vergere (to bend)",
+      "sentences": [
+        {
+          "en": "The two paths ______ at the foot of the mountain, leading to different destinations.",
+          "zh": "這兩條小徑在山腳下分岔,通往不同的目的地。"
+        },
+        {
+          "en": "My parents' opinions on politics began to ______ as they grew older.",
+          "zh": "隨著年紀增長,我父母對政治的看法開始出現分歧。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "14",
+        "spelling": "dis",
+        "meaning": "相反的"
+      }
+    },
+    {
+      "word": "divergent",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "veering from a common point:",
+      "defn_zh": "分歧的/不同的",
+      "root_note": "dis- (apart) + vergere (to bend/turn)",
+      "sentences": [
+        {
+          "en": "The two scientists reached completely ______ conclusions from the same data.",
+          "zh": "這兩位科學家從同一組數據中得出了完全分歧的結論。"
+        },
+        {
+          "en": "Their ______ political views often led to heated dinner debates.",
+          "zh": "他們分歧的政治觀點經常引發激烈的餐桌辯論。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "14",
+        "spelling": "dis",
+        "meaning": "相反的"
+      }
+    },
+    {
+      "word": "diverse",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "showing a great deal of variety; very different from one another:",
+      "defn_zh": "多樣的/各異的",
+      "root_note": "dis- (apart) + vertere (to turn)",
+      "sentences": [
+        {
+          "en": "The class was made up of a ______ group of students from various cultural backgrounds.",
+          "zh": "這個班級由來自不同文化背景、多元豐富的學生組成。"
+        },
+        {
+          "en": "New York City has a ______ population.",
+          "zh": "紐約市擁有多元豐富的人口組成。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "14",
+        "spelling": "dis",
+        "meaning": "相反的"
+      }
+    },
+    {
+      "word": "diversity",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "variety:",
+      "defn_zh": "多樣性",
+      "root_note": "dis- (apart) + vertere (to turn)",
+      "sentences": [
+        {
+          "en": "The company values ______ in its hiring practices.",
+          "zh": "這家公司在招聘政策上重視多樣性。"
+        },
+        {
+          "en": "The festival celebrates the cultural ______ of the city.",
+          "zh": "這場慶典慶祝著這座城市的文化多樣性。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "14",
+        "spelling": "dis",
+        "meaning": "相反的"
+      }
+    },
+    {
+      "word": "divulge",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to disclose, reveal:",
+      "defn_zh": "洩露/暴露",
+      "root_note": "dis- (apart) + vulgus (common people)",
+      "sentences": [
+        {
+          "en": "She refused to ______ the identity of her source.",
+          "zh": "她拒絕透露她消息來源的身分。"
+        },
+        {
+          "en": "He accidentally ______d the surprise party plans to his sister.",
+          "zh": "他不小心向姊姊洩露了驚喜派對的計畫。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "14",
+        "spelling": "dis",
+        "meaning": "相反的"
+      }
+    },
+    {
+      "word": "indisputable",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "unable to be challenged or denied:",
+      "defn_zh": "無可爭議的",
+      "root_note": "in- (not) + dis- (apart) + putare (to think)",
+      "sentences": [
+        {
+          "en": "Because the evidence was ______, the lawyer was certain his client would go free.",
+          "zh": "由於證據確鑿無可爭議,律師確信他的當事人將獲得釋放。"
+        },
+        {
+          "en": "Her talent as a violinist is ______.",
+          "zh": "她身為小提琴家的才華是無可爭議的。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "14",
+        "spelling": "dis",
+        "meaning": "相反的"
+      }
+    },
+    {
+      "word": "indistinct",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "not clear or sharply defined:",
+      "defn_zh": "模糊不清的",
+      "root_note": "in- (not) + dis- (apart) + stinguere (to prick)",
+      "sentences": [
+        {
+          "en": "The figure in the distance was blurry and ______.",
+          "zh": "遠處的那個身影模糊不清,難以辨認。"
+        },
+        {
+          "en": "Through the thick fog, the outline of the building remained ______.",
+          "zh": "在濃霧之中,這棟建築的輪廓依然模糊不清。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "14",
+        "spelling": "dis",
+        "meaning": "相反的"
+      }
+    }
+  ],
+  "fallback_options": {
+    "v.": [
+      {
+        "word": "abound",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to exist in great numbers:",
+        "defn_zh": "充滿"
+      },
+      {
+        "word": "abrogate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to deprive of legal force, to nullify:=abolish",
+        "defn_zh": "廢除/取消"
+      },
+      {
+        "word": "abjure",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to renounce, abstain from:",
+        "defn_zh": "發誓放棄/棄絕"
+      },
+      {
+        "word": "abbreviate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to shorten a word or phrase:",
+        "defn_zh": "縮寫;縮短"
+      },
+      {
+        "word": "abdicate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to give up a position, usually one of leadership:",
+        "defn_zh": "退位/放棄(職位)"
+      },
+      {
+        "word": "abduct",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to kidnap, take by force:",
+        "defn_zh": "綁架/劫持"
+      },
+      {
+        "word": "abhor",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to regard with disgust and hatred:",
+        "defn_zh": "憎惡/厭惡"
+      },
+      {
+        "word": "abnegate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to deny or renounce:",
+        "defn_zh": "放棄/克制"
+      },
+      {
+        "word": "abolish",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to formally put an end to a system, practice, or institution:",
+        "defn_zh": "廢除"
+      },
+      {
+        "word": "abort",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to give up on a half-finished project or effort:",
+        "defn_zh": "中止/放棄"
+      },
+      {
+        "word": "abrade",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to scrape or wear away by friction:",
+        "defn_zh": "磨損;擦傷"
+      },
+      {
+        "word": "abscond",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to sneak away and hide:",
+        "defn_zh": "潛逃/逃匿"
+      }
+    ],
+    "adj.": [
+      {
+        "word": "abortive",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "fruitless, failing:",
+        "defn_zh": "失敗的/夭折的"
+      },
+      {
+        "word": "abstemious",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "moderate in eating or drinking:",
+        "defn_zh": "飲食有節制的"
+      },
+      {
+        "word": "abhorrent",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "detestable, despised:",
+        "defn_zh": "令人厭惡的"
+      },
+      {
+        "word": "absurd",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "ridiculous:",
+        "defn_zh": "荒謬的"
+      },
+      {
+        "word": "aberrant",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "deviating from what is normal or expected:",
+        "defn_zh": "異常的;脫軌的"
+      },
+      {
+        "word": "abject",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "wretched, pitiful:",
+        "defn_zh": "卑賤的/淒慘的"
+      },
+      {
+        "word": "abominable",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "causing moral revulsion; extremely unpleasant:",
+        "defn_zh": "可憎的;惡劣的"
+      },
+      {
+        "word": "abounding",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "existing in large numbers or amounts:",
+        "defn_zh": "大量存在的;豐富的"
+      },
+      {
+        "word": "abrasive",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "showing little concern for others; harsh:",
+        "defn_zh": "粗暴的/刺耳的"
+      },
+      {
+        "word": "abrupt",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "sudden or unexpected; brief and curt in manner:",
+        "defn_zh": "突然的/唐突的"
+      },
+      {
+        "word": "abstract",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "existing purely in the mind; not representing actual reality:",
+        "defn_zh": "抽象的"
+      },
+      {
+        "word": "abstruse",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "hard to comprehend:",
+        "defn_zh": "深奧難懂的"
+      }
+    ],
+    "n.": [
+      {
+        "word": "aversion",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "strong dislike, opposition:",
+        "defn_zh": "厭惡/反感"
+      },
+      {
+        "word": "aberration",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "something that differs from the norm:",
+        "defn_zh": "異常/脫軌"
+      },
+      {
+        "word": "abjection",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a state of complete misery, hopelessness, or degradation:",
+        "defn_zh": "卑賤;悲慘狀態"
+      },
+      {
+        "word": "abjuration",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the solemn renunciation of a belief, cause, or claim:",
+        "defn_zh": "公開放棄;誓絕"
+      },
+      {
+        "word": "ablution",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the act of washing oneself, especially as part of a religious ritual:",
+        "defn_zh": "沐浴;淨身儀式"
+      },
+      {
+        "word": "abnegation",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "denial of comfort to oneself:",
+        "defn_zh": "自我克制/放棄"
+      },
+      {
+        "word": "abomination",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "something that causes disgust or hatred:",
+        "defn_zh": "可憎之事;令人厭惡的東西"
+      },
+      {
+        "word": "abridgement",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a shortened version of a book or other written work:",
+        "defn_zh": "節略本;縮減版"
+      },
+      {
+        "word": "absolution",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "freedom from blame, guilt, sin:",
+        "defn_zh": "赦免/免罪"
+      },
+      {
+        "word": "abstemiousness",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "moderation or self-restraint, especially in eating and drinking:",
+        "defn_zh": "節制;克己"
+      },
+      {
+        "word": "abstinence",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the practice of restraining oneself from something enjoyable, especially food, alcohol, or sex:",
+        "defn_zh": "節制;戒絕"
+      },
+      {
+        "word": "avocation",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a hobby or minor occupation apart from one's main career:",
+        "defn_zh": "副業;業餘愛好"
+      }
+    ],
+    "adv.": [
+      {
+        "word": "accordingly",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in a manner that fits the circumstances; consequently:",
+        "defn_zh": "相應地;因此"
+      },
+      {
+        "word": "inadvertently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "unintentionally or by accident:",
+        "defn_zh": "無意間/不小心地"
+      },
+      {
+        "word": "consequently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "as a result; therefore:",
+        "defn_zh": "因此;結果"
+      },
+      {
+        "word": "contemptuously",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "without respect; in a disdainful manner:",
+        "defn_zh": "輕蔑地"
+      },
+      {
+        "word": "involuntarily",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "done without conscious control:",
+        "defn_zh": "不由自主地"
+      },
+      {
+        "word": "cordially",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in a warm or friendly manner:",
+        "defn_zh": "誠摯地/友好地"
+      },
+      {
+        "word": "ipso facto",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "by that very fact or act:",
+        "defn_zh": "事實上;因此"
+      },
+      {
+        "word": "en passant",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in passing; incidentally:",
+        "defn_zh": "順帶一提地;偶然地"
+      },
+      {
+        "word": "regardless",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "despite the prevailing circumstances; without being deterred:",
+        "defn_zh": "不管怎樣;儘管如此"
+      },
+      {
+        "word": "subsequently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "afterward; following in time or order:",
+        "defn_zh": "隨後;其後"
+      },
+      {
+        "word": "aside",
+        "pos": "adv./n.",
+        "pos_key": "adv.",
+        "defn_en": "to or on one side; a remark not meant to be heard by everyone:",
+        "defn_zh": "在旁邊;旁白"
+      },
+      {
+        "word": "vice versa",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "with the order or meaning reversed; conversely:",
+        "defn_zh": "反之亦然"
+      }
+    ],
+    "other": [
+      {
+        "word": "（此批單字中，暫無符合此字根/字首的單字）",
+        "pos": "",
+        "pos_key": "other",
+        "defn_en": "",
+        "defn_zh": ""
+      }
+    ],
+    "prep./adv.": [
+      {
+        "word": "besides",
+        "pos": "prep./adv.",
+        "pos_key": "prep./adv.",
+        "defn_en": "in addition to; furthermore:",
+        "defn_zh": "除...之外;此外"
+      }
+    ],
+    "phrasalv.": [
+      {
+        "word": "egg on",
+        "pos": "phrasal v.",
+        "pos_key": "phrasalv.",
+        "defn_en": "to encourage someone to do something, often risky:",
+        "defn_zh": "慫恿;鼓動"
+      }
+    ],
+    "abbr.": [
+      {
+        "word": "etc.",
+        "pos": "abbr.",
+        "pos_key": "abbr.",
+        "defn_en": "and other similar things (abbreviation of et cetera):",
+        "defn_zh": "等等(et cetera的縮寫)"
+      }
+    ],
+    "interj.": [
+      {
+        "word": "fiddledeedee",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "an exclamation expressing dismissal of something as nonsense:",
+        "defn_zh": "廢話!(表示不屑一顧)"
+      },
+      {
+        "word": "gesundheit",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "an expression said to someone who has just sneezed:",
+        "defn_zh": "保重(打噴嚏後的祝福語)"
+      }
+    ],
+    "prep.": [
+      {
+        "word": "via",
+        "pos": "prep.",
+        "pos_key": "prep.",
+        "defn_en": "by way of; passing through:",
+        "defn_zh": "經由;透過"
+      }
+    ]
+  }
+}
