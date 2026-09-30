@@ -4,7 +4,7 @@
     "total_batches": 235,
     "part1_part2_batches": 158,
     "unclassified_batches": 77,
-    "generated_batches": 20
+    "generated_batches": 21
   },
   "batches": [
     {
@@ -214,7 +214,7 @@
       "name": "dia",
       "subtitle": "穿越；居中",
       "count": 6,
-      "generated": false,
+      "generated": true,
       "search_terms": "diatribe diagnose diagnosis dialect dialogue diaphanous"
     },
     {
