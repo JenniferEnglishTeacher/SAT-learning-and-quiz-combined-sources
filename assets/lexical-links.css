@@ -45,3 +45,62 @@
 .reference-relations {
   margin: 0 0 .9rem;
 }
+
+.definition-link-help {
+  margin: -.2rem 0 .65rem;
+  color: #68777d;
+  font-size: .78rem;
+}
+
+.definition-option {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: .75rem;
+  cursor: pointer;
+}
+
+.definition-option:not(.locked):hover,
+.definition-option:not(.locked):focus-visible {
+  border-color: var(--ink2);
+  background: #f3f6f4;
+  outline: none;
+}
+
+.definition-option-text {
+  line-height: 1.5;
+}
+
+.definition-option-action {
+  flex: 0 0 auto;
+  border-radius: 999px;
+  padding: .25rem .55rem;
+  background: #edf1ef;
+  color: var(--ink2);
+  font-size: .72rem;
+  font-weight: 800;
+}
+
+.definition-option.locked {
+  cursor: default;
+}
+
+.definition-option.locked:hover {
+  border-color: #d7d5ce;
+  background: #fff;
+}
+
+.definition-option.locked.correct:hover {
+  border-color: var(--good);
+  background: #e1f2e9;
+}
+
+.definition-option.locked.wrong:hover {
+  border-color: var(--bad);
+  background: #f9e3df;
+}
+
+.definition-option.correct .definition-option-action,
+.definition-option.wrong .definition-option-action {
+  background: rgba(255, 255, 255, .65);
+}

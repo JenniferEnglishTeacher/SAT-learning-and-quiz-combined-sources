@@ -59,7 +59,7 @@ function dictionaryLink(term, label = term) {
   return `<a class="dictionary-link" href="${cambridgeUrl(term)}" target="_blank" rel="noopener noreferrer" title="Look up ${esc(term)} in Cambridge English–Traditional Chinese Dictionary">${esc(label)}</a>`;
 }
 
-function linkedDefinition(definition) {
+function linkedDefinition(definition, allWords = false) {
   const source = String(definition || '');
   const pattern = /[A-Za-z]+(?:['’-][A-Za-z]+)*/g;
   let output = '';
@@ -69,7 +69,7 @@ function linkedDefinition(definition) {
     output += esc(source.slice(cursor, match.index));
     const token = match[0];
     const normalized = token.toLocaleLowerCase();
-    output += token.length > 2 && !definitionStopWords.has(normalized) ? dictionaryLink(token) : esc(token);
+    output += allWords || (token.length > 2 && !definitionStopWords.has(normalized)) ? dictionaryLink(token) : esc(token);
     cursor = match.index + token.length;
     match = pattern.exec(source);
   }
@@ -218,13 +218,14 @@ function renderLearn() {
     const options = shuffle([word, ...candidates(word, 2)]);
     const card = document.createElement('article');
     card.className = 'word-card';
-    card.innerHTML = `<div class="word-card-header"><h3>${esc(word.word)} <span class="pos">${esc(word.pos)}</span></h3>${speaker(word.word, `Listen to ${word.word}`)}</div><p class="root-note"><strong>Root clue:</strong> ${esc(word.root_note || 'Use the word in context.')}</p><div class="sentences">${word.sentences.map(sentence => { const text = full(sentence.en, word.word); return `<div class="sentence">${speaker(text, 'Listen to example sentence')}<span>${esc(text)}</span></div>`; }).join('')}</div><p class="definition-prompt">Which definition matches this word?</p><div class="option-list">${options.map(option => `<button class="option-button" type="button" data-definition="${encodeURIComponent(option.defn_en)}">${esc(option.defn_en)}</button>`).join('')}</div><div class="reveal" hidden><p><strong>English definition:</strong> <span class="linked-definition">${linkedDefinition(word.defn_en)}</span></p><p class="dictionary-help">Click any underlined content word to open Cambridge English–Traditional Chinese Dictionary.</p><div class="word-relations" data-word-relations><p class="relation-status">Loading synonyms and antonyms…</p></div><p class="meaning-zh"><strong>繁體中文：</strong> ${esc(word.defn_zh)}</p>${word.sentences.map(sentence => `<p><strong>翻譯：</strong> ${esc(sentence.zh)}</p>`).join('')}</div>`;
-    card.querySelectorAll('[data-definition]').forEach(button => button.addEventListener('click', () => {
+    card.innerHTML = `<div class="word-card-header"><h3>${esc(word.word)} <span class="pos">${esc(word.pos)}</span></h3>${speaker(word.word, `Listen to ${word.word}`)}</div><p class="root-note"><strong>Root clue:</strong> ${esc(word.root_note || 'Use the word in context.')}</p><div class="sentences">${word.sentences.map(sentence => { const text = full(sentence.en, word.word); return `<div class="sentence">${speaker(text, 'Listen to example sentence')}<span>${esc(text)}</span></div>`; }).join('')}</div><p class="definition-prompt">Which definition matches this word?</p><p class="definition-link-help">Click a definition card to answer, or click any underlined word to look it up.</p><div class="option-list">${options.map(option => `<div class="option-button definition-option" role="button" tabindex="0" data-definition="${encodeURIComponent(option.defn_en)}"><span class="definition-option-text">${linkedDefinition(option.defn_en, true)}</span><span class="definition-option-action" aria-hidden="true">Choose</span></div>`).join('')}</div><div class="reveal" hidden><p><strong>English definition:</strong> <span class="linked-definition">${linkedDefinition(word.defn_en)}</span></p><p class="dictionary-help">Click any underlined content word to open Cambridge English–Traditional Chinese Dictionary.</p><div class="word-relations" data-word-relations><p class="relation-status">Loading synonyms and antonyms…</p></div><p class="meaning-zh"><strong>繁體中文：</strong> ${esc(word.defn_zh)}</p>${word.sentences.map(sentence => `<p><strong>翻譯：</strong> ${esc(sentence.zh)}</p>`).join('')}</div>`;
+    const answerDefinition = button => {
       if (card.dataset.answered) return;
       card.dataset.answered = 'true';
       const correct = decodeURIComponent(button.dataset.definition) === word.defn_en;
       card.querySelectorAll('[data-definition]').forEach(option => {
-        option.disabled = true;
+        option.classList.add('locked');
+        option.tabIndex = -1;
         if (decodeURIComponent(option.dataset.definition) === word.defn_en) option.classList.add('correct');
       });
       if (!correct) button.classList.add('wrong');
@@ -233,7 +234,18 @@ function renderLearn() {
       loadWordRelations(word.word, word.pos_key, word.defn_en, reveal.querySelector('[data-word-relations]'));
       learned += 1;
       updateProgress();
-    }));
+    };
+    card.querySelectorAll('[data-definition]').forEach(button => {
+      button.addEventListener('click', event => {
+        if (event.target.closest('.dictionary-link')) return;
+        answerDefinition(button);
+      });
+      button.addEventListener('keydown', event => {
+        if (event.target !== button || !['Enter', ' '].includes(event.key)) return;
+        event.preventDefault();
+        answerDefinition(button);
+      });
+    });
     grid.append(card);
   });
 }
