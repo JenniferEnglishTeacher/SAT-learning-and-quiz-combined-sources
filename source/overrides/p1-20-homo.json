@@ -1,0 +1,154 @@
+{
+  "id": "p1-20-homo",
+  "name": "homo",
+  "subtitle": "相同；同類",
+  "words": [
+    {
+      "word": "homogeneous",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "made up of people or things that are all of the same type:",
+      "defn_zh": "同質的；同類的",
+      "synonyms": ["uniform", "identical", "consistent"],
+      "antonyms": ["heterogeneous", "diverse", "varied"],
+      "root_note": "homo- (same) + geneous (kind or type)",
+      "sentences": [
+        {
+          "en": "The small village has a ______ population, where almost everyone shares the same cultural background.",
+          "zh": "這座小村莊擁有同質性很高的人口結構，幾乎每個人都有著相同的文化背景。"
+        },
+        {
+          "en": "After stirring thoroughly, the milk and water became a ______ mixture.",
+          "zh": "徹底攪拌後，牛奶和水變成了一種均勻的混合物。"
+        }
+      ],
+      "category": {"part": 1, "num": "20", "spelling": "homo", "meaning": "相同；同類"}
+    },
+    {
+      "word": "homologous",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "having the same relation, relative position, or structure, especially in biology and anatomy:",
+      "defn_zh": "同源的；對應的",
+      "synonyms": ["equivalent", "corresponding", "matching"],
+      "antonyms": ["analogous", "heterologous", "disparate"],
+      "root_note": "homo- (same) + logous (relation or correspondence)",
+      "sentences": [
+        {
+          "en": "The arm of a human and the wing of a bat are ______ structures because they share a common evolutionary origin.",
+          "zh": "人類的手臂和蝙蝠的翅膀是同源結構，因為它們擁有共同的演化起源。"
+        },
+        {
+          "en": "During cell division, ______ chromosomes pair up to exchange genetic material.",
+          "zh": "在細胞分裂過程中，同源染色體會配對以交換遺傳物質。"
+        }
+      ],
+      "category": {"part": 1, "num": "20", "spelling": "homo", "meaning": "相同；同類"}
+    },
+    {
+      "word": "homonym",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a word spelled or pronounced like another word but having a different meaning:",
+      "defn_zh": "同音異義字；同形異義字",
+      "synonyms": ["homophone", "homograph"],
+      "antonyms": ["antonym"],
+      "root_note": "homo- (same) + onym (name or word)",
+      "sentences": [
+        {
+          "en": "The word 'fair' is a classic ______ because it can mean beautiful, just, or a festival.",
+          "zh": "Fair 這個字是一個經典的同形異義字，因為它可以代表美麗的、公平的，或是市集。"
+        },
+        {
+          "en": "Using a ______ in speech without context can easily lead to a misunderstanding.",
+          "zh": "在說話時使用同音異義字若缺乏上下文，很容易會導致誤解。"
+        }
+      ],
+      "category": {"part": 1, "num": "20", "spelling": "homo", "meaning": "相同；同類"}
+    },
+    {
+      "word": "homocentric",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "having the same center, especially when describing circles or spheres:",
+      "defn_zh": "同心的；同中心的",
+      "synonyms": ["concentric", "coaxial"],
+      "antonyms": ["eccentric", "divergent"],
+      "root_note": "homo- (same) + centric (centered)",
+      "sentences": [
+        {
+          "en": "The target poster features a series of ______ circles rippling outward from the bullseye.",
+          "zh": "這張靶心海報的特點是一系列從中心點向外擴散的同心圓。"
+        },
+        {
+          "en": "Ancient philosophers wrongly believed the universe was made of ______ spheres rotating around the Earth.",
+          "zh": "古代哲學家錯誤地認為宇宙是由圍繞地球旋轉的同心球體所組成的。"
+        }
+      ],
+      "category": {"part": 1, "num": "20", "spelling": "homo", "meaning": "相同；同類"}
+    },
+    {
+      "word": "homomorphic",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "having a similar or identical form or structure even when origins or functions differ:",
+      "defn_zh": "同形的；同態的",
+      "synonyms": ["similar", "uniform", "isomorphic"],
+      "antonyms": ["heteromorphic", "polymorphic", "diverse"],
+      "root_note": "homo- (same) + morphic (form or shape)",
+      "sentences": [
+        {
+          "en": "Although they belong to entirely different families, these two desert plants are ______ due to environmental adaptation.",
+          "zh": "儘管它們屬於完全不同的科別，但這兩種沙漠植物因為環境適應而顯得外形相似。"
+        },
+        {
+          "en": "The developer created a function to ensure the old dataset was ______ with the new system's structure.",
+          "zh": "開發人員建立了一個函數，以確保舊的數據集與新系統的結構保持同態（格式一致）。"
+        }
+      ],
+      "category": {"part": 1, "num": "20", "spelling": "homo", "meaning": "相同；同類"}
+    },
+    {
+      "word": "homogamy",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "marriage or mating between people who are culturally, educationally, or socially similar:",
+      "defn_zh": "同質婚配；同類嫁娶",
+      "synonyms": ["similarity mating", "assortative mating"],
+      "antonyms": ["heterogamy", "intermarriage", "exogamy"],
+      "root_note": "homo- (same) + gamy (marriage or union)",
+      "sentences": [
+        {
+          "en": "Statistics show that educational ______ is on the rise, as university graduates increasingly marry other university graduates.",
+          "zh": "統計數據顯示，學歷的同質婚配正在上升，因為大學畢業生越來越多與其他大學畢業生結婚。"
+        },
+        {
+          "en": "In many ancient cultures, social ______ was strictly enforced to keep wealth within the upper class.",
+          "zh": "在許多古代文化中，階級的同類婚配被嚴格執行，以將財富保留在精英階層中。"
+        }
+      ],
+      "category": {"part": 1, "num": "20", "spelling": "homo", "meaning": "相同；同類"}
+    },
+    {
+      "word": "homogenize",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to change something so that all its parts become even, uniform, or the same:",
+      "defn_zh": "使均勻；使同質化",
+      "synonyms": ["standardize", "equalize", "blend"],
+      "antonyms": ["diversify", "separate", "differentiate"],
+      "root_note": "homo- (same) + gen (kind) + -ize (make)",
+      "sentences": [
+        {
+          "en": "Dairy factories ______ milk so that the cream does not separate and float to the top.",
+          "zh": "乳製品工廠將牛奶進行均質化處理，這樣乳脂就不會分離並浮到表面。"
+        },
+        {
+          "en": "Critics argue that global fast-food chains tend to ______ local food cultures around the world.",
+          "zh": "評論家認為，全球連鎖速食店往往會使世界各地的在地飲食文化趨向單一化（同質化）。"
+        }
+      ],
+      "category": {"part": 1, "num": "20", "spelling": "homo", "meaning": "相同；同類"}
+    }
+  ]
+}

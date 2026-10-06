@@ -102,5 +102,30 @@
         "derived_from": "hemianopia"
       }
     ]
+  },
+  "p1-20-homo": {
+    "n.": [
+      {
+        "word": "homogeneity",
+        "pos": "n.",
+        "defn_en": "the quality or state of being all the same or of the same type:",
+        "defn_zh": "同質性；均一性",
+        "derived_from": "homogeneous"
+      },
+      {
+        "word": "homology",
+        "pos": "n.",
+        "defn_en": "similarity in position or structure because of common origin:",
+        "defn_zh": "同源性；對應關係",
+        "derived_from": "homologous"
+      },
+      {
+        "word": "homomorphism",
+        "pos": "n.",
+        "defn_en": "a structure-preserving correspondence between two systems:",
+        "defn_zh": "同態；同形映射",
+        "derived_from": "homomorphic"
+      }
+    ]
   }
 }
