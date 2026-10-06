@@ -1,0 +1,783 @@
+{
+  "id": "p1-30-mini",
+  "part": "part1",
+  "part_label": "Part 1 字首篇 (Prefixes)",
+  "name": "mini",
+  "subtitle": "小；極小；縮小",
+  "count": 10,
+  "words": [
+    {
+      "word": "minimalist",
+      "pos": "adj. / n.",
+      "pos_key": "adj.",
+      "defn_en": "using or being satisfied with the smallest amount or the simplest elements possible:",
+      "defn_zh": "極簡主義的；極簡主義者",
+      "synonyms": [
+        "austere",
+        "understated",
+        "simple"
+      ],
+      "antonyms": [
+        "maximalist",
+        "extravagant",
+        "ornate"
+      ],
+      "root_note": "mini- (small) + -alist (person or style associated with a principle)",
+      "sentences": [
+        {
+          "en": "The apartment featured a ______ design, with only a sleek grey sofa and a bare wooden coffee table in the living room.",
+          "zh": "這間公寓採用了極簡主義的設計，客廳裡只有一張流線型灰色沙發和一張原木咖啡桌。"
+        },
+        {
+          "en": "By adopting a ______ lifestyle, she cleared the clutter from her home and focused on experiences rather than possessions.",
+          "zh": "藉由過著極簡的生活方式，她清除了家中的雜物，將重心放在生活體驗而非物質擁有上。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "30",
+        "spelling": "mini",
+        "meaning": "小；極小；縮小"
+      }
+    },
+    {
+      "word": "minutiae",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "precise, small, or trivial details:",
+      "defn_zh": "微小細節；細枝末節",
+      "synonyms": [
+        "trifles",
+        "trivia",
+        "technicalities"
+      ],
+      "antonyms": [
+        "core",
+        "big picture",
+        "essence"
+      ],
+      "root_note": "minut- (small) + -iae (Latin plural ending)",
+      "sentences": [
+        {
+          "en": "The attorney spent hours scanning the ______ of the contract to ensure there were no hidden legal traps for her client.",
+          "zh": "律師花費數小時審查合約的微小細節，以確保沒有任何會陷害客戶的隱藏法律漏洞。"
+        },
+        {
+          "en": "An effective CEO must focus on long-term strategy instead of getting lost in the daily ______ of office administration.",
+          "zh": "一位有效率的執行長必須專注於長期策略，而不是迷失在日常行政的細枝末節中。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "30",
+        "spelling": "mini",
+        "meaning": "小；極小；縮小"
+      }
+    },
+    {
+      "word": "minify",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to make something smaller or to reduce its apparent importance, size, or complexity:",
+      "defn_zh": "使變小；貶低；縮小；精簡",
+      "synonyms": [
+        "diminish",
+        "minimize",
+        "belittle"
+      ],
+      "antonyms": [
+        "magnify",
+        "aggrandize",
+        "enlarge"
+      ],
+      "root_note": "mini- (small) + -fy (make)",
+      "sentences": [
+        {
+          "en": "In his modesty, the scientist would often ______ his own contributions to the historic medical discovery.",
+          "zh": "出於謙遜，這位科學家經常會看輕自己對這項歷史性醫學發現的貢獻。"
+        },
+        {
+          "en": "The software engineer used a tool to ______ the website's source code, removing extra spaces so the page would load faster.",
+          "zh": "軟體工程師使用工具來精簡網站的原始碼，刪除多餘的空格以使網頁載入更快。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "30",
+        "spelling": "mini",
+        "meaning": "小；極小；縮小"
+      }
+    },
+    {
+      "word": "minion",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a follower or servant of a powerful person who is treated as unimportant and simply obeys orders:",
+      "defn_zh": "爪牙；奴才；僕從",
+      "synonyms": [
+        "underling",
+        "henchman",
+        "subordinate"
+      ],
+      "antonyms": [
+        "leader",
+        "master",
+        "boss"
+      ],
+      "root_note": "minion (a subordinate or favored servant; historically from French mignon)",
+      "sentences": [
+        {
+          "en": "The villain rarely fought his own battles, choosing instead to send a loyal ______ to do his bidding.",
+          "zh": "小說中的反派很少親自上陣，而是選擇派遣一名忠誠的爪牙去執行他的命令。"
+        },
+        {
+          "en": "The autocratic manager expected every employee to act like a silent ______ who never questioned his authority.",
+          "zh": "這位獨裁的經理期望每位員工都像沉默的下屬一樣，永遠不要質疑他的權威。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "30",
+        "spelling": "mini",
+        "meaning": "小；極小；縮小"
+      }
+    },
+    {
+      "word": "minuscule",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "extremely small, tiny, or insignificant:",
+      "defn_zh": "微小的；微不足道的",
+      "synonyms": [
+        "infinitesimal",
+        "microscopic",
+        "diminutive"
+      ],
+      "antonyms": [
+        "massive",
+        "immense",
+        "gargantuan"
+      ],
+      "root_note": "minus (smaller) + -cule (small-forming suffix)",
+      "sentences": [
+        {
+          "en": "Although the transaction fee seemed ______ at first glance, it added up to thousands of dollars over the year.",
+          "zh": "儘管交易手續費乍看之下微不足道，但一年下來卻累積到了數千美元。"
+        },
+        {
+          "en": "The laboratory filter could remove even the most ______ particles of dust from the chemical solution.",
+          "zh": "實驗室的過濾器甚至能夠清除化學溶液中最微小的灰塵顆粒。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "30",
+        "spelling": "mini",
+        "meaning": "小；極小；縮小"
+      }
+    },
+    {
+      "word": "miniature",
+      "pos": "adj. / n.",
+      "pos_key": "adj.",
+      "defn_en": "very small or representing a much larger object in greatly reduced form:",
+      "defn_zh": "微型的；袖珍的；縮小模型",
+      "synonyms": [
+        "pocket-sized",
+        "scaled-down",
+        "dwarf"
+      ],
+      "antonyms": [
+        "giant",
+        "oversized",
+        "macro"
+      ],
+      "root_note": "mini- (small) + -ature (result or form)",
+      "sentences": [
+        {
+          "en": "Before constructing the skyscraper, the architecture firm built a beautiful ______ model out of plastic and glass.",
+          "zh": "在建造摩天大樓之前，建築事務所用塑膠和玻璃製作了一個精美的微型模型。"
+        },
+        {
+          "en": "He spends his weekends painting ______ figures of historical soldiers for a tabletop war game.",
+          "zh": "他週末都在為桌上戰爭遊戲粉刷歷史士兵的袖珍公仔。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "30",
+        "spelling": "mini",
+        "meaning": "小；極小；縮小"
+      }
+    },
+    {
+      "word": "minim",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a very small amount, a former liquid measure equal to about one drop, or a half note in music:",
+      "defn_zh": "微量；一滴；二分音符",
+      "synonyms": [
+        "drop",
+        "speck",
+        "particle"
+      ],
+      "antonyms": [
+        "flood",
+        "excess",
+        "abundance"
+      ],
+      "root_note": "minim- (smallest or least)",
+      "sentences": [
+        {
+          "en": "The pharmacist carefully added a single ______ of the potent chemical to the cough syrup mixture.",
+          "zh": "藥劑師小心翼翼地將一滴這種強效化學物質加入止咳糖漿混合物中。"
+        },
+        {
+          "en": "The speaker argued that not even a ______ of kindness is ever truly wasted in this world.",
+          "zh": "演講者主張，在這個世界上，哪怕一絲一毫的善意都絕不會被真正浪費。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "30",
+        "spelling": "mini",
+        "meaning": "小；極小；縮小"
+      }
+    },
+    {
+      "word": "minimization",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "the act of reducing something to the smallest possible amount or degree:",
+      "defn_zh": "最小化；減到最低限度",
+      "synonyms": [
+        "reduction",
+        "abatement",
+        "curtailment"
+      ],
+      "antonyms": [
+        "maximization",
+        "expansion",
+        "intensification"
+      ],
+      "root_note": "minim- (smallest) + -ization (process of making)",
+      "sentences": [
+        {
+          "en": "The primary goal of the new factory safety guidelines is the ______ of workplace injuries.",
+          "zh": "新工廠安全指南的首要目標是將職場受傷機率降到最低。"
+        },
+        {
+          "en": "The accountant recommended legal strategies for the ______ of the corporation's annual tax liabilities.",
+          "zh": "會計師提出了合法策略，以最大程度地減少該公司的年度稅務負擔。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "30",
+        "spelling": "mini",
+        "meaning": "小；極小；縮小"
+      }
+    },
+    {
+      "word": "minibike",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a small, low-powered motorcycle:",
+      "defn_zh": "微型摩托車；迷你機車",
+      "synonyms": [
+        "pocket bike",
+        "small scooter"
+      ],
+      "antonyms": [
+        "heavy motorcycle",
+        "chopper"
+      ],
+      "root_note": "mini- (small) + bike (motorcycle)",
+      "sentences": [
+        {
+          "en": "He saved his allowance all summer to buy a gas-powered ______ to ride around the dirt tracks behind his house.",
+          "zh": "他整個夏天都在存零用錢，就為了買一台燃油的微型摩托車，在屋後的泥土跑道上騎乘。"
+        },
+        {
+          "en": "The park ranger reminded the teenagers that riding a ______ on pedestrian trails was strictly prohibited.",
+          "zh": "公園巡邏員提醒青少年們，嚴禁在行人步道上騎乘迷你機車。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "30",
+        "spelling": "mini",
+        "meaning": "小；極小；縮小"
+      }
+    },
+    {
+      "word": "miniseries",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a television drama that tells a complete story in a small predetermined number of episodes:",
+      "defn_zh": "迷你影集；電視短劇",
+      "synonyms": [
+        "limited series",
+        "short show"
+      ],
+      "antonyms": [
+        "ongoing series",
+        "long-running soap opera"
+      ],
+      "root_note": "mini- (small or short) + series (sequence of episodes)",
+      "sentences": [
+        {
+          "en": "The historical drama was produced as a five-part ______, allowing the director to tell a complete story without dragging it out for years.",
+          "zh": "這部歷史劇被製作成一部只有五集的迷你影集，讓導演能夠講述完整的故事，而不用拖延好幾年。"
+        },
+        {
+          "en": "Instead of committing to a show with ten seasons, they decided to binge-watch a gripping crime ______ over the weekend.",
+          "zh": "與其花時間看一部有十季的節目，他們決定在週末一口氣看完一部扣人心弦的犯罪迷你影集。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "30",
+        "spelling": "mini",
+        "meaning": "小；極小；縮小"
+      }
+    }
+  ],
+  "family_options": {
+    "adj.": [
+      {
+        "word": "minimal",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "very small in amount or as limited as possible:",
+        "defn_zh": "最少的；最低限度的",
+        "derived_from": "minimalist"
+      }
+    ],
+    "v.": [
+      {
+        "word": "minimize",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to reduce something to the smallest possible amount or degree:",
+        "defn_zh": "使最小化；減至最低",
+        "derived_from": "minimization"
+      },
+      {
+        "word": "miniaturize",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to make something in a much smaller form:",
+        "defn_zh": "使微型化；縮小",
+        "derived_from": "miniature"
+      }
+    ]
+  },
+  "fallback_options": {
+    "v.": [
+      {
+        "word": "abound",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to exist in great numbers:",
+        "defn_zh": "充滿"
+      },
+      {
+        "word": "abrogate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to deprive of legal force, to nullify:=abolish",
+        "defn_zh": "廢除/取消"
+      },
+      {
+        "word": "abjure",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to renounce, abstain from:",
+        "defn_zh": "發誓放棄/棄絕"
+      },
+      {
+        "word": "abbreviate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to shorten a word or phrase:",
+        "defn_zh": "縮寫;縮短"
+      },
+      {
+        "word": "abdicate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to give up a position, usually one of leadership:",
+        "defn_zh": "退位/放棄(職位)"
+      },
+      {
+        "word": "abduct",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to kidnap, take by force:",
+        "defn_zh": "綁架/劫持"
+      },
+      {
+        "word": "abhor",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to regard with disgust and hatred:",
+        "defn_zh": "憎惡/厭惡"
+      },
+      {
+        "word": "abnegate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to deny or renounce:",
+        "defn_zh": "放棄/克制"
+      },
+      {
+        "word": "abolish",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to formally put an end to a system, practice, or institution:",
+        "defn_zh": "廢除"
+      },
+      {
+        "word": "abort",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to give up on a half-finished project or effort:",
+        "defn_zh": "中止/放棄"
+      },
+      {
+        "word": "abrade",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to scrape or wear away by friction:",
+        "defn_zh": "磨損;擦傷"
+      },
+      {
+        "word": "abscond",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to sneak away and hide:",
+        "defn_zh": "潛逃/逃匿"
+      }
+    ],
+    "adj.": [
+      {
+        "word": "abortive",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "fruitless, failing:",
+        "defn_zh": "失敗的/夭折的"
+      },
+      {
+        "word": "abstemious",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "moderate in eating or drinking:",
+        "defn_zh": "飲食有節制的"
+      },
+      {
+        "word": "abhorrent",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "detestable, despised:",
+        "defn_zh": "令人厭惡的"
+      },
+      {
+        "word": "absurd",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "ridiculous:",
+        "defn_zh": "荒謬的"
+      },
+      {
+        "word": "aberrant",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "deviating from what is normal or expected:",
+        "defn_zh": "異常的;脫軌的"
+      },
+      {
+        "word": "abject",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "wretched, pitiful:",
+        "defn_zh": "卑賤的/淒慘的"
+      },
+      {
+        "word": "abominable",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "causing moral revulsion; extremely unpleasant:",
+        "defn_zh": "可憎的;惡劣的"
+      },
+      {
+        "word": "abounding",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "existing in large numbers or amounts:",
+        "defn_zh": "大量存在的;豐富的"
+      },
+      {
+        "word": "abrasive",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "showing little concern for others; harsh:",
+        "defn_zh": "粗暴的/刺耳的"
+      },
+      {
+        "word": "abrupt",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "sudden or unexpected; brief and curt in manner:",
+        "defn_zh": "突然的/唐突的"
+      },
+      {
+        "word": "abstract",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "existing purely in the mind; not representing actual reality:",
+        "defn_zh": "抽象的"
+      },
+      {
+        "word": "abstruse",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "hard to comprehend:",
+        "defn_zh": "深奧難懂的"
+      }
+    ],
+    "n.": [
+      {
+        "word": "aversion",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "strong dislike, opposition:",
+        "defn_zh": "厭惡/反感"
+      },
+      {
+        "word": "aberration",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "something that differs from the norm:",
+        "defn_zh": "異常/脫軌"
+      },
+      {
+        "word": "abjection",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a state of complete misery, hopelessness, or degradation:",
+        "defn_zh": "卑賤;悲慘狀態"
+      },
+      {
+        "word": "abjuration",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the solemn renunciation of a belief, cause, or claim:",
+        "defn_zh": "公開放棄;誓絕"
+      },
+      {
+        "word": "ablution",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the act of washing oneself, especially as part of a religious ritual:",
+        "defn_zh": "沐浴;淨身儀式"
+      },
+      {
+        "word": "abnegation",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "denial of comfort to oneself:",
+        "defn_zh": "自我克制/放棄"
+      },
+      {
+        "word": "abomination",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "something that causes disgust or hatred:",
+        "defn_zh": "可憎之事;令人厭惡的東西"
+      },
+      {
+        "word": "abridgement",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a shortened version of a book or other written work:",
+        "defn_zh": "節略本;縮減版"
+      },
+      {
+        "word": "absolution",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "freedom from blame, guilt, sin:",
+        "defn_zh": "赦免/免罪"
+      },
+      {
+        "word": "abstemiousness",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "moderation or self-restraint, especially in eating and drinking:",
+        "defn_zh": "節制;克己"
+      },
+      {
+        "word": "abstinence",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the practice of restraining oneself from something enjoyable, especially food, alcohol, or sex:",
+        "defn_zh": "節制;戒絕"
+      },
+      {
+        "word": "avocation",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a hobby or minor occupation apart from one's main career:",
+        "defn_zh": "副業;業餘愛好"
+      }
+    ],
+    "adv.": [
+      {
+        "word": "accordingly",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in a manner that fits the circumstances; consequently:",
+        "defn_zh": "相應地;因此"
+      },
+      {
+        "word": "inadvertently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "unintentionally or by accident:",
+        "defn_zh": "無意間/不小心地"
+      },
+      {
+        "word": "consequently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "as a result; therefore:",
+        "defn_zh": "因此;結果"
+      },
+      {
+        "word": "contemptuously",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "without respect; in a disdainful manner:",
+        "defn_zh": "輕蔑地"
+      },
+      {
+        "word": "involuntarily",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "done without conscious control:",
+        "defn_zh": "不由自主地"
+      },
+      {
+        "word": "cordially",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in a warm or friendly manner:",
+        "defn_zh": "誠摯地/友好地"
+      },
+      {
+        "word": "ipso facto",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "by that very fact or act:",
+        "defn_zh": "事實上;因此"
+      },
+      {
+        "word": "en passant",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in passing; incidentally:",
+        "defn_zh": "順帶一提地;偶然地"
+      },
+      {
+        "word": "regardless",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "despite the prevailing circumstances; without being deterred:",
+        "defn_zh": "不管怎樣;儘管如此"
+      },
+      {
+        "word": "subsequently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "afterward; following in time or order:",
+        "defn_zh": "隨後;其後"
+      },
+      {
+        "word": "aside",
+        "pos": "adv./n.",
+        "pos_key": "adv.",
+        "defn_en": "to or on one side; a remark not meant to be heard by everyone:",
+        "defn_zh": "在旁邊;旁白"
+      },
+      {
+        "word": "vice versa",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "with the order or meaning reversed; conversely:",
+        "defn_zh": "反之亦然"
+      }
+    ],
+    "other": [
+      {
+        "word": "（此批單字中，暫無符合此字根/字首的單字）",
+        "pos": "",
+        "pos_key": "other",
+        "defn_en": "",
+        "defn_zh": ""
+      }
+    ],
+    "prep./adv.": [
+      {
+        "word": "besides",
+        "pos": "prep./adv.",
+        "pos_key": "prep./adv.",
+        "defn_en": "in addition to; furthermore:",
+        "defn_zh": "除...之外;此外"
+      }
+    ],
+    "phrasalv.": [
+      {
+        "word": "egg on",
+        "pos": "phrasal v.",
+        "pos_key": "phrasalv.",
+        "defn_en": "to encourage someone to do something, often risky:",
+        "defn_zh": "慫恿;鼓動"
+      }
+    ],
+    "abbr.": [
+      {
+        "word": "etc.",
+        "pos": "abbr.",
+        "pos_key": "abbr.",
+        "defn_en": "and other similar things (abbreviation of et cetera):",
+        "defn_zh": "等等(et cetera的縮寫)"
+      }
+    ],
+    "interj.": [
+      {
+        "word": "fiddledeedee",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "an exclamation expressing dismissal of something as nonsense:",
+        "defn_zh": "廢話!(表示不屑一顧)"
+      },
+      {
+        "word": "gesundheit",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "an expression said to someone who has just sneezed:",
+        "defn_zh": "保重(打噴嚏後的祝福語)"
+      }
+    ],
+    "prep.": [
+      {
+        "word": "via",
+        "pos": "prep.",
+        "pos_key": "prep.",
+        "defn_en": "by way of; passing through:",
+        "defn_zh": "經由;透過"
+      }
+    ]
+  }
+}

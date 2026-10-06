@@ -4,7 +4,7 @@
     "total_batches": 235,
     "part1_part2_batches": 158,
     "unclassified_batches": 77,
-    "generated_batches": 36
+    "generated_batches": 37
   },
   "batches": [
     {
@@ -492,10 +492,10 @@
       "part": "part1",
       "part_label": "Part 1 字首篇 (Prefixes)",
       "name": "mini",
-      "subtitle": "小",
-      "count": 1,
-      "generated": false,
-      "search_terms": "（此批單字中，暫無符合此字根/字首的單字）"
+      "subtitle": "小；極小；縮小",
+      "count": 10,
+      "generated": true,
+      "search_terms": "minimalist minutiae minify minion minuscule miniature minim minimization minibike miniseries"
     },
     {
       "id": "p1-31-mis",

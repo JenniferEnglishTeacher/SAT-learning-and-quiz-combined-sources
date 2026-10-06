@@ -170,5 +170,32 @@
         "derived_from": "microbiology"
       }
     ]
+  },
+  "p1-30-mini": {
+    "adj.": [
+      {
+        "word": "minimal",
+        "pos": "adj.",
+        "defn_en": "very small in amount or as limited as possible:",
+        "defn_zh": "最少的；最低限度的",
+        "derived_from": "minimalist"
+      }
+    ],
+    "v.": [
+      {
+        "word": "minimize",
+        "pos": "v.",
+        "defn_en": "to reduce something to the smallest possible amount or degree:",
+        "defn_zh": "使最小化；減至最低",
+        "derived_from": "minimization"
+      },
+      {
+        "word": "miniaturize",
+        "pos": "v.",
+        "defn_en": "to make something in a much smaller form:",
+        "defn_zh": "使微型化；縮小",
+        "derived_from": "miniature"
+      }
+    ]
   }
 }
