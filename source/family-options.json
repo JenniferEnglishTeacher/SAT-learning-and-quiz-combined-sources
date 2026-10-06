@@ -257,5 +257,32 @@
         "derived_from": "octuple"
       }
     ]
+  },
+  "p1-36-over": {
+    "adj.": [
+      {
+        "word": "overwhelming",
+        "pos": "adj.",
+        "defn_en": "very great in amount or so powerful that it is difficult to resist:",
+        "defn_zh": "壓倒性的；勢不可擋的",
+        "derived_from": "overwhelm"
+      }
+    ],
+    "n.": [
+      {
+        "word": "overstatement",
+        "pos": "n.",
+        "defn_en": "a statement that makes something seem greater or more serious than it is:",
+        "defn_zh": "誇大的說法；言過其實",
+        "derived_from": "overstate"
+      },
+      {
+        "word": "overhaul",
+        "pos": "n.",
+        "defn_en": "a thorough examination and complete repair or reform:",
+        "defn_zh": "徹底檢修；全面改革",
+        "derived_from": "overhaul"
+      }
+    ]
   }
 }

@@ -1,0 +1,873 @@
+{
+  "id": "p1-36-over",
+  "part": "part1",
+  "part_label": "Part 1 字首篇 (Prefixes)",
+  "name": "over",
+  "subtitle": "過度；在上方；超越",
+  "count": 12,
+  "words": [
+    {
+      "word": "overbearing",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "trying to control other people in an unpleasant, arrogant, and bossy way:",
+      "defn_zh": "專橫的；傲慢的；好指使人的",
+      "synonyms": [
+        "domineering",
+        "autocratic",
+        "tyrannical",
+        "imperious"
+      ],
+      "antonyms": [
+        "humble",
+        "submissive",
+        "meek",
+        "deferential"
+      ],
+      "root_note": "over- (too much) + bearing (manner or behavior)",
+      "sentences": [
+        {
+          "en": "The engineers resented their manager's ______ attitude because he ignored every technical suggestion.",
+          "zh": "工程師很反感經理專橫的態度，因為他完全不聽取技術建議。"
+        },
+        {
+          "en": "The protagonist runs away from home to escape the control of his ______ father.",
+          "zh": "主角離家出走，以逃離專制且好控制人的父親。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "36",
+        "spelling": "over",
+        "meaning": "過度；在上方；超越"
+      }
+    },
+    {
+      "word": "overhaul",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to examine thoroughly and completely repair, improve, or restructure something:",
+      "defn_zh": "徹底檢修；大修；全面改革",
+      "synonyms": [
+        "revamp",
+        "renovate",
+        "restructure",
+        "rebuild"
+      ],
+      "antonyms": [
+        "neglect",
+        "damage",
+        "leave unchanged"
+      ],
+      "root_note": "over- (thoroughly) + haul (pull or move)",
+      "sentences": [
+        {
+          "en": "The city council voted to ______ the outdated public transit system and replace old trains.",
+          "zh": "市議會投票決定全面改革陳舊的大眾運輸系統，並更換舊列車。"
+        },
+        {
+          "en": "The mechanic had to ______ the vintage car's engine before it could be driven safely.",
+          "zh": "技師必須徹底檢修古董跑車的引擎，車子才能安全上路。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "36",
+        "spelling": "over",
+        "meaning": "過度；在上方；超越"
+      }
+    },
+    {
+      "word": "overwhelm",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to defeat completely, cover with force, or burden someone with too much work or emotion:",
+      "defn_zh": "壓倒；使承受不住；淹沒",
+      "synonyms": [
+        "inundate",
+        "swamp",
+        "overpower",
+        "conquer"
+      ],
+      "antonyms": [
+        "encourage",
+        "underwhelm",
+        "relieve"
+      ],
+      "root_note": "over- (completely or excessively) + whelm (cover or engulf)",
+      "sentences": [
+        {
+          "en": "The enemy's massive wave of soldiers threatened to ______ the small defensive line.",
+          "zh": "敵軍排山倒海的士兵威脅要徹底擊潰這條小型防線。"
+        },
+        {
+          "en": "The sheer volume of final projects began to ______ the college freshman.",
+          "zh": "大量期末研究計畫開始讓這位大學新鮮人承受不住。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "36",
+        "spelling": "over",
+        "meaning": "過度；在上方；超越"
+      }
+    },
+    {
+      "word": "oversee",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to supervise a project, job, or group and make sure the work is done correctly:",
+      "defn_zh": "監督；管理",
+      "synonyms": [
+        "supervise",
+        "manage",
+        "direct",
+        "inspect"
+      ],
+      "antonyms": [
+        "ignore",
+        "neglect",
+        "follow"
+      ],
+      "root_note": "over- (above) + see (watch)",
+      "sentences": [
+        {
+          "en": "The head architect visited the site daily to ______ construction of the museum's foundation.",
+          "zh": "總建築師每天視察工地，以監督博物館地基的建造。"
+        },
+        {
+          "en": "Her main responsibility is to ______ the company's international marketing budget.",
+          "zh": "她的主要職責是管理公司的整體國際行銷預算。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "36",
+        "spelling": "over",
+        "meaning": "過度；在上方；超越"
+      }
+    },
+    {
+      "word": "overture",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "an introductory piece of music or a formal opening proposal intended to begin negotiations:",
+      "defn_zh": "序曲；前奏；談判提議；主動姿態",
+      "synonyms": [
+        "prelude",
+        "introduction",
+        "approach",
+        "proposal"
+      ],
+      "antonyms": [
+        "conclusion",
+        "epilogue",
+        "rejection",
+        "withdrawal"
+      ],
+      "root_note": "over- / ouvert (open) + -ure (result or act)",
+      "sentences": [
+        {
+          "en": "The audience grew quiet as the orchestra began the opera's dramatic opening ______.",
+          "zh": "當管弦樂團開始演奏歌劇充滿張力的開場序曲時，觀眾逐漸安靜下來。"
+        },
+        {
+          "en": "The nation made a peace ______ by offering to release prisoners of war.",
+          "zh": "該國提議釋放戰俘，藉此做出和平談判的主動姿態。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "36",
+        "spelling": "over",
+        "meaning": "過度；在上方；超越"
+      }
+    },
+    {
+      "word": "overturn",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to tip something over or officially cancel and reverse a previous decision:",
+      "defn_zh": "翻倒；推翻；撤銷判決",
+      "synonyms": [
+        "reverse",
+        "invalidate",
+        "capsize",
+        "rescind"
+      ],
+      "antonyms": [
+        "uphold",
+        "ratify",
+        "validate",
+        "confirm"
+      ],
+      "root_note": "over- (over or upside down) + turn",
+      "sentences": [
+        {
+          "en": "The supreme court voted to ______ the lower court's ruling and clear the suspect.",
+          "zh": "最高法院投票推翻下級法院的判決，宣布嫌疑人無罪。"
+        },
+        {
+          "en": "A massive wave threatened to ______ the fisherman's small wooden boat.",
+          "zh": "一道巨浪威脅要翻倒漁夫的小木船。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "36",
+        "spelling": "over",
+        "meaning": "過度；在上方；超越"
+      }
+    },
+    {
+      "word": "overwrought",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "excessively nervous or excited, or too complicated and heavily decorated:",
+      "defn_zh": "過度緊張的；焦慮的；過度華麗做作的",
+      "synonyms": [
+        "agitated",
+        "frantic",
+        "overdone",
+        "elaborate"
+      ],
+      "antonyms": [
+        "calm",
+        "tranquil",
+        "serene",
+        "minimalist"
+      ],
+      "root_note": "over- (too much) + wrought (worked or shaped)",
+      "sentences": [
+        {
+          "en": "By midnight, the ______ parents were pacing the hospital waiting room for news.",
+          "zh": "到了午夜，焦慮萬分的父母在醫院候診室踱步等待消息。"
+        },
+        {
+          "en": "The critic dismissed the novel's ______ style as crowded with unnecessary adjectives.",
+          "zh": "評論家認為小說文風過度華麗做作，充斥太多不必要的形容詞。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "36",
+        "spelling": "over",
+        "meaning": "過度；在上方；超越"
+      }
+    },
+    {
+      "word": "overshadow",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to cast a shadow over something or make another person or thing seem less important:",
+      "defn_zh": "遮蔽；使相形失色；使黯然失色",
+      "synonyms": [
+        "eclipse",
+        "dwarf",
+        "obscure",
+        "outshine"
+      ],
+      "antonyms": [
+        "highlight",
+        "illuminate",
+        "accentuate"
+      ],
+      "root_note": "over- (above or across) + shadow",
+      "sentences": [
+        {
+          "en": "The glass skyscraper began to ______ the small historic brick church beside it.",
+          "zh": "玻璃摩天大樓開始遮蔽旁邊小巧而古老的磚造教堂。"
+        },
+        {
+          "en": "He feared his modest business success would be ______ed by his sister's medical graduation.",
+          "zh": "他擔心自己小小的商業成就會因姐姐從醫學院畢業而黯然失色。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "36",
+        "spelling": "over",
+        "meaning": "過度；在上方；超越"
+      }
+    },
+    {
+      "word": "overstate",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to describe something as more important, serious, or large than it really is:",
+      "defn_zh": "誇大；言過其實",
+      "synonyms": [
+        "exaggerate",
+        "magnify",
+        "embellish",
+        "inflate"
+      ],
+      "antonyms": [
+        "understate",
+        "downplay",
+        "minimize"
+      ],
+      "root_note": "over- (too much) + state (express)",
+      "sentences": [
+        {
+          "en": "It is difficult to ______ the importance of protecting the world's fresh water supplies.",
+          "zh": "保護全球淡水資源極為重要，怎麼強調都不為過。"
+        },
+        {
+          "en": "The candidate tended to ______ his role in the successful campaign.",
+          "zh": "這位候選人傾向誇大自己在成功競選活動中的角色。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "36",
+        "spelling": "over",
+        "meaning": "過度；在上方；超越"
+      }
+    },
+    {
+      "word": "overblown",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "made to seem much larger, more important, or more dramatic than is reasonable:",
+      "defn_zh": "誇張的；過分的；過度渲染的",
+      "synonyms": [
+        "exaggerated",
+        "inflated",
+        "excessive",
+        "grandiloquent"
+      ],
+      "antonyms": [
+        "understated",
+        "modest",
+        "realistic",
+        "subtle"
+      ],
+      "root_note": "over- (too much) + blown (inflated)",
+      "sentences": [
+        {
+          "en": "The media scandal proved completely ______ because the two celebrities were close friends.",
+          "zh": "這起媒體醜聞最後證實完全是過度渲染，兩位明星其實是好友。"
+        },
+        {
+          "en": "The finance department rejected the plan because its multimillion-dollar budget was ______.",
+          "zh": "財務部門否決該計畫，認為數百萬美元的預算過分誇張。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "36",
+        "spelling": "over",
+        "meaning": "過度；在上方；超越"
+      }
+    },
+    {
+      "word": "overreach",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "an attempt to do more than one can manage or an extension of authority beyond proper limits:",
+      "defn_zh": "過度擴張；伸張過甚；越權行為",
+      "synonyms": [
+        "overextension",
+        "excess",
+        "trespass",
+        "abuse of authority"
+      ],
+      "antonyms": [
+        "restraint",
+        "moderation",
+        "staying within bounds"
+      ],
+      "root_note": "over- (beyond proper limits) + reach",
+      "sentences": [
+        {
+          "en": "The retailer went bankrupt after a strategic ______ led it to open fifty stores in six months.",
+          "zh": "這家零售商因策略性過度擴張，在六個月內開設五十家店後破產。"
+        },
+        {
+          "en": "Civil rights lawyers called the new surveillance policy a dangerous government ______.",
+          "zh": "民權律師稱新的監控政策是危險的政府越權行為。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "36",
+        "spelling": "over",
+        "meaning": "過度；在上方；超越"
+      }
+    },
+    {
+      "word": "override",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to use authority to cancel, reject, or ignore another decision or input:",
+      "defn_zh": "撤銷；推翻；不顧；凌駕於……之上",
+      "synonyms": [
+        "overrule",
+        "countermand",
+        "veto",
+        "supersede"
+      ],
+      "antonyms": [
+        "approve",
+        "accept",
+        "yield",
+        "support"
+      ],
+      "root_note": "over- (above or superior to) + ride (control)",
+      "sentences": [
+        {
+          "en": "The pilot decided to manually ______ the automated system and land the plane safely.",
+          "zh": "機長決定手動接管自動系統，以安全降落飛機。"
+        },
+        {
+          "en": "The assembly gathered enough votes to ______ the prime minister's veto.",
+          "zh": "議會取得足夠票數，推翻首相的否決。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "36",
+        "spelling": "over",
+        "meaning": "過度；在上方；超越"
+      }
+    }
+  ],
+  "family_options": {
+    "adj.": [
+      {
+        "word": "overwhelming",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "very great in amount or so powerful that it is difficult to resist:",
+        "defn_zh": "壓倒性的；勢不可擋的",
+        "derived_from": "overwhelm"
+      }
+    ],
+    "n.": [
+      {
+        "word": "overstatement",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a statement that makes something seem greater or more serious than it is:",
+        "defn_zh": "誇大的說法；言過其實",
+        "derived_from": "overstate"
+      },
+      {
+        "word": "overhaul",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a thorough examination and complete repair or reform:",
+        "defn_zh": "徹底檢修；全面改革",
+        "derived_from": "overhaul"
+      }
+    ]
+  },
+  "fallback_options": {
+    "v.": [
+      {
+        "word": "abound",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to exist in great numbers:",
+        "defn_zh": "充滿"
+      },
+      {
+        "word": "abrogate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to deprive of legal force, to nullify:=abolish",
+        "defn_zh": "廢除/取消"
+      },
+      {
+        "word": "abjure",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to renounce, abstain from:",
+        "defn_zh": "發誓放棄/棄絕"
+      },
+      {
+        "word": "abbreviate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to shorten a word or phrase:",
+        "defn_zh": "縮寫;縮短"
+      },
+      {
+        "word": "abdicate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to give up a position, usually one of leadership:",
+        "defn_zh": "退位/放棄(職位)"
+      },
+      {
+        "word": "abduct",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to kidnap, take by force:",
+        "defn_zh": "綁架/劫持"
+      },
+      {
+        "word": "abhor",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to regard with disgust and hatred:",
+        "defn_zh": "憎惡/厭惡"
+      },
+      {
+        "word": "abnegate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to deny or renounce:",
+        "defn_zh": "放棄/克制"
+      },
+      {
+        "word": "abolish",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to formally put an end to a system, practice, or institution:",
+        "defn_zh": "廢除"
+      },
+      {
+        "word": "abort",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to give up on a half-finished project or effort:",
+        "defn_zh": "中止/放棄"
+      },
+      {
+        "word": "abrade",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to scrape or wear away by friction:",
+        "defn_zh": "磨損;擦傷"
+      },
+      {
+        "word": "abscond",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to sneak away and hide:",
+        "defn_zh": "潛逃/逃匿"
+      }
+    ],
+    "adj.": [
+      {
+        "word": "abortive",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "fruitless, failing:",
+        "defn_zh": "失敗的/夭折的"
+      },
+      {
+        "word": "abstemious",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "moderate in eating or drinking:",
+        "defn_zh": "飲食有節制的"
+      },
+      {
+        "word": "abhorrent",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "detestable, despised:",
+        "defn_zh": "令人厭惡的"
+      },
+      {
+        "word": "absurd",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "ridiculous:",
+        "defn_zh": "荒謬的"
+      },
+      {
+        "word": "aberrant",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "deviating from what is normal or expected:",
+        "defn_zh": "異常的;脫軌的"
+      },
+      {
+        "word": "abject",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "wretched, pitiful:",
+        "defn_zh": "卑賤的/淒慘的"
+      },
+      {
+        "word": "abominable",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "causing moral revulsion; extremely unpleasant:",
+        "defn_zh": "可憎的;惡劣的"
+      },
+      {
+        "word": "abounding",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "existing in large numbers or amounts:",
+        "defn_zh": "大量存在的;豐富的"
+      },
+      {
+        "word": "abrasive",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "showing little concern for others; harsh:",
+        "defn_zh": "粗暴的/刺耳的"
+      },
+      {
+        "word": "abrupt",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "sudden or unexpected; brief and curt in manner:",
+        "defn_zh": "突然的/唐突的"
+      },
+      {
+        "word": "abstract",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "existing purely in the mind; not representing actual reality:",
+        "defn_zh": "抽象的"
+      },
+      {
+        "word": "abstruse",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "hard to comprehend:",
+        "defn_zh": "深奧難懂的"
+      }
+    ],
+    "n.": [
+      {
+        "word": "aversion",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "strong dislike, opposition:",
+        "defn_zh": "厭惡/反感"
+      },
+      {
+        "word": "aberration",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "something that differs from the norm:",
+        "defn_zh": "異常/脫軌"
+      },
+      {
+        "word": "abjection",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a state of complete misery, hopelessness, or degradation:",
+        "defn_zh": "卑賤;悲慘狀態"
+      },
+      {
+        "word": "abjuration",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the solemn renunciation of a belief, cause, or claim:",
+        "defn_zh": "公開放棄;誓絕"
+      },
+      {
+        "word": "ablution",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the act of washing oneself, especially as part of a religious ritual:",
+        "defn_zh": "沐浴;淨身儀式"
+      },
+      {
+        "word": "abnegation",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "denial of comfort to oneself:",
+        "defn_zh": "自我克制/放棄"
+      },
+      {
+        "word": "abomination",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "something that causes disgust or hatred:",
+        "defn_zh": "可憎之事;令人厭惡的東西"
+      },
+      {
+        "word": "abridgement",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a shortened version of a book or other written work:",
+        "defn_zh": "節略本;縮減版"
+      },
+      {
+        "word": "absolution",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "freedom from blame, guilt, sin:",
+        "defn_zh": "赦免/免罪"
+      },
+      {
+        "word": "abstemiousness",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "moderation or self-restraint, especially in eating and drinking:",
+        "defn_zh": "節制;克己"
+      },
+      {
+        "word": "abstinence",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the practice of restraining oneself from something enjoyable, especially food, alcohol, or sex:",
+        "defn_zh": "節制;戒絕"
+      },
+      {
+        "word": "avocation",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a hobby or minor occupation apart from one's main career:",
+        "defn_zh": "副業;業餘愛好"
+      }
+    ],
+    "adv.": [
+      {
+        "word": "accordingly",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in a manner that fits the circumstances; consequently:",
+        "defn_zh": "相應地;因此"
+      },
+      {
+        "word": "inadvertently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "unintentionally or by accident:",
+        "defn_zh": "無意間/不小心地"
+      },
+      {
+        "word": "consequently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "as a result; therefore:",
+        "defn_zh": "因此;結果"
+      },
+      {
+        "word": "contemptuously",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "without respect; in a disdainful manner:",
+        "defn_zh": "輕蔑地"
+      },
+      {
+        "word": "involuntarily",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "done without conscious control:",
+        "defn_zh": "不由自主地"
+      },
+      {
+        "word": "cordially",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in a warm or friendly manner:",
+        "defn_zh": "誠摯地/友好地"
+      },
+      {
+        "word": "ipso facto",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "by that very fact or act:",
+        "defn_zh": "事實上;因此"
+      },
+      {
+        "word": "en passant",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in passing; incidentally:",
+        "defn_zh": "順帶一提地;偶然地"
+      },
+      {
+        "word": "regardless",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "despite the prevailing circumstances; without being deterred:",
+        "defn_zh": "不管怎樣;儘管如此"
+      },
+      {
+        "word": "subsequently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "afterward; following in time or order:",
+        "defn_zh": "隨後;其後"
+      },
+      {
+        "word": "aside",
+        "pos": "adv./n.",
+        "pos_key": "adv.",
+        "defn_en": "to or on one side; a remark not meant to be heard by everyone:",
+        "defn_zh": "在旁邊;旁白"
+      },
+      {
+        "word": "vice versa",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "with the order or meaning reversed; conversely:",
+        "defn_zh": "反之亦然"
+      }
+    ],
+    "other": [
+      {
+        "word": "（此批單字中，暫無符合此字根/字首的單字）",
+        "pos": "",
+        "pos_key": "other",
+        "defn_en": "",
+        "defn_zh": ""
+      }
+    ],
+    "prep./adv.": [
+      {
+        "word": "besides",
+        "pos": "prep./adv.",
+        "pos_key": "prep./adv.",
+        "defn_en": "in addition to; furthermore:",
+        "defn_zh": "除...之外;此外"
+      }
+    ],
+    "phrasalv.": [
+      {
+        "word": "egg on",
+        "pos": "phrasal v.",
+        "pos_key": "phrasalv.",
+        "defn_en": "to encourage someone to do something, often risky:",
+        "defn_zh": "慫恿;鼓動"
+      }
+    ],
+    "abbr.": [
+      {
+        "word": "etc.",
+        "pos": "abbr.",
+        "pos_key": "abbr.",
+        "defn_en": "and other similar things (abbreviation of et cetera):",
+        "defn_zh": "等等(et cetera的縮寫)"
+      }
+    ],
+    "interj.": [
+      {
+        "word": "fiddledeedee",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "an exclamation expressing dismissal of something as nonsense:",
+        "defn_zh": "廢話!(表示不屑一顧)"
+      },
+      {
+        "word": "gesundheit",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "an expression said to someone who has just sneezed:",
+        "defn_zh": "保重(打噴嚏後的祝福語)"
+      }
+    ],
+    "prep.": [
+      {
+        "word": "via",
+        "pos": "prep.",
+        "pos_key": "prep.",
+        "defn_en": "by way of; passing through:",
+        "defn_zh": "經由;透過"
+      }
+    ]
+  }
+}

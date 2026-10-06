@@ -1,0 +1,164 @@
+{
+  "id": "p1-36-over",
+  "merge_with_source": false,
+  "name": "over",
+  "subtitle": "過度；在上方；超越",
+  "words": [
+    {
+      "word": "overbearing", "pos": "adj.", "pos_key": "adj.",
+      "defn_en": "trying to control other people in an unpleasant, arrogant, and bossy way:",
+      "defn_zh": "專橫的；傲慢的；好指使人的",
+      "synonyms": ["domineering", "autocratic", "tyrannical", "imperious"],
+      "antonyms": ["humble", "submissive", "meek", "deferential"],
+      "root_note": "over- (too much) + bearing (manner or behavior)",
+      "sentences": [
+        {"en": "The engineers resented their manager's ______ attitude because he ignored every technical suggestion.", "zh": "工程師很反感經理專橫的態度，因為他完全不聽取技術建議。"},
+        {"en": "The protagonist runs away from home to escape the control of his ______ father.", "zh": "主角離家出走，以逃離專制且好控制人的父親。"}
+      ],
+      "category": {"part": 1, "num": "36", "spelling": "over", "meaning": "過度；在上方；超越"}
+    },
+    {
+      "word": "overhaul", "pos": "v.", "pos_key": "v.",
+      "defn_en": "to examine thoroughly and completely repair, improve, or restructure something:",
+      "defn_zh": "徹底檢修；大修；全面改革",
+      "synonyms": ["revamp", "renovate", "restructure", "rebuild"],
+      "antonyms": ["neglect", "damage", "leave unchanged"],
+      "root_note": "over- (thoroughly) + haul (pull or move)",
+      "sentences": [
+        {"en": "The city council voted to ______ the outdated public transit system and replace old trains.", "zh": "市議會投票決定全面改革陳舊的大眾運輸系統，並更換舊列車。"},
+        {"en": "The mechanic had to ______ the vintage car's engine before it could be driven safely.", "zh": "技師必須徹底檢修古董跑車的引擎，車子才能安全上路。"}
+      ],
+      "category": {"part": 1, "num": "36", "spelling": "over", "meaning": "過度；在上方；超越"}
+    },
+    {
+      "word": "overwhelm", "pos": "v.", "pos_key": "v.",
+      "defn_en": "to defeat completely, cover with force, or burden someone with too much work or emotion:",
+      "defn_zh": "壓倒；使承受不住；淹沒",
+      "synonyms": ["inundate", "swamp", "overpower", "conquer"],
+      "antonyms": ["encourage", "underwhelm", "relieve"],
+      "root_note": "over- (completely or excessively) + whelm (cover or engulf)",
+      "sentences": [
+        {"en": "The enemy's massive wave of soldiers threatened to ______ the small defensive line.", "zh": "敵軍排山倒海的士兵威脅要徹底擊潰這條小型防線。"},
+        {"en": "The sheer volume of final projects began to ______ the college freshman.", "zh": "大量期末研究計畫開始讓這位大學新鮮人承受不住。"}
+      ],
+      "category": {"part": 1, "num": "36", "spelling": "over", "meaning": "過度；在上方；超越"}
+    },
+    {
+      "word": "oversee", "pos": "v.", "pos_key": "v.",
+      "defn_en": "to supervise a project, job, or group and make sure the work is done correctly:",
+      "defn_zh": "監督；管理",
+      "synonyms": ["supervise", "manage", "direct", "inspect"],
+      "antonyms": ["ignore", "neglect", "follow"],
+      "root_note": "over- (above) + see (watch)",
+      "sentences": [
+        {"en": "The head architect visited the site daily to ______ construction of the museum's foundation.", "zh": "總建築師每天視察工地，以監督博物館地基的建造。"},
+        {"en": "Her main responsibility is to ______ the company's international marketing budget.", "zh": "她的主要職責是管理公司的整體國際行銷預算。"}
+      ],
+      "category": {"part": 1, "num": "36", "spelling": "over", "meaning": "過度；在上方；超越"}
+    },
+    {
+      "word": "overture", "pos": "n.", "pos_key": "n.",
+      "defn_en": "an introductory piece of music or a formal opening proposal intended to begin negotiations:",
+      "defn_zh": "序曲；前奏；談判提議；主動姿態",
+      "synonyms": ["prelude", "introduction", "approach", "proposal"],
+      "antonyms": ["conclusion", "epilogue", "rejection", "withdrawal"],
+      "root_note": "over- / ouvert (open) + -ure (result or act)",
+      "sentences": [
+        {"en": "The audience grew quiet as the orchestra began the opera's dramatic opening ______.", "zh": "當管弦樂團開始演奏歌劇充滿張力的開場序曲時，觀眾逐漸安靜下來。"},
+        {"en": "The nation made a peace ______ by offering to release prisoners of war.", "zh": "該國提議釋放戰俘，藉此做出和平談判的主動姿態。"}
+      ],
+      "category": {"part": 1, "num": "36", "spelling": "over", "meaning": "過度；在上方；超越"}
+    },
+    {
+      "word": "overturn", "pos": "v.", "pos_key": "v.",
+      "defn_en": "to tip something over or officially cancel and reverse a previous decision:",
+      "defn_zh": "翻倒；推翻；撤銷判決",
+      "synonyms": ["reverse", "invalidate", "capsize", "rescind"],
+      "antonyms": ["uphold", "ratify", "validate", "confirm"],
+      "root_note": "over- (over or upside down) + turn",
+      "sentences": [
+        {"en": "The supreme court voted to ______ the lower court's ruling and clear the suspect.", "zh": "最高法院投票推翻下級法院的判決，宣布嫌疑人無罪。"},
+        {"en": "A massive wave threatened to ______ the fisherman's small wooden boat.", "zh": "一道巨浪威脅要翻倒漁夫的小木船。"}
+      ],
+      "category": {"part": 1, "num": "36", "spelling": "over", "meaning": "過度；在上方；超越"}
+    },
+    {
+      "word": "overwrought", "pos": "adj.", "pos_key": "adj.",
+      "defn_en": "excessively nervous or excited, or too complicated and heavily decorated:",
+      "defn_zh": "過度緊張的；焦慮的；過度華麗做作的",
+      "synonyms": ["agitated", "frantic", "overdone", "elaborate"],
+      "antonyms": ["calm", "tranquil", "serene", "minimalist"],
+      "root_note": "over- (too much) + wrought (worked or shaped)",
+      "sentences": [
+        {"en": "By midnight, the ______ parents were pacing the hospital waiting room for news.", "zh": "到了午夜，焦慮萬分的父母在醫院候診室踱步等待消息。"},
+        {"en": "The critic dismissed the novel's ______ style as crowded with unnecessary adjectives.", "zh": "評論家認為小說文風過度華麗做作，充斥太多不必要的形容詞。"}
+      ],
+      "category": {"part": 1, "num": "36", "spelling": "over", "meaning": "過度；在上方；超越"}
+    },
+    {
+      "word": "overshadow", "pos": "v.", "pos_key": "v.",
+      "defn_en": "to cast a shadow over something or make another person or thing seem less important:",
+      "defn_zh": "遮蔽；使相形失色；使黯然失色",
+      "synonyms": ["eclipse", "dwarf", "obscure", "outshine"],
+      "antonyms": ["highlight", "illuminate", "accentuate"],
+      "root_note": "over- (above or across) + shadow",
+      "sentences": [
+        {"en": "The glass skyscraper began to ______ the small historic brick church beside it.", "zh": "玻璃摩天大樓開始遮蔽旁邊小巧而古老的磚造教堂。"},
+        {"en": "He feared his modest business success would be ______ed by his sister's medical graduation.", "zh": "他擔心自己小小的商業成就會因姐姐從醫學院畢業而黯然失色。"}
+      ],
+      "category": {"part": 1, "num": "36", "spelling": "over", "meaning": "過度；在上方；超越"}
+    },
+    {
+      "word": "overstate", "pos": "v.", "pos_key": "v.",
+      "defn_en": "to describe something as more important, serious, or large than it really is:",
+      "defn_zh": "誇大；言過其實",
+      "synonyms": ["exaggerate", "magnify", "embellish", "inflate"],
+      "antonyms": ["understate", "downplay", "minimize"],
+      "root_note": "over- (too much) + state (express)",
+      "sentences": [
+        {"en": "It is difficult to ______ the importance of protecting the world's fresh water supplies.", "zh": "保護全球淡水資源極為重要，怎麼強調都不為過。"},
+        {"en": "The candidate tended to ______ his role in the successful campaign.", "zh": "這位候選人傾向誇大自己在成功競選活動中的角色。"}
+      ],
+      "category": {"part": 1, "num": "36", "spelling": "over", "meaning": "過度；在上方；超越"}
+    },
+    {
+      "word": "overblown", "pos": "adj.", "pos_key": "adj.",
+      "defn_en": "made to seem much larger, more important, or more dramatic than is reasonable:",
+      "defn_zh": "誇張的；過分的；過度渲染的",
+      "synonyms": ["exaggerated", "inflated", "excessive", "grandiloquent"],
+      "antonyms": ["understated", "modest", "realistic", "subtle"],
+      "root_note": "over- (too much) + blown (inflated)",
+      "sentences": [
+        {"en": "The media scandal proved completely ______ because the two celebrities were close friends.", "zh": "這起媒體醜聞最後證實完全是過度渲染，兩位明星其實是好友。"},
+        {"en": "The finance department rejected the plan because its multimillion-dollar budget was ______.", "zh": "財務部門否決該計畫，認為數百萬美元的預算過分誇張。"}
+      ],
+      "category": {"part": 1, "num": "36", "spelling": "over", "meaning": "過度；在上方；超越"}
+    },
+    {
+      "word": "overreach", "pos": "n.", "pos_key": "n.",
+      "defn_en": "an attempt to do more than one can manage or an extension of authority beyond proper limits:",
+      "defn_zh": "過度擴張；伸張過甚；越權行為",
+      "synonyms": ["overextension", "excess", "trespass", "abuse of authority"],
+      "antonyms": ["restraint", "moderation", "staying within bounds"],
+      "root_note": "over- (beyond proper limits) + reach",
+      "sentences": [
+        {"en": "The retailer went bankrupt after a strategic ______ led it to open fifty stores in six months.", "zh": "這家零售商因策略性過度擴張，在六個月內開設五十家店後破產。"},
+        {"en": "Civil rights lawyers called the new surveillance policy a dangerous government ______.", "zh": "民權律師稱新的監控政策是危險的政府越權行為。"}
+      ],
+      "category": {"part": 1, "num": "36", "spelling": "over", "meaning": "過度；在上方；超越"}
+    },
+    {
+      "word": "override", "pos": "v.", "pos_key": "v.",
+      "defn_en": "to use authority to cancel, reject, or ignore another decision or input:",
+      "defn_zh": "撤銷；推翻；不顧；凌駕於……之上",
+      "synonyms": ["overrule", "countermand", "veto", "supersede"],
+      "antonyms": ["approve", "accept", "yield", "support"],
+      "root_note": "over- (above or superior to) + ride (control)",
+      "sentences": [
+        {"en": "The pilot decided to manually ______ the automated system and land the plane safely.", "zh": "機長決定手動接管自動系統，以安全降落飛機。"},
+        {"en": "The assembly gathered enough votes to ______ the prime minister's veto.", "zh": "議會取得足夠票數，推翻首相的否決。"}
+      ],
+      "category": {"part": 1, "num": "36", "spelling": "over", "meaning": "過度；在上方；超越"}
+    }
+  ]
+}
