@@ -1,0 +1,113 @@
+{
+  "id": "p1-26-intra",
+  "merge_with_source": true,
+  "name": "intra",
+  "subtitle": "在……裡面；內部",
+  "words": [
+    {
+      "word": "intramural",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "taking place entirely within one institution, especially a school or college:",
+      "defn_zh": "校內的；組織內部的",
+      "synonyms": ["internal", "domestic", "localized"],
+      "antonyms": ["extramural", "intercollegiate", "external"],
+      "root_note": "intra- (within) + mural (wall)",
+      "sentences": [
+        {"en": "Instead of playing for the university varsity team, he joined the ______ soccer league with friends from his dorm.", "zh": "他決定加入校內足球聯賽與宿舍朋友一起踢球，而不是加入正式的大學代表隊。"},
+        {"en": "The school budget allocates funds for both ______ debates and competitions against rival academies.", "zh": "學校預算同時撥款給校內辯論賽以及與對手學校之間的競賽。"}
+      ],
+      "category": {"part": 1, "num": "26", "spelling": "intra", "meaning": "在……裡面；內部"}
+    },
+    {
+      "word": "intravenous",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "entering or taking place directly inside a vein, especially when giving fluids or medicine:",
+      "defn_zh": "靜脈內的；靜脈注射的",
+      "synonyms": ["endovenous", "IV"],
+      "antonyms": ["subcutaneous", "intramuscular", "oral"],
+      "root_note": "intra- (within) + ven (vein) + -ous (adjective ending)",
+      "sentences": [
+        {"en": "Because the patient was severely dehydrated, the doctor ordered an ______ drip to deliver fluids directly into her bloodstream.", "zh": "由於病患嚴重脫水，醫生下令進行靜脈點滴注射，將液體直接輸送到她的血液中。"},
+        {"en": "The experimental vaccine showed the highest effectiveness when delivered via ______ injection.", "zh": "這種實驗性疫苗在透過靜脈注射給藥時，顯示出最高的療效。"}
+      ],
+      "category": {"part": 1, "num": "26", "spelling": "intra", "meaning": "在……裡面；內部"}
+    },
+    {
+      "word": "intrapersonal",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "existing or occurring within an individual's own mind or self:",
+      "defn_zh": "個人內心的；內省的",
+      "synonyms": ["self-reflective", "internalized", "psychological"],
+      "antonyms": ["interpersonal", "social"],
+      "root_note": "intra- (within) + personal (individual or self)",
+      "sentences": [
+        {"en": "Writing in a daily journal is an excellent tool for improving your ______ intelligence and understanding your own emotions.", "zh": "撰寫每日日記是提高你個人內省智能以及了解自身情緒的絕佳工具。"},
+        {"en": "Before you can resolve conflicts between others, you must first master ______ conflicts such as self-doubt.", "zh": "在解決他人之間的衝突之前，你必須先克服像自我懷疑這類的內心衝突。"}
+      ],
+      "category": {"part": 1, "num": "26", "spelling": "intra", "meaning": "在……裡面；內部"}
+    },
+    {
+      "word": "intrastate",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "existing or occurring completely within the boundaries of one state or region:",
+      "defn_zh": "州內的；省內的",
+      "synonyms": ["regional", "internal", "domestic"],
+      "antonyms": ["interstate", "international"],
+      "root_note": "intra- (within) + state (political region)",
+      "sentences": [
+        {"en": "Because the business only sells goods locally, it is subject to ______ commerce laws rather than federal regulations.", "zh": "由於該企業僅在本地銷售商品，因此它適用於州內商業法，而非聯邦法規。"},
+        {"en": "The shipping company established an ______ trucking network to speed up deliveries within California.", "zh": "這家快遞公司建立了州內卡車運輸網絡，以加快加州內部的配送速度。"}
+      ],
+      "category": {"part": 1, "num": "26", "spelling": "intra", "meaning": "在……裡面；內部"}
+    },
+    {
+      "word": "intranet",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a private computer network used only within a particular company or organization:",
+      "defn_zh": "企業內部網路；內網",
+      "synonyms": ["private network", "internal web"],
+      "antonyms": ["internet"],
+      "root_note": "intra- (within) + net (network)",
+      "sentences": [
+        {"en": "To download the employee handbook and request time off, you must log into the company's secure ______.", "zh": "若要下載員工手冊和申請休假，你必須登入公司安全的內部網路。"},
+        {"en": "The firm keeps sensitive financial records strictly on the ______ to prevent external hackers from accessing them.", "zh": "該公司將敏感的財務紀錄嚴格儲存在內網中，以防止外部駭客存取。"}
+      ],
+      "category": {"part": 1, "num": "26", "spelling": "intra", "meaning": "在……裡面；內部"}
+    },
+    {
+      "word": "intramolecular",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "occurring or existing within the structure of a single molecule:",
+      "defn_zh": "分子內部的",
+      "synonyms": ["internal-molecular"],
+      "antonyms": ["intermolecular"],
+      "root_note": "intra- (within) + molecular (relating to a molecule)",
+      "sentences": [
+        {"en": "An ______ bond, such as a covalent bond, holds the atoms together inside a single water molecule.", "zh": "像共價鍵這樣的分子內鍵結，將單個水分子內部的原子緊緊結合在一起。"},
+        {"en": "The chemical changed color rapidly because of an ______ reaction that rearranged its internal atomic structure.", "zh": "由於重新排列其內部原子結構的分子內反應，該化學物質迅速改變了顏色。"}
+      ],
+      "category": {"part": 1, "num": "26", "spelling": "intra", "meaning": "在……裡面；內部"}
+    },
+    {
+      "word": "intraocular",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "happening or located inside the eye:",
+      "defn_zh": "眼內的",
+      "synonyms": ["internal-ocular", "endocular"],
+      "antonyms": ["extraocular"],
+      "root_note": "intra- (within) + ocular (relating to the eye)",
+      "sentences": [
+        {"en": "During the surgery, the damaged natural lens is removed and replaced with a clear artificial ______ lens.", "zh": "在手術過程中，受損的天然水晶體會被移除，並更換為清晰的人工眼內水晶體。"},
+        {"en": "The doctor used a special machine to measure the patient's ______ pressure and screen for signs of glaucoma.", "zh": "醫生使用特殊儀器測量病患的眼內壓，以篩查青光眼的跡象。"}
+      ],
+      "category": {"part": 1, "num": "26", "spelling": "intra", "meaning": "在……裡面；內部"}
+    }
+  ]
+}
