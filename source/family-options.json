@@ -226,5 +226,16 @@
         "derived_from": "monologue"
       }
     ]
+  },
+  "p1-33-multi": {
+    "n.": [
+      {
+        "word": "multiformity",
+        "pos": "n.",
+        "defn_en": "the quality or state of existing in many different forms:",
+        "defn_zh": "多形性；形式多樣",
+        "derived_from": "multiform"
+      }
+    ]
   }
 }

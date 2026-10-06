@@ -1,0 +1,769 @@
+{
+  "id": "p1-33-multi",
+  "part": "part1",
+  "part_label": "Part 1 字首篇 (Prefixes)",
+  "name": "multi",
+  "subtitle": "多",
+  "count": 10,
+  "words": [
+    {
+      "word": "multifaceted",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "having many different aspects, features, or talents:",
+      "defn_zh": "多面向的；多才多藝的",
+      "synonyms": [
+        "versatile",
+        "complex",
+        "nuanced",
+        "detailed"
+      ],
+      "antonyms": [
+        "simple",
+        "superficial",
+        "one-dimensional"
+      ],
+      "root_note": "multi- (many) + facet (side or aspect) + -ed (having)",
+      "sentences": [
+        {
+          "en": "The novel's protagonist is a ______ character torn between duty to his country and love for his family.",
+          "zh": "小說主角是一個多面向的角色，在對國家的責任與對家庭的愛之間痛苦掙扎。"
+        },
+        {
+          "en": "Solving the company's sales decline required a ______ approach combining marketing with price reductions.",
+          "zh": "解決公司銷售額下滑需要採取多管齊下的方法，將強力行銷與降價相結合。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "33",
+        "spelling": "multi",
+        "meaning": "多"
+      }
+    },
+    {
+      "word": "multifarious",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "having great variety or being made up of many different parts or elements:",
+      "defn_zh": "多種多樣的；五花八門的",
+      "synonyms": [
+        "diverse",
+        "multifaceted",
+        "miscellaneous",
+        "varied"
+      ],
+      "antonyms": [
+        "homogeneous",
+        "uniform",
+        "single-type"
+      ],
+      "root_note": "multi- (many) + fari (kind or manner) + -ous (adjective suffix)",
+      "sentences": [
+        {
+          "en": "As head of the department, her ______ duties included teaching, writing grant proposals, and organizing conferences.",
+          "zh": "作為系主任，她多種多樣的職責包括授課、撰寫研究經費申請，以及籌辦國際會議。"
+        },
+        {
+          "en": "The city's cultural festival offered ______ activities, from traditional dances to digital art installations.",
+          "zh": "這座城市的文化節提供了豐富多元的活動，從傳統舞蹈到數位藝術裝置應有盡有。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "33",
+        "spelling": "multi",
+        "meaning": "多"
+      }
+    },
+    {
+      "word": "multiplicity",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a very large number or a great variety of something:",
+      "defn_zh": "多樣性；多個；繁多",
+      "synonyms": [
+        "myriad",
+        "abundance",
+        "plenitude",
+        "variety"
+      ],
+      "antonyms": [
+        "scarcity",
+        "dearth",
+        "singularity"
+      ],
+      "root_note": "multi- (many) + plic (fold) + -ity (state)",
+      "sentences": [
+        {
+          "en": "The corruption case became complex because the detective had to sort through a ______ of financial records.",
+          "zh": "這起貪腐案變得非常複雜，因為偵探必須整理繁多的財務紀錄。"
+        },
+        {
+          "en": "The Amazon rain forest is celebrated for its remarkable ______ of rare bird and insect species.",
+          "zh": "亞馬遜雨林因擁有多樣繁複的珍稀鳥類與昆蟲物種而聞名。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "33",
+        "spelling": "multi",
+        "meaning": "多"
+      }
+    },
+    {
+      "word": "multilateral",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "agreed upon or participated in by three or more parties, especially nations or governments:",
+      "defn_zh": "多邊的；多國參與的",
+      "synonyms": [
+        "multinational",
+        "collective",
+        "pluralistic"
+      ],
+      "antonyms": [
+        "unilateral",
+        "bilateral"
+      ],
+      "root_note": "multi- (many) + later (side) + -al (adjective suffix)",
+      "sentences": [
+        {
+          "en": "The global power preferred ______ trade agreements that benefited several neighboring countries.",
+          "zh": "這個全球強國較傾向簽署能同時讓多個鄰國受益的多邊貿易協定。"
+        },
+        {
+          "en": "Climate change cannot be solved by one country alone; it requires a ______ effort.",
+          "zh": "氣候變遷無法單靠一個國家解決；它需要多國共同進行的多邊努力。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "33",
+        "spelling": "multi",
+        "meaning": "多"
+      }
+    },
+    {
+      "word": "multitude",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a very large number of people or things gathered together; a crowd:",
+      "defn_zh": "大群；大批；眾多",
+      "synonyms": [
+        "throng",
+        "horde",
+        "host",
+        "mass"
+      ],
+      "antonyms": [
+        "handful",
+        "elite",
+        "scattering"
+      ],
+      "root_note": "multi- (many) + -tude (state or condition)",
+      "sentences": [
+        {
+          "en": "A ______ of screaming fans gathered outside the stadium before the rock star's concert.",
+          "zh": "在搖滾巨星的演唱會開始前，大批尖叫的歌迷已聚集在體育場外。"
+        },
+        {
+          "en": "The smartphone update fixed a ______ of minor bugs that had slowed older devices.",
+          "zh": "這款智慧型手機更新修復了眾多造成舊裝置變慢的小錯誤。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "33",
+        "spelling": "multi",
+        "meaning": "多"
+      }
+    },
+    {
+      "word": "multitudinous",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "very numerous or existing in great numbers:",
+      "defn_zh": "繁多的；無數的",
+      "synonyms": [
+        "innumerable",
+        "countless",
+        "infinite"
+      ],
+      "antonyms": [
+        "few",
+        "limited",
+        "scarce"
+      ],
+      "root_note": "multitude (a great number) + -inous (full of)",
+      "sentences": [
+        {
+          "en": "From the sailboat, the travelers marveled at the ______ stars glowing in the night sky.",
+          "zh": "旅人們從帆船上仰望，對夜空中閃爍的無數繁星感到驚嘆。"
+        },
+        {
+          "en": "The small startup succeeded despite facing ______ obstacles during its first year.",
+          "zh": "這家小型新創公司儘管第一年面臨重重障礙，最終仍成功站穩腳步。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "33",
+        "spelling": "multi",
+        "meaning": "多"
+      }
+    },
+    {
+      "word": "multiform",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "existing or occurring in many different shapes, types, or appearances:",
+      "defn_zh": "多種形式的；多種形狀的",
+      "synonyms": [
+        "polymorphic",
+        "diverse",
+        "varied",
+        "heteromorphic"
+      ],
+      "antonyms": [
+        "uniform",
+        "monomorphic",
+        "invariable"
+      ],
+      "root_note": "multi- (many) + form (shape or type)",
+      "sentences": [
+        {
+          "en": "The bacteria is dangerously elusive because it is ______ and can change its structure to resist antibiotics.",
+          "zh": "這種細菌難以捕捉，因為它有多種形態，能改變結構以抵抗抗生素。"
+        },
+        {
+          "en": "The professor explained that discrimination can be ______, from subtle snubs to legal barriers.",
+          "zh": "教授解釋歧視可以有多種形式，從微妙的冷落到公開的法律障礙都有。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "33",
+        "spelling": "multi",
+        "meaning": "多"
+      }
+    },
+    {
+      "word": "multimillion",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "costing or involving several million units of currency:",
+      "defn_zh": "數百萬的；價值數百萬的",
+      "synonyms": [
+        "multi-million-dollar",
+        "costly",
+        "high-stakes"
+      ],
+      "antonyms": [
+        "inexpensive",
+        "cheap",
+        "budget"
+      ],
+      "root_note": "multi- (many) + million (one thousand thousand)",
+      "sentences": [
+        {
+          "en": "The pharmaceutical giant finalized a ______-dollar deal to purchase the research laboratory.",
+          "zh": "這家製藥巨頭敲定了一筆數百萬美元的交易，收購那間研究實驗室。"
+        },
+        {
+          "en": "The movie star lives in a ______-dollar mansion on a private cliff overlooking the ocean.",
+          "zh": "這位電影明星住在私人峭壁上一棟價值數百萬美元、坐擁海景的豪宅。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "33",
+        "spelling": "multi",
+        "meaning": "多"
+      }
+    },
+    {
+      "word": "multiparous",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "giving birth to more than one offspring at a time or having given birth multiple times:",
+      "defn_zh": "多產的；一胎多子的",
+      "synonyms": [
+        "prolific",
+        "fecund"
+      ],
+      "antonyms": [
+        "uniparous"
+      ],
+      "root_note": "multi- (many) + par (give birth) + -ous (adjective suffix)",
+      "sentences": [
+        {
+          "en": "Dogs are naturally ______ animals, so a healthy mother often gives birth to a large litter.",
+          "zh": "犬類天生是一胎多子的動物，因此健康的母犬通常會產下一大窩幼犬。"
+        },
+        {
+          "en": "The farmer tracked the ______ ewes because they consistently produced twin lambs each spring.",
+          "zh": "農夫持續追蹤羊群中多產的母羊，因為牠們每年春天都會穩定產下雙胞胎小羊。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "33",
+        "spelling": "multi",
+        "meaning": "多"
+      }
+    },
+    {
+      "word": "multiplex",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a large cinema with several screens, or a system combining several signals or parts:",
+      "defn_zh": "多廳影城；多路傳輸系統；複合體",
+      "synonyms": [
+        "cinema complex",
+        "multi-screen theater",
+        "combined system"
+      ],
+      "antonyms": [
+        "simplex",
+        "single-channel system"
+      ],
+      "root_note": "multi- (many) + plex (fold or interweave)",
+      "sentences": [
+        {
+          "en": "We chose the local ______ because its twelve screens were showing all the latest films.",
+          "zh": "我們選擇當地的多廳影城，因為那裡的十二個銀幕正在放映所有最新電影。"
+        },
+        {
+          "en": "The engineer explained how the ______ carries hundreds of data signals through a single cable.",
+          "zh": "工程師解釋了這套多路傳輸系統如何透過單一電纜傳送數百個資料訊號。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "33",
+        "spelling": "multi",
+        "meaning": "多"
+      }
+    }
+  ],
+  "family_options": {
+    "n.": [
+      {
+        "word": "multiformity",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the quality or state of existing in many different forms:",
+        "defn_zh": "多形性；形式多樣",
+        "derived_from": "multiform"
+      }
+    ]
+  },
+  "fallback_options": {
+    "v.": [
+      {
+        "word": "abound",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to exist in great numbers:",
+        "defn_zh": "充滿"
+      },
+      {
+        "word": "abrogate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to deprive of legal force, to nullify:=abolish",
+        "defn_zh": "廢除/取消"
+      },
+      {
+        "word": "abjure",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to renounce, abstain from:",
+        "defn_zh": "發誓放棄/棄絕"
+      },
+      {
+        "word": "abbreviate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to shorten a word or phrase:",
+        "defn_zh": "縮寫;縮短"
+      },
+      {
+        "word": "abdicate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to give up a position, usually one of leadership:",
+        "defn_zh": "退位/放棄(職位)"
+      },
+      {
+        "word": "abduct",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to kidnap, take by force:",
+        "defn_zh": "綁架/劫持"
+      },
+      {
+        "word": "abhor",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to regard with disgust and hatred:",
+        "defn_zh": "憎惡/厭惡"
+      },
+      {
+        "word": "abnegate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to deny or renounce:",
+        "defn_zh": "放棄/克制"
+      },
+      {
+        "word": "abolish",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to formally put an end to a system, practice, or institution:",
+        "defn_zh": "廢除"
+      },
+      {
+        "word": "abort",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to give up on a half-finished project or effort:",
+        "defn_zh": "中止/放棄"
+      },
+      {
+        "word": "abrade",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to scrape or wear away by friction:",
+        "defn_zh": "磨損;擦傷"
+      },
+      {
+        "word": "abscond",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to sneak away and hide:",
+        "defn_zh": "潛逃/逃匿"
+      }
+    ],
+    "adj.": [
+      {
+        "word": "abortive",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "fruitless, failing:",
+        "defn_zh": "失敗的/夭折的"
+      },
+      {
+        "word": "abstemious",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "moderate in eating or drinking:",
+        "defn_zh": "飲食有節制的"
+      },
+      {
+        "word": "abhorrent",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "detestable, despised:",
+        "defn_zh": "令人厭惡的"
+      },
+      {
+        "word": "absurd",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "ridiculous:",
+        "defn_zh": "荒謬的"
+      },
+      {
+        "word": "aberrant",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "deviating from what is normal or expected:",
+        "defn_zh": "異常的;脫軌的"
+      },
+      {
+        "word": "abject",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "wretched, pitiful:",
+        "defn_zh": "卑賤的/淒慘的"
+      },
+      {
+        "word": "abominable",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "causing moral revulsion; extremely unpleasant:",
+        "defn_zh": "可憎的;惡劣的"
+      },
+      {
+        "word": "abounding",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "existing in large numbers or amounts:",
+        "defn_zh": "大量存在的;豐富的"
+      },
+      {
+        "word": "abrasive",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "showing little concern for others; harsh:",
+        "defn_zh": "粗暴的/刺耳的"
+      },
+      {
+        "word": "abrupt",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "sudden or unexpected; brief and curt in manner:",
+        "defn_zh": "突然的/唐突的"
+      },
+      {
+        "word": "abstract",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "existing purely in the mind; not representing actual reality:",
+        "defn_zh": "抽象的"
+      },
+      {
+        "word": "abstruse",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "hard to comprehend:",
+        "defn_zh": "深奧難懂的"
+      }
+    ],
+    "n.": [
+      {
+        "word": "aversion",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "strong dislike, opposition:",
+        "defn_zh": "厭惡/反感"
+      },
+      {
+        "word": "aberration",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "something that differs from the norm:",
+        "defn_zh": "異常/脫軌"
+      },
+      {
+        "word": "abjection",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a state of complete misery, hopelessness, or degradation:",
+        "defn_zh": "卑賤;悲慘狀態"
+      },
+      {
+        "word": "abjuration",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the solemn renunciation of a belief, cause, or claim:",
+        "defn_zh": "公開放棄;誓絕"
+      },
+      {
+        "word": "ablution",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the act of washing oneself, especially as part of a religious ritual:",
+        "defn_zh": "沐浴;淨身儀式"
+      },
+      {
+        "word": "abnegation",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "denial of comfort to oneself:",
+        "defn_zh": "自我克制/放棄"
+      },
+      {
+        "word": "abomination",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "something that causes disgust or hatred:",
+        "defn_zh": "可憎之事;令人厭惡的東西"
+      },
+      {
+        "word": "abridgement",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a shortened version of a book or other written work:",
+        "defn_zh": "節略本;縮減版"
+      },
+      {
+        "word": "absolution",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "freedom from blame, guilt, sin:",
+        "defn_zh": "赦免/免罪"
+      },
+      {
+        "word": "abstemiousness",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "moderation or self-restraint, especially in eating and drinking:",
+        "defn_zh": "節制;克己"
+      },
+      {
+        "word": "abstinence",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the practice of restraining oneself from something enjoyable, especially food, alcohol, or sex:",
+        "defn_zh": "節制;戒絕"
+      },
+      {
+        "word": "avocation",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a hobby or minor occupation apart from one's main career:",
+        "defn_zh": "副業;業餘愛好"
+      }
+    ],
+    "adv.": [
+      {
+        "word": "accordingly",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in a manner that fits the circumstances; consequently:",
+        "defn_zh": "相應地;因此"
+      },
+      {
+        "word": "inadvertently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "unintentionally or by accident:",
+        "defn_zh": "無意間/不小心地"
+      },
+      {
+        "word": "consequently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "as a result; therefore:",
+        "defn_zh": "因此;結果"
+      },
+      {
+        "word": "contemptuously",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "without respect; in a disdainful manner:",
+        "defn_zh": "輕蔑地"
+      },
+      {
+        "word": "involuntarily",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "done without conscious control:",
+        "defn_zh": "不由自主地"
+      },
+      {
+        "word": "cordially",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in a warm or friendly manner:",
+        "defn_zh": "誠摯地/友好地"
+      },
+      {
+        "word": "ipso facto",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "by that very fact or act:",
+        "defn_zh": "事實上;因此"
+      },
+      {
+        "word": "en passant",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in passing; incidentally:",
+        "defn_zh": "順帶一提地;偶然地"
+      },
+      {
+        "word": "regardless",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "despite the prevailing circumstances; without being deterred:",
+        "defn_zh": "不管怎樣;儘管如此"
+      },
+      {
+        "word": "subsequently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "afterward; following in time or order:",
+        "defn_zh": "隨後;其後"
+      },
+      {
+        "word": "aside",
+        "pos": "adv./n.",
+        "pos_key": "adv.",
+        "defn_en": "to or on one side; a remark not meant to be heard by everyone:",
+        "defn_zh": "在旁邊;旁白"
+      },
+      {
+        "word": "vice versa",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "with the order or meaning reversed; conversely:",
+        "defn_zh": "反之亦然"
+      }
+    ],
+    "other": [
+      {
+        "word": "（此批單字中，暫無符合此字根/字首的單字）",
+        "pos": "",
+        "pos_key": "other",
+        "defn_en": "",
+        "defn_zh": ""
+      }
+    ],
+    "prep./adv.": [
+      {
+        "word": "besides",
+        "pos": "prep./adv.",
+        "pos_key": "prep./adv.",
+        "defn_en": "in addition to; furthermore:",
+        "defn_zh": "除...之外;此外"
+      }
+    ],
+    "phrasalv.": [
+      {
+        "word": "egg on",
+        "pos": "phrasal v.",
+        "pos_key": "phrasalv.",
+        "defn_en": "to encourage someone to do something, often risky:",
+        "defn_zh": "慫恿;鼓動"
+      }
+    ],
+    "abbr.": [
+      {
+        "word": "etc.",
+        "pos": "abbr.",
+        "pos_key": "abbr.",
+        "defn_en": "and other similar things (abbreviation of et cetera):",
+        "defn_zh": "等等(et cetera的縮寫)"
+      }
+    ],
+    "interj.": [
+      {
+        "word": "fiddledeedee",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "an exclamation expressing dismissal of something as nonsense:",
+        "defn_zh": "廢話!(表示不屑一顧)"
+      },
+      {
+        "word": "gesundheit",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "an expression said to someone who has just sneezed:",
+        "defn_zh": "保重(打噴嚏後的祝福語)"
+      }
+    ],
+    "prep.": [
+      {
+        "word": "via",
+        "pos": "prep.",
+        "pos_key": "prep.",
+        "defn_en": "by way of; passing through:",
+        "defn_zh": "經由;透過"
+      }
+    ]
+  }
+}

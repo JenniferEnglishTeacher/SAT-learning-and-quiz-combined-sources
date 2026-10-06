@@ -4,7 +4,7 @@
     "total_batches": 235,
     "part1_part2_batches": 158,
     "unclassified_batches": 77,
-    "generated_batches": 39
+    "generated_batches": 40
   },
   "batches": [
     {
@@ -523,9 +523,9 @@
       "part_label": "Part 1 字首篇 (Prefixes)",
       "name": "multi",
       "subtitle": "多",
-      "count": 1,
-      "generated": false,
-      "search_terms": "multifaceted"
+      "count": 10,
+      "generated": true,
+      "search_terms": "multifaceted multifarious multiplicity multilateral multitude multitudinous multiform multimillion multiparous multiplex"
     },
     {
       "id": "p1-34-octo-octa-octu",
