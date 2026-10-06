@@ -1,0 +1,35 @@
+.dictionary-link {
+  color: #155f78;
+  font-weight: 700;
+  text-decoration-line: underline;
+  text-decoration-style: dotted;
+  text-decoration-thickness: 1.5px;
+  text-underline-offset: 3px;
+}
+
+.dictionary-link:hover,
+.dictionary-link:focus {
+  color: #9c3f30;
+  text-decoration-style: solid;
+}
+
+.dictionary-help,
+.relation-status {
+  color: #68777d;
+  font-size: .78rem;
+}
+
+.word-relations {
+  margin: .65rem 0;
+  padding: .65rem .75rem;
+  border: 1px solid #ddd5c8;
+  border-radius: 9px;
+  background: #fffdf8;
+}
+
+.relation-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .35rem;
+  align-items: baseline;
+}

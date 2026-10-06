@@ -14,6 +14,13 @@ let q = 0;
 let score = 0;
 let results = [];
 let currentStudent = null;
+const relationCache = new Map();
+
+const definitionStopWords = new Set([
+  'a', 'an', 'and', 'are', 'as', 'at', 'be', 'been', 'being', 'by', 'for', 'from',
+  'has', 'have', 'in', 'into', 'is', 'it', 'its', 'no', 'not', 'of', 'on', 'or', 'that', 'the',
+  'their', 'this', 'to', 'was', 'were', 'which', 'with', 'without'
+]);
 
 const shuffle = values => {
   const copy = [...values];
@@ -42,6 +49,95 @@ function speak(text) {
 
 const speaker = (text, label = 'Listen') =>
   `<button class="speak-button" type="button" data-speak="${encodeURIComponent(text)}" aria-label="${esc(label)}">🔊</button>`;
+
+function cambridgeUrl(term) {
+  const slug = String(term).trim().toLocaleLowerCase().replace(/[^a-z0-9' -]/g, '').replace(/\s+/g, '-');
+  return `https://dictionary.cambridge.org/dictionary/english-chinese-traditional/${encodeURIComponent(slug)}`;
+}
+
+function dictionaryLink(term, label = term) {
+  return `<a class="dictionary-link" href="${cambridgeUrl(term)}" target="_blank" rel="noopener noreferrer" title="Look up ${esc(term)} in Cambridge English–Traditional Chinese Dictionary">${esc(label)}</a>`;
+}
+
+function linkedDefinition(definition) {
+  const source = String(definition || '');
+  const pattern = /[A-Za-z]+(?:['’-][A-Za-z]+)*/g;
+  let output = '';
+  let cursor = 0;
+  let match = pattern.exec(source);
+  while (match) {
+    output += esc(source.slice(cursor, match.index));
+    const token = match[0];
+    const normalized = token.toLocaleLowerCase();
+    output += token.length > 2 && !definitionStopWords.has(normalized) ? dictionaryLink(token) : esc(token);
+    cursor = match.index + token.length;
+    match = pattern.exec(source);
+  }
+  return output + esc(source.slice(cursor));
+}
+
+function relationTopics(definition) {
+  return (String(definition).match(/[A-Za-z]+/g) || [])
+    .map(item => item.toLocaleLowerCase())
+    .filter(item => item.length > 3 && !definitionStopWords.has(item))
+    .slice(0, 5)
+    .join(',');
+}
+
+async function datamuseWords(parameter, query, max, posKey, topics = '') {
+  const controller = new AbortController();
+  const timeout = setTimeout(() => controller.abort(), 6500);
+  try {
+    const topicHint = topics ? `&topics=${encodeURIComponent(topics)}` : '';
+    const url = `https://api.datamuse.com/words?${parameter}=${encodeURIComponent(query)}&max=${max * 3}&md=p${topicHint}`;
+    const response = await fetch(url, { signal: controller.signal });
+    if (!response.ok) throw new Error('Relation lookup failed');
+    const data = await response.json();
+    const expectedTag = { 'n.': 'n', 'v.': 'v', 'adj.': 'adj', 'adv.': 'adv' }[posKey];
+    return data
+      .filter(item => !expectedTag || (Array.isArray(item.tags) && item.tags.includes(expectedTag)))
+      .map(item => String(item.word || '').replaceAll('_', ' ').trim())
+      .filter(Boolean)
+      .slice(0, max);
+  } finally {
+    clearTimeout(timeout);
+  }
+}
+
+function wordRelations(word, posKey, definition) {
+  const headword = String(word).toLocaleLowerCase();
+  const key = `${headword}|${posKey}|${definition}`;
+  if (!relationCache.has(key)) {
+    relationCache.set(key, Promise.allSettled([
+      datamuseWords('rel_syn', headword, 6, posKey, relationTopics(definition)),
+      datamuseWords('rel_ant', headword, 4, posKey)
+    ]).then(([synonyms, antonyms]) => ({
+      synonyms: synonyms.status === 'fulfilled' ? synonyms.value.filter(item => item.toLocaleLowerCase() !== headword).slice(0, 6) : [],
+      antonyms: antonyms.status === 'fulfilled' ? antonyms.value : [],
+      available: synonyms.status === 'fulfilled' || antonyms.status === 'fulfilled'
+    })));
+  }
+  return relationCache.get(key);
+}
+
+function relationRow(label, words) {
+  return `<p class="relation-row"><strong>${label}:</strong> ${words.map(item => dictionaryLink(item)).join(', ')}</p>`;
+}
+
+async function loadWordRelations(word, posKey, definition, container) {
+  if (!container || container.dataset.loaded === 'true') return;
+  container.dataset.loaded = 'true';
+  try {
+    const relations = await wordRelations(word, posKey, definition);
+    if (!relations.available) throw new Error('No relation service');
+    const sections = [];
+    sections.push(relations.synonyms.length ? relationRow('Synonyms', relations.synonyms) : '<p class="relation-row"><strong>Synonyms:</strong> No synonym listed.</p>');
+    if (relations.antonyms.length) sections.push(relationRow('Antonyms', relations.antonyms));
+    container.innerHTML = sections.join('');
+  } catch {
+    container.innerHTML = '<p class="relation-status">Synonyms are temporarily unavailable. You can still click definition words to use Cambridge Dictionary.</p>';
+  }
+}
 
 document.addEventListener('click', event => {
   const button = event.target.closest('[data-speak]');
@@ -100,7 +196,7 @@ function renderLearn() {
     const options = shuffle([word, ...candidates(word, 2)]);
     const card = document.createElement('article');
     card.className = 'word-card';
-    card.innerHTML = `<div class="word-card-header"><h3>${esc(word.word)} <span class="pos">${esc(word.pos)}</span></h3>${speaker(word.word, `Listen to ${word.word}`)}</div><p class="root-note"><strong>Root clue:</strong> ${esc(word.root_note || 'Use the word in context.')}</p><div class="sentences">${word.sentences.map(sentence => { const text = full(sentence.en, word.word); return `<div class="sentence">${speaker(text, 'Listen to example sentence')}<span>${esc(text)}</span></div>`; }).join('')}</div><p class="definition-prompt">Which definition matches this word?</p><div class="option-list">${options.map(option => `<button class="option-button" type="button" data-definition="${encodeURIComponent(option.defn_en)}">${esc(option.defn_en)}</button>`).join('')}</div><div class="reveal" hidden><p><strong>English definition:</strong> ${esc(word.defn_en)}</p><p class="meaning-zh"><strong>繁體中文：</strong> ${esc(word.defn_zh)}</p>${word.sentences.map(sentence => `<p><strong>翻譯：</strong> ${esc(sentence.zh)}</p>`).join('')}</div>`;
+    card.innerHTML = `<div class="word-card-header"><h3>${esc(word.word)} <span class="pos">${esc(word.pos)}</span></h3>${speaker(word.word, `Listen to ${word.word}`)}</div><p class="root-note"><strong>Root clue:</strong> ${esc(word.root_note || 'Use the word in context.')}</p><div class="sentences">${word.sentences.map(sentence => { const text = full(sentence.en, word.word); return `<div class="sentence">${speaker(text, 'Listen to example sentence')}<span>${esc(text)}</span></div>`; }).join('')}</div><p class="definition-prompt">Which definition matches this word?</p><div class="option-list">${options.map(option => `<button class="option-button" type="button" data-definition="${encodeURIComponent(option.defn_en)}">${esc(option.defn_en)}</button>`).join('')}</div><div class="reveal" hidden><p><strong>English definition:</strong> <span class="linked-definition">${linkedDefinition(word.defn_en)}</span></p><p class="dictionary-help">Click any underlined content word to open Cambridge English–Traditional Chinese Dictionary.</p><div class="word-relations" data-word-relations><p class="relation-status">Loading synonyms and antonyms…</p></div><p class="meaning-zh"><strong>繁體中文：</strong> ${esc(word.defn_zh)}</p>${word.sentences.map(sentence => `<p><strong>翻譯：</strong> ${esc(sentence.zh)}</p>`).join('')}</div>`;
     card.querySelectorAll('[data-definition]').forEach(button => button.addEventListener('click', () => {
       if (card.dataset.answered) return;
       card.dataset.answered = 'true';
@@ -110,7 +206,9 @@ function renderLearn() {
         if (decodeURIComponent(option.dataset.definition) === word.defn_en) option.classList.add('correct');
       });
       if (!correct) button.classList.add('wrong');
-      card.querySelector('.reveal').hidden = false;
+      const reveal = card.querySelector('.reveal');
+      reveal.hidden = false;
+      loadWordRelations(word.word, word.pos_key, word.defn_en, reveal.querySelector('[data-word-relations]'));
       learned += 1;
       updateProgress();
     }));
