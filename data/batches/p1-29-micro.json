@@ -1,0 +1,767 @@
+{
+  "id": "p1-29-micro",
+  "part": "part1",
+  "part_label": "Part 1 字首篇 (Prefixes)",
+  "name": "micro",
+  "subtitle": "小；微小",
+  "count": 10,
+  "words": [
+    {
+      "word": "microcosm",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a small place, society, or situation that has the same characteristics as something much larger:",
+      "defn_zh": "微觀世界；縮影",
+      "synonyms": [
+        "miniature",
+        "pocket-sized model",
+        "epitome"
+      ],
+      "antonyms": [
+        "macrocosm",
+        "universe",
+        "whole"
+      ],
+      "root_note": "micro- (small) + cosm (world or order)",
+      "sentences": [
+        {
+          "en": "The playground is a ______ of society, reflecting how adults behave in the real world.",
+          "zh": "這個遊樂場是整個社會的縮影，反映了成年人在現實世界中的行為方式。"
+        },
+        {
+          "en": "The artist created a beautiful ______ of 19th-century London inside a small glass case.",
+          "zh": "藝術家在一個小玻璃櫃裡，創造了一個美麗的 19 世紀倫敦微觀世界。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "29",
+        "spelling": "micro",
+        "meaning": "小；微小"
+      }
+    },
+    {
+      "word": "microscopic",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "extremely small or visible only with a microscope:",
+      "defn_zh": "微小的；顯微鏡下可見的",
+      "synonyms": [
+        "infinitesimal",
+        "minuscule",
+        "tiny"
+      ],
+      "antonyms": [
+        "macroscopic",
+        "huge",
+        "colossal"
+      ],
+      "root_note": "micro- (small) + scop (look or examine) + -ic (adjective ending)",
+      "sentences": [
+        {
+          "en": "The pond water was filled with ______ organisms that could not be seen with the naked eye.",
+          "zh": "池塘水裡充滿了肉眼看不見的微小生物。"
+        },
+        {
+          "en": "Forensic scientists found ______ traces of fabric on the suspect's jacket.",
+          "zh": "鑑識科學家在嫌疑犯的外套上發現了微量的纖維痕跡。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "29",
+        "spelling": "micro",
+        "meaning": "小；微小"
+      }
+    },
+    {
+      "word": "micromanage",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to control every detail of a situation or another person's work in an excessive and annoying way:",
+      "defn_zh": "微觀管理；事事管束",
+      "synonyms": [
+        "overmanage",
+        "scrutinize",
+        "nitpick"
+      ],
+      "antonyms": [
+        "delegate",
+        "trust"
+      ],
+      "root_note": "micro- (small detail) + manage (control or direct)",
+      "sentences": [
+        {
+          "en": "Staff members felt stressed because their manager tried to ______ every single email they sent.",
+          "zh": "員工們感到壓力很大，因為他們的經理試圖事事管束他們發出的每一封電子郵件。"
+        },
+        {
+          "en": "Great leaders learn to delegate tasks rather than ______ their team's daily routines.",
+          "zh": "優秀的領導者學會委派任務，而不是對團隊的日常事務事事管束。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "29",
+        "spelling": "micro",
+        "meaning": "小；微小"
+      }
+    },
+    {
+      "word": "microclimate",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "the weather conditions of a small specific area that differ from those of the surrounding area:",
+      "defn_zh": "微氣候",
+      "synonyms": [
+        "local climate",
+        "pocket climate"
+      ],
+      "antonyms": [
+        "macroclimate",
+        "global climate"
+      ],
+      "root_note": "micro- (small) + climate (weather conditions)",
+      "sentences": [
+        {
+          "en": "Because of the tall skyscrapers and narrow streets, this city park has its own unique ______.",
+          "zh": "由於高聳的摩天大樓和狹窄的街道，這座城市公園擁有自己獨特的微氣候。"
+        },
+        {
+          "en": "The valley creates a sheltered ______ that allows grapes to grow even during cold winters.",
+          "zh": "這個山谷形成了一個避風的微氣候，使得葡萄即使在寒冷的冬天也能生長。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "29",
+        "spelling": "micro",
+        "meaning": "小；微小"
+      }
+    },
+    {
+      "word": "micronutrient",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a vitamin, mineral, or other substance that living things need in very small amounts:",
+      "defn_zh": "微量營養素",
+      "synonyms": [
+        "trace element",
+        "trace mineral"
+      ],
+      "antonyms": [
+        "macronutrient"
+      ],
+      "root_note": "micro- (small amount) + nutrient (nourishing substance)",
+      "sentences": [
+        {
+          "en": "Iron is an essential ______ that helps your blood carry oxygen throughout your body.",
+          "zh": "鐵是一種不可或缺的微量營養素，能幫助你的血液將氧氣輸送到全身。"
+        },
+        {
+          "en": "Even though plants only need a tiny amount, a lack of any ______ can turn leaves yellow.",
+          "zh": "儘管植物只需要一點點，但缺乏任何一種微量營養素都會導致葉子發黃。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "29",
+        "spelling": "micro",
+        "meaning": "小；微小"
+      }
+    },
+    {
+      "word": "microdot",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a photograph or document reduced to the size of a tiny dot, historically used to hide information in espionage:",
+      "defn_zh": "微點；微型膠卷照片",
+      "synonyms": [
+        "microfilm",
+        "miniature print"
+      ],
+      "antonyms": [
+        "enlargement",
+        "macrograph"
+      ],
+      "root_note": "micro- (very small) + dot (tiny mark)",
+      "sentences": [
+        {
+          "en": "The spy hid secret military blueprints on a tiny ______ stuck to the back of a postage stamp.",
+          "zh": "間諜將秘密軍事藍圖隱藏在貼在郵票背面的微小微點上。"
+        },
+        {
+          "en": "You need a high-powered magnifying glass to read the text hidden inside this historical ______.",
+          "zh": "你需要高倍率的放大鏡才能閱讀隱藏在這個歷史微點裡的文字。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "29",
+        "spelling": "micro",
+        "meaning": "小；微小"
+      }
+    },
+    {
+      "word": "microsecond",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "one millionth of a second; an extremely brief moment of time:",
+      "defn_zh": "微秒",
+      "synonyms": [
+        "instant",
+        "flash",
+        "split second"
+      ],
+      "antonyms": [
+        "eternity",
+        "age"
+      ],
+      "root_note": "micro- (one millionth) + second (unit of time)",
+      "sentences": [
+        {
+          "en": "The new computer chip can process complex financial transactions in less than a ______.",
+          "zh": "這款新型電腦晶片可以在不到一微秒的時間內處理複雜的金融交易。"
+        },
+        {
+          "en": "The camera shutter opened for just a ______ to capture the exact moment the balloon popped.",
+          "zh": "相機快門僅開啟了一微秒，以捕捉氣球破裂的精確瞬間。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "29",
+        "spelling": "micro",
+        "meaning": "小；微小"
+      }
+    },
+    {
+      "word": "microbiology",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "the scientific study of extremely small living things such as bacteria, viruses, and fungi:",
+      "defn_zh": "微生物學",
+      "synonyms": [
+        "bacteriology",
+        "virology"
+      ],
+      "antonyms": [
+        "macrobiology"
+      ],
+      "root_note": "micro- (small) + bio (life) + logy (study)",
+      "sentences": [
+        {
+          "en": "Students majoring in ______ spend hours in the lab studying how bacteria develop resistance to medicine.",
+          "zh": "主修微生物學的學生在實驗室裡花費數小時研究細菌如何對藥物產生抗藥性。"
+        },
+        {
+          "en": "Discoveries in ______ have led to the creation of life-saving antibiotics.",
+          "zh": "微生物學領域的發現促成了挽救生命的抗生素的誕生。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "29",
+        "spelling": "micro",
+        "meaning": "小；微小"
+      }
+    },
+    {
+      "word": "microfauna",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "microscopic animals or organisms, especially those living in soil or another specific habitat:",
+      "defn_zh": "微型動物群",
+      "synonyms": [
+        "microscopic wildlife",
+        "microorganisms"
+      ],
+      "antonyms": [
+        "macrofauna"
+      ],
+      "root_note": "micro- (small) + fauna (animals of a region)",
+      "sentences": [
+        {
+          "en": "Healthy soil relies on rich ______ to break down dead leaves and recycle nutrients.",
+          "zh": "健康的土壤依賴豐富的微型動物群來分解枯葉並循環營養物質。"
+        },
+        {
+          "en": "The team discovered a new species of ______ thriving in the underground water system.",
+          "zh": "該團隊在地下水系統中發現了一種正蓬勃生長的微型動物新物種。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "29",
+        "spelling": "micro",
+        "meaning": "小；微小"
+      }
+    },
+    {
+      "word": "microarchitecture",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "the detailed internal design and organization of a computer's central processing unit:",
+      "defn_zh": "微架構",
+      "synonyms": [
+        "hardware design",
+        "chip structure"
+      ],
+      "antonyms": [
+        "macroarchitecture"
+      ],
+      "root_note": "micro- (small or detailed) + architecture (structural design)",
+      "sentences": [
+        {
+          "en": "The company improved its chip efficiency by completely redesigning the processor's ______.",
+          "zh": "該公司藉由徹底重新設計處理器的微架構，提高了晶片效率。"
+        },
+        {
+          "en": "Understanding ______ helps programmers write software that runs faster on specific hardware.",
+          "zh": "了解微架構有助於程式設計師編寫在特定硬體上運行更快的軟體。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "29",
+        "spelling": "micro",
+        "meaning": "小；微小"
+      }
+    }
+  ],
+  "family_options": {
+    "adj.": [
+      {
+        "word": "microcosmic",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "relating to or representing a microcosm:",
+        "defn_zh": "微觀世界的；縮影的",
+        "derived_from": "microcosm"
+      },
+      {
+        "word": "microclimatic",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "relating to the climate of a small specific area:",
+        "defn_zh": "微氣候的",
+        "derived_from": "microclimate"
+      },
+      {
+        "word": "microbiological",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "relating to microbiology or microscopic organisms:",
+        "defn_zh": "微生物學的；微生物的",
+        "derived_from": "microbiology"
+      }
+    ]
+  },
+  "fallback_options": {
+    "v.": [
+      {
+        "word": "abound",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to exist in great numbers:",
+        "defn_zh": "充滿"
+      },
+      {
+        "word": "abrogate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to deprive of legal force, to nullify:=abolish",
+        "defn_zh": "廢除/取消"
+      },
+      {
+        "word": "abjure",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to renounce, abstain from:",
+        "defn_zh": "發誓放棄/棄絕"
+      },
+      {
+        "word": "abbreviate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to shorten a word or phrase:",
+        "defn_zh": "縮寫;縮短"
+      },
+      {
+        "word": "abdicate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to give up a position, usually one of leadership:",
+        "defn_zh": "退位/放棄(職位)"
+      },
+      {
+        "word": "abduct",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to kidnap, take by force:",
+        "defn_zh": "綁架/劫持"
+      },
+      {
+        "word": "abhor",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to regard with disgust and hatred:",
+        "defn_zh": "憎惡/厭惡"
+      },
+      {
+        "word": "abnegate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to deny or renounce:",
+        "defn_zh": "放棄/克制"
+      },
+      {
+        "word": "abolish",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to formally put an end to a system, practice, or institution:",
+        "defn_zh": "廢除"
+      },
+      {
+        "word": "abort",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to give up on a half-finished project or effort:",
+        "defn_zh": "中止/放棄"
+      },
+      {
+        "word": "abrade",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to scrape or wear away by friction:",
+        "defn_zh": "磨損;擦傷"
+      },
+      {
+        "word": "abscond",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to sneak away and hide:",
+        "defn_zh": "潛逃/逃匿"
+      }
+    ],
+    "adj.": [
+      {
+        "word": "abortive",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "fruitless, failing:",
+        "defn_zh": "失敗的/夭折的"
+      },
+      {
+        "word": "abstemious",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "moderate in eating or drinking:",
+        "defn_zh": "飲食有節制的"
+      },
+      {
+        "word": "abhorrent",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "detestable, despised:",
+        "defn_zh": "令人厭惡的"
+      },
+      {
+        "word": "absurd",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "ridiculous:",
+        "defn_zh": "荒謬的"
+      },
+      {
+        "word": "aberrant",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "deviating from what is normal or expected:",
+        "defn_zh": "異常的;脫軌的"
+      },
+      {
+        "word": "abject",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "wretched, pitiful:",
+        "defn_zh": "卑賤的/淒慘的"
+      },
+      {
+        "word": "abominable",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "causing moral revulsion; extremely unpleasant:",
+        "defn_zh": "可憎的;惡劣的"
+      },
+      {
+        "word": "abounding",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "existing in large numbers or amounts:",
+        "defn_zh": "大量存在的;豐富的"
+      },
+      {
+        "word": "abrasive",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "showing little concern for others; harsh:",
+        "defn_zh": "粗暴的/刺耳的"
+      },
+      {
+        "word": "abrupt",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "sudden or unexpected; brief and curt in manner:",
+        "defn_zh": "突然的/唐突的"
+      },
+      {
+        "word": "abstract",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "existing purely in the mind; not representing actual reality:",
+        "defn_zh": "抽象的"
+      },
+      {
+        "word": "abstruse",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "hard to comprehend:",
+        "defn_zh": "深奧難懂的"
+      }
+    ],
+    "n.": [
+      {
+        "word": "aversion",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "strong dislike, opposition:",
+        "defn_zh": "厭惡/反感"
+      },
+      {
+        "word": "aberration",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "something that differs from the norm:",
+        "defn_zh": "異常/脫軌"
+      },
+      {
+        "word": "abjection",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a state of complete misery, hopelessness, or degradation:",
+        "defn_zh": "卑賤;悲慘狀態"
+      },
+      {
+        "word": "abjuration",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the solemn renunciation of a belief, cause, or claim:",
+        "defn_zh": "公開放棄;誓絕"
+      },
+      {
+        "word": "ablution",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the act of washing oneself, especially as part of a religious ritual:",
+        "defn_zh": "沐浴;淨身儀式"
+      },
+      {
+        "word": "abnegation",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "denial of comfort to oneself:",
+        "defn_zh": "自我克制/放棄"
+      },
+      {
+        "word": "abomination",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "something that causes disgust or hatred:",
+        "defn_zh": "可憎之事;令人厭惡的東西"
+      },
+      {
+        "word": "abridgement",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a shortened version of a book or other written work:",
+        "defn_zh": "節略本;縮減版"
+      },
+      {
+        "word": "absolution",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "freedom from blame, guilt, sin:",
+        "defn_zh": "赦免/免罪"
+      },
+      {
+        "word": "abstemiousness",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "moderation or self-restraint, especially in eating and drinking:",
+        "defn_zh": "節制;克己"
+      },
+      {
+        "word": "abstinence",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the practice of restraining oneself from something enjoyable, especially food, alcohol, or sex:",
+        "defn_zh": "節制;戒絕"
+      },
+      {
+        "word": "avocation",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a hobby or minor occupation apart from one's main career:",
+        "defn_zh": "副業;業餘愛好"
+      }
+    ],
+    "adv.": [
+      {
+        "word": "accordingly",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in a manner that fits the circumstances; consequently:",
+        "defn_zh": "相應地;因此"
+      },
+      {
+        "word": "inadvertently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "unintentionally or by accident:",
+        "defn_zh": "無意間/不小心地"
+      },
+      {
+        "word": "consequently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "as a result; therefore:",
+        "defn_zh": "因此;結果"
+      },
+      {
+        "word": "contemptuously",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "without respect; in a disdainful manner:",
+        "defn_zh": "輕蔑地"
+      },
+      {
+        "word": "involuntarily",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "done without conscious control:",
+        "defn_zh": "不由自主地"
+      },
+      {
+        "word": "cordially",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in a warm or friendly manner:",
+        "defn_zh": "誠摯地/友好地"
+      },
+      {
+        "word": "ipso facto",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "by that very fact or act:",
+        "defn_zh": "事實上;因此"
+      },
+      {
+        "word": "en passant",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in passing; incidentally:",
+        "defn_zh": "順帶一提地;偶然地"
+      },
+      {
+        "word": "regardless",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "despite the prevailing circumstances; without being deterred:",
+        "defn_zh": "不管怎樣;儘管如此"
+      },
+      {
+        "word": "subsequently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "afterward; following in time or order:",
+        "defn_zh": "隨後;其後"
+      },
+      {
+        "word": "aside",
+        "pos": "adv./n.",
+        "pos_key": "adv.",
+        "defn_en": "to or on one side; a remark not meant to be heard by everyone:",
+        "defn_zh": "在旁邊;旁白"
+      },
+      {
+        "word": "vice versa",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "with the order or meaning reversed; conversely:",
+        "defn_zh": "反之亦然"
+      }
+    ],
+    "other": [
+      {
+        "word": "（此批單字中，暫無符合此字根/字首的單字）",
+        "pos": "",
+        "pos_key": "other",
+        "defn_en": "",
+        "defn_zh": ""
+      }
+    ],
+    "prep./adv.": [
+      {
+        "word": "besides",
+        "pos": "prep./adv.",
+        "pos_key": "prep./adv.",
+        "defn_en": "in addition to; furthermore:",
+        "defn_zh": "除...之外;此外"
+      }
+    ],
+    "phrasalv.": [
+      {
+        "word": "egg on",
+        "pos": "phrasal v.",
+        "pos_key": "phrasalv.",
+        "defn_en": "to encourage someone to do something, often risky:",
+        "defn_zh": "慫恿;鼓動"
+      }
+    ],
+    "abbr.": [
+      {
+        "word": "etc.",
+        "pos": "abbr.",
+        "pos_key": "abbr.",
+        "defn_en": "and other similar things (abbreviation of et cetera):",
+        "defn_zh": "等等(et cetera的縮寫)"
+      }
+    ],
+    "interj.": [
+      {
+        "word": "fiddledeedee",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "an exclamation expressing dismissal of something as nonsense:",
+        "defn_zh": "廢話!(表示不屑一顧)"
+      },
+      {
+        "word": "gesundheit",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "an expression said to someone who has just sneezed:",
+        "defn_zh": "保重(打噴嚏後的祝福語)"
+      }
+    ],
+    "prep.": [
+      {
+        "word": "via",
+        "pos": "prep.",
+        "pos_key": "prep.",
+        "defn_en": "by way of; passing through:",
+        "defn_zh": "經由;透過"
+      }
+    ]
+  }
+}

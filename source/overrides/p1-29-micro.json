@@ -1,0 +1,157 @@
+{
+  "id": "p1-29-micro",
+  "name": "micro",
+  "subtitle": "小；微小",
+  "words": [
+    {
+      "word": "microcosm",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a small place, society, or situation that has the same characteristics as something much larger:",
+      "defn_zh": "微觀世界；縮影",
+      "synonyms": ["miniature", "pocket-sized model", "epitome"],
+      "antonyms": ["macrocosm", "universe", "whole"],
+      "root_note": "micro- (small) + cosm (world or order)",
+      "sentences": [
+        {"en": "The playground is a ______ of society, reflecting how adults behave in the real world.", "zh": "這個遊樂場是整個社會的縮影，反映了成年人在現實世界中的行為方式。"},
+        {"en": "The artist created a beautiful ______ of 19th-century London inside a small glass case.", "zh": "藝術家在一個小玻璃櫃裡，創造了一個美麗的 19 世紀倫敦微觀世界。"}
+      ],
+      "category": {"part": 1, "num": "29", "spelling": "micro", "meaning": "小；微小"}
+    },
+    {
+      "word": "microscopic",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "extremely small or visible only with a microscope:",
+      "defn_zh": "微小的；顯微鏡下可見的",
+      "synonyms": ["infinitesimal", "minuscule", "tiny"],
+      "antonyms": ["macroscopic", "huge", "colossal"],
+      "root_note": "micro- (small) + scop (look or examine) + -ic (adjective ending)",
+      "sentences": [
+        {"en": "The pond water was filled with ______ organisms that could not be seen with the naked eye.", "zh": "池塘水裡充滿了肉眼看不見的微小生物。"},
+        {"en": "Forensic scientists found ______ traces of fabric on the suspect's jacket.", "zh": "鑑識科學家在嫌疑犯的外套上發現了微量的纖維痕跡。"}
+      ],
+      "category": {"part": 1, "num": "29", "spelling": "micro", "meaning": "小；微小"}
+    },
+    {
+      "word": "micromanage",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to control every detail of a situation or another person's work in an excessive and annoying way:",
+      "defn_zh": "微觀管理；事事管束",
+      "synonyms": ["overmanage", "scrutinize", "nitpick"],
+      "antonyms": ["delegate", "trust"],
+      "root_note": "micro- (small detail) + manage (control or direct)",
+      "sentences": [
+        {"en": "Staff members felt stressed because their manager tried to ______ every single email they sent.", "zh": "員工們感到壓力很大，因為他們的經理試圖事事管束他們發出的每一封電子郵件。"},
+        {"en": "Great leaders learn to delegate tasks rather than ______ their team's daily routines.", "zh": "優秀的領導者學會委派任務，而不是對團隊的日常事務事事管束。"}
+      ],
+      "category": {"part": 1, "num": "29", "spelling": "micro", "meaning": "小；微小"}
+    },
+    {
+      "word": "microclimate",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "the weather conditions of a small specific area that differ from those of the surrounding area:",
+      "defn_zh": "微氣候",
+      "synonyms": ["local climate", "pocket climate"],
+      "antonyms": ["macroclimate", "global climate"],
+      "root_note": "micro- (small) + climate (weather conditions)",
+      "sentences": [
+        {"en": "Because of the tall skyscrapers and narrow streets, this city park has its own unique ______.", "zh": "由於高聳的摩天大樓和狹窄的街道，這座城市公園擁有自己獨特的微氣候。"},
+        {"en": "The valley creates a sheltered ______ that allows grapes to grow even during cold winters.", "zh": "這個山谷形成了一個避風的微氣候，使得葡萄即使在寒冷的冬天也能生長。"}
+      ],
+      "category": {"part": 1, "num": "29", "spelling": "micro", "meaning": "小；微小"}
+    },
+    {
+      "word": "micronutrient",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a vitamin, mineral, or other substance that living things need in very small amounts:",
+      "defn_zh": "微量營養素",
+      "synonyms": ["trace element", "trace mineral"],
+      "antonyms": ["macronutrient"],
+      "root_note": "micro- (small amount) + nutrient (nourishing substance)",
+      "sentences": [
+        {"en": "Iron is an essential ______ that helps your blood carry oxygen throughout your body.", "zh": "鐵是一種不可或缺的微量營養素，能幫助你的血液將氧氣輸送到全身。"},
+        {"en": "Even though plants only need a tiny amount, a lack of any ______ can turn leaves yellow.", "zh": "儘管植物只需要一點點，但缺乏任何一種微量營養素都會導致葉子發黃。"}
+      ],
+      "category": {"part": 1, "num": "29", "spelling": "micro", "meaning": "小；微小"}
+    },
+    {
+      "word": "microdot",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a photograph or document reduced to the size of a tiny dot, historically used to hide information in espionage:",
+      "defn_zh": "微點；微型膠卷照片",
+      "synonyms": ["microfilm", "miniature print"],
+      "antonyms": ["enlargement", "macrograph"],
+      "root_note": "micro- (very small) + dot (tiny mark)",
+      "sentences": [
+        {"en": "The spy hid secret military blueprints on a tiny ______ stuck to the back of a postage stamp.", "zh": "間諜將秘密軍事藍圖隱藏在貼在郵票背面的微小微點上。"},
+        {"en": "You need a high-powered magnifying glass to read the text hidden inside this historical ______.", "zh": "你需要高倍率的放大鏡才能閱讀隱藏在這個歷史微點裡的文字。"}
+      ],
+      "category": {"part": 1, "num": "29", "spelling": "micro", "meaning": "小；微小"}
+    },
+    {
+      "word": "microsecond",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "one millionth of a second; an extremely brief moment of time:",
+      "defn_zh": "微秒",
+      "synonyms": ["instant", "flash", "split second"],
+      "antonyms": ["eternity", "age"],
+      "root_note": "micro- (one millionth) + second (unit of time)",
+      "sentences": [
+        {"en": "The new computer chip can process complex financial transactions in less than a ______.", "zh": "這款新型電腦晶片可以在不到一微秒的時間內處理複雜的金融交易。"},
+        {"en": "The camera shutter opened for just a ______ to capture the exact moment the balloon popped.", "zh": "相機快門僅開啟了一微秒，以捕捉氣球破裂的精確瞬間。"}
+      ],
+      "category": {"part": 1, "num": "29", "spelling": "micro", "meaning": "小；微小"}
+    },
+    {
+      "word": "microbiology",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "the scientific study of extremely small living things such as bacteria, viruses, and fungi:",
+      "defn_zh": "微生物學",
+      "synonyms": ["bacteriology", "virology"],
+      "antonyms": ["macrobiology"],
+      "root_note": "micro- (small) + bio (life) + logy (study)",
+      "sentences": [
+        {"en": "Students majoring in ______ spend hours in the lab studying how bacteria develop resistance to medicine.", "zh": "主修微生物學的學生在實驗室裡花費數小時研究細菌如何對藥物產生抗藥性。"},
+        {"en": "Discoveries in ______ have led to the creation of life-saving antibiotics.", "zh": "微生物學領域的發現促成了挽救生命的抗生素的誕生。"}
+      ],
+      "category": {"part": 1, "num": "29", "spelling": "micro", "meaning": "小；微小"}
+    },
+    {
+      "word": "microfauna",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "microscopic animals or organisms, especially those living in soil or another specific habitat:",
+      "defn_zh": "微型動物群",
+      "synonyms": ["microscopic wildlife", "microorganisms"],
+      "antonyms": ["macrofauna"],
+      "root_note": "micro- (small) + fauna (animals of a region)",
+      "sentences": [
+        {"en": "Healthy soil relies on rich ______ to break down dead leaves and recycle nutrients.", "zh": "健康的土壤依賴豐富的微型動物群來分解枯葉並循環營養物質。"},
+        {"en": "The team discovered a new species of ______ thriving in the underground water system.", "zh": "該團隊在地下水系統中發現了一種正蓬勃生長的微型動物新物種。"}
+      ],
+      "category": {"part": 1, "num": "29", "spelling": "micro", "meaning": "小；微小"}
+    },
+    {
+      "word": "microarchitecture",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "the detailed internal design and organization of a computer's central processing unit:",
+      "defn_zh": "微架構",
+      "synonyms": ["hardware design", "chip structure"],
+      "antonyms": ["macroarchitecture"],
+      "root_note": "micro- (small or detailed) + architecture (structural design)",
+      "sentences": [
+        {"en": "The company improved its chip efficiency by completely redesigning the processor's ______.", "zh": "該公司藉由徹底重新設計處理器的微架構，提高了晶片效率。"},
+        {"en": "Understanding ______ helps programmers write software that runs faster on specific hardware.", "zh": "了解微架構有助於程式設計師編寫在特定硬體上運行更快的軟體。"}
+      ],
+      "category": {"part": 1, "num": "29", "spelling": "micro", "meaning": "小；微小"}
+    }
+  ]
+}

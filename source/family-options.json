@@ -127,5 +127,30 @@
         "derived_from": "homomorphic"
       }
     ]
+  },
+  "p1-29-micro": {
+    "adj.": [
+      {
+        "word": "microcosmic",
+        "pos": "adj.",
+        "defn_en": "relating to or representing a microcosm:",
+        "defn_zh": "微觀世界的；縮影的",
+        "derived_from": "microcosm"
+      },
+      {
+        "word": "microclimatic",
+        "pos": "adj.",
+        "defn_en": "relating to the climate of a small specific area:",
+        "defn_zh": "微氣候的",
+        "derived_from": "microclimate"
+      },
+      {
+        "word": "microbiological",
+        "pos": "adj.",
+        "defn_en": "relating to microbiology or microscopic organisms:",
+        "defn_zh": "微生物學的；微生物的",
+        "derived_from": "microbiology"
+      }
+    ]
   }
 }
