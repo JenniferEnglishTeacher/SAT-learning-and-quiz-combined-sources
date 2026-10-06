@@ -139,6 +139,28 @@ async function loadWordRelations(word, posKey, definition, container) {
   }
 }
 
+let referenceRelationObserver = null;
+
+function observeReferenceRelations(container, word) {
+  if (!container) return;
+  if (!('IntersectionObserver' in window)) {
+    loadWordRelations(word.word, word.pos_key, word.defn_en, container);
+    return;
+  }
+  if (!referenceRelationObserver) {
+    referenceRelationObserver = new IntersectionObserver(entries => {
+      entries.forEach(entry => {
+        if (!entry.isIntersecting) return;
+        referenceRelationObserver.unobserve(entry.target);
+        const targetWord = entry.target.relationWord;
+        if (targetWord) loadWordRelations(targetWord.word, targetWord.pos_key, targetWord.defn_en, entry.target);
+      });
+    }, { rootMargin: '300px 0px' });
+  }
+  container.relationWord = word;
+  referenceRelationObserver.observe(container);
+}
+
 document.addEventListener('click', event => {
   const button = event.target.closest('[data-speak]');
   if (button) speak(decodeURIComponent(button.dataset.speak));
@@ -221,8 +243,9 @@ function renderReference() {
   batch.words.forEach(word => {
     const card = document.createElement('article');
     card.className = 'reference-card';
-    card.innerHTML = `<div class="word-card-header"><h3>${esc(word.word)} <span class="pos">${esc(word.pos)}</span></h3>${speaker(word.word, `Listen to ${word.word}`)}</div><p class="root-note reference-root-note"><strong>Prefix/root clue:</strong> ${esc(word.root_note || 'Use the word in context.')}</p><div class="reference-definitions"><div class="reference-definition"><strong>English definition</strong>${esc(word.defn_en)}</div><div class="reference-definition"><strong>繁體中文</strong>${esc(word.defn_zh)}</div></div><div class="reference-sentences">${word.sentences.map(sentence => { const text = full(sentence.en, word.word); return `<div class="reference-sentence"><div>${speaker(text, 'Listen to example sentence')}<span>${highlighted(text, word.word)}</span></div><p><strong>翻譯：</strong> ${esc(sentence.zh)}</p></div>`; }).join('')}</div>`;
+    card.innerHTML = `<div class="word-card-header"><h3>${esc(word.word)} <span class="pos">${esc(word.pos)}</span></h3>${speaker(word.word, `Listen to ${word.word}`)}</div><p class="root-note reference-root-note"><strong>Prefix/root clue:</strong> ${esc(word.root_note || 'Use the word in context.')}</p><div class="reference-definitions"><div class="reference-definition"><strong>English definition</strong><span class="linked-definition">${linkedDefinition(word.defn_en)}</span><span class="dictionary-help">Click any underlined content word to open Cambridge English–Traditional Chinese Dictionary.</span></div><div class="reference-definition"><strong>繁體中文</strong>${esc(word.defn_zh)}</div></div><div class="word-relations reference-relations" data-word-relations><p class="relation-status">Loading synonyms and antonyms…</p></div><div class="reference-sentences">${word.sentences.map(sentence => { const text = full(sentence.en, word.word); return `<div class="reference-sentence"><div>${speaker(text, 'Listen to example sentence')}<span>${highlighted(text, word.word)}</span></div><p><strong>翻譯：</strong> ${esc(sentence.zh)}</p></div>`; }).join('')}</div>`;
     referenceGrid.append(card);
+    observeReferenceRelations(card.querySelector('[data-word-relations]'), word);
   });
 }
 

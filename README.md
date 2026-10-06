@@ -8,7 +8,7 @@ A mobile-friendly static learning site for 6,805 SAT vocabulary records, organiz
 - One reusable learn-and-quiz page serves every batch.
 - Batch JSON files are added incrementally; `data/progress.json` is the source of truth.
 - Learn mode locks each word after the first definition choice.
-- After an answer, definition content words and synonym/antonym words link to Cambridge's English–Traditional Chinese Dictionary. Synonym and antonym suggestions are provided by the Datamuse API.
+- In Part 1 after an answer, and throughout Part 3, definition content words and synonym/antonym words link to Cambridge's English–Traditional Chinese Dictionary. Synonym and antonym suggestions are provided by the Datamuse API.
 - Progress is stored per browser with `localStorage`.
 
 ## Build the next batch

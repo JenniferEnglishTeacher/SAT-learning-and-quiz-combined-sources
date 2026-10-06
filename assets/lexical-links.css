@@ -15,8 +15,16 @@
 
 .dictionary-help,
 .relation-status {
+  display: block;
   color: #68777d;
   font-size: .78rem;
+}
+
+.dictionary-help {
+  margin-top: .35rem;
+  font-weight: 500;
+  letter-spacing: 0;
+  text-transform: none;
 }
 
 .word-relations {
@@ -32,4 +40,8 @@
   flex-wrap: wrap;
   gap: .35rem;
   align-items: baseline;
+}
+
+.reference-relations {
+  margin: 0 0 .9rem;
 }
