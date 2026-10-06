@@ -1,0 +1,138 @@
+{
+  "id": "p1-34-octo-octa-octu",
+  "merge_with_source": false,
+  "name": "octo；octa；octu",
+  "subtitle": "八",
+  "words": [
+    {
+      "word": "octogenarian", "pos": "n.", "pos_key": "n.",
+      "defn_en": "a person who is between eighty and eighty-nine years old:",
+      "defn_zh": "八旬老人；八十多歲的人",
+      "synonyms": ["person in their eighties", "elder"],
+      "antonyms": ["youth", "centenarian", "septuagenarian"],
+      "root_note": "octo- (eight) + gen (born or age) + -arian (person)",
+      "sentences": [
+        {"en": "The ______ amazed his grandchildren by completing a half-marathon on his eighty-fifth birthday.", "zh": "這位八旬老人在八十五歲生日當天完成半程馬拉松，令孫子們驚嘆不已。"},
+        {"en": "As healthcare improves, society must adapt to support a growing population of active ______ citizens.", "zh": "隨著醫療保健進步，社會必須調整，以支持日益增加且充滿活力的八旬人口。"}
+      ],
+      "category": {"part": 1, "num": "34", "spelling": "octo；octa；octu", "meaning": "八"}
+    },
+    {
+      "word": "octave", "pos": "n.", "pos_key": "n.",
+      "defn_en": "a series or interval of eight musical notes, or an eight-line section of a poem:",
+      "defn_zh": "八度音程；八行詩",
+      "synonyms": ["eighth", "eight-line stanza"],
+      "antonyms": ["unison", "couplet"],
+      "root_note": "octa- (eight) + -ve (noun ending)",
+      "sentences": [
+        {"en": "The opera singer easily reached a high C that was an ______ above her usual pitch.", "zh": "這名歌劇歌手輕鬆唱出比平常音高高一個八度的高音 C。"},
+        {"en": "In a Petrarchan sonnet, the poet presents a problem in the opening ______ before resolving it later.", "zh": "在彼特拉克式十四行詩中，詩人在開頭八行詩提出問題，並在後文解決。"}
+      ],
+      "category": {"part": 1, "num": "34", "spelling": "octo；octa；octu", "meaning": "八"}
+    },
+    {
+      "word": "octagon", "pos": "n.", "pos_key": "n.",
+      "defn_en": "a geometric shape with eight straight sides and eight angles:",
+      "defn_zh": "八角形；八邊形",
+      "synonyms": ["eight-sided figure", "eight-sided polygon"],
+      "antonyms": ["triangle", "square"],
+      "root_note": "octa- (eight) + gon (angle)",
+      "sentences": [
+        {"en": "The instructor reminded the student that a standard red stop sign is shaped like an ______.", "zh": "教練提醒學生，標準紅色停車標誌的外形是八角形。"},
+        {"en": "The architect designed the wooden gazebo as an ______ with a window on every side.", "zh": "建築師將木製涼亭設計成八角形，讓每一面都有一扇窗。"}
+      ],
+      "category": {"part": 1, "num": "34", "spelling": "octo；octa；octu", "meaning": "八"}
+    },
+    {
+      "word": "octahedron", "pos": "n.", "pos_key": "n.",
+      "defn_en": "a three-dimensional solid or crystal structure with eight flat faces:",
+      "defn_zh": "八面體",
+      "synonyms": ["eight-faced solid", "double pyramid"],
+      "antonyms": ["tetrahedron", "cube"],
+      "root_note": "octa- (eight) + hedron (face or base)",
+      "sentences": [
+        {"en": "The geologist identified the rough diamond by its natural crystal form, which resembled a perfect ______.", "zh": "地質學家透過天然晶體形狀鑑定鑽石原石，其外形酷似一個完美的八面體。"},
+        {"en": "To build a regular ______, the students glued eight identical equilateral triangles together.", "zh": "為了製作正八面體模型，學生將八個完全相同的等邊三角形黏合在一起。"}
+      ],
+      "category": {"part": 1, "num": "34", "spelling": "octo；octa；octu", "meaning": "八"}
+    },
+    {
+      "word": "octopod", "pos": "n.", "pos_key": "n.",
+      "defn_en": "an animal, usually a marine mollusk, that has eight legs or tentacles:",
+      "defn_zh": "八足動物",
+      "synonyms": ["eight-legged creature", "octopus species"],
+      "antonyms": ["decapod", "biped"],
+      "root_note": "octo- (eight) + pod (foot)",
+      "sentences": [
+        {"en": "The submarine camera captured a strange, pale ______ hiding in a deep-ocean trench.", "zh": "潛水艇相機拍到一隻奇特蒼白的八足動物，躲在深海海溝中。"},
+        {"en": "Unlike a ten-armed squid, an octopus is classified as an ______ because it has eight tentacles.", "zh": "與有十隻觸手的魷魚不同，章魚因具有八隻觸手而被歸類為八足動物。"}
+      ],
+      "category": {"part": 1, "num": "34", "spelling": "octo；octa；octu", "meaning": "八"}
+    },
+    {
+      "word": "octonary", "pos": "adj.", "pos_key": "adj.",
+      "defn_en": "relating to the number eight, arranged in groups of eight, or based on eight digits:",
+      "defn_zh": "八進制的；八個一組的",
+      "synonyms": ["base-eight", "octal"],
+      "antonyms": ["binary", "decimal"],
+      "root_note": "octo- (eight) + -nary (grouped or based on)",
+      "sentences": [
+        {"en": "Before binary became dominant, early computer scientists experimented with an ______ numbering system.", "zh": "在二進制成為主流前，早期電腦科學家曾嘗試使用八進制數字系統。"},
+        {"en": "The folk dance uses an ______ rhythm that groups beats into repeating sets of eight.", "zh": "這種民間舞蹈使用八拍一組的節奏，將拍子組成反覆出現的八拍循環。"}
+      ],
+      "category": {"part": 1, "num": "34", "spelling": "octo；octa；octu", "meaning": "八"}
+    },
+    {
+      "word": "octennial", "pos": "adj.", "pos_key": "adj.",
+      "defn_en": "happening once every eight years or lasting for eight years:",
+      "defn_zh": "每八年一次的；持續八年的",
+      "synonyms": ["eight-yearly", "eight-year"],
+      "antonyms": ["annual", "biennial"],
+      "root_note": "oct- (eight) + enn (year) + -ial (adjective suffix)",
+      "sentences": [
+        {"en": "The city council published its ______ economic review of progress made during the previous eight years.", "zh": "市議會發布每八年一次的經濟審查報告，概述過去八年的財務進展。"},
+        {"en": "Because preparation is so demanding, the global tournament follows an ______ schedule.", "zh": "由於準備工作非常繁重，這項全球錦標賽採用每八年舉行一次的時程。"}
+      ],
+      "category": {"part": 1, "num": "34", "spelling": "octo；octa；octu", "meaning": "八"}
+    },
+    {
+      "word": "octuple", "pos": "v.", "pos_key": "v.",
+      "defn_en": "to make or become eight times as great in number, size, or amount:",
+      "defn_zh": "使增至八倍；增長至八倍",
+      "synonyms": ["multiply eightfold", "increase eight times"],
+      "antonyms": ["halve", "reduce", "decrease"],
+      "root_note": "octu- (eight) + -ple (fold)",
+      "sentences": [
+        {"en": "The technology company's rapid expansion caused its stock price to ______ within a decade.", "zh": "這家科技公司的快速擴張，使其股價在十年內增長至八倍。"},
+        {"en": "If demand continues at this pace, the factory may ______ its monthly output by next year.", "zh": "如果需求持續以此速度成長，工廠明年可能把每月產量提高到八倍。"}
+      ],
+      "category": {"part": 1, "num": "34", "spelling": "octo；octa；octu", "meaning": "八"}
+    },
+    {
+      "word": "octuplet", "pos": "n.", "pos_key": "n.",
+      "defn_en": "one of eight babies born to the same mother at the same time:",
+      "defn_zh": "八胞胎之一",
+      "synonyms": ["one of eight siblings", "one of eight babies"],
+      "antonyms": ["twin", "triplet"],
+      "root_note": "octu- (eight) + -plet (one of a multiple birth)",
+      "sentences": [
+        {"en": "The medical team confirmed that each ______ was in stable condition after the rare delivery.", "zh": "醫療團隊證實，在罕見的分娩後，每一名八胞胎嬰兒的狀況都很穩定。"},
+        {"en": "Being an ______ meant that she rarely had a quiet moment alone while growing up.", "zh": "身為八胞胎之一，她成長過程中很少有獨自安靜的時刻。"}
+      ],
+      "category": {"part": 1, "num": "34", "spelling": "octo；octa；octu", "meaning": "八"}
+    },
+    {
+      "word": "octonocular", "pos": "adj.", "pos_key": "adj.",
+      "defn_en": "having eight eyes, especially as a biological description of an arachnid:",
+      "defn_zh": "八眼的；具八目的",
+      "synonyms": ["eight-eyed"],
+      "antonyms": ["monocular", "binocular"],
+      "root_note": "octo- (eight) + ocular (relating to eyes)",
+      "sentences": [
+        {"en": "The scientist explained that the spider's ______ vision helps it track fast-moving prey from many angles.", "zh": "科學家解釋，蜘蛛的八眼視覺幫助牠從多個角度追蹤快速移動的獵物。"},
+        {"en": "Under the magnifying glass, the wolf spider's ______ head structure became clearly visible.", "zh": "在放大鏡下，狼蛛具八目的頭部結構變得清晰可見。"}
+      ],
+      "category": {"part": 1, "num": "34", "spelling": "octo；octa；octu", "meaning": "八"}
+    }
+  ]
+}

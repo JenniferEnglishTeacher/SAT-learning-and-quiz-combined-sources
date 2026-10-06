@@ -237,5 +237,25 @@
         "derived_from": "multiform"
       }
     ]
+  },
+  "p1-34-octo-octa-octu": {
+    "adj.": [
+      {
+        "word": "octagonal",
+        "pos": "adj.",
+        "defn_en": "having eight straight sides and eight angles:",
+        "defn_zh": "八角形的；八邊形的",
+        "derived_from": "octagon"
+      }
+    ],
+    "v.": [
+      {
+        "word": "octuplicate",
+        "pos": "v.",
+        "defn_en": "to make eight copies of something or multiply it by eight:",
+        "defn_zh": "製作八份；乘以八",
+        "derived_from": "octuple"
+      }
+    ]
   }
 }

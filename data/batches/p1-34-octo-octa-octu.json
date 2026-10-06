@@ -1,0 +1,760 @@
+{
+  "id": "p1-34-octo-octa-octu",
+  "part": "part1",
+  "part_label": "Part 1 字首篇 (Prefixes)",
+  "name": "octo；octa；octu",
+  "subtitle": "八",
+  "count": 10,
+  "words": [
+    {
+      "word": "octogenarian",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a person who is between eighty and eighty-nine years old:",
+      "defn_zh": "八旬老人；八十多歲的人",
+      "synonyms": [
+        "person in their eighties",
+        "elder"
+      ],
+      "antonyms": [
+        "youth",
+        "centenarian",
+        "septuagenarian"
+      ],
+      "root_note": "octo- (eight) + gen (born or age) + -arian (person)",
+      "sentences": [
+        {
+          "en": "The ______ amazed his grandchildren by completing a half-marathon on his eighty-fifth birthday.",
+          "zh": "這位八旬老人在八十五歲生日當天完成半程馬拉松，令孫子們驚嘆不已。"
+        },
+        {
+          "en": "As healthcare improves, society must adapt to support a growing population of active ______ citizens.",
+          "zh": "隨著醫療保健進步，社會必須調整，以支持日益增加且充滿活力的八旬人口。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "34",
+        "spelling": "octo；octa；octu",
+        "meaning": "八"
+      }
+    },
+    {
+      "word": "octave",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a series or interval of eight musical notes, or an eight-line section of a poem:",
+      "defn_zh": "八度音程；八行詩",
+      "synonyms": [
+        "eighth",
+        "eight-line stanza"
+      ],
+      "antonyms": [
+        "unison",
+        "couplet"
+      ],
+      "root_note": "octa- (eight) + -ve (noun ending)",
+      "sentences": [
+        {
+          "en": "The opera singer easily reached a high C that was an ______ above her usual pitch.",
+          "zh": "這名歌劇歌手輕鬆唱出比平常音高高一個八度的高音 C。"
+        },
+        {
+          "en": "In a Petrarchan sonnet, the poet presents a problem in the opening ______ before resolving it later.",
+          "zh": "在彼特拉克式十四行詩中，詩人在開頭八行詩提出問題，並在後文解決。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "34",
+        "spelling": "octo；octa；octu",
+        "meaning": "八"
+      }
+    },
+    {
+      "word": "octagon",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a geometric shape with eight straight sides and eight angles:",
+      "defn_zh": "八角形；八邊形",
+      "synonyms": [
+        "eight-sided figure",
+        "eight-sided polygon"
+      ],
+      "antonyms": [
+        "triangle",
+        "square"
+      ],
+      "root_note": "octa- (eight) + gon (angle)",
+      "sentences": [
+        {
+          "en": "The instructor reminded the student that a standard red stop sign is shaped like an ______.",
+          "zh": "教練提醒學生，標準紅色停車標誌的外形是八角形。"
+        },
+        {
+          "en": "The architect designed the wooden gazebo as an ______ with a window on every side.",
+          "zh": "建築師將木製涼亭設計成八角形，讓每一面都有一扇窗。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "34",
+        "spelling": "octo；octa；octu",
+        "meaning": "八"
+      }
+    },
+    {
+      "word": "octahedron",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a three-dimensional solid or crystal structure with eight flat faces:",
+      "defn_zh": "八面體",
+      "synonyms": [
+        "eight-faced solid",
+        "double pyramid"
+      ],
+      "antonyms": [
+        "tetrahedron",
+        "cube"
+      ],
+      "root_note": "octa- (eight) + hedron (face or base)",
+      "sentences": [
+        {
+          "en": "The geologist identified the rough diamond by its natural crystal form, which resembled a perfect ______.",
+          "zh": "地質學家透過天然晶體形狀鑑定鑽石原石，其外形酷似一個完美的八面體。"
+        },
+        {
+          "en": "To build a regular ______, the students glued eight identical equilateral triangles together.",
+          "zh": "為了製作正八面體模型，學生將八個完全相同的等邊三角形黏合在一起。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "34",
+        "spelling": "octo；octa；octu",
+        "meaning": "八"
+      }
+    },
+    {
+      "word": "octopod",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "an animal, usually a marine mollusk, that has eight legs or tentacles:",
+      "defn_zh": "八足動物",
+      "synonyms": [
+        "eight-legged creature",
+        "octopus species"
+      ],
+      "antonyms": [
+        "decapod",
+        "biped"
+      ],
+      "root_note": "octo- (eight) + pod (foot)",
+      "sentences": [
+        {
+          "en": "The submarine camera captured a strange, pale ______ hiding in a deep-ocean trench.",
+          "zh": "潛水艇相機拍到一隻奇特蒼白的八足動物，躲在深海海溝中。"
+        },
+        {
+          "en": "Unlike a ten-armed squid, an octopus is classified as an ______ because it has eight tentacles.",
+          "zh": "與有十隻觸手的魷魚不同，章魚因具有八隻觸手而被歸類為八足動物。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "34",
+        "spelling": "octo；octa；octu",
+        "meaning": "八"
+      }
+    },
+    {
+      "word": "octonary",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "relating to the number eight, arranged in groups of eight, or based on eight digits:",
+      "defn_zh": "八進制的；八個一組的",
+      "synonyms": [
+        "base-eight",
+        "octal"
+      ],
+      "antonyms": [
+        "binary",
+        "decimal"
+      ],
+      "root_note": "octo- (eight) + -nary (grouped or based on)",
+      "sentences": [
+        {
+          "en": "Before binary became dominant, early computer scientists experimented with an ______ numbering system.",
+          "zh": "在二進制成為主流前，早期電腦科學家曾嘗試使用八進制數字系統。"
+        },
+        {
+          "en": "The folk dance uses an ______ rhythm that groups beats into repeating sets of eight.",
+          "zh": "這種民間舞蹈使用八拍一組的節奏，將拍子組成反覆出現的八拍循環。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "34",
+        "spelling": "octo；octa；octu",
+        "meaning": "八"
+      }
+    },
+    {
+      "word": "octennial",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "happening once every eight years or lasting for eight years:",
+      "defn_zh": "每八年一次的；持續八年的",
+      "synonyms": [
+        "eight-yearly",
+        "eight-year"
+      ],
+      "antonyms": [
+        "annual",
+        "biennial"
+      ],
+      "root_note": "oct- (eight) + enn (year) + -ial (adjective suffix)",
+      "sentences": [
+        {
+          "en": "The city council published its ______ economic review of progress made during the previous eight years.",
+          "zh": "市議會發布每八年一次的經濟審查報告，概述過去八年的財務進展。"
+        },
+        {
+          "en": "Because preparation is so demanding, the global tournament follows an ______ schedule.",
+          "zh": "由於準備工作非常繁重，這項全球錦標賽採用每八年舉行一次的時程。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "34",
+        "spelling": "octo；octa；octu",
+        "meaning": "八"
+      }
+    },
+    {
+      "word": "octuple",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to make or become eight times as great in number, size, or amount:",
+      "defn_zh": "使增至八倍；增長至八倍",
+      "synonyms": [
+        "multiply eightfold",
+        "increase eight times"
+      ],
+      "antonyms": [
+        "halve",
+        "reduce",
+        "decrease"
+      ],
+      "root_note": "octu- (eight) + -ple (fold)",
+      "sentences": [
+        {
+          "en": "The technology company's rapid expansion caused its stock price to ______ within a decade.",
+          "zh": "這家科技公司的快速擴張，使其股價在十年內增長至八倍。"
+        },
+        {
+          "en": "If demand continues at this pace, the factory may ______ its monthly output by next year.",
+          "zh": "如果需求持續以此速度成長，工廠明年可能把每月產量提高到八倍。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "34",
+        "spelling": "octo；octa；octu",
+        "meaning": "八"
+      }
+    },
+    {
+      "word": "octuplet",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "one of eight babies born to the same mother at the same time:",
+      "defn_zh": "八胞胎之一",
+      "synonyms": [
+        "one of eight siblings",
+        "one of eight babies"
+      ],
+      "antonyms": [
+        "twin",
+        "triplet"
+      ],
+      "root_note": "octu- (eight) + -plet (one of a multiple birth)",
+      "sentences": [
+        {
+          "en": "The medical team confirmed that each ______ was in stable condition after the rare delivery.",
+          "zh": "醫療團隊證實，在罕見的分娩後，每一名八胞胎嬰兒的狀況都很穩定。"
+        },
+        {
+          "en": "Being an ______ meant that she rarely had a quiet moment alone while growing up.",
+          "zh": "身為八胞胎之一，她成長過程中很少有獨自安靜的時刻。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "34",
+        "spelling": "octo；octa；octu",
+        "meaning": "八"
+      }
+    },
+    {
+      "word": "octonocular",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "having eight eyes, especially as a biological description of an arachnid:",
+      "defn_zh": "八眼的；具八目的",
+      "synonyms": [
+        "eight-eyed"
+      ],
+      "antonyms": [
+        "monocular",
+        "binocular"
+      ],
+      "root_note": "octo- (eight) + ocular (relating to eyes)",
+      "sentences": [
+        {
+          "en": "The scientist explained that the spider's ______ vision helps it track fast-moving prey from many angles.",
+          "zh": "科學家解釋，蜘蛛的八眼視覺幫助牠從多個角度追蹤快速移動的獵物。"
+        },
+        {
+          "en": "Under the magnifying glass, the wolf spider's ______ head structure became clearly visible.",
+          "zh": "在放大鏡下，狼蛛具八目的頭部結構變得清晰可見。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "34",
+        "spelling": "octo；octa；octu",
+        "meaning": "八"
+      }
+    }
+  ],
+  "family_options": {
+    "adj.": [
+      {
+        "word": "octagonal",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "having eight straight sides and eight angles:",
+        "defn_zh": "八角形的；八邊形的",
+        "derived_from": "octagon"
+      }
+    ],
+    "v.": [
+      {
+        "word": "octuplicate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to make eight copies of something or multiply it by eight:",
+        "defn_zh": "製作八份；乘以八",
+        "derived_from": "octuple"
+      }
+    ]
+  },
+  "fallback_options": {
+    "v.": [
+      {
+        "word": "abound",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to exist in great numbers:",
+        "defn_zh": "充滿"
+      },
+      {
+        "word": "abrogate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to deprive of legal force, to nullify:=abolish",
+        "defn_zh": "廢除/取消"
+      },
+      {
+        "word": "abjure",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to renounce, abstain from:",
+        "defn_zh": "發誓放棄/棄絕"
+      },
+      {
+        "word": "abbreviate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to shorten a word or phrase:",
+        "defn_zh": "縮寫;縮短"
+      },
+      {
+        "word": "abdicate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to give up a position, usually one of leadership:",
+        "defn_zh": "退位/放棄(職位)"
+      },
+      {
+        "word": "abduct",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to kidnap, take by force:",
+        "defn_zh": "綁架/劫持"
+      },
+      {
+        "word": "abhor",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to regard with disgust and hatred:",
+        "defn_zh": "憎惡/厭惡"
+      },
+      {
+        "word": "abnegate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to deny or renounce:",
+        "defn_zh": "放棄/克制"
+      },
+      {
+        "word": "abolish",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to formally put an end to a system, practice, or institution:",
+        "defn_zh": "廢除"
+      },
+      {
+        "word": "abort",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to give up on a half-finished project or effort:",
+        "defn_zh": "中止/放棄"
+      },
+      {
+        "word": "abrade",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to scrape or wear away by friction:",
+        "defn_zh": "磨損;擦傷"
+      },
+      {
+        "word": "abscond",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to sneak away and hide:",
+        "defn_zh": "潛逃/逃匿"
+      }
+    ],
+    "adj.": [
+      {
+        "word": "abortive",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "fruitless, failing:",
+        "defn_zh": "失敗的/夭折的"
+      },
+      {
+        "word": "abstemious",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "moderate in eating or drinking:",
+        "defn_zh": "飲食有節制的"
+      },
+      {
+        "word": "abhorrent",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "detestable, despised:",
+        "defn_zh": "令人厭惡的"
+      },
+      {
+        "word": "absurd",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "ridiculous:",
+        "defn_zh": "荒謬的"
+      },
+      {
+        "word": "aberrant",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "deviating from what is normal or expected:",
+        "defn_zh": "異常的;脫軌的"
+      },
+      {
+        "word": "abject",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "wretched, pitiful:",
+        "defn_zh": "卑賤的/淒慘的"
+      },
+      {
+        "word": "abominable",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "causing moral revulsion; extremely unpleasant:",
+        "defn_zh": "可憎的;惡劣的"
+      },
+      {
+        "word": "abounding",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "existing in large numbers or amounts:",
+        "defn_zh": "大量存在的;豐富的"
+      },
+      {
+        "word": "abrasive",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "showing little concern for others; harsh:",
+        "defn_zh": "粗暴的/刺耳的"
+      },
+      {
+        "word": "abrupt",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "sudden or unexpected; brief and curt in manner:",
+        "defn_zh": "突然的/唐突的"
+      },
+      {
+        "word": "abstract",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "existing purely in the mind; not representing actual reality:",
+        "defn_zh": "抽象的"
+      },
+      {
+        "word": "abstruse",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "hard to comprehend:",
+        "defn_zh": "深奧難懂的"
+      }
+    ],
+    "n.": [
+      {
+        "word": "aversion",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "strong dislike, opposition:",
+        "defn_zh": "厭惡/反感"
+      },
+      {
+        "word": "aberration",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "something that differs from the norm:",
+        "defn_zh": "異常/脫軌"
+      },
+      {
+        "word": "abjection",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a state of complete misery, hopelessness, or degradation:",
+        "defn_zh": "卑賤;悲慘狀態"
+      },
+      {
+        "word": "abjuration",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the solemn renunciation of a belief, cause, or claim:",
+        "defn_zh": "公開放棄;誓絕"
+      },
+      {
+        "word": "ablution",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the act of washing oneself, especially as part of a religious ritual:",
+        "defn_zh": "沐浴;淨身儀式"
+      },
+      {
+        "word": "abnegation",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "denial of comfort to oneself:",
+        "defn_zh": "自我克制/放棄"
+      },
+      {
+        "word": "abomination",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "something that causes disgust or hatred:",
+        "defn_zh": "可憎之事;令人厭惡的東西"
+      },
+      {
+        "word": "abridgement",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a shortened version of a book or other written work:",
+        "defn_zh": "節略本;縮減版"
+      },
+      {
+        "word": "absolution",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "freedom from blame, guilt, sin:",
+        "defn_zh": "赦免/免罪"
+      },
+      {
+        "word": "abstemiousness",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "moderation or self-restraint, especially in eating and drinking:",
+        "defn_zh": "節制;克己"
+      },
+      {
+        "word": "abstinence",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the practice of restraining oneself from something enjoyable, especially food, alcohol, or sex:",
+        "defn_zh": "節制;戒絕"
+      },
+      {
+        "word": "avocation",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a hobby or minor occupation apart from one's main career:",
+        "defn_zh": "副業;業餘愛好"
+      }
+    ],
+    "adv.": [
+      {
+        "word": "accordingly",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in a manner that fits the circumstances; consequently:",
+        "defn_zh": "相應地;因此"
+      },
+      {
+        "word": "inadvertently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "unintentionally or by accident:",
+        "defn_zh": "無意間/不小心地"
+      },
+      {
+        "word": "consequently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "as a result; therefore:",
+        "defn_zh": "因此;結果"
+      },
+      {
+        "word": "contemptuously",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "without respect; in a disdainful manner:",
+        "defn_zh": "輕蔑地"
+      },
+      {
+        "word": "involuntarily",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "done without conscious control:",
+        "defn_zh": "不由自主地"
+      },
+      {
+        "word": "cordially",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in a warm or friendly manner:",
+        "defn_zh": "誠摯地/友好地"
+      },
+      {
+        "word": "ipso facto",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "by that very fact or act:",
+        "defn_zh": "事實上;因此"
+      },
+      {
+        "word": "en passant",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in passing; incidentally:",
+        "defn_zh": "順帶一提地;偶然地"
+      },
+      {
+        "word": "regardless",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "despite the prevailing circumstances; without being deterred:",
+        "defn_zh": "不管怎樣;儘管如此"
+      },
+      {
+        "word": "subsequently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "afterward; following in time or order:",
+        "defn_zh": "隨後;其後"
+      },
+      {
+        "word": "aside",
+        "pos": "adv./n.",
+        "pos_key": "adv.",
+        "defn_en": "to or on one side; a remark not meant to be heard by everyone:",
+        "defn_zh": "在旁邊;旁白"
+      },
+      {
+        "word": "vice versa",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "with the order or meaning reversed; conversely:",
+        "defn_zh": "反之亦然"
+      }
+    ],
+    "other": [
+      {
+        "word": "（此批單字中，暫無符合此字根/字首的單字）",
+        "pos": "",
+        "pos_key": "other",
+        "defn_en": "",
+        "defn_zh": ""
+      }
+    ],
+    "prep./adv.": [
+      {
+        "word": "besides",
+        "pos": "prep./adv.",
+        "pos_key": "prep./adv.",
+        "defn_en": "in addition to; furthermore:",
+        "defn_zh": "除...之外;此外"
+      }
+    ],
+    "phrasalv.": [
+      {
+        "word": "egg on",
+        "pos": "phrasal v.",
+        "pos_key": "phrasalv.",
+        "defn_en": "to encourage someone to do something, often risky:",
+        "defn_zh": "慫恿;鼓動"
+      }
+    ],
+    "abbr.": [
+      {
+        "word": "etc.",
+        "pos": "abbr.",
+        "pos_key": "abbr.",
+        "defn_en": "and other similar things (abbreviation of et cetera):",
+        "defn_zh": "等等(et cetera的縮寫)"
+      }
+    ],
+    "interj.": [
+      {
+        "word": "fiddledeedee",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "an exclamation expressing dismissal of something as nonsense:",
+        "defn_zh": "廢話!(表示不屑一顧)"
+      },
+      {
+        "word": "gesundheit",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "an expression said to someone who has just sneezed:",
+        "defn_zh": "保重(打噴嚏後的祝福語)"
+      }
+    ],
+    "prep.": [
+      {
+        "word": "via",
+        "pos": "prep.",
+        "pos_key": "prep.",
+        "defn_en": "by way of; passing through:",
+        "defn_zh": "經由;透過"
+      }
+    ]
+  }
+}
