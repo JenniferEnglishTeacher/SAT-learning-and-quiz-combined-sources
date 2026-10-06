@@ -1,0 +1,164 @@
+{
+  "id": "p1-39-post",
+  "merge_with_source": true,
+  "name": "post",
+  "subtitle": "後面；之後",
+  "words": [
+    {
+      "word": "posthumous", "pos": "adj.", "pos_key": "adj.",
+      "defn_en": "occurring, awarded, or published after a person's death:",
+      "defn_zh": "死後的；身後的",
+      "synonyms": ["post-mortem", "after-death", "delayed"],
+      "antonyms": ["antemortem", "during-life", "living"],
+      "root_note": "Latin postumus (last; later used for events after death)",
+      "sentences": [
+        {"en": "The soldier's family received his ______ Medal of Honor during a moving ceremony.", "zh": "士兵的家人在一場令人動容的儀式中，接受了追授給他的榮譽勳章。"},
+        {"en": "The artist gained worldwide fame after the ______ publication of his final diary.", "zh": "這位藝術家在最後一本日記於死後出版後，才獲得全球聲譽。"}
+      ],
+      "category": {"part": 1, "num": "39", "spelling": "post", "meaning": "後面；之後"}
+    },
+    {
+      "word": "postpone", "pos": "v.", "pos_key": "v.",
+      "defn_en": "to arrange for something to happen later than originally planned:",
+      "defn_zh": "延期；延後",
+      "synonyms": ["defer", "delay", "adjourn", "put off"],
+      "antonyms": ["advance", "expedite", "fast-track"],
+      "root_note": "post- (after or later) + pone (put or place)",
+      "sentences": [
+        {"en": "Because of the severe rainstorm, officials decided to ______ the championship game until Tuesday.", "zh": "由於猛烈暴雨，主辦單位決定將冠軍賽延期至星期二。"},
+        {"en": "The committee had to ______ the board vote because three key members were abroad.", "zh": "由於三位重要成員在國外，委員會不得不延後董事會投票。"}
+      ],
+      "category": {"part": 1, "num": "39", "spelling": "post", "meaning": "後面；之後"}
+    },
+    {
+      "word": "posterity", "pos": "n.", "pos_key": "n.",
+      "defn_en": "future generations of people or all of a person's descendants:",
+      "defn_zh": "後代；子孫",
+      "synonyms": ["descendants", "future generations", "offspring", "lineage"],
+      "antonyms": ["ancestors", "forefathers", "predecessors"],
+      "root_note": "poster- (coming after) + -ity (state or group)",
+      "sentences": [
+        {"en": "The historic documents were sealed in glass to preserve them for ______.", "zh": "這些歷史文件被密封在玻璃櫃中，以便為後代保存。"},
+        {"en": "The architect recorded his ideas in a journal so that ______ could study them.", "zh": "建築師將設計理念記錄在日記中，供後代研究。"}
+      ],
+      "category": {"part": 1, "num": "39", "spelling": "post", "meaning": "後面；之後"}
+    },
+    {
+      "word": "postscript", "pos": "n.", "pos_key": "n.",
+      "defn_en": "an additional remark written at the end of a letter after the signature:",
+      "defn_zh": "附言；再啟；後記",
+      "synonyms": ["P.S.", "addendum", "appendix", "afterthought"],
+      "antonyms": ["introduction", "prologue", "foreword"],
+      "root_note": "post- (after) + script (writing)",
+      "sentences": [
+        {"en": "She added a brief ______ to remind her friend about the party's formal dress code.", "zh": "她在信末加了一段簡短附言，提醒朋友派對的正式服裝規定。"},
+        {"en": "The author included a fascinating ______ explaining what happened to the characters later.", "zh": "作者加入引人入勝的後記，說明那些人物後來的遭遇。"}
+      ],
+      "category": {"part": 1, "num": "39", "spelling": "post", "meaning": "後面；之後"}
+    },
+    {
+      "word": "postmortem", "pos": "n.", "pos_key": "n.",
+      "defn_en": "an examination after death or an analysis conducted after an event has ended:",
+      "defn_zh": "驗屍；死後檢驗；事後分析",
+      "synonyms": ["autopsy", "retrospective", "review", "debriefing"],
+      "antonyms": ["antemortem analysis", "preliminary study"],
+      "root_note": "post- (after) + mortem (death)",
+      "sentences": [
+        {"en": "The medical examiner conducted a thorough ______ to determine why the athlete's heart failed.", "zh": "法醫進行徹底驗屍，以找出這位運動員心臟衰竭的原因。"},
+        {"en": "The software team held a project ______ to discuss what went wrong during the launch.", "zh": "軟體團隊召開專案事後檢討會，討論上線期間出了什麼問題。"}
+      ],
+      "category": {"part": 1, "num": "39", "spelling": "post", "meaning": "後面；之後"}
+    },
+    {
+      "word": "postdate", "pos": "v.", "pos_key": "v.",
+      "defn_en": "to put a date on a document that is later than the actual current date:",
+      "defn_zh": "填寫比實際日期晚的日期；預填日期",
+      "synonyms": ["date forward", "assign a later date"],
+      "antonyms": ["antedate", "predate"],
+      "root_note": "post- (after or later) + date",
+      "sentences": [
+        {"en": "He decided to ______ the rent check to the first day of the following month.", "zh": "他決定將租金支票的日期預填為下個月第一天。"},
+        {"en": "The lawyer said both parties could ______ the contract if the agreement took effect later.", "zh": "律師表示，如果協議稍後生效，雙方可將合約日期填晚。"}
+      ],
+      "category": {"part": 1, "num": "39", "spelling": "post", "meaning": "後面；之後"}
+    },
+    {
+      "word": "postgraduate", "pos": "adj.", "pos_key": "adj.",
+      "defn_en": "relating to university study undertaken after earning a bachelor's degree:",
+      "defn_zh": "研究生的；大學畢業後的",
+      "synonyms": ["graduate-level", "advanced-degree", "post-bachelor's"],
+      "antonyms": ["undergraduate"],
+      "root_note": "post- (after) + graduate",
+      "sentences": [
+        {"en": "After earning his chemistry degree, he applied to a ______ program to pursue a doctorate.", "zh": "取得化學學士學位後，他申請研究生課程以攻讀博士學位。"},
+        {"en": "The university created a scholarship for ______ students conducting medical research.", "zh": "大學為從事醫學研究的研究生設立獎學金。"}
+      ],
+      "category": {"part": 1, "num": "39", "spelling": "post", "meaning": "後面；之後"}
+    },
+    {
+      "word": "posterior", "pos": "adj.", "pos_key": "adj.",
+      "defn_en": "situated farther back or nearer the rear of something:",
+      "defn_zh": "後部的；背面的",
+      "synonyms": ["rear", "hind", "back", "dorsal"],
+      "antonyms": ["anterior", "frontal"],
+      "root_note": "poster- (behind or after) + -ior (comparative adjective ending)",
+      "sentences": [
+        {"en": "The X-ray revealed severe muscle strain in the ______ region of the athlete's shoulder.", "zh": "X 光顯示運動員肩膀後部區域有嚴重肌肉拉傷。"},
+        {"en": "The insect's small sensory wings are located on its ______ segments.", "zh": "這種昆蟲的小型感官翅膀位於身體後部節段。"}
+      ],
+      "category": {"part": 1, "num": "39", "spelling": "post", "meaning": "後面；之後"}
+    },
+    {
+      "word": "postwar", "pos": "adj.", "pos_key": "adj.",
+      "defn_en": "occurring or existing in the period immediately after a war has ended:",
+      "defn_zh": "戰後的",
+      "synonyms": ["post-conflict", "peacetime"],
+      "antonyms": ["prewar", "wartime"],
+      "root_note": "post- (after) + war",
+      "sentences": [
+        {"en": "The country experienced a major industrial boom during the ______ era of the late 1940s.", "zh": "該國在 1940 年代末的戰後時期經歷大規模工業繁榮。"},
+        {"en": "The treaty provided economic aid for the ______ reconstruction of ruined cities.", "zh": "該條約為被摧毀城市的戰後重建提供經濟援助。"}
+      ],
+      "category": {"part": 1, "num": "39", "spelling": "post", "meaning": "後面；之後"}
+    },
+    {
+      "word": "postglacial", "pos": "adj.", "pos_key": "adj.",
+      "defn_en": "occurring or existing after the last ice age or a glacial period:",
+      "defn_zh": "冰河期後的",
+      "synonyms": ["post-ice-age", "after-glacial"],
+      "antonyms": ["preglacial", "glacial"],
+      "root_note": "post- (after) + glacial (relating to ice ages)",
+      "sentences": [
+        {"en": "The landscape was shaped by ______ flooding that carved deep river valleys.", "zh": "當地地形由冰河期後的洪水塑造，形成深邃河谷。"},
+        {"en": "Scientists studied ______ sediment at the lake bottom to understand ancient climate shifts.", "zh": "科學家研究湖底冰河期後的沉積物，以了解古代氣候變化。"}
+      ],
+      "category": {"part": 1, "num": "39", "spelling": "post", "meaning": "後面；之後"}
+    },
+    {
+      "word": "postprandial", "pos": "adj.", "pos_key": "adj.",
+      "defn_en": "occurring or done after a meal, especially in medical contexts:",
+      "defn_zh": "餐後的",
+      "synonyms": ["after-meal", "after-dinner"],
+      "antonyms": ["preprandial"],
+      "root_note": "post- (after) + prandial (relating to a meal)",
+      "sentences": [
+        {"en": "The physician told the patient to monitor her ______ blood glucose level after dinner.", "zh": "醫生指示病人在晚餐後監測餐後血糖。"},
+        {"en": "They enjoyed a relaxing ______ walk through the garden to aid digestion.", "zh": "他們在花園中享受輕鬆的餐後散步，以幫助消化。"}
+      ],
+      "category": {"part": 1, "num": "39", "spelling": "post", "meaning": "後面；之後"}
+    },
+    {
+      "word": "postlude", "pos": "n.", "pos_key": "n.",
+      "defn_en": "a concluding piece of music played at the end of a service or concert:",
+      "defn_zh": "後奏；尾奏；終曲",
+      "synonyms": ["outro", "epilogue", "conclusion", "finale"],
+      "antonyms": ["prelude", "introduction", "overture"],
+      "root_note": "post- (after) + lude (play)",
+      "sentences": [
+        {"en": "As the wedding guests left the cathedral, the organist performed a grand ______.", "zh": "婚禮賓客走出大教堂時，風琴手演奏了一曲宏偉後奏。"},
+        {"en": "The symphonic poem ended with a quiet ______ performed by the solo violinist.", "zh": "這首交響詩以小提琴獨奏家演奏的寧靜尾奏作結。"}
+      ],
+      "category": {"part": 1, "num": "39", "spelling": "post", "meaning": "後面；之後"}
+    }
+  ]
+}

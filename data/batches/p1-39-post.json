@@ -1,0 +1,830 @@
+{
+  "id": "p1-39-post",
+  "part": "part1",
+  "part_label": "Part 1 字首篇 (Prefixes)",
+  "name": "post",
+  "subtitle": "後面；之後",
+  "count": 12,
+  "words": [
+    {
+      "word": "postpone",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to arrange for something to happen later than originally planned:",
+      "defn_zh": "延期；延後",
+      "synonyms": [
+        "defer",
+        "delay",
+        "adjourn",
+        "put off"
+      ],
+      "antonyms": [
+        "advance",
+        "expedite",
+        "fast-track"
+      ],
+      "root_note": "post- (after or later) + pone (put or place)",
+      "sentences": [
+        {
+          "en": "Because of the severe rainstorm, officials decided to ______ the championship game until Tuesday.",
+          "zh": "由於猛烈暴雨，主辦單位決定將冠軍賽延期至星期二。"
+        },
+        {
+          "en": "The committee had to ______ the board vote because three key members were abroad.",
+          "zh": "由於三位重要成員在國外，委員會不得不延後董事會投票。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "39",
+        "spelling": "post",
+        "meaning": "後面；之後"
+      }
+    },
+    {
+      "word": "postprandial",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "occurring or done after a meal, especially in medical contexts:",
+      "defn_zh": "餐後的",
+      "synonyms": [
+        "after-meal",
+        "after-dinner"
+      ],
+      "antonyms": [
+        "preprandial"
+      ],
+      "root_note": "post- (after) + prandial (relating to a meal)",
+      "sentences": [
+        {
+          "en": "The physician told the patient to monitor her ______ blood glucose level after dinner.",
+          "zh": "醫生指示病人在晚餐後監測餐後血糖。"
+        },
+        {
+          "en": "They enjoyed a relaxing ______ walk through the garden to aid digestion.",
+          "zh": "他們在花園中享受輕鬆的餐後散步，以幫助消化。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "39",
+        "spelling": "post",
+        "meaning": "後面；之後"
+      }
+    },
+    {
+      "word": "posthumous",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "occurring, awarded, or published after a person's death:",
+      "defn_zh": "死後的；身後的",
+      "synonyms": [
+        "post-mortem",
+        "after-death",
+        "delayed"
+      ],
+      "antonyms": [
+        "antemortem",
+        "during-life",
+        "living"
+      ],
+      "root_note": "Latin postumus (last; later used for events after death)",
+      "sentences": [
+        {
+          "en": "The soldier's family received his ______ Medal of Honor during a moving ceremony.",
+          "zh": "士兵的家人在一場令人動容的儀式中，接受了追授給他的榮譽勳章。"
+        },
+        {
+          "en": "The artist gained worldwide fame after the ______ publication of his final diary.",
+          "zh": "這位藝術家在最後一本日記於死後出版後，才獲得全球聲譽。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "39",
+        "spelling": "post",
+        "meaning": "後面；之後"
+      }
+    },
+    {
+      "word": "posterity",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "future generations of people or all of a person's descendants:",
+      "defn_zh": "後代；子孫",
+      "synonyms": [
+        "descendants",
+        "future generations",
+        "offspring",
+        "lineage"
+      ],
+      "antonyms": [
+        "ancestors",
+        "forefathers",
+        "predecessors"
+      ],
+      "root_note": "poster- (coming after) + -ity (state or group)",
+      "sentences": [
+        {
+          "en": "The historic documents were sealed in glass to preserve them for ______.",
+          "zh": "這些歷史文件被密封在玻璃櫃中，以便為後代保存。"
+        },
+        {
+          "en": "The architect recorded his ideas in a journal so that ______ could study them.",
+          "zh": "建築師將設計理念記錄在日記中，供後代研究。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "39",
+        "spelling": "post",
+        "meaning": "後面；之後"
+      }
+    },
+    {
+      "word": "postscript",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "an additional remark written at the end of a letter after the signature:",
+      "defn_zh": "附言；再啟；後記",
+      "synonyms": [
+        "P.S.",
+        "addendum",
+        "appendix",
+        "afterthought"
+      ],
+      "antonyms": [
+        "introduction",
+        "prologue",
+        "foreword"
+      ],
+      "root_note": "post- (after) + script (writing)",
+      "sentences": [
+        {
+          "en": "She added a brief ______ to remind her friend about the party's formal dress code.",
+          "zh": "她在信末加了一段簡短附言，提醒朋友派對的正式服裝規定。"
+        },
+        {
+          "en": "The author included a fascinating ______ explaining what happened to the characters later.",
+          "zh": "作者加入引人入勝的後記，說明那些人物後來的遭遇。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "39",
+        "spelling": "post",
+        "meaning": "後面；之後"
+      }
+    },
+    {
+      "word": "postmortem",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "an examination after death or an analysis conducted after an event has ended:",
+      "defn_zh": "驗屍；死後檢驗；事後分析",
+      "synonyms": [
+        "autopsy",
+        "retrospective",
+        "review",
+        "debriefing"
+      ],
+      "antonyms": [
+        "antemortem analysis",
+        "preliminary study"
+      ],
+      "root_note": "post- (after) + mortem (death)",
+      "sentences": [
+        {
+          "en": "The medical examiner conducted a thorough ______ to determine why the athlete's heart failed.",
+          "zh": "法醫進行徹底驗屍，以找出這位運動員心臟衰竭的原因。"
+        },
+        {
+          "en": "The software team held a project ______ to discuss what went wrong during the launch.",
+          "zh": "軟體團隊召開專案事後檢討會，討論上線期間出了什麼問題。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "39",
+        "spelling": "post",
+        "meaning": "後面；之後"
+      }
+    },
+    {
+      "word": "postdate",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to put a date on a document that is later than the actual current date:",
+      "defn_zh": "填寫比實際日期晚的日期；預填日期",
+      "synonyms": [
+        "date forward",
+        "assign a later date"
+      ],
+      "antonyms": [
+        "antedate",
+        "predate"
+      ],
+      "root_note": "post- (after or later) + date",
+      "sentences": [
+        {
+          "en": "He decided to ______ the rent check to the first day of the following month.",
+          "zh": "他決定將租金支票的日期預填為下個月第一天。"
+        },
+        {
+          "en": "The lawyer said both parties could ______ the contract if the agreement took effect later.",
+          "zh": "律師表示，如果協議稍後生效，雙方可將合約日期填晚。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "39",
+        "spelling": "post",
+        "meaning": "後面；之後"
+      }
+    },
+    {
+      "word": "postgraduate",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "relating to university study undertaken after earning a bachelor's degree:",
+      "defn_zh": "研究生的；大學畢業後的",
+      "synonyms": [
+        "graduate-level",
+        "advanced-degree",
+        "post-bachelor's"
+      ],
+      "antonyms": [
+        "undergraduate"
+      ],
+      "root_note": "post- (after) + graduate",
+      "sentences": [
+        {
+          "en": "After earning his chemistry degree, he applied to a ______ program to pursue a doctorate.",
+          "zh": "取得化學學士學位後，他申請研究生課程以攻讀博士學位。"
+        },
+        {
+          "en": "The university created a scholarship for ______ students conducting medical research.",
+          "zh": "大學為從事醫學研究的研究生設立獎學金。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "39",
+        "spelling": "post",
+        "meaning": "後面；之後"
+      }
+    },
+    {
+      "word": "posterior",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "situated farther back or nearer the rear of something:",
+      "defn_zh": "後部的；背面的",
+      "synonyms": [
+        "rear",
+        "hind",
+        "back",
+        "dorsal"
+      ],
+      "antonyms": [
+        "anterior",
+        "frontal"
+      ],
+      "root_note": "poster- (behind or after) + -ior (comparative adjective ending)",
+      "sentences": [
+        {
+          "en": "The X-ray revealed severe muscle strain in the ______ region of the athlete's shoulder.",
+          "zh": "X 光顯示運動員肩膀後部區域有嚴重肌肉拉傷。"
+        },
+        {
+          "en": "The insect's small sensory wings are located on its ______ segments.",
+          "zh": "這種昆蟲的小型感官翅膀位於身體後部節段。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "39",
+        "spelling": "post",
+        "meaning": "後面；之後"
+      }
+    },
+    {
+      "word": "postwar",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "occurring or existing in the period immediately after a war has ended:",
+      "defn_zh": "戰後的",
+      "synonyms": [
+        "post-conflict",
+        "peacetime"
+      ],
+      "antonyms": [
+        "prewar",
+        "wartime"
+      ],
+      "root_note": "post- (after) + war",
+      "sentences": [
+        {
+          "en": "The country experienced a major industrial boom during the ______ era of the late 1940s.",
+          "zh": "該國在 1940 年代末的戰後時期經歷大規模工業繁榮。"
+        },
+        {
+          "en": "The treaty provided economic aid for the ______ reconstruction of ruined cities.",
+          "zh": "該條約為被摧毀城市的戰後重建提供經濟援助。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "39",
+        "spelling": "post",
+        "meaning": "後面；之後"
+      }
+    },
+    {
+      "word": "postglacial",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "occurring or existing after the last ice age or a glacial period:",
+      "defn_zh": "冰河期後的",
+      "synonyms": [
+        "post-ice-age",
+        "after-glacial"
+      ],
+      "antonyms": [
+        "preglacial",
+        "glacial"
+      ],
+      "root_note": "post- (after) + glacial (relating to ice ages)",
+      "sentences": [
+        {
+          "en": "The landscape was shaped by ______ flooding that carved deep river valleys.",
+          "zh": "當地地形由冰河期後的洪水塑造，形成深邃河谷。"
+        },
+        {
+          "en": "Scientists studied ______ sediment at the lake bottom to understand ancient climate shifts.",
+          "zh": "科學家研究湖底冰河期後的沉積物，以了解古代氣候變化。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "39",
+        "spelling": "post",
+        "meaning": "後面；之後"
+      }
+    },
+    {
+      "word": "postlude",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a concluding piece of music played at the end of a service or concert:",
+      "defn_zh": "後奏；尾奏；終曲",
+      "synonyms": [
+        "outro",
+        "epilogue",
+        "conclusion",
+        "finale"
+      ],
+      "antonyms": [
+        "prelude",
+        "introduction",
+        "overture"
+      ],
+      "root_note": "post- (after) + lude (play)",
+      "sentences": [
+        {
+          "en": "As the wedding guests left the cathedral, the organist performed a grand ______.",
+          "zh": "婚禮賓客走出大教堂時，風琴手演奏了一曲宏偉後奏。"
+        },
+        {
+          "en": "The symphonic poem ended with a quiet ______ performed by the solo violinist.",
+          "zh": "這首交響詩以小提琴獨奏家演奏的寧靜尾奏作結。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "39",
+        "spelling": "post",
+        "meaning": "後面；之後"
+      }
+    }
+  ],
+  "family_options": {
+    "v.": [
+      {
+        "word": "postscript",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to add a note or remark after the main text has ended:",
+        "defn_zh": "加上附言；補寫後記",
+        "derived_from": "postscript"
+      }
+    ]
+  },
+  "fallback_options": {
+    "v.": [
+      {
+        "word": "abound",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to exist in great numbers:",
+        "defn_zh": "充滿"
+      },
+      {
+        "word": "abrogate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to deprive of legal force, to nullify:=abolish",
+        "defn_zh": "廢除/取消"
+      },
+      {
+        "word": "abjure",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to renounce, abstain from:",
+        "defn_zh": "發誓放棄/棄絕"
+      },
+      {
+        "word": "abbreviate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to shorten a word or phrase:",
+        "defn_zh": "縮寫;縮短"
+      },
+      {
+        "word": "abdicate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to give up a position, usually one of leadership:",
+        "defn_zh": "退位/放棄(職位)"
+      },
+      {
+        "word": "abduct",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to kidnap, take by force:",
+        "defn_zh": "綁架/劫持"
+      },
+      {
+        "word": "abhor",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to regard with disgust and hatred:",
+        "defn_zh": "憎惡/厭惡"
+      },
+      {
+        "word": "abnegate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to deny or renounce:",
+        "defn_zh": "放棄/克制"
+      },
+      {
+        "word": "abolish",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to formally put an end to a system, practice, or institution:",
+        "defn_zh": "廢除"
+      },
+      {
+        "word": "abort",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to give up on a half-finished project or effort:",
+        "defn_zh": "中止/放棄"
+      },
+      {
+        "word": "abrade",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to scrape or wear away by friction:",
+        "defn_zh": "磨損;擦傷"
+      },
+      {
+        "word": "abscond",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to sneak away and hide:",
+        "defn_zh": "潛逃/逃匿"
+      }
+    ],
+    "adj.": [
+      {
+        "word": "abortive",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "fruitless, failing:",
+        "defn_zh": "失敗的/夭折的"
+      },
+      {
+        "word": "abstemious",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "moderate in eating or drinking:",
+        "defn_zh": "飲食有節制的"
+      },
+      {
+        "word": "abhorrent",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "detestable, despised:",
+        "defn_zh": "令人厭惡的"
+      },
+      {
+        "word": "absurd",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "ridiculous:",
+        "defn_zh": "荒謬的"
+      },
+      {
+        "word": "aberrant",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "deviating from what is normal or expected:",
+        "defn_zh": "異常的;脫軌的"
+      },
+      {
+        "word": "abject",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "wretched, pitiful:",
+        "defn_zh": "卑賤的/淒慘的"
+      },
+      {
+        "word": "abominable",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "causing moral revulsion; extremely unpleasant:",
+        "defn_zh": "可憎的;惡劣的"
+      },
+      {
+        "word": "abounding",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "existing in large numbers or amounts:",
+        "defn_zh": "大量存在的;豐富的"
+      },
+      {
+        "word": "abrasive",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "showing little concern for others; harsh:",
+        "defn_zh": "粗暴的/刺耳的"
+      },
+      {
+        "word": "abrupt",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "sudden or unexpected; brief and curt in manner:",
+        "defn_zh": "突然的/唐突的"
+      },
+      {
+        "word": "abstract",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "existing purely in the mind; not representing actual reality:",
+        "defn_zh": "抽象的"
+      },
+      {
+        "word": "abstruse",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "hard to comprehend:",
+        "defn_zh": "深奧難懂的"
+      }
+    ],
+    "n.": [
+      {
+        "word": "aversion",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "strong dislike, opposition:",
+        "defn_zh": "厭惡/反感"
+      },
+      {
+        "word": "aberration",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "something that differs from the norm:",
+        "defn_zh": "異常/脫軌"
+      },
+      {
+        "word": "abjection",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a state of complete misery, hopelessness, or degradation:",
+        "defn_zh": "卑賤;悲慘狀態"
+      },
+      {
+        "word": "abjuration",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the solemn renunciation of a belief, cause, or claim:",
+        "defn_zh": "公開放棄;誓絕"
+      },
+      {
+        "word": "ablution",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the act of washing oneself, especially as part of a religious ritual:",
+        "defn_zh": "沐浴;淨身儀式"
+      },
+      {
+        "word": "abnegation",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "denial of comfort to oneself:",
+        "defn_zh": "自我克制/放棄"
+      },
+      {
+        "word": "abomination",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "something that causes disgust or hatred:",
+        "defn_zh": "可憎之事;令人厭惡的東西"
+      },
+      {
+        "word": "abridgement",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a shortened version of a book or other written work:",
+        "defn_zh": "節略本;縮減版"
+      },
+      {
+        "word": "absolution",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "freedom from blame, guilt, sin:",
+        "defn_zh": "赦免/免罪"
+      },
+      {
+        "word": "abstemiousness",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "moderation or self-restraint, especially in eating and drinking:",
+        "defn_zh": "節制;克己"
+      },
+      {
+        "word": "abstinence",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the practice of restraining oneself from something enjoyable, especially food, alcohol, or sex:",
+        "defn_zh": "節制;戒絕"
+      },
+      {
+        "word": "avocation",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a hobby or minor occupation apart from one's main career:",
+        "defn_zh": "副業;業餘愛好"
+      }
+    ],
+    "adv.": [
+      {
+        "word": "accordingly",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in a manner that fits the circumstances; consequently:",
+        "defn_zh": "相應地;因此"
+      },
+      {
+        "word": "inadvertently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "unintentionally or by accident:",
+        "defn_zh": "無意間/不小心地"
+      },
+      {
+        "word": "consequently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "as a result; therefore:",
+        "defn_zh": "因此;結果"
+      },
+      {
+        "word": "contemptuously",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "without respect; in a disdainful manner:",
+        "defn_zh": "輕蔑地"
+      },
+      {
+        "word": "involuntarily",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "done without conscious control:",
+        "defn_zh": "不由自主地"
+      },
+      {
+        "word": "cordially",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in a warm or friendly manner:",
+        "defn_zh": "誠摯地/友好地"
+      },
+      {
+        "word": "ipso facto",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "by that very fact or act:",
+        "defn_zh": "事實上;因此"
+      },
+      {
+        "word": "en passant",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in passing; incidentally:",
+        "defn_zh": "順帶一提地;偶然地"
+      },
+      {
+        "word": "regardless",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "despite the prevailing circumstances; without being deterred:",
+        "defn_zh": "不管怎樣;儘管如此"
+      },
+      {
+        "word": "subsequently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "afterward; following in time or order:",
+        "defn_zh": "隨後;其後"
+      },
+      {
+        "word": "aside",
+        "pos": "adv./n.",
+        "pos_key": "adv.",
+        "defn_en": "to or on one side; a remark not meant to be heard by everyone:",
+        "defn_zh": "在旁邊;旁白"
+      },
+      {
+        "word": "vice versa",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "with the order or meaning reversed; conversely:",
+        "defn_zh": "反之亦然"
+      }
+    ],
+    "other": [
+      {
+        "word": "（此批單字中，暫無符合此字根/字首的單字）",
+        "pos": "",
+        "pos_key": "other",
+        "defn_en": "",
+        "defn_zh": ""
+      }
+    ],
+    "prep./adv.": [
+      {
+        "word": "besides",
+        "pos": "prep./adv.",
+        "pos_key": "prep./adv.",
+        "defn_en": "in addition to; furthermore:",
+        "defn_zh": "除...之外;此外"
+      }
+    ],
+    "phrasalv.": [
+      {
+        "word": "egg on",
+        "pos": "phrasal v.",
+        "pos_key": "phrasalv.",
+        "defn_en": "to encourage someone to do something, often risky:",
+        "defn_zh": "慫恿;鼓動"
+      }
+    ],
+    "abbr.": [
+      {
+        "word": "etc.",
+        "pos": "abbr.",
+        "pos_key": "abbr.",
+        "defn_en": "and other similar things (abbreviation of et cetera):",
+        "defn_zh": "等等(et cetera的縮寫)"
+      }
+    ],
+    "interj.": [
+      {
+        "word": "fiddledeedee",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "an exclamation expressing dismissal of something as nonsense:",
+        "defn_zh": "廢話!(表示不屑一顧)"
+      },
+      {
+        "word": "gesundheit",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "an expression said to someone who has just sneezed:",
+        "defn_zh": "保重(打噴嚏後的祝福語)"
+      }
+    ],
+    "prep.": [
+      {
+        "word": "via",
+        "pos": "prep.",
+        "pos_key": "prep.",
+        "defn_en": "by way of; passing through:",
+        "defn_zh": "經由;透過"
+      }
+    ]
+  }
+}
