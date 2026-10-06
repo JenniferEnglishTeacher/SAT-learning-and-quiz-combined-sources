@@ -4,7 +4,7 @@
     "total_batches": 235,
     "part1_part2_batches": 158,
     "unclassified_batches": 77,
-    "generated_batches": 37
+    "generated_batches": 38
   },
   "batches": [
     {
@@ -502,10 +502,10 @@
       "part": "part1",
       "part_label": "Part 1 字首篇 (Prefixes)",
       "name": "mis",
-      "subtitle": "錯誤；不",
-      "count": 5,
-      "generated": false,
-      "search_terms": "misbegotten misgiving misquote misrepresent misuse"
+      "subtitle": "錯誤；不當；壞；憎惡",
+      "count": 16,
+      "generated": true,
+      "search_terms": "misbegotten misgiving misquote misrepresent misuse misanthrope miscreant misnomer misconstrue misappropriate misogyny mishap misapprehension misogamist misnomed misallied"
     },
     {
       "id": "p1-32-mon-mono",

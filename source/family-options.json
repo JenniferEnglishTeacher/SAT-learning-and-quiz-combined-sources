@@ -197,5 +197,23 @@
         "derived_from": "miniature"
       }
     ]
+  },
+  "p1-31-mis": {
+    "adj.": [
+      {
+        "word": "misanthropic",
+        "pos": "adj.",
+        "defn_en": "showing dislike or distrust of humankind:",
+        "defn_zh": "厭世的；不信任人類的",
+        "derived_from": "misanthrope"
+      },
+      {
+        "word": "misogynistic",
+        "pos": "adj.",
+        "defn_en": "showing hatred of or prejudice against women:",
+        "defn_zh": "厭女的；歧視女性的",
+        "derived_from": "misogyny"
+      }
+    ]
   }
 }

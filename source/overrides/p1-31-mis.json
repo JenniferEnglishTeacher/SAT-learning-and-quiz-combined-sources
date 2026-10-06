@@ -1,0 +1,188 @@
+{
+  "id": "p1-31-mis",
+  "merge_with_source": true,
+  "name": "mis",
+  "subtitle": "錯誤；不當；壞；憎惡",
+  "words": [
+    {
+      "word": "misanthrope",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a person who dislikes humankind and avoids human society:",
+      "defn_zh": "厭世者；憤世嫉俗者",
+      "synonyms": ["cynic", "recluse", "hater of mankind"],
+      "antonyms": ["philanthropist", "humanitarian"],
+      "root_note": "mis- / miso- (hate) + anthrop (human being)",
+      "sentences": [
+        {"en": "Living alone in a remote cabin for thirty years turned the old man into a bitter ______ who refused to speak to travelers.", "zh": "在偏遠的小木屋獨居了三十年後，這位老人變成了一個痛苦的厭世者，拒絕與任何旅客交談。"},
+        {"en": "Despite his reputation as a ______, the main character secretly donated his entire fortune to a local orphanage.", "zh": "儘管他有著憤世嫉俗的名聲，但主角卻暗中將自己的全部財產捐給了當地的孤兒院。"}
+      ],
+      "category": {"part": 1, "num": "31", "spelling": "mis", "meaning": "錯誤；不當；壞；憎惡"}
+    },
+    {
+      "word": "miscreant",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a person who behaves badly or breaks the law:",
+      "defn_zh": "惡棍；歹徒；歹人",
+      "synonyms": ["villain", "criminal", "wrongdoer", "rogue"],
+      "antonyms": ["saint", "hero", "benefactor"],
+      "root_note": "mis- (wrongly or badly) + creant (believing or behaving)",
+      "sentences": [
+        {"en": "The police chief vowed that officers would not rest until the ______ responsible for the vandalism was captured.", "zh": "警察局長誓言，在抓獲造成這起破壞事件的惡棍之前，警員們絕不休息。"},
+        {"en": "In traditional fairy tales, the ______ is always punished severely at the end of the story.", "zh": "在傳統的童話故事中，惡棍在故事結局總是會受到嚴厲的懲罰。"}
+      ],
+      "category": {"part": 1, "num": "31", "spelling": "mis", "meaning": "錯誤；不當；壞；憎惡"}
+    },
+    {
+      "word": "misnomer",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a wrong or inaccurate name or term for something:",
+      "defn_zh": "稱呼不當；名稱錯誤",
+      "synonyms": ["wrong name", "inaccuracy", "mislabeling"],
+      "antonyms": ["accurate designation", "correct name"],
+      "root_note": "mis- (wrongly) + nomer (name)",
+      "sentences": [
+        {"en": "Calling a koala a 'koala bear' is a complete ______ because koalas are marsupials, not bears.", "zh": "將無尾熊稱為「無尾熊熊」完全是個錯誤稱呼，因為無尾熊其實是有袋類動物，而不是熊。"},
+        {"en": "The title 'Quick Service' proved to be an ironic ______ when customers had to wait over an hour for their food.", "zh": "當顧客必須等待一個多小時才能拿到食物時，「快速服務」這個店名顯然成了一個諷刺的不當名稱。"}
+      ],
+      "category": {"part": 1, "num": "31", "spelling": "mis", "meaning": "錯誤；不當；壞；憎惡"}
+    },
+    {
+      "word": "misconstrue",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to interpret or understand someone's words or actions incorrectly:",
+      "defn_zh": "曲解；誤解",
+      "synonyms": ["misinterpret", "misunderstand", "misread"],
+      "antonyms": ["understand", "grasp", "interpret correctly"],
+      "root_note": "mis- (wrongly) + construe (interpret)",
+      "sentences": [
+        {"en": "The senator issued a statement because she feared the media would ______ her silence as agreement.", "zh": "參議員迅速發表聲明，因為她擔心媒體會將她的沉默曲解為默許。"},
+        {"en": "Please do not ______ my constructive criticism; I am only trying to help you improve your artwork.", "zh": "請不要誤解我建設性的批評；我只是想幫助你改善你的藝術作品。"}
+      ],
+      "category": {"part": 1, "num": "31", "spelling": "mis", "meaning": "錯誤；不當；壞；憎惡"}
+    },
+    {
+      "word": "misgiving",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a feeling of doubt, worry, or fear about what may happen:",
+      "defn_zh": "疑慮；擔憂",
+      "synonyms": ["qualm", "apprehension", "suspicion", "doubt"],
+      "antonyms": ["confidence", "trust", "assurance"],
+      "root_note": "mis- (badly or wrongly) + giving (feeling or suggestion)",
+      "sentences": [
+        {"en": "Despite a deep ______ about the stability of the stock market, he invested half of his savings anyway.", "zh": "儘管對股市穩定性深感疑慮，他最終還是決定投入自己一半的積蓄。"},
+        {"en": "She handed the car keys to her teenage son with a serious ______ about his reckless friends.", "zh": "她帶著沉重的擔憂將車鑰匙遞給十幾歲的兒子，因為她知道他的朋友們十分魯莽。"}
+      ],
+      "category": {"part": 1, "num": "31", "spelling": "mis", "meaning": "錯誤；不當；壞；憎惡"}
+    },
+    {
+      "word": "misappropriate",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to dishonestly or illegally take money or property for one's own use:",
+      "defn_zh": "侵占；挪用",
+      "synonyms": ["embezzle", "steal", "misuse", "pilfer"],
+      "antonyms": ["return", "donate", "use properly"],
+      "root_note": "mis- (wrongly) + appropriate (take for a purpose)",
+      "sentences": [
+        {"en": "An internal investigation revealed that the chief accountant had managed to ______ millions of dollars from the charity fund.", "zh": "一項內部調查顯示，總會計師竟然從慈善基金中挪用了數百萬美元。"},
+        {"en": "The mayor faced criminal charges after being caught trying to ______ public funds for his private mansion.", "zh": "市長在被抓到企圖為其私人豪宅侵占公款後，面臨嚴重的刑事指控。"}
+      ],
+      "category": {"part": 1, "num": "31", "spelling": "mis", "meaning": "錯誤；不當；壞；憎惡"}
+    },
+    {
+      "word": "misogyny",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "hatred, dislike, or deep prejudice against women:",
+      "defn_zh": "厭女症；仇恨女性",
+      "synonyms": ["sexism", "anti-female prejudice", "chauvinism"],
+      "antonyms": ["philogyny", "feminism"],
+      "root_note": "mis- / miso- (hate) + gyn (woman) + -y (state or condition)",
+      "sentences": [
+        {"en": "The film critic identified the underlying ______ in the old movie, where every female character was portrayed as weak or evil.", "zh": "電影評論家指出那部老電影中潛藏的厭女情結，片中所有女性角色都被刻畫得軟弱或邪惡。"},
+        {"en": "The company instituted mandatory training to eliminate workplace harassment and systemic ______.", "zh": "公司舉辦了強制性培訓，以消除職場騷擾和系統性的仇女行為。"}
+      ],
+      "category": {"part": 1, "num": "31", "spelling": "mis", "meaning": "錯誤；不當；壞；憎惡"}
+    },
+    {
+      "word": "mishap",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "an unlucky accident or an unfortunate event, usually a minor one:",
+      "defn_zh": "小災難；不幸事故；晦氣事",
+      "synonyms": ["misfortune", "accident", "blunder", "slip-up"],
+      "antonyms": ["stroke of luck", "blessing", "success"],
+      "root_note": "mis- (bad) + hap (chance or occurrence)",
+      "sentences": [
+        {"en": "Despite a minor ______ in which the wedding cake went to the wrong venue, the reception was a grand success.", "zh": "儘管發生了婚禮蛋糕被送到錯誤場地的小意外，婚宴最終依舊非常成功。"},
+        {"en": "The expedition was delayed by an unfortunate ______ involving a lost passport and a flat tire.", "zh": "這趟遠征因一次不幸的小意外而耽擱，包括護照遺失和輪胎爆胎。"}
+      ],
+      "category": {"part": 1, "num": "31", "spelling": "mis", "meaning": "錯誤；不當；壞；憎惡"}
+    },
+    {
+      "word": "misapprehension",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a mistaken belief about a situation; a misunderstanding:",
+      "defn_zh": "誤會；誤解",
+      "synonyms": ["delusion", "misconception", "false impression"],
+      "antonyms": ["comprehension", "accurate understanding", "reality"],
+      "root_note": "mis- (wrongly) + apprehension (understanding or belief)",
+      "sentences": [
+        {"en": "The teacher corrected the ______ that the final research exam was optional; it was actually mandatory.", "zh": "老師澄清了期末研究考試可以選考的誤解；這項考試其實是強制性的。"},
+        {"en": "He acted under the ______ that his partner had already paid the supplier, resulting in a late penalty fee.", "zh": "他在誤以為合夥人已付款給供應商的情況下採取行動，結果導致逾期罰款。"}
+      ],
+      "category": {"part": 1, "num": "31", "spelling": "mis", "meaning": "錯誤；不當；壞；憎惡"}
+    },
+    {
+      "word": "misogamist",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a person who hates marriage or strongly opposes the institution of marriage:",
+      "defn_zh": "厭惡結婚者；反對婚姻者",
+      "synonyms": ["marriage-hater", "anti-marriage individual"],
+      "antonyms": ["gamomaniac", "romantic"],
+      "root_note": "mis- / miso- (hate) + gam (marriage) + -ist (person)",
+      "sentences": [
+        {"en": "After witnessing his parents' traumatic divorce, he grew up to become a staunch ______.", "zh": "因為目睹父母痛苦的離婚過程，他長大後成了一個堅定的反對婚姻者。"},
+        {"en": "The novel's protagonist claims to be a lifelong ______, but his views change when he meets the heroine.", "zh": "小說主角聲稱自己終身厭惡婚姻，但當他遇見女主角時，他的觀念完全改變了。"}
+      ],
+      "category": {"part": 1, "num": "31", "spelling": "mis", "meaning": "錯誤；不當；壞；憎惡"}
+    },
+    {
+      "word": "misnomed",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "given an incorrect or inappropriate name:",
+      "defn_zh": "名字叫錯的；取錯名字的",
+      "synonyms": ["mislabeled", "incorrectly termed"],
+      "antonyms": ["correctly named", "properly titled"],
+      "root_note": "mis- (wrongly) + nomed (named)",
+      "sentences": [
+        {"en": "The river was completely ______ on the medieval map, confusing explorers who tried to find its source.", "zh": "這條河流在中世紀地圖上完全被叫錯了名字，使試圖尋找其源頭的探險家感到困惑。"},
+        {"en": "Many readers argued that the textbook was ______ because it contained advanced physics rather than beginner basics.", "zh": "許多讀者認為這本教科書取錯了名字，因為它包含的是高等物理，而非初學者的基礎知識。"}
+      ],
+      "category": {"part": 1, "num": "31", "spelling": "mis", "meaning": "錯誤；不當；壞；憎惡"}
+    },
+    {
+      "word": "misallied",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "joined in an unsuitable, improper, or badly matched alliance or marriage:",
+      "defn_zh": "門戶不對的；不適當聯姻的；錯誤結盟的",
+      "synonyms": ["mismatched", "incompatible", "ill-suited"],
+      "antonyms": ["well-matched", "compatible", "properly allied"],
+      "root_note": "mis- (wrongly or badly) + allied (joined)",
+      "sentences": [
+        {"en": "The two warring nations formed a shaky, ______ truce that everyone expected to collapse within months.", "zh": "這兩個交戰國結成了脆弱且不適當的休戰盟約，每個人都預期它會在幾個月內瓦解。"},
+        {"en": "The drama centers on a ______ couple forced into marriage by their families despite having no common interests.", "zh": "這部劇集圍繞著一對不相配的夫婦展開，儘管毫無共同興趣，他們仍被家族強迫結婚。"}
+      ],
+      "category": {"part": 1, "num": "31", "spelling": "mis", "meaning": "錯誤；不當；壞；憎惡"}
+    }
+  ]
+}
