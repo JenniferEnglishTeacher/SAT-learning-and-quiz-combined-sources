@@ -104,18 +104,25 @@ async function datamuseWords(parameter, query, max, posKey, topics = '') {
   }
 }
 
-function wordRelations(word, posKey, definition) {
+function wordRelations(word, posKey, definition, curatedSynonyms = [], curatedAntonyms = []) {
   const headword = String(word).toLocaleLowerCase();
-  const key = `${headword}|${posKey}|${definition}`;
+  const curatedSynonymList = Array.isArray(curatedSynonyms) ? curatedSynonyms.filter(Boolean) : [];
+  const curatedAntonymList = Array.isArray(curatedAntonyms) ? curatedAntonyms.filter(Boolean) : [];
+  const key = `${headword}|${posKey}|${definition}|${curatedSynonymList.join(',')}|${curatedAntonymList.join(',')}`;
   if (!relationCache.has(key)) {
     relationCache.set(key, Promise.allSettled([
       datamuseWords('rel_syn', headword, 6, posKey, relationTopics(definition)),
       datamuseWords('rel_ant', headword, 4, posKey)
-    ]).then(([synonyms, antonyms]) => ({
-      synonyms: synonyms.status === 'fulfilled' ? synonyms.value.filter(item => item.toLocaleLowerCase() !== headword).slice(0, 6) : [],
-      antonyms: antonyms.status === 'fulfilled' ? antonyms.value : [],
-      available: synonyms.status === 'fulfilled' || antonyms.status === 'fulfilled'
-    })));
+    ]).then(([synonyms, antonyms]) => {
+      const dynamicSynonyms = synonyms.status === 'fulfilled' ? synonyms.value : [];
+      const dynamicAntonyms = antonyms.status === 'fulfilled' ? antonyms.value : [];
+      const unique = values => [...new Map(values.map(item => [String(item).toLocaleLowerCase(), String(item)])).values()];
+      return {
+        synonyms: unique([...curatedSynonymList, ...dynamicSynonyms]).filter(item => item.toLocaleLowerCase() !== headword).slice(0, 6),
+        antonyms: unique([...curatedAntonymList, ...dynamicAntonyms]).slice(0, 4),
+        available: curatedSynonymList.length > 0 || curatedAntonymList.length > 0 || synonyms.status === 'fulfilled' || antonyms.status === 'fulfilled'
+      };
+    }));
   }
   return relationCache.get(key);
 }
@@ -124,11 +131,11 @@ function relationRow(label, words) {
   return `<p class="relation-row"><strong>${label}:</strong> ${words.map(item => dictionaryLink(item)).join(', ')}</p>`;
 }
 
-async function loadWordRelations(word, posKey, definition, container) {
+async function loadWordRelations(word, posKey, definition, container, curatedSynonyms = [], curatedAntonyms = []) {
   if (!container || container.dataset.loaded === 'true') return;
   container.dataset.loaded = 'true';
   try {
-    const relations = await wordRelations(word, posKey, definition);
+    const relations = await wordRelations(word, posKey, definition, curatedSynonyms, curatedAntonyms);
     if (!relations.available) throw new Error('No relation service');
     const sections = [];
     sections.push(relations.synonyms.length ? relationRow('Synonyms', relations.synonyms) : '<p class="relation-row"><strong>Synonyms:</strong> No synonym listed.</p>');
@@ -144,7 +151,7 @@ let referenceRelationObserver = null;
 function observeReferenceRelations(container, word) {
   if (!container) return;
   if (!('IntersectionObserver' in window)) {
-    loadWordRelations(word.word, word.pos_key, word.defn_en, container);
+    loadWordRelations(word.word, word.pos_key, word.defn_en, container, word.synonyms, word.antonyms);
     return;
   }
   if (!referenceRelationObserver) {
@@ -153,7 +160,7 @@ function observeReferenceRelations(container, word) {
         if (!entry.isIntersecting) return;
         referenceRelationObserver.unobserve(entry.target);
         const targetWord = entry.target.relationWord;
-        if (targetWord) loadWordRelations(targetWord.word, targetWord.pos_key, targetWord.defn_en, entry.target);
+        if (targetWord) loadWordRelations(targetWord.word, targetWord.pos_key, targetWord.defn_en, entry.target, targetWord.synonyms, targetWord.antonyms);
       });
     }, { rootMargin: '300px 0px' });
   }
@@ -231,7 +238,7 @@ function renderLearn() {
       if (!correct) button.classList.add('wrong');
       const reveal = card.querySelector('.reveal');
       reveal.hidden = false;
-      loadWordRelations(word.word, word.pos_key, word.defn_en, reveal.querySelector('[data-word-relations]'));
+      loadWordRelations(word.word, word.pos_key, word.defn_en, reveal.querySelector('[data-word-relations]'), word.synonyms, word.antonyms);
       learned += 1;
       updateProgress();
     };

@@ -1,0 +1,91 @@
+{
+  "id": "p1-19-hemi",
+  "name": "hemi",
+  "subtitle": "一半；半側",
+  "words": [
+    {
+      "word": "hemisphere",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "half of a sphere, or half of the Earth divided into northern and southern or eastern and western regions:",
+      "defn_zh": "半球",
+      "synonyms": ["half-sphere", "semisphere"],
+      "antonyms": [],
+      "root_note": "hemi- (half) + sphere (ball or globe)",
+      "sentences": [
+        {
+          "en": "As they flew across the equator, they officially crossed from the Northern ______ into the Southern Hemisphere.",
+          "zh": "當他們飛越赤道時，他們正式從北半球跨越到了南半球。"
+        },
+        {
+          "en": "The left ______ of the brain is traditionally associated with logical thinking and analytical skills.",
+          "zh": "大腦的左半球傳統上被認為與邏輯思維和分析能力息息相關。"
+        }
+      ],
+      "category": {"part": 1, "num": "19", "spelling": "hemi", "meaning": "一半；半側"}
+    },
+    {
+      "word": "hemiplegia",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "severe weakness or complete paralysis affecting only one side of the body:",
+      "defn_zh": "半身不遂；偏癱",
+      "synonyms": ["one-sided paralysis", "hemiparesis"],
+      "antonyms": [],
+      "root_note": "hemi- (half) + plegia (paralysis)",
+      "sentences": [
+        {
+          "en": "Following his severe stroke, the patient suffered from ______, which completely paralyzed his right arm and leg.",
+          "zh": "在嚴重中風後，這位患者出現了偏癱症狀，導致他的右手臂和右腿完全癱瘓。"
+        },
+        {
+          "en": "The rehabilitation program is designed to help patients with ______ regain mobility on their weaker side.",
+          "zh": "這項復健計畫旨在幫助半身不遂的患者恢復較無力側的活動能力。"
+        }
+      ],
+      "category": {"part": 1, "num": "19", "spelling": "hemi", "meaning": "一半；半側"}
+    },
+    {
+      "word": "hemianopia",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "blindness or loss of vision in half of the visual field, often caused by brain injury or stroke:",
+      "defn_zh": "半盲；偏盲",
+      "synonyms": ["hemianopsia", "partial blindness"],
+      "antonyms": [],
+      "root_note": "hemi- (half) + anopia (loss of vision)",
+      "sentences": [
+        {
+          "en": "Because of a tumor pressing on her optic nerve, she developed ______ and could not see anything to her left.",
+          "zh": "由於腫瘤壓迫到視神經，她患上了偏盲，導致她完全看不見左側的任何東西。"
+        },
+        {
+          "en": "Patients experiencing ______ must learn to scan their surroundings carefully to avoid bumping into objects on their blind side.",
+          "zh": "患有半盲的患者必須學會仔細掃視周圍環境，以避免撞到盲側的物體。"
+        }
+      ],
+      "category": {"part": 1, "num": "19", "spelling": "hemi", "meaning": "一半；半側"}
+    },
+    {
+      "word": "hemihedral",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "having only half the number of faces required for complete symmetry, especially in a crystal:",
+      "defn_zh": "半面體的",
+      "synonyms": ["semicrystalline", "asymmetrical"],
+      "antonyms": [],
+      "root_note": "hemi- (half) + hedral (face or surface)",
+      "sentences": [
+        {
+          "en": "Under the microscope, the scientist noted the ______ structure of the quartz crystal, observing its reduced number of symmetric faces.",
+          "zh": "在顯微鏡下，科學家注意到了石英晶體的半面體結構，並觀察到其對稱面的數量減少了。"
+        },
+        {
+          "en": "The professor explained how ______ crystals display unique optical properties because they lack a full set of symmetrical planes.",
+          "zh": "教授解釋了半面體晶體如何因為缺乏完整的對稱面，而展現出獨特的光學特性。"
+        }
+      ],
+      "category": {"part": 1, "num": "19", "spelling": "hemi", "meaning": "一半；半側"}
+    }
+  ]
+}

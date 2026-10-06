@@ -68,5 +68,39 @@
         "derived_from": "forerunner"
       }
     ]
+  },
+  "p1-19-hemi": {
+    "n.": [
+      {
+        "word": "hemihedry",
+        "pos": "n.",
+        "defn_en": "the crystallographic condition of having only half the full set of symmetrical faces:",
+        "defn_zh": "半面體性；半面晶形",
+        "derived_from": "hemihedral"
+      }
+    ],
+    "adj.": [
+      {
+        "word": "hemispheric",
+        "pos": "adj.",
+        "defn_en": "relating to a hemisphere:",
+        "defn_zh": "半球的",
+        "derived_from": "hemisphere"
+      },
+      {
+        "word": "hemiplegic",
+        "pos": "adj.",
+        "defn_en": "affected by hemiplegia or paralysis on one side of the body:",
+        "defn_zh": "偏癱的；半身不遂的",
+        "derived_from": "hemiplegia"
+      },
+      {
+        "word": "hemianopic",
+        "pos": "adj.",
+        "defn_en": "affected by loss of vision in half of the visual field:",
+        "defn_zh": "偏盲的；半盲的",
+        "derived_from": "hemianopia"
+      }
+    ]
   }
 }
