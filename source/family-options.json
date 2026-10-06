@@ -284,5 +284,16 @@
         "derived_from": "overhaul"
       }
     ]
+  },
+  "p1-38-poly": {
+    "adj.": [
+      {
+        "word": "polytheistic",
+        "pos": "adj.",
+        "defn_en": "believing in or relating to the worship of more than one god:",
+        "defn_zh": "多神信仰的；多神教的",
+        "derived_from": "polytheism"
+      }
+    ]
   }
 }

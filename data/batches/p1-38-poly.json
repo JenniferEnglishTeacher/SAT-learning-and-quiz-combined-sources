@@ -1,0 +1,791 @@
+{
+  "id": "p1-38-poly",
+  "part": "part1",
+  "part_label": "Part 1 字首篇 (Prefixes)",
+  "name": "poly",
+  "subtitle": "多；多數",
+  "count": 11,
+  "words": [
+    {
+      "word": "polymath",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a person with extensive knowledge and skill in many different subjects:",
+      "defn_zh": "博學之士；博學者",
+      "synonyms": [
+        "Renaissance person",
+        "scholar",
+        "intellectual",
+        "pundit"
+      ],
+      "antonyms": [
+        "ignoramus",
+        "narrow specialist",
+        "uninformed person"
+      ],
+      "root_note": "poly- (many) + math (learning or knowledge)",
+      "sentences": [
+        {
+          "en": "Benjamin Franklin was a true ______, succeeding as a scientist, author, inventor, and diplomat.",
+          "zh": "班傑明・富蘭克林是真正的博學者，在科學、寫作、發明和外交領域都有成就。"
+        },
+        {
+          "en": "The professor was considered a modern ______ because he published books on literature and quantum physics.",
+          "zh": "這位教授被視為現代博學之士，因為他出版了古典文學和量子物理學著作。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "38",
+        "spelling": "poly",
+        "meaning": "多；多數"
+      }
+    },
+    {
+      "word": "polyglot",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a person who knows, speaks, or writes in several languages:",
+      "defn_zh": "通曉多種語言的人；多語者",
+      "synonyms": [
+        "multilingual person",
+        "linguist"
+      ],
+      "antonyms": [
+        "monolingual person"
+      ],
+      "root_note": "poly- (many) + glot (tongue or language)",
+      "sentences": [
+        {
+          "en": "As an experienced ______, she translated the trade treaty into five languages during the summit.",
+          "zh": "作為經驗豐富的多語者，她在峰會期間將貿易條約翻譯成五種語言。"
+        },
+        {
+          "en": "The museum hired a ______ who could guide visitors in six different languages.",
+          "zh": "博物館聘請了一位能用六種語言導覽的多語者。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "38",
+        "spelling": "poly",
+        "meaning": "多；多數"
+      }
+    },
+    {
+      "word": "polymorphous",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "occurring or existing in many different forms, shapes, or stages:",
+      "defn_zh": "多形的；多形態的",
+      "synonyms": [
+        "polymorphic",
+        "multiform",
+        "diverse",
+        "changeable"
+      ],
+      "antonyms": [
+        "monomorphic",
+        "uniform",
+        "invariable"
+      ],
+      "root_note": "poly- (many) + morph (form) + -ous (adjective suffix)",
+      "sentences": [
+        {
+          "en": "The virus is dangerous because its ______ structure can change to escape the immune system.",
+          "zh": "這種病毒很危險，因為其多形態結構會改變，以逃避免疫系統。"
+        },
+        {
+          "en": "The actor's ______ talent allowed him to portray both a villain and a comic character.",
+          "zh": "這位演員多面向的才華，讓他既能飾演反派，也能演出喜劇角色。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "38",
+        "spelling": "poly",
+        "meaning": "多；多數"
+      }
+    },
+    {
+      "word": "polyphony",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "music that combines two or more independent melodies or vocal parts at the same time:",
+      "defn_zh": "複音音樂；複音性",
+      "synonyms": [
+        "counterpoint",
+        "harmony",
+        "choral texture"
+      ],
+      "antonyms": [
+        "monophony",
+        "single melody"
+      ],
+      "root_note": "poly- (many) + phon (sound) + -y (state or art)",
+      "sentences": [
+        {
+          "en": "Renaissance church music is known for intricate ______ in which separate voices blend together.",
+          "zh": "文藝復興教堂音樂以錯綜複雜的複音音樂聞名，不同聲部彼此交融。"
+        },
+        {
+          "en": "The critic praised the novel's narrative ______ because four characters told the story from distinct viewpoints.",
+          "zh": "評論家稱讚小說的敘事複音性，因為四個角色從不同觀點講述故事。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "38",
+        "spelling": "poly",
+        "meaning": "多；多數"
+      }
+    },
+    {
+      "word": "polychromatic",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "consisting of or decorated in many vivid colors:",
+      "defn_zh": "多色的；五彩繽紛的",
+      "synonyms": [
+        "multicolored",
+        "variegated",
+        "prismatic",
+        "psychedelic"
+      ],
+      "antonyms": [
+        "monochrome",
+        "unicolor",
+        "achromatic"
+      ],
+      "root_note": "poly- (many) + chrom (color) + -atic (relating to)",
+      "sentences": [
+        {
+          "en": "The cathedral's stained-glass windows cast ______ light across the stone floor at sunset.",
+          "zh": "日落時，大教堂彩色玻璃窗在石地板上灑下五彩繽紛的光芒。"
+        },
+        {
+          "en": "The male peacock spider displays a bright ______ pattern to attract a mate.",
+          "zh": "雄性孔雀蜘蛛展示鮮豔的多色圖案以吸引配偶。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "38",
+        "spelling": "poly",
+        "meaning": "多；多數"
+      }
+    },
+    {
+      "word": "polygraph",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "an instrument that records physical changes and is commonly used as a lie detector:",
+      "defn_zh": "測謊機；多功能記錄儀",
+      "synonyms": [
+        "lie detector",
+        "physiological recorder"
+      ],
+      "antonyms": [
+        "subjective interview"
+      ],
+      "root_note": "poly- (many) + graph (record or write)",
+      "sentences": [
+        {
+          "en": "The suspect agreed to take a ______ test to support his claim of innocence.",
+          "zh": "嫌疑人同意接受測謊機測試，以支持自己清白的說法。"
+        },
+        {
+          "en": "Because stress can distort the results, many courts reject ______ data as definitive evidence.",
+          "zh": "由於壓力可能扭曲結果，許多法院不接受測謊數據作為決定性證據。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "38",
+        "spelling": "poly",
+        "meaning": "多；多數"
+      }
+    },
+    {
+      "word": "polygamy",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "the practice or custom of being married to more than one person at the same time:",
+      "defn_zh": "多配偶制；一夫多妻制或一妻多夫制",
+      "synonyms": [
+        "plural marriage",
+        "multiple marriage"
+      ],
+      "antonyms": [
+        "monogamy"
+      ],
+      "root_note": "poly- (many) + gamy (marriage)",
+      "sentences": [
+        {
+          "en": "Certain historical cultures practiced ______ to build large and powerful political families.",
+          "zh": "某些歷史文化曾實行多配偶制，以建立龐大而強大的政治家族。"
+        },
+        {
+          "en": "The nation's laws enforce monogamy and declare every instance of ______ illegal.",
+          "zh": "該國法律實行一夫一妻制，並宣布任何多配偶情況皆屬違法。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "38",
+        "spelling": "poly",
+        "meaning": "多；多數"
+      }
+    },
+    {
+      "word": "polytechnic",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a school or college that specializes in technical arts, applied science, and engineering:",
+      "defn_zh": "工藝學校；理工學院",
+      "synonyms": [
+        "technical institute",
+        "vocational college",
+        "engineering school"
+      ],
+      "antonyms": [
+        "liberal arts college"
+      ],
+      "root_note": "poly- (many) + techn (skill or craft) + -ic (relating to)",
+      "sentences": [
+        {
+          "en": "He applied to a prestigious ______ for practical training in robotics and computer science.",
+          "zh": "他申請一所著名理工學院，希望接受機器人技術與電腦科學的實務訓練。"
+        },
+        {
+          "en": "The company recruited engineering graduates from the local ______.",
+          "zh": "這家公司從當地理工學院招募工程系畢業生。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "38",
+        "spelling": "poly",
+        "meaning": "多；多數"
+      }
+    },
+    {
+      "word": "polyester",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a durable synthetic fiber or polymer widely used in clothing and manufacturing:",
+      "defn_zh": "聚酯纖維；滌綸",
+      "synonyms": [
+        "synthetic material",
+        "artificial textile"
+      ],
+      "antonyms": [
+        "natural fiber",
+        "cotton",
+        "wool"
+      ],
+      "root_note": "poly- (many) + ester (chemical compound)",
+      "sentences": [
+        {
+          "en": "Because the sports shirt used a breathable ______ blend, it dried quickly after the race.",
+          "zh": "這件運動上衣採用透氣的聚酯纖維混紡，因此比賽後很快就乾了。"
+        },
+        {
+          "en": "Environmentalists warn that cheap garments made from ______ do not decompose easily.",
+          "zh": "環保人士警告，以聚酯纖維製成的廉價衣物不易分解。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "38",
+        "spelling": "poly",
+        "meaning": "多；多數"
+      }
+    },
+    {
+      "word": "polysyllabic",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "having more than one syllable, especially having several syllables:",
+      "defn_zh": "多音節的",
+      "synonyms": [
+        "multisyllabic",
+        "many-syllabled",
+        "long"
+      ],
+      "antonyms": [
+        "monosyllabic",
+        "one-syllabled"
+      ],
+      "root_note": "poly- (many) + syllab (syllable) + -ic (adjective suffix)",
+      "sentences": [
+        {
+          "en": "The lecture contained long, ______ terms that confused the introductory students.",
+          "zh": "演講中充滿冗長的多音節詞彙，讓初學者感到困惑。"
+        },
+        {
+          "en": "To keep the children's book accessible, the author avoided complex ______ vocabulary.",
+          "zh": "為了讓兒童讀物容易閱讀，作者避免使用複雜的多音節詞彙。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "38",
+        "spelling": "poly",
+        "meaning": "多；多數"
+      }
+    },
+    {
+      "word": "polytheism",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "the belief in or worship of more than one god:",
+      "defn_zh": "多神論；多神信仰",
+      "synonyms": [
+        "belief in many gods",
+        "plural-deity worship",
+        "paganism"
+      ],
+      "antonyms": [
+        "monotheism",
+        "atheism"
+      ],
+      "root_note": "poly- (many) + the (god) + -ism (belief)",
+      "sentences": [
+        {
+          "en": "Ancient Greek civilization was rooted in ______ and worshiped deities such as Zeus and Hera.",
+          "zh": "古希臘文明深深植根於多神信仰，崇拜宙斯和赫拉等不同神祇。"
+        },
+        {
+          "en": "The transition from tribal ______ to monotheism transformed the region's political landscape.",
+          "zh": "從部落多神教轉向一神教的歷史變化，徹底改變了該地區的政治版圖。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "38",
+        "spelling": "poly",
+        "meaning": "多；多數"
+      }
+    }
+  ],
+  "family_options": {
+    "adj.": [
+      {
+        "word": "polytheistic",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "believing in or relating to the worship of more than one god:",
+        "defn_zh": "多神信仰的；多神教的",
+        "derived_from": "polytheism"
+      }
+    ]
+  },
+  "fallback_options": {
+    "v.": [
+      {
+        "word": "abound",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to exist in great numbers:",
+        "defn_zh": "充滿"
+      },
+      {
+        "word": "abrogate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to deprive of legal force, to nullify:=abolish",
+        "defn_zh": "廢除/取消"
+      },
+      {
+        "word": "abjure",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to renounce, abstain from:",
+        "defn_zh": "發誓放棄/棄絕"
+      },
+      {
+        "word": "abbreviate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to shorten a word or phrase:",
+        "defn_zh": "縮寫;縮短"
+      },
+      {
+        "word": "abdicate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to give up a position, usually one of leadership:",
+        "defn_zh": "退位/放棄(職位)"
+      },
+      {
+        "word": "abduct",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to kidnap, take by force:",
+        "defn_zh": "綁架/劫持"
+      },
+      {
+        "word": "abhor",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to regard with disgust and hatred:",
+        "defn_zh": "憎惡/厭惡"
+      },
+      {
+        "word": "abnegate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to deny or renounce:",
+        "defn_zh": "放棄/克制"
+      },
+      {
+        "word": "abolish",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to formally put an end to a system, practice, or institution:",
+        "defn_zh": "廢除"
+      },
+      {
+        "word": "abort",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to give up on a half-finished project or effort:",
+        "defn_zh": "中止/放棄"
+      },
+      {
+        "word": "abrade",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to scrape or wear away by friction:",
+        "defn_zh": "磨損;擦傷"
+      },
+      {
+        "word": "abscond",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to sneak away and hide:",
+        "defn_zh": "潛逃/逃匿"
+      }
+    ],
+    "adj.": [
+      {
+        "word": "abortive",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "fruitless, failing:",
+        "defn_zh": "失敗的/夭折的"
+      },
+      {
+        "word": "abstemious",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "moderate in eating or drinking:",
+        "defn_zh": "飲食有節制的"
+      },
+      {
+        "word": "abhorrent",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "detestable, despised:",
+        "defn_zh": "令人厭惡的"
+      },
+      {
+        "word": "absurd",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "ridiculous:",
+        "defn_zh": "荒謬的"
+      },
+      {
+        "word": "aberrant",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "deviating from what is normal or expected:",
+        "defn_zh": "異常的;脫軌的"
+      },
+      {
+        "word": "abject",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "wretched, pitiful:",
+        "defn_zh": "卑賤的/淒慘的"
+      },
+      {
+        "word": "abominable",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "causing moral revulsion; extremely unpleasant:",
+        "defn_zh": "可憎的;惡劣的"
+      },
+      {
+        "word": "abounding",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "existing in large numbers or amounts:",
+        "defn_zh": "大量存在的;豐富的"
+      },
+      {
+        "word": "abrasive",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "showing little concern for others; harsh:",
+        "defn_zh": "粗暴的/刺耳的"
+      },
+      {
+        "word": "abrupt",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "sudden or unexpected; brief and curt in manner:",
+        "defn_zh": "突然的/唐突的"
+      },
+      {
+        "word": "abstract",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "existing purely in the mind; not representing actual reality:",
+        "defn_zh": "抽象的"
+      },
+      {
+        "word": "abstruse",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "hard to comprehend:",
+        "defn_zh": "深奧難懂的"
+      }
+    ],
+    "n.": [
+      {
+        "word": "aversion",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "strong dislike, opposition:",
+        "defn_zh": "厭惡/反感"
+      },
+      {
+        "word": "aberration",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "something that differs from the norm:",
+        "defn_zh": "異常/脫軌"
+      },
+      {
+        "word": "abjection",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a state of complete misery, hopelessness, or degradation:",
+        "defn_zh": "卑賤;悲慘狀態"
+      },
+      {
+        "word": "abjuration",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the solemn renunciation of a belief, cause, or claim:",
+        "defn_zh": "公開放棄;誓絕"
+      },
+      {
+        "word": "ablution",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the act of washing oneself, especially as part of a religious ritual:",
+        "defn_zh": "沐浴;淨身儀式"
+      },
+      {
+        "word": "abnegation",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "denial of comfort to oneself:",
+        "defn_zh": "自我克制/放棄"
+      },
+      {
+        "word": "abomination",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "something that causes disgust or hatred:",
+        "defn_zh": "可憎之事;令人厭惡的東西"
+      },
+      {
+        "word": "abridgement",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a shortened version of a book or other written work:",
+        "defn_zh": "節略本;縮減版"
+      },
+      {
+        "word": "absolution",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "freedom from blame, guilt, sin:",
+        "defn_zh": "赦免/免罪"
+      },
+      {
+        "word": "abstemiousness",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "moderation or self-restraint, especially in eating and drinking:",
+        "defn_zh": "節制;克己"
+      },
+      {
+        "word": "abstinence",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the practice of restraining oneself from something enjoyable, especially food, alcohol, or sex:",
+        "defn_zh": "節制;戒絕"
+      },
+      {
+        "word": "avocation",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a hobby or minor occupation apart from one's main career:",
+        "defn_zh": "副業;業餘愛好"
+      }
+    ],
+    "adv.": [
+      {
+        "word": "accordingly",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in a manner that fits the circumstances; consequently:",
+        "defn_zh": "相應地;因此"
+      },
+      {
+        "word": "inadvertently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "unintentionally or by accident:",
+        "defn_zh": "無意間/不小心地"
+      },
+      {
+        "word": "consequently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "as a result; therefore:",
+        "defn_zh": "因此;結果"
+      },
+      {
+        "word": "contemptuously",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "without respect; in a disdainful manner:",
+        "defn_zh": "輕蔑地"
+      },
+      {
+        "word": "involuntarily",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "done without conscious control:",
+        "defn_zh": "不由自主地"
+      },
+      {
+        "word": "cordially",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in a warm or friendly manner:",
+        "defn_zh": "誠摯地/友好地"
+      },
+      {
+        "word": "ipso facto",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "by that very fact or act:",
+        "defn_zh": "事實上;因此"
+      },
+      {
+        "word": "en passant",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in passing; incidentally:",
+        "defn_zh": "順帶一提地;偶然地"
+      },
+      {
+        "word": "regardless",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "despite the prevailing circumstances; without being deterred:",
+        "defn_zh": "不管怎樣;儘管如此"
+      },
+      {
+        "word": "subsequently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "afterward; following in time or order:",
+        "defn_zh": "隨後;其後"
+      },
+      {
+        "word": "aside",
+        "pos": "adv./n.",
+        "pos_key": "adv.",
+        "defn_en": "to or on one side; a remark not meant to be heard by everyone:",
+        "defn_zh": "在旁邊;旁白"
+      },
+      {
+        "word": "vice versa",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "with the order or meaning reversed; conversely:",
+        "defn_zh": "反之亦然"
+      }
+    ],
+    "other": [
+      {
+        "word": "（此批單字中，暫無符合此字根/字首的單字）",
+        "pos": "",
+        "pos_key": "other",
+        "defn_en": "",
+        "defn_zh": ""
+      }
+    ],
+    "prep./adv.": [
+      {
+        "word": "besides",
+        "pos": "prep./adv.",
+        "pos_key": "prep./adv.",
+        "defn_en": "in addition to; furthermore:",
+        "defn_zh": "除...之外;此外"
+      }
+    ],
+    "phrasalv.": [
+      {
+        "word": "egg on",
+        "pos": "phrasal v.",
+        "pos_key": "phrasalv.",
+        "defn_en": "to encourage someone to do something, often risky:",
+        "defn_zh": "慫恿;鼓動"
+      }
+    ],
+    "abbr.": [
+      {
+        "word": "etc.",
+        "pos": "abbr.",
+        "pos_key": "abbr.",
+        "defn_en": "and other similar things (abbreviation of et cetera):",
+        "defn_zh": "等等(et cetera的縮寫)"
+      }
+    ],
+    "interj.": [
+      {
+        "word": "fiddledeedee",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "an exclamation expressing dismissal of something as nonsense:",
+        "defn_zh": "廢話!(表示不屑一顧)"
+      },
+      {
+        "word": "gesundheit",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "an expression said to someone who has just sneezed:",
+        "defn_zh": "保重(打噴嚏後的祝福語)"
+      }
+    ],
+    "prep.": [
+      {
+        "word": "via",
+        "pos": "prep.",
+        "pos_key": "prep.",
+        "defn_en": "by way of; passing through:",
+        "defn_zh": "經由;透過"
+      }
+    ]
+  }
+}

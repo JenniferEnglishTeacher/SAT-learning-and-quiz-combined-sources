@@ -1,0 +1,151 @@
+{
+  "id": "p1-38-poly",
+  "merge_with_source": false,
+  "name": "poly",
+  "subtitle": "多；多數",
+  "words": [
+    {
+      "word": "polymath", "pos": "n.", "pos_key": "n.",
+      "defn_en": "a person with extensive knowledge and skill in many different subjects:",
+      "defn_zh": "博學之士；博學者",
+      "synonyms": ["Renaissance person", "scholar", "intellectual", "pundit"],
+      "antonyms": ["ignoramus", "narrow specialist", "uninformed person"],
+      "root_note": "poly- (many) + math (learning or knowledge)",
+      "sentences": [
+        {"en": "Benjamin Franklin was a true ______, succeeding as a scientist, author, inventor, and diplomat.", "zh": "班傑明・富蘭克林是真正的博學者，在科學、寫作、發明和外交領域都有成就。"},
+        {"en": "The professor was considered a modern ______ because he published books on literature and quantum physics.", "zh": "這位教授被視為現代博學之士，因為他出版了古典文學和量子物理學著作。"}
+      ],
+      "category": {"part": 1, "num": "38", "spelling": "poly", "meaning": "多；多數"}
+    },
+    {
+      "word": "polyglot", "pos": "n.", "pos_key": "n.",
+      "defn_en": "a person who knows, speaks, or writes in several languages:",
+      "defn_zh": "通曉多種語言的人；多語者",
+      "synonyms": ["multilingual person", "linguist"],
+      "antonyms": ["monolingual person"],
+      "root_note": "poly- (many) + glot (tongue or language)",
+      "sentences": [
+        {"en": "As an experienced ______, she translated the trade treaty into five languages during the summit.", "zh": "作為經驗豐富的多語者，她在峰會期間將貿易條約翻譯成五種語言。"},
+        {"en": "The museum hired a ______ who could guide visitors in six different languages.", "zh": "博物館聘請了一位能用六種語言導覽的多語者。"}
+      ],
+      "category": {"part": 1, "num": "38", "spelling": "poly", "meaning": "多；多數"}
+    },
+    {
+      "word": "polymorphous", "pos": "adj.", "pos_key": "adj.",
+      "defn_en": "occurring or existing in many different forms, shapes, or stages:",
+      "defn_zh": "多形的；多形態的",
+      "synonyms": ["polymorphic", "multiform", "diverse", "changeable"],
+      "antonyms": ["monomorphic", "uniform", "invariable"],
+      "root_note": "poly- (many) + morph (form) + -ous (adjective suffix)",
+      "sentences": [
+        {"en": "The virus is dangerous because its ______ structure can change to escape the immune system.", "zh": "這種病毒很危險，因為其多形態結構會改變，以逃避免疫系統。"},
+        {"en": "The actor's ______ talent allowed him to portray both a villain and a comic character.", "zh": "這位演員多面向的才華，讓他既能飾演反派，也能演出喜劇角色。"}
+      ],
+      "category": {"part": 1, "num": "38", "spelling": "poly", "meaning": "多；多數"}
+    },
+    {
+      "word": "polyphony", "pos": "n.", "pos_key": "n.",
+      "defn_en": "music that combines two or more independent melodies or vocal parts at the same time:",
+      "defn_zh": "複音音樂；複音性",
+      "synonyms": ["counterpoint", "harmony", "choral texture"],
+      "antonyms": ["monophony", "single melody"],
+      "root_note": "poly- (many) + phon (sound) + -y (state or art)",
+      "sentences": [
+        {"en": "Renaissance church music is known for intricate ______ in which separate voices blend together.", "zh": "文藝復興教堂音樂以錯綜複雜的複音音樂聞名，不同聲部彼此交融。"},
+        {"en": "The critic praised the novel's narrative ______ because four characters told the story from distinct viewpoints.", "zh": "評論家稱讚小說的敘事複音性，因為四個角色從不同觀點講述故事。"}
+      ],
+      "category": {"part": 1, "num": "38", "spelling": "poly", "meaning": "多；多數"}
+    },
+    {
+      "word": "polychromatic", "pos": "adj.", "pos_key": "adj.",
+      "defn_en": "consisting of or decorated in many vivid colors:",
+      "defn_zh": "多色的；五彩繽紛的",
+      "synonyms": ["multicolored", "variegated", "prismatic", "psychedelic"],
+      "antonyms": ["monochrome", "unicolor", "achromatic"],
+      "root_note": "poly- (many) + chrom (color) + -atic (relating to)",
+      "sentences": [
+        {"en": "The cathedral's stained-glass windows cast ______ light across the stone floor at sunset.", "zh": "日落時，大教堂彩色玻璃窗在石地板上灑下五彩繽紛的光芒。"},
+        {"en": "The male peacock spider displays a bright ______ pattern to attract a mate.", "zh": "雄性孔雀蜘蛛展示鮮豔的多色圖案以吸引配偶。"}
+      ],
+      "category": {"part": 1, "num": "38", "spelling": "poly", "meaning": "多；多數"}
+    },
+    {
+      "word": "polygraph", "pos": "n.", "pos_key": "n.",
+      "defn_en": "an instrument that records physical changes and is commonly used as a lie detector:",
+      "defn_zh": "測謊機；多功能記錄儀",
+      "synonyms": ["lie detector", "physiological recorder"],
+      "antonyms": ["subjective interview"],
+      "root_note": "poly- (many) + graph (record or write)",
+      "sentences": [
+        {"en": "The suspect agreed to take a ______ test to support his claim of innocence.", "zh": "嫌疑人同意接受測謊機測試，以支持自己清白的說法。"},
+        {"en": "Because stress can distort the results, many courts reject ______ data as definitive evidence.", "zh": "由於壓力可能扭曲結果，許多法院不接受測謊數據作為決定性證據。"}
+      ],
+      "category": {"part": 1, "num": "38", "spelling": "poly", "meaning": "多；多數"}
+    },
+    {
+      "word": "polygamy", "pos": "n.", "pos_key": "n.",
+      "defn_en": "the practice or custom of being married to more than one person at the same time:",
+      "defn_zh": "多配偶制；一夫多妻制或一妻多夫制",
+      "synonyms": ["plural marriage", "multiple marriage"],
+      "antonyms": ["monogamy"],
+      "root_note": "poly- (many) + gamy (marriage)",
+      "sentences": [
+        {"en": "Certain historical cultures practiced ______ to build large and powerful political families.", "zh": "某些歷史文化曾實行多配偶制，以建立龐大而強大的政治家族。"},
+        {"en": "The nation's laws enforce monogamy and declare every instance of ______ illegal.", "zh": "該國法律實行一夫一妻制，並宣布任何多配偶情況皆屬違法。"}
+      ],
+      "category": {"part": 1, "num": "38", "spelling": "poly", "meaning": "多；多數"}
+    },
+    {
+      "word": "polytechnic", "pos": "n.", "pos_key": "n.",
+      "defn_en": "a school or college that specializes in technical arts, applied science, and engineering:",
+      "defn_zh": "工藝學校；理工學院",
+      "synonyms": ["technical institute", "vocational college", "engineering school"],
+      "antonyms": ["liberal arts college"],
+      "root_note": "poly- (many) + techn (skill or craft) + -ic (relating to)",
+      "sentences": [
+        {"en": "He applied to a prestigious ______ for practical training in robotics and computer science.", "zh": "他申請一所著名理工學院，希望接受機器人技術與電腦科學的實務訓練。"},
+        {"en": "The company recruited engineering graduates from the local ______.", "zh": "這家公司從當地理工學院招募工程系畢業生。"}
+      ],
+      "category": {"part": 1, "num": "38", "spelling": "poly", "meaning": "多；多數"}
+    },
+    {
+      "word": "polyester", "pos": "n.", "pos_key": "n.",
+      "defn_en": "a durable synthetic fiber or polymer widely used in clothing and manufacturing:",
+      "defn_zh": "聚酯纖維；滌綸",
+      "synonyms": ["synthetic material", "artificial textile"],
+      "antonyms": ["natural fiber", "cotton", "wool"],
+      "root_note": "poly- (many) + ester (chemical compound)",
+      "sentences": [
+        {"en": "Because the sports shirt used a breathable ______ blend, it dried quickly after the race.", "zh": "這件運動上衣採用透氣的聚酯纖維混紡，因此比賽後很快就乾了。"},
+        {"en": "Environmentalists warn that cheap garments made from ______ do not decompose easily.", "zh": "環保人士警告，以聚酯纖維製成的廉價衣物不易分解。"}
+      ],
+      "category": {"part": 1, "num": "38", "spelling": "poly", "meaning": "多；多數"}
+    },
+    {
+      "word": "polysyllabic", "pos": "adj.", "pos_key": "adj.",
+      "defn_en": "having more than one syllable, especially having several syllables:",
+      "defn_zh": "多音節的",
+      "synonyms": ["multisyllabic", "many-syllabled", "long"],
+      "antonyms": ["monosyllabic", "one-syllabled"],
+      "root_note": "poly- (many) + syllab (syllable) + -ic (adjective suffix)",
+      "sentences": [
+        {"en": "The lecture contained long, ______ terms that confused the introductory students.", "zh": "演講中充滿冗長的多音節詞彙，讓初學者感到困惑。"},
+        {"en": "To keep the children's book accessible, the author avoided complex ______ vocabulary.", "zh": "為了讓兒童讀物容易閱讀，作者避免使用複雜的多音節詞彙。"}
+      ],
+      "category": {"part": 1, "num": "38", "spelling": "poly", "meaning": "多；多數"}
+    },
+    {
+      "word": "polytheism", "pos": "n.", "pos_key": "n.",
+      "defn_en": "the belief in or worship of more than one god:",
+      "defn_zh": "多神論；多神信仰",
+      "synonyms": ["belief in many gods", "plural-deity worship", "paganism"],
+      "antonyms": ["monotheism", "atheism"],
+      "root_note": "poly- (many) + the (god) + -ism (belief)",
+      "sentences": [
+        {"en": "Ancient Greek civilization was rooted in ______ and worshiped deities such as Zeus and Hera.", "zh": "古希臘文明深深植根於多神信仰，崇拜宙斯和赫拉等不同神祇。"},
+        {"en": "The transition from tribal ______ to monotheism transformed the region's political landscape.", "zh": "從部落多神教轉向一神教的歷史變化，徹底改變了該地區的政治版圖。"}
+      ],
+      "category": {"part": 1, "num": "38", "spelling": "poly", "meaning": "多；多數"}
+    }
+  ]
+}
