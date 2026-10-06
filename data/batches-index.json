@@ -4,7 +4,7 @@
     "total_batches": 235,
     "part1_part2_batches": 158,
     "unclassified_batches": 77,
-    "generated_batches": 41
+    "generated_batches": 42
   },
   "batches": [
     {
@@ -542,10 +542,10 @@
       "part": "part1",
       "part_label": "Part 1 字首篇 (Prefixes)",
       "name": "out",
-      "subtitle": "外；出",
-      "count": 1,
-      "generated": false,
-      "search_terms": "（此批單字中，暫無符合此字根/字首的單字）"
+      "subtitle": "外；出；超越",
+      "count": 20,
+      "generated": true,
+      "search_terms": "outlandish outmaneuver outstrip outmoded outpour outpacing outcast outset outspoken outlaw outcrop outlay outweigh outcry outdo outsmart outlast outpourings outlying outrun"
     },
     {
       "id": "p1-36-over",

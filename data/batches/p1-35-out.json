@@ -1,0 +1,1116 @@
+{
+  "id": "p1-35-out",
+  "part": "part1",
+  "part_label": "Part 1 字首篇 (Prefixes)",
+  "name": "out",
+  "subtitle": "外；出；超越",
+  "count": 20,
+  "words": [
+    {
+      "word": "outlandish",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "looking or sounding bizarre, strange, or unfamiliar:",
+      "defn_zh": "古怪的；奇異的；異乎尋常的",
+      "synonyms": [
+        "bizarre",
+        "eccentric",
+        "unconventional",
+        "peculiar"
+      ],
+      "antonyms": [
+        "ordinary",
+        "conventional",
+        "normal"
+      ],
+      "root_note": "out- (outside or beyond) + land + -ish (having the quality of)",
+      "sentences": [
+        {
+          "en": "The actor wore an ______ costume made entirely of neon feathers and metallic foil.",
+          "zh": "為了飾演外星王子，演員穿了一套由霓虹羽毛和金屬箔片製成的古怪服裝。"
+        },
+        {
+          "en": "Nobody believed his ______ claim that a map led to a hidden city of gold beneath the school.",
+          "zh": "沒有人相信他那異乎尋常的說法：一張地圖能通往學校地下的黃金城。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "35",
+        "spelling": "out",
+        "meaning": "外；出；超越"
+      }
+    },
+    {
+      "word": "outmaneuver",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to use clever strategy or skill to gain an advantage over someone:",
+      "defn_zh": "以謀略制勝；智勝；用計謀占上風",
+      "synonyms": [
+        "outsmart",
+        "outwit",
+        "circumvent",
+        "outplay"
+      ],
+      "antonyms": [
+        "blunder",
+        "yield",
+        "fall behind"
+      ],
+      "root_note": "out- (beyond or better than) + maneuver (make a strategic move)",
+      "sentences": [
+        {
+          "en": "By sacrificing his knight, the chess grandmaster managed to ______ his opponent.",
+          "zh": "這位西洋棋大師藉由巧妙犧牲騎士，成功在策略上智勝對手。"
+        },
+        {
+          "en": "The startup used personalized service to ______ its much larger corporate rivals.",
+          "zh": "這家新創公司藉由提供個人化服務，成功以策略勝過規模更大的企業對手。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "35",
+        "spelling": "out",
+        "meaning": "外；出；超越"
+      }
+    },
+    {
+      "word": "outstrip",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to become greater, faster, or better than someone or something else:",
+      "defn_zh": "超過；勝過；跑過",
+      "synonyms": [
+        "surpass",
+        "exceed",
+        "outdo",
+        "top"
+      ],
+      "antonyms": [
+        "fail",
+        "lag behind",
+        "fall short"
+      ],
+      "root_note": "out- (beyond) + strip (move quickly)",
+      "sentences": [
+        {
+          "en": "Holiday demand for the new game console began to ______ the factory's supply.",
+          "zh": "節日期間，新款遊戲機的需求開始超過工廠的供應量。"
+        },
+        {
+          "en": "With a burst of speed on the final lap, the runner managed to ______ every competitor.",
+          "zh": "在最後一圈突然加速後，跑者成功超越所有競爭對手。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "35",
+        "spelling": "out",
+        "meaning": "外；出；超越"
+      }
+    },
+    {
+      "word": "outmoded",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "no longer modern, useful, or fashionable; outdated:",
+      "defn_zh": "過時的；陳舊的；落伍的",
+      "synonyms": [
+        "obsolete",
+        "antiquated",
+        "archaic",
+        "dated"
+      ],
+      "antonyms": [
+        "modern",
+        "contemporary",
+        "cutting-edge"
+      ],
+      "root_note": "out- (beyond or no longer within) + mode (fashion or method) + -ed",
+      "sentences": [
+        {
+          "en": "The company replaced its computers because the operating system was ______ and vulnerable to hackers.",
+          "zh": "公司更換電腦，因為舊作業系統已經過時，而且容易遭駭客攻擊。"
+        },
+        {
+          "en": "Modern research has shown that bloodletting is an ______ and dangerous treatment.",
+          "zh": "現代研究已證明，放血療法是一種過時且危險的治療方式。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "35",
+        "spelling": "out",
+        "meaning": "外；出；超越"
+      }
+    },
+    {
+      "word": "outpour",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a large sudden flow of liquid or a strong expression of emotion:",
+      "defn_zh": "湧出；傾瀉；感情的強烈流露",
+      "synonyms": [
+        "outflow",
+        "effusion",
+        "torrent",
+        "flood"
+      ],
+      "antonyms": [
+        "trickle",
+        "suppression",
+        "restraint"
+      ],
+      "root_note": "out- (outward) + pour (flow heavily)",
+      "sentences": [
+        {
+          "en": "After the earthquake, a massive ______ of sympathy and donations came from across the country.",
+          "zh": "地震發生後，全國各地湧現大量同情與捐款。"
+        },
+        {
+          "en": "The sudden ______ of rain flooded the city streets in less than twenty minutes.",
+          "zh": "突如其來的暴雨傾瀉而下，不到二十分鐘便淹沒城市街道。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "35",
+        "spelling": "out",
+        "meaning": "外；出；超越"
+      }
+    },
+    {
+      "word": "outpacing",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "moving, developing, or growing faster than someone or something else:",
+      "defn_zh": "速度超過；發展超越",
+      "synonyms": [
+        "outrunning",
+        "eclipsing",
+        "surpassing",
+        "leaving behind"
+      ],
+      "antonyms": [
+        "slowing",
+        "lagging",
+        "trailing"
+      ],
+      "root_note": "out- (beyond or faster than) + pacing (moving at a rate)",
+      "sentences": [
+        {
+          "en": "Economists worry that the rising cost of living is ______ the growth of average wages.",
+          "zh": "經濟學家擔心，生活成本上升的速度正超過平均工資的增長。"
+        },
+        {
+          "en": "The development of artificial intelligence is ______ the creation of laws to regulate it.",
+          "zh": "人工智慧的發展速度正大幅超越政府制定相關法規的速度。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "35",
+        "spelling": "out",
+        "meaning": "外；出；超越"
+      }
+    },
+    {
+      "word": "outcast",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a person rejected by society, family, or a social group:",
+      "defn_zh": "被排斥的人；流浪者；棄兒",
+      "synonyms": [
+        "exile",
+        "pariah",
+        "outsider",
+        "reject"
+      ],
+      "antonyms": [
+        "insider",
+        "accepted member",
+        "favorite"
+      ],
+      "root_note": "out- (outside) + cast (throw or place)",
+      "sentences": [
+        {
+          "en": "Because he refused to follow the village rules, the young man became a social ______.",
+          "zh": "因為拒絕遵守村莊規定，這名年輕人成了被社會排斥的人。"
+        },
+        {
+          "en": "Joining the art club helped her feel less like an ______ during her first year at the new school.",
+          "zh": "加入美術社讓她在新學校的第一年不再那麼像個格格不入的局外人。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "35",
+        "spelling": "out",
+        "meaning": "外；出；超越"
+      }
+    },
+    {
+      "word": "outset",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "the start, beginning, or initial stage of an event or journey:",
+      "defn_zh": "開始；開端",
+      "synonyms": [
+        "commencement",
+        "inception",
+        "dawn",
+        "origin"
+      ],
+      "antonyms": [
+        "conclusion",
+        "termination",
+        "end"
+      ],
+      "root_note": "out- (forth) + set (place or begin)",
+      "sentences": [
+        {
+          "en": "The manager made it clear from the ______ that everyone might need to work weekends.",
+          "zh": "經理從專案一開始就明確表示，每個人可能都需要在週末工作。"
+        },
+        {
+          "en": "We encountered trouble at the ______ of our trip when the car broke down outside the driveway.",
+          "zh": "旅程一開始我們就遇到麻煩，車子剛開出車道便故障了。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "35",
+        "spelling": "out",
+        "meaning": "外；出；超越"
+      }
+    },
+    {
+      "word": "outspoken",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "expressing opinions directly and honestly, even when they may offend people:",
+      "defn_zh": "直言不諱的；坦率的",
+      "synonyms": [
+        "candid",
+        "blunt",
+        "vocal",
+        "forthright"
+      ],
+      "antonyms": [
+        "reticent",
+        "reserved",
+        "timid",
+        "quiet"
+      ],
+      "root_note": "out- (openly) + spoken (expressed in speech)",
+      "sentences": [
+        {
+          "en": "She is an ______ critic of the government's environmental policy and often organizes protests.",
+          "zh": "她是政府環境政策的直言不諱的批評者，經常組織抗議活動。"
+        },
+        {
+          "en": "Some managers found his ______ nature rude, while others appreciated his honest feedback.",
+          "zh": "有些經理認為他坦率的性格很無禮，另一些人則欣賞他的誠實回饋。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "35",
+        "spelling": "out",
+        "meaning": "外；出；超越"
+      }
+    },
+    {
+      "word": "outlaw",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a person who has broken the law and may be hiding from the police; also, a ban by law:",
+      "defn_zh": "不法之徒；歹徒；法律禁令",
+      "synonyms": [
+        "bandit",
+        "fugitive",
+        "criminal"
+      ],
+      "antonyms": [
+        "law-abiding citizen",
+        "legal resident"
+      ],
+      "root_note": "out- (outside) + law (legal rules)",
+      "sentences": [
+        {
+          "en": "The dangerous ______ escaped from the town jail and hid from the sheriff in the mountains.",
+          "zh": "這名危險的不法之徒逃出鎮上的監獄，躲進山中避開警長追捕。"
+        },
+        {
+          "en": "The legendary ______ became famous for repeatedly evading the authorities.",
+          "zh": "這名傳奇歹徒因一再逃過當局追捕而聞名。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "35",
+        "spelling": "out",
+        "meaning": "外；出；超越"
+      }
+    },
+    {
+      "word": "outcrop",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "part of a rock formation or mineral vein that appears above the ground:",
+      "defn_zh": "露出地表的岩石；露頭",
+      "synonyms": [
+        "protrusion",
+        "ledge",
+        "ridge",
+        "exposure"
+      ],
+      "antonyms": [
+        "subsurface formation",
+        "buried rock"
+      ],
+      "root_note": "out- (outward or exposed) + crop (emerge or appear)",
+      "sentences": [
+        {
+          "en": "The geologist collected soil samples from a rocky ______ near the mountain summit.",
+          "zh": "地質學家從山頂附近的一處裸露岩石採集土壤樣本。"
+        },
+        {
+          "en": "We climbed onto a flat stone ______ to get a better view of the valley below.",
+          "zh": "我們爬上一塊平坦的露頭岩石，以便更清楚地欣賞下方山谷。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "35",
+        "spelling": "out",
+        "meaning": "外；出；超越"
+      }
+    },
+    {
+      "word": "outlay",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "an amount of money spent for a particular purpose, especially at the start of a project:",
+      "defn_zh": "支出；費用；經費",
+      "synonyms": [
+        "expenditure",
+        "expense",
+        "spending",
+        "disbursement"
+      ],
+      "antonyms": [
+        "income",
+        "revenue",
+        "profit"
+      ],
+      "root_note": "out- (outward) + lay (put or spend)",
+      "sentences": [
+        {
+          "en": "Opening a luxury restaurant requires a large initial capital ______ for equipment and design.",
+          "zh": "開設高級餐廳需要龐大的初期資金支出，用於設備和室內設計。"
+        },
+        {
+          "en": "The homeowners estimated the total financial ______ for a new swimming pool at thirty thousand dollars.",
+          "zh": "屋主估計建造新游泳池的總財務支出約為三萬美元。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "35",
+        "spelling": "out",
+        "meaning": "外；出；超越"
+      }
+    },
+    {
+      "word": "outweigh",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to be greater, more significant, or more important than something else:",
+      "defn_zh": "比……更重要；大於；重於",
+      "synonyms": [
+        "surpass",
+        "eclipse",
+        "override",
+        "prevail over"
+      ],
+      "antonyms": [
+        "fall short of",
+        "be inferior to",
+        "matter less than"
+      ],
+      "root_note": "out- (more than) + weigh (have importance)",
+      "sentences": [
+        {
+          "en": "The surgeon said the long-term benefits would far ______ the operation's minimal risks.",
+          "zh": "外科醫生表示，手術帶來的長期益處將遠大於其微小風險。"
+        },
+        {
+          "en": "The board rejected the merger because its legal costs would ______ any possible profit.",
+          "zh": "董事會否決合併案，因為潛在法律成本將遠高於任何可能的利潤。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "35",
+        "spelling": "out",
+        "meaning": "外；出；超越"
+      }
+    },
+    {
+      "word": "outcry",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a strong, sudden, public expression of anger, disapproval, or protest:",
+      "defn_zh": "強烈抗議；大聲疾呼",
+      "synonyms": [
+        "protest",
+        "clamor",
+        "uproar",
+        "backlash"
+      ],
+      "antonyms": [
+        "approval",
+        "commendation",
+        "endorsement"
+      ],
+      "root_note": "out- (outward or public) + cry (shout)",
+      "sentences": [
+        {
+          "en": "A massive public ______ followed the plan to demolish the historic library.",
+          "zh": "拆除歷史悠久圖書館的計畫引發了大規模公眾抗議。"
+        },
+        {
+          "en": "The rise in river pollution triggered an immediate ______ from local environmental groups.",
+          "zh": "河流污染加劇，立即引發當地環保團體的強烈抗議。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "35",
+        "spelling": "out",
+        "meaning": "外；出；超越"
+      }
+    },
+    {
+      "word": "outdo",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to perform better than someone else or surpass them in achievement:",
+      "defn_zh": "勝過；超越；打敗",
+      "synonyms": [
+        "surpass",
+        "outshine",
+        "outplay",
+        "excel"
+      ],
+      "antonyms": [
+        "lose",
+        "fail",
+        "fall behind"
+      ],
+      "root_note": "out- (better than) + do (perform)",
+      "sentences": [
+        {
+          "en": "Not wanting her brother to ______ her, Jessica spent hours decorating her chocolate cake.",
+          "zh": "為了不讓哥哥勝過自己，潔西卡花了幾個小時裝飾巧克力蛋糕。"
+        },
+        {
+          "en": "The smartphone maker strives to ______ its rivals by releasing better camera features each year.",
+          "zh": "這家手機製造商每年推出更先進的相機功能，努力超越競爭對手。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "35",
+        "spelling": "out",
+        "meaning": "外；出；超越"
+      }
+    },
+    {
+      "word": "outsmart",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to gain an advantage over someone through cleverness or superior intelligence:",
+      "defn_zh": "智勝；比……更聰明",
+      "synonyms": [
+        "outwit",
+        "outmaneuver",
+        "trick",
+        "circumvent"
+      ],
+      "antonyms": [
+        "be fooled",
+        "blunder",
+        "miscalculate"
+      ],
+      "root_note": "out- (better than) + smart (clever)",
+      "sentences": [
+        {
+          "en": "The criminal tried to ______ the police by leaving false clues pointing to another city.",
+          "zh": "罪犯留下指向另一座城市的假線索，企圖智勝警方。"
+        },
+        {
+          "en": "The fox managed to ______ the hunting dogs by crossing a shallow river to hide its scent.",
+          "zh": "狐狸穿過淺河掩蓋氣味，成功智勝獵犬。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "35",
+        "spelling": "out",
+        "meaning": "外；出；超越"
+      }
+    },
+    {
+      "word": "outlast",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to continue to exist, live, or remain useful longer than someone or something else:",
+      "defn_zh": "比……更持久；比……活得更久",
+      "synonyms": [
+        "outlive",
+        "survive",
+        "endure",
+        "persist"
+      ],
+      "antonyms": [
+        "perish",
+        "fail early",
+        "wear out quickly"
+      ],
+      "root_note": "out- (beyond or longer than) + last (continue)",
+      "sentences": [
+        {
+          "en": "The company claimed its heavy-duty battery could ______ every standard competitor battery.",
+          "zh": "公司聲稱其重型電池的使用壽命能超過所有標準競爭產品。"
+        },
+        {
+          "en": "The athlete won because she managed to ______ her rivals during the final mountain miles.",
+          "zh": "這名選手能奪冠，是因為她在山地賽最後幾英里比對手撐得更久。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "35",
+        "spelling": "out",
+        "meaning": "外；出；超越"
+      }
+    },
+    {
+      "word": "outpourings",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "large or continuous expressions of emotion or large flows of creative work:",
+      "defn_zh": "情感的接連流露；大量湧現的作品",
+      "synonyms": [
+        "effusions",
+        "floods",
+        "torrents",
+        "expressions"
+      ],
+      "antonyms": [
+        "suppressions",
+        "restrictions",
+        "droughts"
+      ],
+      "root_note": "out- (outward) + pour (flow) + -ing + -s (plural)",
+      "sentences": [
+        {
+          "en": "The singer's death prompted global ______ of grief and tribute messages from fans.",
+          "zh": "歌手離世引發全球歌迷接連流露悲痛，並留下大量悼念訊息。"
+        },
+        {
+          "en": "Her poetry collection records the creative ______ inspired by her travels across Asia.",
+          "zh": "她的詩集記錄了亞洲旅行激發的大量創作與情感流露。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "35",
+        "spelling": "out",
+        "meaning": "外；出；超越"
+      }
+    },
+    {
+      "word": "outlying",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "situated far from a main center or city; remote or external:",
+      "defn_zh": "偏遠的；郊區的；外圍的",
+      "synonyms": [
+        "remote",
+        "peripheral",
+        "distant",
+        "isolated"
+      ],
+      "antonyms": [
+        "central",
+        "urban",
+        "core"
+      ],
+      "root_note": "out- (outside) + lying (situated)",
+      "sentences": [
+        {
+          "en": "The charity established small clinics in ______ rural villages without easy access to hospitals.",
+          "zh": "慈善機構在缺乏醫院資源的偏遠鄉村設立小型診所。"
+        },
+        {
+          "en": "Many people buy homes in ______ suburbs because prices are lower than downtown.",
+          "zh": "許多人選擇在外圍郊區買房，因為房價比市中心低。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "35",
+        "spelling": "out",
+        "meaning": "外；出；超越"
+      }
+    },
+    {
+      "word": "outrun",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to run faster or farther than someone, or to grow beyond a limit:",
+      "defn_zh": "跑得比……快；超越速度或限度",
+      "synonyms": [
+        "outstrip",
+        "surpass",
+        "outpace",
+        "distance"
+      ],
+      "antonyms": [
+        "fall behind",
+        "lag",
+        "trail"
+      ],
+      "root_note": "out- (faster or farther than) + run",
+      "sentences": [
+        {
+          "en": "The gazelle used its agility to ______ the cheetah and escape into the tall grass.",
+          "zh": "瞪羚利用驚人的敏捷度跑贏獵豹，成功逃進高草叢。"
+        },
+        {
+          "en": "If your monthly spending begins to ______ your income, you may quickly fall into debt.",
+          "zh": "如果每月支出開始超過實際收入，你很快就可能陷入債務。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "35",
+        "spelling": "out",
+        "meaning": "外；出；超越"
+      }
+    }
+  ],
+  "family_options": {},
+  "fallback_options": {
+    "v.": [
+      {
+        "word": "abound",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to exist in great numbers:",
+        "defn_zh": "充滿"
+      },
+      {
+        "word": "abrogate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to deprive of legal force, to nullify:=abolish",
+        "defn_zh": "廢除/取消"
+      },
+      {
+        "word": "abjure",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to renounce, abstain from:",
+        "defn_zh": "發誓放棄/棄絕"
+      },
+      {
+        "word": "abbreviate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to shorten a word or phrase:",
+        "defn_zh": "縮寫;縮短"
+      },
+      {
+        "word": "abdicate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to give up a position, usually one of leadership:",
+        "defn_zh": "退位/放棄(職位)"
+      },
+      {
+        "word": "abduct",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to kidnap, take by force:",
+        "defn_zh": "綁架/劫持"
+      },
+      {
+        "word": "abhor",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to regard with disgust and hatred:",
+        "defn_zh": "憎惡/厭惡"
+      },
+      {
+        "word": "abnegate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to deny or renounce:",
+        "defn_zh": "放棄/克制"
+      },
+      {
+        "word": "abolish",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to formally put an end to a system, practice, or institution:",
+        "defn_zh": "廢除"
+      },
+      {
+        "word": "abort",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to give up on a half-finished project or effort:",
+        "defn_zh": "中止/放棄"
+      },
+      {
+        "word": "abrade",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to scrape or wear away by friction:",
+        "defn_zh": "磨損;擦傷"
+      },
+      {
+        "word": "abscond",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to sneak away and hide:",
+        "defn_zh": "潛逃/逃匿"
+      }
+    ],
+    "adj.": [
+      {
+        "word": "abortive",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "fruitless, failing:",
+        "defn_zh": "失敗的/夭折的"
+      },
+      {
+        "word": "abstemious",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "moderate in eating or drinking:",
+        "defn_zh": "飲食有節制的"
+      },
+      {
+        "word": "abhorrent",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "detestable, despised:",
+        "defn_zh": "令人厭惡的"
+      },
+      {
+        "word": "absurd",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "ridiculous:",
+        "defn_zh": "荒謬的"
+      },
+      {
+        "word": "aberrant",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "deviating from what is normal or expected:",
+        "defn_zh": "異常的;脫軌的"
+      },
+      {
+        "word": "abject",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "wretched, pitiful:",
+        "defn_zh": "卑賤的/淒慘的"
+      },
+      {
+        "word": "abominable",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "causing moral revulsion; extremely unpleasant:",
+        "defn_zh": "可憎的;惡劣的"
+      },
+      {
+        "word": "abounding",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "existing in large numbers or amounts:",
+        "defn_zh": "大量存在的;豐富的"
+      },
+      {
+        "word": "abrasive",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "showing little concern for others; harsh:",
+        "defn_zh": "粗暴的/刺耳的"
+      },
+      {
+        "word": "abrupt",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "sudden or unexpected; brief and curt in manner:",
+        "defn_zh": "突然的/唐突的"
+      },
+      {
+        "word": "abstract",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "existing purely in the mind; not representing actual reality:",
+        "defn_zh": "抽象的"
+      },
+      {
+        "word": "abstruse",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "hard to comprehend:",
+        "defn_zh": "深奧難懂的"
+      }
+    ],
+    "n.": [
+      {
+        "word": "aversion",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "strong dislike, opposition:",
+        "defn_zh": "厭惡/反感"
+      },
+      {
+        "word": "aberration",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "something that differs from the norm:",
+        "defn_zh": "異常/脫軌"
+      },
+      {
+        "word": "abjection",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a state of complete misery, hopelessness, or degradation:",
+        "defn_zh": "卑賤;悲慘狀態"
+      },
+      {
+        "word": "abjuration",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the solemn renunciation of a belief, cause, or claim:",
+        "defn_zh": "公開放棄;誓絕"
+      },
+      {
+        "word": "ablution",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the act of washing oneself, especially as part of a religious ritual:",
+        "defn_zh": "沐浴;淨身儀式"
+      },
+      {
+        "word": "abnegation",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "denial of comfort to oneself:",
+        "defn_zh": "自我克制/放棄"
+      },
+      {
+        "word": "abomination",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "something that causes disgust or hatred:",
+        "defn_zh": "可憎之事;令人厭惡的東西"
+      },
+      {
+        "word": "abridgement",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a shortened version of a book or other written work:",
+        "defn_zh": "節略本;縮減版"
+      },
+      {
+        "word": "absolution",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "freedom from blame, guilt, sin:",
+        "defn_zh": "赦免/免罪"
+      },
+      {
+        "word": "abstemiousness",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "moderation or self-restraint, especially in eating and drinking:",
+        "defn_zh": "節制;克己"
+      },
+      {
+        "word": "abstinence",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the practice of restraining oneself from something enjoyable, especially food, alcohol, or sex:",
+        "defn_zh": "節制;戒絕"
+      },
+      {
+        "word": "avocation",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a hobby or minor occupation apart from one's main career:",
+        "defn_zh": "副業;業餘愛好"
+      }
+    ],
+    "adv.": [
+      {
+        "word": "accordingly",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in a manner that fits the circumstances; consequently:",
+        "defn_zh": "相應地;因此"
+      },
+      {
+        "word": "inadvertently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "unintentionally or by accident:",
+        "defn_zh": "無意間/不小心地"
+      },
+      {
+        "word": "consequently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "as a result; therefore:",
+        "defn_zh": "因此;結果"
+      },
+      {
+        "word": "contemptuously",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "without respect; in a disdainful manner:",
+        "defn_zh": "輕蔑地"
+      },
+      {
+        "word": "involuntarily",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "done without conscious control:",
+        "defn_zh": "不由自主地"
+      },
+      {
+        "word": "cordially",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in a warm or friendly manner:",
+        "defn_zh": "誠摯地/友好地"
+      },
+      {
+        "word": "ipso facto",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "by that very fact or act:",
+        "defn_zh": "事實上;因此"
+      },
+      {
+        "word": "en passant",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in passing; incidentally:",
+        "defn_zh": "順帶一提地;偶然地"
+      },
+      {
+        "word": "regardless",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "despite the prevailing circumstances; without being deterred:",
+        "defn_zh": "不管怎樣;儘管如此"
+      },
+      {
+        "word": "subsequently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "afterward; following in time or order:",
+        "defn_zh": "隨後;其後"
+      },
+      {
+        "word": "aside",
+        "pos": "adv./n.",
+        "pos_key": "adv.",
+        "defn_en": "to or on one side; a remark not meant to be heard by everyone:",
+        "defn_zh": "在旁邊;旁白"
+      },
+      {
+        "word": "vice versa",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "with the order or meaning reversed; conversely:",
+        "defn_zh": "反之亦然"
+      }
+    ],
+    "other": [
+      {
+        "word": "（此批單字中，暫無符合此字根/字首的單字）",
+        "pos": "",
+        "pos_key": "other",
+        "defn_en": "",
+        "defn_zh": ""
+      }
+    ],
+    "prep./adv.": [
+      {
+        "word": "besides",
+        "pos": "prep./adv.",
+        "pos_key": "prep./adv.",
+        "defn_en": "in addition to; furthermore:",
+        "defn_zh": "除...之外;此外"
+      }
+    ],
+    "phrasalv.": [
+      {
+        "word": "egg on",
+        "pos": "phrasal v.",
+        "pos_key": "phrasalv.",
+        "defn_en": "to encourage someone to do something, often risky:",
+        "defn_zh": "慫恿;鼓動"
+      }
+    ],
+    "abbr.": [
+      {
+        "word": "etc.",
+        "pos": "abbr.",
+        "pos_key": "abbr.",
+        "defn_en": "and other similar things (abbreviation of et cetera):",
+        "defn_zh": "等等(et cetera的縮寫)"
+      }
+    ],
+    "interj.": [
+      {
+        "word": "fiddledeedee",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "an exclamation expressing dismissal of something as nonsense:",
+        "defn_zh": "廢話!(表示不屑一顧)"
+      },
+      {
+        "word": "gesundheit",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "an expression said to someone who has just sneezed:",
+        "defn_zh": "保重(打噴嚏後的祝福語)"
+      }
+    ],
+    "prep.": [
+      {
+        "word": "via",
+        "pos": "prep.",
+        "pos_key": "prep.",
+        "defn_en": "by way of; passing through:",
+        "defn_zh": "經由;透過"
+      }
+    ]
+  }
+}
