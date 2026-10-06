@@ -1,0 +1,281 @@
+{
+  "id": "p1-32-mon-mono",
+  "merge_with_source": true,
+  "name": "mon；mono",
+  "subtitle": "單一；一",
+  "words": [
+    {
+      "word": "monolithic", "pos": "adj.", "pos_key": "adj.",
+      "defn_en": "massive, uniform, and acting as one powerful, indivisible whole:",
+      "defn_zh": "龐大單一的；固若金湯的；鐵板一塊的",
+      "synonyms": ["colossal", "uniform", "indivisible", "massive"],
+      "antonyms": ["diversified", "fragmented", "pluralistic"],
+      "root_note": "mono- (one) + lith (stone) + -ic (adjective suffix)",
+      "sentences": [
+        {"en": "The regime maintained ______ control over the media, banning all independent news channels.", "zh": "該政權對媒體維持著龐大且單一的控制，禁止所有獨立新聞頻道。"},
+        {"en": "The ancient civilization carved a giant, ______ statue from a single piece of volcanic rock.", "zh": "這個古老文明用一整塊火山岩雕刻出一座巨大的單體雕像。"}
+      ],
+      "category": {"part": 1, "num": "32", "spelling": "mon；mono", "meaning": "單一；一"}
+    },
+    {
+      "word": "monotony", "pos": "n.", "pos_key": "n.",
+      "defn_en": "tedious sameness or a lack of variety that causes boredom:",
+      "defn_zh": "單調；乏味",
+      "synonyms": ["boredom", "repetitiveness", "sameness", "dullness"],
+      "antonyms": ["variety", "excitement", "diversity"],
+      "root_note": "mono- (one or same) + ton (tone) + -y (state)",
+      "sentences": [
+        {"en": "To break the ______ of his eight-hour factory shift, he listened to educational podcasts while working.", "zh": "為了打破工廠八小時輪班的單調乏味，他工作時會聽教育類播客。"},
+        {"en": "The endless ______ of the flat desert highway made it difficult for the driver to stay awake.", "zh": "平坦沙漠公路上無止境的單調景致讓駕駛很難保持清醒。"}
+      ],
+      "category": {"part": 1, "num": "32", "spelling": "mon；mono", "meaning": "單一；一"}
+    },
+    {
+      "word": "monopolize", "pos": "v.", "pos_key": "v.",
+      "defn_en": "to take complete control or possession of something and prevent others from sharing it:",
+      "defn_zh": "壟斷；獨佔",
+      "synonyms": ["dominate", "corner", "hog", "control"],
+      "antonyms": ["share", "distribute", "divide"],
+      "root_note": "mono- (one) + pol (sell or market) + -ize (make or do)",
+      "sentences": [
+        {"en": "During dinner, the loud guest tried to ______ the conversation and never allowed anyone else to speak.", "zh": "晚宴期間，那位大嗓門的客人企圖獨佔整個話題，完全不讓其他人說話。"},
+        {"en": "Antitrust laws were created to stop giant firms from trying to ______ the digital advertising market.", "zh": "反托拉斯法的制定是為了阻止大型企業企圖壟斷數位廣告市場。"}
+      ],
+      "category": {"part": 1, "num": "32", "spelling": "mon；mono", "meaning": "單一；一"}
+    },
+    {
+      "word": "monologue", "pos": "n.", "pos_key": "n.",
+      "defn_en": "a long speech given by one actor or person in a play, movie, or conversation:",
+      "defn_zh": "獨白；長篇大論",
+      "synonyms": ["soliloquy", "address", "sermon"],
+      "antonyms": ["dialogue", "conversation", "discussion"],
+      "root_note": "mono- (one) + log (speech or word)",
+      "sentences": [
+        {"en": "The actress delivered a powerful ______ that left the theater audience silent and moved.", "zh": "女演員發表了一段充滿感染力的獨白，讓全場觀眾鴉雀無聲、深受感動。"},
+        {"en": "The teenager sat quietly through his father's angry ______ about the dangers of arriving late.", "zh": "青少年安靜地坐著，聽父親針對遲到危險性所發表的憤怒長篇大論。"}
+      ],
+      "category": {"part": 1, "num": "32", "spelling": "mon；mono", "meaning": "單一；一"}
+    },
+    {
+      "word": "monomania", "pos": "n.", "pos_key": "n.",
+      "defn_en": "an exaggerated and obsessive preoccupation with one thing or idea:",
+      "defn_zh": "偏狂；單一狂；對單一事物極度執著",
+      "synonyms": ["obsession", "fixation", "infatuation"],
+      "antonyms": ["versatility", "indifference", "open-mindedness"],
+      "root_note": "mono- (one) + mania (obsession)",
+      "sentences": [
+        {"en": "The detective's pursuit of the jewel thief bordered on ______, occupying his thoughts day and night.", "zh": "偵探對珠寶大盜的追捕幾乎到了偏狂的程度，日夜佔據著他的思緒。"},
+        {"en": "Captain Ahab's hunt for the white whale is a classic example of destructive ______.", "zh": "亞哈船長對白鯨的追捕是毀滅性單一狂的經典例子。"}
+      ],
+      "category": {"part": 1, "num": "32", "spelling": "mon；mono", "meaning": "單一；一"}
+    },
+    {
+      "word": "monogamy", "pos": "n.", "pos_key": "n.",
+      "defn_en": "the practice or state of having only one romantic partner or spouse at a time:",
+      "defn_zh": "一夫一妻制；單配偶制",
+      "synonyms": ["fidelity", "single marriage"],
+      "antonyms": ["polygamy", "polyamory"],
+      "root_note": "mono- (one) + gamy (marriage)",
+      "sentences": [
+        {"en": "Swans are famous for practicing lifelong ______, staying with the same partner until death.", "zh": "天鵝以實行終身單配偶制而聞名，牠們會與同一個伴侶相伴至死。"},
+        {"en": "While some ancient cultures allowed multiple spouses, modern Western laws generally enforce ______.", "zh": "雖然一些古代文化允許多個配偶，但現代西方法律通常實行一夫一妻制。"}
+      ],
+      "category": {"part": 1, "num": "32", "spelling": "mon；mono", "meaning": "單一；一"}
+    },
+    {
+      "word": "monocle", "pos": "n.", "pos_key": "n.",
+      "defn_en": "a single round eyeglass for one eye:",
+      "defn_zh": "單片眼鏡",
+      "synonyms": ["eyeglass", "single lens"],
+      "antonyms": ["spectacles", "binoculars"],
+      "root_note": "mono- (one) + ocul (eye)",
+      "sentences": [
+        {"en": "The wealthy nineteenth-century aristocrat adjusted his ______ to inspect the gold coin closely.", "zh": "這位十九世紀的富裕貴族調整了單片眼鏡，以仔細檢查那枚金幣。"},
+        {"en": "For the vintage costume party, he wore a top hat, a tuxedo, and a fake plastic ______.", "zh": "為了復古化裝舞會，他戴上高禮帽、穿上燕尾服，並戴了一個塑膠製的假單片眼鏡。"}
+      ],
+      "category": {"part": 1, "num": "32", "spelling": "mon；mono", "meaning": "單一；一"}
+    },
+    {
+      "word": "monochrome", "pos": "adj.", "pos_key": "adj.",
+      "defn_en": "consisting of or displaying one color or different shades of a single color:",
+      "defn_zh": "單色的；黑白的",
+      "synonyms": ["monochromatic", "unicolor", "grayscale"],
+      "antonyms": ["polychrome", "multicolored", "vibrant"],
+      "root_note": "mono- (one) + chrom (color)",
+      "sentences": [
+        {"en": "The artist displayed her city photographs in a strict ______ format to emphasize shadows.", "zh": "藝術家以嚴格的單色格式展示城市照片，以強調光影對比。"},
+        {"en": "The website uses a sleek, ______ design scheme made entirely of different shades of gray.", "zh": "該網站採用時尚的單色設計方案，完全由不同深淺的灰色組成。"}
+      ],
+      "category": {"part": 1, "num": "32", "spelling": "mon；mono", "meaning": "單一；一"}
+    },
+    {
+      "word": "monograph", "pos": "n.", "pos_key": "n.",
+      "defn_en": "a detailed scholarly book or essay about one specialized subject:",
+      "defn_zh": "專題論文；學術專著",
+      "synonyms": ["treatise", "dissertation", "specialized study"],
+      "antonyms": ["anthology", "general encyclopedia"],
+      "root_note": "mono- (one) + graph (write)",
+      "sentences": [
+        {"en": "The physics professor spent five years writing a ______ on the behavior of black holes.", "zh": "這位物理學教授花了五年撰寫一篇關於黑洞行為的學術專著。"},
+        {"en": "To understand the exact economic causes of that battle, read this historical ______.", "zh": "如果想了解那場戰役的確切經濟原因，請閱讀這本歷史專題論文。"}
+      ],
+      "category": {"part": 1, "num": "32", "spelling": "mon；mono", "meaning": "單一；一"}
+    },
+    {
+      "word": "monotheism", "pos": "n.", "pos_key": "n.",
+      "defn_en": "the religious belief that there is only one supreme God:",
+      "defn_zh": "一神論；一神教",
+      "synonyms": ["belief in one God", "one-God faith"],
+      "antonyms": ["polytheism", "atheism"],
+      "root_note": "mono- (one) + the (god) + -ism (belief)",
+      "sentences": [
+        {"en": "Judaism, Christianity, and Islam are three major world religions rooted in ______.", "zh": "猶太教、基督教和伊斯蘭教是根源於一神論的三大世界宗教。"},
+        {"en": "While ancient Romans worshiped many deities, later society shifted toward ______.", "zh": "雖然古羅馬人信仰眾多神祇，但後來的社會逐漸轉向一神信仰。"}
+      ],
+      "category": {"part": 1, "num": "32", "spelling": "mon；mono", "meaning": "單一；一"}
+    },
+    {
+      "word": "monotheist", "pos": "n.", "pos_key": "n.",
+      "defn_en": "a person who believes that there is only one God:",
+      "defn_zh": "一神論者",
+      "synonyms": ["believer in one God", "one-God believer"],
+      "antonyms": ["polytheist", "atheist"],
+      "root_note": "mono- (one) + the (god) + -ist (person)",
+      "sentences": [
+        {"en": "The historian described Akhenaten as a ______ who rejected Egypt's traditional gods.", "zh": "歷史學家將阿肯那頓描述為拒絕埃及傳統眾神的一神論者。"},
+        {"en": "As a strict ______, he could not participate in rituals honoring multiple nature spirits.", "zh": "作為嚴格的一神論者，他無法參加祭祀多種自然神靈的儀式。"}
+      ],
+      "category": {"part": 1, "num": "32", "spelling": "mon；mono", "meaning": "單一；一"}
+    },
+    {
+      "word": "monomorphic", "pos": "adj.", "pos_key": "adj.",
+      "defn_en": "having only one form, structure, or shape across a species or stage of development:",
+      "defn_zh": "單形的；單態的",
+      "synonyms": ["uniform", "unvarying", "invariant"],
+      "antonyms": ["polymorphic", "heteromorphic"],
+      "root_note": "mono- (one) + morph (form) + -ic (adjective suffix)",
+      "sentences": [
+        {"en": "Unlike peacocks, this rare desert bird is completely ______, so males and females look identical.", "zh": "與孔雀不同，這種罕見的沙漠鳥類完全是雌雄同形的，因此公鳥和母鳥看起來一樣。"},
+        {"en": "The computer network requires a ______ data type and may fail if the input changes shape.", "zh": "該電腦網路需要單一形態的資料類型；如果輸入格式改變，系統可能會失效。"}
+      ],
+      "category": {"part": 1, "num": "32", "spelling": "mon；mono", "meaning": "單一；一"}
+    },
+    {
+      "word": "monolingual", "pos": "adj.", "pos_key": "adj.",
+      "defn_en": "speaking, writing, or using only one language:",
+      "defn_zh": "單一語言的；僅懂一種語言的",
+      "synonyms": ["single-language", "one-language"],
+      "antonyms": ["bilingual", "multilingual", "polyglot"],
+      "root_note": "mono- (one) + lingu (language) + -al (adjective suffix)",
+      "sentences": [
+        {"en": "In a global economy, ______ professionals may struggle to compete with bilingual candidates.", "zh": "在全球化經濟中，僅懂一種語言的專業人士可能難以與雙語求職者競爭。"},
+        {"en": "The museum signs were criticized for being strictly ______, making navigation hard for international tourists.", "zh": "該博物館的標示因只使用單一語言而受到批評，使國際遊客很難辨識方向。"}
+      ],
+      "category": {"part": 1, "num": "32", "spelling": "mon；mono", "meaning": "單一；一"}
+    },
+    {
+      "word": "monometallism", "pos": "n.", "pos_key": "n.",
+      "defn_en": "a monetary system in which money is based on only one metal, usually gold or silver:",
+      "defn_zh": "單本位制（如金本位或銀本位）",
+      "synonyms": ["single standard system", "single-metal standard"],
+      "antonyms": ["bimetallism"],
+      "root_note": "mono- (one) + metall (metal) + -ism (system)",
+      "sentences": [
+        {"en": "In the late nineteenth century, many countries adopted gold ______ to stabilize currency values.", "zh": "十九世紀末，許多國家採用黃金單本位制以穩定貨幣價值。"},
+        {"en": "The debate over silver versus gold ______ became a major topic in early American elections.", "zh": "白銀或黃金單本位制的辯論，成為早期美國選舉中的重要議題。"}
+      ],
+      "category": {"part": 1, "num": "32", "spelling": "mon；mono", "meaning": "單一；一"}
+    },
+    {
+      "word": "monoculture", "pos": "n.", "pos_key": "n.",
+      "defn_en": "the practice of growing one crop widely, or a society that lacks cultural diversity:",
+      "defn_zh": "單一栽培；單一文化",
+      "synonyms": ["uniform agriculture", "standardized society"],
+      "antonyms": ["polyculture", "multiculturalism", "biodiversity"],
+      "root_note": "mono- (one) + culture (cultivation or society)",
+      "sentences": [
+        {"en": "Relying on a massive corn ______ makes the whole farming region vulnerable to one destructive pest.", "zh": "依賴大規模玉米單一栽培，會使整個農業區容易受到單一毀滅性害蟲侵害。"},
+        {"en": "Global algorithms risk turning entertainment into a boring ______ where everyone watches the same things.", "zh": "全球演算法可能將娛樂變成無趣的單一文化，讓每個人都看相同的內容。"}
+      ],
+      "category": {"part": 1, "num": "32", "spelling": "mon；mono", "meaning": "單一；一"}
+    },
+    {
+      "word": "monopod", "pos": "n.", "pos_key": "n.",
+      "defn_en": "a one-legged support used to steady a camera or telescope:",
+      "defn_zh": "單腳架；獨腳支架",
+      "synonyms": ["single-leg stand", "unipod"],
+      "antonyms": ["tripod"],
+      "root_note": "mono- (one) + pod (foot)",
+      "sentences": [
+        {"en": "Because the stadium was too crowded for a heavy tripod, the photographer used a lightweight ______.", "zh": "由於體育場太擁擠，不適合使用笨重的三腳架，攝影師改用輕便的單腳架。"},
+        {"en": "He extended the carbon-fiber ______ to steady his heavy camera lens on the rocky cliff.", "zh": "他拉長碳纖維單腳架，以便在岩石峭壁上穩定沉重的相機鏡頭。"}
+      ],
+      "category": {"part": 1, "num": "32", "spelling": "mon；mono", "meaning": "單一；一"}
+    },
+    {
+      "word": "monosyllabic", "pos": "adj.", "pos_key": "adj.",
+      "defn_en": "having one syllable, or using very brief one-word answers:",
+      "defn_zh": "單音節的；說話極簡短的",
+      "synonyms": ["brief", "terse", "laconic", "short"],
+      "antonyms": ["polysyllabic", "talkative", "verbose"],
+      "root_note": "mono- (one) + syllab (syllable) + -ic (adjective suffix)",
+      "sentences": [
+        {"en": "When asked about school, the moody teenager gave only ______ replies such as 'fine' and 'no.'", "zh": "被問到學校生活時，那名情緒低落的青少年只給出「好」和「不」等單音節回答。"},
+        {"en": "Words like 'cat,' 'run,' and 'big' are basic ______ building blocks of English.", "zh": "像 cat、run 和 big 這樣的字，都是英文中基礎的單音節構成要素。"}
+      ],
+      "category": {"part": 1, "num": "32", "spelling": "mon；mono", "meaning": "單一；一"}
+    },
+    {
+      "word": "monosyllable", "pos": "n.", "pos_key": "n.",
+      "defn_en": "a word consisting of only one syllable:",
+      "defn_zh": "單音節字",
+      "synonyms": ["short word", "one-syllable word"],
+      "antonyms": ["polysyllable"],
+      "root_note": "mono- (one) + syllable (unit of sound)",
+      "sentences": [
+        {"en": "The word 'cat' is a simple ______ that young learners can pronounce easily.", "zh": "cat 這個字是幼兒很容易發音的簡單單音節字。"},
+        {"en": "Each urgent command was reduced to a single ______ to make it quick and clear.", "zh": "每項緊急指令都被簡化成一個單音節字，使其快速而清楚。"}
+      ],
+      "category": {"part": 1, "num": "32", "spelling": "mon；mono", "meaning": "單一；一"}
+    },
+    {
+      "word": "monosomy", "pos": "n.", "pos_key": "n.",
+      "defn_en": "a genetic condition in which one chromosome is missing from a normal matching pair:",
+      "defn_zh": "單體性；單體染色體異常",
+      "synonyms": ["chromosomal deficiency", "single-chromosome loss"],
+      "antonyms": ["trisomy"],
+      "root_note": "mono- (one) + som (body or chromosome) + -y (condition)",
+      "sentences": [
+        {"en": "Turner syndrome can result from partial or complete ______ of the X chromosome in females.", "zh": "特納氏症候群可能由女性 X 染色體部分或完全單體性所導致。"},
+        {"en": "The laboratory test confirmed a rare case of cellular ______ involving chromosome 7.", "zh": "實驗室檢驗證實了一例涉及第七號染色體的罕見細胞單體性。"}
+      ],
+      "category": {"part": 1, "num": "32", "spelling": "mon；mono", "meaning": "單一；一"}
+    },
+    {
+      "word": "monad", "pos": "n.", "pos_key": "n.",
+      "defn_en": "an indivisible basic unit or single entity in philosophy, mathematics, or computing:",
+      "defn_zh": "單子；不可分割的個體",
+      "synonyms": ["ultimate unit", "singularity", "atom"],
+      "antonyms": ["composite", "mixture", "aggregate"],
+      "root_note": "mon- (one) + -ad (unit)",
+      "sentences": [
+        {"en": "Leibniz argued that the universe is built from a fundamental independent unit called a ______.", "zh": "萊布尼茲認為，宇宙是由一種稱為單子的基本獨立單元所建構。"},
+        {"en": "In functional programming, a ______ can act as a structured wrapper for safely processing data.", "zh": "在函數式程式設計中，單子可作為安全處理資料的結構化包裝器。"}
+      ],
+      "category": {"part": 1, "num": "32", "spelling": "mon；mono", "meaning": "單一；一"}
+    },
+    {
+      "word": "monition", "pos": "n.", "pos_key": "n.",
+      "defn_en": "a formal warning or caution about a future danger or mistake:",
+      "defn_zh": "警告；告誡；預兆",
+      "synonyms": ["warning", "admonition", "caution", "caveat"],
+      "antonyms": ["commendation", "approval", "encouragement"],
+      "root_note": "monit- (warn or advise) + -ion (act or result)",
+      "sentences": [
+        {"en": "The stern judge issued a sharp ______ to the rowdy audience and threatened to clear the courtroom.", "zh": "嚴厲的法官對喧鬧的觀眾發出嚴正警告，並威脅要清空法庭。"},
+        {"en": "The dark, low-hanging clouds served as a silent ______ that a violent storm was approaching.", "zh": "陰暗低垂的烏雲成為無聲的預兆，預示著暴風雨即將來臨。"}
+      ],
+      "category": {"part": 1, "num": "32", "spelling": "mon；mono", "meaning": "單一；一"}
+    }
+  ]
+}

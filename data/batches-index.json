@@ -4,7 +4,7 @@
     "total_batches": 235,
     "part1_part2_batches": 158,
     "unclassified_batches": 77,
-    "generated_batches": 38
+    "generated_batches": 39
   },
   "batches": [
     {
@@ -512,10 +512,10 @@
       "part": "part1",
       "part_label": "Part 1 字首篇 (Prefixes)",
       "name": "mon；mono",
-      "subtitle": "單一",
-      "count": 1,
-      "generated": false,
-      "search_terms": "monolithic"
+      "subtitle": "單一；一",
+      "count": 21,
+      "generated": true,
+      "search_terms": "monolithic monotony monopolize monologue monomania monogamy monocle monochrome monograph monotheism monotheist monomorphic monolingual monometallism monoculture monopod monosyllabic monosyllable monosomy monad monition"
     },
     {
       "id": "p1-33-multi",

@@ -215,5 +215,16 @@
         "derived_from": "misogyny"
       }
     ]
+  },
+  "p1-32-mon-mono": {
+    "v.": [
+      {
+        "word": "monologize",
+        "pos": "v.",
+        "defn_en": "to deliver a monologue or speak alone at length:",
+        "defn_zh": "發表獨白；長篇獨講",
+        "derived_from": "monologue"
+      }
+    ]
   }
 }
