@@ -4,7 +4,7 @@
     "total_batches": 235,
     "part1_part2_batches": 158,
     "unclassified_batches": 77,
-    "generated_batches": 35
+    "generated_batches": 36
   },
   "batches": [
     {
@@ -462,10 +462,10 @@
       "part": "part1",
       "part_label": "Part 1 字首篇 (Prefixes)",
       "name": "kilo",
-      "subtitle": "千",
-      "count": 1,
-      "generated": false,
-      "search_terms": "（此批單字中，暫無符合此字根/字首的單字）"
+      "subtitle": "千；一千倍",
+      "count": 7,
+      "generated": true,
+      "search_terms": "kilobyte kilogram kilometer kilowatt kilobaud kilocalorie kiloton"
     },
     {
       "id": "p1-28-mal",

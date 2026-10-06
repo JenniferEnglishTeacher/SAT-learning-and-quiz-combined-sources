@@ -1,0 +1,112 @@
+{
+  "id": "p1-27-kilo",
+  "name": "kilo",
+  "subtitle": "千；一千倍",
+  "words": [
+    {
+      "word": "kilobyte",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a unit of digital data equal to 1,024 bytes, or roughly one thousand bytes:",
+      "defn_zh": "千位元組（KB）",
+      "synonyms": ["KB", "thousand bytes"],
+      "antonyms": ["megabyte", "gigabyte", "bit"],
+      "root_note": "kilo- (one thousand) + byte (unit of digital data)",
+      "sentences": [
+        {"en": "To save space on the retro gaming console, the programmer had to reduce the file size by one ______.", "zh": "為了節省復古遊戲機上的空間，程式設計師必須將檔案大小縮減一個千位元組。"},
+        {"en": "A simple plain text document requires only a single ______ of storage space.", "zh": "一個簡單的純文字檔案只需要一個千位元組的儲存空間。"}
+      ],
+      "category": {"part": 1, "num": "27", "spelling": "kilo", "meaning": "千；一千倍"}
+    },
+    {
+      "word": "kilogram",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "the standard metric unit of mass equal to 1,000 grams:",
+      "defn_zh": "公斤；千克",
+      "synonyms": ["kg", "thousand grams"],
+      "antonyms": ["gram", "milligram", "ton"],
+      "root_note": "kilo- (one thousand) + gram (unit of mass)",
+      "sentences": [
+        {"en": "The airline agent warned the passenger that her suitcase was one ______ over the weight limit.", "zh": "航空公司人員警告乘客，她的行李超重了一公斤。"},
+        {"en": "The recipe for the industrial adhesive required exactly one ______ of raw polymer powder.", "zh": "這種工業黏著劑的配方需要精確的一公斤聚合物原料粉末。"}
+      ],
+      "category": {"part": 1, "num": "27", "spelling": "kilo", "meaning": "千；一千倍"}
+    },
+    {
+      "word": "kilometer",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a metric unit of length equal to 1,000 meters, or about 0.62 miles:",
+      "defn_zh": "公里；千米",
+      "synonyms": ["km", "thousand meters"],
+      "antonyms": ["meter", "millimeter"],
+      "root_note": "kilo- (one thousand) + meter (unit of length)",
+      "sentences": [
+        {"en": "The exhausted runner pushed forward, knowing that the finish line was just one ______ away.", "zh": "疲憊不堪的跑者繼續向前推進，因為他知道終點線只剩下一公里遠了。"},
+        {"en": "The hiking path follows a deep canyon that stretches for over a ______ through the mountains.", "zh": "這條健行步道沿著一條深邃的峽谷延伸，在山脈中綿延超過一公里。"}
+      ],
+      "category": {"part": 1, "num": "27", "spelling": "kilo", "meaning": "千；一千倍"}
+    },
+    {
+      "word": "kilowatt",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a unit of electrical power equal to 1,000 watts:",
+      "defn_zh": "瓩；千瓦",
+      "synonyms": ["kW", "thousand watts"],
+      "antonyms": ["watt", "megawatt"],
+      "root_note": "kilo- (one thousand) + watt (unit of power)",
+      "sentences": [
+        {"en": "The homeowner installed a five-______ solar array to generate electricity at peak sunlight.", "zh": "屋主安裝了一組五千瓦的太陽能板，以在日照高峰期發電。"},
+        {"en": "The appliance draws about one ______ of power while it is operating.", "zh": "這部電器運作時大約消耗一千瓦的功率。"}
+      ],
+      "category": {"part": 1, "num": "27", "spelling": "kilo", "meaning": "千；一千倍"}
+    },
+    {
+      "word": "kilobaud",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a unit of data transmission speed equal to 1,000 baud:",
+      "defn_zh": "千波特（數據傳輸速率單位）",
+      "synonyms": ["transmission rate", "thousand baud"],
+      "antonyms": ["baud", "megabaud"],
+      "root_note": "kilo- (one thousand) + baud (signal changes per second)",
+      "sentences": [
+        {"en": "In the early days of dial-up internet, modems operated at a slow ______ rate that made downloading pictures frustrating.", "zh": "在早期撥接上網的時代，數據機以極慢的千波特速率運作，這讓下載圖片變得令人沮喪。"},
+        {"en": "The engineer adjusted the signal transmitter to a stable ______ rate to avoid data corruption.", "zh": "工程師將信號發射器調整至穩定的千波特速率，以避免數據損壞。"}
+      ],
+      "category": {"part": 1, "num": "27", "spelling": "kilo", "meaning": "千；一千倍"}
+    },
+    {
+      "word": "kilocalorie",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a unit of energy equal to 1,000 calories, commonly used to measure food energy:",
+      "defn_zh": "大卡；千卡",
+      "synonyms": ["Calorie", "kcal"],
+      "antonyms": ["joule"],
+      "root_note": "kilo- (one thousand) + calorie (unit of energy)",
+      "sentences": [
+        {"en": "An average adult requires roughly two thousand ______s per day to maintain a stable weight.", "zh": "一般成年人每天大約需要兩千大卡的熱量來維持穩定的體重。"},
+        {"en": "The nutritional label indicated that a single serving of the chocolate bar contained 250 ______s.", "zh": "營養標籤顯示，這款巧克力棒單次食用量含有 250 大卡的熱量。"}
+      ],
+      "category": {"part": 1, "num": "27", "spelling": "kilo", "meaning": "千；一千倍"}
+    },
+    {
+      "word": "kiloton",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a unit equal to 1,000 tons, or a measure of explosive power equal to 1,000 tons of TNT:",
+      "defn_zh": "千噸；千噸級爆炸威力單位",
+      "synonyms": ["thousand tons", "massive payload"],
+      "antonyms": ["ton", "pound"],
+      "root_note": "kilo- (one thousand) + ton (unit of weight or explosive force)",
+      "sentences": [
+        {"en": "The historic explosion released energy equivalent to several ______s of TNT, flattening the test site.", "zh": "這場歷史性的爆炸釋放了相當於數千噸 TNT 的能量，將測試場地夷為平地。"},
+        {"en": "The massive cargo ship carried a total load of over fifty ______s of iron ore across the ocean.", "zh": "這艘巨型貨輪運載了總計超過五萬公噸的鐵礦砂橫渡大洋。"}
+      ],
+      "category": {"part": 1, "num": "27", "spelling": "kilo", "meaning": "千；一千倍"}
+    }
+  ]
+}
