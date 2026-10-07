@@ -26,6 +26,15 @@ def normalize_pos(value):
 def slugify(value):
     value = unicodedata.normalize("NFKD", value).encode("ascii", "ignore").decode("ascii")
     return re.sub(r"[^a-zA-Z0-9]+", "-", value).strip("-").lower() or "batch"
+
+def in_prefix_sense(record):
+    """Separate negative in- from the in/into/upon family before chunking."""
+    match=re.search(r"(?:^|\+\s*)(?:in|im|il|ir|en|em)-\s*\(([^)]+)\)",record["root_note"],re.I)
+    if not match: raise ValueError(f"Cannot classify in- sense for {record['word']}: {record['root_note']}")
+    meaning=match.group(1).strip().lower()
+    if meaning in {"not","without"}: return "not"
+    if meaning in {"in","into","on","upon","against","toward"}: return "inside"
+    raise ValueError(f"Unknown in- sense for {record['word']}: {meaning}")
 def sentence_pairs(en_value, zh_value):
     en, zh = split_lines(en_value), split_lines(zh_value)
     en, zh = (en + [""] * 2)[:2], (zh + [""] * 2)[:2]
@@ -66,22 +75,27 @@ def categorized_batches(records,part):
         c=r["category"]; grouped.setdefault((c["num"],c["spelling"],c["meaning"]),[]).append(r)
     output=[]
     for (num,spelling,meaning),words in grouped.items():
-        ordered=sorted(words,key=lambda x:x["word"].casefold()) if len(words)>50 else words
-        chunks=[ordered[i:i+50] for i in range(0,len(ordered),50)]
-        # Keep the three-word final ad group with the preceding batch instead
-        # of publishing a separate, impractically small lesson.
-        if part == 1 and num == "02" and spelling == "ad" and len(chunks) == 4 and len(chunks[-1]) == 3:
-            chunks[-2].extend(chunks[-1])
-            chunks.pop()
-        # Keep the two-word final in group with the preceding batch instead
-        # of publishing a separate, impractically small lesson.
-        if part == 1 and num == "24" and spelling == "in" and len(chunks) == 7 and len(chunks[-1]) == 2:
-            chunks[-2].extend(chunks[-1])
-            chunks.pop()
-        for i,chunk in enumerate(chunks,1):
-            suffix=f" ({i}/{len(chunks)})" if len(chunks)>1 else ""
-            batch_id=f"p{part}-{num}-{slugify(spelling)}"+(f"-{i}" if len(chunks)>1 else "")
-            output.append({"id":batch_id,"part":f"part{part}","part_label":"Part 1 字首篇 (Prefixes)" if part==1 else "Part 2 字根篇 (Roots)","name":f"{spelling}{suffix}","subtitle":meaning,"count":len(chunk),"words":chunk})
+        semantic_groups=[{"slug":"","name":spelling,"subtitle":meaning,"words":words}]
+        if part == 1 and num == "24" and spelling == "in":
+            negative=[word for word in words if in_prefix_sense(word)=="not"]
+            inside=[word for word in words if in_prefix_sense(word)=="inside"]
+            semantic_groups=[
+                {"slug":"not","name":"in — not / opposite","subtitle":"否定；不是；缺乏；相反","words":negative},
+                {"slug":"inside","name":"in — in / into / upon","subtitle":"在內；進入；施加於；朝向","words":inside},
+            ]
+        for semantic_group in semantic_groups:
+            ordered=sorted(semantic_group["words"],key=lambda x:x["word"].casefold()) if len(semantic_group["words"])>50 else semantic_group["words"]
+            chunks=[ordered[i:i+50] for i in range(0,len(ordered),50)]
+            # Keep the three-word final ad group with the preceding batch instead
+            # of publishing a separate, impractically small lesson.
+            if part == 1 and num == "02" and spelling == "ad" and len(chunks) == 4 and len(chunks[-1]) == 3:
+                chunks[-2].extend(chunks[-1])
+                chunks.pop()
+            for i,chunk in enumerate(chunks,1):
+                suffix=f" ({i}/{len(chunks)})" if len(chunks)>1 else ""
+                semantic_slug=f"-{semantic_group['slug']}" if semantic_group["slug"] else ""
+                batch_id=f"p{part}-{num}-{slugify(spelling)}{semantic_slug}"+(f"-{i}" if len(chunks)>1 else "")
+                output.append({"id":batch_id,"part":f"part{part}","part_label":"Part 1 字首篇 (Prefixes)" if part==1 else "Part 2 字根篇 (Roots)","name":f"{semantic_group['name']}{suffix}","subtitle":semantic_group["subtitle"],"count":len(chunk),"words":chunk})
     return output
 
 def unclassified_batches(records):
@@ -166,7 +180,7 @@ def main():
     args=parser.parse_args(); p1,p2,u=load_records(args.source); all_records=p1+p2+u
     batches=apply_overrides(categorized_batches(p1,1)+categorized_batches(p2,2)+unclassified_batches(u))
     categories=len({(r["category"]["part"],r["category"]["num"],r["category"]["spelling"]) for r in p1+p2})
-    if (len(all_records),len(u),categories,len(batches))!=(6805,3824,134,235): raise ValueError(f"Sanity check failed: {len(all_records)=}, {len(u)=}, {categories=}, {len(batches)=}")
+    if (len(all_records),len(u),categories,len(batches))!=(6805,3824,134,236): raise ValueError(f"Sanity check failed: {len(all_records)=}, {len(u)=}, {categories=}, {len(batches)=}")
     progress={"generated":[],"total":len(batches)}
     if PROGRESS_PATH.exists(): progress=json.loads(PROGRESS_PATH.read_text(encoding="utf-8"))
     generated=set(progress.get("generated",[]))

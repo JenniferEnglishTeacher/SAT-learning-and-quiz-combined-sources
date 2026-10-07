@@ -1,0 +1,1618 @@
+{
+  "id": "p1-24-in-not-1",
+  "part": "part1",
+  "part_label": "Part 1 字首篇 (Prefixes)",
+  "name": "in — not / opposite (1/4)",
+  "subtitle": "否定；不是；缺乏；相反",
+  "count": 50,
+  "words": [
+    {
+      "word": "enemy",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a person or group actively opposed or hostile to another:",
+      "defn_zh": "敵人",
+      "root_note": "in- (not) + amicus (friend), from Latin",
+      "sentences": [
+        {
+          "en": "The two nations had long been bitter ______ ies.",
+          "zh": "這兩個國家長久以來都是不共戴天的敵人。"
+        },
+        {
+          "en": "He made an ______ of his former business partner.",
+          "zh": "他和以前的生意夥伴結下了仇怨,成了敵人。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "24",
+        "spelling": "in",
+        "meaning": "在⋯⋯裡面"
+      }
+    },
+    {
+      "word": "enmity",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "ill will, hatred, hostility:",
+      "defn_zh": "敵意/仇恨",
+      "root_note": "in- (not) + amicus (friend, Latin)",
+      "sentences": [
+        {
+          "en": "Decades of ______ between the two families finally came to an end.",
+          "zh": "這兩個家族間長達數十年的仇恨終於畫下句點。"
+        },
+        {
+          "en": "The border dispute created lasting ______ between the neighboring countries.",
+          "zh": "這場邊界爭議在這兩個鄰國之間造成了長久的敵意。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "24",
+        "spelling": "in",
+        "meaning": "在⋯⋯裡面"
+      }
+    },
+    {
+      "word": "ignoble",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "not honorable in character or purpose:",
+      "defn_zh": "卑鄙的;不光彩的",
+      "root_note": "in- (not) + nobilis (noble), from Latin",
+      "sentences": [
+        {
+          "en": "He was accused of ______ motives behind his generosity.",
+          "zh": "他被指控在慷慨背後藏有不光彩的動機。"
+        },
+        {
+          "en": "The general met an ______ end after his betrayal.",
+          "zh": "這位將軍在背叛之後迎來了不光彩的下場。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "24",
+        "spelling": "in",
+        "meaning": "在⋯⋯裡面"
+      }
+    },
+    {
+      "word": "ignominious",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "humiliating, disgraceful:",
+      "defn_zh": "可恥的/不光彩的",
+      "root_note": "in- (not) + nomen (name)",
+      "sentences": [
+        {
+          "en": "The team suffered an ______ defeat in the championship game.",
+          "zh": "這支隊伍在冠軍賽中遭遇了一場可恥的慘敗。"
+        },
+        {
+          "en": "His ______ resignation followed the leaked emails.",
+          "zh": "在郵件外洩之後,他不光彩地辭職下台。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "24",
+        "spelling": "in",
+        "meaning": "在⋯⋯裡面"
+      }
+    },
+    {
+      "word": "illicit",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "forbidden, not permitted:",
+      "defn_zh": "非法的/違禁的",
+      "root_note": "in- (not) + licitus (allowed, from licere)",
+      "sentences": [
+        {
+          "en": "Police shut down the ______ gambling operation running out of the warehouse.",
+          "zh": "警方查封了在這座倉庫裡進行的非法賭博活動。"
+        },
+        {
+          "en": "The two companies were caught in an ______ price-fixing agreement.",
+          "zh": "這兩家公司被查獲涉入非法的價格壟斷協議。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "24",
+        "spelling": "in",
+        "meaning": "在⋯⋯裡面"
+      }
+    },
+    {
+      "word": "illogical",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "lacking sense or clear, sound reasoning:",
+      "defn_zh": "不合邏輯的",
+      "root_note": "in- (not) + logos (reason)",
+      "sentences": [
+        {
+          "en": "His argument was ______ and did not convince the audience.",
+          "zh": "他的論點不合邏輯,並未說服觀眾。"
+        },
+        {
+          "en": "It seems ______ to spend more money fixing the old car than buying a new one.",
+          "zh": "花更多錢修理這輛舊車,而不是買一輛新車,似乎不合邏輯。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "24",
+        "spelling": "in",
+        "meaning": "在⋯⋯裡面"
+      }
+    },
+    {
+      "word": "imbalance",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a lack of proportion or balance between things:",
+      "defn_zh": "不平衡;失衡",
+      "root_note": "in- (not) + balance, from Latin bilanx",
+      "sentences": [
+        {
+          "en": "The report highlighted the ______ in trade between the two nations.",
+          "zh": "這份報告凸顯了這兩國之間的貿易失衡。"
+        },
+        {
+          "en": "A hormonal ______ was responsible for her symptoms.",
+          "zh": "荷爾蒙失調是造成她症狀的原因。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "24",
+        "spelling": "in",
+        "meaning": "在⋯⋯裡面"
+      }
+    },
+    {
+      "word": "immaculate",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "perfectly clean or free from flaws:",
+      "defn_zh": "一塵不染的/完美無瑕的",
+      "root_note": "in- (not) + macula (spot, stain)",
+      "sentences": [
+        {
+          "en": "The house was ______ after the cleaning crew left.",
+          "zh": "清潔人員離開後,這棟房子變得一塵不染。"
+        },
+        {
+          "en": "She always keeps her desk in ______ order.",
+          "zh": "她總是把她的辦公桌整理得一塵不染、井然有序。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "24",
+        "spelling": "in",
+        "meaning": "在⋯⋯裡面"
+      }
+    },
+    {
+      "word": "immitigable",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "not able to be lessened or eased:",
+      "defn_zh": "無法減輕的;無法緩解的",
+      "root_note": "in- (not) + mitigare (to soften), from Latin",
+      "sentences": [
+        {
+          "en": "The disease caused ______ pain in its final stages.",
+          "zh": "這種疾病在末期造成了無法減輕的疼痛。"
+        },
+        {
+          "en": "His guilt seemed ______ despite years of therapy.",
+          "zh": "儘管多年的治療,他的罪惡感似乎仍無法緩解。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "24",
+        "spelling": "in",
+        "meaning": "在⋯⋯裡面"
+      }
+    },
+    {
+      "word": "immodest",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "lacking humility or decency; arrogant:",
+      "defn_zh": "不謙虛的;傲慢的",
+      "root_note": "in- (not) + modestus (moderate), from Latin",
+      "sentences": [
+        {
+          "en": "It seemed ______ of him to boast about his own generosity.",
+          "zh": "他吹噓自己的慷慨,顯得不太謙虛。"
+        },
+        {
+          "en": "Her ______ claims about her abilities annoyed her colleagues.",
+          "zh": "她對自己能力不謙虛的說法讓同事們感到厭煩。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "24",
+        "spelling": "in",
+        "meaning": "在⋯⋯裡面"
+      }
+    },
+    {
+      "word": "immoral",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "not conforming to accepted standards of morality:",
+      "defn_zh": "不道德的",
+      "root_note": "in- (not) + moralis (moral), from Latin",
+      "sentences": [
+        {
+          "en": "Many considered the business practice deeply ______ .",
+          "zh": "許多人認為這種商業手法極為不道德。"
+        },
+        {
+          "en": "The novel explores whether the ends justify ______ means.",
+          "zh": "這本小說探討目的是否能為不道德的手段辯護。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "24",
+        "spelling": "in",
+        "meaning": "在⋯⋯裡面"
+      }
+    },
+    {
+      "word": "immorality",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "the state of not conforming to accepted moral standards:",
+      "defn_zh": "不道德;墮落",
+      "root_note": "in- (not) + moralis (moral), from Latin",
+      "sentences": [
+        {
+          "en": "The scandal exposed years of corporate ______ .",
+          "zh": "這場醜聞揭露了多年的企業不道德行為。"
+        },
+        {
+          "en": "The play condemns the ______ of the ruling class.",
+          "zh": "這齣戲譴責了統治階級的道德淪喪。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "24",
+        "spelling": "in",
+        "meaning": "在⋯⋯裡面"
+      }
+    },
+    {
+      "word": "immorigerous",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "rude or lacking in good manners (archaic):",
+      "defn_zh": "無禮的;粗魯的(古語)",
+      "root_note": "in- (not) + morigerus (obedient, compliant), from Latin",
+      "sentences": [
+        {
+          "en": "The old text describes the servant as ______ and disobedient.",
+          "zh": "這篇古老的文獻將這名僕人描述為無禮且不聽話。"
+        },
+        {
+          "en": "Her ______ remarks shocked the formal dinner guests.",
+          "zh": "她無禮的言論震驚了這場正式晚宴的賓客。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "24",
+        "spelling": "in",
+        "meaning": "在⋯⋯裡面"
+      }
+    },
+    {
+      "word": "immortalize",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to make someone or something famous forever:",
+      "defn_zh": "使不朽;使永垂不朽",
+      "root_note": "in- (not) + mortalis (mortal), from Latin",
+      "sentences": [
+        {
+          "en": "The sculptor sought to ______ the fallen heroes in bronze.",
+          "zh": "這位雕塑家試圖以青銅使這些陣亡英雄永垂不朽。"
+        },
+        {
+          "en": "Her novel ______ d the small town where she grew up.",
+          "zh": "她的小說讓她成長的這座小鎮永垂不朽。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "24",
+        "spelling": "in",
+        "meaning": "在⋯⋯裡面"
+      }
+    },
+    {
+      "word": "immovable",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "not able to be moved; unyielding:",
+      "defn_zh": "不可移動的;不動搖的",
+      "root_note": "in- (not) + movere (to move), from Latin",
+      "sentences": [
+        {
+          "en": "The ancient boulder remained ______ despite the machinery.",
+          "zh": "儘管動用了機械,這塊古老的巨石依然紋絲不動。"
+        },
+        {
+          "en": "He was ______ in his decision, no matter the pressure.",
+          "zh": "無論壓力多大,他在這項決定上始終不動搖。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "24",
+        "spelling": "in",
+        "meaning": "在⋯⋯裡面"
+      }
+    },
+    {
+      "word": "immune",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "resistant to disease or harm:",
+      "defn_zh": "免疫的/不受影響的",
+      "root_note": "in- (not) + munus (duty, service)",
+      "sentences": [
+        {
+          "en": "He's ______ to the virus due to vaccination.",
+          "zh": "由於接種了疫苗,他對這種病毒具有免疫力。"
+        },
+        {
+          "en": "No company is entirely ______ to the effects of an economic downturn.",
+          "zh": "沒有一家公司能完全不受經濟衰退的影響。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "24",
+        "spelling": "in",
+        "meaning": "在⋯⋯裡面"
+      }
+    },
+    {
+      "word": "immunity",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "resistance to a particular infection; exemption from a duty:",
+      "defn_zh": "免疫力;豁免權",
+      "root_note": "in- (not) + munus (duty, gift), from Latin",
+      "sentences": [
+        {
+          "en": "The vaccine provides strong ______ against the virus.",
+          "zh": "這種疫苗能對這種病毒提供強大的免疫力。"
+        },
+        {
+          "en": "The diplomat claimed ______ from local prosecution.",
+          "zh": "這位外交官聲稱擁有免受當地起訴的豁免權。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "24",
+        "spelling": "in",
+        "meaning": "在⋯⋯裡面"
+      }
+    },
+    {
+      "word": "immutability",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "the quality of being unchangeable:",
+      "defn_zh": "不變性;永恆不變",
+      "root_note": "in- (not) + mutare (to change), from Latin",
+      "sentences": [
+        {
+          "en": "Philosophers debated the ______ of natural law.",
+          "zh": "哲學家爭論自然法則的永恆不變性。"
+        },
+        {
+          "en": "The contract's terms were praised for their ______ .",
+          "zh": "這份合約的條款因其不可更改性而受到讚揚。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "24",
+        "spelling": "in",
+        "meaning": "在⋯⋯裡面"
+      }
+    },
+    {
+      "word": "immutable",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "not changeable:",
+      "defn_zh": "不可改變的/永恆的",
+      "root_note": "in- (not) + mutare (to change)",
+      "sentences": [
+        {
+          "en": "The laws of physics are considered ______ across the universe.",
+          "zh": "物理定律被認為在整個宇宙中是不可改變的。"
+        },
+        {
+          "en": "He believed his moral principles were ______, regardless of circumstance.",
+          "zh": "他相信自己的道德原則無論在何種情況下都不可動搖。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "24",
+        "spelling": "in",
+        "meaning": "在⋯⋯裡面"
+      }
+    },
+    {
+      "word": "impalpable",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "unable to be felt by touch; not easily understood:",
+      "defn_zh": "難以觸摸的;難以理解的",
+      "root_note": "in- (not) + palpare (to touch), from Latin",
+      "sentences": [
+        {
+          "en": "An ______ tension filled the negotiating room.",
+          "zh": "一股難以言喻的緊張氣氛瀰漫在這間談判室裡。"
+        },
+        {
+          "en": "The philosopher's ______ arguments confused most of the audience.",
+          "zh": "這位哲學家難以理解的論點讓大多數聽眾感到困惑。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "24",
+        "spelling": "in",
+        "meaning": "在⋯⋯裡面"
+      }
+    },
+    {
+      "word": "impartial",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "not biased or prejudiced; treating all sides equally:",
+      "defn_zh": "公正的/不偏不倚的",
+      "root_note": "in- (not) + pars (part)",
+      "sentences": [
+        {
+          "en": "The judge was ______, ensuring a fair trial for both parties.",
+          "zh": "這位法官保持公正,確保雙方都能獲得公平的審判。"
+        },
+        {
+          "en": "Judges must always remain ______ during a trial.",
+          "zh": "法官在審判過程中必須始終保持公正不偏。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "24",
+        "spelling": "in",
+        "meaning": "在⋯⋯裡面"
+      }
+    },
+    {
+      "word": "impassable",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "impossible to travel along or through:",
+      "defn_zh": "無法通行的",
+      "root_note": "in- (not) + passare (to pass), from Latin",
+      "sentences": [
+        {
+          "en": "Heavy snow made the mountain road ______ .",
+          "zh": "大雪讓這條山路無法通行。"
+        },
+        {
+          "en": "Fallen trees rendered the trail ______ after the storm.",
+          "zh": "暴風雨過後,倒下的樹木讓這條步道無法通行。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "24",
+        "spelling": "in",
+        "meaning": "在⋯⋯裡面"
+      }
+    },
+    {
+      "word": "impasse",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a situation in which no progress is possible; a deadlock:",
+      "defn_zh": "僵局;死路",
+      "root_note": "in- (not) + passer (to pass), from French",
+      "sentences": [
+        {
+          "en": "Negotiations reached an ______ over wages.",
+          "zh": "這場談判在薪資問題上陷入了僵局。"
+        },
+        {
+          "en": "The two countries remained at an ______ for months.",
+          "zh": "這兩個國家陷入僵局長達數月之久。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "24",
+        "spelling": "in",
+        "meaning": "在⋯⋯裡面"
+      }
+    },
+    {
+      "word": "impeccability",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "the quality of being flawless or faultless:",
+      "defn_zh": "完美無瑕;無可挑剔",
+      "root_note": "in- (not) + peccare (to sin), from Latin",
+      "sentences": [
+        {
+          "en": "Critics praised the ______ of her technique.",
+          "zh": "評論家讚揚了她技巧的完美無瑕。"
+        },
+        {
+          "en": "His ______ in matters of etiquette impressed the diplomats.",
+          "zh": "他在禮儀方面無可挑剔的表現讓外交官們印象深刻。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "24",
+        "spelling": "in",
+        "meaning": "在⋯⋯裡面"
+      }
+    },
+    {
+      "word": "impeccable",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "faultless:flawless",
+      "defn_zh": "無懈可擊的/無缺點的",
+      "root_note": "in- (not) + peccare (to sin)",
+      "sentences": [
+        {
+          "en": "The waiter provided ______ service throughout the entire meal.",
+          "zh": "這名服務生在整頓餐點期間提供了無懈可擊的服務。"
+        },
+        {
+          "en": "Her ______ taste in fashion always impresses her colleagues.",
+          "zh": "她在時尚方面無可挑剔的品味總是讓同事印象深刻。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "24",
+        "spelling": "in",
+        "meaning": "在⋯⋯裡面"
+      }
+    },
+    {
+      "word": "impecunious",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "poor:",
+      "defn_zh": "貧窮的/身無分文的",
+      "root_note": "in- (not) + pecunia (money)",
+      "sentences": [
+        {
+          "en": "The ______ artist survived on bread and tea for months.",
+          "zh": "這位身無分文的藝術家靠麵包和茶度過了好幾個月。"
+        },
+        {
+          "en": "Despite being ______ as a student, he later became a successful entrepreneur.",
+          "zh": "儘管求學時期一貧如洗,他後來卻成為一位成功的企業家。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "24",
+        "spelling": "in",
+        "meaning": "在⋯⋯裡面"
+      }
+    },
+    {
+      "word": "impenetrable",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "impossible to pass through:",
+      "defn_zh": "無法穿透的",
+      "root_note": "in- (not) + penetrare (to penetrate)",
+      "sentences": [
+        {
+          "en": "The fortress was ______ to enemy attack.",
+          "zh": "這座堡壘固若金湯,無法被敵軍攻破。"
+        },
+        {
+          "en": "The jungle's ______ undergrowth slowed the explorers to a crawl.",
+          "zh": "叢林裡密不可穿的灌木叢讓探險隊的行進速度慢如蝸牛。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "24",
+        "spelling": "in",
+        "meaning": "在⋯⋯裡面"
+      }
+    },
+    {
+      "word": "impermeable",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "not allowing fluid to pass through:",
+      "defn_zh": "不透水的;不可滲透的",
+      "root_note": "in- (not) + permeare (to pass through), from Latin",
+      "sentences": [
+        {
+          "en": "The jacket's ______ fabric kept her dry in the storm.",
+          "zh": "這件外套不透水的材質讓她在暴風雨中保持乾爽。"
+        },
+        {
+          "en": "A layer of clay made the soil nearly ______ .",
+          "zh": "一層黏土讓這片土壤幾乎不透水。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "24",
+        "spelling": "in",
+        "meaning": "在⋯⋯裡面"
+      }
+    },
+    {
+      "word": "impertienece",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "rudeness or lack of respect (variant spelling of impertinence):",
+      "defn_zh": "無禮;放肆(impertinence異體拼法)",
+      "root_note": "in- (not) + pertinere (to pertain), from Latin",
+      "sentences": [
+        {
+          "en": "The teacher scolded the student for his ______ .",
+          "zh": "老師因這位學生的放肆無禮而斥責了他。"
+        },
+        {
+          "en": "Her ______ toward the elderly customer shocked everyone in the store.",
+          "zh": "她對這位年長顧客的無禮讓店裡的每個人都感到震驚。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "24",
+        "spelling": "in",
+        "meaning": "在⋯⋯裡面"
+      }
+    },
+    {
+      "word": "impertinent",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "rude, insolent:",
+      "defn_zh": "無禮的/魯莽的",
+      "root_note": "in- (not) + pertinere (to pertain, belong)",
+      "sentences": [
+        {
+          "en": "The student's ______ remark earned him a trip to the principal's office.",
+          "zh": "這名學生無禮的言論讓他被叫去校長室。"
+        },
+        {
+          "en": "She found his ______ questions about her personal life inappropriate.",
+          "zh": "她認為他問及她私生活的無禮問題相當不妥。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "24",
+        "spelling": "in",
+        "meaning": "在⋯⋯裡面"
+      }
+    },
+    {
+      "word": "imperturbability",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "the quality of being calm and unshakeable:",
+      "defn_zh": "沉著;鎮定",
+      "root_note": "in- (not) + perturbare (to disturb), from Latin",
+      "sentences": [
+        {
+          "en": "The surgeon's ______ reassured the anxious patient.",
+          "zh": "這位外科醫生的沉著鎮定安撫了焦慮的病患。"
+        },
+        {
+          "en": "Her ______ under pressure made her an ideal negotiator.",
+          "zh": "她在壓力下的鎮定讓她成為一位理想的談判者。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "24",
+        "spelling": "in",
+        "meaning": "在⋯⋯裡面"
+      }
+    },
+    {
+      "word": "impervious",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "not affected or influenced by something:",
+      "defn_zh": "不受影響的/不透水的",
+      "root_note": "in- (not) + per- (through) + via (way)",
+      "sentences": [
+        {
+          "en": "The material is ______ to water, making it ideal for roofing.",
+          "zh": "這種材料不透水,非常適合用於屋頂建材。"
+        },
+        {
+          "en": "He seemed completely ______ to criticism, no matter how harsh.",
+          "zh": "無論批評有多嚴厲,他似乎都完全不受影響。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "24",
+        "spelling": "in",
+        "meaning": "在⋯⋯裡面"
+      }
+    },
+    {
+      "word": "impious",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "lacking respect, irreverent:",
+      "defn_zh": "不敬的/無信仰的",
+      "root_note": "in- (not) + pius (pious/devout)",
+      "sentences": [
+        {
+          "en": "The elders considered his jokes about the ceremony ______.",
+          "zh": "長輩們認為他拿這場儀式開玩笑的行為十分不敬。"
+        },
+        {
+          "en": "She was scolded for making an ______ remark during the prayer.",
+          "zh": "她因在祈禱時說出不敬的話而受到責罵。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "24",
+        "spelling": "in",
+        "meaning": "在⋯⋯裡面"
+      }
+    },
+    {
+      "word": "importunate",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "persistent, especially to the point of being annoying:",
+      "defn_zh": "糾纏不休的;強求的",
+      "root_note": "in- (not) + opportunus (fitting, timely), from Latin",
+      "sentences": [
+        {
+          "en": "The ______ salesman refused to take no for an answer.",
+          "zh": "這位糾纏不休的業務員不肯接受拒絕的答案。"
+        },
+        {
+          "en": "She grew tired of his ______ requests for a loan.",
+          "zh": "她對他不斷強求借錢的要求感到厭倦。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "24",
+        "spelling": "in",
+        "meaning": "在⋯⋯裡面"
+      }
+    },
+    {
+      "word": "importune",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to ask urgently:implore=solicit",
+      "defn_zh": "強求/胡纏",
+      "root_note": "in- (not) + portus (port)",
+      "sentences": [
+        {
+          "en": "The beggar continued to ______ passersby for spare change.",
+          "zh": "這名乞丐持續向路人強求零錢。"
+        },
+        {
+          "en": "She would ______ her parents for a new phone every single day.",
+          "zh": "她每天都纏著父母要一支新手機。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "24",
+        "spelling": "in",
+        "meaning": "在⋯⋯裡面"
+      }
+    },
+    {
+      "word": "impossible",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "not able to occur or be done:",
+      "defn_zh": "不可能的",
+      "root_note": "in- (not) + possibilis (possible), from Latin",
+      "sentences": [
+        {
+          "en": "It seemed ______ to finish the project by Friday.",
+          "zh": "在週五前完成這項計畫似乎是不可能的。"
+        },
+        {
+          "en": "She achieved what many thought was ______ .",
+          "zh": "她達成了許多人認為不可能的成就。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "24",
+        "spelling": "in",
+        "meaning": "在⋯⋯裡面"
+      }
+    },
+    {
+      "word": "impotent",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "lacking power or strength to act effectively:",
+      "defn_zh": "無力的;無能為力的",
+      "root_note": "in- (not) + potens (powerful), from Latin",
+      "sentences": [
+        {
+          "en": "The council felt ______ against the corporation's influence.",
+          "zh": "這個議會在這家企業的影響力面前感到無能為力。"
+        },
+        {
+          "en": "He was left ______ with rage after the unfair decision.",
+          "zh": "在這個不公的決定面前,他感到無力的憤怒。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "24",
+        "spelling": "in",
+        "meaning": "在⋯⋯裡面"
+      }
+    },
+    {
+      "word": "impracticable",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "not able to be carried out in practice:",
+      "defn_zh": "不切實際的;行不通的",
+      "root_note": "in- (not) + practicare (to practice), from Latin",
+      "sentences": [
+        {
+          "en": "The proposal was deemed ______ given the budget constraints.",
+          "zh": "考量到預算限制,這項提案被認為行不通。"
+        },
+        {
+          "en": "Building a bridge there proved ______ due to the terrain.",
+          "zh": "由於地形因素,在那裡建橋被證實不切實際。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "24",
+        "spelling": "in",
+        "meaning": "在⋯⋯裡面"
+      }
+    },
+    {
+      "word": "impractical",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "not sensible or realistic; not suited to the situation or purpose:",
+      "defn_zh": "不切實際的",
+      "root_note": "in- (not) + practicus (practical)",
+      "sentences": [
+        {
+          "en": "The plan was deemed ______ due to its high cost and complexity.",
+          "zh": "這項計畫因成本過高且過於複雜,被認定不切實際。"
+        },
+        {
+          "en": "The dress design was too ______ to actually wear.",
+          "zh": "這款洋裝的設計太不實穿了,根本無法真正穿上身。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "24",
+        "spelling": "in",
+        "meaning": "在⋯⋯裡面"
+      }
+    },
+    {
+      "word": "impregnable",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "resistant to capture or penetration:",
+      "defn_zh": "堅不可摧的/攻不破的",
+      "root_note": "in- (not) + prehendere (to seize)",
+      "sentences": [
+        {
+          "en": "The medieval fortress was considered ______ by enemy armies.",
+          "zh": "這座中世紀堡壘被認為是敵軍無法攻破的。"
+        },
+        {
+          "en": "Her confidence made her seem ______ to criticism.",
+          "zh": "她的自信讓她看起來對批評刀槍不入。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "24",
+        "spelling": "in",
+        "meaning": "在⋯⋯裡面"
+      }
+    },
+    {
+      "word": "improbity",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "wickedness or dishonesty:",
+      "defn_zh": "不誠實;邪惡",
+      "root_note": "in- (not) + probitas (honesty), from Latin",
+      "sentences": [
+        {
+          "en": "The audit revealed years of financial ______ .",
+          "zh": "這次審計揭露了多年的財務不誠實行為。"
+        },
+        {
+          "en": "His ______ eventually cost him his reputation.",
+          "zh": "他的不誠實最終讓他付出了名譽的代價。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "24",
+        "spelling": "in",
+        "meaning": "在⋯⋯裡面"
+      }
+    },
+    {
+      "word": "impropriety",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "behavior that violates accepted standards; unsuitability:",
+      "defn_zh": "失禮;不妥當",
+      "root_note": "in- (not) + proprius (one's own), from Latin",
+      "sentences": [
+        {
+          "en": "The senator was investigated for financial ______ .",
+          "zh": "這位參議員因財務不當行為而遭到調查。"
+        },
+        {
+          "en": "Her joke was seen as a minor social ______ .",
+          "zh": "她的玩笑被視為輕微的社交失禮。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "24",
+        "spelling": "in",
+        "meaning": "在⋯⋯裡面"
+      }
+    },
+    {
+      "word": "improvident",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "not planning ahead; careless about the future:",
+      "defn_zh": "無遠見的;不節儉的",
+      "root_note": "in- (not) + providere (to foresee), from Latin",
+      "sentences": [
+        {
+          "en": "His ______ spending left him with no savings for retirement.",
+          "zh": "他無遠見的花費讓他沒有退休積蓄。"
+        },
+        {
+          "en": "The ______ farmer failed to store grain for the winter.",
+          "zh": "這位不知節儉的農夫沒有為冬天儲存穀物。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "24",
+        "spelling": "in",
+        "meaning": "在⋯⋯裡面"
+      }
+    },
+    {
+      "word": "improvise",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to create or perform something without preparation or planning, often with available materials:",
+      "defn_zh": "即興創作/臨場發揮",
+      "root_note": "in- (not) + providere (to foresee)",
+      "sentences": [
+        {
+          "en": "The actor had to ______ his lines when the script was lost.",
+          "zh": "當劇本遺失時,這位演員必須臨場即興發揮台詞。"
+        },
+        {
+          "en": "The actor had to ______ when he forgot his lines.",
+          "zh": "當這位演員忘詞時,他必須即興發揮。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "24",
+        "spelling": "in",
+        "meaning": "在⋯⋯裡面"
+      }
+    },
+    {
+      "word": "imprudence",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "lack of care and thought for the consequences of an action:",
+      "defn_zh": "輕率;不謹慎",
+      "root_note": "in- (not) + prudentia (foresight), from Latin",
+      "sentences": [
+        {
+          "en": "His ______ nearly cost the company a major client.",
+          "zh": "他的輕率行事幾乎讓公司失去了一個重要客戶。"
+        },
+        {
+          "en": "The young driver's ______ led to a serious accident.",
+          "zh": "這位年輕駕駛的不謹慎導致了一場嚴重的事故。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "24",
+        "spelling": "in",
+        "meaning": "在⋯⋯裡面"
+      }
+    },
+    {
+      "word": "imprudent",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "unwise, not careful:",
+      "defn_zh": "輕率的/不智的",
+      "root_note": "in- (not) + providere (to foresee)",
+      "sentences": [
+        {
+          "en": "It would be ______ to invest your savings without any research.",
+          "zh": "在毫無研究的情況下投資你的積蓄是不明智的。"
+        },
+        {
+          "en": "His ______ spending left him deeply in debt.",
+          "zh": "他輕率的花錢方式讓他債台高築。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "24",
+        "spelling": "in",
+        "meaning": "在⋯⋯裡面"
+      }
+    },
+    {
+      "word": "impudence",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "bold disrespect; insolence:",
+      "defn_zh": "厚顏無恥;放肆",
+      "root_note": "in- (not) + pudere (to be ashamed), from Latin",
+      "sentences": [
+        {
+          "en": "The student's ______ toward the teacher shocked the class.",
+          "zh": "這位學生對老師的放肆無禮讓全班都感到震驚。"
+        },
+        {
+          "en": "He had the ______ to demand a raise after being late every day.",
+          "zh": "他每天遲到卻厚顏無恥地要求加薪。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "24",
+        "spelling": "in",
+        "meaning": "在⋯⋯裡面"
+      }
+    },
+    {
+      "word": "inactive",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "not engaged in movement or activity:",
+      "defn_zh": "不活躍的/靜止的",
+      "root_note": "in- (not) + agere (to act)",
+      "sentences": [
+        {
+          "en": "The volcano has been ______ for decades.",
+          "zh": "這座火山已經沉寂了數十年。"
+        },
+        {
+          "en": "His social media account has remained ______ since last year.",
+          "zh": "他的社群媒體帳號自去年以來就一直沒有更新。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "24",
+        "spelling": "in",
+        "meaning": "在⋯⋯裡面"
+      }
+    },
+    {
+      "word": "inadequate",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "not sufficient or suitable for the intended purpose; lacking in quality or quantity:",
+      "defn_zh": "不足的/不適當的",
+      "root_note": "in- (not) + aequus (equal)",
+      "sentences": [
+        {
+          "en": "The equipment provided was ______ for the job, resulting in delays.",
+          "zh": "提供的設備不足以應付這項工作,導致了延誤。"
+        },
+        {
+          "en": "I felt ______ when I didn't make the final shot during the basketball game.",
+          "zh": "在籃球比賽中沒能投進最後那一球,讓我覺得自己能力不足。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "24",
+        "spelling": "in",
+        "meaning": "在⋯⋯裡面"
+      }
+    },
+    {
+      "word": "inadvertent",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "unintentional:",
+      "defn_zh": "無意的",
+      "root_note": "in- (not) + ad- (to) + vertere (to turn)",
+      "sentences": [
+        {
+          "en": "The mistake in the report was completely ______, not an attempt to deceive anyone.",
+          "zh": "報告中的錯誤完全是無意的,並非想欺騙任何人。"
+        },
+        {
+          "en": "Her ______ comment about the surprise party ruined the secret.",
+          "zh": "她無意間提到驚喜派對的話,毀了這個秘密。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "24",
+        "spelling": "in",
+        "meaning": "在⋯⋯裡面"
+      }
+    }
+  ],
+  "family_options": {},
+  "fallback_options": {
+    "v.": [
+      {
+        "word": "abound",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to exist in great numbers:",
+        "defn_zh": "充滿"
+      },
+      {
+        "word": "abrogate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to deprive of legal force, to nullify:=abolish",
+        "defn_zh": "廢除/取消"
+      },
+      {
+        "word": "abjure",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to renounce, abstain from:",
+        "defn_zh": "發誓放棄/棄絕"
+      },
+      {
+        "word": "abbreviate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to shorten a word or phrase:",
+        "defn_zh": "縮寫;縮短"
+      },
+      {
+        "word": "abdicate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to give up a position, usually one of leadership:",
+        "defn_zh": "退位/放棄(職位)"
+      },
+      {
+        "word": "abduct",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to kidnap, take by force:",
+        "defn_zh": "綁架/劫持"
+      },
+      {
+        "word": "abhor",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to regard with disgust and hatred:",
+        "defn_zh": "憎惡/厭惡"
+      },
+      {
+        "word": "abnegate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to deny or renounce:",
+        "defn_zh": "放棄/克制"
+      },
+      {
+        "word": "abolish",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to formally put an end to a system, practice, or institution:",
+        "defn_zh": "廢除"
+      },
+      {
+        "word": "abort",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to give up on a half-finished project or effort:",
+        "defn_zh": "中止/放棄"
+      },
+      {
+        "word": "abrade",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to scrape or wear away by friction:",
+        "defn_zh": "磨損;擦傷"
+      },
+      {
+        "word": "abscond",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to sneak away and hide:",
+        "defn_zh": "潛逃/逃匿"
+      }
+    ],
+    "adj.": [
+      {
+        "word": "abortive",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "fruitless, failing:",
+        "defn_zh": "失敗的/夭折的"
+      },
+      {
+        "word": "abstemious",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "moderate in eating or drinking:",
+        "defn_zh": "飲食有節制的"
+      },
+      {
+        "word": "abhorrent",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "detestable, despised:",
+        "defn_zh": "令人厭惡的"
+      },
+      {
+        "word": "absurd",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "ridiculous:",
+        "defn_zh": "荒謬的"
+      },
+      {
+        "word": "aberrant",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "deviating from what is normal or expected:",
+        "defn_zh": "異常的;脫軌的"
+      },
+      {
+        "word": "abject",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "wretched, pitiful:",
+        "defn_zh": "卑賤的/淒慘的"
+      },
+      {
+        "word": "abominable",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "causing moral revulsion; extremely unpleasant:",
+        "defn_zh": "可憎的;惡劣的"
+      },
+      {
+        "word": "abounding",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "existing in large numbers or amounts:",
+        "defn_zh": "大量存在的;豐富的"
+      },
+      {
+        "word": "abrasive",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "showing little concern for others; harsh:",
+        "defn_zh": "粗暴的/刺耳的"
+      },
+      {
+        "word": "abrupt",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "sudden or unexpected; brief and curt in manner:",
+        "defn_zh": "突然的/唐突的"
+      },
+      {
+        "word": "abstract",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "existing purely in the mind; not representing actual reality:",
+        "defn_zh": "抽象的"
+      },
+      {
+        "word": "abstruse",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "hard to comprehend:",
+        "defn_zh": "深奧難懂的"
+      }
+    ],
+    "n.": [
+      {
+        "word": "aversion",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "strong dislike, opposition:",
+        "defn_zh": "厭惡/反感"
+      },
+      {
+        "word": "aberration",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "something that differs from the norm:",
+        "defn_zh": "異常/脫軌"
+      },
+      {
+        "word": "abjection",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a state of complete misery, hopelessness, or degradation:",
+        "defn_zh": "卑賤;悲慘狀態"
+      },
+      {
+        "word": "abjuration",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the solemn renunciation of a belief, cause, or claim:",
+        "defn_zh": "公開放棄;誓絕"
+      },
+      {
+        "word": "ablution",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the act of washing oneself, especially as part of a religious ritual:",
+        "defn_zh": "沐浴;淨身儀式"
+      },
+      {
+        "word": "abnegation",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "denial of comfort to oneself:",
+        "defn_zh": "自我克制/放棄"
+      },
+      {
+        "word": "abomination",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "something that causes disgust or hatred:",
+        "defn_zh": "可憎之事;令人厭惡的東西"
+      },
+      {
+        "word": "abridgement",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a shortened version of a book or other written work:",
+        "defn_zh": "節略本;縮減版"
+      },
+      {
+        "word": "absolution",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "freedom from blame, guilt, sin:",
+        "defn_zh": "赦免/免罪"
+      },
+      {
+        "word": "abstemiousness",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "moderation or self-restraint, especially in eating and drinking:",
+        "defn_zh": "節制;克己"
+      },
+      {
+        "word": "abstinence",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the practice of restraining oneself from something enjoyable, especially food, alcohol, or sex:",
+        "defn_zh": "節制;戒絕"
+      },
+      {
+        "word": "avocation",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a hobby or minor occupation apart from one's main career:",
+        "defn_zh": "副業;業餘愛好"
+      }
+    ],
+    "adv.": [
+      {
+        "word": "accordingly",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in a manner that fits the circumstances; consequently:",
+        "defn_zh": "相應地;因此"
+      },
+      {
+        "word": "inadvertently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "unintentionally or by accident:",
+        "defn_zh": "無意間/不小心地"
+      },
+      {
+        "word": "consequently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "as a result; therefore:",
+        "defn_zh": "因此;結果"
+      },
+      {
+        "word": "contemptuously",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "without respect; in a disdainful manner:",
+        "defn_zh": "輕蔑地"
+      },
+      {
+        "word": "involuntarily",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "done without conscious control:",
+        "defn_zh": "不由自主地"
+      },
+      {
+        "word": "cordially",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in a warm or friendly manner:",
+        "defn_zh": "誠摯地/友好地"
+      },
+      {
+        "word": "ipso facto",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "by that very fact or act:",
+        "defn_zh": "事實上;因此"
+      },
+      {
+        "word": "en passant",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in passing; incidentally:",
+        "defn_zh": "順帶一提地;偶然地"
+      },
+      {
+        "word": "regardless",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "despite the prevailing circumstances; without being deterred:",
+        "defn_zh": "不管怎樣;儘管如此"
+      },
+      {
+        "word": "subsequently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "afterward; following in time or order:",
+        "defn_zh": "隨後;其後"
+      },
+      {
+        "word": "aside",
+        "pos": "adv./n.",
+        "pos_key": "adv.",
+        "defn_en": "to or on one side; a remark not meant to be heard by everyone:",
+        "defn_zh": "在旁邊;旁白"
+      },
+      {
+        "word": "vice versa",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "with the order or meaning reversed; conversely:",
+        "defn_zh": "反之亦然"
+      }
+    ],
+    "other": [
+      {
+        "word": "（此批單字中，暫無符合此字根/字首的單字）",
+        "pos": "",
+        "pos_key": "other",
+        "defn_en": "",
+        "defn_zh": ""
+      }
+    ],
+    "prep./adv.": [
+      {
+        "word": "besides",
+        "pos": "prep./adv.",
+        "pos_key": "prep./adv.",
+        "defn_en": "in addition to; furthermore:",
+        "defn_zh": "除...之外;此外"
+      }
+    ],
+    "phrasalv.": [
+      {
+        "word": "egg on",
+        "pos": "phrasal v.",
+        "pos_key": "phrasalv.",
+        "defn_en": "to encourage someone to do something, often risky:",
+        "defn_zh": "慫恿;鼓動"
+      }
+    ],
+    "abbr.": [
+      {
+        "word": "etc.",
+        "pos": "abbr.",
+        "pos_key": "abbr.",
+        "defn_en": "and other similar things (abbreviation of et cetera):",
+        "defn_zh": "等等(et cetera的縮寫)"
+      }
+    ],
+    "interj.": [
+      {
+        "word": "fiddledeedee",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "an exclamation expressing dismissal of something as nonsense:",
+        "defn_zh": "廢話!(表示不屑一顧)"
+      },
+      {
+        "word": "gesundheit",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "an expression said to someone who has just sneezed:",
+        "defn_zh": "保重(打噴嚏後的祝福語)"
+      }
+    ],
+    "prep.": [
+      {
+        "word": "via",
+        "pos": "prep.",
+        "pos_key": "prep.",
+        "defn_en": "by way of; passing through:",
+        "defn_zh": "經由;透過"
+      }
+    ]
+  }
+}

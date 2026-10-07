@@ -1,0 +1,1066 @@
+{
+  "id": "p1-24-in-inside-3",
+  "part": "part1",
+  "part_label": "Part 1 字首篇 (Prefixes)",
+  "name": "in — in / into / upon (3/3)",
+  "subtitle": "在內；進入；施加於；朝向",
+  "count": 27,
+  "words": [
+    {
+      "word": "instill",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to gradually establish an idea or feeling in someone's mind:",
+      "defn_zh": "灌輸;逐漸養成",
+      "root_note": "in- (into) + stillare (to drip), from Latin",
+      "sentences": [
+        {
+          "en": "Good coaches ______ confidence in their players.",
+          "zh": "優秀的教練會為球員灌輸信心。"
+        },
+        {
+          "en": "Her parents worked to ______ a love of reading in her early on.",
+          "zh": "她的父母從小就努力為她灌輸對閱讀的熱愛。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "24",
+        "spelling": "in",
+        "meaning": "在⋯⋯裡面"
+      }
+    },
+    {
+      "word": "insurgence",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "an act of rising in active revolt:",
+      "defn_zh": "叛亂;起義",
+      "root_note": "in- (into) + surgere (to rise), from Latin",
+      "sentences": [
+        {
+          "en": "The government struggled to contain the growing ______ .",
+          "zh": "政府努力遏制這場日益擴大的叛亂。"
+        },
+        {
+          "en": "Historians documented the causes of the regional ______ .",
+          "zh": "歷史學家記錄了這場地區性起義的成因。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "24",
+        "spelling": "in",
+        "meaning": "在⋯⋯裡面"
+      }
+    },
+    {
+      "word": "insurgency",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "an active revolt against an established authority:",
+      "defn_zh": "叛亂;暴動",
+      "root_note": "in- (into) + surgere (to rise), from Latin",
+      "sentences": [
+        {
+          "en": "The military was deployed to suppress the ______ .",
+          "zh": "軍隊被部署來鎮壓這場叛亂。"
+        },
+        {
+          "en": "Years of ______ left the country's infrastructure in ruins.",
+          "zh": "多年的叛亂讓這個國家的基礎建設破敗不堪。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "24",
+        "spelling": "in",
+        "meaning": "在⋯⋯裡面"
+      }
+    },
+    {
+      "word": "insurgent",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "one who rebels:",
+      "defn_zh": "叛亂分子/起義者",
+      "root_note": "in- (upon) + surgere (to rise)",
+      "sentences": [
+        {
+          "en": "Government forces clashed with ______s in the mountainous region.",
+          "zh": "政府軍與這些叛亂分子在這片山區發生衝突。"
+        },
+        {
+          "en": "The former ______ eventually became a respected member of parliament.",
+          "zh": "這位曾經的叛軍最終成為國會中受人尊敬的一員。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "24",
+        "spelling": "in",
+        "meaning": "在⋯⋯裡面"
+      }
+    },
+    {
+      "word": "insurrection",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a violent uprising against authority:",
+      "defn_zh": "暴動;起義",
+      "root_note": "in- (into) + surgere (to rise), from Latin",
+      "sentences": [
+        {
+          "en": "The failed ______ resulted in dozens of arrests.",
+          "zh": "這場失敗的起義導致了數十人被捕。"
+        },
+        {
+          "en": "Historians still debate the causes of the ______ .",
+          "zh": "歷史學家至今仍在爭論這場起義的成因。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "24",
+        "spelling": "in",
+        "meaning": "在⋯⋯裡面"
+      }
+    },
+    {
+      "word": "intentional",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "done on purpose:",
+      "defn_zh": "故意的",
+      "root_note": "in- (toward) + tendere (to stretch)",
+      "sentences": [
+        {
+          "en": "By reading the evidence, I could tell the man's actions were ______.",
+          "zh": "透過檢視證據,我看得出這名男子的行為是蓄意的。"
+        },
+        {
+          "en": "Her omission of that detail seemed entirely ______.",
+          "zh": "她刻意省略那個細節,看起來完全是有意為之。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "24",
+        "spelling": "in",
+        "meaning": "在⋯⋯裡面"
+      }
+    },
+    {
+      "word": "intimidate",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to overawe:",
+      "defn_zh": "恐嚇",
+      "root_note": "in- (into) + timidus (fearful)",
+      "sentences": [
+        {
+          "en": "The bully tried to ______ the younger students into giving him their lunch money.",
+          "zh": "這個惡霸試圖恐嚇年紀較小的學生交出午餐錢。"
+        },
+        {
+          "en": "She refused to let his angry tone ______ her during the negotiation.",
+          "zh": "在談判過程中,她拒絕讓他憤怒的語氣恐嚇到自己。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "24",
+        "spelling": "in",
+        "meaning": "在⋯⋯裡面"
+      }
+    },
+    {
+      "word": "intricate",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "very detailed or complex; complicated in design or structure:",
+      "defn_zh": "錯綜複雜的/精細的",
+      "root_note": "in- (in) + tricae (perplexities)",
+      "sentences": [
+        {
+          "en": "The ______ pattern on the fabric was carefully designed.",
+          "zh": "這塊布料上精細複雜的花紋是精心設計的。"
+        },
+        {
+          "en": "The artist created an ______ design on the fabric.",
+          "zh": "這位藝術家在布料上創作出一幅精細複雜的圖案。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "24",
+        "spelling": "in",
+        "meaning": "在⋯⋯裡面"
+      }
+    },
+    {
+      "word": "intriguing",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "arousing curiosity or interest:",
+      "defn_zh": "引人入勝的/耐人尋味的",
+      "root_note": "in- (in) + tricae (perplexities)",
+      "sentences": [
+        {
+          "en": "The mystery novel was ______ because I couldn't figure out who the murderer was.",
+          "zh": "這本推理小說十分引人入勝,因為我猜不出誰是兇手。"
+        },
+        {
+          "en": "She found the professor's theory ______ but hard to believe.",
+          "zh": "她覺得這位教授的理論很耐人尋味,但難以置信。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "24",
+        "spelling": "in",
+        "meaning": "在⋯⋯裡面"
+      }
+    },
+    {
+      "word": "intumescence",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a swelling; the process of swelling up:",
+      "defn_zh": "腫脹;膨脹",
+      "root_note": "in- (into) + tumescere (to begin to swell), from Latin",
+      "sentences": [
+        {
+          "en": "The doctor examined the ______ around the injury.",
+          "zh": "醫生檢查了這處傷口周圍的腫脹。"
+        },
+        {
+          "en": "Chemists observed a rapid ______ when the two substances mixed.",
+          "zh": "化學家觀察到這兩種物質混合時出現了迅速的膨脹。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "24",
+        "spelling": "in",
+        "meaning": "在⋯⋯裡面"
+      }
+    },
+    {
+      "word": "inundate",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to flood:be full of",
+      "defn_zh": "淹沒/泛濫",
+      "root_note": "in- (into) + unda (wave)",
+      "sentences": [
+        {
+          "en": "The customer service line was ______ with complaints after the website crashed.",
+          "zh": "網站當機後,客服專線被大量投訴電話淹沒。"
+        },
+        {
+          "en": "Heavy rains ______ the entire village within hours.",
+          "zh": "豪雨在數小時內淹沒了整座村莊。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "24",
+        "spelling": "in",
+        "meaning": "在⋯⋯裡面"
+      }
+    },
+    {
+      "word": "inundation",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "an overwhelming abundance; a flood:",
+      "defn_zh": "氾濫;大量湧入",
+      "root_note": "in- (into) + undare (to flow, surge), from Latin",
+      "sentences": [
+        {
+          "en": "The office received an ______ of complaints after the announcement.",
+          "zh": "宣布消息後,這間辦公室收到了大量湧入的抱怨。"
+        },
+        {
+          "en": "Coastal towns prepared for the seasonal ______ of the river.",
+          "zh": "沿海城鎮為這條河流季節性的氾濫做好了準備。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "24",
+        "spelling": "in",
+        "meaning": "在⋯⋯裡面"
+      }
+    },
+    {
+      "word": "inure",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to cause someone to become accustomed to a situation:",
+      "defn_zh": "使習慣於",
+      "root_note": "in- (in) + opera (work, Latin)",
+      "sentences": [
+        {
+          "en": "Years of working night shifts had ______d him to sleeping during the day.",
+          "zh": "多年的夜班工作已讓他習慣了白天睡覺。"
+        },
+        {
+          "en": "Soldiers become ______d to hardship after months on the front lines.",
+          "zh": "士兵在前線待了數月後,對艱苦生活變得習以為常。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "24",
+        "spelling": "in",
+        "meaning": "在⋯⋯裡面"
+      }
+    },
+    {
+      "word": "inured",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "accustomed to something unpleasant through repeated exposure:",
+      "defn_zh": "習以為常的;麻木的",
+      "root_note": "in- (into) + euvre (use, work), from Old French",
+      "sentences": [
+        {
+          "en": "After years on the job, she became ______ to gruesome scenes.",
+          "zh": "在這份工作多年後,她對可怕的場景已經習以為常。"
+        },
+        {
+          "en": "Soldiers can grow ______ to the sounds of battle over time.",
+          "zh": "士兵久而久之會對戰場上的聲音變得麻木。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "24",
+        "spelling": "in",
+        "meaning": "在⋯⋯裡面"
+      }
+    },
+    {
+      "word": "invade",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to enter forcibly as an enemy; to intrude:",
+      "defn_zh": "入侵;侵犯",
+      "root_note": "in- (into) + vadere (to go), from Latin",
+      "sentences": [
+        {
+          "en": "Enemy troops began to ______ the northern border.",
+          "zh": "敵軍開始入侵北方邊境。"
+        },
+        {
+          "en": "Reporters were accused of trying to ______ the celebrity's privacy.",
+          "zh": "記者被指控試圖侵犯這位名人的隱私。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "24",
+        "spelling": "in",
+        "meaning": "在⋯⋯裡面"
+      }
+    },
+    {
+      "word": "invasive",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "tending to intrude on or interfere with something, often in an unwelcome or harmful way:",
+      "defn_zh": "侵入性的",
+      "root_note": "in- (in) + vadere (to go)",
+      "sentences": [
+        {
+          "en": "The ______ species spread quickly and threatened the local ecosystem.",
+          "zh": "這種入侵物種迅速擴散,威脅到當地的生態系統。"
+        },
+        {
+          "en": "Doctors recommended a less ______ procedure to treat the condition.",
+          "zh": "醫生建議採用侵入性較低的療程來治療這個病況。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "24",
+        "spelling": "in",
+        "meaning": "在⋯⋯裡面"
+      }
+    },
+    {
+      "word": "invective",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "insulting, abusive speech:",
+      "defn_zh": "辱罵/猛烈抨擊",
+      "root_note": "in- (against) + vehere (to carry)",
+      "sentences": [
+        {
+          "en": "The senator's speech was full of ______ against his opponent.",
+          "zh": "這位參議員的演說充滿了針對對手的猛烈抨擊。"
+        },
+        {
+          "en": "He hurled a stream of ______ at the referee after the call.",
+          "zh": "在那次判決之後,他對裁判連珠炮似地破口大罵。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "24",
+        "spelling": "in",
+        "meaning": "在⋯⋯裡面"
+      }
+    },
+    {
+      "word": "inveigh",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to attack verbally:=castigate =reprimand",
+      "defn_zh": "猛烈抨擊/痛罵",
+      "root_note": "in- (against) + vehere (to carry)",
+      "sentences": [
+        {
+          "en": "The columnist continued to ______ against corruption in local government.",
+          "zh": "這位專欄作家持續猛烈抨擊地方政府的貪腐問題。"
+        },
+        {
+          "en": "He would often ______ against what he saw as unfair taxation.",
+          "zh": "他常常痛罵他認為不公平的稅制。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "24",
+        "spelling": "in",
+        "meaning": "在⋯⋯裡面"
+      }
+    },
+    {
+      "word": "invent",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to create something new:",
+      "defn_zh": "發明",
+      "root_note": "in- (in) + venire (to come)",
+      "sentences": [
+        {
+          "en": "Thomas Edison ______ the incandescent light bulb.",
+          "zh": "湯瑪斯·愛迪生發明了白熾燈泡。"
+        },
+        {
+          "en": "Children often ______ imaginary games to play with their siblings.",
+          "zh": "孩子們常常發明想像遊戲和兄弟姊妹一起玩。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "24",
+        "spelling": "in",
+        "meaning": "在⋯⋯裡面"
+      }
+    },
+    {
+      "word": "inventive",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "having the ability to create new things or ideas; creative and original:",
+      "defn_zh": "有創造力的/善於創新的",
+      "root_note": "in- (in) + venire (to come)",
+      "sentences": [
+        {
+          "en": "The ______ designer introduced new ideas that transformed the industry.",
+          "zh": "這位富有創意的設計師提出新穎的構想,徹底改變了整個產業。"
+        },
+        {
+          "en": "Her ______ solutions to everyday problems earned her a promotion.",
+          "zh": "她針對日常問題提出的創新解決方案,讓她獲得了升遷。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "24",
+        "spelling": "in",
+        "meaning": "在⋯⋯裡面"
+      }
+    },
+    {
+      "word": "investigation",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "systematic inquiries to uncover facts:",
+      "defn_zh": "調查",
+      "root_note": "in- (in) + vestigare (to track)",
+      "sentences": [
+        {
+          "en": "The police conducted a thorough ______ of the crime scene.",
+          "zh": "警方對犯罪現場進行了徹底的調查。"
+        },
+        {
+          "en": "The company launched an internal ______ into the allegations.",
+          "zh": "這家公司針對這些指控展開了內部調查。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "24",
+        "spelling": "in",
+        "meaning": "在⋯⋯裡面"
+      }
+    },
+    {
+      "word": "investment",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "the action of putting money into something for future benefit:",
+      "defn_zh": "投資",
+      "root_note": "in- (into) + vestire (to clothe), from Latin",
+      "sentences": [
+        {
+          "en": "Real estate remains a popular long-term ______ .",
+          "zh": "房地產仍是一種受歡迎的長期投資。"
+        },
+        {
+          "en": "The company made a significant ______ in renewable energy.",
+          "zh": "這家公司對再生能源進行了大量投資。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "24",
+        "spelling": "in",
+        "meaning": "在⋯⋯裡面"
+      }
+    },
+    {
+      "word": "inveterate",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "habitual, firmly established:",
+      "defn_zh": "根深蒂固的/積習的",
+      "root_note": "in- (in) + vetus (old)",
+      "sentences": [
+        {
+          "en": "He is an ______ gambler who can't resist a bet.",
+          "zh": "他是個積習難改的賭徒,無法抗拒下注的誘惑。"
+        },
+        {
+          "en": "Her grandmother was an ______ storyteller, always ready with a tale.",
+          "zh": "她的祖母是個說故事成癮的人,總是隨時準備好講一個故事。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "24",
+        "spelling": "in",
+        "meaning": "在⋯⋯裡面"
+      }
+    },
+    {
+      "word": "invigorate",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to give strength or energy to:",
+      "defn_zh": "使充滿活力;振奮",
+      "root_note": "in- (into) + vigor (strength), from Latin",
+      "sentences": [
+        {
+          "en": "A cold shower can ______ you first thing in the morning.",
+          "zh": "一場冷水澡能在早晨第一時間讓你精神振奮。"
+        },
+        {
+          "en": "The team's win seemed to ______ the entire town.",
+          "zh": "這支隊伍的勝利似乎讓整座小鎮充滿了活力。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "24",
+        "spelling": "in",
+        "meaning": "在⋯⋯裡面"
+      }
+    },
+    {
+      "word": "invigorating",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "making one feel stronger and more energetic:",
+      "defn_zh": "令人精神振奮的",
+      "root_note": "in- (into) + vigor (strength), from Latin",
+      "sentences": [
+        {
+          "en": "The mountain air felt wonderfully ______ .",
+          "zh": "山間的空氣讓人感到十分振奮清爽。"
+        },
+        {
+          "en": "She found the debate ______ rather than exhausting.",
+          "zh": "她覺得這場辯論令人振奮,而非疲憊。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "24",
+        "spelling": "in",
+        "meaning": "在⋯⋯裡面"
+      }
+    },
+    {
+      "word": "involve",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to include as a necessary part or consequence:",
+      "defn_zh": "包含;牽涉",
+      "root_note": "in- (in) + volvo (roll), from Latin",
+      "sentences": [
+        {
+          "en": "The project will ______ collaboration between three different departments.",
+          "zh": "這項計畫將牽涉到三個不同部門之間的合作。"
+        },
+        {
+          "en": "She didn't want to ______ her family in the legal dispute.",
+          "zh": "她不想讓她的家人牽涉進這場法律糾紛。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "24",
+        "spelling": "in",
+        "meaning": "在⋯⋯裡面"
+      }
+    },
+    {
+      "word": "reincarnation",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a second or new birth:",
+      "defn_zh": "輪迴轉世",
+      "root_note": "re- (again) + in- (in) + caro, carnis (flesh)",
+      "sentences": [
+        {
+          "en": "Many Hindus and Buddhists believe in ______ as part of the soul's journey.",
+          "zh": "許多印度教徒和佛教徒相信輪迴轉世是靈魂旅程的一部分。"
+        },
+        {
+          "en": "She jokingly claimed to be the ______ of a famous painter from centuries ago.",
+          "zh": "她開玩笑地聲稱自己是幾世紀前一位知名畫家轉世投胎。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "24",
+        "spelling": "in",
+        "meaning": "在⋯⋯裡面"
+      }
+    }
+  ],
+  "family_options": {},
+  "fallback_options": {
+    "v.": [
+      {
+        "word": "abound",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to exist in great numbers:",
+        "defn_zh": "充滿"
+      },
+      {
+        "word": "abrogate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to deprive of legal force, to nullify:=abolish",
+        "defn_zh": "廢除/取消"
+      },
+      {
+        "word": "abjure",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to renounce, abstain from:",
+        "defn_zh": "發誓放棄/棄絕"
+      },
+      {
+        "word": "abbreviate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to shorten a word or phrase:",
+        "defn_zh": "縮寫;縮短"
+      },
+      {
+        "word": "abdicate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to give up a position, usually one of leadership:",
+        "defn_zh": "退位/放棄(職位)"
+      },
+      {
+        "word": "abduct",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to kidnap, take by force:",
+        "defn_zh": "綁架/劫持"
+      },
+      {
+        "word": "abhor",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to regard with disgust and hatred:",
+        "defn_zh": "憎惡/厭惡"
+      },
+      {
+        "word": "abnegate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to deny or renounce:",
+        "defn_zh": "放棄/克制"
+      },
+      {
+        "word": "abolish",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to formally put an end to a system, practice, or institution:",
+        "defn_zh": "廢除"
+      },
+      {
+        "word": "abort",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to give up on a half-finished project or effort:",
+        "defn_zh": "中止/放棄"
+      },
+      {
+        "word": "abrade",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to scrape or wear away by friction:",
+        "defn_zh": "磨損;擦傷"
+      },
+      {
+        "word": "abscond",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to sneak away and hide:",
+        "defn_zh": "潛逃/逃匿"
+      }
+    ],
+    "adj.": [
+      {
+        "word": "abortive",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "fruitless, failing:",
+        "defn_zh": "失敗的/夭折的"
+      },
+      {
+        "word": "abstemious",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "moderate in eating or drinking:",
+        "defn_zh": "飲食有節制的"
+      },
+      {
+        "word": "abhorrent",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "detestable, despised:",
+        "defn_zh": "令人厭惡的"
+      },
+      {
+        "word": "absurd",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "ridiculous:",
+        "defn_zh": "荒謬的"
+      },
+      {
+        "word": "aberrant",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "deviating from what is normal or expected:",
+        "defn_zh": "異常的;脫軌的"
+      },
+      {
+        "word": "abject",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "wretched, pitiful:",
+        "defn_zh": "卑賤的/淒慘的"
+      },
+      {
+        "word": "abominable",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "causing moral revulsion; extremely unpleasant:",
+        "defn_zh": "可憎的;惡劣的"
+      },
+      {
+        "word": "abounding",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "existing in large numbers or amounts:",
+        "defn_zh": "大量存在的;豐富的"
+      },
+      {
+        "word": "abrasive",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "showing little concern for others; harsh:",
+        "defn_zh": "粗暴的/刺耳的"
+      },
+      {
+        "word": "abrupt",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "sudden or unexpected; brief and curt in manner:",
+        "defn_zh": "突然的/唐突的"
+      },
+      {
+        "word": "abstract",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "existing purely in the mind; not representing actual reality:",
+        "defn_zh": "抽象的"
+      },
+      {
+        "word": "abstruse",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "hard to comprehend:",
+        "defn_zh": "深奧難懂的"
+      }
+    ],
+    "n.": [
+      {
+        "word": "aversion",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "strong dislike, opposition:",
+        "defn_zh": "厭惡/反感"
+      },
+      {
+        "word": "aberration",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "something that differs from the norm:",
+        "defn_zh": "異常/脫軌"
+      },
+      {
+        "word": "abjection",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a state of complete misery, hopelessness, or degradation:",
+        "defn_zh": "卑賤;悲慘狀態"
+      },
+      {
+        "word": "abjuration",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the solemn renunciation of a belief, cause, or claim:",
+        "defn_zh": "公開放棄;誓絕"
+      },
+      {
+        "word": "ablution",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the act of washing oneself, especially as part of a religious ritual:",
+        "defn_zh": "沐浴;淨身儀式"
+      },
+      {
+        "word": "abnegation",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "denial of comfort to oneself:",
+        "defn_zh": "自我克制/放棄"
+      },
+      {
+        "word": "abomination",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "something that causes disgust or hatred:",
+        "defn_zh": "可憎之事;令人厭惡的東西"
+      },
+      {
+        "word": "abridgement",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a shortened version of a book or other written work:",
+        "defn_zh": "節略本;縮減版"
+      },
+      {
+        "word": "absolution",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "freedom from blame, guilt, sin:",
+        "defn_zh": "赦免/免罪"
+      },
+      {
+        "word": "abstemiousness",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "moderation or self-restraint, especially in eating and drinking:",
+        "defn_zh": "節制;克己"
+      },
+      {
+        "word": "abstinence",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the practice of restraining oneself from something enjoyable, especially food, alcohol, or sex:",
+        "defn_zh": "節制;戒絕"
+      },
+      {
+        "word": "avocation",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a hobby or minor occupation apart from one's main career:",
+        "defn_zh": "副業;業餘愛好"
+      }
+    ],
+    "adv.": [
+      {
+        "word": "accordingly",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in a manner that fits the circumstances; consequently:",
+        "defn_zh": "相應地;因此"
+      },
+      {
+        "word": "inadvertently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "unintentionally or by accident:",
+        "defn_zh": "無意間/不小心地"
+      },
+      {
+        "word": "consequently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "as a result; therefore:",
+        "defn_zh": "因此;結果"
+      },
+      {
+        "word": "contemptuously",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "without respect; in a disdainful manner:",
+        "defn_zh": "輕蔑地"
+      },
+      {
+        "word": "involuntarily",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "done without conscious control:",
+        "defn_zh": "不由自主地"
+      },
+      {
+        "word": "cordially",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in a warm or friendly manner:",
+        "defn_zh": "誠摯地/友好地"
+      },
+      {
+        "word": "ipso facto",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "by that very fact or act:",
+        "defn_zh": "事實上;因此"
+      },
+      {
+        "word": "en passant",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in passing; incidentally:",
+        "defn_zh": "順帶一提地;偶然地"
+      },
+      {
+        "word": "regardless",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "despite the prevailing circumstances; without being deterred:",
+        "defn_zh": "不管怎樣;儘管如此"
+      },
+      {
+        "word": "subsequently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "afterward; following in time or order:",
+        "defn_zh": "隨後;其後"
+      },
+      {
+        "word": "aside",
+        "pos": "adv./n.",
+        "pos_key": "adv.",
+        "defn_en": "to or on one side; a remark not meant to be heard by everyone:",
+        "defn_zh": "在旁邊;旁白"
+      },
+      {
+        "word": "vice versa",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "with the order or meaning reversed; conversely:",
+        "defn_zh": "反之亦然"
+      }
+    ],
+    "other": [
+      {
+        "word": "（此批單字中，暫無符合此字根/字首的單字）",
+        "pos": "",
+        "pos_key": "other",
+        "defn_en": "",
+        "defn_zh": ""
+      }
+    ],
+    "prep./adv.": [
+      {
+        "word": "besides",
+        "pos": "prep./adv.",
+        "pos_key": "prep./adv.",
+        "defn_en": "in addition to; furthermore:",
+        "defn_zh": "除...之外;此外"
+      }
+    ],
+    "phrasalv.": [
+      {
+        "word": "egg on",
+        "pos": "phrasal v.",
+        "pos_key": "phrasalv.",
+        "defn_en": "to encourage someone to do something, often risky:",
+        "defn_zh": "慫恿;鼓動"
+      }
+    ],
+    "abbr.": [
+      {
+        "word": "etc.",
+        "pos": "abbr.",
+        "pos_key": "abbr.",
+        "defn_en": "and other similar things (abbreviation of et cetera):",
+        "defn_zh": "等等(et cetera的縮寫)"
+      }
+    ],
+    "interj.": [
+      {
+        "word": "fiddledeedee",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "an exclamation expressing dismissal of something as nonsense:",
+        "defn_zh": "廢話!(表示不屑一顧)"
+      },
+      {
+        "word": "gesundheit",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "an expression said to someone who has just sneezed:",
+        "defn_zh": "保重(打噴嚏後的祝福語)"
+      }
+    ],
+    "prep.": [
+      {
+        "word": "via",
+        "pos": "prep.",
+        "pos_key": "prep.",
+        "defn_en": "by way of; passing through:",
+        "defn_zh": "經由;透過"
+      }
+    ]
+  }
+}
