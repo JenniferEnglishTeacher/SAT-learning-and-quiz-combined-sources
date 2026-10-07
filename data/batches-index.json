@@ -4,7 +4,7 @@
     "total_batches": 235,
     "part1_part2_batches": 158,
     "unclassified_batches": 77,
-    "generated_batches": 48
+    "generated_batches": 49
   },
   "batches": [
     {
@@ -702,10 +702,10 @@
       "part": "part1",
       "part_label": "Part 1 字首篇 (Prefixes)",
       "name": "tri",
-      "subtitle": "三",
-      "count": 4,
-      "generated": false,
-      "search_terms": "trivial trinomial tripod triumvir"
+      "subtitle": "三；三個",
+      "count": 16,
+      "generated": true,
+      "search_terms": "trivial trinomial tripod triumvir triumvirate trilateral trifling tripartite trinity tribulation tricolor trident triennial trilogy trigonometry trisect"
     },
     {
       "id": "p1-50-twi",

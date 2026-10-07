@@ -1,0 +1,216 @@
+{
+  "id": "p1-49-tri",
+  "merge_with_source": true,
+  "name": "tri",
+  "subtitle": "三；三個",
+  "words": [
+    {
+      "word": "trivial", "pos": "adj.", "pos_key": "adj.",
+      "defn_en": "of little importance, seriousness, or value:",
+      "defn_zh": "瑣碎的；微不足道的",
+      "synonyms": ["insignificant", "minor", "petty", "negligible"],
+      "antonyms": ["important", "significant", "serious", "momentous"],
+      "root_note": "tri- (three) + via (way), originally referring to the three-way crossroads",
+      "sentences": [
+        {"en": "Do not waste time arguing over such a ______ matter.", "zh": "別浪費時間為這種瑣碎小事爭吵。"},
+        {"en": "The mistake was ______ and could be corrected within minutes.", "zh": "這個錯誤微不足道，幾分鐘內就能修正。"}
+      ],
+      "category": {"part": 1, "num": "49", "spelling": "tri", "meaning": "三；三個"}
+    },
+    {
+      "word": "trinomial", "pos": "n./adj.", "pos_key": "n.",
+      "defn_en": "an expression of three terms, or relating to a naming system that uses three names:",
+      "defn_zh": "三項式；三項式的；三名法的",
+      "synonyms": ["three-term expression", "three-name designation"],
+      "antonyms": ["monomial", "binomial", "single-term expression"],
+      "root_note": "tri- (three) + nomen (name or term), from Latin",
+      "sentences": [
+        {"en": "Students practiced factoring a ______ expression during algebra class.", "zh": "學生在代數課上練習分解三項式。"},
+        {"en": "Biologists sometimes use ______ nomenclature to identify a particular subspecies.", "zh": "生物學家有時使用三名法識別特定亞種。"}
+      ],
+      "category": {"part": 1, "num": "49", "spelling": "tri", "meaning": "三；三個"}
+    },
+    {
+      "word": "tripod", "pos": "n.", "pos_key": "n.",
+      "defn_en": "a three-legged stand used to support a camera or other equipment:",
+      "defn_zh": "三腳架",
+      "synonyms": ["three-legged stand", "camera stand", "support stand"],
+      "antonyms": ["handheld support", "single-leg monopod"],
+      "root_note": "tri- (three) + pod (foot)",
+      "sentences": [
+        {"en": "He mounted the camera on a sturdy ______ for the long-exposure photograph.", "zh": "他把相機架在穩固的三腳架上，以拍攝長時間曝光照片。"},
+        {"en": "The photographer folded her ______ after the outdoor shoot ended.", "zh": "戶外拍攝結束後，攝影師收起了三腳架。"}
+      ],
+      "category": {"part": 1, "num": "49", "spelling": "tri", "meaning": "三；三個"}
+    },
+    {
+      "word": "triumvir", "pos": "n.", "pos_key": "n.",
+      "defn_en": "one of three officials or leaders who share power, especially in ancient Rome:",
+      "defn_zh": "三人執政官之一",
+      "synonyms": ["co-ruler", "member of a ruling triad", "three-man commissioner"],
+      "antonyms": ["sole ruler", "autocrat", "monarch"],
+      "root_note": "tri- (three) + vir (man), from Latin",
+      "sentences": [
+        {"en": "Each ______ controlled a different region of the Roman territory.", "zh": "每一位三人執政官都控制羅馬領土的不同區域。"},
+        {"en": "Historians debate which ______ possessed the greatest practical power.", "zh": "歷史學家爭論哪一位三人執政官擁有最大的實際權力。"}
+      ],
+      "category": {"part": 1, "num": "49", "spelling": "tri", "meaning": "三；三個"}
+    },
+    {
+      "word": "triumvirate", "pos": "n.", "pos_key": "n.",
+      "defn_en": "a group of three powerful people who share control of a government, business, or organization:",
+      "defn_zh": "三頭政治；三人執政團；三巨頭",
+      "synonyms": ["trio", "triumviry", "ruling triad"],
+      "antonyms": ["monarchy", "autocracy", "single leadership"],
+      "root_note": "tri- (three) + vir (man) + -ate (group or office)",
+      "sentences": [
+        {"en": "Caesar, Pompey, and Crassus formed a powerful ______ that controlled Roman politics.", "zh": "凱撒、龐培和克拉蘇組成了一個強大的三人執政團，控制羅馬政局。"},
+        {"en": "After the CEO retired, an executive ______ consisting of three senior officers managed the company.", "zh": "執行長退休後，公司由三位高階主管組成的管理三巨頭共同經營。"}
+      ],
+      "category": {"part": 1, "num": "49", "spelling": "tri", "meaning": "三；三個"}
+    },
+    {
+      "word": "trilateral", "pos": "adj.", "pos_key": "adj.",
+      "defn_en": "involving three separate groups, parties, or nations:",
+      "defn_zh": "三邊的；三方參與的",
+      "synonyms": ["tripartite", "three-sided", "triangular"],
+      "antonyms": ["unilateral", "bilateral", "multilateral"],
+      "root_note": "tri- (three) + lateral (side)",
+      "sentences": [
+        {"en": "The neighboring countries signed a ______ trade agreement to reduce tariffs.", "zh": "這三個鄰國簽署了一項三邊貿易協定，以降低關稅。"},
+        {"en": "Diplomats spent months arranging the ______ summit among the three rival powers.", "zh": "外交官花了數月安排三個對立強國之間的三方峰會。"}
+      ],
+      "category": {"part": 1, "num": "49", "spelling": "tri", "meaning": "三；三個"}
+    },
+    {
+      "word": "trifling", "pos": "adj.", "pos_key": "adj.",
+      "defn_en": "unimportant, insignificant, or of very little value:",
+      "defn_zh": "微不足道的；瑣碎的；無足輕重的",
+      "synonyms": ["trivial", "paltry", "insignificant", "frivolous"],
+      "antonyms": ["significant", "momentous", "substantial", "crucial"],
+      "root_note": "trifle (something of little value) + -ing",
+      "sentences": [
+        {"en": "The judge dismissed the lawsuit as a ______ matter that should not waste the court's time.", "zh": "法官認為這是一件不該浪費法庭時間的微不足道小事，因而駁回訴訟。"},
+        {"en": "Although each bank fee seemed ______, together they became a substantial annual expense.", "zh": "雖然每筆銀行手續費看似微不足道，加起來卻成為可觀的年度開銷。"}
+      ],
+      "category": {"part": 1, "num": "49", "spelling": "tri", "meaning": "三；三個"}
+    },
+    {
+      "word": "tripartite", "pos": "adj.", "pos_key": "adj.",
+      "defn_en": "consisting of three distinct parts or shared by three parties:",
+      "defn_zh": "由三部分組成的；三分的；三方的",
+      "synonyms": ["threefold", "trilateral", "ternary"],
+      "antonyms": ["uniform", "monolithic", "unitary"],
+      "root_note": "tri- (three) + part (division) + -ite",
+      "sentences": [
+        {"en": "The constitution created a ______ system of executive, legislative, and judicial authority.", "zh": "憲法建立了由行政、立法和司法權組成的三分體制。"},
+        {"en": "The lawyers drafted a ______ agreement among the landlord, tenant, and guarantor.", "zh": "律師起草了房東、租客與擔保人之間的三方協議。"}
+      ],
+      "category": {"part": 1, "num": "49", "spelling": "tri", "meaning": "三；三個"}
+    },
+    {
+      "word": "trinity", "pos": "n.", "pos_key": "n.",
+      "defn_en": "a group of three closely linked people or things treated as one unit:",
+      "defn_zh": "三位一體；三人一組；三聯體",
+      "synonyms": ["triad", "trio", "threesome", "trilogy"],
+      "antonyms": ["singularity", "individual", "single entity"],
+      "root_note": "tri- (three) + -nity (state or condition)",
+      "sentences": [
+        {"en": "The franchise relies on its famous ______ of heroes: Superman, Batman, and Wonder Woman.", "zh": "這個系列作品仰賴其著名的英雄三巨頭：超人、蝙蝠俠和神奇女俠。"},
+        {"en": "A balanced diet, regular exercise, and sufficient sleep form a ______ of physical health.", "zh": "均衡飲食、規律運動和充足睡眠構成身體健康的三項一體要素。"}
+      ],
+      "category": {"part": 1, "num": "49", "spelling": "tri", "meaning": "三；三個"}
+    },
+    {
+      "word": "tribulation", "pos": "n.", "pos_key": "n.",
+      "defn_en": "a cause or period of great trouble, suffering, or distress:",
+      "defn_zh": "苦難；艱難；磨難",
+      "synonyms": ["adversity", "hardship", "suffering", "affliction"],
+      "antonyms": ["prosperity", "blessing", "joy", "comfort"],
+      "root_note": "tribulare (to oppress or afflict), from Latin",
+      "sentences": [
+        {"en": "The author explained how each early ______ inspired a chapter of her award-winning novel.", "zh": "這位作家說明她早年的每次磨難如何啟發獎項小說的章節。"},
+        {"en": "The polar expedition endured one ______ after another, including blizzards and severe frostbite.", "zh": "極地探險隊經歷了一場又一場苦難，包括暴風雪與嚴重凍傷。"}
+      ],
+      "category": {"part": 1, "num": "49", "spelling": "tri", "meaning": "三；三個"}
+    },
+    {
+      "word": "tricolor", "pos": "n.", "pos_key": "n.",
+      "defn_en": "a flag or design with three colors, often arranged in equal bands:",
+      "defn_zh": "三色旗；三色設計",
+      "synonyms": ["three-color flag", "three-colored design"],
+      "antonyms": ["monochrome", "single-color design"],
+      "root_note": "tri- (three) + color",
+      "sentences": [
+        {"en": "The guide pointed to the French ______ flying above the government building.", "zh": "導遊指著政府大樓上方飄揚的法國三色旗。"},
+        {"en": "The new athletic uniform features a sleek ______ of red, white, and navy blue.", "zh": "新運動服採用紅、白與深藍色組成的時尚三色設計。"}
+      ],
+      "category": {"part": 1, "num": "49", "spelling": "tri", "meaning": "三；三個"}
+    },
+    {
+      "word": "trident", "pos": "n.", "pos_key": "n.",
+      "defn_en": "a long spear with three sharp prongs, traditionally associated with sea gods:",
+      "defn_zh": "三叉戟",
+      "synonyms": ["three-pronged spear", "three-tined spear"],
+      "antonyms": ["javelin", "single-pointed spear"],
+      "root_note": "tri- (three) + dent (tooth)",
+      "sentences": [
+        {"en": "The marble statue depicts Poseidon holding a massive iron ______.", "zh": "這尊大理石雕像描繪波塞頓手持巨大鐵製三叉戟。"},
+        {"en": "The gladiator wielded a steel ______ and a fishing net to trap his opponents.", "zh": "角鬥士揮舞鋼製三叉戟和漁網來困住對手。"}
+      ],
+      "category": {"part": 1, "num": "49", "spelling": "tri", "meaning": "三；三個"}
+    },
+    {
+      "word": "triennial", "pos": "adj.", "pos_key": "adj.",
+      "defn_en": "happening once every three years or lasting for three years:",
+      "defn_zh": "每三年一次的；三年期的",
+      "synonyms": ["three-yearly", "three-year"],
+      "antonyms": ["annual", "biennial", "yearly"],
+      "root_note": "tri- (three) + enn (year) + -ial",
+      "sentences": [
+        {"en": "The city hosts a prestigious ______ art exhibition that returns every third year.", "zh": "這座城市舉辦享譽卓著的三年一度藝術展。"},
+        {"en": "The board reviewed the company's ______ report to assess progress since 2023.", "zh": "董事會審查公司的三年期報告，以評估自 2023 年以來的進展。"}
+      ],
+      "category": {"part": 1, "num": "49", "spelling": "tri", "meaning": "三；三個"}
+    },
+    {
+      "word": "trilogy", "pos": "n.", "pos_key": "n.",
+      "defn_en": "a group of three related books, films, plays, or operas sharing a story or theme:",
+      "defn_zh": "三部曲",
+      "synonyms": ["three-part series", "set of three works"],
+      "antonyms": ["single volume", "standalone work"],
+      "root_note": "tri- (three) + logos (story or work)",
+      "sentences": [
+        {"en": "He spent the weekend watching every film in the famous science-fiction ______.", "zh": "他花了整個週末觀看這部著名科幻三部曲的所有電影。"},
+        {"en": "The author announced that her next novel would complete the historical ______.", "zh": "作家宣布下一部小說將為這套歷史三部曲畫上句點。"}
+      ],
+      "category": {"part": 1, "num": "49", "spelling": "tri", "meaning": "三；三個"}
+    },
+    {
+      "word": "trigonometry", "pos": "n.", "pos_key": "n.",
+      "defn_en": "the branch of mathematics dealing with relationships among the sides and angles of triangles:",
+      "defn_zh": "三角學；三角函數",
+      "synonyms": ["triangle mathematics", "angular calculation"],
+      "antonyms": ["basic arithmetic", "elementary counting"],
+      "root_note": "tri- (three) + gon (angle) + metry (measurement)",
+      "sentences": [
+        {"en": "Students study ______ to calculate a building's height from measured angles.", "zh": "學生學習三角學，以便利用測得的角度計算建築物高度。"},
+        {"en": "Navigation software uses spherical ______ to plot flight paths around the globe.", "zh": "導航軟體利用球面三角學規劃環球飛行航線。"}
+      ],
+      "category": {"part": 1, "num": "49", "spelling": "tri", "meaning": "三；三個"}
+    },
+    {
+      "word": "trisect", "pos": "v.", "pos_key": "v.",
+      "defn_en": "to cut or divide something into exactly three equal parts:",
+      "defn_zh": "把…分成三等分；三等分",
+      "synonyms": ["divide into three", "partition into thirds"],
+      "antonyms": ["bisect", "unify", "combine"],
+      "root_note": "tri- (three) + sect (cut)",
+      "sentences": [
+        {"en": "The teacher showed the class how to ______ a ninety-degree angle into three equal angles.", "zh": "老師向全班展示如何將九十度角三等分成三個相等的角。"},
+        {"en": "The developer planned to ______ the estate into three equal housing lots.", "zh": "開發商計畫將這片土地三等分為三塊相同的住宅用地。"}
+      ],
+      "category": {"part": 1, "num": "49", "spelling": "tri", "meaning": "三；三個"}
+    }
+  ]
+}

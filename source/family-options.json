@@ -369,5 +369,16 @@
         "derived_from": "hypoxia"
       }
     ]
+  },
+  "p1-49-tri": {
+    "v.": [
+      {
+        "word": "trivialize",
+        "pos": "v.",
+        "defn_en": "to make something seem less important, serious, or difficult than it really is:",
+        "defn_zh": "使顯得瑣碎；輕視",
+        "derived_from": "trivial"
+      }
+    ]
   }
 }
