@@ -326,5 +326,30 @@
         "derived_from": "teleconference"
       }
     ]
+  },
+  "p1-21-hyper": {
+    "v.": [
+      {
+        "word": "hypertrophy",
+        "pos": "v.",
+        "defn_en": "to grow or cause tissue to grow excessively in size:",
+        "defn_zh": "使肥大；過度增長",
+        "derived_from": "hypertrophy"
+      },
+      {
+        "word": "hyperbolize",
+        "pos": "v.",
+        "defn_en": "to use hyperbole or exaggerate greatly:",
+        "defn_zh": "使用誇張法；極度誇大",
+        "derived_from": "hyperbole"
+      },
+      {
+        "word": "sensitize",
+        "pos": "v.",
+        "defn_en": "to make someone or something more sensitive or responsive:",
+        "defn_zh": "使敏感；使易感受",
+        "derived_from": "hypersensitive"
+      }
+    ]
   }
 }
