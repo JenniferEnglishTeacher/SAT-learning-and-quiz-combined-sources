@@ -1,0 +1,1480 @@
+{
+  "id": "p1-23-im",
+  "part": "part1",
+  "part_label": "Part 1 字首篇 (Prefixes)",
+  "name": "im",
+  "subtitle": "not / opposite；in / into / upon（兩組各 15 字）",
+  "count": 30,
+  "words": [
+    {
+      "word": "impeccable",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "Completely flawless; perfect and free from any faults or mistakes (Not capable of sinning/fault):",
+      "defn_zh": "無懈可擊的、完美的、無瑕疵的",
+      "synonyms": [
+        "Flawless",
+        "faultless",
+        "exemplary"
+      ],
+      "antonyms": [
+        "Flawed",
+        "defective",
+        "imperfect"
+      ],
+      "root_note": "im- (not / opposite（否定、相反）)",
+      "section": "im- = not / opposite（否定、相反）",
+      "sentences": [
+        {
+          "en": "The luxury hotel was praised for its ______ service, as every waiter anticipated the guests' needs without delay.",
+          "zh": "這家奢華酒店因其無懈可擊的服務而受到讚賞，每位服務生都能毫不延誤地預期賓客的需求。"
+        },
+        {
+          "en": "She spoke English with an ______ accent, leaving no doubt that she had studied the language for decades.",
+          "zh": "她以完美無瑕的口音說著英語，毫無疑問她已經研究這門語言數十年了。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "23",
+        "spelling": "im",
+        "meaning": "not / opposite（否定、相反）"
+      }
+    },
+    {
+      "word": "implacable",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "Unable to be placated, calmed, or appeased; relentless and unstoppable in hostility (Not placable):",
+      "defn_zh": "無法平息的、冷酷無情的、強硬無比的",
+      "synonyms": [
+        "Relentless",
+        "unappeasable",
+        "inexorable"
+      ],
+      "antonyms": [
+        "Forgiving",
+        "merciful",
+        "yielding"
+      ],
+      "root_note": "im- (not / opposite（否定、相反）)",
+      "section": "im- = not / opposite（否定、相反）",
+      "sentences": [
+        {
+          "en": "The two warring families remained ______ foes, refusing to open a peace dialogue despite interventions from the king.",
+          "zh": "這兩個交戰家族依舊是無法和解的死敵，儘管有國王的干預，他們仍拒絕展開和平對話。"
+        },
+        {
+          "en": "The army fell back before the ______ advance of the enemy's heavy armored tank division.",
+          "zh": "在敵方重裝甲坦克部隊勢不可擋的（冷酷無情的）推進面前，軍隊步步後退。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "23",
+        "spelling": "im",
+        "meaning": "not / opposite（否定、相反）"
+      }
+    },
+    {
+      "word": "immutable",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "Unchanging over time or unable to be changed or altered (Not mutable):",
+      "defn_zh": "不變的、不可變的、恆久的",
+      "synonyms": [
+        "Unchangeable",
+        "unalterable",
+        "permanent"
+      ],
+      "antonyms": [
+        "Mutable",
+        "fickle",
+        "variable"
+      ],
+      "root_note": "im- (not / opposite（否定、相反）)",
+      "section": "im- = not / opposite（否定、相反）",
+      "sentences": [
+        {
+          "en": "The scientist explained that gravity operates under ______ laws of nature that apply across the entire universe.",
+          "zh": "科學家解釋說，萬有引力是根據適用於整個宇宙的恆久不變的自然規律運作的。"
+        },
+        {
+          "en": "While society evolves, the board of directors treats the company's core ethical constitution as an ______ contract.",
+          "zh": "儘管社會在演變，董事會仍將公司的核心道德章程視為一項不可更改的契約。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "23",
+        "spelling": "im",
+        "meaning": "not / opposite（否定、相反）"
+      }
+    },
+    {
+      "word": "impecunious",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "Having little or no money; chronically poor or penniless (Not having money):",
+      "defn_zh": "貧困的、沒錢的",
+      "synonyms": [
+        "Penniless",
+        "impoverished",
+        "destitute"
+      ],
+      "antonyms": [
+        "Wealthy",
+        "affluent",
+        "opulent"
+      ],
+      "root_note": "im- (not / opposite（否定、相反）)",
+      "section": "im- = not / opposite（否定、相反）",
+      "sentences": [
+        {
+          "en": "During his early years as an ______ artist in Paris, he often skipped meals to afford oil paints.",
+          "zh": "在巴黎當貧困藝術家的早年歲月裡，他經常為了買得起油畫顏料而省去餐點。"
+        },
+        {
+          "en": "The novel centers on an ______ aristocrat who must marry a wealthy merchant's daughter to save his family estate.",
+          "zh": "這部小說圍繞著一位落魄（沒錢的）貴族展開，他必須娶一位富商的女兒以挽救家族莊園。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "23",
+        "spelling": "im",
+        "meaning": "not / opposite（否定、相反）"
+      }
+    },
+    {
+      "word": "improvident",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "Lacking foresight; thoughtless or spendthrift, failing to plan wisely or save money for the future (Not provident):",
+      "defn_zh": "揮霍的、無遠見的、不留後路的",
+      "synonyms": [
+        "Spendthrift",
+        "short-sighted",
+        "prodigal"
+      ],
+      "antonyms": [
+        "Provident",
+        "thrifty",
+        "prudent"
+      ],
+      "root_note": "im- (not / opposite（否定、相反）)",
+      "section": "im- = not / opposite（否定、相反）",
+      "sentences": [
+        {
+          "en": "The young heir's ______ spending habits quickly depleted the massive fortune left by his grandfather.",
+          "zh": "這位年輕繼承人揮霍無度的消費習慣，很快就耗光了祖父留下了巨額財富。"
+        },
+        {
+          "en": "It was highly ______ of the travelers to head into the remote winter hills without checking the weather alerts.",
+          "zh": "旅人們在未查看天氣警報的情況下就前往偏遠的冬山，這真是一種極其缺乏遠見（輕率）的行為。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "23",
+        "spelling": "im",
+        "meaning": "not / opposite（否定、相反）"
+      }
+    },
+    {
+      "word": "immaterial",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "Unimportant under the circumstances; irrelevant to a subject (Not material/not relevant):",
+      "defn_zh": "不重要的、無關緊要的、非物質的",
+      "synonyms": [
+        "Irrelevant",
+        "extraneous",
+        "inconsequential"
+      ],
+      "antonyms": [
+        "Material",
+        "relevant",
+        "essential"
+      ],
+      "root_note": "im- (not / opposite（否定、相反）)",
+      "section": "im- = not / opposite（否定、相反）",
+      "sentences": [
+        {
+          "en": "The judge sustained the objection, ruling that the witness's personal hobbies were entirely ______ to the criminal case.",
+          "zh": "法官確認反對有效，裁定證人的個人愛好與這起刑事案件完全無關（不重要）。"
+        },
+        {
+          "en": "Whether the office supplies cost a few dollars more or less is ______ given our multimillion-dollar corporate revenue.",
+          "zh": "鑑於我們數百萬美元的公司營收，辦公用品的成本多幾美元或少幾美元都是微不足道的。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "23",
+        "spelling": "im",
+        "meaning": "not / opposite（否定、相反）"
+      }
+    },
+    {
+      "word": "impassive",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "Not feeling or showing emotion; calm and expressionless (Not sensitive/feeling):",
+      "defn_zh": "冷漠的、無動於衷的、面無表情的",
+      "synonyms": [
+        "Expressionless",
+        "phlegmatic",
+        "stoic",
+        "wooden"
+      ],
+      "antonyms": [
+        "Emotional",
+        "expressive",
+        "demonstrative"
+      ],
+      "root_note": "im- (not / opposite（否定、相反）)",
+      "section": "im- = not / opposite（否定、相反）",
+      "sentences": [
+        {
+          "en": "The professional gambler kept an ______ face, making it impossible for his rivals to guess his card strength.",
+          "zh": "這位專業賭徒保持著面無表情的神態，讓對手根本無法猜測他的牌力。"
+        },
+        {
+          "en": "She listened to the tragic news with an ______ expression, hiding her internal grief from her teammates.",
+          "zh": "她以冷漠（無動於衷）的表情聽著這個悲慘的消息，向隊友隱瞞了她內心的悲痛。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "23",
+        "spelling": "im",
+        "meaning": "not / opposite（否定、相反）"
+      }
+    },
+    {
+      "word": "implausible",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "Not seeming reasonable or probable; failing to convince (Not plausible):",
+      "defn_zh": "難以置信的、不合情理的",
+      "synonyms": [
+        "Unlikely",
+        "improbable",
+        "far-fetched",
+        "incredible"
+      ],
+      "antonyms": [
+        "Plausible",
+        "believable",
+        "convincing"
+      ],
+      "root_note": "im- (not / opposite（否定、相反）)",
+      "section": "im- = not / opposite（否定、相反）",
+      "sentences": [
+        {
+          "en": "The suspect's excuse that he was abducted by aliens during the robbery was highly ______.",
+          "zh": "嫌疑人藉口說他在案發時被外星人綁架，這顯然是極其不合情理（難以置信）的。"
+        },
+        {
+          "en": "The movie's ending was criticized as ______ because the main character recovered from a fatal wound in seconds.",
+          "zh": "電影的結局被批評為不切實際，因為主角在幾秒鐘內就從致命傷中痊癒了。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "23",
+        "spelling": "im",
+        "meaning": "not / opposite（否定、相反）"
+      }
+    },
+    {
+      "word": "impolitic",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "Failing to possess or display wisdom or good judgment; unwise and imprudent (Not politic):",
+      "defn_zh": "不明智的、失策的、不策略的",
+      "synonyms": [
+        "Unwise",
+        "imprudent",
+        "injudicious",
+        "misguided"
+      ],
+      "antonyms": [
+        "Politic",
+        "prudent",
+        "wise",
+        "sagacious"
+      ],
+      "root_note": "im- (not / opposite（否定、相反）)",
+      "section": "im- = not / opposite（否定、相反）",
+      "sentences": [
+        {
+          "en": "It was highly ______ of the supervisor to criticize the firm's biggest investor during the public gala.",
+          "zh": "主管在公開晚宴上批評公司最大的投資人，這真是一次極其失策（不明智）的舉動。"
+        },
+        {
+          "en": "The candidate's aggressive and ______ remarks accidentally alienated his own core group of voters.",
+          "zh": "該候選人具攻擊性且不明智的言論，一不小心疏遠了他自己的核心選民群體。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "23",
+        "spelling": "im",
+        "meaning": "not / opposite（否定、相反）"
+      }
+    },
+    {
+      "word": "imponderable",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "Difficult or impossible to estimate, assess, or calculate precisely (Not ponderable/measurable):",
+      "defn_zh": "無法衡量的、無法評估的、不可估量的因素",
+      "synonyms": [
+        "Incalculable",
+        "unmeasurable",
+        "indefinable"
+      ],
+      "antonyms": [
+        "Measurable",
+        "calculable",
+        "obvious"
+      ],
+      "root_note": "im- (not / opposite（否定、相反）)",
+      "section": "im- = not / opposite（否定、相反）",
+      "sentences": [
+        {
+          "en": "The long-term effects of the sudden geopolitical shift remain an ______ variable for economic forecasters.",
+          "zh": "突如其來的地緣政治轉變所帶來的長期影響，對經濟預測者而言仍是一個無法衡量的變數。"
+        },
+        {
+          "en": "Success in battle often depends on ______ factors like sudden changes in weather or troop morale.",
+          "zh": "戰鬥的成功往往取決於無法估量的因素，例如天氣的突然變化或軍隊的士氣。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "23",
+        "spelling": "im",
+        "meaning": "not / opposite（否定、相反）"
+      }
+    },
+    {
+      "word": "impotent",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "Lacking power, strength, or the physical ability to take effective action (Not potent):",
+      "defn_zh": "無能為力的、無力量的、虛弱的",
+      "synonyms": [
+        "Powerless",
+        "helpless",
+        "weak",
+        "incapacitated"
+      ],
+      "antonyms": [
+        "Potent",
+        "powerful",
+        "mighty",
+        "influential"
+      ],
+      "root_note": "im- (not / opposite（否定、相反）)",
+      "section": "im- = not / opposite（否定、相反）",
+      "sentences": [
+        {
+          "en": "The villagers stood ______ on the hill, watching the raging floodwaters wash away their houses.",
+          "zh": "村民們無能為力地站在山丘上，看著洶湧的洪水沖走他們的房屋。"
+        },
+        {
+          "en": "Without proper legislative authority, the newly elected committee felt ______ to stop the market corruption.",
+          "zh": "由於缺乏適當的立法授權，新當選的委員會感到無能為力去阻止市場腐敗。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "23",
+        "spelling": "im",
+        "meaning": "not / opposite（否定、相反）"
+      }
+    },
+    {
+      "word": "impracticable",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "Impossible to put into practice or carry out successfully (Not practicable/doable):",
+      "defn_zh": "無法實行的、行不通的、不能實施的",
+      "synonyms": [
+        "Unfeasible",
+        "unworkable",
+        "impossible",
+        "unachievable"
+      ],
+      "antonyms": [
+        "Practicable",
+        "feasible",
+        "workable",
+        "doable"
+      ],
+      "root_note": "im- (not / opposite（否定、相反）)",
+      "section": "im- = not / opposite（否定、相反）",
+      "sentences": [
+        {
+          "en": "The architect's plan to build a glass bridge over the canyon was rejected as ______ from an engineering standpoint.",
+          "zh": "建築師在峽谷上建造玻璃橋的計劃被否決了，因為這在工程上是無法實行的。"
+        },
+        {
+          "en": "While the idea of underground tunnels sounded great, high operational costs made the project ______ for the small town.",
+          "zh": "雖然建造地下隧道的主意聽起來很好，但高昂的營運成本使得這個項目對小鎮來說是行不通的。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "23",
+        "spelling": "im",
+        "meaning": "not / opposite（否定、相反）"
+      }
+    },
+    {
+      "word": "impregnable",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "Unable to be captured, broken into, or defeated by physical force or argument (Not pregnable/vulnerable):",
+      "defn_zh": "攻不破的、堅不可摧的、固若金湯的",
+      "synonyms": [
+        "Invulnerable",
+        "unassailable",
+        "impenetrable",
+        "secure"
+      ],
+      "antonyms": [
+        "Vulnerable",
+        "weak",
+        "defenseless"
+      ],
+      "root_note": "im- (not / opposite（否定、相反）)",
+      "section": "im- = not / opposite（否定、相反）",
+      "sentences": [
+        {
+          "en": "Built high up on a jagged rocky cliff, the medieval stone fortress proved entirely ______ to enemy sieges.",
+          "zh": "這座中世紀石造堡壘建造在崎嶇的岩石峭壁高處，事實證明它在面對敵軍圍攻時完全是攻不破的。"
+        },
+        {
+          "en": "The defense attorney established an ______ alibi, proving with video evidence that his client was abroad during the crime.",
+          "zh": "辯護律師確立了堅不可摧的（無懈可擊的）不在場證明，利用錄影證據證明他的客戶在案發時身在國外。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "23",
+        "spelling": "im",
+        "meaning": "not / opposite（否定、相反）"
+      }
+    },
+    {
+      "word": "improvised",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "Created, performed, or put together spontaneously without any prior preparation or planning (Not pre-arranged):",
+      "defn_zh": "即興的、臨時湊合的",
+      "synonyms": [
+        "Spontaneous",
+        "extemporaneous",
+        "makeshift",
+        "ad-libbed"
+      ],
+      "antonyms": [
+        "Premeditated",
+        "rehearsed",
+        "planned",
+        "prepared"
+      ],
+      "root_note": "im- (not / opposite（否定、相反）)",
+      "section": "im- = not / opposite（否定、相反）",
+      "sentences": [
+        {
+          "en": "The pianist amazed the audience with an ______ solo, crafting a beautiful melody entirely on the spot.",
+          "zh": "鋼琴家以一段即興獨奏驚豔全場，完全在現場創作出優美的旋律。"
+        },
+        {
+          "en": "Lacking a tent, the stranded hikers slept beneath an ______ shelter made of pine branches and plastic tarps.",
+          "zh": "由於缺乏帳篷，被困的登山客睡在用松樹枝和塑膠防水布搭成的臨時湊合的庇護所下。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "23",
+        "spelling": "im",
+        "meaning": "not / opposite（否定、相反）"
+      }
+    },
+    {
+      "word": "imprudent",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "Not showing care for the consequences of an action; rash and unwise (Not prudent):",
+      "defn_zh": "輕率的、不明智的、不謹慎的",
+      "synonyms": [
+        "Unwise",
+        "rash",
+        "reckless",
+        "injudicious"
+      ],
+      "antonyms": [
+        "Prudent",
+        "cautious",
+        "circumspect"
+      ],
+      "root_note": "im- (not / opposite（否定、相反）)",
+      "section": "im- = not / opposite（否定、相反）",
+      "sentences": [
+        {
+          "en": "It is highly ______ to post confidential corporate documents on social media platforms.",
+          "zh": "在社群媒體平台上張貼公司機密文件是一種非常不謹慎（輕率）的行為。"
+        },
+        {
+          "en": "The safety inspector warned that it was ______ to operate heavy factory machinery without wearing protective gear.",
+          "zh": "安全檢查員警告說，不穿戴防護裝備就操作重型工廠機械是不明智的。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "23",
+        "spelling": "im",
+        "meaning": "not / opposite（否定、相反）"
+      }
+    },
+    {
+      "word": "impetuous",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "Acting or rushing into actions quickly and rashly with intense physical force or momentum (Driving into things with force):",
+      "defn_zh": "狂暴的、猛烈的、衝動的",
+      "synonyms": [
+        "Impulsive",
+        "precipitate",
+        "fierce",
+        "violent"
+      ],
+      "antonyms": [
+        "Cautious",
+        "careful",
+        "calm"
+      ],
+      "root_note": "im- (in / into / upon（進入、在內、施加於）)",
+      "section": "im- = in / into / upon（進入、在內、施加於）",
+      "sentences": [
+        {
+          "en": "An ______ wind swept across the valley, ripping leaves off branches and knocking down weak tents.",
+          "zh": "一陣猛烈的（狂暴的）大風席捲山谷，吹落了樹枝上的葉子，並吹倒了脆弱的帳篷。"
+        },
+        {
+          "en": "Her ______ nature often caused her to jump into arguments before understanding the full situation.",
+          "zh": "她衝動的性格經常使她在了解全面情況之前就投入（進入）爭吵之中。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "23",
+        "spelling": "im",
+        "meaning": "in / into / upon（進入、在內、施加於）"
+      }
+    },
+    {
+      "word": "impugn",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "To fight or strike upon something; to call into question or physically attack the validity of an idea (Strike upon):",
+      "defn_zh": "質疑、抨擊、對…表示懷疑",
+      "synonyms": [
+        "Challenge",
+        "dispute",
+        "question",
+        "gainsay"
+      ],
+      "antonyms": [
+        "Support",
+        "vindicate",
+        "defend"
+      ],
+      "root_note": "im- (in / into / upon（進入、在內、施加於）)",
+      "section": "im- = in / into / upon（進入、在內、施加於）",
+      "sentences": [
+        {
+          "en": "The political opponent tried to ______ the senator's integrity by highlighting unverified financial data logs.",
+          "zh": "政治對手企圖透過強調未經證實的財務數據記錄，來質質參議員的誠信。"
+        },
+        {
+          "en": "The defense attorney used text evidence to ______ the witness’s credibility, proving she had lied before.",
+          "zh": "辯護律師利用簡訊證據來駁斥（抨擊）證人的公信力，證明她以前撒過謊。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "23",
+        "spelling": "im",
+        "meaning": "in / into / upon（進入、在內、施加於）"
+      }
+    },
+    {
+      "word": "impunity",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "Entering into a state of freedom or safety from penalties (Secured inside an exemption from punishment):",
+      "defn_zh": "免受懲罰、豁免、肆無忌憚",
+      "synonyms": [
+        "Exemption",
+        "immunity",
+        "dispensation"
+      ],
+      "antonyms": [
+        "Accountability",
+        "liability"
+      ],
+      "root_note": "im- (in / into / upon（進入、在內、施加於）)",
+      "section": "im- = in / into / upon（進入、在內、施加於）",
+      "sentences": [
+        {
+          "en": "Because the corrupt judges were on his payroll, the criminal cartel leader broke the law with complete ______.",
+          "zh": "由於腐敗的法官拿了他的好處，這個犯罪集團首腦完全免受法律制裁地（肆無忌憚地）觸犯法律。"
+        },
+        {
+          "en": "Activists warned that large factories cannot be allowed to pollute our local rivers with absolute ______.",
+          "zh": "維權人士警告，絕不能允許大型工廠在完全免受懲罰的情況下污染我們的在地河流。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "23",
+        "spelling": "im",
+        "meaning": "in / into / upon（進入、在內、施加於）"
+      }
+    },
+    {
+      "word": "imperious",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "Pressing authority upon others; bossy, commanding, and acting like an absolute ruler (Commanding upon):",
+      "defn_zh": "專橫的、傲慢的、頤指氣使的",
+      "synonyms": [
+        "Domineering",
+        "overbearing",
+        "dictatorial"
+      ],
+      "antonyms": [
+        "Humble",
+        "submissive",
+        "servile"
+      ],
+      "root_note": "im- (in / into / upon（進入、在內、施加於）)",
+      "section": "im- = in / into / upon（進入、在內、施加於）",
+      "sentences": [
+        {
+          "en": "The staff resented the manager's ______ tone, as she frequently barked commands without offering any explanation.",
+          "zh": "員工們很反感經理那頤指氣使的語氣，因為她經常在不提供任何解釋的情況下大聲發號施令。"
+        },
+        {
+          "en": "With an ______ wave of his hand, the king ordered the guards to remove the protesting diplomats from the room.",
+          "zh": "國王專橫地一揮手，命令警衛將抗議的外交官帶出房間。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "23",
+        "spelling": "im",
+        "meaning": "in / into / upon（進入、在內、施加於）"
+      }
+    },
+    {
+      "word": "imbibe",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "To drink or take liquid into the body; or to absorb knowledge deeply into the mind (Drink into):",
+      "defn_zh": "飲、吸入；吸收（知識、思想）",
+      "synonyms": [
+        "Absorb",
+        "assimilate",
+        "swallow"
+      ],
+      "antonyms": [
+        "Exude",
+        "eject",
+        "emit"
+      ],
+      "root_note": "im- (in / into / upon（進入、在內、施加於）)",
+      "section": "im- = in / into / upon（進入、在內、施加於）",
+      "sentences": [
+        {
+          "en": "The guests gathered around the outdoor lounge to chat and ______ refreshing beverages during the holiday party.",
+          "zh": "賓客們聚集在戶外休息區，在節日派對上聊天並飲用清涼的飲料。"
+        },
+        {
+          "en": "As a curious scholar, he would spend his entire weekend at the library to ______ classic philosophical theories.",
+          "zh": "作為一個充滿好奇心的學者，他會把整個週末都花在圖書館裡，以汲取（吸收）古典哲學理論。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "23",
+        "spelling": "im",
+        "meaning": "in / into / upon（進入、在內、施加於）"
+      }
+    },
+    {
+      "word": "imminent",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "Hanging over or leaning upon someone; about to happen very soon in a threatening way (Leaning upon):",
+      "defn_zh": "即將發生的、逼近的（多指危險）",
+      "synonyms": [
+        "Impending",
+        "looming",
+        "forthcoming"
+      ],
+      "antonyms": [
+        "Remote",
+        "distant",
+        "delayed"
+      ],
+      "root_note": "im- (in / into / upon（進入、在內、施加於）)",
+      "section": "im- = in / into / upon（進入、在內、施加於）",
+      "sentences": [
+        {
+          "en": "The sudden sound of emergency sirens warned the coastal town that a violent storm landfall was ______.",
+          "zh": "突如其來的緊急警報聲警告著沿海小鎮，一場猛烈的暴風雨登陸已迫在眉睫。"
+        },
+        {
+          "en": "Fearing an ______ stock market collapse, the financial fund manager sold his volatile assets immediately.",
+          "zh": "因擔心股市即將崩盤，金融基金經理立即出售了他的波動性資產。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "23",
+        "spelling": "im",
+        "meaning": "in / into / upon（進入、在內、施加於）"
+      }
+    },
+    {
+      "word": "imbroglio",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "Getting tangled into a messy, complicated, and highly confusing situation or argument (Tangled into a mess):",
+      "defn_zh": "錯綜複雜的局面、尷尬的處境、糾葛",
+      "synonyms": [
+        "Entanglement",
+        "quagmire",
+        "predicament"
+      ],
+      "antonyms": [
+        "Resolution",
+        "simplicity",
+        "agreement"
+      ],
+      "root_note": "im- (in / into / upon（進入、在內、施加於）)",
+      "section": "im- = in / into / upon（進入、在內、施加於）",
+      "sentences": [
+        {
+          "en": "The embassy worked around the clock to resolve the diplomatic ______ caused by the accidental arrest of the foreign official.",
+          "zh": "大使館通宵達旦地工作，以解決因意外逮捕外國官員而引發的外交僵局（複雜局面）。"
+        },
+        {
+          "en": "The corporate lawyers spent months sorting through the legal ______ of overlapping trademark patent claims.",
+          "zh": "公司律師花了數月時間，理清重疊商標專利聲索所帶來的法律糾葛。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "23",
+        "spelling": "im",
+        "meaning": "in / into / upon（進入、在內、施加於）"
+      }
+    },
+    {
+      "word": "immerse",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "To plunge or dip completely into a liquid; or to involve oneself deeply into an activity (Plunge into):",
+      "defn_zh": "浸入、沉浸於、專心於",
+      "synonyms": [
+        "Submerge",
+        "plunge",
+        "engross",
+        "absorb"
+      ],
+      "antonyms": [
+        "Surface",
+        "extract",
+        "disengage"
+      ],
+      "root_note": "im- (in / into / upon（進入、在內、施加於）)",
+      "section": "im- = in / into / upon（進入、在內、施加於）",
+      "sentences": [
+        {
+          "en": "The chemistry guidelines instruct the technician to completely ______ the copper plate in the acidic solution for three minutes.",
+          "zh": "化學指南指示技術員將銅板完全浸入酸性溶液中三分鐘。"
+        },
+        {
+          "en": "To master the language fluently, she decided to move to Madrid and completely ______ herself in local Spanish culture.",
+          "zh": "為了流暢地掌握這門語言，她決定搬到馬德里，讓自己完全沉浸在當地的西班牙文化中。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "23",
+        "spelling": "im",
+        "meaning": "in / into / upon（進入、在內、施加於）"
+      }
+    },
+    {
+      "word": "immanent",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "Existing or remaining within something; inherent and operating inside a mind, nature, or universe (Dwelling inside):",
+      "defn_zh": "內在的、固有的、無所不在的（哲學/神學用語）",
+      "synonyms": [
+        "Inherent",
+        "intrinsic",
+        "deep-seated",
+        "indwelling"
+      ],
+      "antonyms": [
+        "Extrinsic",
+        "transcendent (outside reality)"
+      ],
+      "root_note": "im- (in / into / upon（進入、在內、施加於）)",
+      "section": "im- = in / into / upon（進入、在內、施加於）",
+      "sentences": [
+        {
+          "en": "The pantheist philosopher argued that the divine force is ______ in nature, dwelling inside every tree, river, and stone.",
+          "zh": "泛神論哲學家認為，神聖的力量在自然界中是內在固有的，存在於每一棵樹、每一條河流和每一塊石頭之中。"
+        },
+        {
+          "en": "Psychologists suggest that the drive to communicate through language is an ______ trait shared by all human children.",
+          "zh": "心理學家認為，透過語言進行交流的衝動是所有人類兒童共有的一種內在（天生）特質。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "23",
+        "spelling": "im",
+        "meaning": "in / into / upon（進入、在內、施加於）"
+      }
+    },
+    {
+      "word": "immigrate",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "To move permanently into a foreign country to live there (Move into a nation):",
+      "defn_zh": "移居入境、移民",
+      "synonyms": [
+        "Migrate inside",
+        "settle abroad"
+      ],
+      "antonyms": [
+        "Emigrate (move out of a country)"
+      ],
+      "root_note": "im- (in / into / upon（進入、在內、施加於）)",
+      "section": "im- = in / into / upon（進入、在內、施加於）",
+      "sentences": [
+        {
+          "en": "Her grandparents decided to ______ to Canada in the 1960s to find better employment opportunities in the industrial sector.",
+          "zh": "她的祖父母決定在1960年代移民到加拿大，以便在工業領域尋找更好的就業機會。"
+        },
+        {
+          "en": "The border control department established strict rules for individuals seeking to legally ______ and secure work visas.",
+          "zh": "邊境管制部門對尋求合法移居入境並獲得工作簽證的人員制定了嚴格的規定。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "23",
+        "spelling": "im",
+        "meaning": "in / into / upon（進入、在內、施加於）"
+      }
+    },
+    {
+      "word": "impel",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "To drive or force someone into a specific action or emotional direction (Drive into action):",
+      "defn_zh": "推動、推進、驅使、強迫",
+      "synonyms": [
+        "Force",
+        "urge",
+        "prompt",
+        "goad",
+        "compel"
+      ],
+      "antonyms": [
+        "Restrain",
+        "discourage",
+        "block"
+      ],
+      "root_note": "im- (in / into / upon（進入、在內、施加於）)",
+      "section": "im- = in / into / upon（進入、在內、施加於）",
+      "sentences": [
+        {
+          "en": "A deep sense of moral duty managed to ______ the witness to step forward and tell the absolute truth to the jury.",
+          "zh": "一種深沉的道德責任感成功地驅使證人挺身而出，向陪審團說出絕對的真相。"
+        },
+        {
+          "en": "The sudden fierce storm winds began to ______ the small sailboat violently toward the jagged harbor rocks.",
+          "zh": "突如其來的暴風雨開始猛烈地推進（驅使）小帆船朝向港口崎嶇的礁石撞去。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "23",
+        "spelling": "im",
+        "meaning": "in / into / upon（進入、在內、施加於）"
+      }
+    },
+    {
+      "word": "implode",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "To burst or collapse violently inward toward the center (Burst inward/into self):",
+      "defn_zh": "內爆、向內崩塌",
+      "synonyms": [
+        "Collapse inward",
+        "crumple",
+        "cave in"
+      ],
+      "antonyms": [
+        "Explode (burst outward)"
+      ],
+      "root_note": "im- (in / into / upon（進入、在內、施加於）)",
+      "section": "im- = in / into / upon（進入、在內、施加於）",
+      "sentences": [
+        {
+          "en": "If the submarine's metal hull cracks under the massive deep-sea water pressure, the vessel will instantly ______.",
+          "zh": "如果潛水艇的金屬外殼在大規模的深海油水壓下破裂，船體將會瞬間內爆（向內崩塌）。"
+        },
+        {
+          "en": "Financial experts predicted that the heavily debt-ridden corporation would eventually ______ from its own internal corruption.",
+          "zh": "金融專家預測，這家債台高築的公司最終會因為自身的內部腐敗而向內瓦解（崩塌）。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "23",
+        "spelling": "im",
+        "meaning": "in / into / upon（進入、在內、施加於）"
+      }
+    },
+    {
+      "word": "importune",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "To press requests upon someone; to beg or ask someone persistently and urgently (Press requests upon):",
+      "defn_zh": "苦苦哀求、強求、頻頻催逼",
+      "synonyms": [
+        "Beg",
+        "beseech",
+        "entreat",
+        "pester"
+      ],
+      "antonyms": [
+        "Grant easily",
+        "ignore",
+        "stay silent"
+      ],
+      "root_note": "im- (in / into / upon（進入、在內、施加於）)",
+      "section": "im- = in / into / upon（進入、在內、施加於）",
+      "sentences": [
+        {
+          "en": "The desperate beggars outside the church doors would continuously ______ passing tourists for spare coins or food.",
+          "zh": "教堂門外絕望的乞丐們會不斷地向路過的遊客苦苦哀求零錢或食物。"
+        },
+        {
+          "en": "The children began to ______ their father for a new puppy, asking him every single day until he finally agreed.",
+          "zh": "孩子們開始向父親苦苦要求養一隻新小狗，每天都問他，直到他最終答應。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "23",
+        "spelling": "im",
+        "meaning": "in / into / upon（進入、在內、施加於）"
+      }
+    },
+    {
+      "word": "imprecation",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "Calling down an evil curse upon someone; a spoken malediction (Invoke evil upon):",
+      "defn_zh": "詛咒、咒罵",
+      "synonyms": [
+        "Curse",
+        "malediction",
+        "anathema"
+      ],
+      "antonyms": [
+        "Benediction",
+        "blessing"
+      ],
+      "root_note": "im- (in / into / upon（進入、在內、施加於）)",
+      "section": "im- = in / into / upon（進入、在內、施加於）",
+      "sentences": [
+        {
+          "en": "As the police dragged him away in handcuffs, the criminal shouted a bitter ______ upon the judge.",
+          "zh": "當警察用手銬將他帶走時，這名罪犯對法官大聲發出了惡毒的詛咒。"
+        },
+        {
+          "en": "The old witch muttered an ancient ______, calling down an autumn plague upon the royal village fields.",
+          "zh": "老巫師低聲唸著古老的咒語（詛咒），讓一場秋季瘟疫降臨在皇家村莊的田野上。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "23",
+        "spelling": "im",
+        "meaning": "in / into / upon（進入、在內、施加於）"
+      }
+    },
+    {
+      "word": "imposition",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "Forcing a heavy rule, tax, or burden upon people; or unfairly forcing your presence upon someone else (Placing a burden upon):",
+      "defn_zh": "強加、被迫接受的負擔、徵稅",
+      "synonyms": [
+        "Infliction",
+        "enforcement",
+        "burden",
+        "intrusion"
+      ],
+      "antonyms": [
+        "Evacuation",
+        "removal",
+        "relief"
+      ],
+      "root_note": "im- (in / into / upon（進入、在內、施加於）)",
+      "section": "im- = in / into / upon（進入、在內、施加於）",
+      "sentences": [
+        {
+          "en": "Small business owners organized street protests to block the ______ of a high new digital sales tax.",
+          "zh": "小企業主組織了街頭抗議，以阻止強加（徵收）一項新的高額數位銷售稅。"
+        },
+        {
+          "en": "She apologized to her hosts, hoping her three-week stay at their tiny apartment wasn’t too much of an ______.",
+          "zh": "她向主人道歉，希望她在小公寓裡呆了三週不會造成太大的負擔（打擾）。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "23",
+        "spelling": "im",
+        "meaning": "in / into / upon（進入、在內、施加於）"
+      }
+    }
+  ],
+  "family_options": {},
+  "fallback_options": {
+    "v.": [
+      {
+        "word": "abound",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to exist in great numbers:",
+        "defn_zh": "充滿"
+      },
+      {
+        "word": "abrogate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to deprive of legal force, to nullify:=abolish",
+        "defn_zh": "廢除/取消"
+      },
+      {
+        "word": "abjure",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to renounce, abstain from:",
+        "defn_zh": "發誓放棄/棄絕"
+      },
+      {
+        "word": "abbreviate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to shorten a word or phrase:",
+        "defn_zh": "縮寫;縮短"
+      },
+      {
+        "word": "abdicate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to give up a position, usually one of leadership:",
+        "defn_zh": "退位/放棄(職位)"
+      },
+      {
+        "word": "abduct",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to kidnap, take by force:",
+        "defn_zh": "綁架/劫持"
+      },
+      {
+        "word": "abhor",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to regard with disgust and hatred:",
+        "defn_zh": "憎惡/厭惡"
+      },
+      {
+        "word": "abnegate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to deny or renounce:",
+        "defn_zh": "放棄/克制"
+      },
+      {
+        "word": "abolish",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to formally put an end to a system, practice, or institution:",
+        "defn_zh": "廢除"
+      },
+      {
+        "word": "abort",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to give up on a half-finished project or effort:",
+        "defn_zh": "中止/放棄"
+      },
+      {
+        "word": "abrade",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to scrape or wear away by friction:",
+        "defn_zh": "磨損;擦傷"
+      },
+      {
+        "word": "abscond",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to sneak away and hide:",
+        "defn_zh": "潛逃/逃匿"
+      }
+    ],
+    "adj.": [
+      {
+        "word": "abortive",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "fruitless, failing:",
+        "defn_zh": "失敗的/夭折的"
+      },
+      {
+        "word": "abstemious",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "moderate in eating or drinking:",
+        "defn_zh": "飲食有節制的"
+      },
+      {
+        "word": "abhorrent",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "detestable, despised:",
+        "defn_zh": "令人厭惡的"
+      },
+      {
+        "word": "absurd",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "ridiculous:",
+        "defn_zh": "荒謬的"
+      },
+      {
+        "word": "aberrant",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "deviating from what is normal or expected:",
+        "defn_zh": "異常的;脫軌的"
+      },
+      {
+        "word": "abject",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "wretched, pitiful:",
+        "defn_zh": "卑賤的/淒慘的"
+      },
+      {
+        "word": "abominable",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "causing moral revulsion; extremely unpleasant:",
+        "defn_zh": "可憎的;惡劣的"
+      },
+      {
+        "word": "abounding",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "existing in large numbers or amounts:",
+        "defn_zh": "大量存在的;豐富的"
+      },
+      {
+        "word": "abrasive",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "showing little concern for others; harsh:",
+        "defn_zh": "粗暴的/刺耳的"
+      },
+      {
+        "word": "abrupt",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "sudden or unexpected; brief and curt in manner:",
+        "defn_zh": "突然的/唐突的"
+      },
+      {
+        "word": "abstract",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "existing purely in the mind; not representing actual reality:",
+        "defn_zh": "抽象的"
+      },
+      {
+        "word": "abstruse",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "hard to comprehend:",
+        "defn_zh": "深奧難懂的"
+      }
+    ],
+    "n.": [
+      {
+        "word": "aversion",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "strong dislike, opposition:",
+        "defn_zh": "厭惡/反感"
+      },
+      {
+        "word": "aberration",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "something that differs from the norm:",
+        "defn_zh": "異常/脫軌"
+      },
+      {
+        "word": "abjection",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a state of complete misery, hopelessness, or degradation:",
+        "defn_zh": "卑賤;悲慘狀態"
+      },
+      {
+        "word": "abjuration",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the solemn renunciation of a belief, cause, or claim:",
+        "defn_zh": "公開放棄;誓絕"
+      },
+      {
+        "word": "ablution",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the act of washing oneself, especially as part of a religious ritual:",
+        "defn_zh": "沐浴;淨身儀式"
+      },
+      {
+        "word": "abnegation",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "denial of comfort to oneself:",
+        "defn_zh": "自我克制/放棄"
+      },
+      {
+        "word": "abomination",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "something that causes disgust or hatred:",
+        "defn_zh": "可憎之事;令人厭惡的東西"
+      },
+      {
+        "word": "abridgement",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a shortened version of a book or other written work:",
+        "defn_zh": "節略本;縮減版"
+      },
+      {
+        "word": "absolution",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "freedom from blame, guilt, sin:",
+        "defn_zh": "赦免/免罪"
+      },
+      {
+        "word": "abstemiousness",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "moderation or self-restraint, especially in eating and drinking:",
+        "defn_zh": "節制;克己"
+      },
+      {
+        "word": "abstinence",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the practice of restraining oneself from something enjoyable, especially food, alcohol, or sex:",
+        "defn_zh": "節制;戒絕"
+      },
+      {
+        "word": "avocation",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a hobby or minor occupation apart from one's main career:",
+        "defn_zh": "副業;業餘愛好"
+      }
+    ],
+    "adv.": [
+      {
+        "word": "accordingly",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in a manner that fits the circumstances; consequently:",
+        "defn_zh": "相應地;因此"
+      },
+      {
+        "word": "inadvertently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "unintentionally or by accident:",
+        "defn_zh": "無意間/不小心地"
+      },
+      {
+        "word": "consequently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "as a result; therefore:",
+        "defn_zh": "因此;結果"
+      },
+      {
+        "word": "contemptuously",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "without respect; in a disdainful manner:",
+        "defn_zh": "輕蔑地"
+      },
+      {
+        "word": "involuntarily",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "done without conscious control:",
+        "defn_zh": "不由自主地"
+      },
+      {
+        "word": "cordially",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in a warm or friendly manner:",
+        "defn_zh": "誠摯地/友好地"
+      },
+      {
+        "word": "ipso facto",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "by that very fact or act:",
+        "defn_zh": "事實上;因此"
+      },
+      {
+        "word": "en passant",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in passing; incidentally:",
+        "defn_zh": "順帶一提地;偶然地"
+      },
+      {
+        "word": "regardless",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "despite the prevailing circumstances; without being deterred:",
+        "defn_zh": "不管怎樣;儘管如此"
+      },
+      {
+        "word": "subsequently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "afterward; following in time or order:",
+        "defn_zh": "隨後;其後"
+      },
+      {
+        "word": "aside",
+        "pos": "adv./n.",
+        "pos_key": "adv.",
+        "defn_en": "to or on one side; a remark not meant to be heard by everyone:",
+        "defn_zh": "在旁邊;旁白"
+      },
+      {
+        "word": "vice versa",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "with the order or meaning reversed; conversely:",
+        "defn_zh": "反之亦然"
+      }
+    ],
+    "other": [
+      {
+        "word": "（此批單字中，暫無符合此字根/字首的單字）",
+        "pos": "",
+        "pos_key": "other",
+        "defn_en": "",
+        "defn_zh": ""
+      }
+    ],
+    "prep./adv.": [
+      {
+        "word": "besides",
+        "pos": "prep./adv.",
+        "pos_key": "prep./adv.",
+        "defn_en": "in addition to; furthermore:",
+        "defn_zh": "除...之外;此外"
+      }
+    ],
+    "phrasalv.": [
+      {
+        "word": "egg on",
+        "pos": "phrasal v.",
+        "pos_key": "phrasalv.",
+        "defn_en": "to encourage someone to do something, often risky:",
+        "defn_zh": "慫恿;鼓動"
+      }
+    ],
+    "abbr.": [
+      {
+        "word": "etc.",
+        "pos": "abbr.",
+        "pos_key": "abbr.",
+        "defn_en": "and other similar things (abbreviation of et cetera):",
+        "defn_zh": "等等(et cetera的縮寫)"
+      }
+    ],
+    "interj.": [
+      {
+        "word": "fiddledeedee",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "an exclamation expressing dismissal of something as nonsense:",
+        "defn_zh": "廢話!(表示不屑一顧)"
+      },
+      {
+        "word": "gesundheit",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "an expression said to someone who has just sneezed:",
+        "defn_zh": "保重(打噴嚏後的祝福語)"
+      }
+    ],
+    "prep.": [
+      {
+        "word": "via",
+        "pos": "prep.",
+        "pos_key": "prep.",
+        "defn_en": "by way of; passing through:",
+        "defn_zh": "經由;透過"
+      }
+    ]
+  }
+}

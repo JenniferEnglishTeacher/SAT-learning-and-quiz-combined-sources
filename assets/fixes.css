@@ -25,4 +25,9 @@
 .reference-sentence>div{display:flex;gap:.55rem;align-items:flex-start;line-height:1.55}
 .reference-sentence p{margin:.35rem 0 0 2.2rem;color:#667981;line-height:1.5}
 .reference-sentence strong{color:var(--coral)}
+.batch-word-section{grid-column:1/-1;margin:1.2rem 0 .15rem;padding:1.1rem 1.25rem;border-radius:16px;background:linear-gradient(135deg,#153a4a,#2d6470);color:#fff;box-shadow:0 10px 24px rgba(21,58,74,.14)}
+.batch-word-section:first-child{margin-top:0}
+.batch-word-section .eyebrow{color:#ffb29e;margin-bottom:.35rem}
+.batch-word-section h3{font:700 clamp(1.35rem,3vw,2rem)/1.15 Georgia,serif;margin:0}
+.batch-word-section p:last-child{margin:.45rem 0 0;color:rgba(255,255,255,.75);font-size:.9rem}
 @media(max-width:650px){.batch-actions,.batch-mode-nav,.reference-definitions{grid-template-columns:1fr}.student-fields{grid-template-columns:1fr}.quiz-start-panel>div:last-child{width:100%}}

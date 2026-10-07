@@ -221,7 +221,16 @@ function updateProgress() {
 
 function renderLearn() {
   grid.innerHTML = '';
+  let currentSection = '';
   batch.words.forEach(word => {
+    if (word.section && word.section !== currentSection) {
+      currentSection = word.section;
+      const heading = document.createElement('div');
+      heading.className = 'batch-word-section';
+      const sectionCount = batch.words.filter(item => item.section === currentSection).length;
+      heading.innerHTML = `<p class="eyebrow">IM PREFIX GROUP</p><h3>${esc(currentSection)}</h3><p>${sectionCount} SAT core words</p>`;
+      grid.append(heading);
+    }
     const options = shuffle([word, ...candidates(word, 2)]);
     const card = document.createElement('article');
     card.className = 'word-card';
@@ -259,7 +268,16 @@ function renderLearn() {
 
 function renderReference() {
   referenceGrid.innerHTML = '';
+  let currentSection = '';
   batch.words.forEach(word => {
+    if (word.section && word.section !== currentSection) {
+      currentSection = word.section;
+      const heading = document.createElement('div');
+      heading.className = 'batch-word-section';
+      const sectionCount = batch.words.filter(item => item.section === currentSection).length;
+      heading.innerHTML = `<p class="eyebrow">IM PREFIX GROUP</p><h3>${esc(currentSection)}</h3><p>${sectionCount} SAT core words</p>`;
+      referenceGrid.append(heading);
+    }
     const card = document.createElement('article');
     card.className = 'reference-card';
     card.innerHTML = `<div class="word-card-header"><h3>${esc(word.word)} <span class="pos">${esc(word.pos)}</span></h3>${speaker(word.word, `Listen to ${word.word}`)}</div><p class="root-note reference-root-note"><strong>Prefix/root clue:</strong> ${esc(word.root_note || 'Use the word in context.')}</p><div class="reference-definitions"><div class="reference-definition"><strong>English definition</strong><span class="linked-definition">${linkedDefinition(word.defn_en)}</span><span class="dictionary-help">Click any underlined content word to open Cambridge English–Traditional Chinese Dictionary.</span></div><div class="reference-definition"><strong>繁體中文</strong>${esc(word.defn_zh)}</div></div><div class="word-relations reference-relations" data-word-relations><p class="relation-status">Loading synonyms and antonyms…</p></div><div class="reference-sentences">${word.sentences.map(sentence => { const text = full(sentence.en, word.word); return `<div class="reference-sentence"><div>${speaker(text, 'Listen to example sentence')}<span>${highlighted(text, word.word)}</span></div><p><strong>翻譯：</strong> ${esc(sentence.zh)}</p></div>`; }).join('')}</div>`;

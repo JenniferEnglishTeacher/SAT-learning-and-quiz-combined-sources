@@ -4,7 +4,7 @@
     "total_batches": 234,
     "part1_part2_batches": 157,
     "unclassified_batches": 77,
-    "generated_batches": 57
+    "generated_batches": 58
   },
   "batches": [
     {
@@ -362,10 +362,10 @@
       "part": "part1",
       "part_label": "Part 1 字首篇 (Prefixes)",
       "name": "im",
-      "subtitle": "入；內",
-      "count": 10,
-      "generated": false,
-      "search_terms": "implore impunity implacable imminent imperturbable imperceptible impugn impassive impassioned impudent"
+      "subtitle": "not / opposite；in / into / upon（兩組各 15 字）",
+      "count": 30,
+      "generated": true,
+      "search_terms": "impeccable implacable immutable impecunious improvident immaterial impassive implausible impolitic imponderable impotent impracticable impregnable improvised imprudent impetuous impugn impunity imperious imbibe imminent imbroglio immerse immanent immigrate impel implode importune imprecation imposition"
     },
     {
       "id": "p1-24-in-1",
