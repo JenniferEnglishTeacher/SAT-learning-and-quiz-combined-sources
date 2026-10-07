@@ -380,5 +380,23 @@
         "derived_from": "trivial"
       }
     ]
+  },
+  "p1-50-twi": {
+    "v.": [
+      {
+        "word": "twinge",
+        "pos": "v.",
+        "defn_en": "to cause or experience a sudden sharp physical or emotional pain:",
+        "defn_zh": "使陣痛；使刺痛；感到心痛",
+        "derived_from": "twinge"
+      },
+      {
+        "word": "twitter",
+        "pos": "v.",
+        "defn_en": "to make a series of light chirping sounds or speak rapidly in excitement:",
+        "defn_zh": "吱喳；興奮地叽叽喳喳",
+        "derived_from": "twitterpated"
+      }
+    ]
   }
 }

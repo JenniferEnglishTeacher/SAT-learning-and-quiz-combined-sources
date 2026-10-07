@@ -1,0 +1,164 @@
+{
+  "id": "p1-50-twi",
+  "merge_with_source": false,
+  "name": "twi",
+  "subtitle": "二；兩",
+  "words": [
+    {
+      "word": "twitterpated", "pos": "adj.", "pos_key": "adj.",
+      "defn_en": "infatuated or overcome by nervous, love-struck excitement:",
+      "defn_zh": "神魂顛倒的；戀愛狂熱的；癡迷的",
+      "synonyms": ["infatuated", "smitten", "captivated", "giddy"],
+      "antonyms": ["indifferent", "composed", "level-headed"],
+      "root_note": "twitter (excited agitation) + -pated (headed or minded)",
+      "sentences": [
+        {"en": "The protagonist became completely ______ after his first conversation with the new student.", "zh": "主角與新同學第一次交談後便完全神魂顛倒。"},
+        {"en": "The play captures the ______ excitement of young love through daydreaming and laughter.", "zh": "這部戲透過白日夢與笑聲呈現年輕戀情中意亂情迷的興奮。"}
+      ],
+      "category": {"part": 1, "num": "50", "spelling": "twi", "meaning": "二；兩"}
+    },
+    {
+      "word": "twinge", "pos": "n.", "pos_key": "n.",
+      "defn_en": "a sudden sharp physical pain or a brief emotional pang of guilt or sorrow:",
+      "defn_zh": "陣痛；刺痛；短暫的心酸或內疚",
+      "synonyms": ["pang", "spasm", "stitch", "qualm"],
+      "antonyms": ["relief", "comfort", "ease", "soothing"],
+      "root_note": "twinge (a sudden pinching or sharp sensation), from Old English",
+      "sentences": [
+        {"en": "The marathon runner felt a sudden ______ in his left knee but continued toward the finish line.", "zh": "馬拉松跑者感到左膝突然一陣刺痛，但仍繼續跑向終點。"},
+        {"en": "She felt a ______ of guilt when she remembered forgetting her grandmother's birthday.", "zh": "她想起自己忘了祖母的生日時，心中湧起一陣內疚。"}
+      ],
+      "category": {"part": 1, "num": "50", "spelling": "twi", "meaning": "二；兩"}
+    },
+    {
+      "word": "twiddle", "pos": "v.", "pos_key": "v.",
+      "defn_en": "to turn or fiddle with something idly, often from boredom or nervousness:",
+      "defn_zh": "漫不經心地擺弄；無聊地撥弄",
+      "synonyms": ["fiddle", "fidget", "toy", "tinker"],
+      "antonyms": ["hold still", "ignore", "leave untouched"],
+      "root_note": "twi- (turning movement) + -ddle (repeated small action)",
+      "sentences": [
+        {"en": "With nothing to read, the nervous applicant could only ______ his thumbs in the waiting room.", "zh": "無書可讀時，緊張的求職者只能在候診室裡無聊地撥弄手指。"},
+        {"en": "The witness began to ______ with her necklace while awaiting cross-examination.", "zh": "證人在等待交叉詰問時，開始緊張地擺弄項鍊。"}
+      ],
+      "category": {"part": 1, "num": "50", "spelling": "twi", "meaning": "二；兩"}
+    },
+    {
+      "word": "twit", "pos": "n./v.", "pos_key": "n.",
+      "defn_en": "a foolish person, or to tease and mock someone for a mistake or fault:",
+      "defn_zh": "傻瓜；嘲笑；挖苦",
+      "synonyms": ["fool", "nitwit", "mock", "taunt"],
+      "antonyms": ["genius", "sage", "praise", "commend"],
+      "root_note": "twit (reproach or foolish person), from Old English aetwitan",
+      "sentences": [
+        {"en": "The older siblings would ______ their brother about wearing mismatched shoes to school.", "zh": "哥哥姊姊們會嘲笑弟弟穿著不配對的鞋去上學。"},
+        {"en": "The manager muttered that only a complete ______ would delete the entire database by accident.", "zh": "經理咕噥著說，只有完全的傻瓜才會誤刪整個資料庫。"}
+      ],
+      "category": {"part": 1, "num": "50", "spelling": "twi", "meaning": "二；兩"}
+    },
+    {
+      "word": "twilit", "pos": "adj.", "pos_key": "adj.",
+      "defn_en": "dimly illuminated by the faint light of twilight:",
+      "defn_zh": "暮色籠罩的；微明的",
+      "synonyms": ["dusky", "dim", "crepuscular", "shadowy"],
+      "antonyms": ["bright", "sunlit", "luminous", "radiant"],
+      "root_note": "twilight (faint light between day and night) + -lit",
+      "sentences": [
+        {"en": "The travelers followed the ______ forest path while bats circled overhead.", "zh": "旅人沿著暮色籠罩的森林小徑前行，蝙蝠在頭頂盤旋。"},
+        {"en": "The historic town looked breathtakingly beautiful during the quiet ______ hour.", "zh": "這座歷史小鎮在寧靜微明的黃昏時分美得令人屏息。"}
+      ],
+      "category": {"part": 1, "num": "50", "spelling": "twi", "meaning": "二；兩"}
+    },
+    {
+      "word": "twifold", "pos": "adj.", "pos_key": "adj.",
+      "defn_en": "double or consisting of two parts, layers, or elements:",
+      "defn_zh": "雙重的；兩部分的",
+      "synonyms": ["twofold", "dual", "double", "binary"],
+      "antonyms": ["single", "uniform", "monolithic"],
+      "root_note": "twi- (two) + fold (times or layers)",
+      "sentences": [
+        {"en": "The corporate policy served a ______ purpose: reducing costs while increasing output.", "zh": "這項企業政策具有雙重目的：降低成本並提高產出。"},
+        {"en": "The scholar explored the ______ nature of ambition as a force for creation and destruction.", "zh": "學者探討野心的雙重本質，它既能促進創造，也能帶來毀滅。"}
+      ],
+      "category": {"part": 1, "num": "50", "spelling": "twi", "meaning": "二；兩"}
+    },
+    {
+      "word": "twiformed", "pos": "adj.", "pos_key": "adj.",
+      "defn_en": "having a double form or combining two distinct bodily structures:",
+      "defn_zh": "具有雙重形態的；半人半獸的",
+      "synonyms": ["hybrid", "dual-formed", "dimorphic", "composite"],
+      "antonyms": ["monomorphic", "uniform", "single-formed"],
+      "root_note": "twi- (two) + formed (having a shape)",
+      "sentences": [
+        {"en": "The centaur is a ______ creature with a human upper body and a horse's lower body.", "zh": "半人馬是具有雙重形態的生物，上半身為人，下半身為馬。"},
+        {"en": "The sculptor displayed a ______ figure that combined a human face with bird wings.", "zh": "雕塑家展示了一尊融合人臉與鳥翼的雙重形態雕像。"}
+      ],
+      "category": {"part": 1, "num": "50", "spelling": "twi", "meaning": "二；兩"}
+    },
+    {
+      "word": "twiminded", "pos": "adj.", "pos_key": "adj.",
+      "defn_en": "indecisive or divided between conflicting thoughts or emotions:",
+      "defn_zh": "猶豫不決的；心存矛盾的；三心二意的",
+      "synonyms": ["ambivalent", "irresolute", "vacillating", "torn"],
+      "antonyms": ["resolute", "decisive", "single-minded", "certain"],
+      "root_note": "twi- (two) + minded (having a state of mind)",
+      "sentences": [
+        {"en": "The cautious investor remained ______ about approving the risky merger.", "zh": "這位謹慎的投資者對是否批准高風險合併案仍猶豫不決。"},
+        {"en": "She felt ______ about moving abroad for art school or remaining home to study law.", "zh": "她對於出國讀藝術學院或留在家鄉學法律感到內心矛盾。"}
+      ],
+      "category": {"part": 1, "num": "50", "spelling": "twi", "meaning": "二；兩"}
+    },
+    {
+      "word": "twit-tongued", "pos": "adj.", "pos_key": "adj.",
+      "defn_en": "deceitfully saying one thing to someone's face and another behind that person's back:",
+      "defn_zh": "搬弄是非的；兩面三刀的；說話虛偽的",
+      "synonyms": ["duplicitous", "deceitful", "hypocritical", "insincere"],
+      "antonyms": ["straightforward", "candid", "honest", "transparent"],
+      "root_note": "twi- (two) + tongued (speaking), meaning double-tongued",
+      "sentences": [
+        {"en": "The king was betrayed by ______ advisers who praised him publicly while plotting treason.", "zh": "國王遭到兩面三刀的顧問背叛，他們公開稱讚他，私下卻策劃叛國。"},
+        {"en": "Human resources warned that a ______ culture of rumors would not be tolerated.", "zh": "人力資源部門警告，絕不容忍搬弄是非的謠言文化。"}
+      ],
+      "category": {"part": 1, "num": "50", "spelling": "twi", "meaning": "二；兩"}
+    },
+    {
+      "word": "twitterati", "pos": "n.", "pos_key": "n.",
+      "defn_en": "collectively, highly active or influential users of social-media platforms:",
+      "defn_zh": "網路意見領袖；社群媒體紅人群體",
+      "synonyms": ["influencers", "netizens", "digital elite"],
+      "antonyms": ["offline population", "social-media outsiders"],
+      "root_note": "Twitter + literati (educated or influential cultural group)",
+      "sentences": [
+        {"en": "The celebrity faced swift criticism from the ______ after posting a controversial statement.", "zh": "這位名人發布爭議言論後，迅速遭到社群媒體意見領袖批評。"},
+        {"en": "The agency sent sample packages to the local ______ to generate excitement for the launch.", "zh": "這家公司將樣品包寄給當地社群紅人群體，為產品上市營造熱度。"}
+      ],
+      "category": {"part": 1, "num": "50", "spelling": "twi", "meaning": "二；兩"}
+    },
+    {
+      "word": "twizzle", "pos": "n./v.", "pos_key": "v.",
+      "defn_en": "a traveling one-foot turn in ice skating, or to spin or twist something quickly:",
+      "defn_zh": "單腳旋轉；旋轉；扭轉",
+      "synonyms": ["spin", "pirouette", "gyrate", "twirl"],
+      "antonyms": ["stabilize", "straighten", "unroll", "align"],
+      "root_note": "twist + twirl, expressing rapid rotation",
+      "sentences": [
+        {"en": "The skater completed a flawless ______ while traveling across the center of the rink.", "zh": "溜冰選手滑過冰場中央時，完成了完美的單腳旋轉。"},
+        {"en": "The machine began to ______ the colored threads into a strong decorative cord.", "zh": "機器開始將彩色線材扭轉成結實的裝飾繩。"}
+      ],
+      "category": {"part": 1, "num": "50", "spelling": "twi", "meaning": "二；兩"}
+    },
+    {
+      "word": "twixt", "pos": "prep./adv.", "pos_key": "adv.",
+      "defn_en": "between, especially in literary or archaic language:",
+      "defn_zh": "在…之間（between 的古雅、文學用法）",
+      "synonyms": ["between", "betwixt", "amid", "intermediately"],
+      "antonyms": ["outside", "beyond", "far away"],
+      "root_note": "a shortened literary form of betwixt (between two)",
+      "sentences": [
+        {"en": "The poem describes a hidden cave lying ______ the rocky cliff and the crashing sea.", "zh": "這首詩描寫了一個位於岩壁與汹湧海浪之間的隱秘洞穴。"},
+        {"en": "He found himself caught ______ family tradition and his dream of traveling the world.", "zh": "他發現自己夾在家族傳統與環遊世界的夢想之間。"}
+      ],
+      "category": {"part": 1, "num": "50", "spelling": "twi", "meaning": "二；兩"}
+    }
+  ]
+}

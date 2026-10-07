@@ -1,0 +1,861 @@
+{
+  "id": "p1-50-twi",
+  "part": "part1",
+  "part_label": "Part 1 字首篇 (Prefixes)",
+  "name": "twi",
+  "subtitle": "二；兩",
+  "count": 12,
+  "words": [
+    {
+      "word": "twitterpated",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "infatuated or overcome by nervous, love-struck excitement:",
+      "defn_zh": "神魂顛倒的；戀愛狂熱的；癡迷的",
+      "synonyms": [
+        "infatuated",
+        "smitten",
+        "captivated",
+        "giddy"
+      ],
+      "antonyms": [
+        "indifferent",
+        "composed",
+        "level-headed"
+      ],
+      "root_note": "twitter (excited agitation) + -pated (headed or minded)",
+      "sentences": [
+        {
+          "en": "The protagonist became completely ______ after his first conversation with the new student.",
+          "zh": "主角與新同學第一次交談後便完全神魂顛倒。"
+        },
+        {
+          "en": "The play captures the ______ excitement of young love through daydreaming and laughter.",
+          "zh": "這部戲透過白日夢與笑聲呈現年輕戀情中意亂情迷的興奮。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "50",
+        "spelling": "twi",
+        "meaning": "二；兩"
+      }
+    },
+    {
+      "word": "twinge",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a sudden sharp physical pain or a brief emotional pang of guilt or sorrow:",
+      "defn_zh": "陣痛；刺痛；短暫的心酸或內疚",
+      "synonyms": [
+        "pang",
+        "spasm",
+        "stitch",
+        "qualm"
+      ],
+      "antonyms": [
+        "relief",
+        "comfort",
+        "ease",
+        "soothing"
+      ],
+      "root_note": "twinge (a sudden pinching or sharp sensation), from Old English",
+      "sentences": [
+        {
+          "en": "The marathon runner felt a sudden ______ in his left knee but continued toward the finish line.",
+          "zh": "馬拉松跑者感到左膝突然一陣刺痛，但仍繼續跑向終點。"
+        },
+        {
+          "en": "She felt a ______ of guilt when she remembered forgetting her grandmother's birthday.",
+          "zh": "她想起自己忘了祖母的生日時，心中湧起一陣內疚。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "50",
+        "spelling": "twi",
+        "meaning": "二；兩"
+      }
+    },
+    {
+      "word": "twiddle",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to turn or fiddle with something idly, often from boredom or nervousness:",
+      "defn_zh": "漫不經心地擺弄；無聊地撥弄",
+      "synonyms": [
+        "fiddle",
+        "fidget",
+        "toy",
+        "tinker"
+      ],
+      "antonyms": [
+        "hold still",
+        "ignore",
+        "leave untouched"
+      ],
+      "root_note": "twi- (turning movement) + -ddle (repeated small action)",
+      "sentences": [
+        {
+          "en": "With nothing to read, the nervous applicant could only ______ his thumbs in the waiting room.",
+          "zh": "無書可讀時，緊張的求職者只能在候診室裡無聊地撥弄手指。"
+        },
+        {
+          "en": "The witness began to ______ with her necklace while awaiting cross-examination.",
+          "zh": "證人在等待交叉詰問時，開始緊張地擺弄項鍊。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "50",
+        "spelling": "twi",
+        "meaning": "二；兩"
+      }
+    },
+    {
+      "word": "twit",
+      "pos": "n./v.",
+      "pos_key": "n.",
+      "defn_en": "a foolish person, or to tease and mock someone for a mistake or fault:",
+      "defn_zh": "傻瓜；嘲笑；挖苦",
+      "synonyms": [
+        "fool",
+        "nitwit",
+        "mock",
+        "taunt"
+      ],
+      "antonyms": [
+        "genius",
+        "sage",
+        "praise",
+        "commend"
+      ],
+      "root_note": "twit (reproach or foolish person), from Old English aetwitan",
+      "sentences": [
+        {
+          "en": "The older siblings would ______ their brother about wearing mismatched shoes to school.",
+          "zh": "哥哥姊姊們會嘲笑弟弟穿著不配對的鞋去上學。"
+        },
+        {
+          "en": "The manager muttered that only a complete ______ would delete the entire database by accident.",
+          "zh": "經理咕噥著說，只有完全的傻瓜才會誤刪整個資料庫。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "50",
+        "spelling": "twi",
+        "meaning": "二；兩"
+      }
+    },
+    {
+      "word": "twilit",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "dimly illuminated by the faint light of twilight:",
+      "defn_zh": "暮色籠罩的；微明的",
+      "synonyms": [
+        "dusky",
+        "dim",
+        "crepuscular",
+        "shadowy"
+      ],
+      "antonyms": [
+        "bright",
+        "sunlit",
+        "luminous",
+        "radiant"
+      ],
+      "root_note": "twilight (faint light between day and night) + -lit",
+      "sentences": [
+        {
+          "en": "The travelers followed the ______ forest path while bats circled overhead.",
+          "zh": "旅人沿著暮色籠罩的森林小徑前行，蝙蝠在頭頂盤旋。"
+        },
+        {
+          "en": "The historic town looked breathtakingly beautiful during the quiet ______ hour.",
+          "zh": "這座歷史小鎮在寧靜微明的黃昏時分美得令人屏息。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "50",
+        "spelling": "twi",
+        "meaning": "二；兩"
+      }
+    },
+    {
+      "word": "twifold",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "double or consisting of two parts, layers, or elements:",
+      "defn_zh": "雙重的；兩部分的",
+      "synonyms": [
+        "twofold",
+        "dual",
+        "double",
+        "binary"
+      ],
+      "antonyms": [
+        "single",
+        "uniform",
+        "monolithic"
+      ],
+      "root_note": "twi- (two) + fold (times or layers)",
+      "sentences": [
+        {
+          "en": "The corporate policy served a ______ purpose: reducing costs while increasing output.",
+          "zh": "這項企業政策具有雙重目的：降低成本並提高產出。"
+        },
+        {
+          "en": "The scholar explored the ______ nature of ambition as a force for creation and destruction.",
+          "zh": "學者探討野心的雙重本質，它既能促進創造，也能帶來毀滅。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "50",
+        "spelling": "twi",
+        "meaning": "二；兩"
+      }
+    },
+    {
+      "word": "twiformed",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "having a double form or combining two distinct bodily structures:",
+      "defn_zh": "具有雙重形態的；半人半獸的",
+      "synonyms": [
+        "hybrid",
+        "dual-formed",
+        "dimorphic",
+        "composite"
+      ],
+      "antonyms": [
+        "monomorphic",
+        "uniform",
+        "single-formed"
+      ],
+      "root_note": "twi- (two) + formed (having a shape)",
+      "sentences": [
+        {
+          "en": "The centaur is a ______ creature with a human upper body and a horse's lower body.",
+          "zh": "半人馬是具有雙重形態的生物，上半身為人，下半身為馬。"
+        },
+        {
+          "en": "The sculptor displayed a ______ figure that combined a human face with bird wings.",
+          "zh": "雕塑家展示了一尊融合人臉與鳥翼的雙重形態雕像。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "50",
+        "spelling": "twi",
+        "meaning": "二；兩"
+      }
+    },
+    {
+      "word": "twiminded",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "indecisive or divided between conflicting thoughts or emotions:",
+      "defn_zh": "猶豫不決的；心存矛盾的；三心二意的",
+      "synonyms": [
+        "ambivalent",
+        "irresolute",
+        "vacillating",
+        "torn"
+      ],
+      "antonyms": [
+        "resolute",
+        "decisive",
+        "single-minded",
+        "certain"
+      ],
+      "root_note": "twi- (two) + minded (having a state of mind)",
+      "sentences": [
+        {
+          "en": "The cautious investor remained ______ about approving the risky merger.",
+          "zh": "這位謹慎的投資者對是否批准高風險合併案仍猶豫不決。"
+        },
+        {
+          "en": "She felt ______ about moving abroad for art school or remaining home to study law.",
+          "zh": "她對於出國讀藝術學院或留在家鄉學法律感到內心矛盾。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "50",
+        "spelling": "twi",
+        "meaning": "二；兩"
+      }
+    },
+    {
+      "word": "twit-tongued",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "deceitfully saying one thing to someone's face and another behind that person's back:",
+      "defn_zh": "搬弄是非的；兩面三刀的；說話虛偽的",
+      "synonyms": [
+        "duplicitous",
+        "deceitful",
+        "hypocritical",
+        "insincere"
+      ],
+      "antonyms": [
+        "straightforward",
+        "candid",
+        "honest",
+        "transparent"
+      ],
+      "root_note": "twi- (two) + tongued (speaking), meaning double-tongued",
+      "sentences": [
+        {
+          "en": "The king was betrayed by ______ advisers who praised him publicly while plotting treason.",
+          "zh": "國王遭到兩面三刀的顧問背叛，他們公開稱讚他，私下卻策劃叛國。"
+        },
+        {
+          "en": "Human resources warned that a ______ culture of rumors would not be tolerated.",
+          "zh": "人力資源部門警告，絕不容忍搬弄是非的謠言文化。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "50",
+        "spelling": "twi",
+        "meaning": "二；兩"
+      }
+    },
+    {
+      "word": "twitterati",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "collectively, highly active or influential users of social-media platforms:",
+      "defn_zh": "網路意見領袖；社群媒體紅人群體",
+      "synonyms": [
+        "influencers",
+        "netizens",
+        "digital elite"
+      ],
+      "antonyms": [
+        "offline population",
+        "social-media outsiders"
+      ],
+      "root_note": "Twitter + literati (educated or influential cultural group)",
+      "sentences": [
+        {
+          "en": "The celebrity faced swift criticism from the ______ after posting a controversial statement.",
+          "zh": "這位名人發布爭議言論後，迅速遭到社群媒體意見領袖批評。"
+        },
+        {
+          "en": "The agency sent sample packages to the local ______ to generate excitement for the launch.",
+          "zh": "這家公司將樣品包寄給當地社群紅人群體，為產品上市營造熱度。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "50",
+        "spelling": "twi",
+        "meaning": "二；兩"
+      }
+    },
+    {
+      "word": "twizzle",
+      "pos": "n./v.",
+      "pos_key": "v.",
+      "defn_en": "a traveling one-foot turn in ice skating, or to spin or twist something quickly:",
+      "defn_zh": "單腳旋轉；旋轉；扭轉",
+      "synonyms": [
+        "spin",
+        "pirouette",
+        "gyrate",
+        "twirl"
+      ],
+      "antonyms": [
+        "stabilize",
+        "straighten",
+        "unroll",
+        "align"
+      ],
+      "root_note": "twist + twirl, expressing rapid rotation",
+      "sentences": [
+        {
+          "en": "The skater completed a flawless ______ while traveling across the center of the rink.",
+          "zh": "溜冰選手滑過冰場中央時，完成了完美的單腳旋轉。"
+        },
+        {
+          "en": "The machine began to ______ the colored threads into a strong decorative cord.",
+          "zh": "機器開始將彩色線材扭轉成結實的裝飾繩。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "50",
+        "spelling": "twi",
+        "meaning": "二；兩"
+      }
+    },
+    {
+      "word": "twixt",
+      "pos": "prep./adv.",
+      "pos_key": "adv.",
+      "defn_en": "between, especially in literary or archaic language:",
+      "defn_zh": "在…之間（between 的古雅、文學用法）",
+      "synonyms": [
+        "between",
+        "betwixt",
+        "amid",
+        "intermediately"
+      ],
+      "antonyms": [
+        "outside",
+        "beyond",
+        "far away"
+      ],
+      "root_note": "a shortened literary form of betwixt (between two)",
+      "sentences": [
+        {
+          "en": "The poem describes a hidden cave lying ______ the rocky cliff and the crashing sea.",
+          "zh": "這首詩描寫了一個位於岩壁與汹湧海浪之間的隱秘洞穴。"
+        },
+        {
+          "en": "He found himself caught ______ family tradition and his dream of traveling the world.",
+          "zh": "他發現自己夾在家族傳統與環遊世界的夢想之間。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "50",
+        "spelling": "twi",
+        "meaning": "二；兩"
+      }
+    }
+  ],
+  "family_options": {
+    "v.": [
+      {
+        "word": "twinge",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to cause or experience a sudden sharp physical or emotional pain:",
+        "defn_zh": "使陣痛；使刺痛；感到心痛",
+        "derived_from": "twinge"
+      },
+      {
+        "word": "twitter",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to make a series of light chirping sounds or speak rapidly in excitement:",
+        "defn_zh": "吱喳；興奮地叽叽喳喳",
+        "derived_from": "twitterpated"
+      }
+    ]
+  },
+  "fallback_options": {
+    "v.": [
+      {
+        "word": "abound",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to exist in great numbers:",
+        "defn_zh": "充滿"
+      },
+      {
+        "word": "abrogate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to deprive of legal force, to nullify:=abolish",
+        "defn_zh": "廢除/取消"
+      },
+      {
+        "word": "abjure",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to renounce, abstain from:",
+        "defn_zh": "發誓放棄/棄絕"
+      },
+      {
+        "word": "abbreviate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to shorten a word or phrase:",
+        "defn_zh": "縮寫;縮短"
+      },
+      {
+        "word": "abdicate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to give up a position, usually one of leadership:",
+        "defn_zh": "退位/放棄(職位)"
+      },
+      {
+        "word": "abduct",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to kidnap, take by force:",
+        "defn_zh": "綁架/劫持"
+      },
+      {
+        "word": "abhor",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to regard with disgust and hatred:",
+        "defn_zh": "憎惡/厭惡"
+      },
+      {
+        "word": "abnegate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to deny or renounce:",
+        "defn_zh": "放棄/克制"
+      },
+      {
+        "word": "abolish",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to formally put an end to a system, practice, or institution:",
+        "defn_zh": "廢除"
+      },
+      {
+        "word": "abort",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to give up on a half-finished project or effort:",
+        "defn_zh": "中止/放棄"
+      },
+      {
+        "word": "abrade",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to scrape or wear away by friction:",
+        "defn_zh": "磨損;擦傷"
+      },
+      {
+        "word": "abscond",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to sneak away and hide:",
+        "defn_zh": "潛逃/逃匿"
+      }
+    ],
+    "adj.": [
+      {
+        "word": "abortive",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "fruitless, failing:",
+        "defn_zh": "失敗的/夭折的"
+      },
+      {
+        "word": "abstemious",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "moderate in eating or drinking:",
+        "defn_zh": "飲食有節制的"
+      },
+      {
+        "word": "abhorrent",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "detestable, despised:",
+        "defn_zh": "令人厭惡的"
+      },
+      {
+        "word": "absurd",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "ridiculous:",
+        "defn_zh": "荒謬的"
+      },
+      {
+        "word": "aberrant",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "deviating from what is normal or expected:",
+        "defn_zh": "異常的;脫軌的"
+      },
+      {
+        "word": "abject",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "wretched, pitiful:",
+        "defn_zh": "卑賤的/淒慘的"
+      },
+      {
+        "word": "abominable",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "causing moral revulsion; extremely unpleasant:",
+        "defn_zh": "可憎的;惡劣的"
+      },
+      {
+        "word": "abounding",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "existing in large numbers or amounts:",
+        "defn_zh": "大量存在的;豐富的"
+      },
+      {
+        "word": "abrasive",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "showing little concern for others; harsh:",
+        "defn_zh": "粗暴的/刺耳的"
+      },
+      {
+        "word": "abrupt",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "sudden or unexpected; brief and curt in manner:",
+        "defn_zh": "突然的/唐突的"
+      },
+      {
+        "word": "abstract",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "existing purely in the mind; not representing actual reality:",
+        "defn_zh": "抽象的"
+      },
+      {
+        "word": "abstruse",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "hard to comprehend:",
+        "defn_zh": "深奧難懂的"
+      }
+    ],
+    "n.": [
+      {
+        "word": "aversion",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "strong dislike, opposition:",
+        "defn_zh": "厭惡/反感"
+      },
+      {
+        "word": "aberration",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "something that differs from the norm:",
+        "defn_zh": "異常/脫軌"
+      },
+      {
+        "word": "abjection",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a state of complete misery, hopelessness, or degradation:",
+        "defn_zh": "卑賤;悲慘狀態"
+      },
+      {
+        "word": "abjuration",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the solemn renunciation of a belief, cause, or claim:",
+        "defn_zh": "公開放棄;誓絕"
+      },
+      {
+        "word": "ablution",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the act of washing oneself, especially as part of a religious ritual:",
+        "defn_zh": "沐浴;淨身儀式"
+      },
+      {
+        "word": "abnegation",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "denial of comfort to oneself:",
+        "defn_zh": "自我克制/放棄"
+      },
+      {
+        "word": "abomination",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "something that causes disgust or hatred:",
+        "defn_zh": "可憎之事;令人厭惡的東西"
+      },
+      {
+        "word": "abridgement",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a shortened version of a book or other written work:",
+        "defn_zh": "節略本;縮減版"
+      },
+      {
+        "word": "absolution",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "freedom from blame, guilt, sin:",
+        "defn_zh": "赦免/免罪"
+      },
+      {
+        "word": "abstemiousness",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "moderation or self-restraint, especially in eating and drinking:",
+        "defn_zh": "節制;克己"
+      },
+      {
+        "word": "abstinence",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the practice of restraining oneself from something enjoyable, especially food, alcohol, or sex:",
+        "defn_zh": "節制;戒絕"
+      },
+      {
+        "word": "avocation",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a hobby or minor occupation apart from one's main career:",
+        "defn_zh": "副業;業餘愛好"
+      }
+    ],
+    "adv.": [
+      {
+        "word": "accordingly",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in a manner that fits the circumstances; consequently:",
+        "defn_zh": "相應地;因此"
+      },
+      {
+        "word": "inadvertently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "unintentionally or by accident:",
+        "defn_zh": "無意間/不小心地"
+      },
+      {
+        "word": "consequently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "as a result; therefore:",
+        "defn_zh": "因此;結果"
+      },
+      {
+        "word": "contemptuously",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "without respect; in a disdainful manner:",
+        "defn_zh": "輕蔑地"
+      },
+      {
+        "word": "involuntarily",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "done without conscious control:",
+        "defn_zh": "不由自主地"
+      },
+      {
+        "word": "cordially",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in a warm or friendly manner:",
+        "defn_zh": "誠摯地/友好地"
+      },
+      {
+        "word": "ipso facto",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "by that very fact or act:",
+        "defn_zh": "事實上;因此"
+      },
+      {
+        "word": "en passant",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in passing; incidentally:",
+        "defn_zh": "順帶一提地;偶然地"
+      },
+      {
+        "word": "regardless",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "despite the prevailing circumstances; without being deterred:",
+        "defn_zh": "不管怎樣;儘管如此"
+      },
+      {
+        "word": "subsequently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "afterward; following in time or order:",
+        "defn_zh": "隨後;其後"
+      },
+      {
+        "word": "aside",
+        "pos": "adv./n.",
+        "pos_key": "adv.",
+        "defn_en": "to or on one side; a remark not meant to be heard by everyone:",
+        "defn_zh": "在旁邊;旁白"
+      },
+      {
+        "word": "vice versa",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "with the order or meaning reversed; conversely:",
+        "defn_zh": "反之亦然"
+      }
+    ],
+    "other": [
+      {
+        "word": "（此批單字中，暫無符合此字根/字首的單字）",
+        "pos": "",
+        "pos_key": "other",
+        "defn_en": "",
+        "defn_zh": ""
+      }
+    ],
+    "prep./adv.": [
+      {
+        "word": "besides",
+        "pos": "prep./adv.",
+        "pos_key": "prep./adv.",
+        "defn_en": "in addition to; furthermore:",
+        "defn_zh": "除...之外;此外"
+      }
+    ],
+    "phrasalv.": [
+      {
+        "word": "egg on",
+        "pos": "phrasal v.",
+        "pos_key": "phrasalv.",
+        "defn_en": "to encourage someone to do something, often risky:",
+        "defn_zh": "慫恿;鼓動"
+      }
+    ],
+    "abbr.": [
+      {
+        "word": "etc.",
+        "pos": "abbr.",
+        "pos_key": "abbr.",
+        "defn_en": "and other similar things (abbreviation of et cetera):",
+        "defn_zh": "等等(et cetera的縮寫)"
+      }
+    ],
+    "interj.": [
+      {
+        "word": "fiddledeedee",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "an exclamation expressing dismissal of something as nonsense:",
+        "defn_zh": "廢話!(表示不屑一顧)"
+      },
+      {
+        "word": "gesundheit",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "an expression said to someone who has just sneezed:",
+        "defn_zh": "保重(打噴嚏後的祝福語)"
+      }
+    ],
+    "prep.": [
+      {
+        "word": "via",
+        "pos": "prep.",
+        "pos_key": "prep.",
+        "defn_en": "by way of; passing through:",
+        "defn_zh": "經由;透過"
+      }
+    ]
+  }
+}
