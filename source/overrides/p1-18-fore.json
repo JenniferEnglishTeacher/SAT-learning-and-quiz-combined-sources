@@ -1,0 +1,127 @@
+{
+  "id": "p1-18-fore",
+  "name": "fore",
+  "subtitle": "前；預先",
+  "words": [
+    {
+      "word": "forestall", "pos": "v.", "pos_key": "v.",
+      "defn_en": "to prevent or obstruct something from happening by taking action ahead of time:", "defn_zh": "預先阻止；先發制人；阻礙",
+      "synonyms": ["preempt", "prevent", "thwart", "avert"], "antonyms": ["facilitate", "permit", "encourage", "allow"],
+      "root_note": "fore- (before) + stall (stop or delay)",
+      "sentences": [
+        {"en": "The committee lowered interest rates to ______ an impending recession.", "zh": "委員會降低利率，以預先阻止即將到來的經濟衰退。"},
+        {"en": "She began her research weeks early to ______ any last-minute panic.", "zh": "她提前數週開始研究，以避免最後一刻的慌亂。"}
+      ], "category": {"part": 1, "num": "18", "spelling": "fore", "meaning": "前；預先"}
+    },
+    {
+      "word": "foreboding", "pos": "n.", "pos_key": "n.",
+      "defn_en": "a strong, dark feeling that something bad is about to happen:", "defn_zh": "凶兆；不祥的預感",
+      "synonyms": ["apprehension", "premonition", "dread", "presentiment"], "antonyms": ["optimism", "assurance", "hopefulness", "calmness"],
+      "root_note": "fore- (before) + boding (predicting or warning)",
+      "sentences": [
+        {"en": "As the travelers entered the silent castle, a wave of ______ made them stop.", "zh": "旅人走進寂靜城堡時，一陣不祥的預感讓他們停下腳步。"},
+        {"en": "The dark clouds over the ocean filled the villagers with deep ______.", "zh": "海面上陰暗沉重的烏雲，使村民心中充滿深深的不祥之感。"}
+      ], "category": {"part": 1, "num": "18", "spelling": "fore", "meaning": "前；預先"}
+    },
+    {
+      "word": "forebear", "pos": "n.", "pos_key": "n.",
+      "defn_en": "an ancestor or forefather, especially one from several generations ago:", "defn_zh": "祖先；祖宗",
+      "synonyms": ["ancestor", "forefather", "predecessor", "progenitor"], "antonyms": ["descendant", "posterity", "offspring"],
+      "root_note": "fore- (before) + bear (one who existed or bore life earlier)",
+      "sentences": [
+        {"en": "The museum displayed farming tools used by each ______ of the local community.", "zh": "博物館展出當地社區祖先曾使用的農具。"},
+        {"en": "The tribe protected the sacred mountains where every ______ had hunted for generations.", "zh": "該部落保護祖先世代狩獵的神聖山脈。"}
+      ], "category": {"part": 1, "num": "18", "spelling": "fore", "meaning": "前；預先"}
+    },
+    {
+      "word": "forerunner", "pos": "n.", "pos_key": "n.",
+      "defn_en": "a sign, person, or thing that comes before and points toward a later development:", "defn_zh": "先驅；前身；預兆",
+      "synonyms": ["precursor", "herald", "harbinger", "prototype"], "antonyms": ["successor", "follower", "derivative"],
+      "root_note": "fore- (before) + runner (one that goes ahead)",
+      "sentences": [
+        {"en": "The bulky mobile phone was a primitive ______ of today's smartphones.", "zh": "笨重的早期行動電話是今日智慧型手機的原始前身。"},
+        {"en": "A mild cough and fever can be a ______ of a more serious infection.", "zh": "輕微咳嗽和發燒可能是更嚴重感染的預兆。"}
+      ], "category": {"part": 1, "num": "18", "spelling": "fore", "meaning": "前；預先"}
+    },
+    {
+      "word": "foreordain", "pos": "v.", "pos_key": "v.",
+      "defn_en": "to determine, appoint, or decree an outcome completely in advance:", "defn_zh": "預先注定；冥冥中注定",
+      "synonyms": ["predestine", "doom", "predetermine", "prearrange"], "antonyms": ["randomize", "leave to chance", "leave undecided"],
+      "root_note": "fore- (before) + ordain (decree or appoint)",
+      "sentences": [
+        {"en": "The witches claim that supernatural powers ______ the hero's tragic fate.", "zh": "女巫聲稱超自然力量早已注定英雄的悲劇命運。"},
+        {"en": "No set of early victories can ______ a team's final championship.", "zh": "再多的早期勝利也不能預先注定一支球隊最終奪冠。"}
+      ], "category": {"part": 1, "num": "18", "spelling": "fore", "meaning": "前；預先"}
+    },
+    {
+      "word": "foresight", "pos": "n.", "pos_key": "n.",
+      "defn_en": "the ability to predict or plan wisely for future events or needs:", "defn_zh": "遠見；先見之明",
+      "synonyms": ["prudence", "preparedness", "anticipation", "prescience"], "antonyms": ["hindsight", "recklessness", "carelessness", "short-sightedness"],
+      "root_note": "fore- (before) + sight (vision)",
+      "sentences": [
+        {"en": "The CEO's ______ in building cash reserves helped the company survive the crash.", "zh": "執行長預先建立現金儲備的遠見，幫助公司度過市場崩盤。"},
+        {"en": "An experienced mountaineer has the ______ to pack emergency blankets and maps.", "zh": "經驗豐富的登山者有先見之明，會攜帶緊急毯和地圖。"}
+      ], "category": {"part": 1, "num": "18", "spelling": "fore", "meaning": "前；預先"}
+    },
+    {
+      "word": "foreknowledge", "pos": "n.", "pos_key": "n.",
+      "defn_en": "awareness or knowledge of something before it happens or exists:", "defn_zh": "預知；先見；事先知曉",
+      "synonyms": ["prescience", "precognition", "prior awareness"], "antonyms": ["ignorance", "unawareness", "surprise"],
+      "root_note": "fore- (before) + knowledge (awareness)",
+      "sentences": [
+        {"en": "The prosecutor argued that the executive had ______ of the bankruptcy before selling his shares.", "zh": "檢察官主張該主管在賣出股票前已事先知道公司將破產。"},
+        {"en": "______ of the hurricane's path allowed officials to evacuate coastal neighborhoods.", "zh": "預先得知颶風路徑，使官員能撤離沿海社區。"}
+      ], "category": {"part": 1, "num": "18", "spelling": "fore", "meaning": "前；預先"}
+    },
+    {
+      "word": "foreseeable", "pos": "adj.", "pos_key": "adj.",
+      "defn_en": "able to be anticipated, predicted, or calculated beforehand:", "defn_zh": "可預見的；意料之中的",
+      "synonyms": ["predictable", "anticipated", "likely", "expected"], "antonyms": ["unforeseeable", "unpredictable", "unexpected", "hidden"],
+      "root_note": "fore- (before) + see (perceive) + -able (capable of)",
+      "sentences": [
+        {"en": "The startup will remain a major industry force for the ______ future.", "zh": "在可預見的未來，這家新創公司仍將是產業的重要力量。"},
+        {"en": "The fire was a ______ disaster because the owner had ignored damaged wiring.", "zh": "由於業主忽視損壞的電線，這場火災是可以預見的災難。"}
+      ], "category": {"part": 1, "num": "18", "spelling": "fore", "meaning": "前；預先"}
+    },
+    {
+      "word": "foremost", "pos": "adj.", "pos_key": "adj.",
+      "defn_en": "most prominent in rank, importance, or position; leading or primary:", "defn_zh": "首屈一指的；最要緊的；首要的",
+      "synonyms": ["paramount", "leading", "premier", "principal"], "antonyms": ["minor", "insignificant", "subordinate", "last"],
+      "root_note": "fore- (front) + -most (furthest in degree)",
+      "sentences": [
+        {"en": "Dr. Reynolds is recognized as the world's ______ expert on deep-sea biology.", "zh": "雷諾茲博士被公認為全球深海生物學領域首屈一指的專家。"},
+        {"en": "Consumer safety must remain our ______ priority when designing electric cars.", "zh": "設計電動車時，消費者安全必須始終是首要考量。"}
+      ], "category": {"part": 1, "num": "18", "spelling": "fore", "meaning": "前；預先"}
+    },
+    {
+      "word": "foreshadow", "pos": "v.", "pos_key": "v.",
+      "defn_en": "to be a warning, sign, or structural hint of a future event:", "defn_zh": "鋪墊；預示；伏筆",
+      "synonyms": ["augur", "portend", "presage", "prefigure"], "antonyms": ["recount", "review", "recall"],
+      "root_note": "fore- (before) + shadow (faint indication)",
+      "sentences": [
+        {"en": "The author uses the cracking oak tree to ______ the destruction of the estate.", "zh": "作者利用橡樹的裂開聲，為莊園最終毀滅埋下伏筆。"},
+        {"en": "The local protests would ______ the national revolution that erupted the next year.", "zh": "地方抗議活動預示隔年爆發的全國性革命。"}
+      ], "category": {"part": 1, "num": "18", "spelling": "fore", "meaning": "前；預先"}
+    },
+    {
+      "word": "forefront", "pos": "n.", "pos_key": "n.",
+      "defn_en": "the leading, most important, or most active position in a movement or field:", "defn_zh": "最前線；最尖端；受矚目的核心",
+      "synonyms": ["vanguard", "cutting edge", "lead position"], "antonyms": ["background", "rear", "obscurity"],
+      "root_note": "fore- (front or before) + front (leading position)",
+      "sentences": [
+        {"en": "The university stands at the ______ of renewable-energy research.", "zh": "這所大學處於再生能源研究的最前沿。"},
+        {"en": "She moved to the ______ of the environmental movement and addressed lawmakers.", "zh": "她走到環保運動最前線，直接向立法者發言。"}
+      ], "category": {"part": 1, "num": "18", "spelling": "fore", "meaning": "前；預先"}
+    },
+    {
+      "word": "foretaste", "pos": "n.", "pos_key": "n.",
+      "defn_en": "a small sample or brief experience of something larger that will happen later:", "defn_zh": "提前體驗；初次嘗試；預兆",
+      "synonyms": ["preview", "sample", "inkling", "appetizer"], "antonyms": ["culmination", "completion", "aftermath"],
+      "root_note": "fore- (before) + taste (small experience)",
+      "sentences": [
+        {"en": "The early heatwave gave the city a miserable ______ of the summer ahead.", "zh": "初春熱浪讓這座城市提前領略即將到來的炎夏之苦。"},
+        {"en": "The short prototype video gave players an exciting ______ of the virtual world.", "zh": "短片讓玩家提前體驗精彩的虛擬世界。"}
+      ], "category": {"part": 1, "num": "18", "spelling": "fore", "meaning": "前；預先"}
+    }
+  ]
+}

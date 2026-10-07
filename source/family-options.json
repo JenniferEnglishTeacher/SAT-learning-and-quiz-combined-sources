@@ -36,36 +36,29 @@
     ]
   },
   "p1-18-fore": {
-    "n.": [
-      {
-        "word": "foresight",
-        "pos": "n.",
-        "defn_en": "the ability to anticipate what will happen and prepare for it:",
-        "defn_zh": "先見之明；遠見",
-        "derived_from": "foresee"
-      }
-    ],
     "v.": [
       {
-        "word": "forebode",
+        "word": "foresee",
         "pos": "v.",
-        "defn_en": "to predict or indicate that something bad is going to happen:",
-        "defn_zh": "預示；預兆",
-        "derived_from": "foreboding"
+        "defn_en": "to know or predict that something will happen before it occurs:",
+        "defn_zh": "預見；預知",
+        "derived_from": "foreseeable"
+      }
+    ],
+    "adj.": [
+      {
+        "word": "foreknown",
+        "pos": "adj.",
+        "defn_en": "known or understood in advance:",
+        "defn_zh": "預先知道的",
+        "derived_from": "foreknowledge"
       },
       {
-        "word": "forecast",
-        "pos": "v.",
-        "defn_en": "to predict a future event or condition:",
-        "defn_zh": "預測；預報",
-        "derived_from": "forecast"
-      },
-      {
-        "word": "forerun",
-        "pos": "v.",
-        "defn_en": "to come before and signal the approach of something:",
-        "defn_zh": "先於；預示",
-        "derived_from": "forerunner"
+        "word": "foresighted",
+        "pos": "adj.",
+        "defn_en": "showing wise preparation for future needs or events:",
+        "defn_zh": "有遠見的；深謀遠慮的",
+        "derived_from": "foresight"
       }
     ]
   },
