@@ -1,0 +1,865 @@
+{
+  "id": "p1-52-uni",
+  "part": "part1",
+  "part_label": "Part 1 字首篇 (Prefixes)",
+  "name": "uni",
+  "subtitle": "單一；一",
+  "count": 12,
+  "words": [
+    {
+      "word": "universal",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "existing everywhere or applying to all people, cases, or things:",
+      "defn_zh": "普遍的；全宇宙的；通用的",
+      "synonyms": [
+        "ubiquitous",
+        "comprehensive",
+        "widespread",
+        "worldwide"
+      ],
+      "antonyms": [
+        "particular",
+        "localized",
+        "restricted",
+        "unique"
+      ],
+      "root_note": "uni- (one) + vers (turn) + -al, meaning combined into one whole",
+      "sentences": [
+        {
+          "en": "Smiling is often considered a ______ human expression understood across cultures.",
+          "zh": "微笑常被視為跨文化都能理解的人類普遍表情。"
+        },
+        {
+          "en": "The activists argued that access to clean water should be a ______ right.",
+          "zh": "活動人士主張，獲得乾淨飲水應是一項普遍權利。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "52",
+        "spelling": "uni",
+        "meaning": "單一；一"
+      }
+    },
+    {
+      "word": "unilateral",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "performed by or affecting only one person, group, or country without the agreement of others:",
+      "defn_zh": "單邊的；單方面的",
+      "synonyms": [
+        "one-sided",
+        "independent",
+        "autocratic"
+      ],
+      "antonyms": [
+        "bilateral",
+        "multilateral",
+        "joint"
+      ],
+      "root_note": "uni- (one) + lateral (side)",
+      "sentences": [
+        {
+          "en": "The country faced criticism after making a ______ decision to impose a trade embargo.",
+          "zh": "該國作出實施貿易禁運的單邊決定後，遭到強烈批評。"
+        },
+        {
+          "en": "The manager made a ______ change to the contracts without consulting the suppliers.",
+          "zh": "經理未與供應商商量便單方面更改合約。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "52",
+        "spelling": "uni",
+        "meaning": "單一；一"
+      }
+    },
+    {
+      "word": "uniformity",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "the state or quality of being regular, consistent, or identical throughout:",
+      "defn_zh": "均勻性；一致性；無差異",
+      "synonyms": [
+        "sameness",
+        "consistency",
+        "homogeneity",
+        "regularity"
+      ],
+      "antonyms": [
+        "variety",
+        "diversity",
+        "inconsistency",
+        "divergence"
+      ],
+      "root_note": "uni- (one) + form (shape) + -ity",
+      "sentences": [
+        {
+          "en": "The factory uses precision robots to ensure strict ______ in every steel component.",
+          "zh": "工廠使用精密機器人，確保每個鋼製零件都高度一致。"
+        },
+        {
+          "en": "The critic disliked the endless ______ of identical gray houses in the neighborhood.",
+          "zh": "評論家不喜歡社區裡相同灰色房屋無止盡的單一性。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "52",
+        "spelling": "uni",
+        "meaning": "單一；一"
+      }
+    },
+    {
+      "word": "unify",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to bring separate parts, groups, or elements together as one cohesive unit:",
+      "defn_zh": "統一；使聯合",
+      "synonyms": [
+        "consolidate",
+        "amalgamate",
+        "merge",
+        "integrate"
+      ],
+      "antonyms": [
+        "divide",
+        "separate",
+        "fragment",
+        "sever"
+      ],
+      "root_note": "uni- (one) + -fy (make)",
+      "sentences": [
+        {
+          "en": "The president delivered a speech intended to ______ the divided political parties.",
+          "zh": "總統發表演說，旨在團結分裂的政黨。"
+        },
+        {
+          "en": "The developer created an application to ______ several email accounts in one inbox.",
+          "zh": "開發者建立應用程式，將多個電子郵件帳戶整合至單一收件匣。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "52",
+        "spelling": "uni",
+        "meaning": "單一；一"
+      }
+    },
+    {
+      "word": "unison",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "simultaneous action or speech, or voices sounding the same note at the same time:",
+      "defn_zh": "一致；齊唱；同時行動",
+      "synonyms": [
+        "accord",
+        "harmony",
+        "synchronization",
+        "chorus"
+      ],
+      "antonyms": [
+        "discord",
+        "disharmony",
+        "divergence"
+      ],
+      "root_note": "uni- (one) + son (sound)",
+      "sentences": [
+        {
+          "en": "The students sang the opening verse in perfect ______ before dividing into harmonies.",
+          "zh": "學生先完美齊唱開場歌詞，然後才分成不同聲部。"
+        },
+        {
+          "en": "The soldiers marched in complete ______, their boots striking the ground together.",
+          "zh": "士兵步伐完全一致，靴子同時踏向地面。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "52",
+        "spelling": "uni",
+        "meaning": "單一；一"
+      }
+    },
+    {
+      "word": "uniparous",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "producing or giving birth to only one offspring at a time:",
+      "defn_zh": "每胎產一子的；單產的",
+      "synonyms": [
+        "single-bearing",
+        "single-offspring"
+      ],
+      "antonyms": [
+        "multiparous",
+        "multiple-bearing"
+      ],
+      "root_note": "uni- (one) + parous (bearing offspring)",
+      "sentences": [
+        {
+          "en": "Elephants and whales are generally ______ mammals that invest heavily in one calf.",
+          "zh": "大象和鯨魚通常是每胎產一子的哺乳類，並大量照顧單一幼崽。"
+        },
+        {
+          "en": "Because cows are typically ______, the farmer was surprised when twins were born.",
+          "zh": "因為牛通常是單產的，所以牛生下雙胞胎時農夫非常驚喜。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "52",
+        "spelling": "uni",
+        "meaning": "單一；一"
+      }
+    },
+    {
+      "word": "unique",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "being the only one of its kind or completely unlike anything else:",
+      "defn_zh": "獨一無二的；獨特的",
+      "synonyms": [
+        "peerless",
+        "singular",
+        "distinctive",
+        "one-of-a-kind"
+      ],
+      "antonyms": [
+        "common",
+        "generic",
+        "ordinary",
+        "typical"
+      ],
+      "root_note": "uni- (one) + -que, from Latin unicus (only one)",
+      "sentences": [
+        {
+          "en": "The curator confirmed that the ancient gold coin was ______ and had no known duplicate.",
+          "zh": "館長證實這枚古代金幣獨一無二，沒有已知複製品。"
+        },
+        {
+          "en": "Her experience in engineering and art gives her a ______ perspective on medical design.",
+          "zh": "她的工程與藝術經驗，使她對醫療設計擁有獨特觀點。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "52",
+        "spelling": "uni",
+        "meaning": "單一；一"
+      }
+    },
+    {
+      "word": "unicameral",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "having only one legislative chamber or parliamentary house:",
+      "defn_zh": "一院制的；單院制的",
+      "synonyms": [
+        "single-chambered",
+        "one-house"
+      ],
+      "antonyms": [
+        "bicameral",
+        "two-chambered"
+      ],
+      "root_note": "uni- (one) + camera (chamber) + -al",
+      "sentences": [
+        {
+          "en": "New Zealand has a ______ parliament consisting of a single legislative house.",
+          "zh": "紐西蘭擁有由單一議院組成的一院制國會。"
+        },
+        {
+          "en": "The state adopted a ______ legislature in hopes of passing laws more efficiently.",
+          "zh": "該州採用單院制立法機關，希望更有效率地通過法律。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "52",
+        "spelling": "uni",
+        "meaning": "單一；一"
+      }
+    },
+    {
+      "word": "unidirectional",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "moving, operating, or flowing in only one direction:",
+      "defn_zh": "單向的",
+      "synonyms": [
+        "one-way",
+        "single-direction",
+        "single-path"
+      ],
+      "antonyms": [
+        "bidirectional",
+        "multidirectional",
+        "two-way"
+      ],
+      "root_note": "uni- (one) + directional (relating to direction)",
+      "sentences": [
+        {
+          "en": "Traffic on the narrow mountain road becomes strictly ______ during evening hours.",
+          "zh": "這條狹窄山路在晚間實施嚴格的單向通行。"
+        },
+        {
+          "en": "The interviewer used a ______ microphone to reduce surrounding crowd noise.",
+          "zh": "採訪者使用單向麥克風，以降低周圍人群噪音。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "52",
+        "spelling": "uni",
+        "meaning": "單一；一"
+      }
+    },
+    {
+      "word": "unicellular",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "made up of only one cell:",
+      "defn_zh": "單細胞的",
+      "synonyms": [
+        "single-celled",
+        "one-celled"
+      ],
+      "antonyms": [
+        "multicellular",
+        "many-celled"
+      ],
+      "root_note": "uni- (one) + cellular (relating to cells)",
+      "sentences": [
+        {
+          "en": "Amoebas and many bacteria are ______ organisms that perform all life functions in one cell.",
+          "zh": "阿米巴原蟲與許多細菌是在一個細胞內完成所有生命功能的單細胞生物。"
+        },
+        {
+          "en": "For billions of years, life on Earth consisted entirely of simple ______ entities.",
+          "zh": "數十億年間，地球生命完全由簡單的單細胞個體構成。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "52",
+        "spelling": "uni",
+        "meaning": "單一；一"
+      }
+    },
+    {
+      "word": "unimodal",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "having only one mode or one clear peak in a statistical distribution:",
+      "defn_zh": "單峰的；單眾數的",
+      "synonyms": [
+        "single-peaked",
+        "one-mode"
+      ],
+      "antonyms": [
+        "bimodal",
+        "multimodal",
+        "multi-peaked"
+      ],
+      "root_note": "uni- (one) + modal (relating to a mode)",
+      "sentences": [
+        {
+          "en": "The customer-visit data formed a ______ distribution that peaked sharply at noon.",
+          "zh": "顧客到訪資料形成了在中午急劇達峰的單峰分佈。"
+        },
+        {
+          "en": "The test scores followed a ______ curve centered near the class average.",
+          "zh": "考試成績呈現以全班平均分附近為中心的單峰曲線。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "52",
+        "spelling": "uni",
+        "meaning": "單一；一"
+      }
+    },
+    {
+      "word": "unisonant",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "sounding alike, blending harmoniously, or being completely in agreement:",
+      "defn_zh": "同音的；和諧一致的",
+      "synonyms": [
+        "concordant",
+        "harmonious",
+        "agreeing"
+      ],
+      "antonyms": [
+        "dissonant",
+        "discordant",
+        "clashing"
+      ],
+      "root_note": "uni- (one) + sonant (sounding)",
+      "sentences": [
+        {
+          "en": "The actors delivered a ______ performance whose blended voices emphasized collective grief.",
+          "zh": "演員們帶來和諧一致的演出，融合的聲音強調了集體悲傷。"
+        },
+        {
+          "en": "The council expressed ______ opposition to the proposed factory near the park.",
+          "zh": "委員會一致反對在公園附近興建工廠的提案。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "52",
+        "spelling": "uni",
+        "meaning": "單一；一"
+      }
+    }
+  ],
+  "family_options": {
+    "n.": [
+      {
+        "word": "unity",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the state of being joined together as one whole:",
+        "defn_zh": "團結；統一；一致",
+        "derived_from": "unify"
+      },
+      {
+        "word": "uniqueness",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the quality of being the only one of a kind or especially distinctive:",
+        "defn_zh": "獨特性；獨一無二",
+        "derived_from": "unique"
+      }
+    ],
+    "v.": [
+      {
+        "word": "universalize",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to make something apply to or be available to everyone:",
+        "defn_zh": "使普遍化；使通用",
+        "derived_from": "universal"
+      },
+      {
+        "word": "uniform",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to make something consistent or the same throughout:",
+        "defn_zh": "使一致；使整齊劃一",
+        "derived_from": "uniformity"
+      }
+    ]
+  },
+  "fallback_options": {
+    "v.": [
+      {
+        "word": "abound",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to exist in great numbers:",
+        "defn_zh": "充滿"
+      },
+      {
+        "word": "abrogate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to deprive of legal force, to nullify:=abolish",
+        "defn_zh": "廢除/取消"
+      },
+      {
+        "word": "abjure",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to renounce, abstain from:",
+        "defn_zh": "發誓放棄/棄絕"
+      },
+      {
+        "word": "abbreviate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to shorten a word or phrase:",
+        "defn_zh": "縮寫;縮短"
+      },
+      {
+        "word": "abdicate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to give up a position, usually one of leadership:",
+        "defn_zh": "退位/放棄(職位)"
+      },
+      {
+        "word": "abduct",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to kidnap, take by force:",
+        "defn_zh": "綁架/劫持"
+      },
+      {
+        "word": "abhor",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to regard with disgust and hatred:",
+        "defn_zh": "憎惡/厭惡"
+      },
+      {
+        "word": "abnegate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to deny or renounce:",
+        "defn_zh": "放棄/克制"
+      },
+      {
+        "word": "abolish",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to formally put an end to a system, practice, or institution:",
+        "defn_zh": "廢除"
+      },
+      {
+        "word": "abort",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to give up on a half-finished project or effort:",
+        "defn_zh": "中止/放棄"
+      },
+      {
+        "word": "abrade",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to scrape or wear away by friction:",
+        "defn_zh": "磨損;擦傷"
+      },
+      {
+        "word": "abscond",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to sneak away and hide:",
+        "defn_zh": "潛逃/逃匿"
+      }
+    ],
+    "adj.": [
+      {
+        "word": "abortive",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "fruitless, failing:",
+        "defn_zh": "失敗的/夭折的"
+      },
+      {
+        "word": "abstemious",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "moderate in eating or drinking:",
+        "defn_zh": "飲食有節制的"
+      },
+      {
+        "word": "abhorrent",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "detestable, despised:",
+        "defn_zh": "令人厭惡的"
+      },
+      {
+        "word": "absurd",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "ridiculous:",
+        "defn_zh": "荒謬的"
+      },
+      {
+        "word": "aberrant",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "deviating from what is normal or expected:",
+        "defn_zh": "異常的;脫軌的"
+      },
+      {
+        "word": "abject",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "wretched, pitiful:",
+        "defn_zh": "卑賤的/淒慘的"
+      },
+      {
+        "word": "abominable",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "causing moral revulsion; extremely unpleasant:",
+        "defn_zh": "可憎的;惡劣的"
+      },
+      {
+        "word": "abounding",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "existing in large numbers or amounts:",
+        "defn_zh": "大量存在的;豐富的"
+      },
+      {
+        "word": "abrasive",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "showing little concern for others; harsh:",
+        "defn_zh": "粗暴的/刺耳的"
+      },
+      {
+        "word": "abrupt",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "sudden or unexpected; brief and curt in manner:",
+        "defn_zh": "突然的/唐突的"
+      },
+      {
+        "word": "abstract",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "existing purely in the mind; not representing actual reality:",
+        "defn_zh": "抽象的"
+      },
+      {
+        "word": "abstruse",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "hard to comprehend:",
+        "defn_zh": "深奧難懂的"
+      }
+    ],
+    "n.": [
+      {
+        "word": "aversion",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "strong dislike, opposition:",
+        "defn_zh": "厭惡/反感"
+      },
+      {
+        "word": "aberration",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "something that differs from the norm:",
+        "defn_zh": "異常/脫軌"
+      },
+      {
+        "word": "abjection",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a state of complete misery, hopelessness, or degradation:",
+        "defn_zh": "卑賤;悲慘狀態"
+      },
+      {
+        "word": "abjuration",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the solemn renunciation of a belief, cause, or claim:",
+        "defn_zh": "公開放棄;誓絕"
+      },
+      {
+        "word": "ablution",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the act of washing oneself, especially as part of a religious ritual:",
+        "defn_zh": "沐浴;淨身儀式"
+      },
+      {
+        "word": "abnegation",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "denial of comfort to oneself:",
+        "defn_zh": "自我克制/放棄"
+      },
+      {
+        "word": "abomination",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "something that causes disgust or hatred:",
+        "defn_zh": "可憎之事;令人厭惡的東西"
+      },
+      {
+        "word": "abridgement",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a shortened version of a book or other written work:",
+        "defn_zh": "節略本;縮減版"
+      },
+      {
+        "word": "absolution",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "freedom from blame, guilt, sin:",
+        "defn_zh": "赦免/免罪"
+      },
+      {
+        "word": "abstemiousness",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "moderation or self-restraint, especially in eating and drinking:",
+        "defn_zh": "節制;克己"
+      },
+      {
+        "word": "abstinence",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the practice of restraining oneself from something enjoyable, especially food, alcohol, or sex:",
+        "defn_zh": "節制;戒絕"
+      },
+      {
+        "word": "avocation",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a hobby or minor occupation apart from one's main career:",
+        "defn_zh": "副業;業餘愛好"
+      }
+    ],
+    "adv.": [
+      {
+        "word": "accordingly",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in a manner that fits the circumstances; consequently:",
+        "defn_zh": "相應地;因此"
+      },
+      {
+        "word": "inadvertently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "unintentionally or by accident:",
+        "defn_zh": "無意間/不小心地"
+      },
+      {
+        "word": "consequently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "as a result; therefore:",
+        "defn_zh": "因此;結果"
+      },
+      {
+        "word": "contemptuously",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "without respect; in a disdainful manner:",
+        "defn_zh": "輕蔑地"
+      },
+      {
+        "word": "involuntarily",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "done without conscious control:",
+        "defn_zh": "不由自主地"
+      },
+      {
+        "word": "cordially",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in a warm or friendly manner:",
+        "defn_zh": "誠摯地/友好地"
+      },
+      {
+        "word": "ipso facto",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "by that very fact or act:",
+        "defn_zh": "事實上;因此"
+      },
+      {
+        "word": "en passant",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in passing; incidentally:",
+        "defn_zh": "順帶一提地;偶然地"
+      },
+      {
+        "word": "regardless",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "despite the prevailing circumstances; without being deterred:",
+        "defn_zh": "不管怎樣;儘管如此"
+      },
+      {
+        "word": "subsequently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "afterward; following in time or order:",
+        "defn_zh": "隨後;其後"
+      },
+      {
+        "word": "aside",
+        "pos": "adv./n.",
+        "pos_key": "adv.",
+        "defn_en": "to or on one side; a remark not meant to be heard by everyone:",
+        "defn_zh": "在旁邊;旁白"
+      },
+      {
+        "word": "vice versa",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "with the order or meaning reversed; conversely:",
+        "defn_zh": "反之亦然"
+      }
+    ],
+    "other": [
+      {
+        "word": "（此批單字中，暫無符合此字根/字首的單字）",
+        "pos": "",
+        "pos_key": "other",
+        "defn_en": "",
+        "defn_zh": ""
+      }
+    ],
+    "prep./adv.": [
+      {
+        "word": "besides",
+        "pos": "prep./adv.",
+        "pos_key": "prep./adv.",
+        "defn_en": "in addition to; furthermore:",
+        "defn_zh": "除...之外;此外"
+      }
+    ],
+    "phrasalv.": [
+      {
+        "word": "egg on",
+        "pos": "phrasal v.",
+        "pos_key": "phrasalv.",
+        "defn_en": "to encourage someone to do something, often risky:",
+        "defn_zh": "慫恿;鼓動"
+      }
+    ],
+    "abbr.": [
+      {
+        "word": "etc.",
+        "pos": "abbr.",
+        "pos_key": "abbr.",
+        "defn_en": "and other similar things (abbreviation of et cetera):",
+        "defn_zh": "等等(et cetera的縮寫)"
+      }
+    ],
+    "interj.": [
+      {
+        "word": "fiddledeedee",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "an exclamation expressing dismissal of something as nonsense:",
+        "defn_zh": "廢話!(表示不屑一顧)"
+      },
+      {
+        "word": "gesundheit",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "an expression said to someone who has just sneezed:",
+        "defn_zh": "保重(打噴嚏後的祝福語)"
+      }
+    ],
+    "prep.": [
+      {
+        "word": "via",
+        "pos": "prep.",
+        "pos_key": "prep.",
+        "defn_en": "by way of; passing through:",
+        "defn_zh": "經由;透過"
+      }
+    ]
+  }
+}

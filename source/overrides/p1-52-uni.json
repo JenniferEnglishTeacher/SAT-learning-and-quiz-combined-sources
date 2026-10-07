@@ -1,0 +1,164 @@
+{
+  "id": "p1-52-uni",
+  "merge_with_source": true,
+  "name": "uni",
+  "subtitle": "單一；一",
+  "words": [
+    {
+      "word": "unilateral", "pos": "adj.", "pos_key": "adj.",
+      "defn_en": "performed by or affecting only one person, group, or country without the agreement of others:",
+      "defn_zh": "單邊的；單方面的",
+      "synonyms": ["one-sided", "independent", "autocratic"],
+      "antonyms": ["bilateral", "multilateral", "joint"],
+      "root_note": "uni- (one) + lateral (side)",
+      "sentences": [
+        {"en": "The country faced criticism after making a ______ decision to impose a trade embargo.", "zh": "該國作出實施貿易禁運的單邊決定後，遭到強烈批評。"},
+        {"en": "The manager made a ______ change to the contracts without consulting the suppliers.", "zh": "經理未與供應商商量便單方面更改合約。"}
+      ],
+      "category": {"part": 1, "num": "52", "spelling": "uni", "meaning": "單一；一"}
+    },
+    {
+      "word": "universal", "pos": "adj.", "pos_key": "adj.",
+      "defn_en": "existing everywhere or applying to all people, cases, or things:",
+      "defn_zh": "普遍的；全宇宙的；通用的",
+      "synonyms": ["ubiquitous", "comprehensive", "widespread", "worldwide"],
+      "antonyms": ["particular", "localized", "restricted", "unique"],
+      "root_note": "uni- (one) + vers (turn) + -al, meaning combined into one whole",
+      "sentences": [
+        {"en": "Smiling is often considered a ______ human expression understood across cultures.", "zh": "微笑常被視為跨文化都能理解的人類普遍表情。"},
+        {"en": "The activists argued that access to clean water should be a ______ right.", "zh": "活動人士主張，獲得乾淨飲水應是一項普遍權利。"}
+      ],
+      "category": {"part": 1, "num": "52", "spelling": "uni", "meaning": "單一；一"}
+    },
+    {
+      "word": "uniformity", "pos": "n.", "pos_key": "n.",
+      "defn_en": "the state or quality of being regular, consistent, or identical throughout:",
+      "defn_zh": "均勻性；一致性；無差異",
+      "synonyms": ["sameness", "consistency", "homogeneity", "regularity"],
+      "antonyms": ["variety", "diversity", "inconsistency", "divergence"],
+      "root_note": "uni- (one) + form (shape) + -ity",
+      "sentences": [
+        {"en": "The factory uses precision robots to ensure strict ______ in every steel component.", "zh": "工廠使用精密機器人，確保每個鋼製零件都高度一致。"},
+        {"en": "The critic disliked the endless ______ of identical gray houses in the neighborhood.", "zh": "評論家不喜歡社區裡相同灰色房屋無止盡的單一性。"}
+      ],
+      "category": {"part": 1, "num": "52", "spelling": "uni", "meaning": "單一；一"}
+    },
+    {
+      "word": "unify", "pos": "v.", "pos_key": "v.",
+      "defn_en": "to bring separate parts, groups, or elements together as one cohesive unit:",
+      "defn_zh": "統一；使聯合",
+      "synonyms": ["consolidate", "amalgamate", "merge", "integrate"],
+      "antonyms": ["divide", "separate", "fragment", "sever"],
+      "root_note": "uni- (one) + -fy (make)",
+      "sentences": [
+        {"en": "The president delivered a speech intended to ______ the divided political parties.", "zh": "總統發表演說，旨在團結分裂的政黨。"},
+        {"en": "The developer created an application to ______ several email accounts in one inbox.", "zh": "開發者建立應用程式，將多個電子郵件帳戶整合至單一收件匣。"}
+      ],
+      "category": {"part": 1, "num": "52", "spelling": "uni", "meaning": "單一；一"}
+    },
+    {
+      "word": "unison", "pos": "n.", "pos_key": "n.",
+      "defn_en": "simultaneous action or speech, or voices sounding the same note at the same time:",
+      "defn_zh": "一致；齊唱；同時行動",
+      "synonyms": ["accord", "harmony", "synchronization", "chorus"],
+      "antonyms": ["discord", "disharmony", "divergence"],
+      "root_note": "uni- (one) + son (sound)",
+      "sentences": [
+        {"en": "The students sang the opening verse in perfect ______ before dividing into harmonies.", "zh": "學生先完美齊唱開場歌詞，然後才分成不同聲部。"},
+        {"en": "The soldiers marched in complete ______, their boots striking the ground together.", "zh": "士兵步伐完全一致，靴子同時踏向地面。"}
+      ],
+      "category": {"part": 1, "num": "52", "spelling": "uni", "meaning": "單一；一"}
+    },
+    {
+      "word": "uniparous", "pos": "adj.", "pos_key": "adj.",
+      "defn_en": "producing or giving birth to only one offspring at a time:",
+      "defn_zh": "每胎產一子的；單產的",
+      "synonyms": ["single-bearing", "single-offspring"],
+      "antonyms": ["multiparous", "multiple-bearing"],
+      "root_note": "uni- (one) + parous (bearing offspring)",
+      "sentences": [
+        {"en": "Elephants and whales are generally ______ mammals that invest heavily in one calf.", "zh": "大象和鯨魚通常是每胎產一子的哺乳類，並大量照顧單一幼崽。"},
+        {"en": "Because cows are typically ______, the farmer was surprised when twins were born.", "zh": "因為牛通常是單產的，所以牛生下雙胞胎時農夫非常驚喜。"}
+      ],
+      "category": {"part": 1, "num": "52", "spelling": "uni", "meaning": "單一；一"}
+    },
+    {
+      "word": "unique", "pos": "adj.", "pos_key": "adj.",
+      "defn_en": "being the only one of its kind or completely unlike anything else:",
+      "defn_zh": "獨一無二的；獨特的",
+      "synonyms": ["peerless", "singular", "distinctive", "one-of-a-kind"],
+      "antonyms": ["common", "generic", "ordinary", "typical"],
+      "root_note": "uni- (one) + -que, from Latin unicus (only one)",
+      "sentences": [
+        {"en": "The curator confirmed that the ancient gold coin was ______ and had no known duplicate.", "zh": "館長證實這枚古代金幣獨一無二，沒有已知複製品。"},
+        {"en": "Her experience in engineering and art gives her a ______ perspective on medical design.", "zh": "她的工程與藝術經驗，使她對醫療設計擁有獨特觀點。"}
+      ],
+      "category": {"part": 1, "num": "52", "spelling": "uni", "meaning": "單一；一"}
+    },
+    {
+      "word": "unicameral", "pos": "adj.", "pos_key": "adj.",
+      "defn_en": "having only one legislative chamber or parliamentary house:",
+      "defn_zh": "一院制的；單院制的",
+      "synonyms": ["single-chambered", "one-house"],
+      "antonyms": ["bicameral", "two-chambered"],
+      "root_note": "uni- (one) + camera (chamber) + -al",
+      "sentences": [
+        {"en": "New Zealand has a ______ parliament consisting of a single legislative house.", "zh": "紐西蘭擁有由單一議院組成的一院制國會。"},
+        {"en": "The state adopted a ______ legislature in hopes of passing laws more efficiently.", "zh": "該州採用單院制立法機關，希望更有效率地通過法律。"}
+      ],
+      "category": {"part": 1, "num": "52", "spelling": "uni", "meaning": "單一；一"}
+    },
+    {
+      "word": "unidirectional", "pos": "adj.", "pos_key": "adj.",
+      "defn_en": "moving, operating, or flowing in only one direction:",
+      "defn_zh": "單向的",
+      "synonyms": ["one-way", "single-direction", "single-path"],
+      "antonyms": ["bidirectional", "multidirectional", "two-way"],
+      "root_note": "uni- (one) + directional (relating to direction)",
+      "sentences": [
+        {"en": "Traffic on the narrow mountain road becomes strictly ______ during evening hours.", "zh": "這條狹窄山路在晚間實施嚴格的單向通行。"},
+        {"en": "The interviewer used a ______ microphone to reduce surrounding crowd noise.", "zh": "採訪者使用單向麥克風，以降低周圍人群噪音。"}
+      ],
+      "category": {"part": 1, "num": "52", "spelling": "uni", "meaning": "單一；一"}
+    },
+    {
+      "word": "unicellular", "pos": "adj.", "pos_key": "adj.",
+      "defn_en": "made up of only one cell:",
+      "defn_zh": "單細胞的",
+      "synonyms": ["single-celled", "one-celled"],
+      "antonyms": ["multicellular", "many-celled"],
+      "root_note": "uni- (one) + cellular (relating to cells)",
+      "sentences": [
+        {"en": "Amoebas and many bacteria are ______ organisms that perform all life functions in one cell.", "zh": "阿米巴原蟲與許多細菌是在一個細胞內完成所有生命功能的單細胞生物。"},
+        {"en": "For billions of years, life on Earth consisted entirely of simple ______ entities.", "zh": "數十億年間，地球生命完全由簡單的單細胞個體構成。"}
+      ],
+      "category": {"part": 1, "num": "52", "spelling": "uni", "meaning": "單一；一"}
+    },
+    {
+      "word": "unimodal", "pos": "adj.", "pos_key": "adj.",
+      "defn_en": "having only one mode or one clear peak in a statistical distribution:",
+      "defn_zh": "單峰的；單眾數的",
+      "synonyms": ["single-peaked", "one-mode"],
+      "antonyms": ["bimodal", "multimodal", "multi-peaked"],
+      "root_note": "uni- (one) + modal (relating to a mode)",
+      "sentences": [
+        {"en": "The customer-visit data formed a ______ distribution that peaked sharply at noon.", "zh": "顧客到訪資料形成了在中午急劇達峰的單峰分佈。"},
+        {"en": "The test scores followed a ______ curve centered near the class average.", "zh": "考試成績呈現以全班平均分附近為中心的單峰曲線。"}
+      ],
+      "category": {"part": 1, "num": "52", "spelling": "uni", "meaning": "單一；一"}
+    },
+    {
+      "word": "unisonant", "pos": "adj.", "pos_key": "adj.",
+      "defn_en": "sounding alike, blending harmoniously, or being completely in agreement:",
+      "defn_zh": "同音的；和諧一致的",
+      "synonyms": ["concordant", "harmonious", "agreeing"],
+      "antonyms": ["dissonant", "discordant", "clashing"],
+      "root_note": "uni- (one) + sonant (sounding)",
+      "sentences": [
+        {"en": "The actors delivered a ______ performance whose blended voices emphasized collective grief.", "zh": "演員們帶來和諧一致的演出，融合的聲音強調了集體悲傷。"},
+        {"en": "The council expressed ______ opposition to the proposed factory near the park.", "zh": "委員會一致反對在公園附近興建工廠的提案。"}
+      ],
+      "category": {"part": 1, "num": "52", "spelling": "uni", "meaning": "單一；一"}
+    }
+  ]
+}

@@ -398,5 +398,39 @@
         "derived_from": "twitterpated"
       }
     ]
+  },
+  "p1-52-uni": {
+    "n.": [
+      {
+        "word": "unity",
+        "pos": "n.",
+        "defn_en": "the state of being joined together as one whole:",
+        "defn_zh": "團結；統一；一致",
+        "derived_from": "unify"
+      },
+      {
+        "word": "uniqueness",
+        "pos": "n.",
+        "defn_en": "the quality of being the only one of a kind or especially distinctive:",
+        "defn_zh": "獨特性；獨一無二",
+        "derived_from": "unique"
+      }
+    ],
+    "v.": [
+      {
+        "word": "universalize",
+        "pos": "v.",
+        "defn_en": "to make something apply to or be available to everyone:",
+        "defn_zh": "使普遍化；使通用",
+        "derived_from": "universal"
+      },
+      {
+        "word": "uniform",
+        "pos": "v.",
+        "defn_en": "to make something consistent or the same throughout:",
+        "defn_zh": "使一致；使整齊劃一",
+        "derived_from": "uniformity"
+      }
+    ]
   }
 }
