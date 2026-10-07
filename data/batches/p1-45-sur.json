@@ -1,0 +1,922 @@
+{
+  "id": "p1-45-sur",
+  "part": "part1",
+  "part_label": "Part 1 字首篇 (Prefixes)",
+  "name": "sur",
+  "subtitle": "超過；在上；額外",
+  "count": 13,
+  "words": [
+    {
+      "word": "surfeit",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "an excessive or uncomfortably large amount of something:",
+      "defn_zh": "過量；過剩；過度",
+      "synonyms": [
+        "excess",
+        "glut",
+        "plethora",
+        "surplus"
+      ],
+      "antonyms": [
+        "dearth",
+        "scarcity",
+        "deficiency",
+        "shortage"
+      ],
+      "root_note": "sur- (over or beyond) + feit (make or do)",
+      "sentences": [
+        {
+          "en": "A ______ of rich desserts left everyone too full to move.",
+          "zh": "過量的精緻甜點讓每個人都飽得動不了。"
+        },
+        {
+          "en": "A sudden ______ of cheap imports forced local manufacturers to cut prices.",
+          "zh": "廉價進口商品突然過剩，迫使本地製造商降價。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "45",
+        "spelling": "sur",
+        "meaning": "超過；在上；額外"
+      }
+    },
+    {
+      "word": "surreptitious",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "done secretly or stealthily, especially because it would not be approved:",
+      "defn_zh": "秘密的；偷偷摸摸的；鬼鬼祟祟的",
+      "synonyms": [
+        "clandestine",
+        "furtive",
+        "stealthy",
+        "covert"
+      ],
+      "antonyms": [
+        "blatant",
+        "overt",
+        "transparent",
+        "open"
+      ],
+      "root_note": "sur- (under or secretly) + rept (creep) + -itious",
+      "sentences": [
+        {
+          "en": "The student cast a ______ glance at the phone hidden beneath the desk.",
+          "zh": "學生偷偷瞄了一眼藏在桌下的手機。"
+        },
+        {
+          "en": "She made a ______ recording to document the company's illegal activity.",
+          "zh": "她秘密錄音，以記錄公司的非法行為。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "45",
+        "spelling": "sur",
+        "meaning": "超過；在上；額外"
+      }
+    },
+    {
+      "word": "surly",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "bad-tempered, unfriendly, and rude in behavior or expression:",
+      "defn_zh": "脾氣暴躁的；粗暴無禮的",
+      "synonyms": [
+        "churlish",
+        "sullen",
+        "brusque",
+        "grumpy"
+      ],
+      "antonyms": [
+        "affable",
+        "genial",
+        "courteous",
+        "pleasant"
+      ],
+      "root_note": "surly (lordly or arrogant), from Middle English",
+      "sentences": [
+        {
+          "en": "The customer left because of the cashier's ______ attitude.",
+          "zh": "顧客因收銀員粗暴無禮的態度而離開。"
+        },
+        {
+          "en": "The ______ sailor barked short answers at anyone who approached him.",
+          "zh": "那名脾氣暴躁的水手對靠近他的人粗聲回答。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "45",
+        "spelling": "sur",
+        "meaning": "超過；在上；額外"
+      }
+    },
+    {
+      "word": "surmise",
+      "pos": "v./n.",
+      "pos_key": "v.",
+      "defn_en": "to guess that something is true without having certain or solid proof:",
+      "defn_zh": "推測；猜測",
+      "synonyms": [
+        "conjecture",
+        "speculate",
+        "deduce",
+        "infer"
+      ],
+      "antonyms": [
+        "know",
+        "verify",
+        "substantiate",
+        "prove"
+      ],
+      "root_note": "sur- (over) + mise (placed), an inference placed upon facts",
+      "sentences": [
+        {
+          "en": "Without physical evidence, the detective could only ______ how the thief escaped.",
+          "zh": "沒有實體證據，偵探只能推測小偷如何逃脫。"
+        },
+        {
+          "en": "The staff began to ______ that the manager was leaving on a sudden trip.",
+          "zh": "員工開始猜測經理即將突然出差。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "45",
+        "spelling": "sur",
+        "meaning": "超過；在上；額外"
+      }
+    },
+    {
+      "word": "surmount",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to overcome a difficulty successfully, or to stand on top of something:",
+      "defn_zh": "克服；戰勝；居於其上",
+      "synonyms": [
+        "overcome",
+        "conquer",
+        "master",
+        "triumph over"
+      ],
+      "antonyms": [
+        "succumb",
+        "yield",
+        "fail",
+        "surrender"
+      ],
+      "root_note": "sur- (over) + mount (rise or climb)",
+      "sentences": [
+        {
+          "en": "She had to ______ language barriers and financial hardship to graduate.",
+          "zh": "她必須克服語言障礙與經濟困難才能畢業。"
+        },
+        {
+          "en": "A golden spire was built to ______ the cathedral tower.",
+          "zh": "一座金色尖塔建於大教堂塔樓之上。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "45",
+        "spelling": "sur",
+        "meaning": "超過；在上；額外"
+      }
+    },
+    {
+      "word": "surveillance",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "careful, close observation of a person, place, or situation:",
+      "defn_zh": "監視；監督；管制",
+      "synonyms": [
+        "monitoring",
+        "scrutiny",
+        "espionage",
+        "oversight"
+      ],
+      "antonyms": [
+        "neglect",
+        "ignorance",
+        "privacy",
+        "freedom from observation"
+      ],
+      "root_note": "sur- (over) + veill (watch) + -ance",
+      "sentences": [
+        {
+          "en": "The store installed ______ cameras to prevent theft.",
+          "zh": "商店安裝監視攝影機以防止偷竊。"
+        },
+        {
+          "en": "Police kept the suspect under constant ______ for three weeks.",
+          "zh": "警方持續監視嫌疑人三週。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "45",
+        "spelling": "sur",
+        "meaning": "超過；在上；額外"
+      }
+    },
+    {
+      "word": "surrogate",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a person or thing that acts as a substitute or replacement for another:",
+      "defn_zh": "代替物；代理人；代用品",
+      "synonyms": [
+        "substitute",
+        "proxy",
+        "stand-in",
+        "delegate"
+      ],
+      "antonyms": [
+        "principal",
+        "original",
+        "actual person"
+      ],
+      "root_note": "sur- (in place of) + rog (ask or appoint) + -ate",
+      "sentences": [
+        {
+          "en": "The foreign minister attended the summit as the prime minister's official ______.",
+          "zh": "外交部長以首相正式代理人的身分出席峰會。"
+        },
+        {
+          "en": "His older brother became a ______ father after their parents died.",
+          "zh": "父母過世後，他的哥哥成為替代父親的角色。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "45",
+        "spelling": "sur",
+        "meaning": "超過；在上；額外"
+      }
+    },
+    {
+      "word": "surreal",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "having a strange, dreamlike quality that feels unreal or bizarre:",
+      "defn_zh": "超現實的；夢幻般的；離奇的",
+      "synonyms": [
+        "dreamlike",
+        "bizarre",
+        "phantasmagoric",
+        "otherworldly"
+      ],
+      "antonyms": [
+        "realistic",
+        "mundane",
+        "practical",
+        "factual"
+      ],
+      "root_note": "sur- (above or beyond) + real",
+      "sentences": [
+        {
+          "en": "Walking across the glowing salt flats at midnight felt ______.",
+          "zh": "午夜走過發光鹽灘，感覺十分超現實。"
+        },
+        {
+          "en": "Winning the lottery was a ______ moment that seemed impossible.",
+          "zh": "贏得彩券是一個彷彿不可能的夢幻時刻。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "45",
+        "spelling": "sur",
+        "meaning": "超過；在上；額外"
+      }
+    },
+    {
+      "word": "surcharge",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "an additional fee, tax, or charge added to the usual cost:",
+      "defn_zh": "額外費用；附加費",
+      "synonyms": [
+        "extra fee",
+        "premium",
+        "additional charge",
+        "penalty fee"
+      ],
+      "antonyms": [
+        "discount",
+        "rebate",
+        "reduction",
+        "refund"
+      ],
+      "root_note": "sur- (over or extra) + charge (cost)",
+      "sentences": [
+        {
+          "en": "A fuel ______ was added to the inexpensive airline ticket.",
+          "zh": "原本便宜的機票被加上燃油附加費。"
+        },
+        {
+          "en": "Guests checking out after noon must pay a twenty-dollar ______.",
+          "zh": "中午過後退房的房客必須支付二十美元附加費。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "45",
+        "spelling": "sur",
+        "meaning": "超過；在上；額外"
+      }
+    },
+    {
+      "word": "surpass",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to become greater, better, or stronger than someone or something; to exceed:",
+      "defn_zh": "超過；勝過；優於",
+      "synonyms": [
+        "outdo",
+        "exceed",
+        "outstrip",
+        "transcend"
+      ],
+      "antonyms": [
+        "fall short",
+        "trail",
+        "fail",
+        "lag"
+      ],
+      "root_note": "sur- (over or beyond) + pass (go)",
+      "sentences": [
+        {
+          "en": "The startup managed to ______ its annual sales target by fifty percent.",
+          "zh": "這家新創公司成功超越年度銷售目標百分之五十。"
+        },
+        {
+          "en": "The pianist's performance managed to ______ every expectation.",
+          "zh": "鋼琴家的演出成功超越所有期待。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "45",
+        "spelling": "sur",
+        "meaning": "超過；在上；額外"
+      }
+    },
+    {
+      "word": "surreptitiously",
+      "pos": "adv.",
+      "pos_key": "adv.",
+      "defn_en": "in a secret or stealthy way without attracting attention:",
+      "defn_zh": "偷偷地；秘密地",
+      "synonyms": [
+        "furtively",
+        "covertly",
+        "sneakingly",
+        "secretly"
+      ],
+      "antonyms": [
+        "openly",
+        "blatantly",
+        "publicly",
+        "plainly"
+      ],
+      "root_note": "surreptitious (secret) + -ly",
+      "sentences": [
+        {
+          "en": "The lawyer ______ slipped a note to his client during the hearing.",
+          "zh": "律師在聽證期間偷偷將便條交給當事人。"
+        },
+        {
+          "en": "The child ______ took a cookie while her mother looked away.",
+          "zh": "母親轉頭時，孩子偷偷拿了一塊餅乾。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "45",
+        "spelling": "sur",
+        "meaning": "超過；在上；額外"
+      }
+    },
+    {
+      "word": "surplus",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "an amount left over after requirements have been met; an excess of supply:",
+      "defn_zh": "剩餘；過剩；盈餘",
+      "synonyms": [
+        "excess",
+        "abundance",
+        "residue",
+        "balance"
+      ],
+      "antonyms": [
+        "deficit",
+        "shortage",
+        "lack",
+        "scarcity"
+      ],
+      "root_note": "sur- (over) + plus (more)",
+      "sentences": [
+        {
+          "en": "The farm exported its large corn ______ to neighboring countries.",
+          "zh": "農場將大量剩餘玉米出口到鄰國。"
+        },
+        {
+          "en": "The city used its budget ______ to repair public parks.",
+          "zh": "市政府利用預算盈餘修繕公園。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "45",
+        "spelling": "sur",
+        "meaning": "超過；在上；額外"
+      }
+    },
+    {
+      "word": "surpassing",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "exceptionally great or excellent; exceeding what is usual:",
+      "defn_zh": "卓越的；非凡的；超群的",
+      "synonyms": [
+        "exceptional",
+        "outstanding",
+        "superlative",
+        "extraordinary"
+      ],
+      "antonyms": [
+        "ordinary",
+        "inferior",
+        "mediocre",
+        "unremarkable"
+      ],
+      "root_note": "surpass (exceed) + -ing",
+      "sentences": [
+        {
+          "en": "The violinist performed with ______ skill and emotional depth.",
+          "zh": "小提琴家展現卓越技巧與深刻情感。"
+        },
+        {
+          "en": "The novel is admired for its ______ beauty and originality.",
+          "zh": "這部小說因非凡的美感與原創性而受到讚賞。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "45",
+        "spelling": "sur",
+        "meaning": "超過；在上；額外"
+      }
+    }
+  ],
+  "family_options": {
+    "v.": [
+      {
+        "word": "surveil",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to observe a person or place closely, especially for security or investigation:",
+        "defn_zh": "監視；監控",
+        "derived_from": "surveillance"
+      }
+    ],
+    "adv.": [
+      {
+        "word": "surpassingly",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "to an exceptional or extraordinary degree:",
+        "defn_zh": "卓越地；極其",
+        "derived_from": "surpassing"
+      },
+      {
+        "word": "surreally",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in a strange, dreamlike, or unreal manner:",
+        "defn_zh": "超現實地；夢幻般地",
+        "derived_from": "surreal"
+      },
+      {
+        "word": "surlily",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in a bad-tempered, unfriendly, or rude manner:",
+        "defn_zh": "粗暴無禮地；脾氣暴躁地",
+        "derived_from": "surly"
+      }
+    ]
+  },
+  "fallback_options": {
+    "v.": [
+      {
+        "word": "abound",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to exist in great numbers:",
+        "defn_zh": "充滿"
+      },
+      {
+        "word": "abrogate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to deprive of legal force, to nullify:=abolish",
+        "defn_zh": "廢除/取消"
+      },
+      {
+        "word": "abjure",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to renounce, abstain from:",
+        "defn_zh": "發誓放棄/棄絕"
+      },
+      {
+        "word": "abbreviate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to shorten a word or phrase:",
+        "defn_zh": "縮寫;縮短"
+      },
+      {
+        "word": "abdicate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to give up a position, usually one of leadership:",
+        "defn_zh": "退位/放棄(職位)"
+      },
+      {
+        "word": "abduct",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to kidnap, take by force:",
+        "defn_zh": "綁架/劫持"
+      },
+      {
+        "word": "abhor",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to regard with disgust and hatred:",
+        "defn_zh": "憎惡/厭惡"
+      },
+      {
+        "word": "abnegate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to deny or renounce:",
+        "defn_zh": "放棄/克制"
+      },
+      {
+        "word": "abolish",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to formally put an end to a system, practice, or institution:",
+        "defn_zh": "廢除"
+      },
+      {
+        "word": "abort",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to give up on a half-finished project or effort:",
+        "defn_zh": "中止/放棄"
+      },
+      {
+        "word": "abrade",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to scrape or wear away by friction:",
+        "defn_zh": "磨損;擦傷"
+      },
+      {
+        "word": "abscond",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to sneak away and hide:",
+        "defn_zh": "潛逃/逃匿"
+      }
+    ],
+    "adj.": [
+      {
+        "word": "abortive",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "fruitless, failing:",
+        "defn_zh": "失敗的/夭折的"
+      },
+      {
+        "word": "abstemious",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "moderate in eating or drinking:",
+        "defn_zh": "飲食有節制的"
+      },
+      {
+        "word": "abhorrent",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "detestable, despised:",
+        "defn_zh": "令人厭惡的"
+      },
+      {
+        "word": "absurd",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "ridiculous:",
+        "defn_zh": "荒謬的"
+      },
+      {
+        "word": "aberrant",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "deviating from what is normal or expected:",
+        "defn_zh": "異常的;脫軌的"
+      },
+      {
+        "word": "abject",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "wretched, pitiful:",
+        "defn_zh": "卑賤的/淒慘的"
+      },
+      {
+        "word": "abominable",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "causing moral revulsion; extremely unpleasant:",
+        "defn_zh": "可憎的;惡劣的"
+      },
+      {
+        "word": "abounding",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "existing in large numbers or amounts:",
+        "defn_zh": "大量存在的;豐富的"
+      },
+      {
+        "word": "abrasive",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "showing little concern for others; harsh:",
+        "defn_zh": "粗暴的/刺耳的"
+      },
+      {
+        "word": "abrupt",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "sudden or unexpected; brief and curt in manner:",
+        "defn_zh": "突然的/唐突的"
+      },
+      {
+        "word": "abstract",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "existing purely in the mind; not representing actual reality:",
+        "defn_zh": "抽象的"
+      },
+      {
+        "word": "abstruse",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "hard to comprehend:",
+        "defn_zh": "深奧難懂的"
+      }
+    ],
+    "n.": [
+      {
+        "word": "aversion",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "strong dislike, opposition:",
+        "defn_zh": "厭惡/反感"
+      },
+      {
+        "word": "aberration",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "something that differs from the norm:",
+        "defn_zh": "異常/脫軌"
+      },
+      {
+        "word": "abjection",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a state of complete misery, hopelessness, or degradation:",
+        "defn_zh": "卑賤;悲慘狀態"
+      },
+      {
+        "word": "abjuration",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the solemn renunciation of a belief, cause, or claim:",
+        "defn_zh": "公開放棄;誓絕"
+      },
+      {
+        "word": "ablution",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the act of washing oneself, especially as part of a religious ritual:",
+        "defn_zh": "沐浴;淨身儀式"
+      },
+      {
+        "word": "abnegation",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "denial of comfort to oneself:",
+        "defn_zh": "自我克制/放棄"
+      },
+      {
+        "word": "abomination",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "something that causes disgust or hatred:",
+        "defn_zh": "可憎之事;令人厭惡的東西"
+      },
+      {
+        "word": "abridgement",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a shortened version of a book or other written work:",
+        "defn_zh": "節略本;縮減版"
+      },
+      {
+        "word": "absolution",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "freedom from blame, guilt, sin:",
+        "defn_zh": "赦免/免罪"
+      },
+      {
+        "word": "abstemiousness",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "moderation or self-restraint, especially in eating and drinking:",
+        "defn_zh": "節制;克己"
+      },
+      {
+        "word": "abstinence",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the practice of restraining oneself from something enjoyable, especially food, alcohol, or sex:",
+        "defn_zh": "節制;戒絕"
+      },
+      {
+        "word": "avocation",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a hobby or minor occupation apart from one's main career:",
+        "defn_zh": "副業;業餘愛好"
+      }
+    ],
+    "adv.": [
+      {
+        "word": "accordingly",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in a manner that fits the circumstances; consequently:",
+        "defn_zh": "相應地;因此"
+      },
+      {
+        "word": "inadvertently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "unintentionally or by accident:",
+        "defn_zh": "無意間/不小心地"
+      },
+      {
+        "word": "consequently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "as a result; therefore:",
+        "defn_zh": "因此;結果"
+      },
+      {
+        "word": "contemptuously",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "without respect; in a disdainful manner:",
+        "defn_zh": "輕蔑地"
+      },
+      {
+        "word": "involuntarily",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "done without conscious control:",
+        "defn_zh": "不由自主地"
+      },
+      {
+        "word": "cordially",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in a warm or friendly manner:",
+        "defn_zh": "誠摯地/友好地"
+      },
+      {
+        "word": "ipso facto",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "by that very fact or act:",
+        "defn_zh": "事實上;因此"
+      },
+      {
+        "word": "en passant",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in passing; incidentally:",
+        "defn_zh": "順帶一提地;偶然地"
+      },
+      {
+        "word": "regardless",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "despite the prevailing circumstances; without being deterred:",
+        "defn_zh": "不管怎樣;儘管如此"
+      },
+      {
+        "word": "subsequently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "afterward; following in time or order:",
+        "defn_zh": "隨後;其後"
+      },
+      {
+        "word": "aside",
+        "pos": "adv./n.",
+        "pos_key": "adv.",
+        "defn_en": "to or on one side; a remark not meant to be heard by everyone:",
+        "defn_zh": "在旁邊;旁白"
+      },
+      {
+        "word": "vice versa",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "with the order or meaning reversed; conversely:",
+        "defn_zh": "反之亦然"
+      }
+    ],
+    "other": [
+      {
+        "word": "（此批單字中，暫無符合此字根/字首的單字）",
+        "pos": "",
+        "pos_key": "other",
+        "defn_en": "",
+        "defn_zh": ""
+      }
+    ],
+    "prep./adv.": [
+      {
+        "word": "besides",
+        "pos": "prep./adv.",
+        "pos_key": "prep./adv.",
+        "defn_en": "in addition to; furthermore:",
+        "defn_zh": "除...之外;此外"
+      }
+    ],
+    "phrasalv.": [
+      {
+        "word": "egg on",
+        "pos": "phrasal v.",
+        "pos_key": "phrasalv.",
+        "defn_en": "to encourage someone to do something, often risky:",
+        "defn_zh": "慫恿;鼓動"
+      }
+    ],
+    "abbr.": [
+      {
+        "word": "etc.",
+        "pos": "abbr.",
+        "pos_key": "abbr.",
+        "defn_en": "and other similar things (abbreviation of et cetera):",
+        "defn_zh": "等等(et cetera的縮寫)"
+      }
+    ],
+    "interj.": [
+      {
+        "word": "fiddledeedee",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "an exclamation expressing dismissal of something as nonsense:",
+        "defn_zh": "廢話!(表示不屑一顧)"
+      },
+      {
+        "word": "gesundheit",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "an expression said to someone who has just sneezed:",
+        "defn_zh": "保重(打噴嚏後的祝福語)"
+      }
+    ],
+    "prep.": [
+      {
+        "word": "via",
+        "pos": "prep.",
+        "pos_key": "prep.",
+        "defn_en": "by way of; passing through:",
+        "defn_zh": "經由;透過"
+      }
+    ]
+  }
+}

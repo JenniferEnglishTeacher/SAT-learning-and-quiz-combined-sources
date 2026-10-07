@@ -515,5 +515,64 @@
         "derived_from": "transcribe"
       }
     ]
+  },
+  "p1-45-sur": {
+    "v.": [
+      {
+        "word": "surveil",
+        "pos": "v.",
+        "defn_en": "to observe a person or place closely, especially for security or investigation:",
+        "defn_zh": "監視；監控",
+        "derived_from": "surveillance"
+      }
+    ],
+    "adv.": [
+      {
+        "word": "surpassingly",
+        "pos": "adv.",
+        "defn_en": "to an exceptional or extraordinary degree:",
+        "defn_zh": "卓越地；極其",
+        "derived_from": "surpassing"
+      },
+      {
+        "word": "surreally",
+        "pos": "adv.",
+        "defn_en": "in a strange, dreamlike, or unreal manner:",
+        "defn_zh": "超現實地；夢幻般地",
+        "derived_from": "surreal"
+      },
+      {
+        "word": "surlily",
+        "pos": "adv.",
+        "defn_en": "in a bad-tempered, unfriendly, or rude manner:",
+        "defn_zh": "粗暴無禮地；脾氣暴躁地",
+        "derived_from": "surly"
+      }
+    ]
+  },
+  "p1-46-sym-syn": {
+    "v.": [
+      {
+        "word": "synthesize",
+        "pos": "v.",
+        "defn_en": "to combine separate elements or ideas into a new whole:",
+        "defn_zh": "綜合；合成",
+        "derived_from": "synthesis"
+      },
+      {
+        "word": "sympathize",
+        "pos": "v.",
+        "defn_en": "to feel or express sympathy for someone:",
+        "defn_zh": "同情；表示同感",
+        "derived_from": "sympathy"
+      },
+      {
+        "word": "synergize",
+        "pos": "v.",
+        "defn_en": "to work together so that the combined effect is greater:",
+        "defn_zh": "協同合作；產生綜效",
+        "derived_from": "synergy"
+      }
+    ]
   }
 }

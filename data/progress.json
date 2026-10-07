@@ -49,6 +49,8 @@
     "p1-38-poly",
     "p1-39-post",
     "p1-42-se",
+    "p1-45-sur",
+    "p1-46-sym-syn",
     "p1-47-tele",
     "p1-48-trans",
     "p1-49-tri",
@@ -56,7 +58,7 @@
     "p1-52-uni",
     "p1-54-non"
   ],
-  "generated_count": 55,
+  "generated_count": 57,
   "total": 234,
   "next_batch": "p1-23-im"
 }

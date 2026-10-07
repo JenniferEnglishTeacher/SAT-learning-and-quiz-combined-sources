@@ -1,0 +1,1107 @@
+{
+  "id": "p1-46-sym-syn",
+  "part": "part1",
+  "part_label": "Part 1 字首篇 (Prefixes)",
+  "name": "sym；syn",
+  "subtitle": "共同；相同；一起",
+  "count": 19,
+  "words": [
+    {
+      "word": "synergy",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "the extra power or success produced when people or organizations combine their efforts:",
+      "defn_zh": "協同效應；綜效",
+      "synonyms": [
+        "cooperation",
+        "collaboration",
+        "alliance",
+        "teamwork"
+      ],
+      "antonyms": [
+        "antagonism",
+        "discord",
+        "friction",
+        "interference"
+      ],
+      "root_note": "syn- (together) + erg (work) + -y",
+      "sentences": [
+        {
+          "en": "The merger created a powerful ______ that helped both companies innovate faster.",
+          "zh": "合併產生強大協同效應，幫助兩家公司更快創新。"
+        },
+        {
+          "en": "Clear roles allowed the team to develop a natural ______.",
+          "zh": "清楚的分工使團隊形成自然綜效。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "46",
+        "spelling": "sym；syn",
+        "meaning": "共同；相同；一起"
+      }
+    },
+    {
+      "word": "symbiosis",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a close relationship between different organisms or groups that benefits both:",
+      "defn_zh": "共生關係；互利共生",
+      "synonyms": [
+        "interdependence",
+        "mutualism",
+        "partnership"
+      ],
+      "antonyms": [
+        "parasitism",
+        "independence",
+        "isolation"
+      ],
+      "root_note": "sym- (together) + bio (life) + -sis",
+      "sentences": [
+        {
+          "en": "The bird and mammal live in ______ because each benefits from the other.",
+          "zh": "鳥與哺乳動物互利共生，雙方都從彼此獲益。"
+        },
+        {
+          "en": "The writers and publishing platform developed an economic ______.",
+          "zh": "作家與出版平台形成經濟上的共生關係。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "46",
+        "spelling": "sym；syn",
+        "meaning": "共同；相同；一起"
+      }
+    },
+    {
+      "word": "synthesis",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "the combination of different ideas, styles, or materials to create a new whole:",
+      "defn_zh": "綜合；合成；綜合體",
+      "synonyms": [
+        "amalgamation",
+        "blend",
+        "integration",
+        "fusion"
+      ],
+      "antonyms": [
+        "separation",
+        "division",
+        "analysis",
+        "disassembly"
+      ],
+      "root_note": "syn- (together) + thesis (placing)",
+      "sentences": [
+        {
+          "en": "The museum is a beautiful ______ of stone traditions and modern glass design.",
+          "zh": "博物館是傳統石材與現代玻璃設計的美麗結合。"
+        },
+        {
+          "en": "The essay requires a careful ______ of evidence from several sources.",
+          "zh": "這篇文章需要仔細綜合多個來源的證據。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "46",
+        "spelling": "sym；syn",
+        "meaning": "共同；相同；一起"
+      }
+    },
+    {
+      "word": "synonymous",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "having the same or a very similar meaning, or closely associated with a quality:",
+      "defn_zh": "同義的；與某特質等同的",
+      "synonyms": [
+        "identical",
+        "equivalent",
+        "interchangeable",
+        "tantamount"
+      ],
+      "antonyms": [
+        "opposite",
+        "antonymous",
+        "different",
+        "unrelated"
+      ],
+      "root_note": "syn- (same or together) + onym (name) + -ous",
+      "sentences": [
+        {
+          "en": "The brand name became ______ with luxury and wealth.",
+          "zh": "這個品牌名稱成為奢華與財富的代名詞。"
+        },
+        {
+          "en": "In the neighborhood, the curfew became ______ with government oppression.",
+          "zh": "在該社區，宵禁幾乎等同於政府壓迫。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "46",
+        "spelling": "sym；syn",
+        "meaning": "共同；相同；一起"
+      }
+    },
+    {
+      "word": "synopsis",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a brief summary or general overview of a book, film, play, or project:",
+      "defn_zh": "概要；大綱；梗概",
+      "synonyms": [
+        "summary",
+        "abstract",
+        "outline",
+        "précis"
+      ],
+      "antonyms": [
+        "expansion",
+        "full text",
+        "detailed analysis"
+      ],
+      "root_note": "syn- (together) + opsis (view)",
+      "sentences": [
+        {
+          "en": "A short ______ on the back cover gave readers a preview of the plot.",
+          "zh": "封底的簡短梗概讓讀者預先了解情節。"
+        },
+        {
+          "en": "The producer requested a one-page ______ before arranging a meeting.",
+          "zh": "製片人要求先提供一頁劇本大綱，再安排會議。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "46",
+        "spelling": "sym；syn",
+        "meaning": "共同；相同；一起"
+      }
+    },
+    {
+      "word": "symmetry",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "the quality of having matching or balanced parts facing each other around an axis:",
+      "defn_zh": "對稱性；勻稱",
+      "synonyms": [
+        "balance",
+        "proportionality",
+        "equilibrium",
+        "uniformity"
+      ],
+      "antonyms": [
+        "asymmetry",
+        "disproportion",
+        "imbalance"
+      ],
+      "root_note": "sym- (together or same) + metr (measure) + -y",
+      "sentences": [
+        {
+          "en": "The palace is famous for the perfect ______ of its matching towers.",
+          "zh": "宮殿以兩座相配塔樓的完美對稱聞名。"
+        },
+        {
+          "en": "The designer adjusted the logo to improve visual ______.",
+          "zh": "設計師調整標誌，以改善視覺對稱性。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "46",
+        "spelling": "sym；syn",
+        "meaning": "共同；相同；一起"
+      }
+    },
+    {
+      "word": "synchronize",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to make things happen, move, or operate at the same time or speed:",
+      "defn_zh": "使同步；使同時發生",
+      "synonyms": [
+        "coordinate",
+        "align",
+        "harmonize",
+        "match"
+      ],
+      "antonyms": [
+        "desynchronize",
+        "disconnect",
+        "mismatch",
+        "delay"
+      ],
+      "root_note": "syn- (together) + chron (time) + -ize",
+      "sentences": [
+        {
+          "en": "The soldiers gathered to ______ their watches before the mission.",
+          "zh": "士兵在任務前集合校準，使手錶同步。"
+        },
+        {
+          "en": "The application can ______ phone photos with cloud storage.",
+          "zh": "應用程式可使手機相片與雲端儲存同步。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "46",
+        "spelling": "sym；syn",
+        "meaning": "共同；相同；一起"
+      }
+    },
+    {
+      "word": "synchronous",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "existing or occurring at exactly the same time:",
+      "defn_zh": "同步的；同時發生的",
+      "synonyms": [
+        "concurrent",
+        "simultaneous",
+        "coexisting",
+        "coordinated"
+      ],
+      "antonyms": [
+        "asynchronous",
+        "delayed",
+        "staggered"
+      ],
+      "root_note": "syn- (together) + chron (time) + -ous",
+      "sentences": [
+        {
+          "en": "The university offers ______ online classes with live discussions.",
+          "zh": "大學提供有即時討論的同步線上課程。"
+        },
+        {
+          "en": "The two beams displayed a ______ pulse pattern.",
+          "zh": "兩道光束呈現同步脈衝模式。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "46",
+        "spelling": "sym；syn",
+        "meaning": "共同；相同；一起"
+      }
+    },
+    {
+      "word": "syndicate",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a group of people or organizations combined to pursue a shared business interest:",
+      "defn_zh": "企業聯盟；財團；辛迪加",
+      "synonyms": [
+        "association",
+        "cartel",
+        "consortium",
+        "federation"
+      ],
+      "antonyms": [
+        "independent operator",
+        "competitor",
+        "individual firm"
+      ],
+      "root_note": "syn- (together) + dic (declare or show) + -ate",
+      "sentences": [
+        {
+          "en": "A banking ______ provided the loan needed to build the new airport.",
+          "zh": "銀行財團提供興建新機場所需的貸款。"
+        },
+        {
+          "en": "A media ______ distributes the comic strip to hundreds of newspapers.",
+          "zh": "媒體聯盟將連環漫畫發行至數百家報紙。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "46",
+        "spelling": "sym；syn",
+        "meaning": "共同；相同；一起"
+      }
+    },
+    {
+      "word": "synclinal",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "relating to a downward fold or trough in layers of rock:",
+      "defn_zh": "向斜的；岩層向下彎曲的",
+      "synonyms": [
+        "trough-shaped",
+        "downfolded",
+        "concave-folded"
+      ],
+      "antonyms": [
+        "anticlinal",
+        "upfolded"
+      ],
+      "root_note": "syn- (together) + clin (lean) + -al",
+      "sentences": [
+        {
+          "en": "The geologist identified a ______ fold where rock layers bent downward.",
+          "zh": "地質學家辨認出岩層向下彎曲的向斜褶皺。"
+        },
+        {
+          "en": "Rainwater collected in the basin formed by the ______ structure.",
+          "zh": "雨水聚集在向斜結構形成的盆地中。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "46",
+        "spelling": "sym；syn",
+        "meaning": "共同；相同；一起"
+      }
+    },
+    {
+      "word": "syncopation",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a musical rhythm that emphasizes weak or unexpected beats:",
+      "defn_zh": "切分音；切分節奏",
+      "synonyms": [
+        "rhythmic displacement",
+        "offbeat rhythm",
+        "shifted accent"
+      ],
+      "antonyms": [
+        "regular rhythm",
+        "steady beat"
+      ],
+      "root_note": "syn- (together) + cop (cut) + -ation, indicating a shortened or displaced beat",
+      "sentences": [
+        {
+          "en": "Jazz relies heavily on ______ to create energetic, unexpected rhythms.",
+          "zh": "爵士樂大量運用切分音，創造充滿活力且出人意料的節奏。"
+        },
+        {
+          "en": "The dancers struggled because the song's ______ disrupted the usual count.",
+          "zh": "歌曲的切分節奏打亂慣常拍數，使舞者感到困難。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "46",
+        "spelling": "sym；syn",
+        "meaning": "共同；相同；一起"
+      }
+    },
+    {
+      "word": "syndesmosis",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a fibrous joint in which bones are joined tightly by ligaments:",
+      "defn_zh": "韌帶聯合；纖維性關節",
+      "synonyms": [
+        "fibrous joint",
+        "ligamentous joint",
+        "bone articulation"
+      ],
+      "antonyms": [
+        "synovial joint",
+        "freely movable joint"
+      ],
+      "root_note": "syn- (together) + desm (bond or ligament) + -osis",
+      "sentences": [
+        {
+          "en": "The high ankle sprain damaged the ______ joining the lower leg bones.",
+          "zh": "高位踝關節扭傷損害連接小腿骨的韌帶聯合。"
+        },
+        {
+          "en": "A ______ provides stability rather than a wide range of movement.",
+          "zh": "韌帶聯合提供穩定性，而非廣泛活動度。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "46",
+        "spelling": "sym；syn",
+        "meaning": "共同；相同；一起"
+      }
+    },
+    {
+      "word": "synergistic",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "working together so that the combined effect exceeds the effects of separate parts:",
+      "defn_zh": "協同的；有相乘效果的",
+      "synonyms": [
+        "cooperative",
+        "collaborative",
+        "joint",
+        "mutual"
+      ],
+      "antonyms": [
+        "counterproductive",
+        "antagonistic",
+        "conflicting"
+      ],
+      "root_note": "syn- (together) + erg (work) + -istic",
+      "sentences": [
+        {
+          "en": "The two medicines have a ______ effect when used together.",
+          "zh": "兩種藥物合用時具有協同效果。"
+        },
+        {
+          "en": "The departments launched a ______ campaign that raised quarterly profits.",
+          "zh": "兩個部門推出協同活動，提高季度利潤。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "46",
+        "spelling": "sym；syn",
+        "meaning": "共同；相同；一起"
+      }
+    },
+    {
+      "word": "synchronicity",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "the simultaneous occurrence of meaningfully related events without an obvious causal connection:",
+      "defn_zh": "同步性；意味深長的巧合",
+      "synonyms": [
+        "coincidence",
+        "concurrence",
+        "happenstance"
+      ],
+      "antonyms": [
+        "separation",
+        "isolation",
+        "disjointedness"
+      ],
+      "root_note": "syn- (together) + chron (time) + -icity",
+      "sentences": [
+        {
+          "en": "Thinking of a friend just before receiving their message felt like ______.",
+          "zh": "剛想到朋友就收到其訊息，感覺像意味深長的巧合。"
+        },
+        {
+          "en": "The film's two storylines unfolded with strange ______.",
+          "zh": "電影的兩條故事線以奇妙的同步性發展。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "46",
+        "spelling": "sym；syn",
+        "meaning": "共同；相同；一起"
+      }
+    },
+    {
+      "word": "syncretism",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "the fusion of different religions, cultures, or schools of thought:",
+      "defn_zh": "融合主義；折衷主義",
+      "synonyms": [
+        "fusion",
+        "blend",
+        "synthesis",
+        "eclectic union"
+      ],
+      "antonyms": [
+        "purism",
+        "dogmatism",
+        "separatism"
+      ],
+      "root_note": "syn- (together) + cret (combine or decide) + -ism",
+      "sentences": [
+        {
+          "en": "The festival demonstrates cultural ______ by blending tribal and modern traditions.",
+          "zh": "節日融合部落與現代傳統，展現文化融合主義。"
+        },
+        {
+          "en": "The empire's religion practiced ______ by adopting features of foreign deities.",
+          "zh": "帝國宗教吸收外國神祇特徵，實行宗教融合。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "46",
+        "spelling": "sym；syn",
+        "meaning": "共同；相同；一起"
+      }
+    },
+    {
+      "word": "symptomatic",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "showing symptoms of an illness, or indicating the existence of a wider problem:",
+      "defn_zh": "有症狀的；徵兆性的",
+      "synonyms": [
+        "indicative",
+        "characteristic",
+        "revealing",
+        "suggestive"
+      ],
+      "antonyms": [
+        "asymptomatic",
+        "unrelated",
+        "uninformative"
+      ],
+      "root_note": "sym- (together) + ptom (fall or occurrence) + -atic",
+      "sentences": [
+        {
+          "en": "Patients who become ______ should contact the clinic immediately.",
+          "zh": "出現症狀的患者應立即聯絡診所。"
+        },
+        {
+          "en": "The repeated delays were ______ of deeper management problems.",
+          "zh": "一再延誤是更深層管理問題的徵兆。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "46",
+        "spelling": "sym；syn",
+        "meaning": "共同；相同；一起"
+      }
+    },
+    {
+      "word": "sympathy",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "feelings of care, concern, or sorrow for someone experiencing difficulty:",
+      "defn_zh": "同情；慰問；同感",
+      "synonyms": [
+        "compassion",
+        "pity",
+        "empathy",
+        "understanding"
+      ],
+      "antonyms": [
+        "indifference",
+        "cruelty",
+        "apathy",
+        "hostility"
+      ],
+      "root_note": "sym- (together) + path (feeling) + -y",
+      "sentences": [
+        {
+          "en": "Neighbors expressed deep ______ for the family after the fire.",
+          "zh": "火災後，鄰居向這家人表達深切同情。"
+        },
+        {
+          "en": "Her personal experience gave her genuine ______ for displaced families.",
+          "zh": "她的親身經歷使她真心同情流離失所的家庭。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "46",
+        "spelling": "sym；syn",
+        "meaning": "共同；相同；一起"
+      }
+    },
+    {
+      "word": "synchronization",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "the process of making events or devices operate at the same time or rate:",
+      "defn_zh": "同步；同步化",
+      "synonyms": [
+        "coordination",
+        "alignment",
+        "timing",
+        "harmonization"
+      ],
+      "antonyms": [
+        "desynchronization",
+        "misalignment",
+        "delay"
+      ],
+      "root_note": "syn- (together) + chron (time) + -ization",
+      "sentences": [
+        {
+          "en": "Accurate ______ kept the musicians and projected images perfectly aligned.",
+          "zh": "精準同步使音樂家與投影影像完全配合。"
+        },
+        {
+          "en": "Cloud ______ ensures that the files match on every device.",
+          "zh": "雲端同步確保所有裝置上的檔案一致。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "46",
+        "spelling": "sym；syn",
+        "meaning": "共同；相同；一起"
+      }
+    },
+    {
+      "word": "synergism",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "interaction between agents whose combined effect is greater than their separate effects:",
+      "defn_zh": "協同作用；增效作用",
+      "synonyms": [
+        "synergy",
+        "cooperation",
+        "combined effect",
+        "interaction"
+      ],
+      "antonyms": [
+        "antagonism",
+        "interference",
+        "counteraction"
+      ],
+      "root_note": "syn- (together) + erg (work) + -ism",
+      "sentences": [
+        {
+          "en": "Researchers observed ______ between the two treatments.",
+          "zh": "研究人員觀察到兩種療法之間的協同作用。"
+        },
+        {
+          "en": "Creative ______ between design and engineering improved the product.",
+          "zh": "設計與工程之間的創意協同作用改善了產品。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "46",
+        "spelling": "sym；syn",
+        "meaning": "共同；相同；一起"
+      }
+    }
+  ],
+  "family_options": {
+    "v.": [
+      {
+        "word": "synthesize",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to combine separate elements or ideas into a new whole:",
+        "defn_zh": "綜合；合成",
+        "derived_from": "synthesis"
+      },
+      {
+        "word": "sympathize",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to feel or express sympathy for someone:",
+        "defn_zh": "同情；表示同感",
+        "derived_from": "sympathy"
+      },
+      {
+        "word": "synergize",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to work together so that the combined effect is greater:",
+        "defn_zh": "協同合作；產生綜效",
+        "derived_from": "synergy"
+      }
+    ]
+  },
+  "fallback_options": {
+    "v.": [
+      {
+        "word": "abound",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to exist in great numbers:",
+        "defn_zh": "充滿"
+      },
+      {
+        "word": "abrogate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to deprive of legal force, to nullify:=abolish",
+        "defn_zh": "廢除/取消"
+      },
+      {
+        "word": "abjure",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to renounce, abstain from:",
+        "defn_zh": "發誓放棄/棄絕"
+      },
+      {
+        "word": "abbreviate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to shorten a word or phrase:",
+        "defn_zh": "縮寫;縮短"
+      },
+      {
+        "word": "abdicate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to give up a position, usually one of leadership:",
+        "defn_zh": "退位/放棄(職位)"
+      },
+      {
+        "word": "abduct",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to kidnap, take by force:",
+        "defn_zh": "綁架/劫持"
+      },
+      {
+        "word": "abhor",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to regard with disgust and hatred:",
+        "defn_zh": "憎惡/厭惡"
+      },
+      {
+        "word": "abnegate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to deny or renounce:",
+        "defn_zh": "放棄/克制"
+      },
+      {
+        "word": "abolish",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to formally put an end to a system, practice, or institution:",
+        "defn_zh": "廢除"
+      },
+      {
+        "word": "abort",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to give up on a half-finished project or effort:",
+        "defn_zh": "中止/放棄"
+      },
+      {
+        "word": "abrade",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to scrape or wear away by friction:",
+        "defn_zh": "磨損;擦傷"
+      },
+      {
+        "word": "abscond",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to sneak away and hide:",
+        "defn_zh": "潛逃/逃匿"
+      }
+    ],
+    "adj.": [
+      {
+        "word": "abortive",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "fruitless, failing:",
+        "defn_zh": "失敗的/夭折的"
+      },
+      {
+        "word": "abstemious",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "moderate in eating or drinking:",
+        "defn_zh": "飲食有節制的"
+      },
+      {
+        "word": "abhorrent",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "detestable, despised:",
+        "defn_zh": "令人厭惡的"
+      },
+      {
+        "word": "absurd",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "ridiculous:",
+        "defn_zh": "荒謬的"
+      },
+      {
+        "word": "aberrant",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "deviating from what is normal or expected:",
+        "defn_zh": "異常的;脫軌的"
+      },
+      {
+        "word": "abject",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "wretched, pitiful:",
+        "defn_zh": "卑賤的/淒慘的"
+      },
+      {
+        "word": "abominable",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "causing moral revulsion; extremely unpleasant:",
+        "defn_zh": "可憎的;惡劣的"
+      },
+      {
+        "word": "abounding",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "existing in large numbers or amounts:",
+        "defn_zh": "大量存在的;豐富的"
+      },
+      {
+        "word": "abrasive",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "showing little concern for others; harsh:",
+        "defn_zh": "粗暴的/刺耳的"
+      },
+      {
+        "word": "abrupt",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "sudden or unexpected; brief and curt in manner:",
+        "defn_zh": "突然的/唐突的"
+      },
+      {
+        "word": "abstract",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "existing purely in the mind; not representing actual reality:",
+        "defn_zh": "抽象的"
+      },
+      {
+        "word": "abstruse",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "hard to comprehend:",
+        "defn_zh": "深奧難懂的"
+      }
+    ],
+    "n.": [
+      {
+        "word": "aversion",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "strong dislike, opposition:",
+        "defn_zh": "厭惡/反感"
+      },
+      {
+        "word": "aberration",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "something that differs from the norm:",
+        "defn_zh": "異常/脫軌"
+      },
+      {
+        "word": "abjection",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a state of complete misery, hopelessness, or degradation:",
+        "defn_zh": "卑賤;悲慘狀態"
+      },
+      {
+        "word": "abjuration",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the solemn renunciation of a belief, cause, or claim:",
+        "defn_zh": "公開放棄;誓絕"
+      },
+      {
+        "word": "ablution",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the act of washing oneself, especially as part of a religious ritual:",
+        "defn_zh": "沐浴;淨身儀式"
+      },
+      {
+        "word": "abnegation",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "denial of comfort to oneself:",
+        "defn_zh": "自我克制/放棄"
+      },
+      {
+        "word": "abomination",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "something that causes disgust or hatred:",
+        "defn_zh": "可憎之事;令人厭惡的東西"
+      },
+      {
+        "word": "abridgement",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a shortened version of a book or other written work:",
+        "defn_zh": "節略本;縮減版"
+      },
+      {
+        "word": "absolution",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "freedom from blame, guilt, sin:",
+        "defn_zh": "赦免/免罪"
+      },
+      {
+        "word": "abstemiousness",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "moderation or self-restraint, especially in eating and drinking:",
+        "defn_zh": "節制;克己"
+      },
+      {
+        "word": "abstinence",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the practice of restraining oneself from something enjoyable, especially food, alcohol, or sex:",
+        "defn_zh": "節制;戒絕"
+      },
+      {
+        "word": "avocation",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a hobby or minor occupation apart from one's main career:",
+        "defn_zh": "副業;業餘愛好"
+      }
+    ],
+    "adv.": [
+      {
+        "word": "accordingly",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in a manner that fits the circumstances; consequently:",
+        "defn_zh": "相應地;因此"
+      },
+      {
+        "word": "inadvertently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "unintentionally or by accident:",
+        "defn_zh": "無意間/不小心地"
+      },
+      {
+        "word": "consequently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "as a result; therefore:",
+        "defn_zh": "因此;結果"
+      },
+      {
+        "word": "contemptuously",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "without respect; in a disdainful manner:",
+        "defn_zh": "輕蔑地"
+      },
+      {
+        "word": "involuntarily",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "done without conscious control:",
+        "defn_zh": "不由自主地"
+      },
+      {
+        "word": "cordially",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in a warm or friendly manner:",
+        "defn_zh": "誠摯地/友好地"
+      },
+      {
+        "word": "ipso facto",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "by that very fact or act:",
+        "defn_zh": "事實上;因此"
+      },
+      {
+        "word": "en passant",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in passing; incidentally:",
+        "defn_zh": "順帶一提地;偶然地"
+      },
+      {
+        "word": "regardless",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "despite the prevailing circumstances; without being deterred:",
+        "defn_zh": "不管怎樣;儘管如此"
+      },
+      {
+        "word": "subsequently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "afterward; following in time or order:",
+        "defn_zh": "隨後;其後"
+      },
+      {
+        "word": "aside",
+        "pos": "adv./n.",
+        "pos_key": "adv.",
+        "defn_en": "to or on one side; a remark not meant to be heard by everyone:",
+        "defn_zh": "在旁邊;旁白"
+      },
+      {
+        "word": "vice versa",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "with the order or meaning reversed; conversely:",
+        "defn_zh": "反之亦然"
+      }
+    ],
+    "other": [
+      {
+        "word": "（此批單字中，暫無符合此字根/字首的單字）",
+        "pos": "",
+        "pos_key": "other",
+        "defn_en": "",
+        "defn_zh": ""
+      }
+    ],
+    "prep./adv.": [
+      {
+        "word": "besides",
+        "pos": "prep./adv.",
+        "pos_key": "prep./adv.",
+        "defn_en": "in addition to; furthermore:",
+        "defn_zh": "除...之外;此外"
+      }
+    ],
+    "phrasalv.": [
+      {
+        "word": "egg on",
+        "pos": "phrasal v.",
+        "pos_key": "phrasalv.",
+        "defn_en": "to encourage someone to do something, often risky:",
+        "defn_zh": "慫恿;鼓動"
+      }
+    ],
+    "abbr.": [
+      {
+        "word": "etc.",
+        "pos": "abbr.",
+        "pos_key": "abbr.",
+        "defn_en": "and other similar things (abbreviation of et cetera):",
+        "defn_zh": "等等(et cetera的縮寫)"
+      }
+    ],
+    "interj.": [
+      {
+        "word": "fiddledeedee",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "an exclamation expressing dismissal of something as nonsense:",
+        "defn_zh": "廢話!(表示不屑一顧)"
+      },
+      {
+        "word": "gesundheit",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "an expression said to someone who has just sneezed:",
+        "defn_zh": "保重(打噴嚏後的祝福語)"
+      }
+    ],
+    "prep.": [
+      {
+        "word": "via",
+        "pos": "prep.",
+        "pos_key": "prep.",
+        "defn_en": "by way of; passing through:",
+        "defn_zh": "經由;透過"
+      }
+    ]
+  }
+}

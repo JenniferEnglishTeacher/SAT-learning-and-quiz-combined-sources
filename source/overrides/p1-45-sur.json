@@ -1,0 +1,137 @@
+{
+  "id": "p1-45-sur",
+  "name": "sur",
+  "subtitle": "超過；在上；額外",
+  "words": [
+    {
+      "word": "surfeit", "pos": "n.", "pos_key": "n.",
+      "defn_en": "an excessive or uncomfortably large amount of something:", "defn_zh": "過量；過剩；過度",
+      "synonyms": ["excess", "glut", "plethora", "surplus"], "antonyms": ["dearth", "scarcity", "deficiency", "shortage"],
+      "root_note": "sur- (over or beyond) + feit (make or do)",
+      "sentences": [
+        {"en": "A ______ of rich desserts left everyone too full to move.", "zh": "過量的精緻甜點讓每個人都飽得動不了。"},
+        {"en": "A sudden ______ of cheap imports forced local manufacturers to cut prices.", "zh": "廉價進口商品突然過剩，迫使本地製造商降價。"}
+      ], "category": {"part": 1, "num": "45", "spelling": "sur", "meaning": "超過；在上；額外"}
+    },
+    {
+      "word": "surreptitious", "pos": "adj.", "pos_key": "adj.",
+      "defn_en": "done secretly or stealthily, especially because it would not be approved:", "defn_zh": "秘密的；偷偷摸摸的；鬼鬼祟祟的",
+      "synonyms": ["clandestine", "furtive", "stealthy", "covert"], "antonyms": ["blatant", "overt", "transparent", "open"],
+      "root_note": "sur- (under or secretly) + rept (creep) + -itious",
+      "sentences": [
+        {"en": "The student cast a ______ glance at the phone hidden beneath the desk.", "zh": "學生偷偷瞄了一眼藏在桌下的手機。"},
+        {"en": "She made a ______ recording to document the company's illegal activity.", "zh": "她秘密錄音，以記錄公司的非法行為。"}
+      ], "category": {"part": 1, "num": "45", "spelling": "sur", "meaning": "超過；在上；額外"}
+    },
+    {
+      "word": "surly", "pos": "adj.", "pos_key": "adj.",
+      "defn_en": "bad-tempered, unfriendly, and rude in behavior or expression:", "defn_zh": "脾氣暴躁的；粗暴無禮的",
+      "synonyms": ["churlish", "sullen", "brusque", "grumpy"], "antonyms": ["affable", "genial", "courteous", "pleasant"],
+      "root_note": "surly (lordly or arrogant), from Middle English",
+      "sentences": [
+        {"en": "The customer left because of the cashier's ______ attitude.", "zh": "顧客因收銀員粗暴無禮的態度而離開。"},
+        {"en": "The ______ sailor barked short answers at anyone who approached him.", "zh": "那名脾氣暴躁的水手對靠近他的人粗聲回答。"}
+      ], "category": {"part": 1, "num": "45", "spelling": "sur", "meaning": "超過；在上；額外"}
+    },
+    {
+      "word": "surmise", "pos": "v./n.", "pos_key": "v.",
+      "defn_en": "to guess that something is true without having certain or solid proof:", "defn_zh": "推測；猜測",
+      "synonyms": ["conjecture", "speculate", "deduce", "infer"], "antonyms": ["know", "verify", "substantiate", "prove"],
+      "root_note": "sur- (over) + mise (placed), an inference placed upon facts",
+      "sentences": [
+        {"en": "Without physical evidence, the detective could only ______ how the thief escaped.", "zh": "沒有實體證據，偵探只能推測小偷如何逃脫。"},
+        {"en": "The staff began to ______ that the manager was leaving on a sudden trip.", "zh": "員工開始猜測經理即將突然出差。"}
+      ], "category": {"part": 1, "num": "45", "spelling": "sur", "meaning": "超過；在上；額外"}
+    },
+    {
+      "word": "surmount", "pos": "v.", "pos_key": "v.",
+      "defn_en": "to overcome a difficulty successfully, or to stand on top of something:", "defn_zh": "克服；戰勝；居於其上",
+      "synonyms": ["overcome", "conquer", "master", "triumph over"], "antonyms": ["succumb", "yield", "fail", "surrender"],
+      "root_note": "sur- (over) + mount (rise or climb)",
+      "sentences": [
+        {"en": "She had to ______ language barriers and financial hardship to graduate.", "zh": "她必須克服語言障礙與經濟困難才能畢業。"},
+        {"en": "A golden spire was built to ______ the cathedral tower.", "zh": "一座金色尖塔建於大教堂塔樓之上。"}
+      ], "category": {"part": 1, "num": "45", "spelling": "sur", "meaning": "超過；在上；額外"}
+    },
+    {
+      "word": "surveillance", "pos": "n.", "pos_key": "n.",
+      "defn_en": "careful, close observation of a person, place, or situation:", "defn_zh": "監視；監督；管制",
+      "synonyms": ["monitoring", "scrutiny", "espionage", "oversight"], "antonyms": ["neglect", "ignorance", "privacy", "freedom from observation"],
+      "root_note": "sur- (over) + veill (watch) + -ance",
+      "sentences": [
+        {"en": "The store installed ______ cameras to prevent theft.", "zh": "商店安裝監視攝影機以防止偷竊。"},
+        {"en": "Police kept the suspect under constant ______ for three weeks.", "zh": "警方持續監視嫌疑人三週。"}
+      ], "category": {"part": 1, "num": "45", "spelling": "sur", "meaning": "超過；在上；額外"}
+    },
+    {
+      "word": "surrogate", "pos": "n.", "pos_key": "n.",
+      "defn_en": "a person or thing that acts as a substitute or replacement for another:", "defn_zh": "代替物；代理人；代用品",
+      "synonyms": ["substitute", "proxy", "stand-in", "delegate"], "antonyms": ["principal", "original", "actual person"],
+      "root_note": "sur- (in place of) + rog (ask or appoint) + -ate",
+      "sentences": [
+        {"en": "The foreign minister attended the summit as the prime minister's official ______.", "zh": "外交部長以首相正式代理人的身分出席峰會。"},
+        {"en": "His older brother became a ______ father after their parents died.", "zh": "父母過世後，他的哥哥成為替代父親的角色。"}
+      ], "category": {"part": 1, "num": "45", "spelling": "sur", "meaning": "超過；在上；額外"}
+    },
+    {
+      "word": "surreal", "pos": "adj.", "pos_key": "adj.",
+      "defn_en": "having a strange, dreamlike quality that feels unreal or bizarre:", "defn_zh": "超現實的；夢幻般的；離奇的",
+      "synonyms": ["dreamlike", "bizarre", "phantasmagoric", "otherworldly"], "antonyms": ["realistic", "mundane", "practical", "factual"],
+      "root_note": "sur- (above or beyond) + real",
+      "sentences": [
+        {"en": "Walking across the glowing salt flats at midnight felt ______.", "zh": "午夜走過發光鹽灘，感覺十分超現實。"},
+        {"en": "Winning the lottery was a ______ moment that seemed impossible.", "zh": "贏得彩券是一個彷彿不可能的夢幻時刻。"}
+      ], "category": {"part": 1, "num": "45", "spelling": "sur", "meaning": "超過；在上；額外"}
+    },
+    {
+      "word": "surcharge", "pos": "n.", "pos_key": "n.",
+      "defn_en": "an additional fee, tax, or charge added to the usual cost:", "defn_zh": "額外費用；附加費",
+      "synonyms": ["extra fee", "premium", "additional charge", "penalty fee"], "antonyms": ["discount", "rebate", "reduction", "refund"],
+      "root_note": "sur- (over or extra) + charge (cost)",
+      "sentences": [
+        {"en": "A fuel ______ was added to the inexpensive airline ticket.", "zh": "原本便宜的機票被加上燃油附加費。"},
+        {"en": "Guests checking out after noon must pay a twenty-dollar ______.", "zh": "中午過後退房的房客必須支付二十美元附加費。"}
+      ], "category": {"part": 1, "num": "45", "spelling": "sur", "meaning": "超過；在上；額外"}
+    },
+    {
+      "word": "surpass", "pos": "v.", "pos_key": "v.",
+      "defn_en": "to become greater, better, or stronger than someone or something; to exceed:", "defn_zh": "超過；勝過；優於",
+      "synonyms": ["outdo", "exceed", "outstrip", "transcend"], "antonyms": ["fall short", "trail", "fail", "lag"],
+      "root_note": "sur- (over or beyond) + pass (go)",
+      "sentences": [
+        {"en": "The startup managed to ______ its annual sales target by fifty percent.", "zh": "這家新創公司成功超越年度銷售目標百分之五十。"},
+        {"en": "The pianist's performance managed to ______ every expectation.", "zh": "鋼琴家的演出成功超越所有期待。"}
+      ], "category": {"part": 1, "num": "45", "spelling": "sur", "meaning": "超過；在上；額外"}
+    },
+    {
+      "word": "surreptitiously", "pos": "adv.", "pos_key": "adv.",
+      "defn_en": "in a secret or stealthy way without attracting attention:", "defn_zh": "偷偷地；秘密地",
+      "synonyms": ["furtively", "covertly", "sneakingly", "secretly"], "antonyms": ["openly", "blatantly", "publicly", "plainly"],
+      "root_note": "surreptitious (secret) + -ly",
+      "sentences": [
+        {"en": "The lawyer ______ slipped a note to his client during the hearing.", "zh": "律師在聽證期間偷偷將便條交給當事人。"},
+        {"en": "The child ______ took a cookie while her mother looked away.", "zh": "母親轉頭時，孩子偷偷拿了一塊餅乾。"}
+      ], "category": {"part": 1, "num": "45", "spelling": "sur", "meaning": "超過；在上；額外"}
+    },
+    {
+      "word": "surplus", "pos": "n.", "pos_key": "n.",
+      "defn_en": "an amount left over after requirements have been met; an excess of supply:", "defn_zh": "剩餘；過剩；盈餘",
+      "synonyms": ["excess", "abundance", "residue", "balance"], "antonyms": ["deficit", "shortage", "lack", "scarcity"],
+      "root_note": "sur- (over) + plus (more)",
+      "sentences": [
+        {"en": "The farm exported its large corn ______ to neighboring countries.", "zh": "農場將大量剩餘玉米出口到鄰國。"},
+        {"en": "The city used its budget ______ to repair public parks.", "zh": "市政府利用預算盈餘修繕公園。"}
+      ], "category": {"part": 1, "num": "45", "spelling": "sur", "meaning": "超過；在上；額外"}
+    },
+    {
+      "word": "surpassing", "pos": "adj.", "pos_key": "adj.",
+      "defn_en": "exceptionally great or excellent; exceeding what is usual:", "defn_zh": "卓越的；非凡的；超群的",
+      "synonyms": ["exceptional", "outstanding", "superlative", "extraordinary"], "antonyms": ["ordinary", "inferior", "mediocre", "unremarkable"],
+      "root_note": "surpass (exceed) + -ing",
+      "sentences": [
+        {"en": "The violinist performed with ______ skill and emotional depth.", "zh": "小提琴家展現卓越技巧與深刻情感。"},
+        {"en": "The novel is admired for its ______ beauty and originality.", "zh": "這部小說因非凡的美感與原創性而受到讚賞。"}
+      ], "category": {"part": 1, "num": "45", "spelling": "sur", "meaning": "超過；在上；額外"}
+    }
+  ]
+}
