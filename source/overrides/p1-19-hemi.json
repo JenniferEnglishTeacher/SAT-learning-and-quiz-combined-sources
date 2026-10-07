@@ -1,91 +1,127 @@
 {
   "id": "p1-19-hemi",
   "name": "hemi",
-  "subtitle": "一半；半側",
+  "subtitle": "半；一半",
   "words": [
     {
-      "word": "hemisphere",
-      "pos": "n.",
-      "pos_key": "n.",
-      "defn_en": "half of a sphere, or half of the Earth divided into northern and southern or eastern and western regions:",
-      "defn_zh": "半球",
-      "synonyms": ["half-sphere", "semisphere"],
-      "antonyms": [],
-      "root_note": "hemi- (half) + sphere (ball or globe)",
+      "word": "hemisphere", "pos": "n.", "pos_key": "n.",
+      "defn_en": "half of a sphere, or one half of the Earth or another spherical body:", "defn_zh": "半球",
+      "synonyms": ["half-sphere", "semisphere"], "antonyms": ["sphere", "whole globe"],
+      "root_note": "hemi- (half) + sphere (globe)",
       "sentences": [
-        {
-          "en": "As they flew across the equator, they officially crossed from the Northern ______ into the Southern Hemisphere.",
-          "zh": "當他們飛越赤道時，他們正式從北半球跨越到了南半球。"
-        },
-        {
-          "en": "The left ______ of the brain is traditionally associated with logical thinking and analytical skills.",
-          "zh": "大腦的左半球傳統上被認為與邏輯思維和分析能力息息相關。"
-        }
-      ],
-      "category": {"part": 1, "num": "19", "spelling": "hemi", "meaning": "一半；半側"}
+        {"en": "As they crossed the equator, they flew from the Northern ______ into the Southern ______.", "zh": "當他們飛越赤道時，正式從北半球跨越到南半球。"},
+        {"en": "The left ______ of the brain is traditionally associated with logical and analytical skills.", "zh": "大腦左半球傳統上被認為與邏輯思考和分析能力有關。"}
+      ], "category": {"part": 1, "num": "19", "spelling": "hemi", "meaning": "半；一半"}
     },
     {
-      "word": "hemiplegia",
-      "pos": "n.",
-      "pos_key": "n.",
-      "defn_en": "severe weakness or complete paralysis affecting only one side of the body:",
-      "defn_zh": "半身不遂；偏癱",
-      "synonyms": ["one-sided paralysis", "hemiparesis"],
-      "antonyms": [],
+      "word": "hemiplegia", "pos": "n.", "pos_key": "n.",
+      "defn_en": "severe weakness or complete paralysis affecting only one side of the body:", "defn_zh": "半身不遂；偏癱",
+      "synonyms": ["one-sided paralysis", "hemiparesis"], "antonyms": ["normal movement", "full mobility"],
       "root_note": "hemi- (half) + plegia (paralysis)",
       "sentences": [
-        {
-          "en": "Following his severe stroke, the patient suffered from ______, which completely paralyzed his right arm and leg.",
-          "zh": "在嚴重中風後，這位患者出現了偏癱症狀，導致他的右手臂和右腿完全癱瘓。"
-        },
-        {
-          "en": "The rehabilitation program is designed to help patients with ______ regain mobility on their weaker side.",
-          "zh": "這項復健計畫旨在幫助半身不遂的患者恢復較無力側的活動能力。"
-        }
-      ],
-      "category": {"part": 1, "num": "19", "spelling": "hemi", "meaning": "一半；半側"}
+        {"en": "Following his severe stroke, the patient developed ______ that paralyzed his right arm and leg.", "zh": "嚴重中風後，患者出現偏癱，右手臂和右腿完全癱瘓。"},
+        {"en": "The rehabilitation program helps patients with ______ regain mobility on their weaker side.", "zh": "這項復健計畫幫助半身不遂的患者恢復較無力側的活動能力。"}
+      ], "category": {"part": 1, "num": "19", "spelling": "hemi", "meaning": "半；一半"}
     },
     {
-      "word": "hemianopia",
-      "pos": "n.",
-      "pos_key": "n.",
-      "defn_en": "blindness or loss of vision in half of the visual field, often caused by brain injury or stroke:",
-      "defn_zh": "半盲；偏盲",
-      "synonyms": ["hemianopsia", "partial blindness"],
-      "antonyms": [],
-      "root_note": "hemi- (half) + anopia (loss of vision)",
+      "word": "hemianopia", "pos": "n.", "pos_key": "n.",
+      "defn_en": "blindness or loss of vision in half of the visual field, often caused by brain injury or stroke:", "defn_zh": "半盲；偏盲",
+      "synonyms": ["hemianopsia", "partial blindness"], "antonyms": ["full vision", "normal visual field"],
+      "root_note": "hemi- (half) + an- (without) + opia (vision)",
       "sentences": [
-        {
-          "en": "Because of a tumor pressing on her optic nerve, she developed ______ and could not see anything to her left.",
-          "zh": "由於腫瘤壓迫到視神經，她患上了偏盲，導致她完全看不見左側的任何東西。"
-        },
-        {
-          "en": "Patients experiencing ______ must learn to scan their surroundings carefully to avoid bumping into objects on their blind side.",
-          "zh": "患有半盲的患者必須學會仔細掃視周圍環境，以避免撞到盲側的物體。"
-        }
-      ],
-      "category": {"part": 1, "num": "19", "spelling": "hemi", "meaning": "一半；半側"}
+        {"en": "A tumor pressing on her optic pathway caused ______, leaving her unable to see objects on her left.", "zh": "腫瘤壓迫視覺神經路徑，使她患上偏盲，無法看見左側物體。"},
+        {"en": "People experiencing ______ must scan their surroundings to avoid objects on the blind side.", "zh": "患有半盲的人必須仔細掃視周遭，以免撞到盲側的物體。"}
+      ], "category": {"part": 1, "num": "19", "spelling": "hemi", "meaning": "半；一半"}
     },
     {
-      "word": "hemihedral",
-      "pos": "adj.",
-      "pos_key": "adj.",
-      "defn_en": "having only half the number of faces required for complete symmetry, especially in a crystal:",
-      "defn_zh": "半面體的",
-      "synonyms": ["semicrystalline", "asymmetrical"],
-      "antonyms": [],
-      "root_note": "hemi- (half) + hedral (face or surface)",
+      "word": "hemihedral", "pos": "adj.", "pos_key": "adj.",
+      "defn_en": "having only half the number of faces required for complete crystal symmetry:", "defn_zh": "半面體的",
+      "synonyms": ["semicrystalline", "partially symmetrical", "asymmetrical"], "antonyms": ["holohedral", "fully symmetrical"],
+      "root_note": "hemi- (half) + hedral (having faces)",
       "sentences": [
-        {
-          "en": "Under the microscope, the scientist noted the ______ structure of the quartz crystal, observing its reduced number of symmetric faces.",
-          "zh": "在顯微鏡下，科學家注意到了石英晶體的半面體結構，並觀察到其對稱面的數量減少了。"
-        },
-        {
-          "en": "The professor explained how ______ crystals display unique optical properties because they lack a full set of symmetrical planes.",
-          "zh": "教授解釋了半面體晶體如何因為缺乏完整的對稱面，而展現出獨特的光學特性。"
-        }
-      ],
-      "category": {"part": 1, "num": "19", "spelling": "hemi", "meaning": "一半；半側"}
+        {"en": "The scientist identified the ______ structure of the quartz by its reduced number of symmetric faces.", "zh": "科學家依據對稱面數量較少的特徵，辨認出石英的半面體結構。"},
+        {"en": "The professor explained why ______ crystals may display distinctive optical properties.", "zh": "教授解釋半面體晶體為何可能呈現獨特的光學性質。"}
+      ], "category": {"part": 1, "num": "19", "spelling": "hemi", "meaning": "半；一半"}
+    },
+    {
+      "word": "hemicycle", "pos": "n.", "pos_key": "n.",
+      "defn_en": "a curved or semicircular structure, room, or seating arrangement:", "defn_zh": "半圓形構造；半圓形廳",
+      "synonyms": ["semicircle", "half-circle", "crescent", "amphitheater"], "antonyms": ["rectangle", "square chamber", "full circle"],
+      "root_note": "hemi- (half) + cycle (circle)",
+      "sentences": [
+        {"en": "The representatives gathered in the grand ______ to debate the new economic policy.", "zh": "政治代表聚集在宏偉的半圓形大廳，辯論新的經濟政策。"},
+        {"en": "The university designed the theater as a wooden ______ so every student could see the stage.", "zh": "大學將劇院設計成木製半圓形構造，讓每位學生都能看見舞台。"}
+      ], "category": {"part": 1, "num": "19", "spelling": "hemi", "meaning": "半；一半"}
+    },
+    {
+      "word": "hemisection", "pos": "n.", "pos_key": "n.",
+      "defn_en": "the act of cutting or dividing an organ, tooth, or other structure into two halves:", "defn_zh": "半切術；剖半切開",
+      "synonyms": ["bisection", "halving", "splitting"], "antonyms": ["unification", "preservation", "keeping whole"],
+      "root_note": "hemi- (half) + section (cutting)",
+      "sentences": [
+        {"en": "Instead of removing the whole tooth, the dentist performed a ______ to preserve the healthy root.", "zh": "牙醫沒有拔除整顆牙齒，而是進行半切術以保留健康牙根。"},
+        {"en": "The medical student performed a careful ______ of the spinal cord specimen for analysis.", "zh": "醫學生小心地將脊髓標本剖半切開，以進行分析。"}
+      ], "category": {"part": 1, "num": "19", "spelling": "hemi", "meaning": "半；一半"}
+    },
+    {
+      "word": "hemialgia", "pos": "n.", "pos_key": "n.",
+      "defn_en": "pain affecting only one lateral half of the body:", "defn_zh": "偏身痛；半身痛",
+      "synonyms": ["one-sided pain", "lateral ache"], "antonyms": ["pain-free state", "full-body relief"],
+      "root_note": "hemi- (half) + algia (pain)",
+      "sentences": [
+        {"en": "The patient reported constant ______, with a burning sensation limited to her left side.", "zh": "患者表示持續出現偏身痛，灼熱感僅限於左半身。"},
+        {"en": "A severe nerve blockage in the spinal canal can lead to chronic ______.", "zh": "脊椎管內嚴重的神經阻塞可能導致慢性半身疼痛。"}
+      ], "category": {"part": 1, "num": "19", "spelling": "hemi", "meaning": "半；一半"}
+    },
+    {
+      "word": "hemimorphic", "pos": "adj.", "pos_key": "adj.",
+      "defn_en": "having two ends or halves that are structurally shaped differently from each other:", "defn_zh": "異極形的；半形的",
+      "synonyms": ["polar-shaped", "asymmetrical", "differently terminated"], "antonyms": ["isomorphic", "uniform", "symmetrical"],
+      "root_note": "hemi- (half) + morph (form) + -ic",
+      "sentences": [
+        {"en": "Tourmaline is a well-known ______ crystal because its upper and lower ends have different facets.", "zh": "電氣石是著名的異極形晶體，因為上下兩端具有不同的晶面。"},
+        {"en": "The mineral's highly ______ structure allows it to generate an electrical charge when heated.", "zh": "這種礦物高度異極的結構使它受熱時能產生電荷。"}
+      ], "category": {"part": 1, "num": "19", "spelling": "hemi", "meaning": "半；一半"}
+    },
+    {
+      "word": "hemiparasite", "pos": "n.", "pos_key": "n.",
+      "defn_en": "a parasitic plant that takes some nourishment from a host but can also photosynthesize:", "defn_zh": "半寄生植物；半寄生生物",
+      "synonyms": ["partial parasite", "semi-parasite"], "antonyms": ["holoparasite", "autotroph"],
+      "root_note": "hemi- (half or partial) + parasite (organism living from a host)",
+      "sentences": [
+        {"en": "Mistletoe is a ______ because it takes water from trees while producing energy in its own leaves.", "zh": "槲寄生是半寄生植物，會從樹木吸收水分，同時用自己的葉片製造能量。"},
+        {"en": "Although one ______ may not kill a host tree, thousands can seriously restrict forest growth.", "zh": "雖然單一半寄生植物不會殺死宿主樹，但數以千計時會嚴重阻礙森林生長。"}
+      ], "category": {"part": 1, "num": "19", "spelling": "hemi", "meaning": "半；一半"}
+    },
+    {
+      "word": "hemihydrate", "pos": "n.", "pos_key": "n.",
+      "defn_en": "a compound containing half a molecule of water for each molecule of the compound:", "defn_zh": "半水合物",
+      "synonyms": ["semi-hydrated compound", "partial hydrate"], "antonyms": ["anhydrous compound", "monohydrate", "polyhydrate"],
+      "root_note": "hemi- (half) + hydrate (compound containing water)",
+      "sentences": [
+        {"en": "Plaster of Paris is a calcium sulfate ______ that hardens when mixed with water.", "zh": "熟石膏是硫酸鈣半水合物，與水混合後會變硬。"},
+        {"en": "The chemist heated the crystals until the compound reached a stable ______ state.", "zh": "化學家加熱晶體，直到化合物達到穩定的半水合物狀態。"}
+      ], "category": {"part": 1, "num": "19", "spelling": "hemi", "meaning": "半；一半"}
+    },
+    {
+      "word": "hemianesthesia", "pos": "n.", "pos_key": "n.",
+      "defn_en": "a loss of physical feeling or sensitivity on only one side of the body:", "defn_zh": "偏身感覺喪失；半身麻木",
+      "synonyms": ["one-sided numbness", "hemisensory loss"], "antonyms": ["normal sensation", "full sensitivity"],
+      "root_note": "hemi- (half) + anesthesia (loss of sensation)",
+      "sentences": [
+        {"en": "After the accident, the patient experienced sudden ______ and could not feel pressure on his left leg.", "zh": "車禍後，患者突然出現偏身感覺喪失，感覺不到左腿受到的壓力。"},
+        {"en": "Temporary ______ in an older patient can be an important warning sign of stroke.", "zh": "老年患者出現暫時性半身麻木，可能是中風的重要警訊。"}
+      ], "category": {"part": 1, "num": "19", "spelling": "hemi", "meaning": "半；一半"}
+    },
+    {
+      "word": "hemispherectomy", "pos": "n.", "pos_key": "n.",
+      "defn_en": "a complex operation in which one cerebral hemisphere is removed or disconnected:", "defn_zh": "大腦半球切除術",
+      "synonyms": ["cerebral hemisphere removal", "hemispheric disconnection surgery"], "antonyms": ["hemisphere preservation", "nonsurgical treatment"],
+      "root_note": "hemi- (half) + sphere (globe) + -ectomy (surgical removal)",
+      "sentences": [
+        {"en": "To stop the life-threatening seizures, the surgical team performed a rare ______.", "zh": "為了阻止危及生命的癲癇發作，手術團隊進行罕見的大腦半球切除術。"},
+        {"en": "Children who undergo a ______ may recover remarkably because the young brain can reorganize functions.", "zh": "接受大腦半球切除術的兒童可能恢復得相當好，因為年幼的大腦能重新組織功能。"}
+      ], "category": {"part": 1, "num": "19", "spelling": "hemi", "meaning": "半；一半"}
     }
   ]
 }
