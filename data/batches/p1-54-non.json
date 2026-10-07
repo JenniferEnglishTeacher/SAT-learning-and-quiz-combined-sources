@@ -1,0 +1,877 @@
+{
+  "id": "p1-54-non",
+  "part": "part1",
+  "part_label": "Part 1 字首篇 (Prefixes)",
+  "name": "non",
+  "subtitle": "不；非；無",
+  "count": 13,
+  "words": [
+    {
+      "word": "nondescript",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "lacking distinctive or interesting features and therefore difficult to describe:",
+      "defn_zh": "平淡無奇的；毫無特色的；難以歸類的",
+      "synonyms": [
+        "featureless",
+        "ordinary",
+        "unremarkable",
+        "bland"
+      ],
+      "antonyms": [
+        "distinctive",
+        "striking",
+        "extraordinary",
+        "vivid"
+      ],
+      "root_note": "non- (not) + descript (described)",
+      "sentences": [
+        {
+          "en": "The spy concealed his operation in a ______ gray warehouse that blended into the district.",
+          "zh": "間諜將行動基地藏在一座毫無特色、與工業區融為一體的灰色倉庫裡。"
+        },
+        {
+          "en": "He wore a ______ black jacket so that nobody in the crowded station would notice him.",
+          "zh": "他穿著平淡無奇的黑外套，以免擁擠車站裡有人注意到他。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "54",
+        "spelling": "non",
+        "meaning": "不；非；無"
+      }
+    },
+    {
+      "word": "nonentity",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "an unimportant person or a thing with no distinctive or interesting qualities:",
+      "defn_zh": "無足輕重的人或事物；小人物",
+      "synonyms": [
+        "nobody",
+        "cipher",
+        "lightweight",
+        "mediocrity"
+      ],
+      "antonyms": [
+        "celebrity",
+        "VIP",
+        "luminary",
+        "notable"
+      ],
+      "root_note": "non- (not) + entity (a being or thing)",
+      "sentences": [
+        {
+          "en": "At first, the protagonist is a mere ______ in the office, unnoticed by senior managers.",
+          "zh": "起初，主角在辦公室裡只是個無足輕重的小人物，高階經理都沒注意到他。"
+        },
+        {
+          "en": "The startup remained a commercial ______ until its campaign suddenly became popular worldwide.",
+          "zh": "這家新創公司原本在商業上毫無存在感，直到行銷活動突然風靡全球。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "54",
+        "spelling": "non",
+        "meaning": "不；非；無"
+      }
+    },
+    {
+      "word": "nonchalant",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "casually calm and relaxed, without showing anxiety, interest, or enthusiasm:",
+      "defn_zh": "若無其事的；漠不關心的；淡定的",
+      "synonyms": [
+        "insouciant",
+        "unconcerned",
+        "indifferent",
+        "composed"
+      ],
+      "antonyms": [
+        "anxious",
+        "enthusiastic",
+        "concerned",
+        "passionate"
+      ],
+      "root_note": "non- (not) + chaloir (to concern), through French",
+      "sentences": [
+        {
+          "en": "Despite intense questioning, the politician maintained a ______ expression and smiled calmly.",
+          "zh": "儘管面對激烈質問，這位政治人仍保持若無其事的表情並淡定微笑。"
+        },
+        {
+          "en": "She appeared completely ______ before the championship match and listened quietly to music.",
+          "zh": "在冠軍賽前，她顯得非常淡定，安靜地聽著音樂。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "54",
+        "spelling": "non",
+        "meaning": "不；非；無"
+      }
+    },
+    {
+      "word": "nonage",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "the state or period of legal minority before a person becomes an adult:",
+      "defn_zh": "未成年；年幼時代",
+      "synonyms": [
+        "minority",
+        "childhood",
+        "youth",
+        "immaturity"
+      ],
+      "antonyms": [
+        "majority",
+        "adulthood",
+        "maturity"
+      ],
+      "root_note": "non- (not) + age (legal age)",
+      "sentences": [
+        {
+          "en": "Because the prince inherited the throne during his ______, his uncle served as regent.",
+          "zh": "因王子在未成年時繼承王位，他的叔叔擔任攝政王。"
+        },
+        {
+          "en": "The lawyer argued that the agreement was invalid because it had been signed during the defendant's ______.",
+          "zh": "律師主張協議無效，因為它是被告在未成年時簽署的。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "54",
+        "spelling": "non",
+        "meaning": "不；非；無"
+      }
+    },
+    {
+      "word": "nonexistent",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "not existing, not real, or completely absent:",
+      "defn_zh": "不存在的；虛無的",
+      "synonyms": [
+        "missing",
+        "imaginary",
+        "absent",
+        "unreal"
+      ],
+      "antonyms": [
+        "extant",
+        "existing",
+        "actual",
+        "present"
+      ],
+      "root_note": "non- (not) + existent (being present or real)",
+      "sentences": [
+        {
+          "en": "The inspector fined the owner because the required emergency exits were ______.",
+          "zh": "檢查員因法定緊急出口完全不存在，對業主處以罰款。"
+        },
+        {
+          "en": "Communication between the sales department and customers was practically ______.",
+          "zh": "銷售部門與客戶之間的溝通實際上幾乎不存在。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "54",
+        "spelling": "non",
+        "meaning": "不；非；無"
+      }
+    },
+    {
+      "word": "nonlussation",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a rare or nonstandard term for the absence of injury or harm:",
+      "defn_zh": "無傷害狀態（罕見或非標準詞）",
+      "synonyms": [
+        "absence of injury",
+        "harmlessness",
+        "safety"
+      ],
+      "antonyms": [
+        "injury",
+        "harm",
+        "trauma"
+      ],
+      "root_note": "non- (not) + lusio (a playing or injury), from Latin ludere",
+      "sentences": [
+        {
+          "en": "The report confirmed a state of ______ for every worker after the incident.",
+          "zh": "報告確認事故後每位工人都處於無傷害狀態。"
+        },
+        {
+          "en": "Investigators were relieved to find ______ despite the severity of the crash.",
+          "zh": "儘管撞擊嚴重，調查人員發現無人受傷後仍鬆了一口氣。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "54",
+        "spelling": "non",
+        "meaning": "不；非；無"
+      }
+    },
+    {
+      "word": "nonplussed",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "so surprised and confused that one is unsure how to react or what to say:",
+      "defn_zh": "不知所措的；困惑震驚的",
+      "synonyms": [
+        "perplexed",
+        "bewildered",
+        "baffled",
+        "dumbfounded"
+      ],
+      "antonyms": [
+        "unmoved",
+        "unfazed",
+        "clear-headed",
+        "composed"
+      ],
+      "root_note": "non plus (no more), a Latin expression of perplexity",
+      "sentences": [
+        {
+          "en": "The student stood completely ______ when the teacher announced that his painting had won.",
+          "zh": "老師宣布他的畫作獎時，這名學生不知所措地站著。"
+        },
+        {
+          "en": "The actor was ______ by the sudden interruption and paused to recover his thoughts.",
+          "zh": "演員被突如其來的打斷弄得發懵，停頓片刻才重新整理思緒。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "54",
+        "spelling": "non",
+        "meaning": "不；非；無"
+      }
+    },
+    {
+      "word": "noncommittal",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "not expressing a clear commitment, opinion, or decision:",
+      "defn_zh": "不表態的；模稜兩可的；留有餘地的",
+      "synonyms": [
+        "evasive",
+        "ambiguous",
+        "neutral",
+        "guarded"
+      ],
+      "antonyms": [
+        "definite",
+        "decisive",
+        "explicit",
+        "committed"
+      ],
+      "root_note": "non- (not) + committal (expressing commitment)",
+      "sentences": [
+        {
+          "en": "Asked about possible layoffs, the executive gave a ______ answer about market conditions.",
+          "zh": "被問到是否可能裁員時，高層對市場狀況給了模稜兩可的回答。"
+        },
+        {
+          "en": "The buyer maintained a ______ expression so the seller could not judge his enthusiasm.",
+          "zh": "買方保持不表態的神情，讓賣方無法判斷他的熱情程度。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "54",
+        "spelling": "non",
+        "meaning": "不；非；無"
+      }
+    },
+    {
+      "word": "nonpareil",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "having no match or equal; unrivaled and supreme in quality:",
+      "defn_zh": "無與倫比的；無雙的",
+      "synonyms": [
+        "matchless",
+        "peerless",
+        "incomparable",
+        "unrivaled"
+      ],
+      "antonyms": [
+        "ordinary",
+        "common",
+        "mediocre"
+      ],
+      "root_note": "non- (not) + pareil (equal), from French",
+      "sentences": [
+        {
+          "en": "The luxury restaurant is famous for its ______ service and meticulous attention to guests.",
+          "zh": "這家豪華餐廳以無與倫比的服務和對客人的細心關注而聞名。"
+        },
+        {
+          "en": "Mozart's talent as a child prodigy remains a ______ phenomenon in musical history.",
+          "zh": "莫札特作為音樂神童的才華，在音樂史上仍是絕無僅有的現象。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "54",
+        "spelling": "non",
+        "meaning": "不；非；無"
+      }
+    },
+    {
+      "word": "nonconformist",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a person whose behavior or views do not follow prevailing ideas or social standards:",
+      "defn_zh": "不墨守成規的人；反傳統者",
+      "synonyms": [
+        "maverick",
+        "rebel",
+        "dissenter",
+        "iconoclast"
+      ],
+      "antonyms": [
+        "conformist",
+        "traditionalist",
+        "follower"
+      ],
+      "root_note": "non- (not) + conformist (one who follows accepted standards)",
+      "sentences": [
+        {
+          "en": "As a lifelong ______, the writer rejected popular trends and published only on paper.",
+          "zh": "作為終身的反傳統者，這位作家拒絕流行趨勢，堅持只用紙本出版。"
+        },
+        {
+          "en": "The startup was founded by a ______ who challenged every conventional corporate rule.",
+          "zh": "這家新創公司由一位挑戰所有傳統企業規則的非傳統人士創立。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "54",
+        "spelling": "non",
+        "meaning": "不；非；無"
+      }
+    },
+    {
+      "word": "non sequitur",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a statement or conclusion that does not logically follow from what came before it:",
+      "defn_zh": "答非所問；前後不連貫或不合邏輯的推論",
+      "synonyms": [
+        "logical disconnect",
+        "inconsistency",
+        "logical fallacy"
+      ],
+      "antonyms": [
+        "logical deduction",
+        "valid conclusion",
+        "accurate consequence"
+      ],
+      "root_note": "non (not) + sequitur (it follows), from Latin",
+      "sentences": [
+        {
+          "en": "Claiming that a library should be built because cats like fish is a confusing ______.",
+          "zh": "聲稱應該建造圖書館，因為貓喜歡吃魚，是一個令人困惑的不合邏輯推論。"
+        },
+        {
+          "en": "Her sudden comment about the weather during the negotiation was an amusing ______.",
+          "zh": "她在談判中突然評論天氣，是一個有趣但突兀的不連貫言論。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "54",
+        "spelling": "non",
+        "meaning": "不；非；無"
+      }
+    },
+    {
+      "word": "nonaggression",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a policy or agreement between nations to avoid military force against each other:",
+      "defn_zh": "互不侵犯",
+      "synonyms": [
+        "peace pact",
+        "neutrality pact",
+        "truce"
+      ],
+      "antonyms": [
+        "belligerence",
+        "warfare",
+        "aggression"
+      ],
+      "root_note": "non- (not) + aggression (hostile attack)",
+      "sentences": [
+        {
+          "en": "The rival nations signed a historic ______ pact and promised to avoid armed conflict.",
+          "zh": "這兩個敵對國家簽署了歷史性的互不侵犯條約，並承諾避免武裝衝突。"
+        },
+        {
+          "en": "Diplomats urged both military factions to respect the ______ agreement.",
+          "zh": "外交官敦促雙方軍事派系遵守互不侵犯協議。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "54",
+        "spelling": "non",
+        "meaning": "不；非；無"
+      }
+    },
+    {
+      "word": "nonsensical",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "making no sense; completely absurd, ridiculous, or foolish:",
+      "defn_zh": "荒謬的；無意義的；胡扯的",
+      "synonyms": [
+        "absurd",
+        "preposterous",
+        "ludicrous",
+        "irrational"
+      ],
+      "antonyms": [
+        "logical",
+        "rational",
+        "sensible",
+        "reasonable"
+      ],
+      "root_note": "non- (not) + sense + -ical",
+      "sentences": [
+        {
+          "en": "The editor rejected the manuscript because its conclusions were ______ and unsupported by data.",
+          "zh": "編輯退回手稿，因為其結論荒謬且毫無數據支持。"
+        },
+        {
+          "en": "The jury rejected his ______ alibi because it was physically impossible.",
+          "zh": "陪審團駁回他那不合常理的不在場證明，因為那在物理上不可能發生。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "54",
+        "spelling": "non",
+        "meaning": "不；非；無"
+      }
+    }
+  ],
+  "family_options": {},
+  "fallback_options": {
+    "v.": [
+      {
+        "word": "abound",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to exist in great numbers:",
+        "defn_zh": "充滿"
+      },
+      {
+        "word": "abrogate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to deprive of legal force, to nullify:=abolish",
+        "defn_zh": "廢除/取消"
+      },
+      {
+        "word": "abjure",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to renounce, abstain from:",
+        "defn_zh": "發誓放棄/棄絕"
+      },
+      {
+        "word": "abbreviate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to shorten a word or phrase:",
+        "defn_zh": "縮寫;縮短"
+      },
+      {
+        "word": "abdicate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to give up a position, usually one of leadership:",
+        "defn_zh": "退位/放棄(職位)"
+      },
+      {
+        "word": "abduct",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to kidnap, take by force:",
+        "defn_zh": "綁架/劫持"
+      },
+      {
+        "word": "abhor",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to regard with disgust and hatred:",
+        "defn_zh": "憎惡/厭惡"
+      },
+      {
+        "word": "abnegate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to deny or renounce:",
+        "defn_zh": "放棄/克制"
+      },
+      {
+        "word": "abolish",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to formally put an end to a system, practice, or institution:",
+        "defn_zh": "廢除"
+      },
+      {
+        "word": "abort",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to give up on a half-finished project or effort:",
+        "defn_zh": "中止/放棄"
+      },
+      {
+        "word": "abrade",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to scrape or wear away by friction:",
+        "defn_zh": "磨損;擦傷"
+      },
+      {
+        "word": "abscond",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to sneak away and hide:",
+        "defn_zh": "潛逃/逃匿"
+      }
+    ],
+    "adj.": [
+      {
+        "word": "abortive",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "fruitless, failing:",
+        "defn_zh": "失敗的/夭折的"
+      },
+      {
+        "word": "abstemious",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "moderate in eating or drinking:",
+        "defn_zh": "飲食有節制的"
+      },
+      {
+        "word": "abhorrent",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "detestable, despised:",
+        "defn_zh": "令人厭惡的"
+      },
+      {
+        "word": "absurd",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "ridiculous:",
+        "defn_zh": "荒謬的"
+      },
+      {
+        "word": "aberrant",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "deviating from what is normal or expected:",
+        "defn_zh": "異常的;脫軌的"
+      },
+      {
+        "word": "abject",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "wretched, pitiful:",
+        "defn_zh": "卑賤的/淒慘的"
+      },
+      {
+        "word": "abominable",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "causing moral revulsion; extremely unpleasant:",
+        "defn_zh": "可憎的;惡劣的"
+      },
+      {
+        "word": "abounding",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "existing in large numbers or amounts:",
+        "defn_zh": "大量存在的;豐富的"
+      },
+      {
+        "word": "abrasive",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "showing little concern for others; harsh:",
+        "defn_zh": "粗暴的/刺耳的"
+      },
+      {
+        "word": "abrupt",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "sudden or unexpected; brief and curt in manner:",
+        "defn_zh": "突然的/唐突的"
+      },
+      {
+        "word": "abstract",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "existing purely in the mind; not representing actual reality:",
+        "defn_zh": "抽象的"
+      },
+      {
+        "word": "abstruse",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "hard to comprehend:",
+        "defn_zh": "深奧難懂的"
+      }
+    ],
+    "n.": [
+      {
+        "word": "aversion",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "strong dislike, opposition:",
+        "defn_zh": "厭惡/反感"
+      },
+      {
+        "word": "aberration",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "something that differs from the norm:",
+        "defn_zh": "異常/脫軌"
+      },
+      {
+        "word": "abjection",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a state of complete misery, hopelessness, or degradation:",
+        "defn_zh": "卑賤;悲慘狀態"
+      },
+      {
+        "word": "abjuration",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the solemn renunciation of a belief, cause, or claim:",
+        "defn_zh": "公開放棄;誓絕"
+      },
+      {
+        "word": "ablution",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the act of washing oneself, especially as part of a religious ritual:",
+        "defn_zh": "沐浴;淨身儀式"
+      },
+      {
+        "word": "abnegation",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "denial of comfort to oneself:",
+        "defn_zh": "自我克制/放棄"
+      },
+      {
+        "word": "abomination",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "something that causes disgust or hatred:",
+        "defn_zh": "可憎之事;令人厭惡的東西"
+      },
+      {
+        "word": "abridgement",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a shortened version of a book or other written work:",
+        "defn_zh": "節略本;縮減版"
+      },
+      {
+        "word": "absolution",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "freedom from blame, guilt, sin:",
+        "defn_zh": "赦免/免罪"
+      },
+      {
+        "word": "abstemiousness",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "moderation or self-restraint, especially in eating and drinking:",
+        "defn_zh": "節制;克己"
+      },
+      {
+        "word": "abstinence",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the practice of restraining oneself from something enjoyable, especially food, alcohol, or sex:",
+        "defn_zh": "節制;戒絕"
+      },
+      {
+        "word": "avocation",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a hobby or minor occupation apart from one's main career:",
+        "defn_zh": "副業;業餘愛好"
+      }
+    ],
+    "adv.": [
+      {
+        "word": "accordingly",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in a manner that fits the circumstances; consequently:",
+        "defn_zh": "相應地;因此"
+      },
+      {
+        "word": "inadvertently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "unintentionally or by accident:",
+        "defn_zh": "無意間/不小心地"
+      },
+      {
+        "word": "consequently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "as a result; therefore:",
+        "defn_zh": "因此;結果"
+      },
+      {
+        "word": "contemptuously",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "without respect; in a disdainful manner:",
+        "defn_zh": "輕蔑地"
+      },
+      {
+        "word": "involuntarily",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "done without conscious control:",
+        "defn_zh": "不由自主地"
+      },
+      {
+        "word": "cordially",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in a warm or friendly manner:",
+        "defn_zh": "誠摯地/友好地"
+      },
+      {
+        "word": "ipso facto",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "by that very fact or act:",
+        "defn_zh": "事實上;因此"
+      },
+      {
+        "word": "en passant",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in passing; incidentally:",
+        "defn_zh": "順帶一提地;偶然地"
+      },
+      {
+        "word": "regardless",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "despite the prevailing circumstances; without being deterred:",
+        "defn_zh": "不管怎樣;儘管如此"
+      },
+      {
+        "word": "subsequently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "afterward; following in time or order:",
+        "defn_zh": "隨後;其後"
+      },
+      {
+        "word": "aside",
+        "pos": "adv./n.",
+        "pos_key": "adv.",
+        "defn_en": "to or on one side; a remark not meant to be heard by everyone:",
+        "defn_zh": "在旁邊;旁白"
+      },
+      {
+        "word": "vice versa",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "with the order or meaning reversed; conversely:",
+        "defn_zh": "反之亦然"
+      }
+    ],
+    "other": [
+      {
+        "word": "（此批單字中，暫無符合此字根/字首的單字）",
+        "pos": "",
+        "pos_key": "other",
+        "defn_en": "",
+        "defn_zh": ""
+      }
+    ],
+    "prep./adv.": [
+      {
+        "word": "besides",
+        "pos": "prep./adv.",
+        "pos_key": "prep./adv.",
+        "defn_en": "in addition to; furthermore:",
+        "defn_zh": "除...之外;此外"
+      }
+    ],
+    "phrasalv.": [
+      {
+        "word": "egg on",
+        "pos": "phrasal v.",
+        "pos_key": "phrasalv.",
+        "defn_en": "to encourage someone to do something, often risky:",
+        "defn_zh": "慫恿;鼓動"
+      }
+    ],
+    "abbr.": [
+      {
+        "word": "etc.",
+        "pos": "abbr.",
+        "pos_key": "abbr.",
+        "defn_en": "and other similar things (abbreviation of et cetera):",
+        "defn_zh": "等等(et cetera的縮寫)"
+      }
+    ],
+    "interj.": [
+      {
+        "word": "fiddledeedee",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "an exclamation expressing dismissal of something as nonsense:",
+        "defn_zh": "廢話!(表示不屑一顧)"
+      },
+      {
+        "word": "gesundheit",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "an expression said to someone who has just sneezed:",
+        "defn_zh": "保重(打噴嚏後的祝福語)"
+      }
+    ],
+    "prep.": [
+      {
+        "word": "via",
+        "pos": "prep.",
+        "pos_key": "prep.",
+        "defn_en": "by way of; passing through:",
+        "defn_zh": "經由;透過"
+      }
+    ]
+  }
+}

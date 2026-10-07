@@ -4,7 +4,7 @@
     "total_batches": 235,
     "part1_part2_batches": 158,
     "unclassified_batches": 77,
-    "generated_batches": 51
+    "generated_batches": 52
   },
   "batches": [
     {
@@ -762,10 +762,10 @@
       "part": "part1",
       "part_label": "Part 1 字首篇 (Prefixes)",
       "name": "non",
-      "subtitle": "不",
-      "count": 6,
-      "generated": false,
-      "search_terms": "nondescript nonentity nonchalant nonage nonexistent nonlussation"
+      "subtitle": "不；非；無",
+      "count": 13,
+      "generated": true,
+      "search_terms": "nondescript nonentity nonchalant nonage nonexistent nonlussation nonplussed noncommittal nonpareil nonconformist non sequitur nonaggression nonsensical"
     },
     {
       "id": "p1-55-pro",
