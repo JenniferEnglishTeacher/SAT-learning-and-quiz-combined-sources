@@ -351,5 +351,23 @@
         "derived_from": "hypersensitive"
       }
     ]
+  },
+  "p1-22-hypo": {
+    "v.": [
+      {
+        "word": "hypostatize",
+        "pos": "v.",
+        "defn_en": "to treat an abstract idea as if it were a real substance or concrete thing:",
+        "defn_zh": "使實體化；將抽象概念視為實體",
+        "derived_from": "hypostatic"
+      },
+      {
+        "word": "oxygenate",
+        "pos": "v.",
+        "defn_en": "to supply, enrich, or combine something with oxygen:",
+        "defn_zh": "使氧合；供給氧氣",
+        "derived_from": "hypoxia"
+      }
+    ]
   }
 }

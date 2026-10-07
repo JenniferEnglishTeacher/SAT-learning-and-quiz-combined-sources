@@ -34,6 +34,7 @@
     "p1-19-hemi",
     "p1-20-homo",
     "p1-21-hyper",
+    "p1-22-hypo",
     "p1-26-intra",
     "p1-27-kilo",
     "p1-29-micro",
@@ -48,7 +49,7 @@
     "p1-39-post",
     "p1-47-tele"
   ],
-  "generated_count": 47,
+  "generated_count": 48,
   "total": 235,
-  "next_batch": "p1-22-hypo"
+  "next_batch": "p1-23-im"
 }

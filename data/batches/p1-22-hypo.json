@@ -1,0 +1,947 @@
+{
+  "id": "p1-22-hypo",
+  "part": "part1",
+  "part_label": "Part 1 字首篇 (Prefixes)",
+  "name": "hypo",
+  "subtitle": "在下；低於；不足",
+  "count": 15,
+  "words": [
+    {
+      "word": "hypochondriac",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a person who is excessively worried about having a serious illness despite little or no medical evidence:",
+      "defn_zh": "疑病症患者；過度擔心生病的人",
+      "synonyms": [
+        "health worrier",
+        "imaginary invalid",
+        "nosophobe"
+      ],
+      "antonyms": [
+        "health-confident person",
+        "carefree patient"
+      ],
+      "root_note": "hypo- (under) + chondros (cartilage), from Greek",
+      "sentences": [
+        {
+          "en": "As a lifelong ______, he was convinced that every headache signaled a serious illness.",
+          "zh": "身為長期過度擔心健康的人，他深信每次頭痛都代表嚴重疾病。"
+        },
+        {
+          "en": "Her friends called her a ______ whenever she searched online for alarming explanations of minor symptoms.",
+          "zh": "每當她上網搜尋小症狀的驚人解釋時，朋友都說她是疑病症患者。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "22",
+        "spelling": "hypo",
+        "meaning": "在下；低於；不足"
+      }
+    },
+    {
+      "word": "hypochondriacal",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "excessively worried about one's health and inclined to imagine illnesses:",
+      "defn_zh": "疑病症的；過度擔心健康的",
+      "synonyms": [
+        "health-anxious",
+        "morbidly worried",
+        "nosophobic"
+      ],
+      "antonyms": [
+        "unworried",
+        "reassured",
+        "health-confident"
+      ],
+      "root_note": "hypo- (under) + chondros (cartilage) + -acal",
+      "sentences": [
+        {
+          "en": "Her ______ tendencies led her to schedule a medical appointment every week.",
+          "zh": "她過度擔心健康的傾向使她每週都預約看醫生。"
+        },
+        {
+          "en": "He became increasingly ______ after his father's prolonged illness.",
+          "zh": "父親長期生病後，他變得越來越過度擔心自己的健康。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "22",
+        "spelling": "hypo",
+        "meaning": "在下；低於；不足"
+      }
+    },
+    {
+      "word": "hypocrisy",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "the behavior of pretending to have moral standards or beliefs that one does not actually follow:",
+      "defn_zh": "虛偽；偽善",
+      "synonyms": [
+        "insincerity",
+        "duplicity",
+        "double-dealing",
+        "sanctimoniousness"
+      ],
+      "antonyms": [
+        "honesty",
+        "sincerity",
+        "integrity",
+        "frankness"
+      ],
+      "root_note": "hypo- (under) + krisis (judgment), through Greek hypokrisis (acting)",
+      "sentences": [
+        {
+          "en": "Voters condemned the politician's ______ after he demanded penalties for tax fraud but evaded taxes himself.",
+          "zh": "這名政治人要求嚴懲稅務欺詐，自己卻逃漏稅，選民因此譴責他的偽善。"
+        },
+        {
+          "en": "The novel exposes the ______ of wealthy characters who praise charity while ignoring the poor.",
+          "zh": "這部小說揭露了富裕角色稱讚慈善卻漠視窮人的虛偽。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "22",
+        "spelling": "hypo",
+        "meaning": "在下；低於；不足"
+      }
+    },
+    {
+      "word": "hypodermic",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "relating to the area beneath the skin or to an injection given under the skin:",
+      "defn_zh": "皮下的；皮下注射的",
+      "synonyms": [
+        "subcutaneous",
+        "under-the-skin"
+      ],
+      "antonyms": [
+        "epidermal",
+        "surface-level"
+      ],
+      "root_note": "hypo- (under) + derm (skin) + -ic",
+      "sentences": [
+        {
+          "en": "The nurse loaded the medicine into a sterile ______ syringe before giving the vaccine.",
+          "zh": "護理師在施打疫苗前，將藥物裝入無菌的皮下注射針筒。"
+        },
+        {
+          "en": "The diagram showed the thick layer of fat stored in the animal's ______ tissue.",
+          "zh": "圖解顯示這種動物的皮下組織儲存著厚厚的脂肪。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "22",
+        "spelling": "hypo",
+        "meaning": "在下；低於；不足"
+      }
+    },
+    {
+      "word": "hypothesis",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a proposed explanation based on limited evidence that can be tested through further investigation:",
+      "defn_zh": "假設；假說",
+      "synonyms": [
+        "conjecture",
+        "proposition",
+        "premise",
+        "theory"
+      ],
+      "antonyms": [
+        "fact",
+        "proof",
+        "certainty",
+        "conclusion"
+      ],
+      "root_note": "hypo- (under) + thesis (placing or proposition)",
+      "sentences": [
+        {
+          "en": "Before beginning the experiment, the student wrote a clear ______ predicting how temperature would affect bacterial growth.",
+          "zh": "開始實驗前，學生寫下一個清楚的假說，預測溫度將如何影響細菌生長。"
+        },
+        {
+          "en": "The detective formed a working ______ that the thief had received help from a bank employee.",
+          "zh": "偵探形成一個初步假說，懷疑小偷得到了銀行員工的協助。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "22",
+        "spelling": "hypo",
+        "meaning": "在下；低於；不足"
+      }
+    },
+    {
+      "word": "hypothesize",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to propose a possible explanation or theory that can be investigated or tested:",
+      "defn_zh": "假設；推測",
+      "synonyms": [
+        "theorize",
+        "conjecture",
+        "speculate",
+        "postulate"
+      ],
+      "antonyms": [
+        "prove",
+        "verify",
+        "establish",
+        "demonstrate"
+      ],
+      "root_note": "hypo- (under) + thesis (placing or proposition) + -ize",
+      "sentences": [
+        {
+          "en": "Scientists ______ that the universe expanded rapidly during its earliest moments.",
+          "zh": "科學家假設宇宙在最初的時刻曾迅速膨脹。"
+        },
+        {
+          "en": "Researchers ______ that a rare genetic mutation causes the disease.",
+          "zh": "研究人員推測這種疾病是由罕見的基因突變引起的。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "22",
+        "spelling": "hypo",
+        "meaning": "在下；低於；不足"
+      }
+    },
+    {
+      "word": "hypothetical",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "imagined or suggested as a possibility rather than based on real facts or events:",
+      "defn_zh": "假設的；虛擬的",
+      "synonyms": [
+        "theoretical",
+        "speculative",
+        "conjectural",
+        "conditional"
+      ],
+      "antonyms": [
+        "actual",
+        "real",
+        "factual",
+        "certain"
+      ],
+      "root_note": "hypo- (under) + thesis (placing) + -ical",
+      "sentences": [
+        {
+          "en": "The law professor gave the class a ______ case involving a fictional technology company.",
+          "zh": "法學教授給全班一個涉及虛構科技公司的假設性案例。"
+        },
+        {
+          "en": "The manager asked the team to analyze a ______ crisis in which the company lost its main supplier.",
+          "zh": "經理要求團隊分析一個公司失去主要供應商的虛擬危機。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "22",
+        "spelling": "hypo",
+        "meaning": "在下；低於；不足"
+      }
+    },
+    {
+      "word": "hypocrite",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a person who claims to have moral beliefs or standards but behaves in a way that contradicts them:",
+      "defn_zh": "偽善者；虛偽的人",
+      "synonyms": [
+        "fraud",
+        "deceiver",
+        "pretender",
+        "pharisee"
+      ],
+      "antonyms": [
+        "honest person",
+        "person of integrity"
+      ],
+      "root_note": "hypo- (under) + krinein (to judge), through Greek hypokrites (actor)",
+      "sentences": [
+        {
+          "en": "She called her brother a ______ because he lectured her about healthy eating while hiding candy under his bed.",
+          "zh": "她稱哥哥是個偽善者，因為他教訓她要健康飲食，自己卻在床底藏糖果。"
+        },
+        {
+          "en": "The drama's villain is a charming ______ who pretends to be loyal while plotting against the king.",
+          "zh": "這部戲的反派是個有魅力的偽善者，假裝忠誠卻暗中陷害國王。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "22",
+        "spelling": "hypo",
+        "meaning": "在下；低於；不足"
+      }
+    },
+    {
+      "word": "hypothermia",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a dangerous condition in which the body's core temperature becomes abnormally low:",
+      "defn_zh": "低體溫症；失溫症",
+      "synonyms": [
+        "dangerously low body temperature",
+        "extreme cold exposure"
+      ],
+      "antonyms": [
+        "hyperthermia",
+        "fever"
+      ],
+      "root_note": "hypo- (below) + therm (heat) + -ia",
+      "sentences": [
+        {
+          "en": "The rescue team wrapped the stranded hiker in warm blankets to treat his severe ______.",
+          "zh": "救援隊用保暖毛毯包裹受困登山客，以治療他嚴重的失溫症。"
+        },
+        {
+          "en": "The ranger warned that swimming in the icy lake could cause immediate ______.",
+          "zh": "巡邏員警告，在冰冷的湖中游泳可能立即引發低體溫症。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "22",
+        "spelling": "hypo",
+        "meaning": "在下；低於；不足"
+      }
+    },
+    {
+      "word": "hypotensive",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "relating to, causing, or characterized by abnormally low blood pressure:",
+      "defn_zh": "低血壓的；降低血壓的",
+      "synonyms": [
+        "low-pressure",
+        "blood-pressure-lowering"
+      ],
+      "antonyms": [
+        "hypertensive",
+        "high-pressure"
+      ],
+      "root_note": "hypo- (below) + tens (pressure) + -ive",
+      "sentences": [
+        {
+          "en": "The physician warned that the new medication could have a ______ effect and cause dizziness upon standing.",
+          "zh": "醫生警告新藥可能會產生降低血壓的效果，導致站立時頭暈。"
+        },
+        {
+          "en": "The medical team monitored the patient to ensure that he did not enter a dangerous ______ state.",
+          "zh": "醫療團隊監測病患，以確保他不會陷入危險的低血壓狀態。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "22",
+        "spelling": "hypo",
+        "meaning": "在下；低於；不足"
+      }
+    },
+    {
+      "word": "hypoglycemia",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a medical condition caused by an abnormally low level of glucose in the blood:",
+      "defn_zh": "低血糖症",
+      "synonyms": [
+        "low blood sugar",
+        "glucose deficiency"
+      ],
+      "antonyms": [
+        "hyperglycemia",
+        "high blood sugar"
+      ],
+      "root_note": "hypo- (low) + glyc (sugar) + -emia (blood condition)",
+      "sentences": [
+        {
+          "en": "Because he experienced frequent ______, the diabetic athlete always carried fruit juice.",
+          "zh": "因為經常發生低血糖，這位糖尿病運動員總是攜帶果汁。"
+        },
+        {
+          "en": "Skipping meals can trigger temporary ______ and make a person feel shaky and confused.",
+          "zh": "跳過正餐可能引發暫時性低血糖，使人發抖並感到困惑。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "22",
+        "spelling": "hypo",
+        "meaning": "在下；低於；不足"
+      }
+    },
+    {
+      "word": "hypostatic",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "relating to an underlying state or to fluid that settles in a lower part because of poor circulation:",
+      "defn_zh": "本質的；基礎的；下墜性的",
+      "synonyms": [
+        "underlying",
+        "fundamental",
+        "settled"
+      ],
+      "antonyms": [
+        "superficial",
+        "dynamic",
+        "floating"
+      ],
+      "root_note": "hypo- (under) + stat (standing) + -ic",
+      "sentences": [
+        {
+          "en": "After weeks without movement, the elderly patient developed ______ pneumonia as fluid settled in his lower lungs.",
+          "zh": "這位老年病人數週無法活動，液體沉積在肺部下方，因而罹患下墜性肺炎。"
+        },
+        {
+          "en": "The scholar discussed the ______ union of two natures in one essence.",
+          "zh": "這位學者討論了兩種本性在同一本體中的本質結合。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "22",
+        "spelling": "hypo",
+        "meaning": "在下；低於；不足"
+      }
+    },
+    {
+      "word": "hypogeal",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "living, growing, or occurring underground:",
+      "defn_zh": "地下的；地下發芽的",
+      "synonyms": [
+        "subterranean",
+        "underground",
+        "buried"
+      ],
+      "antonyms": [
+        "epigeal",
+        "aerial",
+        "aboveground"
+      ],
+      "root_note": "hypo- (under) + ge (earth) + -al",
+      "sentences": [
+        {
+          "en": "Oak trees exhibit ______ germination, so the acorn remains beneath the soil while shoots grow upward.",
+          "zh": "橡樹呈現地下發芽，因此橡子留在土壤下，嫩芽則向上生長。"
+        },
+        {
+          "en": "Researchers discovered a species of ______ beetle that spends its entire life in deep caves.",
+          "zh": "研究人員發現一種一生都生活在深層洞穴的地下甲蟲。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "22",
+        "spelling": "hypo",
+        "meaning": "在下；低於；不足"
+      }
+    },
+    {
+      "word": "hypoxia",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a deficiency of oxygen reaching the body's tissues:",
+      "defn_zh": "缺氧；組織缺氧",
+      "synonyms": [
+        "oxygen deprivation",
+        "oxygen deficiency",
+        "anoxia"
+      ],
+      "antonyms": [
+        "hyperoxia",
+        "adequate oxygenation"
+      ],
+      "root_note": "hypo- (below or deficient) + ox (oxygen) + -ia",
+      "sentences": [
+        {
+          "en": "Passengers must use oxygen masks after a cabin-pressure loss to prevent severe ______.",
+          "zh": "客艙失壓後，乘客必須使用氧氣面罩，以防止嚴重缺氧。"
+        },
+        {
+          "en": "Agricultural runoff created a dead zone and caused widespread aquatic ______ that killed thousands of fish.",
+          "zh": "農業徑流形成死亡區，引發廣泛的水生缺氧，導致數千條魚死亡。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "22",
+        "spelling": "hypo",
+        "meaning": "在下；低於；不足"
+      }
+    },
+    {
+      "word": "hypocritical",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "behaving as though one has higher standards or beliefs than one's actions actually show:",
+      "defn_zh": "虛偽的；偽善的",
+      "synonyms": [
+        "sanctimonious",
+        "insincere",
+        "double-dealing",
+        "dissembling"
+      ],
+      "antonyms": [
+        "sincere",
+        "genuine",
+        "forthright",
+        "candid"
+      ],
+      "root_note": "hypocrite + -ical (relating to)",
+      "sentences": [
+        {
+          "en": "The company faced criticism for its ______ environmental policy while secretly dumping toxic waste.",
+          "zh": "這家公司暗中傾倒有毒廢棄物，卻推行虛偽的環保政策，因而受到批評。"
+        },
+        {
+          "en": "It was ______ of the principal to scold late students when he was tardy to every assembly.",
+          "zh": "校長每次集會都遲到，卻責髒遲到的學生，這實在很偽善。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "22",
+        "spelling": "hypo",
+        "meaning": "在下；低於；不足"
+      }
+    }
+  ],
+  "family_options": {
+    "v.": [
+      {
+        "word": "hypostatize",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to treat an abstract idea as if it were a real substance or concrete thing:",
+        "defn_zh": "使實體化；將抽象概念視為實體",
+        "derived_from": "hypostatic"
+      },
+      {
+        "word": "oxygenate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to supply, enrich, or combine something with oxygen:",
+        "defn_zh": "使氧合；供給氧氣",
+        "derived_from": "hypoxia"
+      }
+    ]
+  },
+  "fallback_options": {
+    "v.": [
+      {
+        "word": "abound",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to exist in great numbers:",
+        "defn_zh": "充滿"
+      },
+      {
+        "word": "abrogate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to deprive of legal force, to nullify:=abolish",
+        "defn_zh": "廢除/取消"
+      },
+      {
+        "word": "abjure",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to renounce, abstain from:",
+        "defn_zh": "發誓放棄/棄絕"
+      },
+      {
+        "word": "abbreviate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to shorten a word or phrase:",
+        "defn_zh": "縮寫;縮短"
+      },
+      {
+        "word": "abdicate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to give up a position, usually one of leadership:",
+        "defn_zh": "退位/放棄(職位)"
+      },
+      {
+        "word": "abduct",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to kidnap, take by force:",
+        "defn_zh": "綁架/劫持"
+      },
+      {
+        "word": "abhor",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to regard with disgust and hatred:",
+        "defn_zh": "憎惡/厭惡"
+      },
+      {
+        "word": "abnegate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to deny or renounce:",
+        "defn_zh": "放棄/克制"
+      },
+      {
+        "word": "abolish",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to formally put an end to a system, practice, or institution:",
+        "defn_zh": "廢除"
+      },
+      {
+        "word": "abort",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to give up on a half-finished project or effort:",
+        "defn_zh": "中止/放棄"
+      },
+      {
+        "word": "abrade",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to scrape or wear away by friction:",
+        "defn_zh": "磨損;擦傷"
+      },
+      {
+        "word": "abscond",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to sneak away and hide:",
+        "defn_zh": "潛逃/逃匿"
+      }
+    ],
+    "adj.": [
+      {
+        "word": "abortive",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "fruitless, failing:",
+        "defn_zh": "失敗的/夭折的"
+      },
+      {
+        "word": "abstemious",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "moderate in eating or drinking:",
+        "defn_zh": "飲食有節制的"
+      },
+      {
+        "word": "abhorrent",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "detestable, despised:",
+        "defn_zh": "令人厭惡的"
+      },
+      {
+        "word": "absurd",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "ridiculous:",
+        "defn_zh": "荒謬的"
+      },
+      {
+        "word": "aberrant",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "deviating from what is normal or expected:",
+        "defn_zh": "異常的;脫軌的"
+      },
+      {
+        "word": "abject",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "wretched, pitiful:",
+        "defn_zh": "卑賤的/淒慘的"
+      },
+      {
+        "word": "abominable",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "causing moral revulsion; extremely unpleasant:",
+        "defn_zh": "可憎的;惡劣的"
+      },
+      {
+        "word": "abounding",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "existing in large numbers or amounts:",
+        "defn_zh": "大量存在的;豐富的"
+      },
+      {
+        "word": "abrasive",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "showing little concern for others; harsh:",
+        "defn_zh": "粗暴的/刺耳的"
+      },
+      {
+        "word": "abrupt",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "sudden or unexpected; brief and curt in manner:",
+        "defn_zh": "突然的/唐突的"
+      },
+      {
+        "word": "abstract",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "existing purely in the mind; not representing actual reality:",
+        "defn_zh": "抽象的"
+      },
+      {
+        "word": "abstruse",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "hard to comprehend:",
+        "defn_zh": "深奧難懂的"
+      }
+    ],
+    "n.": [
+      {
+        "word": "aversion",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "strong dislike, opposition:",
+        "defn_zh": "厭惡/反感"
+      },
+      {
+        "word": "aberration",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "something that differs from the norm:",
+        "defn_zh": "異常/脫軌"
+      },
+      {
+        "word": "abjection",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a state of complete misery, hopelessness, or degradation:",
+        "defn_zh": "卑賤;悲慘狀態"
+      },
+      {
+        "word": "abjuration",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the solemn renunciation of a belief, cause, or claim:",
+        "defn_zh": "公開放棄;誓絕"
+      },
+      {
+        "word": "ablution",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the act of washing oneself, especially as part of a religious ritual:",
+        "defn_zh": "沐浴;淨身儀式"
+      },
+      {
+        "word": "abnegation",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "denial of comfort to oneself:",
+        "defn_zh": "自我克制/放棄"
+      },
+      {
+        "word": "abomination",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "something that causes disgust or hatred:",
+        "defn_zh": "可憎之事;令人厭惡的東西"
+      },
+      {
+        "word": "abridgement",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a shortened version of a book or other written work:",
+        "defn_zh": "節略本;縮減版"
+      },
+      {
+        "word": "absolution",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "freedom from blame, guilt, sin:",
+        "defn_zh": "赦免/免罪"
+      },
+      {
+        "word": "abstemiousness",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "moderation or self-restraint, especially in eating and drinking:",
+        "defn_zh": "節制;克己"
+      },
+      {
+        "word": "abstinence",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the practice of restraining oneself from something enjoyable, especially food, alcohol, or sex:",
+        "defn_zh": "節制;戒絕"
+      },
+      {
+        "word": "avocation",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a hobby or minor occupation apart from one's main career:",
+        "defn_zh": "副業;業餘愛好"
+      }
+    ],
+    "adv.": [
+      {
+        "word": "accordingly",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in a manner that fits the circumstances; consequently:",
+        "defn_zh": "相應地;因此"
+      },
+      {
+        "word": "inadvertently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "unintentionally or by accident:",
+        "defn_zh": "無意間/不小心地"
+      },
+      {
+        "word": "consequently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "as a result; therefore:",
+        "defn_zh": "因此;結果"
+      },
+      {
+        "word": "contemptuously",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "without respect; in a disdainful manner:",
+        "defn_zh": "輕蔑地"
+      },
+      {
+        "word": "involuntarily",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "done without conscious control:",
+        "defn_zh": "不由自主地"
+      },
+      {
+        "word": "cordially",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in a warm or friendly manner:",
+        "defn_zh": "誠摯地/友好地"
+      },
+      {
+        "word": "ipso facto",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "by that very fact or act:",
+        "defn_zh": "事實上;因此"
+      },
+      {
+        "word": "en passant",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in passing; incidentally:",
+        "defn_zh": "順帶一提地;偶然地"
+      },
+      {
+        "word": "regardless",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "despite the prevailing circumstances; without being deterred:",
+        "defn_zh": "不管怎樣;儘管如此"
+      },
+      {
+        "word": "subsequently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "afterward; following in time or order:",
+        "defn_zh": "隨後;其後"
+      },
+      {
+        "word": "aside",
+        "pos": "adv./n.",
+        "pos_key": "adv.",
+        "defn_en": "to or on one side; a remark not meant to be heard by everyone:",
+        "defn_zh": "在旁邊;旁白"
+      },
+      {
+        "word": "vice versa",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "with the order or meaning reversed; conversely:",
+        "defn_zh": "反之亦然"
+      }
+    ],
+    "other": [
+      {
+        "word": "（此批單字中，暫無符合此字根/字首的單字）",
+        "pos": "",
+        "pos_key": "other",
+        "defn_en": "",
+        "defn_zh": ""
+      }
+    ],
+    "prep./adv.": [
+      {
+        "word": "besides",
+        "pos": "prep./adv.",
+        "pos_key": "prep./adv.",
+        "defn_en": "in addition to; furthermore:",
+        "defn_zh": "除...之外;此外"
+      }
+    ],
+    "phrasalv.": [
+      {
+        "word": "egg on",
+        "pos": "phrasal v.",
+        "pos_key": "phrasalv.",
+        "defn_en": "to encourage someone to do something, often risky:",
+        "defn_zh": "慫恿;鼓動"
+      }
+    ],
+    "abbr.": [
+      {
+        "word": "etc.",
+        "pos": "abbr.",
+        "pos_key": "abbr.",
+        "defn_en": "and other similar things (abbreviation of et cetera):",
+        "defn_zh": "等等(et cetera的縮寫)"
+      }
+    ],
+    "interj.": [
+      {
+        "word": "fiddledeedee",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "an exclamation expressing dismissal of something as nonsense:",
+        "defn_zh": "廢話!(表示不屑一顧)"
+      },
+      {
+        "word": "gesundheit",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "an expression said to someone who has just sneezed:",
+        "defn_zh": "保重(打噴嚏後的祝福語)"
+      }
+    ],
+    "prep.": [
+      {
+        "word": "via",
+        "pos": "prep.",
+        "pos_key": "prep.",
+        "defn_en": "by way of; passing through:",
+        "defn_zh": "經由;透過"
+      }
+    ]
+  }
+}
