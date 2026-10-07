@@ -486,5 +486,16 @@
         "derived_from": "diagnosis"
       }
     ]
+  },
+  "p1-42-se": {
+    "n.": [
+      {
+        "word": "seclusion",
+        "pos": "n.",
+        "defn_en": "the state of being private, isolated, or away from other people:",
+        "defn_zh": "隱居；隔離；與他人分離的狀態",
+        "derived_from": "seclude"
+      }
+    ]
   }
 }

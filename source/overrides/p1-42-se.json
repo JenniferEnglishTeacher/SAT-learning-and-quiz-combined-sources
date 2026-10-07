@@ -1,0 +1,197 @@
+{
+  "id": "p1-42-se",
+  "name": "se",
+  "subtitle": "分開；離開",
+  "words": [
+    {
+      "word": "segregate", "pos": "v.", "pos_key": "v.",
+      "defn_en": "to separate a person or group from others, often on the basis of identity or category:", "defn_zh": "隔離；分開；實施隔離",
+      "synonyms": ["separate", "isolate", "divide", "partition"], "antonyms": ["integrate", "unite", "combine", "include"],
+      "root_note": "se- (apart) + greg (flock or group) + -ate",
+      "sentences": [
+        {"en": "The law once allowed schools to ______ students by race.", "zh": "該法律曾允許學校依種族隔離學生。"},
+        {"en": "The laboratory must ______ hazardous waste from ordinary trash.", "zh": "實驗室必須將危險廢棄物與一般垃圾分開。"}
+      ], "category": {"part": 1, "num": "42", "spelling": "se", "meaning": "分開；離開"}
+    },
+    {
+      "word": "sedentary", "pos": "adj.", "pos_key": "adj.",
+      "defn_en": "involving much sitting and very little physical exercise or movement:", "defn_zh": "久坐的；少活動的",
+      "synonyms": ["inactive", "stationary", "desk-bound"], "antonyms": ["active", "mobile", "energetic"],
+      "root_note": "sed (sit) + -entary (characterized by)",
+      "sentences": [
+        {"en": "Office workers should take short walks to reduce the effects of a ______ lifestyle.", "zh": "辦公室職員應短暫散步，以減少久坐生活方式的負面影響。"},
+        {"en": "Unlike migratory birds, this lizard remains relatively ______ throughout winter.", "zh": "與候鳥不同，這種蜥蜴整個冬季都相對少活動。"}
+      ], "category": {"part": 1, "num": "42", "spelling": "se", "meaning": "分開；離開"}
+    },
+    {
+      "word": "sedition", "pos": "n.", "pos_key": "n.",
+      "defn_en": "speech or behavior intended to persuade people to rebel against state authority:", "defn_zh": "煽動叛亂；煽動性的言行",
+      "synonyms": ["treason", "subversion", "insurrection", "mutiny"], "antonyms": ["loyalty", "allegiance", "submission", "patriotism"],
+      "root_note": "se- (apart) + it (go) + -ion, originally a going apart",
+      "sentences": [
+        {"en": "The rebel leader was charged with ______ after urging citizens to overthrow the king.", "zh": "叛軍領袖因鼓動公民推翻國王而被控煽動叛亂。"},
+        {"en": "The government claimed the underground newspaper promoted ______.", "zh": "政府聲稱該地下報紙宣揚煽動叛亂。"}
+      ], "category": {"part": 1, "num": "42", "spelling": "se", "meaning": "分開；離開"}
+    },
+    {
+      "word": "secede", "pos": "v.", "pos_key": "v.",
+      "defn_en": "to formally withdraw from a union, alliance, or political organization:", "defn_zh": "退出組織；脫離聯邦；獨立",
+      "synonyms": ["withdraw", "split from", "break away", "detach"], "antonyms": ["join", "unite", "merge", "federalize"],
+      "root_note": "se- (apart) + cede (go)",
+      "sentences": [
+        {"en": "Several states decided to ______ from the union, triggering civil war.", "zh": "數州決定脫離聯邦，因而引發內戰。"},
+        {"en": "The company threatened to ______ from the alliance if the new rules passed.", "zh": "若新規定通過，該公司威脅退出聯盟。"}
+      ], "category": {"part": 1, "num": "42", "spelling": "se", "meaning": "分開；離開"}
+    },
+    {
+      "word": "sequester", "pos": "v.", "pos_key": "v.",
+      "defn_en": "to isolate a person or group, or to set property apart from outside influence or use:", "defn_zh": "使隔離；隔絕；扣押",
+      "synonyms": ["isolate", "segregate", "cloister", "withdraw"], "antonyms": ["integrate", "socialize", "release", "reunite"],
+      "root_note": "se- (apart) + quester (place in safekeeping)",
+      "sentences": [
+        {"en": "The judge chose to ______ the jury to shield it from news coverage.", "zh": "法官決定隔離陪審團，使其不受新聞報導影響。"},
+        {"en": "Healthy forests can ______ large amounts of atmospheric carbon dioxide.", "zh": "健康森林能固定大量大氣中的二氧化碳。"}
+      ], "category": {"part": 1, "num": "42", "spelling": "se", "meaning": "分開；離開"}
+    },
+    {
+      "word": "seminal", "pos": "adj.", "pos_key": "adj.",
+      "defn_en": "strongly influencing later developments; highly original and groundbreaking:", "defn_zh": "具有開創性的；影響深遠的",
+      "synonyms": ["influential", "groundbreaking", "pioneering", "formative"], "antonyms": ["unimportant", "derivative", "generic", "unoriginal"],
+      "root_note": "semin (seed) + -al, suggesting the seed of later development",
+      "sentences": [
+        {"en": "Frankenstein is regarded as a ______ work that helped define science fiction.", "zh": "《科學怪人》被視為協助定義科幻小說的開創性作品。"},
+        {"en": "The researcher published a ______ paper that transformed gene-editing research.", "zh": "研究者發表一篇影響深遠、改變基因編輯研究的論文。"}
+      ], "category": {"part": 1, "num": "42", "spelling": "se", "meaning": "分開；離開"}
+    },
+    {
+      "word": "serendipity", "pos": "n.", "pos_key": "n.",
+      "defn_en": "the occurrence of finding something valuable or pleasant by happy accident:", "defn_zh": "意外收穫；幸運的巧合；緣分",
+      "synonyms": ["fluke", "happenstance", "good luck", "fortuity"], "antonyms": ["misfortune", "bad luck", "deliberate planning"],
+      "root_note": "from Serendip, an old name for Sri Lanka, coined for fortunate discovery",
+      "sentences": [
+        {"en": "The accidental discovery of penicillin is a famous example of ______.", "zh": "盤尼西林的意外發現是幸運巧合的著名例子。"},
+        {"en": "Meeting my childhood friend in a Paris café was pure ______.", "zh": "在巴黎咖啡館偶遇童年好友，完全是幸運的巧合。"}
+      ], "category": {"part": 1, "num": "42", "spelling": "se", "meaning": "分開；離開"}
+    },
+    {
+      "word": "servile", "pos": "adj.", "pos_key": "adj.",
+      "defn_en": "showing an excessive willingness to serve, please, or obey others submissively:", "defn_zh": "奴性的；卑躬屈膝的；諂媚的",
+      "synonyms": ["submissive", "sycophantic", "fawning", "obsequious"], "antonyms": ["assertive", "independent", "domineering", "self-respecting"],
+      "root_note": "serv (serve) + -ile (characterized by)",
+      "sentences": [
+        {"en": "The king's assistant displayed a ______ attitude and agreed with every command.", "zh": "國王的助手態度卑躬屈膝，對每道命令都表示同意。"},
+        {"en": "A good manager values honest feedback rather than ______ compliance.", "zh": "好主管重視坦誠回饋，而非奴性順從。"}
+      ], "category": {"part": 1, "num": "42", "spelling": "se", "meaning": "分開；離開"}
+    },
+    {
+      "word": "sever", "pos": "v.", "pos_key": "v.",
+      "defn_en": "to cut through completely or suddenly end a relationship or connection:", "defn_zh": "切斷；割斷；中斷關係",
+      "synonyms": ["disconnect", "cut off", "terminate", "sunder"], "antonyms": ["attach", "connect", "join", "maintain"],
+      "root_note": "se- (apart) + par (prepare or separate), through Old French severer",
+      "sentences": [
+        {"en": "After the scandal, the company chose to ______ all ties with its supplier.", "zh": "醜聞發生後，公司決定中斷與供應商的一切關係。"},
+        {"en": "The sharp glass could ______ an artery and cause serious bleeding.", "zh": "鋒利玻璃可能割斷動脈並造成嚴重出血。"}
+      ], "category": {"part": 1, "num": "42", "spelling": "se", "meaning": "分開；離開"}
+    },
+    {
+      "word": "sententious", "pos": "adj.", "pos_key": "adj.",
+      "defn_en": "expressing opinions in a moralizing, pompous, or overly preachy way:", "defn_zh": "愛說教的；道貌岸然的；誇飾說教的",
+      "synonyms": ["moralizing", "sanctimonious", "preachy", "aphoristic"], "antonyms": ["humble", "straightforward", "reserved", "genuine"],
+      "root_note": "sententi (opinion or maxim) + -ous",
+      "sentences": [
+        {"en": "The principal's ______ speech offered proverbs instead of practical advice.", "zh": "校長愛說教的演講只有箴言，沒有實用建議。"},
+        {"en": "I grew tired of the villain's ______ remarks about human nature.", "zh": "我厭倦了反派對人性所發表的道貌岸然說教。"}
+      ], "category": {"part": 1, "num": "42", "spelling": "se", "meaning": "分開；離開"}
+    },
+    {
+      "word": "seclude", "pos": "v.", "pos_key": "v.",
+      "defn_en": "to keep someone apart from other people or away from society:", "defn_zh": "使孤立；使隱居；遠離塵囂",
+      "synonyms": ["isolate", "sequester", "withdraw", "cloister"], "antonyms": ["socialize", "integrate", "mingle", "include"],
+      "root_note": "se- (apart) + clude (close)",
+      "sentences": [
+        {"en": "The author chose to ______ herself in a remote cabin to avoid reporters.", "zh": "作家選擇隱居於偏遠小屋，以躲避記者。"},
+        {"en": "You should not completely ______ yourself from family when stressed.", "zh": "壓力大時，不應完全將自己與家人隔絕。"}
+      ], "category": {"part": 1, "num": "42", "spelling": "se", "meaning": "分開；離開"}
+    },
+    {
+      "word": "sectarian", "pos": "adj.", "pos_key": "adj.",
+      "defn_en": "relating to a religious sect or political faction, often with narrow prejudice or conflict:", "defn_zh": "宗派的；派系的；狹隘的",
+      "synonyms": ["factional", "partisan", "dogmatic", "bigoted"], "antonyms": ["cosmopolitan", "universal", "tolerant", "unbiased"],
+      "root_note": "sect (group or faction) + -arian (relating to)",
+      "sentences": [
+        {"en": "Decades of violent ______ conflict divided the country.", "zh": "數十年的暴力宗派衝突使國家分裂。"},
+        {"en": "The leader urged schools to avoid ______ bias and teach shared values.", "zh": "領袖敦促學校避免宗派偏見，教導共同價值。"}
+      ], "category": {"part": 1, "num": "42", "spelling": "se", "meaning": "分開；離開"}
+    },
+    {
+      "word": "sedate", "pos": "adj./v.", "pos_key": "adj.",
+      "defn_en": "calm, quiet, and slow-moving; or made calm or sleepy with medicine:", "defn_zh": "沉著的；安詳的；施以鎮靜劑",
+      "synonyms": ["calm", "serene", "placid", "tranquilized"], "antonyms": ["agitated", "chaotic", "wild", "stimulated"],
+      "root_note": "sed (sit or settle) + -ate",
+      "sentences": [
+        {"en": "They left the city to enjoy the more ______ pace of a seaside village.", "zh": "他們離開城市，享受海濱村莊較悠閒安詳的生活步調。"},
+        {"en": "The frightened dog became ______ after the veterinarian administered medicine.", "zh": "獸醫給藥後，受驚的狗變得平靜。"}
+      ], "category": {"part": 1, "num": "42", "spelling": "se", "meaning": "分開；離開"}
+    },
+    {
+      "word": "secrete", "pos": "v.", "pos_key": "v.",
+      "defn_en": "to produce and release a substance, or to hide an object in a secret place:", "defn_zh": "分泌；隱藏；藏匿",
+      "synonyms": ["exude", "discharge", "hide", "conceal"], "antonyms": ["absorb", "expose", "reveal", "display"],
+      "root_note": "se- (apart) + crete (sift or separate)",
+      "sentences": [
+        {"en": "Desert frogs ______ mucus that protects their skin from drying out.", "zh": "沙漠青蛙會分泌黏液，保護皮膚免於乾燥。"},
+        {"en": "The spy managed to ______ the microchip inside his boot heel.", "zh": "間諜成功將微晶片藏匿在靴子的鞋跟裡。"}
+      ], "category": {"part": 1, "num": "42", "spelling": "se", "meaning": "分開；離開"}
+    },
+    {
+      "word": "secular", "pos": "adj.", "pos_key": "adj.",
+      "defn_en": "not connected with religious or spiritual matters; worldly or nonreligious:", "defn_zh": "世俗的；非宗教的",
+      "synonyms": ["nonreligious", "temporal", "worldly", "lay"], "antonyms": ["religious", "sacred", "spiritual", "holy"],
+      "root_note": "saecul (age or worldly generation) + -ar",
+      "sentences": [
+        {"en": "The constitution establishes a ______ government separate from religious doctrine.", "zh": "憲法建立與宗教教義分離的世俗政府。"},
+        {"en": "The public-school concert featured only ______ winter music.", "zh": "公立學校音樂會只演奏非宗教的冬季音樂。"}
+      ], "category": {"part": 1, "num": "42", "spelling": "se", "meaning": "分開；離開"}
+    },
+    {
+      "word": "seditious", "pos": "adj.", "pos_key": "adj.",
+      "defn_en": "intended to incite rebellion against an established authority or government:", "defn_zh": "煽動叛亂的；煽動性的",
+      "synonyms": ["treasonous", "rebellious", "subversive", "mutinous"], "antonyms": ["loyal", "patriotic", "law-abiding", "faithful"],
+      "root_note": "sedition (rebellion) + -ious (characterized by)",
+      "sentences": [
+        {"en": "The prosecutor argued that the posts were ______ and intended to spark an uprising.", "zh": "檢察官主張這些貼文具有煽動叛亂性，意圖引發起義。"},
+        {"en": "The regime banned printing presses to stop the spread of ______ pamphlets.", "zh": "政權查禁印刷廠，以阻止煽動性小冊子流傳。"}
+      ], "category": {"part": 1, "num": "42", "spelling": "se", "meaning": "分開；離開"}
+    },
+    {
+      "word": "sensate", "pos": "adj.", "pos_key": "adj.",
+      "defn_en": "perceived by or affecting the physical senses; able to feel physically:", "defn_zh": "有感覺的；能感知的；感官的",
+      "synonyms": ["perceptible", "sensory", "sentient", "physical"], "antonyms": ["insensate", "numb", "imperceptible", "unfeeling"],
+      "root_note": "sens (feel) + -ate (having)",
+      "sentences": [
+        {"en": "The philosopher argued that knowledge begins in the ______ world of sight and touch.", "zh": "哲學家主張知識始於視覺與觸覺所構成的感官世界。"},
+        {"en": "After therapy, the patient regained ______ awareness in his fingers.", "zh": "治療後，患者的手指恢復感官知覺。"}
+      ], "category": {"part": 1, "num": "42", "spelling": "se", "meaning": "分開；離開"}
+    },
+    {
+      "word": "senescence", "pos": "n.", "pos_key": "n.",
+      "defn_en": "the biological process of growing old and showing signs of aging:", "defn_zh": "衰老；老化",
+      "synonyms": ["aging", "decline", "caducity"], "antonyms": ["youthfulness", "rejuvenation", "early maturation"],
+      "root_note": "sen (old) + -escence (process of becoming)",
+      "sentences": [
+        {"en": "The team studied cellular ______ to learn why aging cells stop dividing.", "zh": "團隊研究細胞衰老，以了解老化細胞為何停止分裂。"},
+        {"en": "The changing colors of autumn leaves are a visible sign of plant ______.", "zh": "秋葉變色是植物老化的明顯跡象。"}
+      ], "category": {"part": 1, "num": "42", "spelling": "se", "meaning": "分開；離開"}
+    },
+    {
+      "word": "sequacious", "pos": "adj.", "pos_key": "adj.",
+      "defn_en": "lacking independence of thought and following leaders or trends without question:", "defn_zh": "盲從的；缺乏獨立思考的",
+      "synonyms": ["submissive", "uncritical", "compliant", "slavish"], "antonyms": ["independent", "rebellious", "individualistic", "critical"],
+      "root_note": "sequ (follow) + -acious (inclined to)",
+      "sentences": [
+        {"en": "The influencer attracted a ______ audience that bought every product she promoted.", "zh": "網紅吸引一群盲從、會購買她推薦之所有產品的觀眾。"},
+        {"en": "The CEO warned that a ______ culture would destroy innovation.", "zh": "執行長警告，盲從文化會扼殺創新。"}
+      ], "category": {"part": 1, "num": "42", "spelling": "se", "meaning": "分開；離開"}
+    }
+  ]
+}
