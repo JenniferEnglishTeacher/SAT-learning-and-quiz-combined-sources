@@ -4,7 +4,7 @@
     "total_batches": 235,
     "part1_part2_batches": 158,
     "unclassified_batches": 77,
-    "generated_batches": 45
+    "generated_batches": 46
   },
   "batches": [
     {
@@ -683,9 +683,9 @@
       "part_label": "Part 1 字首篇 (Prefixes)",
       "name": "tele",
       "subtitle": "遠距離",
-      "count": 3,
-      "generated": false,
-      "search_terms": "telecast telephone telethon"
+      "count": 14,
+      "generated": true,
+      "search_terms": "telecast telephone telethon telepathy telecommute telemetry teleology teleological telemeter telekinesis telephoto telescopic telegenic teleconference"
     },
     {
       "id": "p1-48-trans",

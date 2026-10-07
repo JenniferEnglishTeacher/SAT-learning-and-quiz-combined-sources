@@ -1,0 +1,902 @@
+{
+  "id": "p1-47-tele",
+  "part": "part1",
+  "part_label": "Part 1 字首篇 (Prefixes)",
+  "name": "tele",
+  "subtitle": "遠距離",
+  "count": 14,
+  "words": [
+    {
+      "word": "telecast",
+      "pos": "n./v.",
+      "pos_key": "n.",
+      "defn_en": "a television broadcast, or the act of transmitting a program by television:",
+      "defn_zh": "電視轉播；電視廣播",
+      "synonyms": [
+        "television broadcast",
+        "broadcast",
+        "transmission"
+      ],
+      "antonyms": [
+        "private recording",
+        "unbroadcast event"
+      ],
+      "root_note": "tele- (far) + cast (send or transmit)",
+      "sentences": [
+        {
+          "en": "The championship game received a nationwide ______ watched by millions.",
+          "zh": "這場冠軍賽獲得全國電視轉播，吸引數百萬人觀看。"
+        },
+        {
+          "en": "The network scheduled a live ______ of the award ceremony.",
+          "zh": "電視網安排了頒獎典禮的現場轉播。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "47",
+        "spelling": "tele",
+        "meaning": "遠距離"
+      }
+    },
+    {
+      "word": "telephone",
+      "pos": "n./v.",
+      "pos_key": "n.",
+      "defn_en": "a device for transmitting speech over a distance, or communication using that device:",
+      "defn_zh": "電話；電話通訊",
+      "synonyms": [
+        "phone",
+        "handset",
+        "voice call"
+      ],
+      "antonyms": [
+        "face-to-face conversation",
+        "written message"
+      ],
+      "root_note": "tele- (far) + phone (sound)",
+      "sentences": [
+        {
+          "en": "She used the office ______ to confirm the appointment.",
+          "zh": "她使用辦公室電話確認預約。"
+        },
+        {
+          "en": "The emergency ______ rang repeatedly during the storm.",
+          "zh": "暴風雨期間，緊急電話不斷響起。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "47",
+        "spelling": "tele",
+        "meaning": "遠距離"
+      }
+    },
+    {
+      "word": "telethon",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a long television program that raises donations for a charitable cause:",
+      "defn_zh": "電視募款節目",
+      "synonyms": [
+        "fundraising broadcast",
+        "charity broadcast",
+        "donation program"
+      ],
+      "antonyms": [
+        "commercial broadcast",
+        "nonfundraising program"
+      ],
+      "root_note": "tele- (television) + -thon (long event, from marathon)",
+      "sentences": [
+        {
+          "en": "The annual ______ raised millions of dollars for children's hospitals.",
+          "zh": "年度電視募款節目為兒童醫院募得數百萬美元。"
+        },
+        {
+          "en": "Celebrities volunteered their time for the charity ______.",
+          "zh": "名人自願撥出時間參與慈善電視募款節目。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "47",
+        "spelling": "tele",
+        "meaning": "遠距離"
+      }
+    },
+    {
+      "word": "telepathy",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "the supposed communication of thoughts directly from one mind to another without physical senses:",
+      "defn_zh": "心靈感應；心電感應",
+      "synonyms": [
+        "mind-reading",
+        "thought transference",
+        "extrasensory perception"
+      ],
+      "antonyms": [
+        "verbal communication",
+        "physical signaling"
+      ],
+      "root_note": "tele- (far or distant) + pathy (feeling or perception)",
+      "sentences": [
+        {
+          "en": "In the science-fiction novel, the alien species communicated entirely through ______.",
+          "zh": "在科幻小說中，外星物種完全透過心靈感應交流。"
+        },
+        {
+          "en": "When the sisters sent the same message at the same moment, they joked about twin ______.",
+          "zh": "當姊妹在同一時間傳出相同訊息時，她們開玩笑說這是雙胞胎心電感應。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "47",
+        "spelling": "tele",
+        "meaning": "遠距離"
+      }
+    },
+    {
+      "word": "telecommute",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to work from home or another remote location using computers and telecommunications:",
+      "defn_zh": "遠距辦公；在家上班",
+      "synonyms": [
+        "work remotely",
+        "work from home"
+      ],
+      "antonyms": [
+        "commute to an office",
+        "work on-site"
+      ],
+      "root_note": "tele- (at a distance) + commute (travel regularly)",
+      "sentences": [
+        {
+          "en": "The software company lets its developers ______ three days a week to avoid heavy traffic.",
+          "zh": "軟體公司允許開發人員每週遠距辦公三天，以避開壅塞交通。"
+        },
+        {
+          "en": "High-speed internet makes it easier for international teams to ______ effectively.",
+          "zh": "高速網路讓國際團隊更容易有效地遠距工作。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "47",
+        "spelling": "tele",
+        "meaning": "遠距離"
+      }
+    },
+    {
+      "word": "telemetry",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "the automatic collection and transmission of data from a remote source to a receiving station:",
+      "defn_zh": "遙測技術；遠距測量",
+      "synonyms": [
+        "remote monitoring",
+        "data transmission"
+      ],
+      "antonyms": [
+        "manual measurement",
+        "on-site sampling"
+      ],
+      "root_note": "tele- (far) + metr (measure) + -y (process)",
+      "sentences": [
+        {
+          "en": "The command center monitored the rocket's speed and engine heat through live satellite ______.",
+          "zh": "指揮中心透過即時衛星遙測監控火箭速度與引擎溫度。"
+        },
+        {
+          "en": "The hospital used wireless cardiac ______ to track the patient's condition remotely.",
+          "zh": "醫院使用無線心臟遙測，遠端追蹤病人的狀況。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "47",
+        "spelling": "tele",
+        "meaning": "遠距離"
+      }
+    },
+    {
+      "word": "teleology",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "the theory that natural events or things can be explained by the purposes or goals they serve:",
+      "defn_zh": "目的論",
+      "synonyms": [
+        "purposivism",
+        "finalism",
+        "design theory"
+      ],
+      "antonyms": [
+        "mechanism",
+        "randomness",
+        "nonpurposive explanation"
+      ],
+      "root_note": "telos (end or purpose) + -logy (study or theory)",
+      "sentences": [
+        {
+          "en": "Aristotle's philosophy relies on ______, proposing that nature has goals toward which it develops.",
+          "zh": "亞里斯多德哲學仰賴目的論，主張自然界會朝特定目的發展。"
+        },
+        {
+          "en": "Modern biology rejects rigid ______ and explains traits through adaptation rather than cosmic design.",
+          "zh": "現代生物學反對嚴格目的論，以適應而非宇宙設計解釋生物特徵。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "47",
+        "spelling": "tele",
+        "meaning": "遠距離"
+      }
+    },
+    {
+      "word": "teleological",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "explaining phenomena by the purposes or goals they are believed to serve:",
+      "defn_zh": "目的論的",
+      "synonyms": [
+        "purposive",
+        "intentional",
+        "goal-directed"
+      ],
+      "antonyms": [
+        "random",
+        "accidental",
+        "mechanistic"
+      ],
+      "root_note": "telos (end or purpose) + log (reason or study) + -ical",
+      "sentences": [
+        {
+          "en": "The critic called the thesis too ______ because it treated ancient events as steps toward modern democracy.",
+          "zh": "評論家認為論文過於目的論，因為它把古代事件視為通往現代民主的步驟。"
+        },
+        {
+          "en": "The claim that natural order proves a creator is a classic ______ argument.",
+          "zh": "主張自然秩序證明造物主存在，是經典的目的論論證。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "47",
+        "spelling": "tele",
+        "meaning": "遠距離"
+      }
+    },
+    {
+      "word": "telemeter",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "an instrument that measures distance to a remote object or transmits measurements from afar:",
+      "defn_zh": "遙測儀；測距儀",
+      "synonyms": [
+        "distance measurer",
+        "rangefinder",
+        "transmitter"
+      ],
+      "antonyms": [
+        "contact gauge",
+        "ruler"
+      ],
+      "root_note": "tele- (far) + meter (measure)",
+      "sentences": [
+        {
+          "en": "The artillery officer adjusted the optical ______ to calculate the distance to the ridge.",
+          "zh": "砲兵軍官調整光學測距儀，以計算到山脊的距離。"
+        },
+        {
+          "en": "The weather balloon carried a compact ______ that transmitted humidity data to the station.",
+          "zh": "氣象氣球搭載小型遙測儀，把濕度資料傳回氣象站。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "47",
+        "spelling": "tele",
+        "meaning": "遠距離"
+      }
+    },
+    {
+      "word": "telekinesis",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "the supposed ability to move physical objects with the mind without touching them:",
+      "defn_zh": "念力；心靈意念控物；念動力",
+      "synonyms": [
+        "psychokinesis",
+        "mind over matter"
+      ],
+      "antonyms": [
+        "physical contact",
+        "manual manipulation"
+      ],
+      "root_note": "tele- (at a distance) + kinesis (movement)",
+      "sentences": [
+        {
+          "en": "In the final battle, the wizard used ______ to lift stone pillars and hurl them at his enemies.",
+          "zh": "在最終決戰中，巫師利用念力舉起石柱並擲向敵人。"
+        },
+        {
+          "en": "Hidden magnets created the illusion of ______ by making a metal fork float.",
+          "zh": "隱藏的磁鐵讓金屬叉子浮起，營造出念力控物的錯覺。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "47",
+        "spelling": "tele",
+        "meaning": "遠距離"
+      }
+    },
+    {
+      "word": "telephoto",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a camera lens designed to make distant objects appear closer and larger:",
+      "defn_zh": "望遠鏡頭；長焦距鏡頭",
+      "synonyms": [
+        "long lens",
+        "zoom lens"
+      ],
+      "antonyms": [
+        "wide-angle lens",
+        "macro lens"
+      ],
+      "root_note": "tele- (far) + photo (light or photograph)",
+      "sentences": [
+        {
+          "en": "The wildlife photographer used a powerful ______ to capture an eagle on a distant branch.",
+          "zh": "野生動物攝影師使用強力望遠鏡頭，拍下遠處樹枝上的老鷹。"
+        },
+        {
+          "en": "The reporter attached a ______ to his camera to photograph the meeting from across the street.",
+          "zh": "記者把長焦鏡頭裝在相機上，從街道對面拍攝會議。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "47",
+        "spelling": "tele",
+        "meaning": "遠距離"
+      }
+    },
+    {
+      "word": "telescopic",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "relating to distant viewing or made of sliding parts that can extend and retract:",
+      "defn_zh": "望遠鏡的；可伸縮的",
+      "synonyms": [
+        "far-seeing",
+        "retractable",
+        "collapsible",
+        "extensible"
+      ],
+      "antonyms": [
+        "near-sighted",
+        "fixed",
+        "rigid"
+      ],
+      "root_note": "tele- (far) + scop (look or see) + -ic",
+      "sentences": [
+        {
+          "en": "The observatory used massive ______ lenses to search for undiscovered comets.",
+          "zh": "天文台使用巨大的望遠鏡鏡片尋找未被發現的彗星。"
+        },
+        {
+          "en": "She packed a ______ walking stick that collapsed to fit inside her backpack.",
+          "zh": "她帶了一根可伸縮的健行杖，縮短後能放進背包。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "47",
+        "spelling": "tele",
+        "meaning": "遠距離"
+      }
+    },
+    {
+      "word": "telegenic",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "having an appearance or personality that is attractive and effective on television:",
+      "defn_zh": "上相的；適合電視廣播的；電視上好看的",
+      "synonyms": [
+        "photogenic",
+        "charismatic",
+        "videogenic"
+      ],
+      "antonyms": [
+        "unphotogenic",
+        "dull",
+        "awkward on camera"
+      ],
+      "root_note": "tele- (television or distance) + genic (producing or suited to)",
+      "sentences": [
+        {
+          "en": "The party selected the young lawyer because she was ______ and spoke confidently in live debates.",
+          "zh": "該政黨選擇這位年輕律師，因為她很上相，且在現場辯論中發言自信。"
+        },
+        {
+          "en": "Producers searched for a ______ news anchor who could hold the audience's attention.",
+          "zh": "製作人尋找一位在電視上具吸引力、能抓住觀眾注意力的新聞主播。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "47",
+        "spelling": "tele",
+        "meaning": "遠距離"
+      }
+    },
+    {
+      "word": "teleconference",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a formal meeting among people in different locations using video or telephone links:",
+      "defn_zh": "視訊會議；電話會議",
+      "synonyms": [
+        "video conference",
+        "virtual meeting",
+        "web conference"
+      ],
+      "antonyms": [
+        "in-person meeting",
+        "face-to-face gathering"
+      ],
+      "root_note": "tele- (at a distance) + conference (formal meeting)",
+      "sentences": [
+        {
+          "en": "The international directors arranged an urgent ______ to discuss the currency crisis.",
+          "zh": "國際業務主管安排緊急視訊會議，討論貨幣危機。"
+        },
+        {
+          "en": "The professor hosted a weekend ______ for students living in different time zones.",
+          "zh": "教授在週末為居住於不同時區的學生主持線上視訊會議。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "47",
+        "spelling": "tele",
+        "meaning": "遠距離"
+      }
+    }
+  ],
+  "family_options": {
+    "adj.": [
+      {
+        "word": "telepathic",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "relating to the supposed direct communication of thoughts between minds:",
+        "defn_zh": "心靈感應的；心電感應的",
+        "derived_from": "telepathy"
+      }
+    ],
+    "v.": [
+      {
+        "word": "teleconference",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to hold a meeting with people in different locations by telephone or video:",
+        "defn_zh": "舉行電話或視訊會議",
+        "derived_from": "teleconference"
+      }
+    ]
+  },
+  "fallback_options": {
+    "v.": [
+      {
+        "word": "abound",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to exist in great numbers:",
+        "defn_zh": "充滿"
+      },
+      {
+        "word": "abrogate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to deprive of legal force, to nullify:=abolish",
+        "defn_zh": "廢除/取消"
+      },
+      {
+        "word": "abjure",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to renounce, abstain from:",
+        "defn_zh": "發誓放棄/棄絕"
+      },
+      {
+        "word": "abbreviate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to shorten a word or phrase:",
+        "defn_zh": "縮寫;縮短"
+      },
+      {
+        "word": "abdicate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to give up a position, usually one of leadership:",
+        "defn_zh": "退位/放棄(職位)"
+      },
+      {
+        "word": "abduct",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to kidnap, take by force:",
+        "defn_zh": "綁架/劫持"
+      },
+      {
+        "word": "abhor",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to regard with disgust and hatred:",
+        "defn_zh": "憎惡/厭惡"
+      },
+      {
+        "word": "abnegate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to deny or renounce:",
+        "defn_zh": "放棄/克制"
+      },
+      {
+        "word": "abolish",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to formally put an end to a system, practice, or institution:",
+        "defn_zh": "廢除"
+      },
+      {
+        "word": "abort",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to give up on a half-finished project or effort:",
+        "defn_zh": "中止/放棄"
+      },
+      {
+        "word": "abrade",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to scrape or wear away by friction:",
+        "defn_zh": "磨損;擦傷"
+      },
+      {
+        "word": "abscond",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to sneak away and hide:",
+        "defn_zh": "潛逃/逃匿"
+      }
+    ],
+    "adj.": [
+      {
+        "word": "abortive",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "fruitless, failing:",
+        "defn_zh": "失敗的/夭折的"
+      },
+      {
+        "word": "abstemious",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "moderate in eating or drinking:",
+        "defn_zh": "飲食有節制的"
+      },
+      {
+        "word": "abhorrent",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "detestable, despised:",
+        "defn_zh": "令人厭惡的"
+      },
+      {
+        "word": "absurd",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "ridiculous:",
+        "defn_zh": "荒謬的"
+      },
+      {
+        "word": "aberrant",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "deviating from what is normal or expected:",
+        "defn_zh": "異常的;脫軌的"
+      },
+      {
+        "word": "abject",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "wretched, pitiful:",
+        "defn_zh": "卑賤的/淒慘的"
+      },
+      {
+        "word": "abominable",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "causing moral revulsion; extremely unpleasant:",
+        "defn_zh": "可憎的;惡劣的"
+      },
+      {
+        "word": "abounding",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "existing in large numbers or amounts:",
+        "defn_zh": "大量存在的;豐富的"
+      },
+      {
+        "word": "abrasive",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "showing little concern for others; harsh:",
+        "defn_zh": "粗暴的/刺耳的"
+      },
+      {
+        "word": "abrupt",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "sudden or unexpected; brief and curt in manner:",
+        "defn_zh": "突然的/唐突的"
+      },
+      {
+        "word": "abstract",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "existing purely in the mind; not representing actual reality:",
+        "defn_zh": "抽象的"
+      },
+      {
+        "word": "abstruse",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "hard to comprehend:",
+        "defn_zh": "深奧難懂的"
+      }
+    ],
+    "n.": [
+      {
+        "word": "aversion",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "strong dislike, opposition:",
+        "defn_zh": "厭惡/反感"
+      },
+      {
+        "word": "aberration",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "something that differs from the norm:",
+        "defn_zh": "異常/脫軌"
+      },
+      {
+        "word": "abjection",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a state of complete misery, hopelessness, or degradation:",
+        "defn_zh": "卑賤;悲慘狀態"
+      },
+      {
+        "word": "abjuration",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the solemn renunciation of a belief, cause, or claim:",
+        "defn_zh": "公開放棄;誓絕"
+      },
+      {
+        "word": "ablution",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the act of washing oneself, especially as part of a religious ritual:",
+        "defn_zh": "沐浴;淨身儀式"
+      },
+      {
+        "word": "abnegation",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "denial of comfort to oneself:",
+        "defn_zh": "自我克制/放棄"
+      },
+      {
+        "word": "abomination",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "something that causes disgust or hatred:",
+        "defn_zh": "可憎之事;令人厭惡的東西"
+      },
+      {
+        "word": "abridgement",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a shortened version of a book or other written work:",
+        "defn_zh": "節略本;縮減版"
+      },
+      {
+        "word": "absolution",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "freedom from blame, guilt, sin:",
+        "defn_zh": "赦免/免罪"
+      },
+      {
+        "word": "abstemiousness",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "moderation or self-restraint, especially in eating and drinking:",
+        "defn_zh": "節制;克己"
+      },
+      {
+        "word": "abstinence",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the practice of restraining oneself from something enjoyable, especially food, alcohol, or sex:",
+        "defn_zh": "節制;戒絕"
+      },
+      {
+        "word": "avocation",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a hobby or minor occupation apart from one's main career:",
+        "defn_zh": "副業;業餘愛好"
+      }
+    ],
+    "adv.": [
+      {
+        "word": "accordingly",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in a manner that fits the circumstances; consequently:",
+        "defn_zh": "相應地;因此"
+      },
+      {
+        "word": "inadvertently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "unintentionally or by accident:",
+        "defn_zh": "無意間/不小心地"
+      },
+      {
+        "word": "consequently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "as a result; therefore:",
+        "defn_zh": "因此;結果"
+      },
+      {
+        "word": "contemptuously",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "without respect; in a disdainful manner:",
+        "defn_zh": "輕蔑地"
+      },
+      {
+        "word": "involuntarily",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "done without conscious control:",
+        "defn_zh": "不由自主地"
+      },
+      {
+        "word": "cordially",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in a warm or friendly manner:",
+        "defn_zh": "誠摯地/友好地"
+      },
+      {
+        "word": "ipso facto",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "by that very fact or act:",
+        "defn_zh": "事實上;因此"
+      },
+      {
+        "word": "en passant",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in passing; incidentally:",
+        "defn_zh": "順帶一提地;偶然地"
+      },
+      {
+        "word": "regardless",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "despite the prevailing circumstances; without being deterred:",
+        "defn_zh": "不管怎樣;儘管如此"
+      },
+      {
+        "word": "subsequently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "afterward; following in time or order:",
+        "defn_zh": "隨後;其後"
+      },
+      {
+        "word": "aside",
+        "pos": "adv./n.",
+        "pos_key": "adv.",
+        "defn_en": "to or on one side; a remark not meant to be heard by everyone:",
+        "defn_zh": "在旁邊;旁白"
+      },
+      {
+        "word": "vice versa",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "with the order or meaning reversed; conversely:",
+        "defn_zh": "反之亦然"
+      }
+    ],
+    "other": [
+      {
+        "word": "（此批單字中，暫無符合此字根/字首的單字）",
+        "pos": "",
+        "pos_key": "other",
+        "defn_en": "",
+        "defn_zh": ""
+      }
+    ],
+    "prep./adv.": [
+      {
+        "word": "besides",
+        "pos": "prep./adv.",
+        "pos_key": "prep./adv.",
+        "defn_en": "in addition to; furthermore:",
+        "defn_zh": "除...之外;此外"
+      }
+    ],
+    "phrasalv.": [
+      {
+        "word": "egg on",
+        "pos": "phrasal v.",
+        "pos_key": "phrasalv.",
+        "defn_en": "to encourage someone to do something, often risky:",
+        "defn_zh": "慫恿;鼓動"
+      }
+    ],
+    "abbr.": [
+      {
+        "word": "etc.",
+        "pos": "abbr.",
+        "pos_key": "abbr.",
+        "defn_en": "and other similar things (abbreviation of et cetera):",
+        "defn_zh": "等等(et cetera的縮寫)"
+      }
+    ],
+    "interj.": [
+      {
+        "word": "fiddledeedee",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "an exclamation expressing dismissal of something as nonsense:",
+        "defn_zh": "廢話!(表示不屑一顧)"
+      },
+      {
+        "word": "gesundheit",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "an expression said to someone who has just sneezed:",
+        "defn_zh": "保重(打噴嚏後的祝福語)"
+      }
+    ],
+    "prep.": [
+      {
+        "word": "via",
+        "pos": "prep.",
+        "pos_key": "prep.",
+        "defn_en": "by way of; passing through:",
+        "defn_zh": "經由;透過"
+      }
+    ]
+  }
+}

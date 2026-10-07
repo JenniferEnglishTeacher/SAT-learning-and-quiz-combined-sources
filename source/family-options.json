@@ -306,5 +306,25 @@
         "derived_from": "postscript"
       }
     ]
+  },
+  "p1-47-tele": {
+    "adj.": [
+      {
+        "word": "telepathic",
+        "pos": "adj.",
+        "defn_en": "relating to the supposed direct communication of thoughts between minds:",
+        "defn_zh": "心靈感應的；心電感應的",
+        "derived_from": "telepathy"
+      }
+    ],
+    "v.": [
+      {
+        "word": "teleconference",
+        "pos": "v.",
+        "defn_en": "to hold a meeting with people in different locations by telephone or video:",
+        "defn_zh": "舉行電話或視訊會議",
+        "derived_from": "teleconference"
+      }
+    ]
   }
 }
