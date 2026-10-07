@@ -1,0 +1,1150 @@
+{
+  "id": "p1-48-trans",
+  "part": "part1",
+  "part_label": "Part 1 字首篇 (Prefixes)",
+  "name": "trans",
+  "subtitle": "穿越；超越；改變",
+  "count": 20,
+  "words": [
+    {
+      "word": "transcend",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to go beyond the normal limits, boundaries, or restrictions of something:",
+      "defn_zh": "超越；勝過",
+      "synonyms": [
+        "surpass",
+        "exceed",
+        "outstrip",
+        "eclipse"
+      ],
+      "antonyms": [
+        "fail",
+        "fall short",
+        "remain limited"
+      ],
+      "root_note": "trans- (beyond) + scand (climb)",
+      "sentences": [
+        {
+          "en": "The symphony managed to ______ cultural boundaries and gain worldwide popularity.",
+          "zh": "這首交響曲成功跨越文化疆界，在全世界廣受歡迎。"
+        },
+        {
+          "en": "The scholar worked hard to ______ the limitations of her impoverished background.",
+          "zh": "這位學者努力超越貧困背景所帶來的限制。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "48",
+        "spelling": "trans",
+        "meaning": "穿越；超越；改變"
+      }
+    },
+    {
+      "word": "transcendent",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "beyond ordinary physical experience or normal limits; exceptional and supreme:",
+      "defn_zh": "卓越的；超然的；超凡的",
+      "synonyms": [
+        "supernatural",
+        "sublime",
+        "peerless",
+        "ethereal"
+      ],
+      "antonyms": [
+        "ordinary",
+        "mundane",
+        "simple",
+        "earthbound"
+      ],
+      "root_note": "trans- (beyond) + scand (climb) + -ent",
+      "sentences": [
+        {
+          "en": "The saint described a ______ vision of peace that changed his view of life.",
+          "zh": "聖人描述一段改變其人生觀的超然和平幻象。"
+        },
+        {
+          "en": "The actress gave a ______ performance that left the audience silent.",
+          "zh": "女演員帶來超凡卓越的演出，使全場觀眾陷入靜默。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "48",
+        "spelling": "trans",
+        "meaning": "穿越；超越；改變"
+      }
+    },
+    {
+      "word": "transcribe",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to convert spoken words, recordings, or data into written or printed form:",
+      "defn_zh": "記錄；抄錄；謄寫",
+      "synonyms": [
+        "record",
+        "rewrite",
+        "duplicate",
+        "note down"
+      ],
+      "antonyms": [
+        "erase",
+        "delete",
+        "omit",
+        "suppress"
+      ],
+      "root_note": "trans- (across) + scrib (write)",
+      "sentences": [
+        {
+          "en": "The court reporter had to ______ every word spoken during the trial.",
+          "zh": "法庭記錄員必須謄寫審判中所說的每一個字。"
+        },
+        {
+          "en": "Students were hired to ______ historical interviews with war veterans.",
+          "zh": "學生受聘抄錄與戰爭退伍軍人的歷史訪談。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "48",
+        "spelling": "trans",
+        "meaning": "穿越；超越；改變"
+      }
+    },
+    {
+      "word": "transfigure",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to transform something into a more beautiful, elevated, or spiritual appearance:",
+      "defn_zh": "美化；使改觀；使幻化",
+      "synonyms": [
+        "transform",
+        "metamorphose",
+        "glorify",
+        "exalt"
+      ],
+      "antonyms": [
+        "deface",
+        "deform",
+        "degrade",
+        "ruin"
+      ],
+      "root_note": "trans- (across or change) + figure (form)",
+      "sentences": [
+        {
+          "en": "The evening light seemed to ______ the rocky valley into a golden landscape.",
+          "zh": "傍晚光線似乎將多岩石的山谷美化成金色景觀。"
+        },
+        {
+          "en": "A sudden smile could ______ his stern face and make him seem welcoming.",
+          "zh": "突然的微笑能使他嚴厲的面容改觀，顯得親切。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "48",
+        "spelling": "trans",
+        "meaning": "穿越；超越；改變"
+      }
+    },
+    {
+      "word": "transfix",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to make someone completely motionless with fear, wonder, or astonishment:",
+      "defn_zh": "使呆住；使嚇呆；使驚奇得動彈不得",
+      "synonyms": [
+        "paralyze",
+        "petrify",
+        "fascinate",
+        "spellbind"
+      ],
+      "antonyms": [
+        "bore",
+        "ignore",
+        "mobilize",
+        "release"
+      ],
+      "root_note": "trans- (through) + fix (fasten or pierce)",
+      "sentences": [
+        {
+          "en": "The acrobat's walk across the high wire seemed to ______ the crowd.",
+          "zh": "特技演員走高空鋼索的景象使觀眾看得目瞪口呆。"
+        },
+        {
+          "en": "The approaching headlights appeared to ______ the deer in the road.",
+          "zh": "迎面而來的車燈似乎使道路中央的鹿嚇呆不動。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "48",
+        "spelling": "trans",
+        "meaning": "穿越；超越；改變"
+      }
+    },
+    {
+      "word": "transgress",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to go beyond or violate the bounds of a law, moral principle, or social rule:",
+      "defn_zh": "違背法律；逾越界線；犯罪",
+      "synonyms": [
+        "violate",
+        "disobey",
+        "infringe",
+        "trespass"
+      ],
+      "antonyms": [
+        "obey",
+        "comply",
+        "follow",
+        "uphold"
+      ],
+      "root_note": "trans- (across or beyond) + gress (step)",
+      "sentences": [
+        {
+          "en": "Companies that ______ environmental laws will face severe penalties.",
+          "zh": "違反環境法規的公司將面臨嚴厲處罰。"
+        },
+        {
+          "en": "The teenager knew he would be punished if he chose to ______ the curfew rule.",
+          "zh": "少年知道若違反宵禁規定就會受罰。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "48",
+        "spelling": "trans",
+        "meaning": "穿越；超越；改變"
+      }
+    },
+    {
+      "word": "transient",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "lasting or staying for only a short time; temporary or impermanent:",
+      "defn_zh": "短暫的；轉瞬即逝的；流動的",
+      "synonyms": [
+        "ephemeral",
+        "fleeting",
+        "evanescent",
+        "temporary"
+      ],
+      "antonyms": [
+        "permanent",
+        "enduring",
+        "perennial",
+        "perpetual"
+      ],
+      "root_note": "trans- (across) + ient (going)",
+      "sentences": [
+        {
+          "en": "The physician said the dizzy side effect was ______ and would soon disappear.",
+          "zh": "醫師表示頭暈副作用只是短暫的，很快會消失。"
+        },
+        {
+          "en": "The beach town has a highly ______ population that leaves after summer.",
+          "zh": "這座海灘小鎮人口高度流動，夏季過後便會離開。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "48",
+        "spelling": "trans",
+        "meaning": "穿越；超越；改變"
+      }
+    },
+    {
+      "word": "transitory",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "not permanent or lasting; brief by nature:",
+      "defn_zh": "短暫的；一時的；不長久的",
+      "synonyms": [
+        "fleeting",
+        "temporary",
+        "short-lived",
+        "transient"
+      ],
+      "antonyms": [
+        "lifelong",
+        "eternal",
+        "everlasting",
+        "changeless"
+      ],
+      "root_note": "trans- (across) + it (go) + -ory",
+      "sentences": [
+        {
+          "en": "Material wealth is ______, while true friendship may last a lifetime.",
+          "zh": "物質財富是一時的，而真正友誼可能維持一生。"
+        },
+        {
+          "en": "Do not make permanent decisions based on ______ feelings of anger.",
+          "zh": "不要根據一時的憤怒做出永久決定。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "48",
+        "spelling": "trans",
+        "meaning": "穿越；超越；改變"
+      }
+    },
+    {
+      "word": "translucent",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "allowing some light to pass through while preventing detailed shapes from being seen clearly:",
+      "defn_zh": "半透明的",
+      "synonyms": [
+        "semi-transparent",
+        "clearish",
+        "light-filtering"
+      ],
+      "antonyms": [
+        "opaque",
+        "thick",
+        "dense"
+      ],
+      "root_note": "trans- (through) + luc (light) + -ent",
+      "sentences": [
+        {
+          "en": "The office installed ______ glass that admitted light while preserving privacy.",
+          "zh": "辦公室安裝半透明玻璃，在採光同時保有隱私。"
+        },
+        {
+          "en": "The chef sliced the cucumber into thin, ______ ribbons.",
+          "zh": "廚師將小黃瓜切成薄薄的半透明帶狀薄片。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "48",
+        "spelling": "trans",
+        "meaning": "穿越；超越；改變"
+      }
+    },
+    {
+      "word": "transmute",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to change something thoroughly in form, nature, character, or substance:",
+      "defn_zh": "使變化；使變質；使改觀",
+      "synonyms": [
+        "convert",
+        "transform",
+        "metamorphose",
+        "modify"
+      ],
+      "antonyms": [
+        "preserve",
+        "maintain",
+        "stabilize",
+        "keep intact"
+      ],
+      "root_note": "trans- (across or change) + mut (change)",
+      "sentences": [
+        {
+          "en": "Ancient alchemists tried to ______ lead into gold.",
+          "zh": "古代煉金術士試圖將鉛轉化成黃金。"
+        },
+        {
+          "en": "The novelist managed to ______ childhood grief into award-winning literature.",
+          "zh": "小說家成功將童年悲傷轉化成獲獎文學作品。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "48",
+        "spelling": "trans",
+        "meaning": "穿越；超越；改變"
+      }
+    },
+    {
+      "word": "transpire",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to happen or become known; in biology, to give off water vapor through pores:",
+      "defn_zh": "發生；曝光；為人所知；蒸騰",
+      "synonyms": [
+        "occur",
+        "happen",
+        "emerge",
+        "unfold"
+      ],
+      "antonyms": [
+        "remain hidden",
+        "stop",
+        "absorb"
+      ],
+      "root_note": "trans- (through) + spir (breathe)",
+      "sentences": [
+        {
+          "en": "Detectives soon discovered what had begun to ______ inside the bank vault.",
+          "zh": "警探很快發現銀行金庫內開始發生的事情。"
+        },
+        {
+          "en": "Jungle leaves ______ moisture into the atmosphere on warm afternoons.",
+          "zh": "叢林葉片在溫暖午後將水分蒸騰至大氣中。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "48",
+        "spelling": "trans",
+        "meaning": "穿越；超越；改變"
+      }
+    },
+    {
+      "word": "transfuse",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to transfer blood or another liquid, or to instill a quality or idea into someone:",
+      "defn_zh": "輸血；注入；灌輸",
+      "synonyms": [
+        "infuse",
+        "instill",
+        "inject",
+        "imbue"
+      ],
+      "antonyms": [
+        "extract",
+        "drain",
+        "deplete",
+        "remove"
+      ],
+      "root_note": "trans- (across) + fuse (pour)",
+      "sentences": [
+        {
+          "en": "The medical team worked quickly to ______ blood into the injured patient.",
+          "zh": "醫療團隊迅速為受傷患者輸血。"
+        },
+        {
+          "en": "The new manager hoped to ______ enthusiasm into the exhausted team.",
+          "zh": "新經理希望為疲憊團隊注入熱情。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "48",
+        "spelling": "trans",
+        "meaning": "穿越；超越；改變"
+      }
+    },
+    {
+      "word": "transverse",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "situated or extending horizontally or crosswise across something:",
+      "defn_zh": "橫向的；橫斷的；橫切的",
+      "synonyms": [
+        "crosswise",
+        "horizontal",
+        "diagonal",
+        "intersecting"
+      ],
+      "antonyms": [
+        "longitudinal",
+        "vertical",
+        "parallel"
+      ],
+      "root_note": "trans- (across) + verse (turn)",
+      "sentences": [
+        {
+          "en": "The bridge uses heavy ______ beams to resist strong side winds.",
+          "zh": "這座橋使用厚重橫樑抵抗強烈側風。"
+        },
+        {
+          "en": "The surgeon examined a ______ image of the spine to locate the fracture.",
+          "zh": "外科醫師檢查脊椎橫斷影像，以確定骨折位置。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "48",
+        "spelling": "trans",
+        "meaning": "穿越；超越；改變"
+      }
+    },
+    {
+      "word": "transoceanic",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "crossing, extending across, or traveling over a large ocean:",
+      "defn_zh": "跨洋的；橫渡大洋的",
+      "synonyms": [
+        "transatlantic",
+        "transpacific",
+        "overseas"
+      ],
+      "antonyms": [
+        "domestic",
+        "coastal",
+        "inland"
+      ],
+      "root_note": "trans- (across) + ocean + -ic",
+      "sentences": [
+        {
+          "en": "The company created a ______ shipping network between Europe and America.",
+          "zh": "該公司建立連結歐洲與美洲的跨洋航運網絡。"
+        },
+        {
+          "en": "The airline added larger jets to meet demand for ______ flights.",
+          "zh": "航空公司增加大型客機，以滿足跨洋航班需求。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "48",
+        "spelling": "trans",
+        "meaning": "穿越；超越；改變"
+      }
+    },
+    {
+      "word": "transitional",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "relating to a period of change or development from one state to another:",
+      "defn_zh": "過渡的；轉變期的",
+      "synonyms": [
+        "intermediate",
+        "developmental",
+        "evolving",
+        "fluid"
+      ],
+      "antonyms": [
+        "stable",
+        "permanent",
+        "static",
+        "settled"
+      ],
+      "root_note": "trans- (across or change) + it (go) + -ional",
+      "sentences": [
+        {
+          "en": "During the company's ______ phase, employees learned the new software.",
+          "zh": "公司過渡階段期間，員工學習使用新軟體。"
+        },
+        {
+          "en": "Adolescence is a difficult ______ period between childhood and adulthood.",
+          "zh": "青春期是介於童年與成年之間的艱難轉變期。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "48",
+        "spelling": "trans",
+        "meaning": "穿越；超越；改變"
+      }
+    },
+    {
+      "word": "tranquil",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "calm, peaceful, and free from disturbance or anxiety:",
+      "defn_zh": "平靜的；安寧的",
+      "synonyms": [
+        "peaceful",
+        "serene",
+        "placid",
+        "calm"
+      ],
+      "antonyms": [
+        "turbulent",
+        "agitated",
+        "chaotic",
+        "disturbed"
+      ],
+      "root_note": "tranquil (calm), from Latin tranquillus",
+      "sentences": [
+        {
+          "en": "The lake remained perfectly ______ before the morning wind began.",
+          "zh": "晨風開始前，湖面保持完全平靜。"
+        },
+        {
+          "en": "She moved to a ______ village to escape the noise of the city.",
+          "zh": "她搬到安寧村莊，以逃離城市喧囂。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "48",
+        "spelling": "trans",
+        "meaning": "穿越；超越；改變"
+      }
+    },
+    {
+      "word": "tradition",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a belief, custom, or practice passed from one generation to another:",
+      "defn_zh": "傳統；慣例",
+      "synonyms": [
+        "custom",
+        "heritage",
+        "convention",
+        "practice"
+      ],
+      "antonyms": [
+        "innovation",
+        "novelty",
+        "departure",
+        "break with convention"
+      ],
+      "root_note": "trans- (across) + dat (give), something handed across generations",
+      "sentences": [
+        {
+          "en": "The annual lantern festival is a cherished local ______.",
+          "zh": "一年一度的燈節是珍貴的地方傳統。"
+        },
+        {
+          "en": "The family maintained the ______ of sharing a meal every Sunday.",
+          "zh": "這家人維持每週日共進一餐的傳統。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "48",
+        "spelling": "trans",
+        "meaning": "穿越；超越；改變"
+      }
+    },
+    {
+      "word": "intransigent",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "unwilling to change one's views or agree about a disputed issue:",
+      "defn_zh": "不妥協的；頑固的",
+      "synonyms": [
+        "unyielding",
+        "inflexible",
+        "obstinate",
+        "uncompromising"
+      ],
+      "antonyms": [
+        "flexible",
+        "compromising",
+        "accommodating",
+        "open-minded"
+      ],
+      "root_note": "in- (not) + transig (come to an agreement) + -ent",
+      "sentences": [
+        {
+          "en": "The ______ negotiator refused every proposed compromise.",
+          "zh": "這位不妥協的談判者拒絕所有折衷方案。"
+        },
+        {
+          "en": "Both sides remained ______, causing the talks to collapse.",
+          "zh": "雙方都頑固不讓步，導致談判破裂。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "48",
+        "spelling": "trans",
+        "meaning": "穿越；超越；改變"
+      }
+    },
+    {
+      "word": "transform",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to change the form, appearance, character, or function of something completely:",
+      "defn_zh": "改變；轉化；改造",
+      "synonyms": [
+        "convert",
+        "alter",
+        "metamorphose",
+        "revolutionize"
+      ],
+      "antonyms": [
+        "preserve",
+        "maintain",
+        "retain",
+        "leave unchanged"
+      ],
+      "root_note": "trans- (across or change) + form (shape)",
+      "sentences": [
+        {
+          "en": "The renovation will ______ the abandoned factory into affordable housing.",
+          "zh": "整修工程將把廢棄工廠改造成平價住宅。"
+        },
+        {
+          "en": "A good teacher can ______ a student's attitude toward learning.",
+          "zh": "好老師能改變學生對學習的態度。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "48",
+        "spelling": "trans",
+        "meaning": "穿越；超越；改變"
+      }
+    },
+    {
+      "word": "travesty",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a distorted, absurd, or shamefully inadequate representation of something:",
+      "defn_zh": "歪曲；拙劣模仿；荒謬可恥的事",
+      "synonyms": [
+        "mockery",
+        "caricature",
+        "distortion",
+        "parody"
+      ],
+      "antonyms": [
+        "faithful representation",
+        "justice",
+        "accuracy",
+        "authenticity"
+      ],
+      "root_note": "trans- (across) + vest (clothe), originally something disguised",
+      "sentences": [
+        {
+          "en": "Critics called the unfair trial a ______ of justice.",
+          "zh": "批評者稱這場不公審判是對正義的荒謬歪曲。"
+        },
+        {
+          "en": "The careless adaptation was a ______ of the original novel.",
+          "zh": "這部草率改編是對原著的拙劣模仿。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "48",
+        "spelling": "trans",
+        "meaning": "穿越；超越；改變"
+      }
+    }
+  ],
+  "family_options": {
+    "n.": [
+      {
+        "word": "transformation",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a complete or major change in form, appearance, or character:",
+        "defn_zh": "轉變；改造；變革",
+        "derived_from": "transform"
+      },
+      {
+        "word": "transcription",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a written or printed version of spoken words or recorded material:",
+        "defn_zh": "抄錄；謄本；轉錄文字",
+        "derived_from": "transcribe"
+      }
+    ]
+  },
+  "fallback_options": {
+    "v.": [
+      {
+        "word": "abound",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to exist in great numbers:",
+        "defn_zh": "充滿"
+      },
+      {
+        "word": "abrogate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to deprive of legal force, to nullify:=abolish",
+        "defn_zh": "廢除/取消"
+      },
+      {
+        "word": "abjure",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to renounce, abstain from:",
+        "defn_zh": "發誓放棄/棄絕"
+      },
+      {
+        "word": "abbreviate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to shorten a word or phrase:",
+        "defn_zh": "縮寫;縮短"
+      },
+      {
+        "word": "abdicate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to give up a position, usually one of leadership:",
+        "defn_zh": "退位/放棄(職位)"
+      },
+      {
+        "word": "abduct",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to kidnap, take by force:",
+        "defn_zh": "綁架/劫持"
+      },
+      {
+        "word": "abhor",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to regard with disgust and hatred:",
+        "defn_zh": "憎惡/厭惡"
+      },
+      {
+        "word": "abnegate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to deny or renounce:",
+        "defn_zh": "放棄/克制"
+      },
+      {
+        "word": "abolish",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to formally put an end to a system, practice, or institution:",
+        "defn_zh": "廢除"
+      },
+      {
+        "word": "abort",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to give up on a half-finished project or effort:",
+        "defn_zh": "中止/放棄"
+      },
+      {
+        "word": "abrade",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to scrape or wear away by friction:",
+        "defn_zh": "磨損;擦傷"
+      },
+      {
+        "word": "abscond",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to sneak away and hide:",
+        "defn_zh": "潛逃/逃匿"
+      }
+    ],
+    "adj.": [
+      {
+        "word": "abortive",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "fruitless, failing:",
+        "defn_zh": "失敗的/夭折的"
+      },
+      {
+        "word": "abstemious",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "moderate in eating or drinking:",
+        "defn_zh": "飲食有節制的"
+      },
+      {
+        "word": "abhorrent",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "detestable, despised:",
+        "defn_zh": "令人厭惡的"
+      },
+      {
+        "word": "absurd",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "ridiculous:",
+        "defn_zh": "荒謬的"
+      },
+      {
+        "word": "aberrant",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "deviating from what is normal or expected:",
+        "defn_zh": "異常的;脫軌的"
+      },
+      {
+        "word": "abject",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "wretched, pitiful:",
+        "defn_zh": "卑賤的/淒慘的"
+      },
+      {
+        "word": "abominable",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "causing moral revulsion; extremely unpleasant:",
+        "defn_zh": "可憎的;惡劣的"
+      },
+      {
+        "word": "abounding",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "existing in large numbers or amounts:",
+        "defn_zh": "大量存在的;豐富的"
+      },
+      {
+        "word": "abrasive",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "showing little concern for others; harsh:",
+        "defn_zh": "粗暴的/刺耳的"
+      },
+      {
+        "word": "abrupt",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "sudden or unexpected; brief and curt in manner:",
+        "defn_zh": "突然的/唐突的"
+      },
+      {
+        "word": "abstract",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "existing purely in the mind; not representing actual reality:",
+        "defn_zh": "抽象的"
+      },
+      {
+        "word": "abstruse",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "hard to comprehend:",
+        "defn_zh": "深奧難懂的"
+      }
+    ],
+    "n.": [
+      {
+        "word": "aversion",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "strong dislike, opposition:",
+        "defn_zh": "厭惡/反感"
+      },
+      {
+        "word": "aberration",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "something that differs from the norm:",
+        "defn_zh": "異常/脫軌"
+      },
+      {
+        "word": "abjection",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a state of complete misery, hopelessness, or degradation:",
+        "defn_zh": "卑賤;悲慘狀態"
+      },
+      {
+        "word": "abjuration",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the solemn renunciation of a belief, cause, or claim:",
+        "defn_zh": "公開放棄;誓絕"
+      },
+      {
+        "word": "ablution",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the act of washing oneself, especially as part of a religious ritual:",
+        "defn_zh": "沐浴;淨身儀式"
+      },
+      {
+        "word": "abnegation",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "denial of comfort to oneself:",
+        "defn_zh": "自我克制/放棄"
+      },
+      {
+        "word": "abomination",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "something that causes disgust or hatred:",
+        "defn_zh": "可憎之事;令人厭惡的東西"
+      },
+      {
+        "word": "abridgement",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a shortened version of a book or other written work:",
+        "defn_zh": "節略本;縮減版"
+      },
+      {
+        "word": "absolution",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "freedom from blame, guilt, sin:",
+        "defn_zh": "赦免/免罪"
+      },
+      {
+        "word": "abstemiousness",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "moderation or self-restraint, especially in eating and drinking:",
+        "defn_zh": "節制;克己"
+      },
+      {
+        "word": "abstinence",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the practice of restraining oneself from something enjoyable, especially food, alcohol, or sex:",
+        "defn_zh": "節制;戒絕"
+      },
+      {
+        "word": "avocation",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a hobby or minor occupation apart from one's main career:",
+        "defn_zh": "副業;業餘愛好"
+      }
+    ],
+    "adv.": [
+      {
+        "word": "accordingly",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in a manner that fits the circumstances; consequently:",
+        "defn_zh": "相應地;因此"
+      },
+      {
+        "word": "inadvertently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "unintentionally or by accident:",
+        "defn_zh": "無意間/不小心地"
+      },
+      {
+        "word": "consequently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "as a result; therefore:",
+        "defn_zh": "因此;結果"
+      },
+      {
+        "word": "contemptuously",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "without respect; in a disdainful manner:",
+        "defn_zh": "輕蔑地"
+      },
+      {
+        "word": "involuntarily",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "done without conscious control:",
+        "defn_zh": "不由自主地"
+      },
+      {
+        "word": "cordially",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in a warm or friendly manner:",
+        "defn_zh": "誠摯地/友好地"
+      },
+      {
+        "word": "ipso facto",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "by that very fact or act:",
+        "defn_zh": "事實上;因此"
+      },
+      {
+        "word": "en passant",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in passing; incidentally:",
+        "defn_zh": "順帶一提地;偶然地"
+      },
+      {
+        "word": "regardless",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "despite the prevailing circumstances; without being deterred:",
+        "defn_zh": "不管怎樣;儘管如此"
+      },
+      {
+        "word": "subsequently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "afterward; following in time or order:",
+        "defn_zh": "隨後;其後"
+      },
+      {
+        "word": "aside",
+        "pos": "adv./n.",
+        "pos_key": "adv.",
+        "defn_en": "to or on one side; a remark not meant to be heard by everyone:",
+        "defn_zh": "在旁邊;旁白"
+      },
+      {
+        "word": "vice versa",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "with the order or meaning reversed; conversely:",
+        "defn_zh": "反之亦然"
+      }
+    ],
+    "other": [
+      {
+        "word": "（此批單字中，暫無符合此字根/字首的單字）",
+        "pos": "",
+        "pos_key": "other",
+        "defn_en": "",
+        "defn_zh": ""
+      }
+    ],
+    "prep./adv.": [
+      {
+        "word": "besides",
+        "pos": "prep./adv.",
+        "pos_key": "prep./adv.",
+        "defn_en": "in addition to; furthermore:",
+        "defn_zh": "除...之外;此外"
+      }
+    ],
+    "phrasalv.": [
+      {
+        "word": "egg on",
+        "pos": "phrasal v.",
+        "pos_key": "phrasalv.",
+        "defn_en": "to encourage someone to do something, often risky:",
+        "defn_zh": "慫恿;鼓動"
+      }
+    ],
+    "abbr.": [
+      {
+        "word": "etc.",
+        "pos": "abbr.",
+        "pos_key": "abbr.",
+        "defn_en": "and other similar things (abbreviation of et cetera):",
+        "defn_zh": "等等(et cetera的縮寫)"
+      }
+    ],
+    "interj.": [
+      {
+        "word": "fiddledeedee",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "an exclamation expressing dismissal of something as nonsense:",
+        "defn_zh": "廢話!(表示不屑一顧)"
+      },
+      {
+        "word": "gesundheit",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "an expression said to someone who has just sneezed:",
+        "defn_zh": "保重(打噴嚏後的祝福語)"
+      }
+    ],
+    "prep.": [
+      {
+        "word": "via",
+        "pos": "prep.",
+        "pos_key": "prep.",
+        "defn_en": "by way of; passing through:",
+        "defn_zh": "經由;透過"
+      }
+    ]
+  }
+}

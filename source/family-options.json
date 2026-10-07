@@ -497,5 +497,23 @@
         "derived_from": "seclude"
       }
     ]
+  },
+  "p1-48-trans": {
+    "n.": [
+      {
+        "word": "transformation",
+        "pos": "n.",
+        "defn_en": "a complete or major change in form, appearance, or character:",
+        "defn_zh": "轉變；改造；變革",
+        "derived_from": "transform"
+      },
+      {
+        "word": "transcription",
+        "pos": "n.",
+        "defn_en": "a written or printed version of spoken words or recorded material:",
+        "defn_zh": "抄錄；謄本；轉錄文字",
+        "derived_from": "transcribe"
+      }
+    ]
   }
 }
