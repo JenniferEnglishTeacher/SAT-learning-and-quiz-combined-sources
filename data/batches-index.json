@@ -1,10 +1,10 @@
 {
   "summary": {
     "total_words": 6805,
-    "total_batches": 234,
-    "part1_part2_batches": 157,
+    "total_batches": 235,
+    "part1_part2_batches": 158,
     "unclassified_batches": 77,
-    "generated_batches": 58
+    "generated_batches": 59
   },
   "batches": [
     {
@@ -358,14 +358,24 @@
       "search_terms": "hypochondriac hypochondriacal hypocrisy hypodermic hypothesis hypothesize hypothetical hypocrite hypothermia hypotensive hypoglycemia hypostatic hypogeal hypoxia hypocritical"
     },
     {
-      "id": "p1-23-im",
+      "id": "p1-23-im-not",
       "part": "part1",
       "part_label": "Part 1 字首篇 (Prefixes)",
-      "name": "im",
-      "subtitle": "not / opposite；in / into / upon（兩組各 15 字）",
-      "count": 30,
+      "name": "im — not / opposite",
+      "subtitle": "否定、相反",
+      "count": 15,
       "generated": true,
-      "search_terms": "impeccable implacable immutable impecunious improvident immaterial impassive implausible impolitic imponderable impotent impracticable impregnable improvised imprudent impetuous impugn impunity imperious imbibe imminent imbroglio immerse immanent immigrate impel implode importune imprecation imposition"
+      "search_terms": "impeccable implacable immutable impecunious improvident immaterial impassive implausible impolitic imponderable impotent impracticable impregnable improvised imprudent"
+    },
+    {
+      "id": "p1-23-im-in",
+      "part": "part1",
+      "part_label": "Part 1 字首篇 (Prefixes)",
+      "name": "im — in / into / upon",
+      "subtitle": "進入、在內、施加於",
+      "count": 15,
+      "generated": true,
+      "search_terms": "impetuous impugn impunity imperious imbibe imminent imbroglio immerse immanent immigrate impel implode importune imprecation imposition"
     },
     {
       "id": "p1-24-in-1",

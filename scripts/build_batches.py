@@ -141,6 +141,21 @@ def apply_overrides(batches):
             else:
                 batch["words"]=override["words"]
         batch["count"]=len(batch["words"])
+        if override.get("split_batches"):
+            split_batches=[]; assigned=set()
+            for spec in override["split_batches"]:
+                section=clean(spec.get("section"))
+                words=[word for word in batch["words"] if clean(word.get("section"))==section]
+                if not words: raise ValueError(f"Split {spec.get('id')} has no words")
+                assigned.update(word["word"].casefold() for word in words)
+                split_batch=dict(batch)
+                split_batch.update({key:spec[key] for key in ("id","name","subtitle")})
+                split_batch["words"],split_batch["count"]=words,len(words)
+                split_batches.append(split_batch)
+            if len(assigned)!=len(batch["words"]):
+                raise ValueError(f"Split batches for {batch_id} do not cover every word exactly once")
+            index=batches.index(batch); batches[index:index+1]=split_batches
+            by_id={b["id"]:b for b in batches}
     return batches
 
 def write_json(path,value):
@@ -151,7 +166,7 @@ def main():
     args=parser.parse_args(); p1,p2,u=load_records(args.source); all_records=p1+p2+u
     batches=apply_overrides(categorized_batches(p1,1)+categorized_batches(p2,2)+unclassified_batches(u))
     categories=len({(r["category"]["part"],r["category"]["num"],r["category"]["spelling"]) for r in p1+p2})
-    if (len(all_records),len(u),categories,len(batches))!=(6805,3824,134,234): raise ValueError(f"Sanity check failed: {len(all_records)=}, {len(u)=}, {categories=}, {len(batches)=}")
+    if (len(all_records),len(u),categories,len(batches))!=(6805,3824,134,235): raise ValueError(f"Sanity check failed: {len(all_records)=}, {len(u)=}, {categories=}, {len(batches)=}")
     progress={"generated":[],"total":len(batches)}
     if PROGRESS_PATH.exists(): progress=json.loads(PROGRESS_PATH.read_text(encoding="utf-8"))
     generated=set(progress.get("generated",[]))

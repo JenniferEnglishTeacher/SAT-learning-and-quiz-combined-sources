@@ -2,6 +2,20 @@
   "id": "p1-23-im",
   "name": "im",
   "subtitle": "not / opposite；in / into / upon（兩組各 15 字）",
+  "split_batches": [
+    {
+      "id": "p1-23-im-not",
+      "name": "im — not / opposite",
+      "subtitle": "否定、相反",
+      "section": "im- = not / opposite（否定、相反）"
+    },
+    {
+      "id": "p1-23-im-in",
+      "name": "im — in / into / upon",
+      "subtitle": "進入、在內、施加於",
+      "section": "im- = in / into / upon（進入、在內、施加於）"
+    }
+  ],
   "words": [
     {
       "word": "impeccable",
