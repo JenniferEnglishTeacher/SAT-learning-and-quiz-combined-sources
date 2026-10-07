@@ -452,5 +452,39 @@
         "derived_from": "maladjustment"
       }
     ]
+  },
+  "p1-13-dia": {
+    "v.": [
+      {
+        "word": "diagnosticate",
+        "pos": "v.",
+        "defn_en": "to identify or determine the nature of a disease or difficult problem:",
+        "defn_zh": "診斷；判定問題性質",
+        "derived_from": "diagnostician"
+      },
+      {
+        "word": "dialogize",
+        "pos": "v.",
+        "defn_en": "to converse or express material in the form of dialogue:",
+        "defn_zh": "對話；使成為對話形式",
+        "derived_from": "dialogue"
+      },
+      {
+        "word": "dialecticize",
+        "pos": "v.",
+        "defn_en": "to examine or present an idea through dialectical reasoning:",
+        "defn_zh": "以辯證方式分析或表達",
+        "derived_from": "dialectical"
+      }
+    ],
+    "adj.": [
+      {
+        "word": "diagnostic",
+        "pos": "adj.",
+        "defn_en": "relating to the identification of an illness or the cause of a problem:",
+        "defn_zh": "診斷的；判斷問題原因的",
+        "derived_from": "diagnosis"
+      }
+    ]
   }
 }

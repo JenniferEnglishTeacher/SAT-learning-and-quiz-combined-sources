@@ -1,0 +1,127 @@
+{
+  "id": "p1-13-dia",
+  "name": "dia",
+  "subtitle": "穿過；跨越；分開",
+  "words": [
+    {
+      "word": "diatribe", "pos": "n.", "pos_key": "n.",
+      "defn_en": "a bitter, angry, and prolonged verbal or written attack:", "defn_zh": "謾罵；抨擊；惡毒的斥責",
+      "synonyms": ["tirade", "harangue", "denunciation", "vituperation"], "antonyms": ["panegyric", "eulogy", "commendation", "praise"],
+      "root_note": "dia- (through) + tribe (rub or wear away)",
+      "sentences": [
+        {"en": "The candidate's speech became a bitter ______ against the media.", "zh": "該候選人的演講演變成對媒體的惡毒抨擊。"},
+        {"en": "The critic wrote a harsh ______ attacking the author's new novel.", "zh": "評論家寫了一篇針對該作家新小說的嚴厲謾罵。"}
+      ], "category": {"part": 1, "num": "13", "spelling": "dia", "meaning": "穿過；跨越；分開"}
+    },
+    {
+      "word": "diagnose", "pos": "v.", "pos_key": "v.",
+      "defn_en": "to identify the nature or cause of an illness or other problem by examining its signs:", "defn_zh": "診斷；判斷問題原因",
+      "synonyms": ["identify", "detect", "determine", "analyze"], "antonyms": ["misdiagnose", "overlook", "misinterpret", "ignore"],
+      "root_note": "dia- (through or apart) + gnos (know)",
+      "sentences": [
+        {"en": "The physician ordered several tests to ______ the patient's unusual condition.", "zh": "醫師安排多項檢查，以診斷患者不尋常的病況。"},
+        {"en": "Engineers used monitoring software to ______ the network failure.", "zh": "工程師使用監控軟體判斷網路故障的原因。"}
+      ], "category": {"part": 1, "num": "13", "spelling": "dia", "meaning": "穿過；跨越；分開"}
+    },
+    {
+      "word": "diagnosis", "pos": "n.", "pos_key": "n.",
+      "defn_en": "the identification of an illness or another problem through examination of its signs or symptoms:", "defn_zh": "診斷；診斷結果",
+      "synonyms": ["identification", "determination", "analysis", "assessment"], "antonyms": ["misinterpretation", "ignorance", "misdiagnosis"],
+      "root_note": "dia- (through or apart) + gnosis (knowledge)",
+      "sentences": [
+        {"en": "After several tests, the doctor delivered a definitive ______ of celiac disease.", "zh": "經過數項檢查後，醫師作出乳糜瀉的明確診斷。"},
+        {"en": "The consultant's ______ linked the company's falling profits to poor management.", "zh": "顧問的診斷分析將公司利潤下滑歸因於管理不善。"}
+      ], "category": {"part": 1, "num": "13", "spelling": "dia", "meaning": "穿過；跨越；分開"}
+    },
+    {
+      "word": "dialect", "pos": "n.", "pos_key": "n.",
+      "defn_en": "a form of a language spoken in a particular region or by a particular social group:", "defn_zh": "方言；地方話",
+      "synonyms": ["vernacular", "regional speech", "local language", "idiom"], "antonyms": ["standard language", "common standard"],
+      "root_note": "dia- (through or between) + lect (speak or choose)",
+      "sentences": [
+        {"en": "The mountain community preserved a distinctive ______ that outsiders found difficult to understand.", "zh": "山區社群保存了一種外人難以理解的獨特方言。"},
+        {"en": "The linguist recorded each regional ______ before it disappeared.", "zh": "語言學家在各地方言消失前加以記錄。"}
+      ], "category": {"part": 1, "num": "13", "spelling": "dia", "meaning": "穿過；跨越；分開"}
+    },
+    {
+      "word": "dialogue", "pos": "n.", "pos_key": "n.",
+      "defn_en": "conversation between people, or an exchange of ideas between groups with different views:", "defn_zh": "對話；台詞；協商交談",
+      "synonyms": ["conversation", "discourse", "parley", "discussion"], "antonyms": ["monologue", "soliloquy", "silence"],
+      "root_note": "dia- (through or between) + logue (speech)",
+      "sentences": [
+        {"en": "The screenwriter was praised because the film's ______ sounded realistic and witty.", "zh": "編劇因電影台詞真實又風趣而受到稱讚。"},
+        {"en": "Diplomats urged both factions to begin a peaceful ______ about the border dispute.", "zh": "外交官敦促雙方針對邊界爭議展開和平對話。"}
+      ], "category": {"part": 1, "num": "13", "spelling": "dia", "meaning": "穿過；跨越；分開"}
+    },
+    {
+      "word": "diaphanous", "pos": "adj.", "pos_key": "adj.",
+      "defn_en": "light, delicate, and translucent, especially when describing fabric or mist:", "defn_zh": "半透明的；輕柔精緻的；纖細的",
+      "synonyms": ["translucent", "sheer", "gossamer", "ethereal"], "antonyms": ["opaque", "thick", "dense", "heavy"],
+      "root_note": "dia- (through) + phan (show or appear) + -ous",
+      "sentences": [
+        {"en": "The bride's ______ silk veil floated gently in the morning breeze.", "zh": "新娘輕柔半透明的絲質面紗在晨風中飄動。"},
+        {"en": "A ______ mist covered the lake while sunlight gleamed faintly through it.", "zh": "一層半透明薄霧籠罩湖面，陽光微微透過。"}
+      ], "category": {"part": 1, "num": "13", "spelling": "dia", "meaning": "穿過；跨越；分開"}
+    },
+    {
+      "word": "dialectical", "pos": "adj.", "pos_key": "adj.",
+      "defn_en": "relating to the logical examination of opposing ideas in order to discover truth:", "defn_zh": "辯證的；辯證法的",
+      "synonyms": ["analytical", "logical", "argumentative", "reasoned"], "antonyms": ["dogmatic", "unyielding", "uncritical", "simple-minded"],
+      "root_note": "dia- (between) + lect (speak or reason) + -ical",
+      "sentences": [
+        {"en": "The professor used a ______ process to weigh both sides of the law.", "zh": "教授運用辯證過程權衡法律的正反觀點。"},
+        {"en": "The theory describes history as a ______ clash between opposing economic classes.", "zh": "這套理論將歷史描述為對立經濟階級間的辯證衝突。"}
+      ], "category": {"part": 1, "num": "13", "spelling": "dia", "meaning": "穿過；跨越；分開"}
+    },
+    {
+      "word": "diagnostician", "pos": "n.", "pos_key": "n.",
+      "defn_en": "an expert at identifying the nature or cause of an illness or another complex problem:", "defn_zh": "診斷專家",
+      "synonyms": ["expert analyst", "clinical evaluator", "investigator", "specialist"], "antonyms": ["amateur", "novice", "inexpert observer"],
+      "root_note": "dia- (through) + gnos (know) + -ician (specialist)",
+      "sentences": [
+        {"en": "The hospital invited a renowned ______ to investigate the patient's unusual symptoms.", "zh": "醫院邀請一位著名診斷專家調查患者不尋常的症狀。"},
+        {"en": "The firm hired a computer ______ to discover why the mainframe kept crashing.", "zh": "公司聘請電腦診斷專家查明主機不斷當機的原因。"}
+      ], "category": {"part": 1, "num": "13", "spelling": "dia", "meaning": "穿過；跨越；分開"}
+    },
+    {
+      "word": "diachronic", "pos": "adj.", "pos_key": "adj.",
+      "defn_en": "relating to how a language, society, or other subject develops over a long period of time:", "defn_zh": "歷時的；歷史性變遷的",
+      "synonyms": ["historical", "evolutionary", "chronological", "longitudinal"], "antonyms": ["synchronic", "contemporaneous", "single-period"],
+      "root_note": "dia- (through) + chron (time) + -ic",
+      "sentences": [
+        {"en": "A ______ study reveals how the meanings of English words changed over centuries.", "zh": "歷時研究揭示英文字義如何在數百年間改變。"},
+        {"en": "The researcher took a ______ approach to family structures from the industrial era onward.", "zh": "研究者採用歷時方法分析工業時代以來的家庭結構。"}
+      ], "category": {"part": 1, "num": "13", "spelling": "dia", "meaning": "穿過；跨越；分開"}
+    },
+    {
+      "word": "diadem", "pos": "n.", "pos_key": "n.",
+      "defn_en": "a jeweled crown or headband worn as a symbol of sovereignty or royal power:", "defn_zh": "王冠；皇冠；帶狀頭飾",
+      "synonyms": ["crown", "tiara", "coronet", "circlet"], "antonyms": ["shackles", "rags", "plain headband"],
+      "root_note": "dia- (around) + dem (bind), referring to a band around the head",
+      "sentences": [
+        {"en": "The ancient gold ______ was displayed on a velvet cushion in the museum.", "zh": "古代黃金王冠被陳列在博物館的天鵝絨墊上。"},
+        {"en": "At the coronation, the archbishop placed a diamond ______ on the queen's head.", "zh": "加冕典禮上，大主教將鑽石王冠戴在女王頭上。"}
+      ], "category": {"part": 1, "num": "13", "spelling": "dia", "meaning": "穿過；跨越；分開"}
+    },
+    {
+      "word": "diameter", "pos": "n.", "pos_key": "n.",
+      "defn_en": "a straight line passing through the center of a circle or sphere from one side to the other:", "defn_zh": "直徑",
+      "synonyms": ["breadth", "width", "thickness", "center line"], "antonyms": ["radius", "circumference"],
+      "root_note": "dia- (across) + meter (measure)",
+      "sentences": [
+        {"en": "The carpenter measured the table's ______ before calculating its circumference.", "zh": "木匠先測量圓桌直徑，再計算其周長。"},
+        {"en": "The new exoplanet has a ______ roughly three times that of Earth.", "zh": "新發現的系外行星直徑約為地球的三倍。"}
+      ], "category": {"part": 1, "num": "13", "spelling": "dia", "meaning": "穿過；跨越；分開"}
+    },
+    {
+      "word": "diapause", "pos": "n.", "pos_key": "n.",
+      "defn_en": "a period of suspended development in an animal during unfavorable environmental conditions:", "defn_zh": "滯育；發育停滯期",
+      "synonyms": ["dormancy", "hibernation", "suspension", "inactivity"], "antonyms": ["growth", "continuous development", "maturation", "activity"],
+      "root_note": "dia- (through or apart) + pause (temporary stop)",
+      "sentences": [
+        {"en": "The insect larvae enter ______ during winter and resume growth in spring.", "zh": "昆蟲幼蟲在冬季進入滯育，並於春季恢復生長。"},
+        {"en": "Some desert organisms use ______ to survive long periods of drought.", "zh": "某些沙漠生物利用發育停滯期度過長期乾旱。"}
+      ], "category": {"part": 1, "num": "13", "spelling": "dia", "meaning": "穿過；跨越；分開"}
+    }
+  ]
+}
