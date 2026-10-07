@@ -432,5 +432,23 @@
         "derived_from": "uniformity"
       }
     ]
+  },
+  "p1-28-mal": {
+    "v.": [
+      {
+        "word": "malfunction",
+        "pos": "v.",
+        "defn_en": "to fail to operate or function correctly:",
+        "defn_zh": "發生故障；機能失常",
+        "derived_from": "malfunction"
+      },
+      {
+        "word": "maladjust",
+        "pos": "v.",
+        "defn_en": "to adjust badly or make poorly adapted to surrounding conditions:",
+        "defn_zh": "使適應不良；調整不當",
+        "derived_from": "maladjustment"
+      }
+    ]
   }
 }

@@ -37,6 +37,7 @@
     "p1-22-hypo",
     "p1-26-intra",
     "p1-27-kilo",
+    "p1-28-mal",
     "p1-29-micro",
     "p1-30-mini",
     "p1-31-mis",
@@ -53,7 +54,7 @@
     "p1-52-uni",
     "p1-54-non"
   ],
-  "generated_count": 52,
+  "generated_count": 53,
   "total": 234,
   "next_batch": "p1-23-im"
 }
