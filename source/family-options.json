@@ -20,17 +20,26 @@
         "derived_from": "extraneous"
       },
       {
-        "word": "extraordinariness",
-        "pos": "n.",
-        "defn_en": "the quality of being very unusual or remarkable:",
-        "defn_zh": "非凡；異常；卓越",
-        "derived_from": "extraordinary"
-      },
-      {
         "word": "extravagance",
         "pos": "n.",
         "defn_en": "excessive spending or behavior that lacks restraint:",
         "defn_zh": "奢侈；揮霍；過度",
+        "derived_from": "extravagant"
+      },
+      {
+        "word": "extradition",
+        "pos": "n.",
+        "defn_en": "the official surrender of a suspect or convicted person to another jurisdiction:",
+        "defn_zh": "引渡",
+        "derived_from": "extradite"
+      }
+    ],
+    "v.": [
+      {
+        "word": "extravagate",
+        "pos": "v.",
+        "defn_en": "to wander beyond limits or depart from what is reasonable:",
+        "defn_zh": "越界遊蕩；偏離常理",
         "derived_from": "extravagant"
       }
     ]

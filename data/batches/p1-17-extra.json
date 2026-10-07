@@ -3,127 +3,433 @@
   "part": "part1",
   "part_label": "Part 1 字首篇 (Prefixes)",
   "name": "extra",
-  "subtitle": "超過",
-  "count": 5,
+  "subtitle": "外；超出；額外",
+  "count": 12,
   "words": [
     {
       "word": "extraneous",
       "pos": "adj.",
       "pos_key": "adj.",
-      "defn_en": "foreign, not belonging:",
-      "defn_zh": "無關的/外來的",
-      "root_note": "extra- (outside)",
+      "defn_en": "not relevant or essential to the current subject; coming from outside:",
+      "defn_zh": "無關的；多餘的；外來的",
+      "synonyms": [
+        "irrelevant",
+        "superfluous",
+        "immaterial",
+        "peripheral"
+      ],
+      "antonyms": [
+        "essential",
+        "intrinsic",
+        "relevant",
+        "vital"
+      ],
+      "root_note": "extra- (outside or beyond) + -aneous (relating to)",
       "sentences": [
         {
-          "en": "The editor removed all ______ details that didn't serve the story.",
-          "zh": "這位編輯刪去了所有與故事無關的枝節細節。"
+          "en": "Delete any ______ information that does not support the essay's main argument.",
+          "zh": "刪除任何無法支持文章主要論點的多餘資訊。"
         },
         {
-          "en": "Please ignore any ______ noise in the background of the recording.",
-          "zh": "請忽略錄音背景中任何無關的雜音。"
+          "en": "The judge told the attorney to stop introducing ______ drama that might confuse the jury.",
+          "zh": "法官要求律師停止加入可能混淆陪審團的無關戲劇化言論。"
         }
       ],
       "category": {
         "part": 1,
         "num": "17",
         "spelling": "extra",
-        "meaning": "超過"
+        "meaning": "外；超出；額外"
       }
     },
     {
-      "word": "extraordinary",
-      "pos": "adj.",
-      "pos_key": "adj.",
-      "defn_en": "very unusual or remarkable:",
-      "defn_zh": "非凡的;不尋常的",
-      "root_note": "extra- (outside) + ordo (order), from Latin",
+      "word": "extrapolate",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to estimate an unknown result by assuming that existing trends or data will continue:",
+      "defn_zh": "推斷；推論；外推",
+      "synonyms": [
+        "infer",
+        "project",
+        "conjecture",
+        "deduce"
+      ],
+      "antonyms": [
+        "verify directly",
+        "measure",
+        "observe",
+        "confirm"
+      ],
+      "root_note": "extra- (beyond) + polate (extend from known data)",
       "sentences": [
         {
-          "en": "The surgeon performed an ______ feat of skill.",
-          "zh": "這位外科醫生展現了非凡的技藝。"
+          "en": "Economists can ______ from this quarter's growth that profits may double next year.",
+          "zh": "經濟學家可根據本季成長推斷明年利潤可能翻倍。"
         },
         {
-          "en": "Her recovery from the accident was truly ______ .",
-          "zh": "她從這場事故中的康復實在非比尋常。"
+          "en": "It is risky to ______ a global climate trend from data collected on one island.",
+          "zh": "僅憑一座小島的資料推斷全球氣候趨勢相當危險。"
         }
       ],
       "category": {
         "part": 1,
         "num": "17",
         "spelling": "extra",
-        "meaning": "超過"
-      }
-    },
-    {
-      "word": "extraterrestrial",
-      "pos": "adj./n.",
-      "pos_key": "adj.",
-      "defn_en": "originating from outside the earth; a being from another planet:",
-      "defn_zh": "外星的;外星生物",
-      "root_note": "extra- (outside) + terra (earth), from Latin",
-      "sentences": [
-        {
-          "en": "Scientists search for signs of ______ life on distant planets.",
-          "zh": "科學家在遙遠的行星上尋找外星生命的跡象。"
-        },
-        {
-          "en": "The movie's friendly ______ befriended a young boy.",
-          "zh": "這部電影中友善的外星生物與一名小男孩成了朋友。"
-        }
-      ],
-      "category": {
-        "part": 1,
-        "num": "17",
-        "spelling": "extra",
-        "meaning": "超過"
+        "meaning": "外；超出；額外"
       }
     },
     {
       "word": "extravagant",
       "pos": "adj.",
       "pos_key": "adj.",
-      "defn_en": "lacking restraint in spending or behavior; excessive:",
-      "defn_zh": "奢侈的;過度的",
-      "root_note": "extra- (outside) + vagari (to wander), from Latin",
+      "defn_en": "spending or using much more than is necessary, reasonable, or affordable:",
+      "defn_zh": "奢侈的；鋪張的；過度的",
+      "synonyms": [
+        "profligate",
+        "lavish",
+        "spendthrift",
+        "exorbitant"
+      ],
+      "antonyms": [
+        "frugal",
+        "thrifty",
+        "economical",
+        "minimalist"
+      ],
+      "root_note": "extra- (beyond) + vagant (wandering)",
       "sentences": [
         {
-          "en": "He threw an ______ party for his fortieth birthday.",
-          "zh": "他為自己的四十歲生日辦了一場奢華的派對。"
+          "en": "The billionaire's ______ lifestyle eventually drove him into bankruptcy.",
+          "zh": "這位億萬富翁奢侈的生活方式最終使他破產。"
         },
         {
-          "en": "Her ______ claims about the product raised suspicion.",
-          "zh": "她對這項產品誇張過度的說法引起了懷疑。"
+          "en": "The critic called the film's costly effects an ______ waste of the studio's budget.",
+          "zh": "影評人稱電影昂貴的特效是對製片廠預算的過度浪費。"
         }
       ],
       "category": {
         "part": 1,
         "num": "17",
         "spelling": "extra",
-        "meaning": "超過"
+        "meaning": "外；超出；額外"
       }
     },
     {
-      "word": "extrovert",
-      "pos": "n.",
-      "pos_key": "n.",
-      "defn_en": "a person directed toward others as opposed to the self:",
-      "defn_zh": "外向的人",
-      "root_note": "extra- (outward) + vertere (to turn)",
+      "word": "extradite",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to officially hand a suspect or convicted person over to another jurisdiction for trial or punishment:",
+      "defn_zh": "引渡逃犯",
+      "synonyms": [
+        "hand over",
+        "surrender",
+        "transfer",
+        "deliver"
+      ],
+      "antonyms": [
+        "harbor",
+        "protect",
+        "grant asylum",
+        "shelter"
+      ],
+      "root_note": "extra- (outside) + dite (give or hand over)",
       "sentences": [
         {
-          "en": "As a natural ______, she thrives at large social gatherings.",
-          "zh": "身為天生外向的人,她在大型社交場合中總是如魚得水。"
+          "en": "The government worked to ______ the fugitive back to the country where the crime occurred.",
+          "zh": "政府設法將逃犯引渡回犯罪發生的國家。"
         },
         {
-          "en": "Unlike his introverted brother, he is a cheerful ______ who loves meeting new people.",
-          "zh": "與他內向的哥哥不同,他是個開朗外向、喜歡結識新朋友的人。"
+          "en": "Without a treaty, the nation refused to ______ the billionaire suspect.",
+          "zh": "由於缺乏引渡條約，該國拒絕引渡這名億萬富翁嫌疑人。"
         }
       ],
       "category": {
         "part": 1,
         "num": "17",
         "spelling": "extra",
-        "meaning": "超過"
+        "meaning": "外；超出；額外"
+      }
+    },
+    {
+      "word": "extravasation",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "the accidental leakage of blood, medicine, or another fluid from a vessel into surrounding tissue:",
+      "defn_zh": "體液或藥物外滲；外溢",
+      "synonyms": [
+        "leakage",
+        "effusion",
+        "exudation",
+        "discharge"
+      ],
+      "antonyms": [
+        "containment",
+        "retention",
+        "absorption"
+      ],
+      "root_note": "extra- (outside) + vas (vessel) + -ation (process)",
+      "sentences": [
+        {
+          "en": "The nurse stopped the infusion to prevent tissue damage caused by ______.",
+          "zh": "護理師停止輸液，以避免藥物外滲造成組織損傷。"
+        },
+        {
+          "en": "A severe injury may cause the ______ of blood into nearby muscles and produce a bruise.",
+          "zh": "嚴重外傷可能使血液外溢到附近肌肉，形成瘀青。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "17",
+        "spelling": "extra",
+        "meaning": "外；超出；額外"
+      }
+    },
+    {
+      "word": "extrajudicial",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "occurring outside the regular legal court system, often without lawful authority:",
+      "defn_zh": "法庭外的；法外執行的；不經法律程序的",
+      "synonyms": [
+        "unsanctioned",
+        "lawless",
+        "unauthorized",
+        "unilateral"
+      ],
+      "antonyms": [
+        "judicial",
+        "legal",
+        "authorized",
+        "constitutional"
+      ],
+      "root_note": "extra- (outside) + judicial (relating to courts)",
+      "sentences": [
+        {
+          "en": "Lawyers condemned the regime for carrying out ______ executions without fair trials.",
+          "zh": "律師譴責該政權在未經公正審判下進行法外處決。"
+        },
+        {
+          "en": "The companies reached an ______ settlement through a private agreement.",
+          "zh": "兩家公司透過私人協議達成法庭外和解。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "17",
+        "spelling": "extra",
+        "meaning": "外；超出；額外"
+      }
+    },
+    {
+      "word": "extracurricular",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "pursued in addition to the normal course of school or university study:",
+      "defn_zh": "課外的；課外活動的",
+      "synonyms": [
+        "after-school",
+        "non-academic",
+        "optional",
+        "supplementary"
+      ],
+      "antonyms": [
+        "curricular",
+        "academic",
+        "mandatory",
+        "required"
+      ],
+      "root_note": "extra- (outside) + curricular (relating to a course of study)",
+      "sentences": [
+        {
+          "en": "Universities value students who participate in ______ clubs such as debate or music.",
+          "zh": "大學重視參加辯論或音樂等課外社團的學生。"
+        },
+        {
+          "en": "The budget provides funds for ______ sports equipment and travel.",
+          "zh": "這筆預算提供課外運動器材與交通費用。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "17",
+        "spelling": "extra",
+        "meaning": "外；超出；額外"
+      }
+    },
+    {
+      "word": "extragalactic",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "situated, occurring, or originating outside the Milky Way galaxy:",
+      "defn_zh": "銀河系外的",
+      "synonyms": [
+        "deep-space",
+        "intergalactic",
+        "cosmic"
+      ],
+      "antonyms": [
+        "intragalactic",
+        "galactic",
+        "Milky Way based"
+      ],
+      "root_note": "extra- (outside) + galactic (relating to a galaxy)",
+      "sentences": [
+        {
+          "en": "The radio telescope detected unusual ______ signals from billions of light-years away.",
+          "zh": "無線電望遠鏡偵測到來自數十億光年外的銀河系外訊號。"
+        },
+        {
+          "en": "The professor explained that quasars are extremely luminous ______ objects.",
+          "zh": "教授解釋類星體是亮度極高的銀河系外天體。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "17",
+        "spelling": "extra",
+        "meaning": "外；超出；額外"
+      }
+    },
+    {
+      "word": "extraterrestrial",
+      "pos": "adj./n.",
+      "pos_key": "adj.",
+      "defn_en": "originating or existing outside planet Earth or its atmosphere:",
+      "defn_zh": "地球外的；外星的；外星人",
+      "synonyms": [
+        "alien",
+        "otherworldly",
+        "space-born"
+      ],
+      "antonyms": [
+        "terrestrial",
+        "earthbound",
+        "native"
+      ],
+      "root_note": "extra- (outside) + terrestrial (of Earth)",
+      "sentences": [
+        {
+          "en": "Laboratory analysis confirmed the meteorite's ______ origin.",
+          "zh": "實驗室分析證實這顆隕石源自地球之外。"
+        },
+        {
+          "en": "The Mars rover will search for signs of primitive ______ life.",
+          "zh": "火星探測器將尋找原始外星生命的跡象。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "17",
+        "spelling": "extra",
+        "meaning": "外；超出；額外"
+      }
+    },
+    {
+      "word": "extrasensory",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "perceived by means outside the normal five physical senses:",
+      "defn_zh": "超感官的；第六感的",
+      "synonyms": [
+        "psychic",
+        "telepathic",
+        "clairvoyant",
+        "intuitive"
+      ],
+      "antonyms": [
+        "sensory",
+        "physical",
+        "tangible",
+        "palpable"
+      ],
+      "root_note": "extra- (beyond) + sensory (relating to the senses)",
+      "sentences": [
+        {
+          "en": "The character possessed ______ perception that warned her of danger before it occurred.",
+          "zh": "這個角色擁有超感官知覺，能在危險發生前得到警示。"
+        },
+        {
+          "en": "Researchers conducted controlled tests of claimed ______ mind-reading abilities.",
+          "zh": "研究人員進行對照實驗，測試所宣稱的超感官讀心能力。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "17",
+        "spelling": "extra",
+        "meaning": "外；超出；額外"
+      }
+    },
+    {
+      "word": "extravasate",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to force out or allow fluid to escape from a vessel into surrounding tissue or material:",
+      "defn_zh": "使外滲；使外溢",
+      "synonyms": [
+        "leak",
+        "exude",
+        "discharge",
+        "overflow"
+      ],
+      "antonyms": [
+        "absorb",
+        "contain",
+        "retain"
+      ],
+      "root_note": "extra- (outside) + vas (vessel) + -ate (make or act)",
+      "sentences": [
+        {
+          "en": "During inflammation, white blood cells may ______ through vessel walls to fight infection.",
+          "zh": "發炎時，白血球可能穿過血管壁外滲以對抗感染。"
+        },
+        {
+          "en": "Tectonic pressure caused magma to ______ through deep cracks in the rock.",
+          "zh": "地殼壓力使岩漿穿過岩石深層裂縫外溢。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "17",
+        "spelling": "extra",
+        "meaning": "外；超出；額外"
+      }
+    },
+    {
+      "word": "extramundane",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "situated outside or beyond the physical world; spiritual or unearthly:",
+      "defn_zh": "超出塵世的；世界之外的；超俗的",
+      "synonyms": [
+        "otherworldly",
+        "ethereal",
+        "spiritual",
+        "cosmic"
+      ],
+      "antonyms": [
+        "mundane",
+        "worldly",
+        "earthly",
+        "secular"
+      ],
+      "root_note": "extra- (outside or beyond) + mundane (worldly)",
+      "sentences": [
+        {
+          "en": "The philosopher described an ______ reality beyond ordinary ideas of time and space.",
+          "zh": "哲學家描述一個超越一般時間與空間概念的世界之外實相。"
+        },
+        {
+          "en": "The glowing desert landscape gave the painting an ______ quality.",
+          "zh": "發光的沙漠景觀使這幅畫呈現超凡脫俗的特質。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "17",
+        "spelling": "extra",
+        "meaning": "外；超出；額外"
       }
     }
   ],
@@ -138,19 +444,29 @@
         "derived_from": "extraneous"
       },
       {
-        "word": "extraordinariness",
-        "pos": "n.",
-        "pos_key": "n.",
-        "defn_en": "the quality of being very unusual or remarkable:",
-        "defn_zh": "非凡；異常；卓越",
-        "derived_from": "extraordinary"
-      },
-      {
         "word": "extravagance",
         "pos": "n.",
         "pos_key": "n.",
         "defn_en": "excessive spending or behavior that lacks restraint:",
         "defn_zh": "奢侈；揮霍；過度",
+        "derived_from": "extravagant"
+      },
+      {
+        "word": "extradition",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the official surrender of a suspect or convicted person to another jurisdiction:",
+        "defn_zh": "引渡",
+        "derived_from": "extradite"
+      }
+    ],
+    "v.": [
+      {
+        "word": "extravagate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to wander beyond limits or depart from what is reasonable:",
+        "defn_zh": "越界遊蕩；偏離常理",
         "derived_from": "extravagant"
       }
     ]
