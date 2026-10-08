@@ -4,7 +4,7 @@
     "total_batches": 236,
     "part1_part2_batches": 159,
     "unclassified_batches": 77,
-    "generated_batches": 107
+    "generated_batches": 108
   },
   "batches": [
     {
@@ -1084,7 +1084,7 @@
       "name": "ject",
       "subtitle": "投；擲",
       "count": 10,
-      "generated": false,
+      "generated": true,
       "search_terms": "interject conjecture gist jettison abject abjection dejected reject rejection subject"
     },
     {
