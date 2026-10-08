@@ -1,0 +1,152 @@
+{
+  "id": "p2-72-plor",
+  "merge_with_source": true,
+  "name": "plor",
+  "subtitle": "哭喊；懇求；哀嘆；探索",
+  "words": [
+    {
+      "word": "implore", "pos": "v.", "pos_key": "v.",
+      "defn_en": "to beg someone urgently and sincerely to do something:",
+      "defn_zh": "懇求；哀求；乞求",
+      "root_note": "im- or in- (into, upon, or thoroughly) + plor (cry out or weep)",
+      "synonyms": ["beseech", "entreat", "plead", "supplicate"], "antonyms": ["command", "demand", "refuse"],
+      "sentences": [
+        {"en": "As the storm tore at the shelter, the terrified villagers fell to their knees to ______ the heavens for mercy.", "zh": "暴風雨撕裂避難所時，驚恐的村民跪地懇求上天賜予慈悲。"},
+        {"en": "The defense attorney chose to ______ the jury to consider the defendant's youth before sentencing him.", "zh": "辯護律師懇求陪審團在量刑前考慮被告年輕。"}
+      ],
+      "category": {"part": 2, "num": "72", "spelling": "plor", "meaning": "哭喊；懇求；哀嘆；探索"}
+    },
+    {
+      "word": "deplorable", "pos": "adj.", "pos_key": "adj.",
+      "defn_en": "shockingly bad, disgraceful, or deserving strong condemnation:",
+      "defn_zh": "糟糕至極的；應受譴責的；可悲的",
+      "root_note": "de- (thoroughly or down) + plor (cry out, weep, or bewail) + -able (worthy of)",
+      "synonyms": ["disgraceful", "appalling", "wretched", "reprehensible"], "antonyms": ["admirable", "excellent", "commendable"],
+      "sentences": [
+        {"en": "Observers condemned the prison camp's ______ lack of sanitation, food, and medical supplies.", "zh": "觀察員譴責戰俘營缺乏衛生、食物與醫療物資的糟糕狀況。"},
+        {"en": "Inspectors found the elementary school's foundation in a ______ state of decay.", "zh": "檢查人員發現這所小學的地基已處於破敗不堪的狀態。"}
+      ],
+      "category": {"part": 2, "num": "72", "spelling": "plor", "meaning": "哭喊；懇求；哀嘆；探索"}
+    },
+    {
+      "word": "deplore", "pos": "v.", "pos_key": "v.",
+      "defn_en": "to feel or express deep regret, sorrow, or strong disapproval about something:",
+      "defn_zh": "深感遺憾；哀嘆；強烈譴責",
+      "root_note": "de- (thoroughly) + plor (cry out or weep)",
+      "synonyms": ["lament", "condemn", "regret", "denounce"], "antonyms": ["applaud", "approve", "celebrate"],
+      "sentences": [
+        {"en": "Environmentalists strongly ______ the decision to clear-cut the ancient redwood forest.", "zh": "環保人士強烈反對並痛惜砍伐古老紅杉林的決定。"},
+        {"en": "The ethics committee issued a statement to ______ the researcher's fraudulent manipulation of data.", "zh": "倫理委員會發表聲明，強烈譴責研究人員篡改資料的欺詐行為。"}
+      ],
+      "category": {"part": 2, "num": "72", "spelling": "plor", "meaning": "哭喊；懇求；哀嘆；探索"}
+    },
+    {
+      "word": "explore", "pos": "v.", "pos_key": "v.",
+      "defn_en": "to travel through, examine, or discuss an unfamiliar place, subject, or possibility in detail:",
+      "defn_zh": "探索；勘查；探討；研究",
+      "root_note": "ex- (out) + plor (cry out or search, historically scouting by shouting)",
+      "synonyms": ["investigate", "examine", "survey", "probe"], "antonyms": ["ignore", "avoid", "overlook"],
+      "sentences": [
+        {"en": "Marine biologists prepared to ______ the deepest trenches with sonar and pressurized submarines.", "zh": "海洋生物學家準備使用聲納和加壓潛水艇探索最深海溝。"},
+        {"en": "The essay will ______ how neurotechnology might compromise human free will.", "zh": "這篇文章將探討神經科技可能如何損害人類自由意志。"}
+      ],
+      "category": {"part": 2, "num": "72", "spelling": "plor", "meaning": "哭喊；懇求；哀嘆；探索"}
+    },
+    {
+      "word": "exploration", "pos": "n.", "pos_key": "n.",
+      "defn_en": "the act or process of investigating, traveling through, or examining a place, subject, or idea:",
+      "defn_zh": "探索；勘查；探究；剖析",
+      "root_note": "ex- (out) + plor (search) + -ation (act or process)",
+      "synonyms": ["investigation", "expedition", "inquiry", "survey"], "antonyms": ["neglect", "avoidance", "ignorance"],
+      "sentences": [
+        {"en": "The agency argued that robotic ______ of Mars could reveal clues about early planetary life.", "zh": "航太機構認為，機器人探索火星可以揭示早期行星生命的線索。"},
+        {"en": "The course offers an in-depth ______ of nineteenth-century Gothic fiction.", "zh": "這門課深入探究十九世紀哥德式小說。"}
+      ],
+      "category": {"part": 2, "num": "72", "spelling": "plor", "meaning": "哭喊；懇求；哀嘆；探索"}
+    },
+    {
+      "word": "exploratory", "pos": "adj.", "pos_key": "adj.",
+      "defn_en": "intended to investigate, discover, or test possibilities before making a final decision:",
+      "defn_zh": "探索性的；初步勘查的；摸底的",
+      "root_note": "ex- (out) + plor (search) + -atory (serving for or relating to)",
+      "synonyms": ["investigative", "preliminary", "probing", "experimental"], "antonyms": ["conclusive", "final", "definitive"],
+      "sentences": [
+        {"en": "The pharmaceutical firm conducted an ______ study before beginning full-scale clinical trials.", "zh": "製藥公司在全面臨床試驗前先進行探索性研究。"},
+        {"en": "The corporations held a confidential ______ meeting to discuss a possible merger.", "zh": "兩家公司舉行保密的摸底會議，討論可能的合併。"}
+      ],
+      "category": {"part": 2, "num": "72", "spelling": "plor", "meaning": "哭喊；懇求；哀嘆；探索"}
+    },
+    {
+      "word": "beseech", "pos": "v.", "pos_key": "v.",
+      "defn_en": "to ask someone earnestly and urgently for something:",
+      "defn_zh": "懇求；哀求；乞求",
+      "root_note": "Germanic origin meaning to seek after or beg thoroughly",
+      "synonyms": ["implore", "entreat", "plead", "supplicate"], "antonyms": ["command", "order", "reject"],
+      "sentences": [
+        {"en": "The penniless refugees gathered at the embassy to ______ the government for food rations.", "zh": "一貧如洗的難民聚集在大使館，懇求政府提供糧食配給。"},
+        {"en": "The princess returned to court to ______ her father to pardon the political prisoners.", "zh": "公主回到宮廷，懇求父親赦免政治犯。"}
+      ],
+      "category": {"part": 2, "num": "72", "spelling": "plor", "meaning": "哭喊；懇求；哀嘆；探索"}
+    },
+    {
+      "word": "lament", "pos": "n. / v.", "pos_key": "v.",
+      "defn_en": "to express deep sorrow, grief, or regret; an expression or song of mourning:",
+      "defn_zh": "悲嘆；哀悼；抱怨；輓歌",
+      "root_note": "Latin lamentum (wailing, moaning, or crying out in sorrow)",
+      "synonyms": ["mourn", "grieve", "deplore", "elegy"], "antonyms": ["rejoice", "celebrate", "applaud"],
+      "sentences": [
+        {"en": "Farmers continue to ______ the new water restrictions that threaten their crop yields.", "zh": "農民持續哀嘆新的用水限制會危及農作物產量。"},
+        {"en": "The elegiac poem was written as a moving ______ for soldiers killed in battle.", "zh": "這首輓歌是為戰役中陣亡士兵所寫的感人悼詞。"}
+      ],
+      "category": {"part": 2, "num": "72", "spelling": "plor", "meaning": "哭喊；懇求；哀嘆；探索"}
+    },
+    {
+      "word": "supplicate", "pos": "v.", "pos_key": "v.",
+      "defn_en": "to ask or beg for something humbly and earnestly:",
+      "defn_zh": "祈求；哀求；卑微地懇求",
+      "root_note": "sub- (under) + plicare (fold or bend), suggesting bending the knees to beg",
+      "synonyms": ["beseech", "implore", "entreat", "petition"], "antonyms": ["demand", "command", "refuse"],
+      "sentences": [
+        {"en": "The defeated faction chose to ______ before the king for permission to retain its local laws.", "zh": "戰敗派系選擇在國王面前哀求保留當地法律。"},
+        {"en": "Officials were forced to ______ for forgiveness after the audit exposed their failure.", "zh": "審計揭露失誤後，官員被迫懇求原諒。"}
+      ],
+      "category": {"part": 2, "num": "72", "spelling": "plor", "meaning": "哭喊；懇求；哀嘆；探索"}
+    },
+    {
+      "word": "scrutinize", "pos": "v.", "pos_key": "v.",
+      "defn_en": "to examine something very carefully in order to detect details, problems, or hidden meaning:",
+      "defn_zh": "仔細檢查；審查；細讀；審視",
+      "root_note": "Latin scrutari (to search thoroughly, originally through discarded material)",
+      "synonyms": ["inspect", "examine", "analyze", "probe"], "antonyms": ["overlook", "glance", "ignore"],
+      "sentences": [
+        {"en": "Auditors met to ______ every line of the developer's tax and asset records.", "zh": "審計人員仔細審查開發商稅務與資產紀錄的每一行。"},
+        {"en": "Critics ______ an author's syntax to uncover symbolic meanings hidden in the text.", "zh": "評論家細讀作者的句法，以找出文本中隱藏的象徵意義。"}
+      ],
+      "category": {"part": 2, "num": "72", "spelling": "plor", "meaning": "哭喊；懇求；哀嘆；探索"}
+    },
+    {
+      "word": "querulous", "pos": "adj.", "pos_key": "adj.",
+      "defn_en": "often complaining in an irritated, whining, or dissatisfied manner:",
+      "defn_zh": "愛發牢騷的；怨天尤人的；抱怨不停的",
+      "root_note": "Latin queri (to complain or cry out in a whining manner)",
+      "synonyms": ["complaining", "peevish", "whiny", "discontented"], "antonyms": ["cheerful", "contented", "uncomplaining"],
+      "sentences": [
+        {"en": "The exhausting desert journey turned the tourists into a ______ group complaining about everything.", "zh": "疲憊的沙漠旅程讓遊客變成一群對任何事都抱怨不停的人。"},
+        {"en": "The manager handled the ______ client calmly and resolved each minor grievance.", "zh": "經理冷靜接待愛抱怨的客戶，逐一解決每項小不滿。"}
+      ],
+      "category": {"part": 2, "num": "72", "spelling": "plor", "meaning": "哭喊；懇求；哀嘆；探索"}
+    },
+    {
+      "word": "delve", "pos": "v.", "pos_key": "v.",
+      "defn_en": "to investigate or research a subject deeply and carefully:",
+      "defn_zh": "深入探究；鑽研；挖掘",
+      "root_note": "Germanic origin meaning to dig down with a spade",
+      "synonyms": ["investigate", "probe", "research", "dig into"], "antonyms": ["skim", "ignore", "overlook"],
+      "sentences": [
+        {"en": "The historian had to ______ into dusty archives and family letters to write an authentic biography.", "zh": "歷史學家必須深入鑽研塵封檔案與家族書信，才能寫出真實傳記。"},
+        {"en": "The documentary will ______ into structural corruption within the municipal police department.", "zh": "這部紀錄片將深入挖掘市警局內部的結構性腐敗。"}
+      ],
+      "category": {"part": 2, "num": "72", "spelling": "plor", "meaning": "哭喊；懇求；哀嘆；探索"}
+    }
+  ]
+}

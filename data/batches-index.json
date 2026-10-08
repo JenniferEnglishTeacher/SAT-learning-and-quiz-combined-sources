@@ -4,7 +4,7 @@
     "total_batches": 236,
     "part1_part2_batches": 159,
     "unclassified_batches": 77,
-    "generated_batches": 157
+    "generated_batches": 158
   },
   "batches": [
     {
@@ -1582,10 +1582,10 @@
       "part": "part2",
       "part_label": "Part 2 字根篇 (Roots)",
       "name": "plor",
-      "subtitle": "哭喊；懇求",
-      "count": 3,
-      "generated": false,
-      "search_terms": "implore deplorable deplore"
+      "subtitle": "哭喊；懇求；哀嘆；探索",
+      "count": 12,
+      "generated": true,
+      "search_terms": "implore deplorable deplore explore exploration exploratory beseech lament supplicate scrutinize querulous delve"
     },
     {
       "id": "p2-73-fer-lat",
