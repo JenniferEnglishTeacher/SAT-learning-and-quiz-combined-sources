@@ -1,0 +1,922 @@
+{
+  "id": "p2-64-sci-gnos",
+  "part": "part2",
+  "part_label": "Part 2 字根篇 (Roots)",
+  "name": "sci；gnos",
+  "subtitle": "知道",
+  "count": 21,
+  "words": [
+    {
+      "word": "prognosticate",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to predict or foretell a future event:",
+      "defn_zh": "預言",
+      "root_note": "pro- (before) + gnosko (know)",
+      "sentences": [
+        {
+          "en": "Economists ______ that prices will keep rising throughout the year.",
+          "zh": "經濟學家預言物價將在這一年持續上漲。"
+        },
+        {
+          "en": "It is difficult to ______ exactly when the storm will hit the coast.",
+          "zh": "很難準確預言暴風雨何時會侵襲海岸。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "64",
+        "spelling": "sci；gnos",
+        "meaning": "知道"
+      }
+    },
+    {
+      "word": "cognizant",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "aware:",
+      "defn_zh": "認識到的",
+      "root_note": "con- (with) + gnoscere (to know)",
+      "sentences": [
+        {
+          "en": "Drivers must remain ______ of pedestrians when turning at intersections.",
+          "zh": "駕駛在路口轉彎時必須隨時意識到行人的存在。"
+        },
+        {
+          "en": "She was fully ______ of the risks before starting her own business.",
+          "zh": "在創業之前,她完全意識到其中的風險。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "64",
+        "spelling": "sci；gnos",
+        "meaning": "知道"
+      }
+    },
+    {
+      "word": "connoisseur",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "expert:",
+      "defn_zh": "鑑賞家/行家",
+      "root_note": "con- (with) + gnoscere (to know)",
+      "sentences": [
+        {
+          "en": "He considers himself a ______ of fine wine.",
+          "zh": "他自認是一位美酒鑑賞行家。"
+        },
+        {
+          "en": "As a ______ of classical music, she rarely missed a symphony performance.",
+          "zh": "身為古典音樂的行家,她幾乎不會錯過任何一場交響樂演出。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "64",
+        "spelling": "sci；gnos",
+        "meaning": "知道"
+      }
+    },
+    {
+      "word": "unconscionable",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "unreasonable, unjust:",
+      "defn_zh": "沒良心的/不合理的",
+      "root_note": "un- (not) + con- (with) + scire (to know)",
+      "sentences": [
+        {
+          "en": "Charging that much for a bottle of water is simply ______.",
+          "zh": "為一瓶水收取那麼高的費用實在毫無道理。"
+        },
+        {
+          "en": "It would be ______ to fire her without any warning.",
+          "zh": "毫無預警就解僱她,實在是說不過去。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "64",
+        "spelling": "sci；gnos",
+        "meaning": "知道"
+      }
+    },
+    {
+      "word": "conscientious",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "relating to doing what one knows is right; scrupulous",
+      "defn_zh": "認真負責的",
+      "root_note": "con- (together) + scire (to know)",
+      "sentences": [
+        {
+          "en": "The ______ student double-checked every answer before submitting the exam.",
+          "zh": "這位認真負責的學生在交卷前把每個答案都檢查了一遍。"
+        },
+        {
+          "en": "He was known as a ______ worker who never missed a deadline.",
+          "zh": "他以認真負責、從不錯過截止期限的員工形象聞名。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "64",
+        "spelling": "sci；gnos",
+        "meaning": "知道"
+      }
+    },
+    {
+      "word": "agnosia",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a loss of the ability to recognize objects, faces, or sounds despite normal senses:",
+      "defn_zh": "失認症",
+      "root_note": "a- (without) + gnosis (knowledge, from Greek)",
+      "sentences": [
+        {
+          "en": "After the stroke, he developed visual ______ and could no longer recognize familiar faces.",
+          "zh": "中風後,他罹患了視覺失認症,再也無法辨認熟悉的臉孔。"
+        },
+        {
+          "en": "The neurologist explained that ______ affects perception, not the eyes or ears themselves.",
+          "zh": "神經科醫師解釋,失認症影響的是知覺,而非眼睛或耳朵本身。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "64",
+        "spelling": "sci；gnos",
+        "meaning": "知道"
+      }
+    },
+    {
+      "word": "agnostic",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "believing that the existence of God cannot be proven or disproven:",
+      "defn_zh": "不可知論的",
+      "root_note": "a- (not) + gnosis (knowledge, Greek)",
+      "sentences": [
+        {
+          "en": "He describes himself as ______ rather than atheist.",
+          "zh": "他形容自己是不可知論者,而非無神論者。"
+        },
+        {
+          "en": "The philosopher remained ______ about questions that science could not answer.",
+          "zh": "這位哲學家對科學無法解答的問題始終抱持不可知的態度。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "64",
+        "spelling": "sci；gnos",
+        "meaning": "知道"
+      }
+    },
+    {
+      "word": "agnosticism",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "the view that the existence of God or the ultimate nature of things is unknown or unknowable:",
+      "defn_zh": "不可知論",
+      "root_note": "a- (without) + gnosis (knowledge, from Greek)",
+      "sentences": [
+        {
+          "en": "He described his ______ as simply admitting he didn't have enough evidence either way.",
+          "zh": "他形容自己的不可知論,只是坦承自己在正反兩方都缺乏足夠證據。"
+        },
+        {
+          "en": "Her ______ frustrated relatives who wanted a firm answer about her beliefs.",
+          "zh": "她的不可知論讓那些想要明確答案的親戚感到十分沮喪。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "64",
+        "spelling": "sci；gnos",
+        "meaning": "知道"
+      }
+    },
+    {
+      "word": "cognitive",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "relating to the mental processes of perception, memory, judgment, and reasoning:",
+      "defn_zh": "認知的",
+      "root_note": "cum- (with) + gnoscere (to know)",
+      "sentences": [
+        {
+          "en": "______ development is essential for young children as they learn new skills.",
+          "zh": "認知發展對幼兒學習新技能而言至關重要。"
+        },
+        {
+          "en": "The puzzle was designed to test the patient's ______ abilities.",
+          "zh": "這項拼圖遊戲是為了測試病人的認知能力而設計的。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "64",
+        "spelling": "sci；gnos",
+        "meaning": "知道"
+      }
+    },
+    {
+      "word": "conscience",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "an inner sense of right and wrong that guides behavior:",
+      "defn_zh": "良心;良知",
+      "root_note": "con- (with) + scio (know), from Latin",
+      "sentences": [
+        {
+          "en": "Her ______ wouldn't let her keep the extra change the cashier gave her.",
+          "zh": "她的良心不允許她把收銀員多找的零錢留下來。"
+        },
+        {
+          "en": "He confessed out of a guilty ______ .",
+          "zh": "他因良心不安而坦白認錯。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "64",
+        "spelling": "sci；gnos",
+        "meaning": "知道"
+      }
+    },
+    {
+      "word": "conscionable",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "conforming to what is right or reasonable:",
+      "defn_zh": "合乎良心的;公道的",
+      "root_note": "con- (together) + scire (to know), from Latin",
+      "sentences": [
+        {
+          "en": "Is it even ______ to charge such high prices during a shortage?",
+          "zh": "在物資短缺時收取這麼高的價格,這樣做真的合乎良心嗎?"
+        },
+        {
+          "en": "The company insisted its labor practices were entirely ______.",
+          "zh": "這家公司堅稱他們的勞動作法完全合乎道德良心。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "64",
+        "spelling": "sci；gnos",
+        "meaning": "知道"
+      }
+    },
+    {
+      "word": "nescient",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "lacking knowledge; ignorant:",
+      "defn_zh": "無知的;不知情的",
+      "root_note": "ne- (not) + scio (know), from Latin",
+      "sentences": [
+        {
+          "en": "He remained ______ of the scandal brewing behind closed doors.",
+          "zh": "他對這場在幕後醞釀的醜聞始終一無所知。"
+        },
+        {
+          "en": "The report criticized officials as ______ of the community's real needs.",
+          "zh": "這份報告批評官員對這個社區真正的需求一無所知。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "64",
+        "spelling": "sci；gnos",
+        "meaning": "知道"
+      }
+    },
+    {
+      "word": "omniscient",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "knowing, seeing, or understanding everything:",
+      "defn_zh": "全知的/無所不知的",
+      "root_note": "omnis (all) + scire (to know)",
+      "sentences": [
+        {
+          "en": "The novel is narrated by an ______ voice that reveals every character's thoughts.",
+          "zh": "這部小說由一個全知的敘述者講述,揭露每個角色的內心想法。"
+        },
+        {
+          "en": "Ancient myths often depicted their gods as ______ beings.",
+          "zh": "古代神話經常將祂們的神祇描繪成全知全能的存在。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "64",
+        "spelling": "sci；gnos",
+        "meaning": "知道"
+      }
+    },
+    {
+      "word": "plebiscite",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a direct vote by the electorate on a specific issue:",
+      "defn_zh": "公民投票",
+      "root_note": "plebs (common people) + scitum (decree), from Latin",
+      "sentences": [
+        {
+          "en": "The nation held a ______ to decide on independence.",
+          "zh": "這個國家舉行了一場公民投票,以決定是否獨立。"
+        },
+        {
+          "en": "Voter turnout for the ______ exceeded all expectations.",
+          "zh": "這場公民投票的投票率超乎所有人的預期。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "64",
+        "spelling": "sci；gnos",
+        "meaning": "知道"
+      }
+    },
+    {
+      "word": "prescience",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "knowledge of events before they happen; foresight:",
+      "defn_zh": "先見之明;預知能力",
+      "root_note": "prae- (before) + scire (to know), from Latin",
+      "sentences": [
+        {
+          "en": "Her uncanny ______ allowed her to anticipate the market crash.",
+          "zh": "她驚人的先見之明讓她能夠預見這場市場崩盤。"
+        },
+        {
+          "en": "The author's ______ about future technology impressed later readers.",
+          "zh": "這位作者對未來科技的先見之明讓後世的讀者印象深刻。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "64",
+        "spelling": "sci；gnos",
+        "meaning": "知道"
+      }
+    },
+    {
+      "word": "prescient",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "to have foreknowledge of events:",
+      "defn_zh": "有先見之明的",
+      "root_note": "prae- (before) + scire (to know)",
+      "sentences": [
+        {
+          "en": "Her ______ warnings about the market crash proved entirely accurate.",
+          "zh": "她對市場崩盤具有先見之明的警告,後來證實完全正確。"
+        },
+        {
+          "en": "The novel's ______ depiction of future technology impressed critics decades later.",
+          "zh": "這部小說對未來科技具有先見之明的描寫,數十年後仍讓評論家印象深刻。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "64",
+        "spelling": "sci；gnos",
+        "meaning": "知道"
+      }
+    },
+    {
+      "word": "science",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "the systematic study of the natural world through observation and experiment:",
+      "defn_zh": "科學",
+      "root_note": "scientia (knowledge), from Latin scire (to know)",
+      "sentences": [
+        {
+          "en": "She has always had a passion for ______ and discovery.",
+          "zh": "她一直對科學與探索抱有熱情。"
+        },
+        {
+          "en": "Advances in medical ______ have extended average life expectancy.",
+          "zh": "醫學科學的進步延長了人類的平均壽命。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "64",
+        "spelling": "sci；gnos",
+        "meaning": "知道"
+      }
+    },
+    {
+      "word": "scintillating",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "sparkling:",
+      "defn_zh": "閃耀的/機智風趣的",
+      "root_note": "scintilla (spark)",
+      "sentences": [
+        {
+          "en": "Her ______ wit made her the most sought-after guest at every dinner party.",
+          "zh": "她閃耀機智的談吐讓她成為每場晚宴上最受歡迎的賓客。"
+        },
+        {
+          "en": "The ______ chandelier cast a thousand tiny lights across the ballroom.",
+          "zh": "這座閃耀的水晶吊燈在舞廳灑下上千點細碎的光芒。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "64",
+        "spelling": "sci；gnos",
+        "meaning": "知道"
+      }
+    },
+    {
+      "word": "sciolism",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "superficial knowledge presented as if it were deep understanding:",
+      "defn_zh": "一知半解;膚淺的學識",
+      "root_note": "sciolus (one who knows a little), from Latin scire (to know)",
+      "sentences": [
+        {
+          "en": "The lecture was full of ______ , impressing novices but not experts.",
+          "zh": "這場講座充斥著一知半解的學識,只能唬住新手,無法說服專家。"
+        },
+        {
+          "en": "Critics accused the author of ______ rather than genuine scholarship.",
+          "zh": "評論家指控這位作者不過是一知半解,而非真正的學術造詣。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "64",
+        "spelling": "sci；gnos",
+        "meaning": "知道"
+      }
+    },
+    {
+      "word": "sciolist",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a person who has only superficial knowledge of a subject but claims expertise:",
+      "defn_zh": "一知半解者;冒充內行的人",
+      "root_note": "sciolus (one who knows a little), from Latin scire (to know)",
+      "sentences": [
+        {
+          "en": "The panel exposed him as a mere ______ with no real expertise.",
+          "zh": "這場座談會揭露他不過是個毫無真才實學的一知半解者。"
+        },
+        {
+          "en": "She dismissed the self-proclaimed expert as a shallow ______ .",
+          "zh": "她認為這位自稱專家的人只是個膚淺的冒牌內行。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "64",
+        "spelling": "sci；gnos",
+        "meaning": "知道"
+      }
+    },
+    {
+      "word": "shine",
+      "pos": "v./n.",
+      "pos_key": "v.",
+      "defn_en": "to emit or reflect light; brightness:",
+      "defn_zh": "發光;光澤",
+      "root_note": "scinan (to shine), from Old English",
+      "sentences": [
+        {
+          "en": "The stars began to ______ brightly once the clouds cleared.",
+          "zh": "雲層散去後,星星開始明亮地閃耀。"
+        },
+        {
+          "en": "Her hair had a healthy ______ after using the new shampoo.",
+          "zh": "使用這款新洗髮精後,她的頭髮有著健康的光澤。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "64",
+        "spelling": "sci；gnos",
+        "meaning": "知道"
+      }
+    }
+  ],
+  "family_options": {},
+  "fallback_options": {
+    "v.": [
+      {
+        "word": "abound",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to exist in great numbers:",
+        "defn_zh": "充滿"
+      },
+      {
+        "word": "abrogate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to deprive of legal force, to nullify:=abolish",
+        "defn_zh": "廢除/取消"
+      },
+      {
+        "word": "abjure",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to renounce, abstain from:",
+        "defn_zh": "發誓放棄/棄絕"
+      },
+      {
+        "word": "abbreviate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to shorten a word or phrase:",
+        "defn_zh": "縮寫;縮短"
+      },
+      {
+        "word": "abdicate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to give up a position, usually one of leadership:",
+        "defn_zh": "退位/放棄(職位)"
+      },
+      {
+        "word": "abduct",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to kidnap, take by force:",
+        "defn_zh": "綁架/劫持"
+      },
+      {
+        "word": "abhor",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to regard with disgust and hatred:",
+        "defn_zh": "憎惡/厭惡"
+      },
+      {
+        "word": "abnegate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to deny or renounce:",
+        "defn_zh": "放棄/克制"
+      },
+      {
+        "word": "abolish",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to formally put an end to a system, practice, or institution:",
+        "defn_zh": "廢除"
+      },
+      {
+        "word": "abort",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to give up on a half-finished project or effort:",
+        "defn_zh": "中止/放棄"
+      },
+      {
+        "word": "abrade",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to scrape or wear away by friction:",
+        "defn_zh": "磨損;擦傷"
+      },
+      {
+        "word": "abscond",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to sneak away and hide:",
+        "defn_zh": "潛逃/逃匿"
+      }
+    ],
+    "adj.": [
+      {
+        "word": "abortive",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "fruitless, failing:",
+        "defn_zh": "失敗的/夭折的"
+      },
+      {
+        "word": "abstemious",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "moderate in eating or drinking:",
+        "defn_zh": "飲食有節制的"
+      },
+      {
+        "word": "abhorrent",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "detestable, despised:",
+        "defn_zh": "令人厭惡的"
+      },
+      {
+        "word": "absurd",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "ridiculous:",
+        "defn_zh": "荒謬的"
+      },
+      {
+        "word": "aberrant",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "deviating from what is normal or expected:",
+        "defn_zh": "異常的;脫軌的"
+      },
+      {
+        "word": "abject",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "wretched, pitiful:",
+        "defn_zh": "卑賤的/淒慘的"
+      },
+      {
+        "word": "abominable",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "causing moral revulsion; extremely unpleasant:",
+        "defn_zh": "可憎的;惡劣的"
+      },
+      {
+        "word": "abounding",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "existing in large numbers or amounts:",
+        "defn_zh": "大量存在的;豐富的"
+      },
+      {
+        "word": "abrasive",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "showing little concern for others; harsh:",
+        "defn_zh": "粗暴的/刺耳的"
+      },
+      {
+        "word": "abrupt",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "sudden or unexpected; brief and curt in manner:",
+        "defn_zh": "突然的/唐突的"
+      },
+      {
+        "word": "abstract",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "existing purely in the mind; not representing actual reality:",
+        "defn_zh": "抽象的"
+      },
+      {
+        "word": "abstruse",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "hard to comprehend:",
+        "defn_zh": "深奧難懂的"
+      }
+    ],
+    "n.": [
+      {
+        "word": "aversion",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "strong dislike, opposition:",
+        "defn_zh": "厭惡/反感"
+      },
+      {
+        "word": "aberration",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "something that differs from the norm:",
+        "defn_zh": "異常/脫軌"
+      },
+      {
+        "word": "abjection",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a state of complete misery, hopelessness, or degradation:",
+        "defn_zh": "卑賤;悲慘狀態"
+      },
+      {
+        "word": "abjuration",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the solemn renunciation of a belief, cause, or claim:",
+        "defn_zh": "公開放棄;誓絕"
+      },
+      {
+        "word": "ablution",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the act of washing oneself, especially as part of a religious ritual:",
+        "defn_zh": "沐浴;淨身儀式"
+      },
+      {
+        "word": "abnegation",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "denial of comfort to oneself:",
+        "defn_zh": "自我克制/放棄"
+      },
+      {
+        "word": "abomination",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "something that causes disgust or hatred:",
+        "defn_zh": "可憎之事;令人厭惡的東西"
+      },
+      {
+        "word": "abridgement",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a shortened version of a book or other written work:",
+        "defn_zh": "節略本;縮減版"
+      },
+      {
+        "word": "absolution",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "freedom from blame, guilt, sin:",
+        "defn_zh": "赦免/免罪"
+      },
+      {
+        "word": "abstemiousness",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "moderation or self-restraint, especially in eating and drinking:",
+        "defn_zh": "節制;克己"
+      },
+      {
+        "word": "abstinence",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the practice of restraining oneself from something enjoyable, especially food, alcohol, or sex:",
+        "defn_zh": "節制;戒絕"
+      },
+      {
+        "word": "avocation",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a hobby or minor occupation apart from one's main career:",
+        "defn_zh": "副業;業餘愛好"
+      }
+    ],
+    "adv.": [
+      {
+        "word": "accordingly",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in a manner that fits the circumstances; consequently:",
+        "defn_zh": "相應地;因此"
+      },
+      {
+        "word": "inadvertently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "unintentionally or by accident:",
+        "defn_zh": "無意間/不小心地"
+      },
+      {
+        "word": "consequently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "as a result; therefore:",
+        "defn_zh": "因此;結果"
+      },
+      {
+        "word": "contemptuously",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "without respect; in a disdainful manner:",
+        "defn_zh": "輕蔑地"
+      },
+      {
+        "word": "involuntarily",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "done without conscious control:",
+        "defn_zh": "不由自主地"
+      },
+      {
+        "word": "cordially",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in a warm or friendly manner:",
+        "defn_zh": "誠摯地/友好地"
+      },
+      {
+        "word": "ipso facto",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "by that very fact or act:",
+        "defn_zh": "事實上;因此"
+      },
+      {
+        "word": "en passant",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in passing; incidentally:",
+        "defn_zh": "順帶一提地;偶然地"
+      },
+      {
+        "word": "regardless",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "despite the prevailing circumstances; without being deterred:",
+        "defn_zh": "不管怎樣;儘管如此"
+      },
+      {
+        "word": "subsequently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "afterward; following in time or order:",
+        "defn_zh": "隨後;其後"
+      },
+      {
+        "word": "aside",
+        "pos": "adv./n.",
+        "pos_key": "adv.",
+        "defn_en": "to or on one side; a remark not meant to be heard by everyone:",
+        "defn_zh": "在旁邊;旁白"
+      },
+      {
+        "word": "vice versa",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "with the order or meaning reversed; conversely:",
+        "defn_zh": "反之亦然"
+      }
+    ],
+    "other": [
+      {
+        "word": "（此批單字中，暫無符合此字根/字首的單字）",
+        "pos": "",
+        "pos_key": "other",
+        "defn_en": "",
+        "defn_zh": ""
+      }
+    ],
+    "prep./adv.": [
+      {
+        "word": "besides",
+        "pos": "prep./adv.",
+        "pos_key": "prep./adv.",
+        "defn_en": "in addition to; furthermore:",
+        "defn_zh": "除...之外;此外"
+      }
+    ],
+    "phrasalv.": [
+      {
+        "word": "egg on",
+        "pos": "phrasal v.",
+        "pos_key": "phrasalv.",
+        "defn_en": "to encourage someone to do something, often risky:",
+        "defn_zh": "慫恿;鼓動"
+      }
+    ],
+    "abbr.": [
+      {
+        "word": "etc.",
+        "pos": "abbr.",
+        "pos_key": "abbr.",
+        "defn_en": "and other similar things (abbreviation of et cetera):",
+        "defn_zh": "等等(et cetera的縮寫)"
+      }
+    ],
+    "interj.": [
+      {
+        "word": "fiddledeedee",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "an exclamation expressing dismissal of something as nonsense:",
+        "defn_zh": "廢話!(表示不屑一顧)"
+      },
+      {
+        "word": "gesundheit",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "an expression said to someone who has just sneezed:",
+        "defn_zh": "保重(打噴嚏後的祝福語)"
+      }
+    ],
+    "prep.": [
+      {
+        "word": "via",
+        "pos": "prep.",
+        "pos_key": "prep.",
+        "defn_en": "by way of; passing through:",
+        "defn_zh": "經由;透過"
+      }
+    ]
+  }
+}
