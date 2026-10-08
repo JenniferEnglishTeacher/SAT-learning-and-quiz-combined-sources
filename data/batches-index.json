@@ -4,7 +4,7 @@
     "total_batches": 236,
     "part1_part2_batches": 159,
     "unclassified_batches": 77,
-    "generated_batches": 109
+    "generated_batches": 110
   },
   "batches": [
     {
@@ -1104,7 +1104,7 @@
       "name": "lec(t)",
       "subtitle": "選擇；收集",
       "count": 7,
-      "generated": false,
+      "generated": true,
       "search_terms": "allay eclectic anthology catalog dialect lay lecherous"
     },
     {
