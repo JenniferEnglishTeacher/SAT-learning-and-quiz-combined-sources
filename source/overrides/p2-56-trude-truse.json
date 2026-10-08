@@ -1,0 +1,151 @@
+{
+  "id": "p2-56-trude-truse",
+  "name": "trude；truse",
+  "subtitle": "推；擠；闖入；強行介入",
+  "words": [
+    {
+      "word": "intrude", "pos": "v.", "pos_key": "v.",
+      "defn_en": "to enter a place, situation, or private matter without invitation or permission:",
+      "defn_zh": "闖入；侵入；侵擾；打擾",
+      "root_note": "in- (into or upon) + trude (to thrust or push)",
+      "synonyms": ["trespass", "encroach", "interfere", "invade"], "antonyms": ["withdraw", "respect", "avoid"],
+      "sentences": [
+        {"en": "Paparazzi continued to ______ upon the celebrity's private vacation by hiding nearby with cameras.", "zh": "狗仔隊躲在附近使用相機，持續侵擾這位名人的私人假期。"},
+        {"en": "The scientist warned that the highway would ______ into protected wetlands and disturb nesting birds.", "zh": "科學家警告，公路將侵入受保護濕地並干擾鳥類築巢。"}
+      ],
+      "category": {"part": 2, "num": "56", "spelling": "trude；truse", "meaning": "推；擠；闖入；強行介入"}
+    },
+    {
+      "word": "obtrude", "pos": "v.", "pos_key": "v.",
+      "defn_en": "to force an unwanted idea, opinion, or presence into a situation or into people's notice:",
+      "defn_zh": "強加；硬推入；強行干擾；闖入",
+      "root_note": "ob- (against or in the way) + trude (to thrust or push)",
+      "synonyms": ["impose", "intrude", "interject", "interfere"], "antonyms": ["withhold", "recede", "remain unobtrusive"],
+      "sentences": [
+        {"en": "The consultant tended to ______ her political opinions into corporate meetings where they did not belong.", "zh": "這位顧問常把不合時宜的個人政治觀點強加到公司會議中。"},
+        {"en": "A noisy protest began to ______ upon the silence of the memorial service.", "zh": "嘈雜的抗議開始闖入追悼會的寂靜，迫使演講者暫停。"}
+      ],
+      "category": {"part": 2, "num": "56", "spelling": "trude；truse", "meaning": "推；擠；闖入；強行介入"}
+    },
+    {
+      "word": "obtrusive", "pos": "adj.", "pos_key": "adj.",
+      "defn_en": "noticeable in an unpleasant, distracting, or unwanted way:",
+      "defn_zh": "過分顯眼的；刺眼的；突兀的；惹人注意的",
+      "root_note": "ob- (against or in the way) + trus (to thrust) + -ive (tending to)",
+      "synonyms": ["conspicuous", "intrusive", "prominent", "blatant"], "antonyms": ["unobtrusive", "subtle", "inconspicuous"],
+      "sentences": [
+        {"en": "The historic district prohibits ______ neon signs that would ruin its nineteenth-century appearance.", "zh": "歷史街區禁止安裝會破壞十九世紀景觀的刺眼霓虹招牌。"},
+        {"en": "The filmmaker used hidden microphones so her presence would not be ______.", "zh": "紀錄片導演使用隱藏式麥克風，使自己的存在不會顯得突兀。"}
+      ],
+      "category": {"part": 2, "num": "56", "spelling": "trude；truse", "meaning": "推；擠；闖入；強行介入"}
+    },
+    {
+      "word": "unobtrusive", "pos": "adj.", "pos_key": "adj.",
+      "defn_en": "not attracting attention or causing disturbance; discreet and subtle:",
+      "defn_zh": "不引人注意的；低調的；不唐突的",
+      "root_note": "un- (not) + ob- (against) + trus (to thrust) + -ive (tending to)",
+      "synonyms": ["discreet", "subtle", "inconspicuous", "understated"], "antonyms": ["obtrusive", "conspicuous", "flashy"],
+      "sentences": [
+        {"en": "The hotel prides itself on ______ service that never interrupts guests' privacy.", "zh": "這家飯店以低調細緻、不打擾客人隱私的服務自豪。"},
+        {"en": "Stagehands wore black and moved props in an ______ manner during the live performance.", "zh": "舞台工作人員穿著黑衣，在現場演出中以不引人注意的方式移動道具。"}
+      ],
+      "category": {"part": 2, "num": "56", "spelling": "trude；truse", "meaning": "推；擠；闖入；強行介入"}
+    },
+    {
+      "word": "protrude", "pos": "v.", "pos_key": "v.",
+      "defn_en": "to stick out or extend beyond a surface or boundary:",
+      "defn_zh": "突出；伸出；凸出",
+      "root_note": "pro- (forward or out) + trude (to thrust or push)",
+      "synonyms": ["project", "jut", "stick out", "extend"], "antonyms": ["recede", "withdraw", "sink"],
+      "sentences": [
+        {"en": "A sharp fragment of bone had begun to ______ through the patient's torn skin.", "zh": "一塊尖銳骨頭碎片開始從患者撕裂的皮膚中突出。"},
+        {"en": "Jagged stone columns ______ from the ocean floor where volcanoes once erupted.", "zh": "鋸齒狀石柱從海床凸出，所在位置曾發生海底火山爆發。"}
+      ],
+      "category": {"part": 2, "num": "56", "spelling": "trude；truse", "meaning": "推；擠；闖入；強行介入"}
+    },
+    {
+      "word": "abstruse", "pos": "adj.", "pos_key": "adj.",
+      "defn_en": "difficult to understand because it is complex, obscure, or highly theoretical:",
+      "defn_zh": "深奧難懂的；晦澀的；玄奧的",
+      "root_note": "ab- (away or hidden from) + trus (to thrust or push)",
+      "synonyms": ["obscure", "arcane", "esoteric", "recondite"], "antonyms": ["clear", "simple", "accessible"],
+      "sentences": [
+        {"en": "The textbook contained such ______ equations that even advanced students struggled with them.", "zh": "教科書充滿深奧難懂的方程式，連高年級學生都難以理解。"},
+        {"en": "The lecturer debated an ______ philosophical theory with little relevance to daily life.", "zh": "講者花時間辯論一套與日常生活關聯甚少的玄奧哲學理論。"}
+      ],
+      "category": {"part": 2, "num": "56", "spelling": "trude；truse", "meaning": "推；擠；闖入；強行介入"}
+    },
+    {
+      "word": "extrude", "pos": "v.", "pos_key": "v.",
+      "defn_en": "to force or press a material out through a small opening or shaped opening:",
+      "defn_zh": "擠出；壓出；擠塑成形",
+      "root_note": "ex- (out) + trude (to thrust or push)",
+      "synonyms": ["expel", "press out", "eject", "force out"], "antonyms": ["insert", "draw in", "absorb"],
+      "sentences": [
+        {"en": "The factory uses a mechanical press to ______ molten plastic through a shaped nozzle.", "zh": "工廠使用機械壓力機，將熔融塑膠從成形噴嘴擠出。"},
+        {"en": "The children used plastic syringes to ______ colorful clay onto their canvas designs.", "zh": "孩子使用塑膠注射器，把彩色黏土擠到畫布圖案上。"}
+      ],
+      "category": {"part": 2, "num": "56", "spelling": "trude；truse", "meaning": "推；擠；闖入；強行介入"}
+    },
+    {
+      "word": "encroach", "pos": "v.", "pos_key": "v.",
+      "defn_en": "to gradually enter, take over, or limit another person's land, rights, time, or space:",
+      "defn_zh": "侵犯；侵佔；蠶食；逐步侵入",
+      "root_note": "Old French encrochier (to seize or catch with a hook)",
+      "synonyms": ["infringe", "trespass", "intrude", "invade"], "antonyms": ["retreat", "withdraw", "respect boundaries"],
+      "sentences": [
+        {"en": "Attorneys argued that the tracking software would ______ upon citizens' right to privacy.", "zh": "律師主張，追蹤軟體會侵犯公民的隱私權。"},
+        {"en": "Housing developments continue to ______ upon wildlife habitats as the city expands.", "zh": "城市擴張時，住宅開發持續侵佔野生動物棲息地。"}
+      ],
+      "category": {"part": 2, "num": "56", "spelling": "trude；truse", "meaning": "推；擠；闖入；強行介入"}
+    },
+    {
+      "word": "dogmatic", "pos": "adj.", "pos_key": "adj.",
+      "defn_en": "expressing beliefs as unquestionably true and refusing to consider other opinions or evidence:",
+      "defn_zh": "教條主義的；武斷的；固執己見的",
+      "root_note": "Greek dogma (an opinion or tenet treated as absolute truth)",
+      "synonyms": ["doctrinaire", "authoritarian", "rigid", "opinionated"], "antonyms": ["open-minded", "flexible", "tentative"],
+      "sentences": [
+        {"en": "The professor's ______ teaching style alienated students because he rejected all debate.", "zh": "教授教條式的教學風格疏遠學生，因為他拒絕一切辯論。"},
+        {"en": "People with ______ views often ignore evidence that contradicts their ideology.", "zh": "抱持武斷觀點的人常忽視與自身意識形態矛盾的證據。"}
+      ],
+      "category": {"part": 2, "num": "56", "spelling": "trude；truse", "meaning": "推；擠；闖入；強行介入"}
+    },
+    {
+      "word": "compel", "pos": "v.", "pos_key": "v.",
+      "defn_en": "to force someone to act or to make an action necessary through strong pressure:",
+      "defn_zh": "強迫；迫使；驅使",
+      "root_note": "com- (together or thoroughly) + pellere (to drive or push)",
+      "synonyms": ["force", "oblige", "coerce", "drive"], "antonyms": ["deter", "discourage", "permit"],
+      "sentences": [
+        {"en": "The contract can legally ______ the supplier to deliver the missing parts within forty-eight hours.", "zh": "合約可依法迫使供應商在四十八小時內交付缺少的零件。"},
+        {"en": "The forensic evidence was strong enough to ______ the jury to return a guilty verdict.", "zh": "法醫證據強而有力，足以迫使陪審團作出有罪判決。"}
+      ],
+      "category": {"part": 2, "num": "56", "spelling": "trude；truse", "meaning": "推；擠；闖入；強行介入"}
+    },
+    {
+      "word": "assertive", "pos": "adj.", "pos_key": "adj.",
+      "defn_en": "confidently expressing one's needs, opinions, or rights without being aggressive:",
+      "defn_zh": "堅定自信的；果斷的；勇於表達的",
+      "root_note": "ad- (to) + serere (to join or bind), through Latin asserere (to claim)",
+      "synonyms": ["confident", "forceful", "self-assured", "decisive"], "antonyms": ["passive", "timid", "submissive"],
+      "sentences": [
+        {"en": "Leadership training teaches managers to be ______ rather than aggressive when setting goals.", "zh": "領導力培訓教導經理設定目標時要堅定自信，而非具有攻擊性。"},
+        {"en": "The engineer gave an ______ presentation showing how her innovations saved the company money.", "zh": "工程師進行一場果斷自信的簡報，說明她的創新如何替公司省錢。"}
+      ],
+      "category": {"part": 2, "num": "56", "spelling": "trude；truse", "meaning": "推；擠；闖入；強行介入"}
+    },
+    {
+      "word": "impel", "pos": "v.", "pos_key": "v.",
+      "defn_en": "to drive, urge, or strongly motivate someone to take action:",
+      "defn_zh": "促使；驅使；推動",
+      "root_note": "im- (into or forward) + pellere (to drive or push)",
+      "synonyms": ["urge", "drive", "propel", "motivate"], "antonyms": ["restrain", "deter", "discourage"],
+      "sentences": [
+        {"en": "Moral conviction served to ______ the philanthropist to fund free medical clinics.", "zh": "道德信念促使慈善家資助免費醫療診所。"},
+        {"en": "Panic began to ______ passengers toward the lifeboats when alarms sounded on the sinking ship.", "zh": "沉船警報響起時，恐慌驅使乘客湧向救生艇。"}
+      ],
+      "category": {"part": 2, "num": "56", "spelling": "trude；truse", "meaning": "推；擠；闖入；強行介入"}
+    }
+  ]
+}
