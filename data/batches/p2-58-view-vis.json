@@ -1,0 +1,826 @@
+{
+  "id": "p2-58-view-vis",
+  "part": "part2",
+  "part_label": "Part 2 字根篇 (Roots)",
+  "name": "view；vis",
+  "subtitle": "看",
+  "count": 17,
+  "words": [
+    {
+      "word": "advise",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to recommend or give guidance:",
+      "defn_zh": "建議/勸告",
+      "root_note": "ad- (toward) + videre (to see)",
+      "sentences": [
+        {
+          "en": "I ______ you to study for the exam.",
+          "zh": "我建議你為考試做準備。"
+        },
+        {
+          "en": "The doctor ______ him to get more rest.",
+          "zh": "醫生建議他多休息。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "58",
+        "spelling": "view；vis",
+        "meaning": "看"
+      }
+    },
+    {
+      "word": "clairvoyant",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "able to perceive things that normal people cannot:",
+      "defn_zh": "有透視力的/有洞察力的",
+      "root_note": "clarus (clear) + videre (to see, Latin)",
+      "sentences": [
+        {
+          "en": "The fortune teller claimed to be ______, able to see into the future.",
+          "zh": "這位算命師聲稱自己有透視力,能夠預見未來。"
+        },
+        {
+          "en": "Her ______ insight into the market allowed her to predict the crash.",
+          "zh": "她對市場有透視般的洞察力,因此能預見這場崩盤。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "58",
+        "spelling": "view；vis",
+        "meaning": "看"
+      }
+    },
+    {
+      "word": "devise",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to come up with (a plan):",
+      "defn_zh": "設計/想出",
+      "root_note": "de- (down) + videre (to see)",
+      "sentences": [
+        {
+          "en": "Lana ______ a plan to make herself famous.",
+          "zh": "拉娜想出了一個讓自己出名的計畫。"
+        },
+        {
+          "en": "Engineers had to ______ a new method to reinforce the aging bridge.",
+          "zh": "工程師必須設計出一種新方法來加固這座老舊的橋樑。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "58",
+        "spelling": "view；vis",
+        "meaning": "看"
+      }
+    },
+    {
+      "word": "envy",
+      "pos": "n./v.",
+      "pos_key": "n.",
+      "defn_en": "a feeling of discontent aroused by another's possessions or qualities:",
+      "defn_zh": "嫉妒;羨慕",
+      "root_note": "in- (upon) + videre (to see), from Latin",
+      "sentences": [
+        {
+          "en": "She couldn't help feeling ______ toward her successful sister.",
+          "zh": "她忍不住對她成功的姊姊感到嫉妒。"
+        },
+        {
+          "en": "Everyone seemed to ______ his effortless charm.",
+          "zh": "似乎每個人都羨慕他毫不費力的魅力。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "58",
+        "spelling": "view；vis",
+        "meaning": "看"
+      }
+    },
+    {
+      "word": "evidence",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "information that supports a conclusion:",
+      "defn_zh": "證據",
+      "root_note": "e- (out) + videre (to see)",
+      "sentences": [
+        {
+          "en": "There is strong ______ to support the theory.",
+          "zh": "有強力的證據支持這項理論。"
+        },
+        {
+          "en": "Police found no ______ linking him to the crime.",
+          "zh": "警方沒有找到任何證據將他與這起犯罪連結起來。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "58",
+        "spelling": "view；vis",
+        "meaning": "看"
+      }
+    },
+    {
+      "word": "evident",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "clearly seen or understood; obvious:",
+      "defn_zh": "明顯的;顯而易見的",
+      "root_note": "e- (out) + videre (to see), from Latin",
+      "sentences": [
+        {
+          "en": "It was ______ from her smile that she was pleased.",
+          "zh": "從她的笑容明顯可以看出她很高興。"
+        },
+        {
+          "en": "The damage to the roof was immediately ______ .",
+          "zh": "屋頂的損壞立刻就顯而易見。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "58",
+        "spelling": "view；vis",
+        "meaning": "看"
+      }
+    },
+    {
+      "word": "eviscerate",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to disembowel; to remove the essential content from something:",
+      "defn_zh": "取出內臟;使空洞化",
+      "root_note": "e- (out) + viscera (internal organs), from Latin",
+      "sentences": [
+        {
+          "en": "Budget cuts began to ______ the once-thriving arts program.",
+          "zh": "預算刪減開始使這個曾經蓬勃發展的藝術計畫空洞化。"
+        },
+        {
+          "en": "The hunter had to ______ the deer before transporting it.",
+          "zh": "這位獵人必須先取出鹿的內臟才能搬運牠。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "58",
+        "spelling": "view；vis",
+        "meaning": "看"
+      }
+    },
+    {
+      "word": "invisible",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "unable to be seen:",
+      "defn_zh": "隱形的;看不見的",
+      "root_note": "in- (not) + videre (to see), from Latin",
+      "sentences": [
+        {
+          "en": "The virus is ______ to the naked eye.",
+          "zh": "這種病毒肉眼看不見。"
+        },
+        {
+          "en": "She felt ______ in the large, impersonal office.",
+          "zh": "在這間龐大又冷漠的辦公室裡,她感覺自己彷彿隱形一般。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "58",
+        "spelling": "view；vis",
+        "meaning": "看"
+      }
+    },
+    {
+      "word": "provide",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to supply or make available something needed:",
+      "defn_zh": "提供;供給",
+      "root_note": "providere (to foresee, provide), from Latin pro- (before) + videre (to see)",
+      "sentences": [
+        {
+          "en": "The charity works to ______ meals for the homeless each night.",
+          "zh": "這個慈善機構每晚努力為無家可歸者提供餐食。"
+        },
+        {
+          "en": "Her savings would ______ enough for a small emergency fund.",
+          "zh": "她的存款足以提供一筆小額的緊急基金。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "58",
+        "spelling": "view；vis",
+        "meaning": "看"
+      }
+    },
+    {
+      "word": "provident",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "making prudent provision for the future:",
+      "defn_zh": "有遠見的;節儉的",
+      "root_note": "providere (to foresee, provide), from Latin pro- (before) + videre (to see)",
+      "sentences": [
+        {
+          "en": "Her ______ habits of saving allowed her to retire comfortably.",
+          "zh": "她節儉有遠見的儲蓄習慣讓她能夠舒適地退休。"
+        },
+        {
+          "en": "The ______ farmer stored extra grain in case of a poor harvest.",
+          "zh": "這位有遠見的農夫儲存了額外的穀物,以防收成不佳。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "58",
+        "spelling": "view；vis",
+        "meaning": "看"
+      }
+    },
+    {
+      "word": "revise",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to reconsider and alter something in light of new information:",
+      "defn_zh": "修訂;修改",
+      "root_note": "revisere (to look at again), from Latin re- (again) + visere (to view)",
+      "sentences": [
+        {
+          "en": "She had to ______ her essay several times before submitting it.",
+          "zh": "她在提交這篇文章之前必須修改好幾次。"
+        },
+        {
+          "en": "Economists began to ______ their growth forecasts downward.",
+          "zh": "經濟學家開始向下修正他們的成長預測。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "58",
+        "spelling": "view；vis",
+        "meaning": "看"
+      }
+    },
+    {
+      "word": "visa",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "an official document permitting entry into a foreign country:",
+      "defn_zh": "簽證",
+      "root_note": "visa (seen), from Latin videre (to see)",
+      "sentences": [
+        {
+          "en": "She applied for a student ______ to study abroad.",
+          "zh": "她申請了一張學生簽證,以便到國外留學。"
+        },
+        {
+          "en": "His ______ expired just days before his flight home.",
+          "zh": "他的簽證在他回國班機起飛前幾天到期。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "58",
+        "spelling": "view；vis",
+        "meaning": "看"
+      }
+    },
+    {
+      "word": "viscera",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "the internal organs of the body, especially those in the abdomen:",
+      "defn_zh": "內臟",
+      "root_note": "viscera (internal organs), from Latin",
+      "sentences": [
+        {
+          "en": "The ancient physician examined the animal's ______ for signs of disease.",
+          "zh": "這位古代醫師檢查了這隻動物的內臟,尋找疾病的跡象。"
+        },
+        {
+          "en": "The surgeon carefully repositioned the patient's ______ during the operation.",
+          "zh": "這位外科醫生在手術過程中小心翼翼地重新安置了病患的內臟。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "58",
+        "spelling": "view；vis",
+        "meaning": "看"
+      }
+    },
+    {
+      "word": "visceral",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "relating to deep, instinctive feelings rather than reason:",
+      "defn_zh": "本能的;發自內心的",
+      "root_note": "viscera (internal organs), from Latin",
+      "sentences": [
+        {
+          "en": "The film provoked a ______ reaction of fear in the audience.",
+          "zh": "這部電影在觀眾之間引發了一種本能的恐懼反應。"
+        },
+        {
+          "en": "Her ______ dislike of the plan had nothing to do with logic.",
+          "zh": "她對這項計畫發自本能的反感與邏輯毫無關係。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "58",
+        "spelling": "view；vis",
+        "meaning": "看"
+      }
+    },
+    {
+      "word": "viscid",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "having a thick, sticky consistency:",
+      "defn_zh": "黏稠的;黏性的",
+      "root_note": "viscidus, from Latin viscum (birdlime, mistletoe)",
+      "sentences": [
+        {
+          "en": "The plant secretes a ______ substance that traps insects.",
+          "zh": "這株植物分泌出一種能困住昆蟲的黏稠物質。"
+        },
+        {
+          "en": "A ______ residue coated the bottom of the pot after boiling.",
+          "zh": "這只鍋子在煮沸之後,底部覆蓋著一層黏稠的殘留物。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "58",
+        "spelling": "view；vis",
+        "meaning": "看"
+      }
+    },
+    {
+      "word": "viscous",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "not free flowing, syrupy:",
+      "defn_zh": "黏稠的",
+      "root_note": "viscum (birdlime, sticky substance, Latin)",
+      "sentences": [
+        {
+          "en": "The ______ syrup slowly dripped from the bottle.",
+          "zh": "這罐黏稠的糖漿緩緩地從瓶子裡滴落。"
+        },
+        {
+          "en": "Cold temperatures made the oil far more ______ than usual.",
+          "zh": "低溫讓這款油品比平常更加黏稠。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "58",
+        "spelling": "view；vis",
+        "meaning": "看"
+      }
+    },
+    {
+      "word": "visionary",
+      "pos": "n./adj.",
+      "pos_key": "n.",
+      "defn_en": "a person with original and creative ideas about the future:",
+      "defn_zh": "有遠見的人;有遠見的",
+      "root_note": "vision, from Latin videre (to see) + -ary",
+      "sentences": [
+        {
+          "en": "The company's founder was hailed as a ______ in renewable energy.",
+          "zh": "這家公司的創辦人被譽為再生能源領域一位有遠見的人。"
+        },
+        {
+          "en": "Her ______ approach to design changed the entire industry.",
+          "zh": "她對設計那具有遠見的手法改變了整個產業。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "58",
+        "spelling": "view；vis",
+        "meaning": "看"
+      }
+    }
+  ],
+  "family_options": {},
+  "fallback_options": {
+    "v.": [
+      {
+        "word": "abound",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to exist in great numbers:",
+        "defn_zh": "充滿"
+      },
+      {
+        "word": "abrogate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to deprive of legal force, to nullify:=abolish",
+        "defn_zh": "廢除/取消"
+      },
+      {
+        "word": "abjure",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to renounce, abstain from:",
+        "defn_zh": "發誓放棄/棄絕"
+      },
+      {
+        "word": "abbreviate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to shorten a word or phrase:",
+        "defn_zh": "縮寫;縮短"
+      },
+      {
+        "word": "abdicate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to give up a position, usually one of leadership:",
+        "defn_zh": "退位/放棄(職位)"
+      },
+      {
+        "word": "abduct",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to kidnap, take by force:",
+        "defn_zh": "綁架/劫持"
+      },
+      {
+        "word": "abhor",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to regard with disgust and hatred:",
+        "defn_zh": "憎惡/厭惡"
+      },
+      {
+        "word": "abnegate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to deny or renounce:",
+        "defn_zh": "放棄/克制"
+      },
+      {
+        "word": "abolish",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to formally put an end to a system, practice, or institution:",
+        "defn_zh": "廢除"
+      },
+      {
+        "word": "abort",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to give up on a half-finished project or effort:",
+        "defn_zh": "中止/放棄"
+      },
+      {
+        "word": "abrade",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to scrape or wear away by friction:",
+        "defn_zh": "磨損;擦傷"
+      },
+      {
+        "word": "abscond",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to sneak away and hide:",
+        "defn_zh": "潛逃/逃匿"
+      }
+    ],
+    "adj.": [
+      {
+        "word": "abortive",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "fruitless, failing:",
+        "defn_zh": "失敗的/夭折的"
+      },
+      {
+        "word": "abstemious",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "moderate in eating or drinking:",
+        "defn_zh": "飲食有節制的"
+      },
+      {
+        "word": "abhorrent",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "detestable, despised:",
+        "defn_zh": "令人厭惡的"
+      },
+      {
+        "word": "absurd",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "ridiculous:",
+        "defn_zh": "荒謬的"
+      },
+      {
+        "word": "aberrant",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "deviating from what is normal or expected:",
+        "defn_zh": "異常的;脫軌的"
+      },
+      {
+        "word": "abject",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "wretched, pitiful:",
+        "defn_zh": "卑賤的/淒慘的"
+      },
+      {
+        "word": "abominable",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "causing moral revulsion; extremely unpleasant:",
+        "defn_zh": "可憎的;惡劣的"
+      },
+      {
+        "word": "abounding",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "existing in large numbers or amounts:",
+        "defn_zh": "大量存在的;豐富的"
+      },
+      {
+        "word": "abrasive",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "showing little concern for others; harsh:",
+        "defn_zh": "粗暴的/刺耳的"
+      },
+      {
+        "word": "abrupt",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "sudden or unexpected; brief and curt in manner:",
+        "defn_zh": "突然的/唐突的"
+      },
+      {
+        "word": "abstract",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "existing purely in the mind; not representing actual reality:",
+        "defn_zh": "抽象的"
+      },
+      {
+        "word": "abstruse",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "hard to comprehend:",
+        "defn_zh": "深奧難懂的"
+      }
+    ],
+    "n.": [
+      {
+        "word": "aversion",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "strong dislike, opposition:",
+        "defn_zh": "厭惡/反感"
+      },
+      {
+        "word": "aberration",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "something that differs from the norm:",
+        "defn_zh": "異常/脫軌"
+      },
+      {
+        "word": "abjection",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a state of complete misery, hopelessness, or degradation:",
+        "defn_zh": "卑賤;悲慘狀態"
+      },
+      {
+        "word": "abjuration",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the solemn renunciation of a belief, cause, or claim:",
+        "defn_zh": "公開放棄;誓絕"
+      },
+      {
+        "word": "ablution",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the act of washing oneself, especially as part of a religious ritual:",
+        "defn_zh": "沐浴;淨身儀式"
+      },
+      {
+        "word": "abnegation",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "denial of comfort to oneself:",
+        "defn_zh": "自我克制/放棄"
+      },
+      {
+        "word": "abomination",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "something that causes disgust or hatred:",
+        "defn_zh": "可憎之事;令人厭惡的東西"
+      },
+      {
+        "word": "abridgement",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a shortened version of a book or other written work:",
+        "defn_zh": "節略本;縮減版"
+      },
+      {
+        "word": "absolution",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "freedom from blame, guilt, sin:",
+        "defn_zh": "赦免/免罪"
+      },
+      {
+        "word": "abstemiousness",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "moderation or self-restraint, especially in eating and drinking:",
+        "defn_zh": "節制;克己"
+      },
+      {
+        "word": "abstinence",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the practice of restraining oneself from something enjoyable, especially food, alcohol, or sex:",
+        "defn_zh": "節制;戒絕"
+      },
+      {
+        "word": "avocation",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a hobby or minor occupation apart from one's main career:",
+        "defn_zh": "副業;業餘愛好"
+      }
+    ],
+    "adv.": [
+      {
+        "word": "accordingly",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in a manner that fits the circumstances; consequently:",
+        "defn_zh": "相應地;因此"
+      },
+      {
+        "word": "inadvertently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "unintentionally or by accident:",
+        "defn_zh": "無意間/不小心地"
+      },
+      {
+        "word": "consequently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "as a result; therefore:",
+        "defn_zh": "因此;結果"
+      },
+      {
+        "word": "contemptuously",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "without respect; in a disdainful manner:",
+        "defn_zh": "輕蔑地"
+      },
+      {
+        "word": "involuntarily",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "done without conscious control:",
+        "defn_zh": "不由自主地"
+      },
+      {
+        "word": "cordially",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in a warm or friendly manner:",
+        "defn_zh": "誠摯地/友好地"
+      },
+      {
+        "word": "ipso facto",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "by that very fact or act:",
+        "defn_zh": "事實上;因此"
+      },
+      {
+        "word": "en passant",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in passing; incidentally:",
+        "defn_zh": "順帶一提地;偶然地"
+      },
+      {
+        "word": "regardless",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "despite the prevailing circumstances; without being deterred:",
+        "defn_zh": "不管怎樣;儘管如此"
+      },
+      {
+        "word": "subsequently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "afterward; following in time or order:",
+        "defn_zh": "隨後;其後"
+      },
+      {
+        "word": "aside",
+        "pos": "adv./n.",
+        "pos_key": "adv.",
+        "defn_en": "to or on one side; a remark not meant to be heard by everyone:",
+        "defn_zh": "在旁邊;旁白"
+      },
+      {
+        "word": "vice versa",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "with the order or meaning reversed; conversely:",
+        "defn_zh": "反之亦然"
+      }
+    ],
+    "other": [
+      {
+        "word": "（此批單字中，暫無符合此字根/字首的單字）",
+        "pos": "",
+        "pos_key": "other",
+        "defn_en": "",
+        "defn_zh": ""
+      }
+    ],
+    "prep./adv.": [
+      {
+        "word": "besides",
+        "pos": "prep./adv.",
+        "pos_key": "prep./adv.",
+        "defn_en": "in addition to; furthermore:",
+        "defn_zh": "除...之外;此外"
+      }
+    ],
+    "phrasalv.": [
+      {
+        "word": "egg on",
+        "pos": "phrasal v.",
+        "pos_key": "phrasalv.",
+        "defn_en": "to encourage someone to do something, often risky:",
+        "defn_zh": "慫恿;鼓動"
+      }
+    ],
+    "abbr.": [
+      {
+        "word": "etc.",
+        "pos": "abbr.",
+        "pos_key": "abbr.",
+        "defn_en": "and other similar things (abbreviation of et cetera):",
+        "defn_zh": "等等(et cetera的縮寫)"
+      }
+    ],
+    "interj.": [
+      {
+        "word": "fiddledeedee",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "an exclamation expressing dismissal of something as nonsense:",
+        "defn_zh": "廢話!(表示不屑一顧)"
+      },
+      {
+        "word": "gesundheit",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "an expression said to someone who has just sneezed:",
+        "defn_zh": "保重(打噴嚏後的祝福語)"
+      }
+    ],
+    "prep.": [
+      {
+        "word": "via",
+        "pos": "prep.",
+        "pos_key": "prep.",
+        "defn_en": "by way of; passing through:",
+        "defn_zh": "經由;透過"
+      }
+    ]
+  }
+}
