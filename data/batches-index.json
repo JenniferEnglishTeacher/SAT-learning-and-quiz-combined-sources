@@ -4,7 +4,7 @@
     "total_batches": 236,
     "part1_part2_batches": 159,
     "unclassified_batches": 77,
-    "generated_batches": 139
+    "generated_batches": 140
   },
   "batches": [
     {
@@ -1404,7 +1404,7 @@
       "name": "tract",
       "subtitle": "拉",
       "count": 10,
-      "generated": false,
+      "generated": true,
       "search_terms": "intractable abstract distract protract protracted retract tract tractable traction tractor"
     },
     {
