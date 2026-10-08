@@ -4,7 +4,7 @@
     "total_batches": 236,
     "part1_part2_batches": 159,
     "unclassified_batches": 77,
-    "generated_batches": 124
+    "generated_batches": 125
   },
   "batches": [
     {
@@ -1254,7 +1254,7 @@
       "name": "quire",
       "subtitle": "追求",
       "count": 13,
-      "generated": false,
+      "generated": true,
       "search_terms": "requisite acquired acquisitive acquisitiveness conquer disquisition exquisite inquisitor perquisite query questionable qui vive requisition"
     },
     {

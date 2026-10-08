@@ -1,0 +1,730 @@
+{
+  "id": "p2-39-quire",
+  "part": "part2",
+  "part_label": "Part 2 字根篇 (Roots)",
+  "name": "quire",
+  "subtitle": "追求",
+  "count": 13,
+  "words": [
+    {
+      "word": "requisite",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "requirement:",
+      "defn_zh": "必需品/必要條件",
+      "root_note": "re- (again) + quaerere (to ask/seek)",
+      "sentences": [
+        {
+          "en": "She had all the ______ skills for the job.",
+          "zh": "她具備了這份工作所有必要的技能。"
+        },
+        {
+          "en": "A valid passport is a ______ for international travel.",
+          "zh": "有效護照是國際旅行的必要條件。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "39",
+        "spelling": "quire",
+        "meaning": "追求"
+      }
+    },
+    {
+      "word": "acquired",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "gained through effort or experience:",
+      "defn_zh": "習得的/後天獲得的",
+      "root_note": "ad- (toward) + quaerere (to seek)",
+      "sentences": [
+        {
+          "en": "Edmund had ______ a taste for fine wine.",
+          "zh": "艾德蒙後天養成了對上等葡萄酒的喜好。"
+        },
+        {
+          "en": "Most languages are ______ skills rather than instincts.",
+          "zh": "大多數語言是後天習得的技能,而非本能。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "39",
+        "spelling": "quire",
+        "meaning": "追求"
+      }
+    },
+    {
+      "word": "acquisitive",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "excessively interested in acquiring money or possessions:",
+      "defn_zh": "貪得無厭的;渴望獲取的",
+      "root_note": "ad- (to) + quaerere (to seek)",
+      "sentences": [
+        {
+          "en": "The company's ______ strategy led it to buy up a dozen smaller rivals.",
+          "zh": "這家公司貪婪的擴張策略,讓它併購了十幾家較小的競爭對手。"
+        },
+        {
+          "en": "Critics viewed the tycoon as coldly ______ , caring only for profit.",
+          "zh": "評論家認為這位大亨貪得無厭,只在乎利潤。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "39",
+        "spelling": "quire",
+        "meaning": "追求"
+      }
+    },
+    {
+      "word": "acquisitiveness",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "an excessive desire to acquire and possess things:",
+      "defn_zh": "貪婪;佔有慾",
+      "root_note": "ad- (to) + quaerere (to seek)",
+      "sentences": [
+        {
+          "en": "His ______ eventually alienated even his closest friends.",
+          "zh": "他的貪得無厭最終讓最親近的朋友都疏遠了他。"
+        },
+        {
+          "en": "The documentary criticized the ______ driving modern consumer culture.",
+          "zh": "這部紀錄片批評了驅動現代消費文化的貪婪心態。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "39",
+        "spelling": "quire",
+        "meaning": "追求"
+      }
+    },
+    {
+      "word": "conquer",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to overcome or defeat by force; to gain control of by military force:",
+      "defn_zh": "征服;戰勝",
+      "root_note": "con- (thoroughly) + quaerere (to seek), from Latin",
+      "sentences": [
+        {
+          "en": "The empire sought to ______ every neighboring kingdom within a generation.",
+          "zh": "這個帝國企圖在一代人之內征服每一個鄰近的王國。"
+        },
+        {
+          "en": "She finally managed to ______ her fear of public speaking.",
+          "zh": "她終於成功戰勝了自己對公開演講的恐懼。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "39",
+        "spelling": "quire",
+        "meaning": "追求"
+      }
+    },
+    {
+      "word": "disquisition",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a long, formal discourse on a subject:",
+      "defn_zh": "長篇論述;專題論文",
+      "root_note": "dis- (apart) + quaerere (to seek), from Latin",
+      "sentences": [
+        {
+          "en": "He delivered a lengthy ______ on the history of taxation.",
+          "zh": "他就稅務史發表了一篇冗長的論述。"
+        },
+        {
+          "en": "Her thesis included a philosophical ______ on the nature of time.",
+          "zh": "她的論文中包含一篇關於時間本質的哲學性長篇論述。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "39",
+        "spelling": "quire",
+        "meaning": "追求"
+      }
+    },
+    {
+      "word": "exquisite",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "extremely beautiful or finely made:",
+      "defn_zh": "精緻的;絕美的",
+      "root_note": "ex- (out) + quaerere (to seek), from Latin",
+      "sentences": [
+        {
+          "en": "The museum displayed an ______ collection of ancient jade.",
+          "zh": "這座博物館展示了一批絕美的古代玉器收藏。"
+        },
+        {
+          "en": "Her wedding dress was ______ , down to the smallest detail.",
+          "zh": "她的婚紗精緻絕倫,連最小的細節都無可挑剔。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "39",
+        "spelling": "quire",
+        "meaning": "追求"
+      }
+    },
+    {
+      "word": "inquisitor",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "one who inquires, especially in a hostile manner:",
+      "defn_zh": "審問者/質詢者",
+      "root_note": "in- (upon) + quaerere (to seek)",
+      "sentences": [
+        {
+          "en": "The journalist acted more like an ______ than an interviewer.",
+          "zh": "這位記者的態度更像是審問者,而非採訪者。"
+        },
+        {
+          "en": "The suspect faced a relentless ______ during the interrogation.",
+          "zh": "這名嫌犯在偵訊過程中面對一位毫不留情的審問者。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "39",
+        "spelling": "quire",
+        "meaning": "追求"
+      }
+    },
+    {
+      "word": "perquisite",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a benefit given in addition to regular pay:",
+      "defn_zh": "額外津貼;附加福利",
+      "root_note": "perquirere (to search diligently), from Latin per- (thoroughly) + quaerere (to seek)",
+      "sentences": [
+        {
+          "en": "A company car was one of many ______ s offered to executives.",
+          "zh": "公司配車是提供給高階主管眾多額外津貼中的一項。"
+        },
+        {
+          "en": "The professorship came with the ______ of a rent-free apartment.",
+          "zh": "這個教授職位附帶了一項免租金公寓的額外福利。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "39",
+        "spelling": "quire",
+        "meaning": "追求"
+      }
+    },
+    {
+      "word": "query",
+      "pos": "n./v.",
+      "pos_key": "n.",
+      "defn_en": "a question, especially one expressing doubt; to ask about:",
+      "defn_zh": "疑問;詢問",
+      "root_note": "quaerere (to seek, ask), from Latin",
+      "sentences": [
+        {
+          "en": "She submitted a ______ regarding the confusing billing statement.",
+          "zh": "她針對這份令人困惑的帳單提出了一項疑問。"
+        },
+        {
+          "en": "He decided to ______ the database for all records from last year.",
+          "zh": "他決定查詢這個資料庫,找出去年所有的紀錄。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "39",
+        "spelling": "quire",
+        "meaning": "追求"
+      }
+    },
+    {
+      "word": "questionable",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "doubtful or uncertain:",
+      "defn_zh": "可疑的/有問題的",
+      "root_note": "quaerere (to seek, ask)",
+      "sentences": [
+        {
+          "en": "Despite claiming to want to help people, the politician's motives were ______.",
+          "zh": "儘管這位政治人物聲稱想幫助人們,但他的動機卻十分可疑。"
+        },
+        {
+          "en": "The safety of the product has come under ______ scrutiny.",
+          "zh": "這項產品的安全性已受到令人存疑的檢視。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "39",
+        "spelling": "quire",
+        "meaning": "追求"
+      }
+    },
+    {
+      "word": "qui vive",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a state of alertness, as in the phrase 'on the qui vive':",
+      "defn_zh": "警覺狀態(片語:on the qui vive)",
+      "root_note": "qui vive? (long live who?), a sentry's challenge, from French",
+      "sentences": [
+        {
+          "en": "The guards remained on the ______ throughout the tense standoff.",
+          "zh": "在這場緊張的僵局中,守衛始終保持著高度警覺。"
+        },
+        {
+          "en": "Investors stayed on the ______ for any sign of market instability.",
+          "zh": "投資人時刻保持警覺,留意市場不穩定的任何跡象。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "39",
+        "spelling": "quire",
+        "meaning": "追求"
+      }
+    },
+    {
+      "word": "requisition",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a demand for goods, usually made by an authority:",
+      "defn_zh": "徵用/請購",
+      "root_note": "re- (again) + quaerere (to seek)",
+      "sentences": [
+        {
+          "en": "The military issued a ______ for additional medical supplies.",
+          "zh": "軍方發出了一項徵用命令,要求提供額外的醫療用品。"
+        },
+        {
+          "en": "The department submitted a ______ for new laboratory equipment.",
+          "zh": "這個部門提交了一份新實驗室設備的請購單。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "39",
+        "spelling": "quire",
+        "meaning": "追求"
+      }
+    }
+  ],
+  "family_options": {},
+  "fallback_options": {
+    "v.": [
+      {
+        "word": "abound",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to exist in great numbers:",
+        "defn_zh": "充滿"
+      },
+      {
+        "word": "abrogate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to deprive of legal force, to nullify:=abolish",
+        "defn_zh": "廢除/取消"
+      },
+      {
+        "word": "abjure",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to renounce, abstain from:",
+        "defn_zh": "發誓放棄/棄絕"
+      },
+      {
+        "word": "abbreviate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to shorten a word or phrase:",
+        "defn_zh": "縮寫;縮短"
+      },
+      {
+        "word": "abdicate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to give up a position, usually one of leadership:",
+        "defn_zh": "退位/放棄(職位)"
+      },
+      {
+        "word": "abduct",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to kidnap, take by force:",
+        "defn_zh": "綁架/劫持"
+      },
+      {
+        "word": "abhor",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to regard with disgust and hatred:",
+        "defn_zh": "憎惡/厭惡"
+      },
+      {
+        "word": "abnegate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to deny or renounce:",
+        "defn_zh": "放棄/克制"
+      },
+      {
+        "word": "abolish",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to formally put an end to a system, practice, or institution:",
+        "defn_zh": "廢除"
+      },
+      {
+        "word": "abort",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to give up on a half-finished project or effort:",
+        "defn_zh": "中止/放棄"
+      },
+      {
+        "word": "abrade",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to scrape or wear away by friction:",
+        "defn_zh": "磨損;擦傷"
+      },
+      {
+        "word": "abscond",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to sneak away and hide:",
+        "defn_zh": "潛逃/逃匿"
+      }
+    ],
+    "adj.": [
+      {
+        "word": "abortive",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "fruitless, failing:",
+        "defn_zh": "失敗的/夭折的"
+      },
+      {
+        "word": "abstemious",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "moderate in eating or drinking:",
+        "defn_zh": "飲食有節制的"
+      },
+      {
+        "word": "abhorrent",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "detestable, despised:",
+        "defn_zh": "令人厭惡的"
+      },
+      {
+        "word": "absurd",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "ridiculous:",
+        "defn_zh": "荒謬的"
+      },
+      {
+        "word": "aberrant",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "deviating from what is normal or expected:",
+        "defn_zh": "異常的;脫軌的"
+      },
+      {
+        "word": "abject",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "wretched, pitiful:",
+        "defn_zh": "卑賤的/淒慘的"
+      },
+      {
+        "word": "abominable",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "causing moral revulsion; extremely unpleasant:",
+        "defn_zh": "可憎的;惡劣的"
+      },
+      {
+        "word": "abounding",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "existing in large numbers or amounts:",
+        "defn_zh": "大量存在的;豐富的"
+      },
+      {
+        "word": "abrasive",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "showing little concern for others; harsh:",
+        "defn_zh": "粗暴的/刺耳的"
+      },
+      {
+        "word": "abrupt",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "sudden or unexpected; brief and curt in manner:",
+        "defn_zh": "突然的/唐突的"
+      },
+      {
+        "word": "abstract",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "existing purely in the mind; not representing actual reality:",
+        "defn_zh": "抽象的"
+      },
+      {
+        "word": "abstruse",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "hard to comprehend:",
+        "defn_zh": "深奧難懂的"
+      }
+    ],
+    "n.": [
+      {
+        "word": "aversion",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "strong dislike, opposition:",
+        "defn_zh": "厭惡/反感"
+      },
+      {
+        "word": "aberration",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "something that differs from the norm:",
+        "defn_zh": "異常/脫軌"
+      },
+      {
+        "word": "abjection",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a state of complete misery, hopelessness, or degradation:",
+        "defn_zh": "卑賤;悲慘狀態"
+      },
+      {
+        "word": "abjuration",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the solemn renunciation of a belief, cause, or claim:",
+        "defn_zh": "公開放棄;誓絕"
+      },
+      {
+        "word": "ablution",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the act of washing oneself, especially as part of a religious ritual:",
+        "defn_zh": "沐浴;淨身儀式"
+      },
+      {
+        "word": "abnegation",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "denial of comfort to oneself:",
+        "defn_zh": "自我克制/放棄"
+      },
+      {
+        "word": "abomination",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "something that causes disgust or hatred:",
+        "defn_zh": "可憎之事;令人厭惡的東西"
+      },
+      {
+        "word": "abridgement",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a shortened version of a book or other written work:",
+        "defn_zh": "節略本;縮減版"
+      },
+      {
+        "word": "absolution",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "freedom from blame, guilt, sin:",
+        "defn_zh": "赦免/免罪"
+      },
+      {
+        "word": "abstemiousness",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "moderation or self-restraint, especially in eating and drinking:",
+        "defn_zh": "節制;克己"
+      },
+      {
+        "word": "abstinence",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the practice of restraining oneself from something enjoyable, especially food, alcohol, or sex:",
+        "defn_zh": "節制;戒絕"
+      },
+      {
+        "word": "avocation",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a hobby or minor occupation apart from one's main career:",
+        "defn_zh": "副業;業餘愛好"
+      }
+    ],
+    "adv.": [
+      {
+        "word": "accordingly",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in a manner that fits the circumstances; consequently:",
+        "defn_zh": "相應地;因此"
+      },
+      {
+        "word": "inadvertently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "unintentionally or by accident:",
+        "defn_zh": "無意間/不小心地"
+      },
+      {
+        "word": "consequently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "as a result; therefore:",
+        "defn_zh": "因此;結果"
+      },
+      {
+        "word": "contemptuously",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "without respect; in a disdainful manner:",
+        "defn_zh": "輕蔑地"
+      },
+      {
+        "word": "involuntarily",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "done without conscious control:",
+        "defn_zh": "不由自主地"
+      },
+      {
+        "word": "cordially",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in a warm or friendly manner:",
+        "defn_zh": "誠摯地/友好地"
+      },
+      {
+        "word": "ipso facto",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "by that very fact or act:",
+        "defn_zh": "事實上;因此"
+      },
+      {
+        "word": "en passant",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in passing; incidentally:",
+        "defn_zh": "順帶一提地;偶然地"
+      },
+      {
+        "word": "regardless",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "despite the prevailing circumstances; without being deterred:",
+        "defn_zh": "不管怎樣;儘管如此"
+      },
+      {
+        "word": "subsequently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "afterward; following in time or order:",
+        "defn_zh": "隨後;其後"
+      },
+      {
+        "word": "aside",
+        "pos": "adv./n.",
+        "pos_key": "adv.",
+        "defn_en": "to or on one side; a remark not meant to be heard by everyone:",
+        "defn_zh": "在旁邊;旁白"
+      },
+      {
+        "word": "vice versa",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "with the order or meaning reversed; conversely:",
+        "defn_zh": "反之亦然"
+      }
+    ],
+    "other": [
+      {
+        "word": "（此批單字中，暫無符合此字根/字首的單字）",
+        "pos": "",
+        "pos_key": "other",
+        "defn_en": "",
+        "defn_zh": ""
+      }
+    ],
+    "prep./adv.": [
+      {
+        "word": "besides",
+        "pos": "prep./adv.",
+        "pos_key": "prep./adv.",
+        "defn_en": "in addition to; furthermore:",
+        "defn_zh": "除...之外;此外"
+      }
+    ],
+    "phrasalv.": [
+      {
+        "word": "egg on",
+        "pos": "phrasal v.",
+        "pos_key": "phrasalv.",
+        "defn_en": "to encourage someone to do something, often risky:",
+        "defn_zh": "慫恿;鼓動"
+      }
+    ],
+    "abbr.": [
+      {
+        "word": "etc.",
+        "pos": "abbr.",
+        "pos_key": "abbr.",
+        "defn_en": "and other similar things (abbreviation of et cetera):",
+        "defn_zh": "等等(et cetera的縮寫)"
+      }
+    ],
+    "interj.": [
+      {
+        "word": "fiddledeedee",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "an exclamation expressing dismissal of something as nonsense:",
+        "defn_zh": "廢話!(表示不屑一顧)"
+      },
+      {
+        "word": "gesundheit",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "an expression said to someone who has just sneezed:",
+        "defn_zh": "保重(打噴嚏後的祝福語)"
+      }
+    ],
+    "prep.": [
+      {
+        "word": "via",
+        "pos": "prep.",
+        "pos_key": "prep.",
+        "defn_en": "by way of; passing through:",
+        "defn_zh": "經由;透過"
+      }
+    ]
+  }
+}
