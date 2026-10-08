@@ -4,7 +4,7 @@
     "total_batches": 236,
     "part1_part2_batches": 159,
     "unclassified_batches": 77,
-    "generated_batches": 73
+    "generated_batches": 74
   },
   "batches": [
     {
@@ -664,7 +664,7 @@
       "name": "super",
       "subtitle": "在上方",
       "count": 13,
-      "generated": false,
+      "generated": true,
       "search_terms": "surmise superstition superficial surfeit superfluous supercilious insuperable superabundance superannuated superciliousness supernatural supernumerary surrender"
     },
     {
