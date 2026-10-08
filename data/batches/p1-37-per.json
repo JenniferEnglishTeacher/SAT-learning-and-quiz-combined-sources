@@ -1,0 +1,1282 @@
+{
+  "id": "p1-37-per",
+  "part": "part1",
+  "part_label": "Part 1 字首篇 (Prefixes)",
+  "name": "per",
+  "subtitle": "穿過；完全",
+  "count": 36,
+  "words": [
+    {
+      "word": "perceive",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to understand, know, become aware of:",
+      "defn_zh": "察覺/感知",
+      "root_note": "per- (thoroughly) + capere (to grasp)",
+      "sentences": [
+        {
+          "en": "It took her a while to ______ the subtle change in her friend's mood.",
+          "zh": "她過了一會兒才察覺到朋友情緒上細微的變化。"
+        },
+        {
+          "en": "Many people ______ the new policy as unfair to small businesses.",
+          "zh": "許多人認為這項新政策對小型企業不公平。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "37",
+        "spelling": "per",
+        "meaning": "穿過；完全"
+      }
+    },
+    {
+      "word": "pernicious",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "harmful, causing injury:",
+      "defn_zh": "有害的",
+      "root_note": "per- (thoroughly) + nex (death)",
+      "sentences": [
+        {
+          "en": "Smoking has a ______ effect on the lungs over time.",
+          "zh": "吸菸長期下來對肺部會產生有害的影響。"
+        },
+        {
+          "en": "The ______ rumor spread quickly and damaged her reputation.",
+          "zh": "這則有害的謠言迅速傳開,損害了她的名譽。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "37",
+        "spelling": "per",
+        "meaning": "穿過；完全"
+      }
+    },
+    {
+      "word": "perfunctory",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "done without care, superficial:",
+      "defn_zh": "敷衍的",
+      "root_note": "per- (through) + fungi (to perform)",
+      "sentences": [
+        {
+          "en": "He gave a ______ apology that didn't seem sincere at all.",
+          "zh": "他做出了一個敷衍的道歉,聽起來一點也不真誠。"
+        },
+        {
+          "en": "The security guard did only a ______ check of everyone's bags.",
+          "zh": "警衛只對每個人的包包做了敷衍了事的檢查。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "37",
+        "spelling": "per",
+        "meaning": "穿過；完全"
+      }
+    },
+    {
+      "word": "perverse",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "contrary, persisting in error:",
+      "defn_zh": "固執錯誤的/乖戾的",
+      "root_note": "per- (thoroughly) + vertere (to turn)",
+      "sentences": [
+        {
+          "en": "He took a ______ pleasure in making his classmates uncomfortable.",
+          "zh": "他從讓同學感到不自在中得到一種乖戾的快感。"
+        },
+        {
+          "en": "It seems ______ to spend more money just to save time on such a small task.",
+          "zh": "為了在這種小事上省時間而花更多錢,似乎是種不合理的固執。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "37",
+        "spelling": "per",
+        "meaning": "穿過；完全"
+      }
+    },
+    {
+      "word": "pertinent",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "appropriate:related",
+      "defn_zh": "相關的",
+      "root_note": "per- (thoroughly) + tenere (to hold)",
+      "sentences": [
+        {
+          "en": "Please provide only the ______ information needed for the application.",
+          "zh": "請只提供申請所需的相關資訊。"
+        },
+        {
+          "en": "The lawyer asked several ______ questions during the trial.",
+          "zh": "律師在審判過程中提出了幾個相關的問題。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "37",
+        "spelling": "per",
+        "meaning": "穿過；完全"
+      }
+    },
+    {
+      "word": "peruse",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to read carefully:",
+      "defn_zh": "仔細閱讀",
+      "root_note": "per- (thoroughly) + use (to use)",
+      "sentences": [
+        {
+          "en": "She took an hour to ______ the contract before signing it.",
+          "zh": "她花了一小時仔細閱讀合約後才簽字。"
+        },
+        {
+          "en": "He liked to ______ the newspaper over breakfast every morning.",
+          "zh": "他喜歡每天早上邊吃早餐邊仔細閱讀報紙。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "37",
+        "spelling": "per",
+        "meaning": "穿過；完全"
+      }
+    },
+    {
+      "word": "permeate",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to spread through:=penetrate",
+      "defn_zh": "彌漫/滲透",
+      "root_note": "per- (through) + meare (to pass)",
+      "sentences": [
+        {
+          "en": "The smell of fresh bread began to ______ every corner of the house.",
+          "zh": "剛出爐麵包的香氣開始彌漫整棟房子的每個角落。"
+        },
+        {
+          "en": "A sense of optimism seemed to ______ the entire office after the good news.",
+          "zh": "好消息傳來後,一股樂觀的氣氛似乎彌漫了整個辦公室。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "37",
+        "spelling": "per",
+        "meaning": "穿過；完全"
+      }
+    },
+    {
+      "word": "persevere",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to persist:",
+      "defn_zh": "堅持不懈/不屈不撓",
+      "root_note": "per- (strictly) + severus (severe)",
+      "sentences": [
+        {
+          "en": "Despite countless setbacks, she chose to ______ and finish the marathon.",
+          "zh": "儘管遭遇無數挫折,她仍選擇堅持不懈,完成了馬拉松。"
+        },
+        {
+          "en": "He encouraged his students to ______ even when the material seemed impossible.",
+          "zh": "即使教材看似困難重重,他仍鼓勵學生堅持下去。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "37",
+        "spelling": "per",
+        "meaning": "穿過；完全"
+      }
+    },
+    {
+      "word": "perpetrate",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to commit a crime",
+      "defn_zh": "犯(罪)/做(壞事)",
+      "root_note": "per- (thoroughly) + patrare (to perform/accomplish)",
+      "sentences": [
+        {
+          "en": "The gang was believed to have ______ several robberies in the area.",
+          "zh": "這個幫派被認為在該地區犯下了多起搶劫案。"
+        },
+        {
+          "en": "No one could explain why he would ______ such a cruel act.",
+          "zh": "沒有人能解釋他為何會做出如此殘忍的行為。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "37",
+        "spelling": "per",
+        "meaning": "穿過；完全"
+      }
+    },
+    {
+      "word": "peregrination",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a journey:",
+      "defn_zh": "旅程/遊歷",
+      "root_note": "per- (through) + ager (land)",
+      "sentences": [
+        {
+          "en": "His book describes his years-long ______ across five continents.",
+          "zh": "他的書描述了他歷時多年、走遍五大洲的旅程。"
+        },
+        {
+          "en": "The old sailor loved to recount tales from his many ______ around the world.",
+          "zh": "這位老水手喜歡講述他環遊世界多次旅程的故事。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "37",
+        "spelling": "per",
+        "meaning": "穿過；完全"
+      }
+    },
+    {
+      "word": "perpetuate",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to cause to continue:",
+      "defn_zh": "使不朽/使持續",
+      "root_note": "per- (through) + petere (to seek)",
+      "sentences": [
+        {
+          "en": "The myth continued to ______ itself through generations of retelling.",
+          "zh": "這個迷思透過一代又一代的口耳相傳而持續流傳。"
+        },
+        {
+          "en": "Critics argued the policy would only ______ inequality.",
+          "zh": "批評者主張這項政策只會使不平等現象持續下去。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "37",
+        "spelling": "per",
+        "meaning": "穿過；完全"
+      }
+    },
+    {
+      "word": "perspicacious",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "acutely perceptive, shrewd:",
+      "defn_zh": "有洞察力的",
+      "root_note": "per- (through) + specere (to look)",
+      "sentences": [
+        {
+          "en": "The ______ detective noticed the tiny detail everyone else had missed.",
+          "zh": "這位洞察力敏銳的偵探注意到了其他人都忽略的細微線索。"
+        },
+        {
+          "en": "Her ______ analysis of the market predicted the crash months early.",
+          "zh": "她對市場敏銳的分析提前好幾個月就預測到了這場崩盤。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "37",
+        "spelling": "per",
+        "meaning": "穿過；完全"
+      }
+    },
+    {
+      "word": "paramount",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "supreme, foremost:",
+      "defn_zh": "首要的/至高無上的",
+      "root_note": "per- (by) + ad montem (to the hill)",
+      "sentences": [
+        {
+          "en": "Safety is of ______ importance during the construction project.",
+          "zh": "在這項建築工程中,安全是最重要的考量。"
+        },
+        {
+          "en": "The judge ruled that the child's welfare was ______.",
+          "zh": "法官裁定孩子的福祉是至高無上的考量。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "37",
+        "spelling": "per",
+        "meaning": "穿過；完全"
+      }
+    },
+    {
+      "word": "peremptory",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "absolute, compulsory, binding:",
+      "defn_zh": "專橫的/不容反抗的",
+      "root_note": "per- (completely) + emere (to take)",
+      "sentences": [
+        {
+          "en": "The manager's ______ tone left no room for discussion.",
+          "zh": "經理專橫的語氣讓人毫無討論的餘地。"
+        },
+        {
+          "en": "She gave a ______ order for everyone to leave the building at once.",
+          "zh": "她下達了一道不容反抗的命令,要求所有人立刻離開這棟大樓。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "37",
+        "spelling": "per",
+        "meaning": "穿過；完全"
+      }
+    },
+    {
+      "word": "perfidious",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "treacherous, false:",
+      "defn_zh": "背信棄義的",
+      "root_note": "per- (through/detriment) + fides (faith)",
+      "sentences": [
+        {
+          "en": "The ______ advisor secretly worked for the enemy kingdom.",
+          "zh": "這位背信棄義的謀士暗中為敵國效力。"
+        },
+        {
+          "en": "History remembers him as a ______ traitor who betrayed his closest allies.",
+          "zh": "歷史記得他是個背叛了最親密盟友的奸詐叛徒。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "37",
+        "spelling": "per",
+        "meaning": "穿過；完全"
+      }
+    },
+    {
+      "word": "imperturbable",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "calm, steady, serene:",
+      "defn_zh": "鎮定的/冷靜的",
+      "root_note": "im- (not) + per- (thoroughly) + turbare (disturb)",
+      "sentences": [
+        {
+          "en": "Even during the crisis, the CEO remained ______.",
+          "zh": "即使在這場危機當中,執行長依然保持鎮定自若。"
+        },
+        {
+          "en": "Her ______ calm reassured the nervous passengers during the turbulence.",
+          "zh": "在遭遇亂流時,她那種泰然自若的鎮定安撫了緊張的乘客。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "37",
+        "spelling": "per",
+        "meaning": "穿過；完全"
+      }
+    },
+    {
+      "word": "impervious",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "not affected or influenced by something:",
+      "defn_zh": "不受影響的/不透水的",
+      "root_note": "in- (not) + per- (through) + via (way)",
+      "sentences": [
+        {
+          "en": "The material is ______ to water, making it ideal for roofing.",
+          "zh": "這種材料不透水,非常適合用於屋頂建材。"
+        },
+        {
+          "en": "He seemed completely ______ to criticism, no matter how harsh.",
+          "zh": "無論批評有多嚴厲,他似乎都完全不受影響。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "37",
+        "spelling": "per",
+        "meaning": "穿過；完全"
+      }
+    },
+    {
+      "word": "pellucid",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "easily intelligible, clear:",
+      "defn_zh": "清澈易懂的/透明的",
+      "root_note": "per- (through) + lucere (to shine)",
+      "sentences": [
+        {
+          "en": "Her ______ writing style made the dense subject accessible to beginners.",
+          "zh": "她清晰易懂的寫作風格讓這個艱澀的主題也能讓初學者理解。"
+        },
+        {
+          "en": "The mountain lake was so ______ that fish could be seen swimming far below.",
+          "zh": "這座高山湖泊清澈見底,連遠處游動的魚都看得一清二楚。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "37",
+        "spelling": "per",
+        "meaning": "穿過；完全"
+      }
+    },
+    {
+      "word": "perambulate",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to walk about or through a place, especially for pleasure:",
+      "defn_zh": "漫步;巡遊",
+      "root_note": "per- (through) + ambulare (to walk), from Latin",
+      "sentences": [
+        {
+          "en": "They enjoyed the chance to ______ through the old city streets.",
+          "zh": "他們喜歡有機會漫步穿越這座老城的街道。"
+        },
+        {
+          "en": "He would ______ the garden every evening before dinner.",
+          "zh": "他每天晚餐前都會在花園裡漫步。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "37",
+        "spelling": "per",
+        "meaning": "穿過；完全"
+      }
+    },
+    {
+      "word": "perennial",
+      "pos": "adj./n.",
+      "pos_key": "adj.",
+      "defn_en": "lasting for a long or seemingly infinite time; recurring:",
+      "defn_zh": "持久的;多年生的",
+      "root_note": "per- (through) + annus (year), from Latin",
+      "sentences": [
+        {
+          "en": "Traffic remains a ______ problem in the growing city.",
+          "zh": "交通問題在這座日益發展的城市中始終是個長期難題。"
+        },
+        {
+          "en": "She planted several ______ flowers that bloom every spring.",
+          "zh": "她種了好幾株每年春天都會開花的多年生植物。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "37",
+        "spelling": "per",
+        "meaning": "穿過；完全"
+      }
+    },
+    {
+      "word": "perfervid",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "showing intense and passionate feeling:",
+      "defn_zh": "極度熱情的;狂熱的",
+      "root_note": "per- (thoroughly) + fervidus (glowing, ardent), from Latin fervere (to boil)",
+      "sentences": [
+        {
+          "en": "His ______ speech energized the crowd of supporters.",
+          "zh": "他狂熱的演講讓這群支持者的情緒沸騰起來。"
+        },
+        {
+          "en": "The novel's ______ romance felt exaggerated to some readers.",
+          "zh": "這本小說熾熱狂放的愛情故事讓一些讀者覺得有些誇張。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "37",
+        "spelling": "per",
+        "meaning": "穿過；完全"
+      }
+    },
+    {
+      "word": "perfidiousness",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "deceitfulness and untrustworthiness; treachery:",
+      "defn_zh": "背信棄義;奸詐",
+      "root_note": "per- (through, thoroughly) + fides (faith), from Latin, implying breach of faith",
+      "sentences": [
+        {
+          "en": "The betrayal exposed the depths of his ______ .",
+          "zh": "這次背叛揭露了他背信棄義的深沉程度。"
+        },
+        {
+          "en": "History remembers the general for his cunning and ______ .",
+          "zh": "歷史記住了這位將軍的狡詐與奸詐背信。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "37",
+        "spelling": "per",
+        "meaning": "穿過；完全"
+      }
+    },
+    {
+      "word": "perfidy",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "deliberate breach of faith or trust; treachery:",
+      "defn_zh": "背信;奸詐行為",
+      "root_note": "per- (through, thoroughly) + fides (faith), from Latin",
+      "sentences": [
+        {
+          "en": "The spy's ______ endangered the lives of his entire unit.",
+          "zh": "這位間諜的背信行為危及了整個部隊的性命。"
+        },
+        {
+          "en": "The novel explores themes of loyalty and ______ during wartime.",
+          "zh": "這本小說探討了戰時的忠誠與背信這兩個主題。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "37",
+        "spelling": "per",
+        "meaning": "穿過；完全"
+      }
+    },
+    {
+      "word": "perfumed",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "scented with perfume:",
+      "defn_zh": "撒了香水的;芳香的",
+      "root_note": "per- (thoroughly) + fumare (to smoke), from Latin, via French parfumer",
+      "sentences": [
+        {
+          "en": "The ______ letter arrived carrying a faint scent of roses.",
+          "zh": "這封灑了香水的信寄來時帶著淡淡的玫瑰香氣。"
+        },
+        {
+          "en": "Her ______ handkerchief left a lingering fragrance in the room.",
+          "zh": "她那灑了香水的手帕在房間裡留下了縈繞不去的香氣。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "37",
+        "spelling": "per",
+        "meaning": "穿過；完全"
+      }
+    },
+    {
+      "word": "permanent",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "lasting indefinitely:",
+      "defn_zh": "永久的",
+      "root_note": "per- (through) + manere (to remain)",
+      "sentences": [
+        {
+          "en": "The marker left a ______ stain on my favorite shirt that I won't be able to get out.",
+          "zh": "這支馬克筆在我最喜歡的襯衫上留下了永久的污漬,怎麼洗都洗不掉。"
+        },
+        {
+          "en": "He decided to make the move to the countryside ______.",
+          "zh": "他決定永久搬到鄉下居住。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "37",
+        "spelling": "per",
+        "meaning": "穿過；完全"
+      }
+    },
+    {
+      "word": "perpetual",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "continuing forever or indefinitely:",
+      "defn_zh": "永久的/不斷的",
+      "root_note": "per- (through) + petere (to seek)",
+      "sentences": [
+        {
+          "en": "The con artist lived in ______ fear of being arrested.",
+          "zh": "這名騙子一直活在隨時可能被逮捕的持續恐懼之中。"
+        },
+        {
+          "en": "The city seems to be in a state of ______ construction.",
+          "zh": "這座城市似乎永遠處於不斷施工的狀態。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "37",
+        "spelling": "per",
+        "meaning": "穿過；完全"
+      }
+    },
+    {
+      "word": "perplex",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to confuse:",
+      "defn_zh": "使困惑/使費解",
+      "root_note": "per- (thoroughly) + plectere (to weave, entangle)",
+      "sentences": [
+        {
+          "en": "The riddle continued to ______ even the brightest students.",
+          "zh": "這道謎題持續困擾著即使是最聰明的學生。"
+        },
+        {
+          "en": "Her sudden change in behavior began to ______ her closest friends.",
+          "zh": "她行為的突然轉變開始讓她最親近的朋友感到困惑。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "37",
+        "spelling": "per",
+        "meaning": "穿過；完全"
+      }
+    },
+    {
+      "word": "persecute",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "cause to suffer:",
+      "defn_zh": "迫害",
+      "root_note": "per- (thoroughly) + sequi (to follow)",
+      "sentences": [
+        {
+          "en": "The regime continued to ______ anyone who spoke out against it.",
+          "zh": "這個政權持續迫害任何公開反對它的人。"
+        },
+        {
+          "en": "Throughout history, minority groups have often been ______d for their beliefs.",
+          "zh": "縱觀歷史,少數族群經常因其信仰而遭受迫害。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "37",
+        "spelling": "per",
+        "meaning": "穿過；完全"
+      }
+    },
+    {
+      "word": "persiflage",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "light teasing:",
+      "defn_zh": "輕鬆調侃/戲謔",
+      "root_note": "per- (thoroughly) + sibilare (to whistle, hiss, Latin)",
+      "sentences": [
+        {
+          "en": "The dinner conversation was full of witty ______ rather than serious discussion.",
+          "zh": "這場晚餐的對話充滿了機智的調侃,而非嚴肅的討論。"
+        },
+        {
+          "en": "Their playful ______ masked a genuine affection between the old friends.",
+          "zh": "他們之間輕鬆的戲謔調侃,掩藏著這對老朋友之間真摯的情誼。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "37",
+        "spelling": "per",
+        "meaning": "穿過；完全"
+      }
+    },
+    {
+      "word": "persistent",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "continuing firmly or steadily in a course of action despite difficulties or opposition:",
+      "defn_zh": "堅持不懈的/持續的",
+      "root_note": "per- (through) + sistere (to stand)",
+      "sentences": [
+        {
+          "en": "His ______ efforts to improve the system eventually paid off.",
+          "zh": "他堅持不懈地努力改善這套系統,最終有了回報。"
+        },
+        {
+          "en": "After fifty years of buying lottery tickets, ______ efforts paid off when he won the jackpot.",
+          "zh": "在買了五十年彩券之後,他堅持不懈的努力終於得到回報,中了頭獎。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "37",
+        "spelling": "per",
+        "meaning": "穿過；完全"
+      }
+    },
+    {
+      "word": "perspicacity",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "shrewdness, perceptiveness:",
+      "defn_zh": "敏銳/洞察力",
+      "root_note": "per- (thoroughly) + specere (to see)",
+      "sentences": [
+        {
+          "en": "Her ______ allowed her to spot the flaw in the plan immediately.",
+          "zh": "她的敏銳洞察力讓她立刻發現了這項計畫的漏洞。"
+        },
+        {
+          "en": "The detective's ______ helped him solve the case within days.",
+          "zh": "這位偵探的敏銳洞察力幫助他在數天內就破了案。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "37",
+        "spelling": "per",
+        "meaning": "穿過；完全"
+      }
+    },
+    {
+      "word": "perspicuity",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "clearness of expression or statement:",
+      "defn_zh": "明晰;清楚易懂",
+      "root_note": "per- (through) + specere (to look), from Latin",
+      "sentences": [
+        {
+          "en": "The report was praised for its ______ despite covering complex data.",
+          "zh": "這份報告儘管涵蓋了複雜的數據,仍因其清楚易懂而備受讚譽。"
+        },
+        {
+          "en": "Good technical writing depends on ______ rather than jargon.",
+          "zh": "好的技術寫作依賴的是清晰明瞭,而非專業術語。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "37",
+        "spelling": "per",
+        "meaning": "穿過；完全"
+      }
+    },
+    {
+      "word": "pertinacious",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "stubbornly persistent:",
+      "defn_zh": "頑強的/固執的",
+      "root_note": "per- (thoroughly) + tenere (to hold)",
+      "sentences": [
+        {
+          "en": "The ______ reporter refused to stop asking questions until she got a real answer.",
+          "zh": "這位固執的記者不肯罷休,直到得到一個真正的答案為止。"
+        },
+        {
+          "en": "His ______ pursuit of the patent eventually paid off after years of rejection.",
+          "zh": "他頑強地追求這項專利,在多年遭拒後終於獲得了回報。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "37",
+        "spelling": "per",
+        "meaning": "穿過；完全"
+      }
+    },
+    {
+      "word": "perusal",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a careful examination, review:",
+      "defn_zh": "仔細閱讀/詳查",
+      "root_note": "per- (thoroughly) + uti/usus (to use, Latin)",
+      "sentences": [
+        {
+          "en": "A careful ______ of the contract revealed a hidden fee.",
+          "zh": "仔細審閱這份合約後,發現了一項隱藏的費用。"
+        },
+        {
+          "en": "The manuscript deserves closer ______ before publication.",
+          "zh": "這份手稿在出版前值得更仔細地審閱。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "37",
+        "spelling": "per",
+        "meaning": "穿過；完全"
+      }
+    },
+    {
+      "word": "pervasive",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "spreading widely throughout an area or a group of people:",
+      "defn_zh": "瀰漫的/普遍存在的",
+      "root_note": "per- (through) + vadere (to go)",
+      "sentences": [
+        {
+          "en": "The ______ scent of freshly baked cookies filled the entire house.",
+          "zh": "剛烤好的餅乾香氣瀰漫了整棟房子。"
+        },
+        {
+          "en": "Corruption remains a ______ problem in many governments.",
+          "zh": "貪腐依然是許多政府中普遍存在的問題。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "37",
+        "spelling": "per",
+        "meaning": "穿過；完全"
+      }
+    },
+    {
+      "word": "repercussion",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "an unintended consequence or effect, often negative:",
+      "defn_zh": "後果/餘波",
+      "root_note": "re- (back) + per- (through) + quatere (to shake)",
+      "sentences": [
+        {
+          "en": "The ______ of her decision was felt by everyone in the organization.",
+          "zh": "她這項決定所帶來的後果讓整個組織的每個人都感受到了。"
+        },
+        {
+          "en": "Losing the contract had serious financial ______ for the company.",
+          "zh": "失去這份合約為公司帶來了嚴重的財務後果。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "37",
+        "spelling": "per",
+        "meaning": "穿過；完全"
+      }
+    }
+  ],
+  "family_options": {},
+  "fallback_options": {
+    "v.": [
+      {
+        "word": "abound",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to exist in great numbers:",
+        "defn_zh": "充滿"
+      },
+      {
+        "word": "abrogate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to deprive of legal force, to nullify:=abolish",
+        "defn_zh": "廢除/取消"
+      },
+      {
+        "word": "abjure",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to renounce, abstain from:",
+        "defn_zh": "發誓放棄/棄絕"
+      },
+      {
+        "word": "abbreviate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to shorten a word or phrase:",
+        "defn_zh": "縮寫;縮短"
+      },
+      {
+        "word": "abdicate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to give up a position, usually one of leadership:",
+        "defn_zh": "退位/放棄(職位)"
+      },
+      {
+        "word": "abduct",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to kidnap, take by force:",
+        "defn_zh": "綁架/劫持"
+      },
+      {
+        "word": "abhor",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to regard with disgust and hatred:",
+        "defn_zh": "憎惡/厭惡"
+      },
+      {
+        "word": "abnegate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to deny or renounce:",
+        "defn_zh": "放棄/克制"
+      },
+      {
+        "word": "abolish",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to formally put an end to a system, practice, or institution:",
+        "defn_zh": "廢除"
+      },
+      {
+        "word": "abort",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to give up on a half-finished project or effort:",
+        "defn_zh": "中止/放棄"
+      },
+      {
+        "word": "abrade",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to scrape or wear away by friction:",
+        "defn_zh": "磨損;擦傷"
+      },
+      {
+        "word": "abscond",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to sneak away and hide:",
+        "defn_zh": "潛逃/逃匿"
+      }
+    ],
+    "adj.": [
+      {
+        "word": "abortive",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "fruitless, failing:",
+        "defn_zh": "失敗的/夭折的"
+      },
+      {
+        "word": "abstemious",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "moderate in eating or drinking:",
+        "defn_zh": "飲食有節制的"
+      },
+      {
+        "word": "abhorrent",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "detestable, despised:",
+        "defn_zh": "令人厭惡的"
+      },
+      {
+        "word": "absurd",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "ridiculous:",
+        "defn_zh": "荒謬的"
+      },
+      {
+        "word": "aberrant",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "deviating from what is normal or expected:",
+        "defn_zh": "異常的;脫軌的"
+      },
+      {
+        "word": "abject",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "wretched, pitiful:",
+        "defn_zh": "卑賤的/淒慘的"
+      },
+      {
+        "word": "abominable",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "causing moral revulsion; extremely unpleasant:",
+        "defn_zh": "可憎的;惡劣的"
+      },
+      {
+        "word": "abounding",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "existing in large numbers or amounts:",
+        "defn_zh": "大量存在的;豐富的"
+      },
+      {
+        "word": "abrasive",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "showing little concern for others; harsh:",
+        "defn_zh": "粗暴的/刺耳的"
+      },
+      {
+        "word": "abrupt",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "sudden or unexpected; brief and curt in manner:",
+        "defn_zh": "突然的/唐突的"
+      },
+      {
+        "word": "abstract",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "existing purely in the mind; not representing actual reality:",
+        "defn_zh": "抽象的"
+      },
+      {
+        "word": "abstruse",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "hard to comprehend:",
+        "defn_zh": "深奧難懂的"
+      }
+    ],
+    "n.": [
+      {
+        "word": "aversion",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "strong dislike, opposition:",
+        "defn_zh": "厭惡/反感"
+      },
+      {
+        "word": "aberration",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "something that differs from the norm:",
+        "defn_zh": "異常/脫軌"
+      },
+      {
+        "word": "abjection",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a state of complete misery, hopelessness, or degradation:",
+        "defn_zh": "卑賤;悲慘狀態"
+      },
+      {
+        "word": "abjuration",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the solemn renunciation of a belief, cause, or claim:",
+        "defn_zh": "公開放棄;誓絕"
+      },
+      {
+        "word": "ablution",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the act of washing oneself, especially as part of a religious ritual:",
+        "defn_zh": "沐浴;淨身儀式"
+      },
+      {
+        "word": "abnegation",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "denial of comfort to oneself:",
+        "defn_zh": "自我克制/放棄"
+      },
+      {
+        "word": "abomination",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "something that causes disgust or hatred:",
+        "defn_zh": "可憎之事;令人厭惡的東西"
+      },
+      {
+        "word": "abridgement",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a shortened version of a book or other written work:",
+        "defn_zh": "節略本;縮減版"
+      },
+      {
+        "word": "absolution",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "freedom from blame, guilt, sin:",
+        "defn_zh": "赦免/免罪"
+      },
+      {
+        "word": "abstemiousness",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "moderation or self-restraint, especially in eating and drinking:",
+        "defn_zh": "節制;克己"
+      },
+      {
+        "word": "abstinence",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the practice of restraining oneself from something enjoyable, especially food, alcohol, or sex:",
+        "defn_zh": "節制;戒絕"
+      },
+      {
+        "word": "avocation",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a hobby or minor occupation apart from one's main career:",
+        "defn_zh": "副業;業餘愛好"
+      }
+    ],
+    "adv.": [
+      {
+        "word": "accordingly",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in a manner that fits the circumstances; consequently:",
+        "defn_zh": "相應地;因此"
+      },
+      {
+        "word": "inadvertently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "unintentionally or by accident:",
+        "defn_zh": "無意間/不小心地"
+      },
+      {
+        "word": "consequently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "as a result; therefore:",
+        "defn_zh": "因此;結果"
+      },
+      {
+        "word": "contemptuously",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "without respect; in a disdainful manner:",
+        "defn_zh": "輕蔑地"
+      },
+      {
+        "word": "involuntarily",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "done without conscious control:",
+        "defn_zh": "不由自主地"
+      },
+      {
+        "word": "cordially",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in a warm or friendly manner:",
+        "defn_zh": "誠摯地/友好地"
+      },
+      {
+        "word": "ipso facto",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "by that very fact or act:",
+        "defn_zh": "事實上;因此"
+      },
+      {
+        "word": "en passant",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in passing; incidentally:",
+        "defn_zh": "順帶一提地;偶然地"
+      },
+      {
+        "word": "regardless",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "despite the prevailing circumstances; without being deterred:",
+        "defn_zh": "不管怎樣;儘管如此"
+      },
+      {
+        "word": "subsequently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "afterward; following in time or order:",
+        "defn_zh": "隨後;其後"
+      },
+      {
+        "word": "aside",
+        "pos": "adv./n.",
+        "pos_key": "adv.",
+        "defn_en": "to or on one side; a remark not meant to be heard by everyone:",
+        "defn_zh": "在旁邊;旁白"
+      },
+      {
+        "word": "vice versa",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "with the order or meaning reversed; conversely:",
+        "defn_zh": "反之亦然"
+      }
+    ],
+    "other": [
+      {
+        "word": "（此批單字中，暫無符合此字根/字首的單字）",
+        "pos": "",
+        "pos_key": "other",
+        "defn_en": "",
+        "defn_zh": ""
+      }
+    ],
+    "prep./adv.": [
+      {
+        "word": "besides",
+        "pos": "prep./adv.",
+        "pos_key": "prep./adv.",
+        "defn_en": "in addition to; furthermore:",
+        "defn_zh": "除...之外;此外"
+      }
+    ],
+    "phrasalv.": [
+      {
+        "word": "egg on",
+        "pos": "phrasal v.",
+        "pos_key": "phrasalv.",
+        "defn_en": "to encourage someone to do something, often risky:",
+        "defn_zh": "慫恿;鼓動"
+      }
+    ],
+    "abbr.": [
+      {
+        "word": "etc.",
+        "pos": "abbr.",
+        "pos_key": "abbr.",
+        "defn_en": "and other similar things (abbreviation of et cetera):",
+        "defn_zh": "等等(et cetera的縮寫)"
+      }
+    ],
+    "interj.": [
+      {
+        "word": "fiddledeedee",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "an exclamation expressing dismissal of something as nonsense:",
+        "defn_zh": "廢話!(表示不屑一顧)"
+      },
+      {
+        "word": "gesundheit",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "an expression said to someone who has just sneezed:",
+        "defn_zh": "保重(打噴嚏後的祝福語)"
+      }
+    ],
+    "prep.": [
+      {
+        "word": "via",
+        "pos": "prep.",
+        "pos_key": "prep.",
+        "defn_en": "by way of; passing through:",
+        "defn_zh": "經由;透過"
+      }
+    ]
+  }
+}
