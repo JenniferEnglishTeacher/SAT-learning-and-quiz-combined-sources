@@ -4,7 +4,7 @@
     "total_batches": 236,
     "part1_part2_batches": 159,
     "unclassified_batches": 77,
-    "generated_batches": 135
+    "generated_batches": 136
   },
   "batches": [
     {
@@ -1364,7 +1364,7 @@
       "name": "tact；tag",
       "subtitle": "接觸",
       "count": 9,
-      "generated": false,
+      "generated": true,
       "search_terms": "tangible integral attain contingent intangible tactile tactless tangent tangential"
     },
     {
