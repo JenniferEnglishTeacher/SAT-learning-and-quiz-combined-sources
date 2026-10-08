@@ -1,0 +1,1210 @@
+{
+  "id": "p1-53-ob",
+  "part": "part1",
+  "part_label": "Part 1 字首篇 (Prefixes)",
+  "name": "ob",
+  "subtitle": "反對；朝向",
+  "count": 33,
+  "words": [
+    {
+      "word": "obsolescence",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "process of wearing out:",
+      "defn_zh": "荒廢/淘汰",
+      "root_note": "ob- (away) + solere (to be used to)",
+      "sentences": [
+        {
+          "en": "Many companies design products with planned ______ so customers must buy new ones.",
+          "zh": "許多公司刻意設計產品的計畫性淘汰,讓顧客必須購買新品。"
+        },
+        {
+          "en": "The rapid pace of technology has led to the quick ______ of old devices.",
+          "zh": "科技快速的發展導致舊裝置很快就被淘汰。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "53",
+        "spelling": "ob",
+        "meaning": "反對；朝向"
+      }
+    },
+    {
+      "word": "obsess",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to haunt, preoccupy:",
+      "defn_zh": "迷住/使困擾",
+      "root_note": "ob- (against) + sedere (to sit)",
+      "sentences": [
+        {
+          "en": "He began to ______ over every small detail of the presentation.",
+          "zh": "他開始對簡報中的每一個小細節都感到困擾。"
+        },
+        {
+          "en": "Fans continue to ______ over the mystery ending of the film.",
+          "zh": "影迷們仍持續對這部電影神秘的結局感到著迷。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "53",
+        "spelling": "ob",
+        "meaning": "反對；朝向"
+      }
+    },
+    {
+      "word": "obviate",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "do away with, eliminate:",
+      "defn_zh": "消除/排除",
+      "root_note": "ob- (in the way of) + via (way)",
+      "sentences": [
+        {
+          "en": "Installing the new software will ______ the need for manual data entry.",
+          "zh": "安裝這套新軟體將消除人工輸入資料的需要。"
+        },
+        {
+          "en": "Early planning can often ______ many of the problems that arise later.",
+          "zh": "及早規劃通常能消除許多之後才會出現的問題。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "53",
+        "spelling": "ob",
+        "meaning": "反對；朝向"
+      }
+    },
+    {
+      "word": "ostentatious",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "showy:flamboyant",
+      "defn_zh": "炫耀的/賣弄的",
+      "root_note": "ob- (in front of) + tendere (to stretch)",
+      "sentences": [
+        {
+          "en": "The couple's ______ wedding featured gold decorations and a fifty-tier cake.",
+          "zh": "這對夫妻的婚禮極盡奢華炫耀,佈滿金色裝飾,還有五十層的蛋糕。"
+        },
+        {
+          "en": "He drove an ______ sports car just to impress his coworkers.",
+          "zh": "他開著一輛炫耀十足的跑車,只為了讓同事刮目相看。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "53",
+        "spelling": "ob",
+        "meaning": "反對；朝向"
+      }
+    },
+    {
+      "word": "obsequious",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "seeking favor, fawning:",
+      "defn_zh": "諂媚的/奉承的",
+      "root_note": "ob- (after) + sequi (to follow)",
+      "sentences": [
+        {
+          "en": "The ______ waiter kept complimenting every dish the guests ordered.",
+          "zh": "這位諂媚的服務生不斷讚美客人點的每一道菜。"
+        },
+        {
+          "en": "His ______ behavior toward the boss made his coworkers uncomfortable.",
+          "zh": "他對老闆諂媚奉承的態度讓同事感到不自在。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "53",
+        "spelling": "ob",
+        "meaning": "反對；朝向"
+      }
+    },
+    {
+      "word": "obliterate",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to erase, wipe out:",
+      "defn_zh": "抹去/清除",
+      "root_note": "ob- (against) + littera (letter)",
+      "sentences": [
+        {
+          "en": "The flood threatened to ______ the entire village.",
+          "zh": "這場洪水威脅要將整座村莊夷為平地。"
+        },
+        {
+          "en": "Years of erosion have almost ______d the ancient carvings.",
+          "zh": "多年的侵蝕幾乎已將這些古老的雕刻抹去。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "53",
+        "spelling": "ob",
+        "meaning": "反對；朝向"
+      }
+    },
+    {
+      "word": "obscure",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "unknown, lowly, unclear:",
+      "defn_zh": "模糊的/默默無聞的",
+      "root_note": "ob- (over) + scurus (covered)",
+      "sentences": [
+        {
+          "en": "The book references an ______ 19th-century poet few have heard of.",
+          "zh": "這本書引用了一位鮮為人知的十九世紀詩人。"
+        },
+        {
+          "en": "The exact origin of the tradition remains ______.",
+          "zh": "這項傳統的確切起源至今仍不明朗。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "53",
+        "spelling": "ob",
+        "meaning": "反對；朝向"
+      }
+    },
+    {
+      "word": "ostensible",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "outward, seeming:",
+      "defn_zh": "表面的/假裝的",
+      "root_note": "ob- (before) + tendere (to stretch)",
+      "sentences": [
+        {
+          "en": "The ______ reason for his visit was business, but he really wanted to see her.",
+          "zh": "他此行表面上的理由是公事,但其實他真正想見的是她。"
+        },
+        {
+          "en": "The company's ______ goal was efficiency, though layoffs were the real motive.",
+          "zh": "這家公司表面上的目標是效率,但真正的動機其實是裁員。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "53",
+        "spelling": "ob",
+        "meaning": "反對；朝向"
+      }
+    },
+    {
+      "word": "occult",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "mysterious, supernatural:",
+      "defn_zh": "神秘的/超自然的",
+      "root_note": "ob- (over) + celare (to hide)",
+      "sentences": [
+        {
+          "en": "The old book was filled with ______ symbols and rituals.",
+          "zh": "這本古書裡充滿了神秘的符號和儀式。"
+        },
+        {
+          "en": "He was fascinated by ______ practices from a young age.",
+          "zh": "他從小就對神秘學的作法十分著迷。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "53",
+        "spelling": "ob",
+        "meaning": "反對；朝向"
+      }
+    },
+    {
+      "word": "obliging",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "accommodating, helpful:",
+      "defn_zh": "樂於助人的/懇切的",
+      "root_note": "ob- (to) + ligare (to bind)",
+      "sentences": [
+        {
+          "en": "The ______ waiter brought extra napkins without being asked.",
+          "zh": "這位樂於助人的服務生沒等人開口就主動送來了額外的餐巾紙。"
+        },
+        {
+          "en": "Her neighbors were always ______, willing to lend a hand whenever needed.",
+          "zh": "她的鄰居總是很樂於幫忙,一有需要就會伸出援手。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "53",
+        "spelling": "ob",
+        "meaning": "反對；朝向"
+      }
+    },
+    {
+      "word": "opprobrium",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "scorn, insult:",
+      "defn_zh": "恥辱/責罵",
+      "root_note": "ob- (upon) + probrum (disgrace)",
+      "sentences": [
+        {
+          "en": "The scandal brought public ______ upon the entire organization.",
+          "zh": "這起醜聞為整個組織招來了公眾的恥辱與譴責。"
+        },
+        {
+          "en": "He faced widespread ______ after the leaked recordings surfaced.",
+          "zh": "在那些外洩的錄音曝光之後,他遭受了廣泛的公開責難。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "53",
+        "spelling": "ob",
+        "meaning": "反對；朝向"
+      }
+    },
+    {
+      "word": "obloquy",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "dishonor, disgrace, shame:",
+      "defn_zh": "破口大罵/恥辱",
+      "root_note": "ob- (against) + loqui (to speak)",
+      "sentences": [
+        {
+          "en": "He endured years of public ______ after the failed business venture.",
+          "zh": "在這次創業失敗之後,他忍受了多年公眾的責難與恥辱。"
+        },
+        {
+          "en": "The whistleblower faced ______ from colleagues despite exposing the truth.",
+          "zh": "儘管揭發了真相,這位吹哨者仍遭到同事的辱罵與排斥。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "53",
+        "spelling": "ob",
+        "meaning": "反對；朝向"
+      }
+    },
+    {
+      "word": "obdurate",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "resistant to persuasion or softening",
+      "defn_zh": "執拗的",
+      "root_note": "ob- (against) + durare (to harden)",
+      "sentences": [
+        {
+          "en": "He remained ______ despite his family's pleas to reconsider.",
+          "zh": "儘管家人苦苦懇求他重新考慮,他依然固執己見。"
+        },
+        {
+          "en": "The ______ landlord refused to lower the rent even during hard times.",
+          "zh": "即使在艱困時期,這位頑固的房東依然拒絕降租。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "53",
+        "spelling": "ob",
+        "meaning": "反對；朝向"
+      }
+    },
+    {
+      "word": "obstinate",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "stubborn; inflexible",
+      "defn_zh": "固執的",
+      "root_note": "ob- (against) + stare (to stand)",
+      "sentences": [
+        {
+          "en": "The ______ toddler refused to eat anything green.",
+          "zh": "這個固執的幼兒拒絕吃任何綠色的食物。"
+        },
+        {
+          "en": "His ______ refusal to apologize damaged the friendship for years.",
+          "zh": "他固執地拒絕道歉,讓這段友誼受損多年。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "53",
+        "spelling": "ob",
+        "meaning": "反對；朝向"
+      }
+    },
+    {
+      "word": "obsolete",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "old; outdated, as in no longer in use",
+      "defn_zh": "過時的",
+      "root_note": "ob- (away) + solere (to be accustomed)",
+      "sentences": [
+        {
+          "en": "The old computer system became ______ within just a few years.",
+          "zh": "這套舊電腦系統在短短幾年內就變得過時了。"
+        },
+        {
+          "en": "Many manual jobs have been made ______ by new technology.",
+          "zh": "許多人工工作已因新科技而被淘汰。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "53",
+        "spelling": "ob",
+        "meaning": "反對；朝向"
+      }
+    },
+    {
+      "word": "unobtrusive",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "inconspicuous; not easily noticed",
+      "defn_zh": "不張揚的",
+      "root_note": "un- (not) + ob- (against) + trudere (to push)",
+      "sentences": [
+        {
+          "en": "She preferred an ______ style of decoration, nothing too flashy.",
+          "zh": "她偏好低調不張揚的裝飾風格,不喜歡太過花俏的東西。"
+        },
+        {
+          "en": "The security cameras were designed to be ______ yet effective.",
+          "zh": "這些監視攝影機的設計既不張揚又能發揮效用。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "53",
+        "spelling": "ob",
+        "meaning": "反對；朝向"
+      }
+    },
+    {
+      "word": "obtuse",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "stupid; not clear or precise",
+      "defn_zh": "遲鈍的",
+      "root_note": "ob- (against) + tundere (to beat/blunt)",
+      "sentences": [
+        {
+          "en": "It would be ______ not to notice the tension in the room.",
+          "zh": "沒注意到房間裡的緊張氣氛,實在太遲鈍了。"
+        },
+        {
+          "en": "His ______ comments showed he hadn't understood the presentation at all.",
+          "zh": "他遲鈍不得要領的評論顯示他根本沒聽懂這場簡報。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "53",
+        "spelling": "ob",
+        "meaning": "反對；朝向"
+      }
+    },
+    {
+      "word": "opportunist",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a person who seeks self-gain, even at the expense of others, without regard to values or moral principles",
+      "defn_zh": "投機者",
+      "root_note": "ob- (toward) + portus (port)",
+      "sentences": [
+        {
+          "en": "The politician was criticized as an ______ who changed his views to win votes.",
+          "zh": "這位政治人物被批評是個為了贏得選票而不斷改變立場的投機者。"
+        },
+        {
+          "en": "He was seen as an ______, taking credit for work he hadn't done.",
+          "zh": "他被視為一個投機者,把別人做的工作攬功在自己身上。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "53",
+        "spelling": "ob",
+        "meaning": "反對；朝向"
+      }
+    },
+    {
+      "word": "obfuscate",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to confuse, bewilder, or make unclear:",
+      "defn_zh": "使模糊/使困惑",
+      "root_note": "ob- (against) + fuscare (to darken)",
+      "sentences": [
+        {
+          "en": "The professor's complex explanation only served to ______ the topic further.",
+          "zh": "這位教授複雜的解釋反而讓這個主題更加令人困惑。"
+        },
+        {
+          "en": "Politicians sometimes use jargon to ______ their real intentions.",
+          "zh": "政治人物有時會使用術語來掩蓋他們真正的意圖。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "53",
+        "spelling": "ob",
+        "meaning": "反對；朝向"
+      }
+    },
+    {
+      "word": "obfuscation",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "the act of making something unclear or difficult to understand:",
+      "defn_zh": "使混淆;含糊其辭",
+      "root_note": "ob- (over) + fuscare (to darken), from Latin fuscus (dark)",
+      "sentences": [
+        {
+          "en": "Critics accused the report of deliberate ______ regarding the true costs.",
+          "zh": "評論家指控這份報告在真實成本上刻意含糊其辭。"
+        },
+        {
+          "en": "The contract's dense legal ______ confused most readers.",
+          "zh": "這份合約中晦澀難懂的法律措辭讓大多數讀者感到困惑。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "53",
+        "spelling": "ob",
+        "meaning": "反對；朝向"
+      }
+    },
+    {
+      "word": "obligate",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to compel or require:",
+      "defn_zh": "使負義務/迫使",
+      "root_note": "ob- (toward) + ligare (to bind)",
+      "sentences": [
+        {
+          "en": "The contract ______ him to pay.",
+          "zh": "這份合約要求他必須付款。"
+        },
+        {
+          "en": "Their agreement ______ both parties to complete the project by June.",
+          "zh": "他們的協議要求雙方必須在六月前完成這項計畫。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "53",
+        "spelling": "ob",
+        "meaning": "反對；朝向"
+      }
+    },
+    {
+      "word": "oblique",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "diverging from a straight line or course, not straightforward:",
+      "defn_zh": "傾斜的/間接的",
+      "root_note": "ob- (against) + liquis (slanting, Latin)",
+      "sentences": [
+        {
+          "en": "He made only an ______ reference to the scandal without naming anyone.",
+          "zh": "他只間接提及了這起醜聞,並未指名道姓。"
+        },
+        {
+          "en": "The building's roof was designed at a striking ______ angle.",
+          "zh": "這棟建築的屋頂被設計成引人注目的傾斜角度。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "53",
+        "spelling": "ob",
+        "meaning": "反對；朝向"
+      }
+    },
+    {
+      "word": "obnoxious",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "causing disapproval or protest:",
+      "defn_zh": "令人討厭的/惹人反感的",
+      "root_note": "ob- (toward) + noxa (harm, injury)",
+      "sentences": [
+        {
+          "en": "His ______ jokes at the dinner party embarrassed everyone at the table.",
+          "zh": "他在晚宴上開的討人厭的玩笑讓在座每個人都感到尷尬。"
+        },
+        {
+          "en": "The neighbor's ______ behavior finally led to a formal complaint.",
+          "zh": "這位鄰居惹人反感的行為最終導致了一份正式投訴。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "53",
+        "spelling": "ob",
+        "meaning": "反對；朝向"
+      }
+    },
+    {
+      "word": "obnubilation",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "the state of being clouded, obscured, or confused:",
+      "defn_zh": "遮蔽;昏亂",
+      "root_note": "ob- (over) + nubilare (to cloud), from Latin nubes (cloud)",
+      "sentences": [
+        {
+          "en": "The medication caused temporary mental ______ in some patients.",
+          "zh": "這種藥物在部分病人身上造成暫時性的精神昏亂。"
+        },
+        {
+          "en": "A thick ______ settled over the valley before the storm broke.",
+          "zh": "在暴風雨來臨前,一片濃厚的雲霧遮蔽了這座山谷。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "53",
+        "spelling": "ob",
+        "meaning": "反對；朝向"
+      }
+    },
+    {
+      "word": "observable",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "able to be seen or noticed:",
+      "defn_zh": "可觀察到的",
+      "root_note": "ob- (toward) + servare (to watch)",
+      "sentences": [
+        {
+          "en": "The rings of Saturn were ______ through the telescope.",
+          "zh": "透過望遠鏡可以觀察到土星環。"
+        },
+        {
+          "en": "There has been an ______ increase in customer satisfaction this quarter.",
+          "zh": "本季顧客滿意度出現了可觀察到的成長。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "53",
+        "spelling": "ob",
+        "meaning": "反對；朝向"
+      }
+    },
+    {
+      "word": "observant",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "quick to notice or perceive things; paying careful attention to details:",
+      "defn_zh": "善於觀察的/敏銳的",
+      "root_note": "ob- (toward) + servare (to watch)",
+      "sentences": [
+        {
+          "en": "She was ______ enough to catch the mistake in the report before it was sent out.",
+          "zh": "她觀察力敏銳,在報告寄出前就發現了其中的錯誤。"
+        },
+        {
+          "en": "The detective is very ______ of small details.",
+          "zh": "這位偵探對細微之處非常善於觀察。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "53",
+        "spelling": "ob",
+        "meaning": "反對；朝向"
+      }
+    },
+    {
+      "word": "obsolescent",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "becoming disused or outdated:",
+      "defn_zh": "逐漸過時的",
+      "root_note": "ob- (away) + solere (to be accustomed)",
+      "sentences": [
+        {
+          "en": "The factory's ______ machinery was finally replaced last year.",
+          "zh": "這座工廠日漸過時的機器終於在去年被汰換了。"
+        },
+        {
+          "en": "Fax machines have become largely ______ in most modern offices.",
+          "zh": "傳真機在大多數現代辦公室裡已經幾乎被淘汰。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "53",
+        "spelling": "ob",
+        "meaning": "反對；朝向"
+      }
+    },
+    {
+      "word": "obstetrics",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "the branch of medicine dealing with childbirth and pregnancy:",
+      "defn_zh": "產科學",
+      "root_note": "ob- (before) + stare (to stand)",
+      "sentences": [
+        {
+          "en": "She decided to specialize in ______ after delivering her first baby during medical school.",
+          "zh": "在醫學院期間接生了她的第一個嬰兒後,她決定專攻產科學。"
+        },
+        {
+          "en": "The hospital's ______ ward welcomes over a hundred new babies each month.",
+          "zh": "這家醫院的產科病房每個月迎接超過一百個新生兒。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "53",
+        "spelling": "ob",
+        "meaning": "反對；朝向"
+      }
+    },
+    {
+      "word": "obstreperous",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "noisy, unruly:",
+      "defn_zh": "喧鬧的/難以駕馭的",
+      "root_note": "ob- (against) + strepere (to make a noise)",
+      "sentences": [
+        {
+          "en": "The teacher struggled to control the ______ classroom before the holiday.",
+          "zh": "假期前,這位老師難以控制這間喧鬧不已的教室。"
+        },
+        {
+          "en": "The ______ crowd had to be calmed down by security before the show could continue.",
+          "zh": "這場表演必須先由保全人員安撫這群喧鬧的群眾,才能繼續進行。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "53",
+        "spelling": "ob",
+        "meaning": "反對；朝向"
+      }
+    },
+    {
+      "word": "obstructed",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "blocked or hindered:",
+      "defn_zh": "受阻的/被堵塞的",
+      "root_note": "ob- (against) + struere (to build)",
+      "sentences": [
+        {
+          "en": "We couldn't leave town because the road was ______ by fallen trees.",
+          "zh": "我們無法離開小鎮,因為道路被倒下的樹木堵住了。"
+        },
+        {
+          "en": "Her view of the stage was completely ______ by the tall man in front.",
+          "zh": "前面那個高大的男子完全擋住了她看舞台的視線。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "53",
+        "spelling": "ob",
+        "meaning": "反對；朝向"
+      }
+    },
+    {
+      "word": "occupy",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to take up space or time:",
+      "defn_zh": "佔用/佔據",
+      "root_note": "ob- (toward) + capere (to take)",
+      "sentences": [
+        {
+          "en": "The kids ______ themselves with games.",
+          "zh": "孩子們用遊戲來打發時間。"
+        },
+        {
+          "en": "The army continued to ______ the border town for several years.",
+          "zh": "軍隊持續佔領這座邊境城鎮長達數年之久。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "53",
+        "spelling": "ob",
+        "meaning": "反對；朝向"
+      }
+    },
+    {
+      "word": "oppose",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to disagree with or resist strongly:",
+      "defn_zh": "反對;抵抗",
+      "root_note": "ob- (against) + ponere (to place), from Latin",
+      "sentences": [
+        {
+          "en": "Local residents began to ______ the construction of the new highway.",
+          "zh": "當地居民開始反對興建這條新高速公路。"
+        },
+        {
+          "en": "The senator vowed to ______ the controversial bill.",
+          "zh": "這位參議員誓言反對這項具爭議性的法案。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "53",
+        "spelling": "ob",
+        "meaning": "反對；朝向"
+      }
+    },
+    {
+      "word": "opposition",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "resistance or dissent; a group opposing another:",
+      "defn_zh": "反對;反對黨",
+      "root_note": "ob- (against) + ponere (to place), from Latin",
+      "sentences": [
+        {
+          "en": "The proposal faced fierce ______ from environmental groups.",
+          "zh": "這項提案面臨環保團體強烈的反對。"
+        },
+        {
+          "en": "The ______ party criticized the government's new tax policy.",
+          "zh": "反對黨批評政府新的稅收政策。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "53",
+        "spelling": "ob",
+        "meaning": "反對；朝向"
+      }
+    }
+  ],
+  "family_options": {},
+  "fallback_options": {
+    "v.": [
+      {
+        "word": "abound",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to exist in great numbers:",
+        "defn_zh": "充滿"
+      },
+      {
+        "word": "abrogate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to deprive of legal force, to nullify:=abolish",
+        "defn_zh": "廢除/取消"
+      },
+      {
+        "word": "abjure",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to renounce, abstain from:",
+        "defn_zh": "發誓放棄/棄絕"
+      },
+      {
+        "word": "abbreviate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to shorten a word or phrase:",
+        "defn_zh": "縮寫;縮短"
+      },
+      {
+        "word": "abdicate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to give up a position, usually one of leadership:",
+        "defn_zh": "退位/放棄(職位)"
+      },
+      {
+        "word": "abduct",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to kidnap, take by force:",
+        "defn_zh": "綁架/劫持"
+      },
+      {
+        "word": "abhor",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to regard with disgust and hatred:",
+        "defn_zh": "憎惡/厭惡"
+      },
+      {
+        "word": "abnegate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to deny or renounce:",
+        "defn_zh": "放棄/克制"
+      },
+      {
+        "word": "abolish",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to formally put an end to a system, practice, or institution:",
+        "defn_zh": "廢除"
+      },
+      {
+        "word": "abort",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to give up on a half-finished project or effort:",
+        "defn_zh": "中止/放棄"
+      },
+      {
+        "word": "abrade",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to scrape or wear away by friction:",
+        "defn_zh": "磨損;擦傷"
+      },
+      {
+        "word": "abscond",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to sneak away and hide:",
+        "defn_zh": "潛逃/逃匿"
+      }
+    ],
+    "adj.": [
+      {
+        "word": "abortive",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "fruitless, failing:",
+        "defn_zh": "失敗的/夭折的"
+      },
+      {
+        "word": "abstemious",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "moderate in eating or drinking:",
+        "defn_zh": "飲食有節制的"
+      },
+      {
+        "word": "abhorrent",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "detestable, despised:",
+        "defn_zh": "令人厭惡的"
+      },
+      {
+        "word": "absurd",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "ridiculous:",
+        "defn_zh": "荒謬的"
+      },
+      {
+        "word": "aberrant",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "deviating from what is normal or expected:",
+        "defn_zh": "異常的;脫軌的"
+      },
+      {
+        "word": "abject",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "wretched, pitiful:",
+        "defn_zh": "卑賤的/淒慘的"
+      },
+      {
+        "word": "abominable",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "causing moral revulsion; extremely unpleasant:",
+        "defn_zh": "可憎的;惡劣的"
+      },
+      {
+        "word": "abounding",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "existing in large numbers or amounts:",
+        "defn_zh": "大量存在的;豐富的"
+      },
+      {
+        "word": "abrasive",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "showing little concern for others; harsh:",
+        "defn_zh": "粗暴的/刺耳的"
+      },
+      {
+        "word": "abrupt",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "sudden or unexpected; brief and curt in manner:",
+        "defn_zh": "突然的/唐突的"
+      },
+      {
+        "word": "abstract",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "existing purely in the mind; not representing actual reality:",
+        "defn_zh": "抽象的"
+      },
+      {
+        "word": "abstruse",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "hard to comprehend:",
+        "defn_zh": "深奧難懂的"
+      }
+    ],
+    "n.": [
+      {
+        "word": "aversion",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "strong dislike, opposition:",
+        "defn_zh": "厭惡/反感"
+      },
+      {
+        "word": "aberration",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "something that differs from the norm:",
+        "defn_zh": "異常/脫軌"
+      },
+      {
+        "word": "abjection",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a state of complete misery, hopelessness, or degradation:",
+        "defn_zh": "卑賤;悲慘狀態"
+      },
+      {
+        "word": "abjuration",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the solemn renunciation of a belief, cause, or claim:",
+        "defn_zh": "公開放棄;誓絕"
+      },
+      {
+        "word": "ablution",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the act of washing oneself, especially as part of a religious ritual:",
+        "defn_zh": "沐浴;淨身儀式"
+      },
+      {
+        "word": "abnegation",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "denial of comfort to oneself:",
+        "defn_zh": "自我克制/放棄"
+      },
+      {
+        "word": "abomination",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "something that causes disgust or hatred:",
+        "defn_zh": "可憎之事;令人厭惡的東西"
+      },
+      {
+        "word": "abridgement",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a shortened version of a book or other written work:",
+        "defn_zh": "節略本;縮減版"
+      },
+      {
+        "word": "absolution",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "freedom from blame, guilt, sin:",
+        "defn_zh": "赦免/免罪"
+      },
+      {
+        "word": "abstemiousness",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "moderation or self-restraint, especially in eating and drinking:",
+        "defn_zh": "節制;克己"
+      },
+      {
+        "word": "abstinence",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the practice of restraining oneself from something enjoyable, especially food, alcohol, or sex:",
+        "defn_zh": "節制;戒絕"
+      },
+      {
+        "word": "avocation",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a hobby or minor occupation apart from one's main career:",
+        "defn_zh": "副業;業餘愛好"
+      }
+    ],
+    "adv.": [
+      {
+        "word": "accordingly",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in a manner that fits the circumstances; consequently:",
+        "defn_zh": "相應地;因此"
+      },
+      {
+        "word": "inadvertently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "unintentionally or by accident:",
+        "defn_zh": "無意間/不小心地"
+      },
+      {
+        "word": "consequently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "as a result; therefore:",
+        "defn_zh": "因此;結果"
+      },
+      {
+        "word": "contemptuously",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "without respect; in a disdainful manner:",
+        "defn_zh": "輕蔑地"
+      },
+      {
+        "word": "involuntarily",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "done without conscious control:",
+        "defn_zh": "不由自主地"
+      },
+      {
+        "word": "cordially",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in a warm or friendly manner:",
+        "defn_zh": "誠摯地/友好地"
+      },
+      {
+        "word": "ipso facto",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "by that very fact or act:",
+        "defn_zh": "事實上;因此"
+      },
+      {
+        "word": "en passant",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in passing; incidentally:",
+        "defn_zh": "順帶一提地;偶然地"
+      },
+      {
+        "word": "regardless",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "despite the prevailing circumstances; without being deterred:",
+        "defn_zh": "不管怎樣;儘管如此"
+      },
+      {
+        "word": "subsequently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "afterward; following in time or order:",
+        "defn_zh": "隨後;其後"
+      },
+      {
+        "word": "aside",
+        "pos": "adv./n.",
+        "pos_key": "adv.",
+        "defn_en": "to or on one side; a remark not meant to be heard by everyone:",
+        "defn_zh": "在旁邊;旁白"
+      },
+      {
+        "word": "vice versa",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "with the order or meaning reversed; conversely:",
+        "defn_zh": "反之亦然"
+      }
+    ],
+    "other": [
+      {
+        "word": "（此批單字中，暫無符合此字根/字首的單字）",
+        "pos": "",
+        "pos_key": "other",
+        "defn_en": "",
+        "defn_zh": ""
+      }
+    ],
+    "prep./adv.": [
+      {
+        "word": "besides",
+        "pos": "prep./adv.",
+        "pos_key": "prep./adv.",
+        "defn_en": "in addition to; furthermore:",
+        "defn_zh": "除...之外;此外"
+      }
+    ],
+    "phrasalv.": [
+      {
+        "word": "egg on",
+        "pos": "phrasal v.",
+        "pos_key": "phrasalv.",
+        "defn_en": "to encourage someone to do something, often risky:",
+        "defn_zh": "慫恿;鼓動"
+      }
+    ],
+    "abbr.": [
+      {
+        "word": "etc.",
+        "pos": "abbr.",
+        "pos_key": "abbr.",
+        "defn_en": "and other similar things (abbreviation of et cetera):",
+        "defn_zh": "等等(et cetera的縮寫)"
+      }
+    ],
+    "interj.": [
+      {
+        "word": "fiddledeedee",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "an exclamation expressing dismissal of something as nonsense:",
+        "defn_zh": "廢話!(表示不屑一顧)"
+      },
+      {
+        "word": "gesundheit",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "an expression said to someone who has just sneezed:",
+        "defn_zh": "保重(打噴嚏後的祝福語)"
+      }
+    ],
+    "prep.": [
+      {
+        "word": "via",
+        "pos": "prep.",
+        "pos_key": "prep.",
+        "defn_en": "by way of; passing through:",
+        "defn_zh": "經由;透過"
+      }
+    ]
+  }
+}
