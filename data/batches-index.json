@@ -4,7 +4,7 @@
     "total_batches": 236,
     "part1_part2_batches": 159,
     "unclassified_batches": 77,
-    "generated_batches": 97
+    "generated_batches": 98
   },
   "batches": [
     {
@@ -984,7 +984,7 @@
       "name": "chron",
       "subtitle": "長時間",
       "count": 8,
-      "generated": false,
+      "generated": true,
       "search_terms": "anachronism anachronistic chronicity chronicle chronological chronometer synchronization synchronize"
     },
     {
