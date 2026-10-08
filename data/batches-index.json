@@ -4,7 +4,7 @@
     "total_batches": 236,
     "part1_part2_batches": 159,
     "unclassified_batches": 77,
-    "generated_batches": 151
+    "generated_batches": 152
   },
   "batches": [
     {
@@ -1524,7 +1524,7 @@
       "name": "fund；fus",
       "subtitle": "傾倒；灌注",
       "count": 19,
-      "generated": false,
+      "generated": true,
       "search_terms": "profuse diffuse confounding confound confuse defuse effusion effusive funereal fuse fustigate infuse infusion obfuscate obfuscation profusion refuse subfuscous suffuse"
     },
     {

@@ -1,0 +1,874 @@
+{
+  "id": "p2-66-fund-fus",
+  "part": "part2",
+  "part_label": "Part 2 字根篇 (Roots)",
+  "name": "fund；fus",
+  "subtitle": "傾倒；灌注",
+  "count": 19,
+  "words": [
+    {
+      "word": "profuse",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "abundant, overflowing:",
+      "defn_zh": "豐富的/大量的",
+      "root_note": "pro- (forth) + fundere (to pour)",
+      "sentences": [
+        {
+          "en": "He offered ______ apologies for arriving so late.",
+          "zh": "他為自己遲到這麼久而不斷致歉。"
+        },
+        {
+          "en": "The garden was covered in a ______ display of spring flowers.",
+          "zh": "這座花園裡開滿了大量的春花。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "66",
+        "spelling": "fund；fus",
+        "meaning": "傾倒；灌注"
+      }
+    },
+    {
+      "word": "diffuse",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "spread out, not concise; wordy",
+      "defn_zh": "冗長散漫的；擴散的",
+      "root_note": "dis- (apart) + fundere (to pour)",
+      "sentences": [
+        {
+          "en": "His essay was too ______ and needed to be cut down significantly.",
+          "zh": "他的文章太過冗長散漫,需要大幅刪減。"
+        },
+        {
+          "en": "Light from the lamp became ______ as it passed through the frosted glass.",
+          "zh": "燈光穿過磨砂玻璃後變得柔和擴散。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "66",
+        "spelling": "fund；fus",
+        "meaning": "傾倒；灌注"
+      }
+    },
+    {
+      "word": "confounding",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "puzzling; baffling",
+      "defn_zh": "令人困惑的",
+      "root_note": "con- (together) + fundere (to pour)",
+      "sentences": [
+        {
+          "en": "The sudden drop in sales was ______ to the entire marketing team.",
+          "zh": "銷售額突然暴跌,讓整個行銷團隊感到困惑不解。"
+        },
+        {
+          "en": "Scientists found the results ______ and difficult to explain.",
+          "zh": "科學家發現這些結果令人困惑,難以解釋。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "66",
+        "spelling": "fund；fus",
+        "meaning": "傾倒；灌注"
+      }
+    },
+    {
+      "word": "confound",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to frustrate, confuse:",
+      "defn_zh": "使困惑/使混淆",
+      "root_note": "con- (together) + fundere (to pour)",
+      "sentences": [
+        {
+          "en": "The magician's trick continued to ______ the audience.",
+          "zh": "這位魔術師的把戲讓觀眾持續感到困惑不解。"
+        },
+        {
+          "en": "Her sudden decision to quit ______ed everyone at the company.",
+          "zh": "她突然辭職的決定讓公司裡的每個人都感到困惑。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "66",
+        "spelling": "fund；fus",
+        "meaning": "傾倒；灌注"
+      }
+    },
+    {
+      "word": "confuse",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to cause someone to be unable to understand clearly:",
+      "defn_zh": "使困惑;混淆",
+      "root_note": "con- (together) + fundere (to pour), from Latin",
+      "sentences": [
+        {
+          "en": "The conflicting instructions began to ______ even the most experienced staff.",
+          "zh": "這些互相矛盾的指示,連經驗最豐富的員工都開始感到困惑。"
+        },
+        {
+          "en": "Don't ______ enthusiasm with actual expertise.",
+          "zh": "別把熱情和真正的專業能力混為一談。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "66",
+        "spelling": "fund；fus",
+        "meaning": "傾倒；灌注"
+      }
+    },
+    {
+      "word": "defuse",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to remove the fuse from a bomb; to reduce tension:",
+      "defn_zh": "拆除引信;緩和(局勢)",
+      "root_note": "de- (removal of) + fuse, from Latin fusus",
+      "sentences": [
+        {
+          "en": "The bomb squad worked carefully to ______ the device.",
+          "zh": "拆彈小組小心翼翼地拆除了這個裝置的引信。"
+        },
+        {
+          "en": "Her calm words helped ______ the tense argument.",
+          "zh": "她冷靜的話語幫助緩和了這場緊張的爭執。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "66",
+        "spelling": "fund；fus",
+        "meaning": "傾倒；灌注"
+      }
+    },
+    {
+      "word": "effusion",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "an unrestrained expression of emotion:",
+      "defn_zh": "(情感的)流露;湧現",
+      "root_note": "ex- (out) + fundere (to pour), from Latin",
+      "sentences": [
+        {
+          "en": "Her letter was full of emotional ______ .",
+          "zh": "她的信中充滿了情感的流露。"
+        },
+        {
+          "en": "The audience responded with an ______ of applause.",
+          "zh": "觀眾以熱烈的掌聲湧現回應。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "66",
+        "spelling": "fund；fus",
+        "meaning": "傾倒；灌注"
+      }
+    },
+    {
+      "word": "effusive",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "expressing feelings of gratitude, pleasure, or approval in an unrestrained manner:",
+      "defn_zh": "熱情洋溢的;過分熱情的",
+      "root_note": "ex- (out) + fundere (to pour), from Latin",
+      "sentences": [
+        {
+          "en": "He gave an ______ thank-you speech at the award ceremony.",
+          "zh": "他在頒獎典禮上發表了一段熱情洋溢的感謝致詞。"
+        },
+        {
+          "en": "Her ______ praise embarrassed the shy student.",
+          "zh": "她過分熱情的讚美讓這位害羞的學生感到尷尬。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "66",
+        "spelling": "fund；fus",
+        "meaning": "傾倒；灌注"
+      }
+    },
+    {
+      "word": "funereal",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "having the mournful character of a funeral:",
+      "defn_zh": "喪禮般的;陰鬱的",
+      "root_note": "funus (funeral), from Latin",
+      "sentences": [
+        {
+          "en": "A ______ silence fell over the room after the announcement.",
+          "zh": "宣布消息後,一片喪禮般的沉默籠罩了整個房間。"
+        },
+        {
+          "en": "The film's ______ pace tested the audience's patience.",
+          "zh": "這部電影陰鬱沉重的節奏考驗著觀眾的耐心。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "66",
+        "spelling": "fund；fus",
+        "meaning": "傾倒；灌注"
+      }
+    },
+    {
+      "word": "fuse",
+      "pos": "n./v.",
+      "pos_key": "n.",
+      "defn_en": "a safety device that breaks a circuit; to join by melting:",
+      "defn_zh": "保險絲;熔合",
+      "root_note": "fusus (poured, molten), from Latin fundere",
+      "sentences": [
+        {
+          "en": "The overloaded circuit blew a ______ .",
+          "zh": "電路超載燒斷了一根保險絲。"
+        },
+        {
+          "en": "Heat caused the two metals to ______ together.",
+          "zh": "高溫使這兩種金屬熔合在一起。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "66",
+        "spelling": "fund；fus",
+        "meaning": "傾倒；灌注"
+      }
+    },
+    {
+      "word": "fustigate",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to criticize harshly; to beat with a stick:",
+      "defn_zh": "嚴厲抨擊;痛打",
+      "root_note": "fustis (stick, club), from Latin",
+      "sentences": [
+        {
+          "en": "Critics ______ d the director for his handling of the sensitive topic.",
+          "zh": "評論家嚴厲抨擊了這位導演處理這個敏感議題的方式。"
+        },
+        {
+          "en": "The editorial began to ______ the mayor's inaction.",
+          "zh": "這篇社論開始嚴厲抨擊市長的無所作為。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "66",
+        "spelling": "fund；fus",
+        "meaning": "傾倒；灌注"
+      }
+    },
+    {
+      "word": "infuse",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to fill with a quality; to steep something to extract flavor:",
+      "defn_zh": "灌輸;浸泡",
+      "root_note": "in- (into) + fundere (to pour), from Latin",
+      "sentences": [
+        {
+          "en": "The coach worked to ______ confidence into the young team.",
+          "zh": "這位教練努力為這支年輕的隊伍灌輸信心。"
+        },
+        {
+          "en": "She let the tea leaves ______ for five minutes before pouring.",
+          "zh": "她讓茶葉浸泡了五分鐘才倒出來。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "66",
+        "spelling": "fund；fus",
+        "meaning": "傾倒；灌注"
+      }
+    },
+    {
+      "word": "infusion",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "an injection of one substance into another:",
+      "defn_zh": "注入/灌輸",
+      "root_note": "in- (in) + fundere (to pour)",
+      "sentences": [
+        {
+          "en": "The company received a large ______ of cash from its new investors.",
+          "zh": "這家公司從新的投資者那裡獲得了一大筆資金注入。"
+        },
+        {
+          "en": "The tea was made from an ______ of dried herbs and hot water.",
+          "zh": "這杯茶是用乾燥香草泡在熱水中沖泡而成的。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "66",
+        "spelling": "fund；fus",
+        "meaning": "傾倒；灌注"
+      }
+    },
+    {
+      "word": "obfuscate",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to confuse, bewilder, or make unclear:",
+      "defn_zh": "使模糊/使困惑",
+      "root_note": "ob- (against) + fuscare (to darken)",
+      "sentences": [
+        {
+          "en": "The professor's complex explanation only served to ______ the topic further.",
+          "zh": "這位教授複雜的解釋反而讓這個主題更加令人困惑。"
+        },
+        {
+          "en": "Politicians sometimes use jargon to ______ their real intentions.",
+          "zh": "政治人物有時會使用術語來掩蓋他們真正的意圖。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "66",
+        "spelling": "fund；fus",
+        "meaning": "傾倒；灌注"
+      }
+    },
+    {
+      "word": "obfuscation",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "the act of making something unclear or difficult to understand:",
+      "defn_zh": "使混淆;含糊其辭",
+      "root_note": "ob- (over) + fuscare (to darken), from Latin fuscus (dark)",
+      "sentences": [
+        {
+          "en": "Critics accused the report of deliberate ______ regarding the true costs.",
+          "zh": "評論家指控這份報告在真實成本上刻意含糊其辭。"
+        },
+        {
+          "en": "The contract's dense legal ______ confused most readers.",
+          "zh": "這份合約中晦澀難懂的法律措辭讓大多數讀者感到困惑。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "66",
+        "spelling": "fund；fus",
+        "meaning": "傾倒；灌注"
+      }
+    },
+    {
+      "word": "profusion",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a large quantity of something:",
+      "defn_zh": "豐富/大量",
+      "root_note": "pro- (forth) + fundere (to pour)",
+      "sentences": [
+        {
+          "en": "The garden had a ______ of flowers every spring.",
+          "zh": "這座花園每年春天都會開滿大量的花朵。"
+        },
+        {
+          "en": "The buffet offered a ______ of dishes from around the world.",
+          "zh": "這場自助餐提供了種類豐富、來自世界各地的菜餚。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "66",
+        "spelling": "fund；fus",
+        "meaning": "傾倒；灌注"
+      }
+    },
+    {
+      "word": "refuse",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to decline or reject:",
+      "defn_zh": "拒絕",
+      "root_note": "re- (back) + fundere (to pour)",
+      "sentences": [
+        {
+          "en": "Emilia ______ the job offer.",
+          "zh": "艾蜜莉亞拒絕了這份工作邀約。"
+        },
+        {
+          "en": "He continues to ______ any help from his neighbors.",
+          "zh": "他持續拒絕鄰居提供的任何幫助。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "66",
+        "spelling": "fund；fus",
+        "meaning": "傾倒；灌注"
+      }
+    },
+    {
+      "word": "subfuscous",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "dull or dusky in color; drab:",
+      "defn_zh": "暗淡的;褐灰色的",
+      "root_note": "sub- (somewhat) + fuscus (dark, dusky), from Latin",
+      "sentences": [
+        {
+          "en": "The old photographs had faded to a ______ brown over time.",
+          "zh": "這些老照片隨著時間褪成了一種暗淡的褐色。"
+        },
+        {
+          "en": "Moths often display ______ wings that provide effective camouflage.",
+          "zh": "蛾類經常展現出暗淡的翅膀,提供有效的偽裝。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "66",
+        "spelling": "fund；fus",
+        "meaning": "傾倒；灌注"
+      }
+    },
+    {
+      "word": "suffuse",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to spread throughout or over, as with color or light:",
+      "defn_zh": "瀰漫;充滿",
+      "root_note": "suffundere, from Latin sub- (from below) + fundere (to pour)",
+      "sentences": [
+        {
+          "en": "The evening sky began to ______ with shades of orange and pink.",
+          "zh": "傍晚的天空開始瀰漫著橙色與粉紅色的色調。"
+        },
+        {
+          "en": "A sense of gratitude seemed to ______ her entire speech.",
+          "zh": "一股感激之情似乎瀰漫在她整場演說之中。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "66",
+        "spelling": "fund；fus",
+        "meaning": "傾倒；灌注"
+      }
+    }
+  ],
+  "family_options": {},
+  "fallback_options": {
+    "v.": [
+      {
+        "word": "abound",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to exist in great numbers:",
+        "defn_zh": "充滿"
+      },
+      {
+        "word": "abrogate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to deprive of legal force, to nullify:=abolish",
+        "defn_zh": "廢除/取消"
+      },
+      {
+        "word": "abjure",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to renounce, abstain from:",
+        "defn_zh": "發誓放棄/棄絕"
+      },
+      {
+        "word": "abbreviate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to shorten a word or phrase:",
+        "defn_zh": "縮寫;縮短"
+      },
+      {
+        "word": "abdicate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to give up a position, usually one of leadership:",
+        "defn_zh": "退位/放棄(職位)"
+      },
+      {
+        "word": "abduct",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to kidnap, take by force:",
+        "defn_zh": "綁架/劫持"
+      },
+      {
+        "word": "abhor",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to regard with disgust and hatred:",
+        "defn_zh": "憎惡/厭惡"
+      },
+      {
+        "word": "abnegate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to deny or renounce:",
+        "defn_zh": "放棄/克制"
+      },
+      {
+        "word": "abolish",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to formally put an end to a system, practice, or institution:",
+        "defn_zh": "廢除"
+      },
+      {
+        "word": "abort",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to give up on a half-finished project or effort:",
+        "defn_zh": "中止/放棄"
+      },
+      {
+        "word": "abrade",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to scrape or wear away by friction:",
+        "defn_zh": "磨損;擦傷"
+      },
+      {
+        "word": "abscond",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to sneak away and hide:",
+        "defn_zh": "潛逃/逃匿"
+      }
+    ],
+    "adj.": [
+      {
+        "word": "abortive",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "fruitless, failing:",
+        "defn_zh": "失敗的/夭折的"
+      },
+      {
+        "word": "abstemious",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "moderate in eating or drinking:",
+        "defn_zh": "飲食有節制的"
+      },
+      {
+        "word": "abhorrent",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "detestable, despised:",
+        "defn_zh": "令人厭惡的"
+      },
+      {
+        "word": "absurd",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "ridiculous:",
+        "defn_zh": "荒謬的"
+      },
+      {
+        "word": "aberrant",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "deviating from what is normal or expected:",
+        "defn_zh": "異常的;脫軌的"
+      },
+      {
+        "word": "abject",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "wretched, pitiful:",
+        "defn_zh": "卑賤的/淒慘的"
+      },
+      {
+        "word": "abominable",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "causing moral revulsion; extremely unpleasant:",
+        "defn_zh": "可憎的;惡劣的"
+      },
+      {
+        "word": "abounding",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "existing in large numbers or amounts:",
+        "defn_zh": "大量存在的;豐富的"
+      },
+      {
+        "word": "abrasive",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "showing little concern for others; harsh:",
+        "defn_zh": "粗暴的/刺耳的"
+      },
+      {
+        "word": "abrupt",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "sudden or unexpected; brief and curt in manner:",
+        "defn_zh": "突然的/唐突的"
+      },
+      {
+        "word": "abstract",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "existing purely in the mind; not representing actual reality:",
+        "defn_zh": "抽象的"
+      },
+      {
+        "word": "abstruse",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "hard to comprehend:",
+        "defn_zh": "深奧難懂的"
+      }
+    ],
+    "n.": [
+      {
+        "word": "aversion",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "strong dislike, opposition:",
+        "defn_zh": "厭惡/反感"
+      },
+      {
+        "word": "aberration",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "something that differs from the norm:",
+        "defn_zh": "異常/脫軌"
+      },
+      {
+        "word": "abjection",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a state of complete misery, hopelessness, or degradation:",
+        "defn_zh": "卑賤;悲慘狀態"
+      },
+      {
+        "word": "abjuration",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the solemn renunciation of a belief, cause, or claim:",
+        "defn_zh": "公開放棄;誓絕"
+      },
+      {
+        "word": "ablution",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the act of washing oneself, especially as part of a religious ritual:",
+        "defn_zh": "沐浴;淨身儀式"
+      },
+      {
+        "word": "abnegation",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "denial of comfort to oneself:",
+        "defn_zh": "自我克制/放棄"
+      },
+      {
+        "word": "abomination",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "something that causes disgust or hatred:",
+        "defn_zh": "可憎之事;令人厭惡的東西"
+      },
+      {
+        "word": "abridgement",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a shortened version of a book or other written work:",
+        "defn_zh": "節略本;縮減版"
+      },
+      {
+        "word": "absolution",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "freedom from blame, guilt, sin:",
+        "defn_zh": "赦免/免罪"
+      },
+      {
+        "word": "abstemiousness",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "moderation or self-restraint, especially in eating and drinking:",
+        "defn_zh": "節制;克己"
+      },
+      {
+        "word": "abstinence",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the practice of restraining oneself from something enjoyable, especially food, alcohol, or sex:",
+        "defn_zh": "節制;戒絕"
+      },
+      {
+        "word": "avocation",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a hobby or minor occupation apart from one's main career:",
+        "defn_zh": "副業;業餘愛好"
+      }
+    ],
+    "adv.": [
+      {
+        "word": "accordingly",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in a manner that fits the circumstances; consequently:",
+        "defn_zh": "相應地;因此"
+      },
+      {
+        "word": "inadvertently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "unintentionally or by accident:",
+        "defn_zh": "無意間/不小心地"
+      },
+      {
+        "word": "consequently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "as a result; therefore:",
+        "defn_zh": "因此;結果"
+      },
+      {
+        "word": "contemptuously",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "without respect; in a disdainful manner:",
+        "defn_zh": "輕蔑地"
+      },
+      {
+        "word": "involuntarily",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "done without conscious control:",
+        "defn_zh": "不由自主地"
+      },
+      {
+        "word": "cordially",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in a warm or friendly manner:",
+        "defn_zh": "誠摯地/友好地"
+      },
+      {
+        "word": "ipso facto",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "by that very fact or act:",
+        "defn_zh": "事實上;因此"
+      },
+      {
+        "word": "en passant",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in passing; incidentally:",
+        "defn_zh": "順帶一提地;偶然地"
+      },
+      {
+        "word": "regardless",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "despite the prevailing circumstances; without being deterred:",
+        "defn_zh": "不管怎樣;儘管如此"
+      },
+      {
+        "word": "subsequently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "afterward; following in time or order:",
+        "defn_zh": "隨後;其後"
+      },
+      {
+        "word": "aside",
+        "pos": "adv./n.",
+        "pos_key": "adv.",
+        "defn_en": "to or on one side; a remark not meant to be heard by everyone:",
+        "defn_zh": "在旁邊;旁白"
+      },
+      {
+        "word": "vice versa",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "with the order or meaning reversed; conversely:",
+        "defn_zh": "反之亦然"
+      }
+    ],
+    "other": [
+      {
+        "word": "（此批單字中，暫無符合此字根/字首的單字）",
+        "pos": "",
+        "pos_key": "other",
+        "defn_en": "",
+        "defn_zh": ""
+      }
+    ],
+    "prep./adv.": [
+      {
+        "word": "besides",
+        "pos": "prep./adv.",
+        "pos_key": "prep./adv.",
+        "defn_en": "in addition to; furthermore:",
+        "defn_zh": "除...之外;此外"
+      }
+    ],
+    "phrasalv.": [
+      {
+        "word": "egg on",
+        "pos": "phrasal v.",
+        "pos_key": "phrasalv.",
+        "defn_en": "to encourage someone to do something, often risky:",
+        "defn_zh": "慫恿;鼓動"
+      }
+    ],
+    "abbr.": [
+      {
+        "word": "etc.",
+        "pos": "abbr.",
+        "pos_key": "abbr.",
+        "defn_en": "and other similar things (abbreviation of et cetera):",
+        "defn_zh": "等等(et cetera的縮寫)"
+      }
+    ],
+    "interj.": [
+      {
+        "word": "fiddledeedee",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "an exclamation expressing dismissal of something as nonsense:",
+        "defn_zh": "廢話!(表示不屑一顧)"
+      },
+      {
+        "word": "gesundheit",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "an expression said to someone who has just sneezed:",
+        "defn_zh": "保重(打噴嚏後的祝福語)"
+      }
+    ],
+    "prep.": [
+      {
+        "word": "via",
+        "pos": "prep.",
+        "pos_key": "prep.",
+        "defn_en": "by way of; passing through:",
+        "defn_zh": "經由;透過"
+      }
+    ]
+  }
+}
