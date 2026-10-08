@@ -4,7 +4,7 @@
     "total_batches": 236,
     "part1_part2_batches": 159,
     "unclassified_batches": 77,
-    "generated_batches": 146
+    "generated_batches": 147
   },
   "batches": [
     {
@@ -1472,10 +1472,10 @@
       "part": "part2",
       "part_label": "Part 2 字根篇 (Roots)",
       "name": "greg",
-      "subtitle": "群；集合",
-      "count": 1,
-      "generated": false,
-      "search_terms": "aggregate"
+      "subtitle": "群體；聚集；分群；集合",
+      "count": 12,
+      "generated": true,
+      "search_terms": "aggregate gregarious egregious congregate segregate desegregate throng amass coalesce herd compilation muster"
     },
     {
       "id": "p2-62-duc-duct",

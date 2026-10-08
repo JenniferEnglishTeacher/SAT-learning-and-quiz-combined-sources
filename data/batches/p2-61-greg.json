@@ -1,0 +1,837 @@
+{
+  "id": "p2-61-greg",
+  "part": "part2",
+  "part_label": "Part 2 字根篇 (Roots)",
+  "name": "greg",
+  "subtitle": "群體；聚集；分群；集合",
+  "count": 12,
+  "words": [
+    {
+      "word": "aggregate",
+      "pos": "n. / v. / adj.",
+      "pos_key": "v.",
+      "defn_en": "to gather separate things into a whole; a total or collection formed in this way:",
+      "defn_zh": "匯集；聚集；總計；集合體；總體的",
+      "root_note": "ad- or ag- (to or toward) + greg (flock or herd)",
+      "synonyms": [
+        "collect",
+        "combine",
+        "accumulate",
+        "total"
+      ],
+      "antonyms": [
+        "disperse",
+        "separate",
+        "divide"
+      ],
+      "sentences": [
+        {
+          "en": "The analytics website can ______ millions of user reviews into one easy-to-read rating.",
+          "zh": "數據分析網站可以匯集數百萬則使用者評論，形成一個容易閱讀的評分。"
+        },
+        {
+          "en": "Although each donation was small, its ______ value provided the campaign with ten million dollars.",
+          "zh": "儘管單筆捐款很小，但其總計價值為競選活動提供了一千萬美元。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "61",
+        "spelling": "greg",
+        "meaning": "群體；聚集；分群；集合"
+      }
+    },
+    {
+      "word": "gregarious",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "fond of company and social activity, or naturally living together in groups:",
+      "defn_zh": "合群的；愛交際的；群居的",
+      "root_note": "greg (flock or herd) + -ious (full of or having the quality of)",
+      "synonyms": [
+        "sociable",
+        "outgoing",
+        "companionable",
+        "social"
+      ],
+      "antonyms": [
+        "solitary",
+        "reserved",
+        "unsociable"
+      ],
+      "sentences": [
+        {
+          "en": "Wolves are highly ______ animals that depend on complex pack structures to hunt and protect their territory.",
+          "zh": "狼是高度群居的動物，依賴複雜的群體結構捕獵並保護領地。"
+        },
+        {
+          "en": "Known for his ______ nature, the diplomat introduced himself to dozens of dignitaries at the gala.",
+          "zh": "這位外交官以愛交際的性格聞名，在晚宴上主動認識數十位外國政要。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "61",
+        "spelling": "greg",
+        "meaning": "群體；聚集；分群；集合"
+      }
+    },
+    {
+      "word": "egregious",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "outstandingly and shockingly bad, wrong, or offensive:",
+      "defn_zh": "極其惡劣的；令人震驚的；明目張膽的",
+      "root_note": "e- or ex- (out of) + greg (flock); literally, standing out from the flock",
+      "synonyms": [
+        "appalling",
+        "flagrant",
+        "outrageous",
+        "atrocious"
+      ],
+      "antonyms": [
+        "minor",
+        "admirable",
+        "acceptable"
+      ],
+      "sentences": [
+        {
+          "en": "The audit exposed an ______ accounting error that cost the corporation millions of dollars.",
+          "zh": "審計揭露一項極其惡劣的會計錯誤，使公司損失數百萬美元。"
+        },
+        {
+          "en": "The judge's refusal to admit vital DNA evidence was an ______ violation of constitutional rights.",
+          "zh": "法官拒絕採納關鍵 DNA 證據，是對憲法權利極其惡劣的侵犯。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "61",
+        "spelling": "greg",
+        "meaning": "群體；聚集；分群；集合"
+      }
+    },
+    {
+      "word": "congregate",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to gather together in a crowd or group:",
+      "defn_zh": "聚集；集合；群聚",
+      "root_note": "con- (together) + greg (flock or herd) + -ate (act)",
+      "synonyms": [
+        "assemble",
+        "gather",
+        "cluster",
+        "convene"
+      ],
+      "antonyms": [
+        "disperse",
+        "scatter",
+        "separate"
+      ],
+      "sentences": [
+        {
+          "en": "Thousands of fans began to ______ outside the stadium before the championship match.",
+          "zh": "冠軍賽前，數千名球迷開始在體育場外聚集。"
+        },
+        {
+          "en": "Hundreds of manatees ______ in warm coastal waters during the winter mating season.",
+          "zh": "冬季交配季節，數百頭海牛會聚集在溫暖的沿海水域。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "61",
+        "spelling": "greg",
+        "meaning": "群體；聚集；分群；集合"
+      }
+    },
+    {
+      "word": "segregate",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to separate a person or group from others, often according to a particular characteristic:",
+      "defn_zh": "隔離；分開；實施種族隔離",
+      "root_note": "se- (apart or away) + greg (flock or herd) + -ate (act)",
+      "synonyms": [
+        "separate",
+        "isolate",
+        "divide",
+        "partition"
+      ],
+      "antonyms": [
+        "integrate",
+        "combine",
+        "unite"
+      ],
+      "sentences": [
+        {
+          "en": "Technicians had to ______ infected plant tissue from healthy control samples.",
+          "zh": "技術人員必須將受感染的植物組織與健康對照樣本隔離。"
+        },
+        {
+          "en": "The museum documents laws once used to ______ citizens by race in schools and public transportation.",
+          "zh": "博物館記錄過去用來在學校與公共交通中按種族隔離公民的法律。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "61",
+        "spelling": "greg",
+        "meaning": "群體；聚集；分群；集合"
+      }
+    },
+    {
+      "word": "desegregate",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to end an official policy that separates people according to race:",
+      "defn_zh": "廢除種族隔離；取消隔離政策",
+      "root_note": "de- (reverse) + se- (apart) + greg (flock) + -ate (act)",
+      "synonyms": [
+        "integrate",
+        "unify",
+        "reunite",
+        "open"
+      ],
+      "antonyms": [
+        "segregate",
+        "separate",
+        "exclude"
+      ],
+      "sentences": [
+        {
+          "en": "The Supreme Court ruling forced school boards to ______ public classrooms.",
+          "zh": "最高法院裁決迫使學校董事會立即廢除公立教室的種族隔離。"
+        },
+        {
+          "en": "Civil-rights leaders organized boycotts to pressure stores to ______ their lunch counters.",
+          "zh": "民權領袖組織抵制活動，施壓商店取消午餐櫃檯的隔離政策。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "61",
+        "spelling": "greg",
+        "meaning": "群體；聚集；分群；集合"
+      }
+    },
+    {
+      "word": "throng",
+      "pos": "n. / v.",
+      "pos_key": "n.",
+      "defn_en": "a dense crowd of people or animals; to crowd into or fill a place:",
+      "defn_zh": "人群；一大群；蜂擁；擠滿",
+      "root_note": "Germanic origin meaning to press or crowd closely together",
+      "synonyms": [
+        "crowd",
+        "multitude",
+        "swarm",
+        "mob"
+      ],
+      "antonyms": [
+        "individual",
+        "vacancy",
+        "disperse"
+      ],
+      "sentences": [
+        {
+          "en": "An eager ______ of fans and photographers surged forward when the singer left the hotel.",
+          "zh": "歌手離開飯店時，一大群熱切的粉絲和攝影記者蜂擁上前。"
+        },
+        {
+          "en": "Every December, tourists ______ the historic squares to see the holiday lights and winter markets.",
+          "zh": "每年十二月，遊客會擠滿歷史廣場，欣賞節日燈飾和冬季市集。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "61",
+        "spelling": "greg",
+        "meaning": "群體；聚集；分群；集合"
+      }
+    },
+    {
+      "word": "amass",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to collect a large quantity of money, information, objects, or power over time:",
+      "defn_zh": "積聚；累積；收集",
+      "root_note": "ad- (to or toward) + massa (mass or large quantity)",
+      "synonyms": [
+        "accumulate",
+        "collect",
+        "gather",
+        "stockpile"
+      ],
+      "antonyms": [
+        "disperse",
+        "spend",
+        "dissipate"
+      ],
+      "sentences": [
+        {
+          "en": "By investing early in software startups, the venture capitalist managed to ______ a vast fortune.",
+          "zh": "這位創投家透過早期投資軟體新創公司，成功累積巨額財富。"
+        },
+        {
+          "en": "Journalists worked with whistleblowers to ______ documents proving corporate tax evasion.",
+          "zh": "記者與吹哨者合作，收集證明企業逃稅的文件。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "61",
+        "spelling": "greg",
+        "meaning": "群體；聚集；分群；集合"
+      }
+    },
+    {
+      "word": "coalesce",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to come together and form one larger group, mass, or whole:",
+      "defn_zh": "凝聚；結合；合併；融合",
+      "root_note": "co- (together) + alescere (to grow)",
+      "synonyms": [
+        "merge",
+        "unite",
+        "combine",
+        "converge"
+      ],
+      "antonyms": [
+        "separate",
+        "divide",
+        "disperse"
+      ],
+      "sentences": [
+        {
+          "en": "Residents began to ______ into an organized coalition when the city threatened to demolish the park.",
+          "zh": "市政府威脅拆除公園後，居民開始凝聚成有組織的聯盟。"
+        },
+        {
+          "en": "Gravity causes cosmic dust particles to slowly ______ and eventually form new planets.",
+          "zh": "引力使宇宙塵埃顆粒緩慢匯聚，最終形成新的行星。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "61",
+        "spelling": "greg",
+        "meaning": "群體；聚集；分群；集合"
+      }
+    },
+    {
+      "word": "herd",
+      "pos": "n. / v.",
+      "pos_key": "n.",
+      "defn_en": "a group of animals of one kind, or a large group of people; to move them together in a controlled direction:",
+      "defn_zh": "獸群；人群；成群驅趕；引導",
+      "root_note": "Germanic origin referring to animals kept together",
+      "synonyms": [
+        "flock",
+        "crowd",
+        "drive",
+        "guide"
+      ],
+      "antonyms": [
+        "individual",
+        "scatter",
+        "disperse"
+      ],
+      "sentences": [
+        {
+          "en": "Security guards had to ______ the crowd through narrow side doors during the fire drill.",
+          "zh": "消防演習時，保全必須引導人群通過狹窄的側門。"
+        },
+        {
+          "en": "Economists study how ______ mentality encourages investors to imitate the broader crowd.",
+          "zh": "經濟學家研究羊群心理如何促使投資者模仿大眾。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "61",
+        "spelling": "greg",
+        "meaning": "群體；聚集；分群；集合"
+      }
+    },
+    {
+      "word": "compilation",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a collection of separate texts, facts, recordings, or other materials gathered into one work:",
+      "defn_zh": "彙編；合集；編輯物",
+      "root_note": "con- (together) + pilare (gather or heap up) + -ion (act or result)",
+      "synonyms": [
+        "collection",
+        "anthology",
+        "assemblage",
+        "digest"
+      ],
+      "antonyms": [
+        "fragment",
+        "single work"
+      ],
+      "sentences": [
+        {
+          "en": "The professor published a thick ______ of nineteenth-century feminist essays.",
+          "zh": "教授出版了一本厚厚的十九世紀女性主義散文彙編。"
+        },
+        {
+          "en": "The firm released a comprehensive ______ of cybersecurity rules from several departments.",
+          "zh": "公司發布一份彙集各部門規則的完整網路安全協定合集。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "61",
+        "spelling": "greg",
+        "meaning": "群體；聚集；分群；集合"
+      }
+    },
+    {
+      "word": "muster",
+      "pos": "n. / v.",
+      "pos_key": "v.",
+      "defn_en": "to assemble people for inspection or action, or to gather enough strength, courage, or support:",
+      "defn_zh": "召集；集合；鼓起；聚集力量",
+      "root_note": "Latin monstrare (to show or put on display)",
+      "synonyms": [
+        "assemble",
+        "rally",
+        "summon",
+        "marshal"
+      ],
+      "antonyms": [
+        "dismiss",
+        "disband",
+        "scatter"
+      ],
+      "sentences": [
+        {
+          "en": "The general ordered his officers to ______ all available troops in the central courtyard.",
+          "zh": "將軍命令軍官在中央庭院召集所有可用部隊。"
+        },
+        {
+          "en": "Despite severe stage fright, the cellist managed to ______ enough courage to perform.",
+          "zh": "儘管非常怯場，這位大提琴家仍鼓起足夠勇氣上台演出。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "61",
+        "spelling": "greg",
+        "meaning": "群體；聚集；分群；集合"
+      }
+    }
+  ],
+  "family_options": {},
+  "fallback_options": {
+    "v.": [
+      {
+        "word": "abound",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to exist in great numbers:",
+        "defn_zh": "充滿"
+      },
+      {
+        "word": "abrogate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to deprive of legal force, to nullify:=abolish",
+        "defn_zh": "廢除/取消"
+      },
+      {
+        "word": "abjure",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to renounce, abstain from:",
+        "defn_zh": "發誓放棄/棄絕"
+      },
+      {
+        "word": "abbreviate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to shorten a word or phrase:",
+        "defn_zh": "縮寫;縮短"
+      },
+      {
+        "word": "abdicate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to give up a position, usually one of leadership:",
+        "defn_zh": "退位/放棄(職位)"
+      },
+      {
+        "word": "abduct",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to kidnap, take by force:",
+        "defn_zh": "綁架/劫持"
+      },
+      {
+        "word": "abhor",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to regard with disgust and hatred:",
+        "defn_zh": "憎惡/厭惡"
+      },
+      {
+        "word": "abnegate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to deny or renounce:",
+        "defn_zh": "放棄/克制"
+      },
+      {
+        "word": "abolish",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to formally put an end to a system, practice, or institution:",
+        "defn_zh": "廢除"
+      },
+      {
+        "word": "abort",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to give up on a half-finished project or effort:",
+        "defn_zh": "中止/放棄"
+      },
+      {
+        "word": "abrade",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to scrape or wear away by friction:",
+        "defn_zh": "磨損;擦傷"
+      },
+      {
+        "word": "abscond",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to sneak away and hide:",
+        "defn_zh": "潛逃/逃匿"
+      }
+    ],
+    "adj.": [
+      {
+        "word": "abortive",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "fruitless, failing:",
+        "defn_zh": "失敗的/夭折的"
+      },
+      {
+        "word": "abstemious",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "moderate in eating or drinking:",
+        "defn_zh": "飲食有節制的"
+      },
+      {
+        "word": "abhorrent",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "detestable, despised:",
+        "defn_zh": "令人厭惡的"
+      },
+      {
+        "word": "absurd",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "ridiculous:",
+        "defn_zh": "荒謬的"
+      },
+      {
+        "word": "aberrant",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "deviating from what is normal or expected:",
+        "defn_zh": "異常的;脫軌的"
+      },
+      {
+        "word": "abject",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "wretched, pitiful:",
+        "defn_zh": "卑賤的/淒慘的"
+      },
+      {
+        "word": "abominable",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "causing moral revulsion; extremely unpleasant:",
+        "defn_zh": "可憎的;惡劣的"
+      },
+      {
+        "word": "abounding",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "existing in large numbers or amounts:",
+        "defn_zh": "大量存在的;豐富的"
+      },
+      {
+        "word": "abrasive",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "showing little concern for others; harsh:",
+        "defn_zh": "粗暴的/刺耳的"
+      },
+      {
+        "word": "abrupt",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "sudden or unexpected; brief and curt in manner:",
+        "defn_zh": "突然的/唐突的"
+      },
+      {
+        "word": "abstract",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "existing purely in the mind; not representing actual reality:",
+        "defn_zh": "抽象的"
+      },
+      {
+        "word": "abstruse",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "hard to comprehend:",
+        "defn_zh": "深奧難懂的"
+      }
+    ],
+    "n.": [
+      {
+        "word": "aversion",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "strong dislike, opposition:",
+        "defn_zh": "厭惡/反感"
+      },
+      {
+        "word": "aberration",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "something that differs from the norm:",
+        "defn_zh": "異常/脫軌"
+      },
+      {
+        "word": "abjection",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a state of complete misery, hopelessness, or degradation:",
+        "defn_zh": "卑賤;悲慘狀態"
+      },
+      {
+        "word": "abjuration",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the solemn renunciation of a belief, cause, or claim:",
+        "defn_zh": "公開放棄;誓絕"
+      },
+      {
+        "word": "ablution",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the act of washing oneself, especially as part of a religious ritual:",
+        "defn_zh": "沐浴;淨身儀式"
+      },
+      {
+        "word": "abnegation",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "denial of comfort to oneself:",
+        "defn_zh": "自我克制/放棄"
+      },
+      {
+        "word": "abomination",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "something that causes disgust or hatred:",
+        "defn_zh": "可憎之事;令人厭惡的東西"
+      },
+      {
+        "word": "abridgement",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a shortened version of a book or other written work:",
+        "defn_zh": "節略本;縮減版"
+      },
+      {
+        "word": "absolution",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "freedom from blame, guilt, sin:",
+        "defn_zh": "赦免/免罪"
+      },
+      {
+        "word": "abstemiousness",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "moderation or self-restraint, especially in eating and drinking:",
+        "defn_zh": "節制;克己"
+      },
+      {
+        "word": "abstinence",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the practice of restraining oneself from something enjoyable, especially food, alcohol, or sex:",
+        "defn_zh": "節制;戒絕"
+      },
+      {
+        "word": "avocation",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a hobby or minor occupation apart from one's main career:",
+        "defn_zh": "副業;業餘愛好"
+      }
+    ],
+    "adv.": [
+      {
+        "word": "accordingly",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in a manner that fits the circumstances; consequently:",
+        "defn_zh": "相應地;因此"
+      },
+      {
+        "word": "inadvertently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "unintentionally or by accident:",
+        "defn_zh": "無意間/不小心地"
+      },
+      {
+        "word": "consequently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "as a result; therefore:",
+        "defn_zh": "因此;結果"
+      },
+      {
+        "word": "contemptuously",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "without respect; in a disdainful manner:",
+        "defn_zh": "輕蔑地"
+      },
+      {
+        "word": "involuntarily",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "done without conscious control:",
+        "defn_zh": "不由自主地"
+      },
+      {
+        "word": "cordially",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in a warm or friendly manner:",
+        "defn_zh": "誠摯地/友好地"
+      },
+      {
+        "word": "ipso facto",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "by that very fact or act:",
+        "defn_zh": "事實上;因此"
+      },
+      {
+        "word": "en passant",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in passing; incidentally:",
+        "defn_zh": "順帶一提地;偶然地"
+      },
+      {
+        "word": "regardless",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "despite the prevailing circumstances; without being deterred:",
+        "defn_zh": "不管怎樣;儘管如此"
+      },
+      {
+        "word": "subsequently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "afterward; following in time or order:",
+        "defn_zh": "隨後;其後"
+      },
+      {
+        "word": "aside",
+        "pos": "adv./n.",
+        "pos_key": "adv.",
+        "defn_en": "to or on one side; a remark not meant to be heard by everyone:",
+        "defn_zh": "在旁邊;旁白"
+      },
+      {
+        "word": "vice versa",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "with the order or meaning reversed; conversely:",
+        "defn_zh": "反之亦然"
+      }
+    ],
+    "other": [
+      {
+        "word": "（此批單字中，暫無符合此字根/字首的單字）",
+        "pos": "",
+        "pos_key": "other",
+        "defn_en": "",
+        "defn_zh": ""
+      }
+    ],
+    "prep./adv.": [
+      {
+        "word": "besides",
+        "pos": "prep./adv.",
+        "pos_key": "prep./adv.",
+        "defn_en": "in addition to; furthermore:",
+        "defn_zh": "除...之外;此外"
+      }
+    ],
+    "phrasalv.": [
+      {
+        "word": "egg on",
+        "pos": "phrasal v.",
+        "pos_key": "phrasalv.",
+        "defn_en": "to encourage someone to do something, often risky:",
+        "defn_zh": "慫恿;鼓動"
+      }
+    ],
+    "abbr.": [
+      {
+        "word": "etc.",
+        "pos": "abbr.",
+        "pos_key": "abbr.",
+        "defn_en": "and other similar things (abbreviation of et cetera):",
+        "defn_zh": "等等(et cetera的縮寫)"
+      }
+    ],
+    "interj.": [
+      {
+        "word": "fiddledeedee",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "an exclamation expressing dismissal of something as nonsense:",
+        "defn_zh": "廢話!(表示不屑一顧)"
+      },
+      {
+        "word": "gesundheit",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "an expression said to someone who has just sneezed:",
+        "defn_zh": "保重(打噴嚏後的祝福語)"
+      }
+    ],
+    "prep.": [
+      {
+        "word": "via",
+        "pos": "prep.",
+        "pos_key": "prep.",
+        "defn_en": "by way of; passing through:",
+        "defn_zh": "經由;透過"
+      }
+    ]
+  }
+}
