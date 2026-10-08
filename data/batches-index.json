@@ -4,7 +4,7 @@
     "total_batches": 236,
     "part1_part2_batches": 159,
     "unclassified_batches": 77,
-    "generated_batches": 136
+    "generated_batches": 137
   },
   "batches": [
     {
@@ -1374,7 +1374,7 @@
       "name": "tain",
       "subtitle": "握住",
       "count": 12,
-      "generated": false,
+      "generated": true,
       "search_terms": "pertinent tenacious countenance tenable abstain abstinence continual continue continuous pertinacious retain sustenance"
     },
     {
