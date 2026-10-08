@@ -1,0 +1,1138 @@
+{
+  "id": "p2-29-pass-path-y",
+  "part": "part2",
+  "part_label": "Part 2 字根篇 (Roots)",
+  "name": "pass；path(y)",
+  "subtitle": "感覺",
+  "count": 30,
+  "words": [
+    {
+      "word": "apathy",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "unconcern, lack of interest:",
+      "defn_zh": "冷漠/無興趣",
+      "root_note": "a- (without) + pathos (feeling)",
+      "sentences": [
+        {
+          "en": "Voter ______ led to a record-low turnout in the election.",
+          "zh": "選民的冷漠導致這次選舉的投票率創下新低。"
+        },
+        {
+          "en": "His ______ toward the project frustrated the rest of the team.",
+          "zh": "他對這項計畫的漠不關心讓團隊其他成員感到沮喪。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "29",
+        "spelling": "pass；path(y)",
+        "meaning": "感覺"
+      }
+    },
+    {
+      "word": "antipathy",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "dislike, distaste, hate:",
+      "defn_zh": "反感/厭惡",
+      "root_note": "anti- (against) + pathos (feeling)",
+      "sentences": [
+        {
+          "en": "The two neighbors have a deep ______ toward each other.",
+          "zh": "這兩位鄰居彼此之間懷有很深的反感。"
+        },
+        {
+          "en": "Her ______ for crowded places kept her away from festivals.",
+          "zh": "她對擁擠場所的厭惡讓她總是遠離各種節慶活動。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "29",
+        "spelling": "pass；path(y)",
+        "meaning": "感覺"
+      }
+    },
+    {
+      "word": "passé",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "outmoded, old-fashioned:",
+      "defn_zh": "過時的",
+      "root_note": "passer (to pass)",
+      "sentences": [
+        {
+          "en": "Wearing suits to the office is considered somewhat ______ in tech companies.",
+          "zh": "在科技公司裡,穿西裝上班被認為有點過時。"
+        },
+        {
+          "en": "Critics say the band's sound has become ______.",
+          "zh": "評論家表示這支樂團的音樂風格已經過時了。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "29",
+        "spelling": "pass；path(y)",
+        "meaning": "感覺"
+      }
+    },
+    {
+      "word": "pathetic",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "sad, pitiful, woeful:",
+      "defn_zh": "可悲的/引起憐憫的",
+      "root_note": "pathos (suffering/feeling)",
+      "sentences": [
+        {
+          "en": "It was ______ to watch him beg for another chance.",
+          "zh": "看著他苦苦哀求再給一次機會,實在令人心酸。"
+        },
+        {
+          "en": "The team's ______ performance embarrassed even their most loyal fans.",
+          "zh": "這支隊伍差勁到令人心酸的表現,連他們最忠實的球迷都感到尷尬。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "29",
+        "spelling": "pass；path(y)",
+        "meaning": "感覺"
+      }
+    },
+    {
+      "word": "apathetic",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "indifferent; showing no care, interest; lacking emotion",
+      "defn_zh": "冷漠的",
+      "root_note": "a- (without) + pathos (feeling)",
+      "sentences": [
+        {
+          "en": "Many young voters felt ______ about the upcoming election.",
+          "zh": "許多年輕選民對即將到來的選舉感到漠不關心。"
+        },
+        {
+          "en": "He grew ______ toward his studies after losing interest in school.",
+          "zh": "在對學校失去興趣後,他對課業變得漠不關心。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "29",
+        "spelling": "pass；path(y)",
+        "meaning": "感覺"
+      }
+    },
+    {
+      "word": "surpass",
+      "pos": "vb.",
+      "pos_key": "v.",
+      "defn_en": "to be better than; to excel",
+      "defn_zh": "超越",
+      "root_note": "sur- (over) + passus (step)",
+      "sentences": [
+        {
+          "en": "Her test scores continued to ______ everyone else's in the class.",
+          "zh": "她的考試成績持續超越班上其他所有人。"
+        },
+        {
+          "en": "The company's profits are expected to ______ last year's record.",
+          "zh": "這家公司的獲利預計將超越去年的紀錄。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "29",
+        "spelling": "pass；path(y)",
+        "meaning": "感覺"
+      }
+    },
+    {
+      "word": "addlepated",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "confused or muddled in thought:",
+      "defn_zh": "頭腦不清的;糊塗的",
+      "root_note": "addled + pate (head)",
+      "sentences": [
+        {
+          "en": "The ______ clerk gave three different customers the wrong receipts.",
+          "zh": "這位頭腦不清的店員給了三位顧客錯誤的收據。"
+        },
+        {
+          "en": "After the long flight, she felt too ______ to make any real decisions.",
+          "zh": "長途飛行後,她感到頭昏腦脹,無法做出任何正經的決定。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "29",
+        "spelling": "pass；path(y)",
+        "meaning": "感覺"
+      }
+    },
+    {
+      "word": "dispassionate",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "not influenced by strong emotion; impartial:",
+      "defn_zh": "冷靜客觀的;不帶感情的",
+      "root_note": "dis- (not) + passio (passion), from Latin",
+      "sentences": [
+        {
+          "en": "The judge gave a ______ assessment of the evidence.",
+          "zh": "法官對證據給出了冷靜客觀的評估。"
+        },
+        {
+          "en": "She remained ______ even while discussing her own case.",
+          "zh": "即使在討論自己的案件時,她仍保持不帶感情的態度。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "29",
+        "spelling": "pass；path(y)",
+        "meaning": "感覺"
+      }
+    },
+    {
+      "word": "empathy",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "sensitivity to another's feelings as if they were one's own:",
+      "defn_zh": "同理心",
+      "root_note": "en- (in) + pathos (feeling, suffering, Greek)",
+      "sentences": [
+        {
+          "en": "Good nurses show great ______ toward their patients' fears.",
+          "zh": "優秀的護理師對病人的恐懼展現出高度的同理心。"
+        },
+        {
+          "en": "Her ______ for the refugees inspired her to volunteer at the shelter.",
+          "zh": "她對難民的同理心促使她到收容所擔任志工。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "29",
+        "spelling": "pass；path(y)",
+        "meaning": "感覺"
+      }
+    },
+    {
+      "word": "en passant",
+      "pos": "adv.",
+      "pos_key": "adv.",
+      "defn_en": "in passing; incidentally:",
+      "defn_zh": "順帶一提地;偶然地",
+      "root_note": "French en (in) + passant (passing)",
+      "sentences": [
+        {
+          "en": "He mentioned the merger ______ during an unrelated meeting.",
+          "zh": "他在一場不相關的會議中順帶一提地提到了這次併購。"
+        },
+        {
+          "en": "The author addresses the controversy only ______ in a footnote.",
+          "zh": "這位作者只在一個註腳中順帶提及這場爭議。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "29",
+        "spelling": "pass；path(y)",
+        "meaning": "感覺"
+      }
+    },
+    {
+      "word": "faux pas",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "an embarrassing social mistake:",
+      "defn_zh": "失禮;社交失誤",
+      "root_note": "French faux (false) + pas (step)",
+      "sentences": [
+        {
+          "en": "Calling her by the wrong name was an unfortunate ______ .",
+          "zh": "叫錯她的名字是一次令人尷尬的社交失誤。"
+        },
+        {
+          "en": "He committed a cultural ______ by not removing his shoes.",
+          "zh": "他因沒有脫鞋而犯下了一次文化上的失禮。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "29",
+        "spelling": "pass；path(y)",
+        "meaning": "感覺"
+      }
+    },
+    {
+      "word": "impassable",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "impossible to travel along or through:",
+      "defn_zh": "無法通行的",
+      "root_note": "in- (not) + passare (to pass), from Latin",
+      "sentences": [
+        {
+          "en": "Heavy snow made the mountain road ______ .",
+          "zh": "大雪讓這條山路無法通行。"
+        },
+        {
+          "en": "Fallen trees rendered the trail ______ after the storm.",
+          "zh": "暴風雨過後,倒下的樹木讓這條步道無法通行。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "29",
+        "spelling": "pass；path(y)",
+        "meaning": "感覺"
+      }
+    },
+    {
+      "word": "impasse",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a situation in which no progress is possible; a deadlock:",
+      "defn_zh": "僵局;死路",
+      "root_note": "in- (not) + passer (to pass), from French",
+      "sentences": [
+        {
+          "en": "Negotiations reached an ______ over wages.",
+          "zh": "這場談判在薪資問題上陷入了僵局。"
+        },
+        {
+          "en": "The two countries remained at an ______ for months.",
+          "zh": "這兩個國家陷入僵局長達數月之久。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "29",
+        "spelling": "pass；path(y)",
+        "meaning": "感覺"
+      }
+    },
+    {
+      "word": "impassionated",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "filled with intense emotion; passionate:",
+      "defn_zh": "充滿激情的",
+      "root_note": "in- (into) + passio (passion), from Latin",
+      "sentences": [
+        {
+          "en": "Her ______ plea moved the entire council to reconsider.",
+          "zh": "她充滿激情的懇求讓整個議會重新考慮。"
+        },
+        {
+          "en": "He delivered an ______ defense of his controversial theory.",
+          "zh": "他慷慨激昂地為自己具爭議性的理論辯護。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "29",
+        "spelling": "pass；path(y)",
+        "meaning": "感覺"
+      }
+    },
+    {
+      "word": "osteopath",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a therapist who manipulates the skeleton and muscles:",
+      "defn_zh": "整骨師",
+      "root_note": "osteon (bone, Greek) + pathos (suffering, Greek)",
+      "sentences": [
+        {
+          "en": "She visited an ______ to relieve the chronic pain in her lower back.",
+          "zh": "她去看了一位整骨師,以緩解她下背部的慢性疼痛。"
+        },
+        {
+          "en": "The ______ used gentle manipulation techniques to realign his spine.",
+          "zh": "這位整骨師運用溫和的手法來調整他的脊椎排列。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "29",
+        "spelling": "pass；path(y)",
+        "meaning": "感覺"
+      }
+    },
+    {
+      "word": "passable",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "adequate but not excellent; able to be traveled on:",
+      "defn_zh": "尚可的;可通行的",
+      "root_note": "passer (to pass), from Latin passus (step)",
+      "sentences": [
+        {
+          "en": "His French was ______ , though far from fluent.",
+          "zh": "他的法語尚可,但遠遠稱不上流利。"
+        },
+        {
+          "en": "The road remained ______ despite the heavy snow.",
+          "zh": "儘管下了大雪,這條路依然可以通行。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "29",
+        "spelling": "pass；path(y)",
+        "meaning": "感覺"
+      }
+    },
+    {
+      "word": "passionate",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "showing strong feelings or enthusiasm:",
+      "defn_zh": "熱情的;充滿激情的",
+      "root_note": "passio (suffering, feeling), from Latin pati (to suffer)",
+      "sentences": [
+        {
+          "en": "She has always been ______ about protecting endangered species.",
+          "zh": "她一直對保護瀕危物種充滿熱情。"
+        },
+        {
+          "en": "His ______ speech moved the entire audience to tears.",
+          "zh": "他充滿激情的演講讓全場觀眾都感動落淚。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "29",
+        "spelling": "pass；path(y)",
+        "meaning": "感覺"
+      }
+    },
+    {
+      "word": "passive",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "accepting what happens without resistance; not participating actively:",
+      "defn_zh": "被動的;消極的",
+      "root_note": "passivus (capable of feeling), from Latin pati (to suffer)",
+      "sentences": [
+        {
+          "en": "He remained ______ while others made all the decisions.",
+          "zh": "當其他人做出所有決定時,他始終保持被動。"
+        },
+        {
+          "en": "The therapy encourages patients to move from ______ to active recovery.",
+          "zh": "這項療法鼓勵病人從被動轉向積極的康復。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "29",
+        "spelling": "pass；path(y)",
+        "meaning": "感覺"
+      }
+    },
+    {
+      "word": "patent",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "readily seen or understood, clear:",
+      "defn_zh": "明顯的/顯而易見的",
+      "root_note": "patere (to lie open)",
+      "sentences": [
+        {
+          "en": "It was ______ from her expression that she disagreed with the plan.",
+          "zh": "從她的表情就能明顯看出她不贊同這項計畫。"
+        },
+        {
+          "en": "The judge called the contract's unfair terms ______ly obvious.",
+          "zh": "法官指出這份合約中不公平的條款顯而易見。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "29",
+        "spelling": "pass；path(y)",
+        "meaning": "感覺"
+      }
+    },
+    {
+      "word": "pathological",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "relating to the study of diseases:",
+      "defn_zh": "病理的/病態的",
+      "root_note": "pathos (suffering, Greek) + logos (study, Greek)",
+      "sentences": [
+        {
+          "en": "His ______ fear of germs affected every part of his daily routine.",
+          "zh": "他病態般對細菌的恐懼影響了他日常生活的每個環節。"
+        },
+        {
+          "en": "The lab performed a ______ analysis on the tissue sample.",
+          "zh": "實驗室對這份組織樣本進行了病理分析。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "29",
+        "spelling": "pass；path(y)",
+        "meaning": "感覺"
+      }
+    },
+    {
+      "word": "pathology",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a deviation from the normal:",
+      "defn_zh": "病理學/病態",
+      "root_note": "pathos (suffering, Greek) + logos (study, Greek)",
+      "sentences": [
+        {
+          "en": "The medical student is training to become a specialist in ______.",
+          "zh": "這位醫學生正在受訓,將成為病理學專科醫師。"
+        },
+        {
+          "en": "Researchers study the ______ of the disease to develop better treatments.",
+          "zh": "研究人員研究這種疾病的病理,以開發更好的治療方法。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "29",
+        "spelling": "pass；path(y)",
+        "meaning": "感覺"
+      }
+    },
+    {
+      "word": "pathos",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "an emotion of sympathy:",
+      "defn_zh": "悲愴感/憐憫",
+      "root_note": "pathos (suffering, feeling, Greek)",
+      "sentences": [
+        {
+          "en": "The film balances humor with genuine ______ in its final scenes.",
+          "zh": "這部電影在結局中巧妙融合了幽默與真摯的悲憫之情。"
+        },
+        {
+          "en": "Her speech was filled with a quiet ______ that moved many in the audience.",
+          "zh": "她的演說充滿了一種靜靜的悲愴感,打動了在場許多聽眾。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "29",
+        "spelling": "pass；path(y)",
+        "meaning": "感覺"
+      }
+    },
+    {
+      "word": "patio",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a paved outdoor area adjoining a house:",
+      "defn_zh": "露台;庭院",
+      "root_note": "patio (courtyard), from Spanish",
+      "sentences": [
+        {
+          "en": "They hosted the barbecue on their newly built ______ .",
+          "zh": "他們在新建的露台上舉辦了這場烤肉聚會。"
+        },
+        {
+          "en": "The house's ______ offered a lovely view of the garden.",
+          "zh": "這棟房子的露台能欣賞到花園美麗的景色。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "29",
+        "spelling": "pass；path(y)",
+        "meaning": "感覺"
+      }
+    },
+    {
+      "word": "patios",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "the plural form of patio, paved outdoor areas adjoining houses:",
+      "defn_zh": "露台(複數)",
+      "root_note": "patio (courtyard), from Spanish",
+      "sentences": [
+        {
+          "en": "The new subdivision featured homes with spacious ______ .",
+          "zh": "這個新開發的社區裡的房屋都設有寬敞的露台。"
+        },
+        {
+          "en": "Restaurants along the boardwalk added outdoor ______ for summer dining.",
+          "zh": "沿著木棧道的餐廳都增設了戶外露台,以供夏季用餐。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "29",
+        "spelling": "pass；path(y)",
+        "meaning": "感覺"
+      }
+    },
+    {
+      "word": "psychopathic",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "exhibiting severe antisocial behavior and lacking empathy:",
+      "defn_zh": "精神病態的",
+      "root_note": "psyche (mind) + pathos (disease), from Greek",
+      "sentences": [
+        {
+          "en": "The film portrays a chillingly ______ killer with no remorse.",
+          "zh": "這部電影描繪了一個令人不寒而慄、毫無悔意的精神病態殺手。"
+        },
+        {
+          "en": "Researchers study ______ traits to better understand criminal behavior.",
+          "zh": "研究人員研究精神病態的特質,以更加了解犯罪行為。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "29",
+        "spelling": "pass；path(y)",
+        "meaning": "感覺"
+      }
+    },
+    {
+      "word": "psychopathy",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a mental disorder marked by egocentricity and a lack of remorse:",
+      "defn_zh": "精神病態",
+      "root_note": "psyche (mind) + pathos (suffering), from Greek",
+      "sentences": [
+        {
+          "en": "Clinical assessments of ______ use specific behavioral checklists.",
+          "zh": "精神病態的臨床評估使用特定的行為檢核表。"
+        },
+        {
+          "en": "The documentary explored the roots of ______ in early childhood trauma.",
+          "zh": "這部紀錄片探討了精神病態在童年早期創傷中的根源。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "29",
+        "spelling": "pass；path(y)",
+        "meaning": "感覺"
+      }
+    },
+    {
+      "word": "puzzlepate",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a confused or muddle-headed person:",
+      "defn_zh": "糊塗蛋;頭腦混亂的人",
+      "root_note": "puzzle, of uncertain origin + pate (head), from Middle English",
+      "sentences": [
+        {
+          "en": "The old comedy features a bumbling ______ who misunderstands every instruction.",
+          "zh": "這齣古老的喜劇裡有個誤解每項指令的糊塗蛋。"
+        },
+        {
+          "en": "He laughed at himself for being such a ______ about directions.",
+          "zh": "他嘲笑自己在方向感上簡直是個十足的糊塗蛋。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "29",
+        "spelling": "pass；path(y)",
+        "meaning": "感覺"
+      }
+    },
+    {
+      "word": "surpassing",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "exceptional or superior in a way that exceeds others:",
+      "defn_zh": "超越的;卓越的",
+      "root_note": "sur- (over) + passer (to pass), from French",
+      "sentences": [
+        {
+          "en": "The soprano's ______ talent left the audience speechless.",
+          "zh": "這位女高音卓越的天賦讓觀眾啞口無言。"
+        },
+        {
+          "en": "He treated her with ______ kindness during her difficult recovery.",
+          "zh": "在她艱難的康復期間,他以無比的仁慈對待她。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "29",
+        "spelling": "pass；path(y)",
+        "meaning": "感覺"
+      }
+    },
+    {
+      "word": "sympathy",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "sharing the feelings of others, especially sorrow:",
+      "defn_zh": "同情/憐憫",
+      "root_note": "syn- (together, Greek) + pathos (feeling, Greek)",
+      "sentences": [
+        {
+          "en": "She sent a card expressing her deepest ______ after his father's passing.",
+          "zh": "在他父親過世後,她寄了一張卡片表達最深的同情之意。"
+        },
+        {
+          "en": "The community showed great ______ for the families affected by the fire.",
+          "zh": "這個社區對受這場火災影響的家庭展現出極大的同情心。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "29",
+        "spelling": "pass；path(y)",
+        "meaning": "感覺"
+      }
+    },
+    {
+      "word": "trespass",
+      "pos": "v./n.",
+      "pos_key": "v.",
+      "defn_en": "to enter someone's property without permission; a wrongdoing:",
+      "defn_zh": "擅自進入;侵犯",
+      "root_note": "trespasser, from Old French tres- (across) + passer (to pass)",
+      "sentences": [
+        {
+          "en": "Hikers were warned not to ______ on the private ranch land.",
+          "zh": "健行者被警告不得擅自進入這片私人牧場土地。"
+        },
+        {
+          "en": "The old prayer asks forgiveness for one's ______ es.",
+          "zh": "這篇古老的禱文祈求對自己過犯的寬恕。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "29",
+        "spelling": "pass；path(y)",
+        "meaning": "感覺"
+      }
+    }
+  ],
+  "family_options": {},
+  "fallback_options": {
+    "v.": [
+      {
+        "word": "abound",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to exist in great numbers:",
+        "defn_zh": "充滿"
+      },
+      {
+        "word": "abrogate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to deprive of legal force, to nullify:=abolish",
+        "defn_zh": "廢除/取消"
+      },
+      {
+        "word": "abjure",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to renounce, abstain from:",
+        "defn_zh": "發誓放棄/棄絕"
+      },
+      {
+        "word": "abbreviate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to shorten a word or phrase:",
+        "defn_zh": "縮寫;縮短"
+      },
+      {
+        "word": "abdicate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to give up a position, usually one of leadership:",
+        "defn_zh": "退位/放棄(職位)"
+      },
+      {
+        "word": "abduct",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to kidnap, take by force:",
+        "defn_zh": "綁架/劫持"
+      },
+      {
+        "word": "abhor",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to regard with disgust and hatred:",
+        "defn_zh": "憎惡/厭惡"
+      },
+      {
+        "word": "abnegate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to deny or renounce:",
+        "defn_zh": "放棄/克制"
+      },
+      {
+        "word": "abolish",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to formally put an end to a system, practice, or institution:",
+        "defn_zh": "廢除"
+      },
+      {
+        "word": "abort",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to give up on a half-finished project or effort:",
+        "defn_zh": "中止/放棄"
+      },
+      {
+        "word": "abrade",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to scrape or wear away by friction:",
+        "defn_zh": "磨損;擦傷"
+      },
+      {
+        "word": "abscond",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to sneak away and hide:",
+        "defn_zh": "潛逃/逃匿"
+      }
+    ],
+    "adj.": [
+      {
+        "word": "abortive",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "fruitless, failing:",
+        "defn_zh": "失敗的/夭折的"
+      },
+      {
+        "word": "abstemious",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "moderate in eating or drinking:",
+        "defn_zh": "飲食有節制的"
+      },
+      {
+        "word": "abhorrent",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "detestable, despised:",
+        "defn_zh": "令人厭惡的"
+      },
+      {
+        "word": "absurd",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "ridiculous:",
+        "defn_zh": "荒謬的"
+      },
+      {
+        "word": "aberrant",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "deviating from what is normal or expected:",
+        "defn_zh": "異常的;脫軌的"
+      },
+      {
+        "word": "abject",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "wretched, pitiful:",
+        "defn_zh": "卑賤的/淒慘的"
+      },
+      {
+        "word": "abominable",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "causing moral revulsion; extremely unpleasant:",
+        "defn_zh": "可憎的;惡劣的"
+      },
+      {
+        "word": "abounding",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "existing in large numbers or amounts:",
+        "defn_zh": "大量存在的;豐富的"
+      },
+      {
+        "word": "abrasive",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "showing little concern for others; harsh:",
+        "defn_zh": "粗暴的/刺耳的"
+      },
+      {
+        "word": "abrupt",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "sudden or unexpected; brief and curt in manner:",
+        "defn_zh": "突然的/唐突的"
+      },
+      {
+        "word": "abstract",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "existing purely in the mind; not representing actual reality:",
+        "defn_zh": "抽象的"
+      },
+      {
+        "word": "abstruse",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "hard to comprehend:",
+        "defn_zh": "深奧難懂的"
+      }
+    ],
+    "n.": [
+      {
+        "word": "aversion",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "strong dislike, opposition:",
+        "defn_zh": "厭惡/反感"
+      },
+      {
+        "word": "aberration",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "something that differs from the norm:",
+        "defn_zh": "異常/脫軌"
+      },
+      {
+        "word": "abjection",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a state of complete misery, hopelessness, or degradation:",
+        "defn_zh": "卑賤;悲慘狀態"
+      },
+      {
+        "word": "abjuration",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the solemn renunciation of a belief, cause, or claim:",
+        "defn_zh": "公開放棄;誓絕"
+      },
+      {
+        "word": "ablution",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the act of washing oneself, especially as part of a religious ritual:",
+        "defn_zh": "沐浴;淨身儀式"
+      },
+      {
+        "word": "abnegation",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "denial of comfort to oneself:",
+        "defn_zh": "自我克制/放棄"
+      },
+      {
+        "word": "abomination",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "something that causes disgust or hatred:",
+        "defn_zh": "可憎之事;令人厭惡的東西"
+      },
+      {
+        "word": "abridgement",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a shortened version of a book or other written work:",
+        "defn_zh": "節略本;縮減版"
+      },
+      {
+        "word": "absolution",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "freedom from blame, guilt, sin:",
+        "defn_zh": "赦免/免罪"
+      },
+      {
+        "word": "abstemiousness",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "moderation or self-restraint, especially in eating and drinking:",
+        "defn_zh": "節制;克己"
+      },
+      {
+        "word": "abstinence",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the practice of restraining oneself from something enjoyable, especially food, alcohol, or sex:",
+        "defn_zh": "節制;戒絕"
+      },
+      {
+        "word": "avocation",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a hobby or minor occupation apart from one's main career:",
+        "defn_zh": "副業;業餘愛好"
+      }
+    ],
+    "adv.": [
+      {
+        "word": "accordingly",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in a manner that fits the circumstances; consequently:",
+        "defn_zh": "相應地;因此"
+      },
+      {
+        "word": "inadvertently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "unintentionally or by accident:",
+        "defn_zh": "無意間/不小心地"
+      },
+      {
+        "word": "consequently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "as a result; therefore:",
+        "defn_zh": "因此;結果"
+      },
+      {
+        "word": "contemptuously",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "without respect; in a disdainful manner:",
+        "defn_zh": "輕蔑地"
+      },
+      {
+        "word": "involuntarily",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "done without conscious control:",
+        "defn_zh": "不由自主地"
+      },
+      {
+        "word": "cordially",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in a warm or friendly manner:",
+        "defn_zh": "誠摯地/友好地"
+      },
+      {
+        "word": "ipso facto",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "by that very fact or act:",
+        "defn_zh": "事實上;因此"
+      },
+      {
+        "word": "regardless",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "despite the prevailing circumstances; without being deterred:",
+        "defn_zh": "不管怎樣;儘管如此"
+      },
+      {
+        "word": "subsequently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "afterward; following in time or order:",
+        "defn_zh": "隨後;其後"
+      },
+      {
+        "word": "aside",
+        "pos": "adv./n.",
+        "pos_key": "adv.",
+        "defn_en": "to or on one side; a remark not meant to be heard by everyone:",
+        "defn_zh": "在旁邊;旁白"
+      },
+      {
+        "word": "vice versa",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "with the order or meaning reversed; conversely:",
+        "defn_zh": "反之亦然"
+      },
+      {
+        "word": "forward",
+        "pos": "adv./adj.",
+        "pos_key": "adv.",
+        "defn_en": "toward the front or future; bold or presumptuous:",
+        "defn_zh": "向前的;冒失的"
+      }
+    ],
+    "other": [
+      {
+        "word": "（此批單字中，暫無符合此字根/字首的單字）",
+        "pos": "",
+        "pos_key": "other",
+        "defn_en": "",
+        "defn_zh": ""
+      }
+    ],
+    "prep./adv.": [
+      {
+        "word": "besides",
+        "pos": "prep./adv.",
+        "pos_key": "prep./adv.",
+        "defn_en": "in addition to; furthermore:",
+        "defn_zh": "除...之外;此外"
+      }
+    ],
+    "phrasalv.": [
+      {
+        "word": "egg on",
+        "pos": "phrasal v.",
+        "pos_key": "phrasalv.",
+        "defn_en": "to encourage someone to do something, often risky:",
+        "defn_zh": "慫恿;鼓動"
+      }
+    ],
+    "abbr.": [
+      {
+        "word": "etc.",
+        "pos": "abbr.",
+        "pos_key": "abbr.",
+        "defn_en": "and other similar things (abbreviation of et cetera):",
+        "defn_zh": "等等(et cetera的縮寫)"
+      }
+    ],
+    "interj.": [
+      {
+        "word": "fiddledeedee",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "an exclamation expressing dismissal of something as nonsense:",
+        "defn_zh": "廢話!(表示不屑一顧)"
+      },
+      {
+        "word": "gesundheit",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "an expression said to someone who has just sneezed:",
+        "defn_zh": "保重(打噴嚏後的祝福語)"
+      }
+    ],
+    "prep.": [
+      {
+        "word": "via",
+        "pos": "prep.",
+        "pos_key": "prep.",
+        "defn_en": "by way of; passing through:",
+        "defn_zh": "經由;透過"
+      }
+    ]
+  }
+}
