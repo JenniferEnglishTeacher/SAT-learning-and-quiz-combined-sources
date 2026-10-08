@@ -4,7 +4,7 @@
     "total_batches": 236,
     "part1_part2_batches": 159,
     "unclassified_batches": 77,
-    "generated_batches": 123
+    "generated_batches": 124
   },
   "batches": [
     {
@@ -1244,7 +1244,7 @@
       "name": "press",
       "subtitle": "按壓",
       "count": 8,
-      "generated": false,
+      "generated": true,
       "search_terms": "reprimand repress compress expressionless interpret oppressed oppression suppress"
     },
     {
