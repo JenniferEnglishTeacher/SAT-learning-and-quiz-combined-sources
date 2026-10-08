@@ -4,7 +4,7 @@
     "total_batches": 236,
     "part1_part2_batches": 159,
     "unclassified_batches": 77,
-    "generated_batches": 93
+    "generated_batches": 94
   },
   "batches": [
     {
@@ -944,7 +944,7 @@
       "name": "cap；capt",
       "subtitle": "抓取",
       "count": 29,
-      "generated": false,
+      "generated": true,
       "search_terms": "perceive incipient incapacitated susceptible captious inception anticipate cable capacious capitulation caprice captiousness captivate captivated captivating chapter conceit conceptualize deceptive emancipate exceptional municipal occupy perceptible perceptive percipient recap recapitulation receptive"
     },
     {
