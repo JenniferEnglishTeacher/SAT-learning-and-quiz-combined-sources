@@ -4,7 +4,7 @@
     "total_batches": 236,
     "part1_part2_batches": 159,
     "unclassified_batches": 77,
-    "generated_batches": 105
+    "generated_batches": 106
   },
   "batches": [
     {
@@ -1064,7 +1064,7 @@
       "name": "grad；gress",
       "subtitle": "行進",
       "count": 11,
-      "generated": false,
+      "generated": true,
       "search_terms": "degrade gratuity digress gratify aggressive digression digressive disagreement egress ingress transgress"
     },
     {

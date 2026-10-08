@@ -1,0 +1,682 @@
+{
+  "id": "p2-21-grad-gress",
+  "part": "part2",
+  "part_label": "Part 2 字根篇 (Roots)",
+  "name": "grad；gress",
+  "subtitle": "行進",
+  "count": 11,
+  "words": [
+    {
+      "word": "degrade",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to make contemptible, lower:",
+      "defn_zh": "貶低/使降級",
+      "root_note": "de- (down) + gradus (step)",
+      "sentences": [
+        {
+          "en": "The harsh chemicals began to ______ the fabric over time.",
+          "zh": "這些刺激性化學物質隨著時間逐漸使這塊布料劣化。"
+        },
+        {
+          "en": "He refused to let the insults ______ his sense of self-worth.",
+          "zh": "他拒絕讓這些侮辱貶低他的自我價值感。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "21",
+        "spelling": "grad；gress",
+        "meaning": "行進"
+      }
+    },
+    {
+      "word": "gratuity",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "tip, gift:",
+      "defn_zh": "酬金/小費",
+      "root_note": "gratus (pleasing)",
+      "sentences": [
+        {
+          "en": "It is customary to leave a ______ of about fifteen percent at restaurants.",
+          "zh": "在餐廳留下大約百分之十五的小費是慣例。"
+        },
+        {
+          "en": "The hotel staff were grateful for the generous ______.",
+          "zh": "飯店員工對這筆優渥的小費心懷感激。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "21",
+        "spelling": "grad；gress",
+        "meaning": "行進"
+      }
+    },
+    {
+      "word": "digress",
+      "pos": "vb.",
+      "pos_key": "v.",
+      "defn_en": "to wander off from the subject or topic spoken about",
+      "defn_zh": "離題",
+      "root_note": "de- (away) + gradi (to step)",
+      "sentences": [
+        {
+          "en": "The professor tends to ______ from the syllabus during lectures.",
+          "zh": "這位教授上課時常常會偏離課程大綱離題。"
+        },
+        {
+          "en": "Forgive me if I ______ for a moment to share a related story.",
+          "zh": "如果我離題分享一個相關的故事,還請見諒。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "21",
+        "spelling": "grad；gress",
+        "meaning": "行進"
+      }
+    },
+    {
+      "word": "gratify",
+      "pos": "vb.",
+      "pos_key": "v.",
+      "defn_en": "to please or indulge",
+      "defn_zh": "使滿足",
+      "root_note": "gratus (pleasing) + facere (to make)",
+      "sentences": [
+        {
+          "en": "Nothing could ______ him more than seeing his students succeed.",
+          "zh": "沒有什麼比看到學生成功更能讓他感到滿足的了。"
+        },
+        {
+          "en": "She felt ______ied by the positive feedback on her presentation.",
+          "zh": "她對簡報獲得的正面回饋感到十分滿足。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "21",
+        "spelling": "grad；gress",
+        "meaning": "行進"
+      }
+    },
+    {
+      "word": "aggressive",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "forceful or overly assertive:",
+      "defn_zh": "好鬥的/積極進取的",
+      "root_note": "ad- (toward) + gradi (to step)",
+      "sentences": [
+        {
+          "en": "The man's ______ tone made everyone uneasy.",
+          "zh": "這個男人咄咄逼人的語氣讓大家都感到不安。"
+        },
+        {
+          "en": "The company adopted an ______ marketing strategy to boost sales.",
+          "zh": "這家公司採取了積極進取的行銷策略以提升銷售額。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "21",
+        "spelling": "grad；gress",
+        "meaning": "行進"
+      }
+    },
+    {
+      "word": "digression",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a departure from the main subject in speech or writing:",
+      "defn_zh": "離題;岔題",
+      "root_note": "dis- (apart) + gradi (to step), from Latin",
+      "sentences": [
+        {
+          "en": "The lecture included an amusing ______ about the professor's youth.",
+          "zh": "這場講座中有一段關於教授年輕時代、饒富趣味的離題插曲。"
+        },
+        {
+          "en": "Forgive this brief ______ before I return to the main argument.",
+          "zh": "請原諒我這段簡短的岔題,我馬上回到主要論點。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "21",
+        "spelling": "grad；gress",
+        "meaning": "行進"
+      }
+    },
+    {
+      "word": "digressive",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "departing from the main subject:",
+      "defn_zh": "離題的",
+      "root_note": "dis- (apart) + gradi (to step), from Latin",
+      "sentences": [
+        {
+          "en": "His ______ storytelling style frustrated impatient listeners.",
+          "zh": "他離題的敘事風格讓沒耐心的聽眾感到挫折。"
+        },
+        {
+          "en": "The essay's ______ structure made it hard to follow.",
+          "zh": "這篇文章離題的結構讓人難以理解脈絡。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "21",
+        "spelling": "grad；gress",
+        "meaning": "行進"
+      }
+    },
+    {
+      "word": "disagreement",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a difference of opinion:",
+      "defn_zh": "意見分歧",
+      "root_note": "dis- (apart) + gratus (pleasing)",
+      "sentences": [
+        {
+          "en": "An intense ______ arose over the contract terms.",
+          "zh": "針對合約條款產生了激烈的意見分歧。"
+        },
+        {
+          "en": "The siblings had a minor ______ about where to go for dinner.",
+          "zh": "這對兄妹對於去哪裡吃晚餐有些小小的意見分歧。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "21",
+        "spelling": "grad；gress",
+        "meaning": "行進"
+      }
+    },
+    {
+      "word": "egress",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "the act of going out; an exit:",
+      "defn_zh": "外出;出口",
+      "root_note": "ex- (out) + gradi (to step), from Latin",
+      "sentences": [
+        {
+          "en": "Fire codes require a clear path of ______ in every building.",
+          "zh": "消防法規要求每棟建築物都必須有暢通的逃生出口。"
+        },
+        {
+          "en": "The prisoner planned his ______ from the compound for months.",
+          "zh": "這名囚犯策劃了好幾個月才逃離這座監獄。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "21",
+        "spelling": "grad；gress",
+        "meaning": "行進"
+      }
+    },
+    {
+      "word": "ingress",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "the act of entering; a means of entry:",
+      "defn_zh": "進入;入口",
+      "root_note": "in- (in) + gradi (to step), from Latin",
+      "sentences": [
+        {
+          "en": "The building has only one point of ______ for security reasons.",
+          "zh": "基於安全考量,這棟建築物只有一個入口。"
+        },
+        {
+          "en": "Their ______ into the market surprised established competitors.",
+          "zh": "他們進入這個市場讓既有的競爭對手感到意外。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "21",
+        "spelling": "grad；gress",
+        "meaning": "行進"
+      }
+    },
+    {
+      "word": "transgress",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to violate, go over a limit:",
+      "defn_zh": "違反/逾越",
+      "root_note": "trans- (across) + gradi (to step, walk)",
+      "sentences": [
+        {
+          "en": "The soldier was punished for daring to ______ his commanding officer's orders.",
+          "zh": "這名士兵因膽敢違抗指揮官的命令而受到懲罰。"
+        },
+        {
+          "en": "Few dared to ______ the strict social codes of the small town.",
+          "zh": "很少有人敢違反這座小鎮嚴格的社會規範。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "21",
+        "spelling": "grad；gress",
+        "meaning": "行進"
+      }
+    }
+  ],
+  "family_options": {},
+  "fallback_options": {
+    "v.": [
+      {
+        "word": "abound",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to exist in great numbers:",
+        "defn_zh": "充滿"
+      },
+      {
+        "word": "abrogate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to deprive of legal force, to nullify:=abolish",
+        "defn_zh": "廢除/取消"
+      },
+      {
+        "word": "abjure",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to renounce, abstain from:",
+        "defn_zh": "發誓放棄/棄絕"
+      },
+      {
+        "word": "abbreviate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to shorten a word or phrase:",
+        "defn_zh": "縮寫;縮短"
+      },
+      {
+        "word": "abdicate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to give up a position, usually one of leadership:",
+        "defn_zh": "退位/放棄(職位)"
+      },
+      {
+        "word": "abduct",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to kidnap, take by force:",
+        "defn_zh": "綁架/劫持"
+      },
+      {
+        "word": "abhor",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to regard with disgust and hatred:",
+        "defn_zh": "憎惡/厭惡"
+      },
+      {
+        "word": "abnegate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to deny or renounce:",
+        "defn_zh": "放棄/克制"
+      },
+      {
+        "word": "abolish",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to formally put an end to a system, practice, or institution:",
+        "defn_zh": "廢除"
+      },
+      {
+        "word": "abort",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to give up on a half-finished project or effort:",
+        "defn_zh": "中止/放棄"
+      },
+      {
+        "word": "abrade",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to scrape or wear away by friction:",
+        "defn_zh": "磨損;擦傷"
+      },
+      {
+        "word": "abscond",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to sneak away and hide:",
+        "defn_zh": "潛逃/逃匿"
+      }
+    ],
+    "adj.": [
+      {
+        "word": "abortive",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "fruitless, failing:",
+        "defn_zh": "失敗的/夭折的"
+      },
+      {
+        "word": "abstemious",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "moderate in eating or drinking:",
+        "defn_zh": "飲食有節制的"
+      },
+      {
+        "word": "abhorrent",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "detestable, despised:",
+        "defn_zh": "令人厭惡的"
+      },
+      {
+        "word": "absurd",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "ridiculous:",
+        "defn_zh": "荒謬的"
+      },
+      {
+        "word": "aberrant",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "deviating from what is normal or expected:",
+        "defn_zh": "異常的;脫軌的"
+      },
+      {
+        "word": "abject",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "wretched, pitiful:",
+        "defn_zh": "卑賤的/淒慘的"
+      },
+      {
+        "word": "abominable",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "causing moral revulsion; extremely unpleasant:",
+        "defn_zh": "可憎的;惡劣的"
+      },
+      {
+        "word": "abounding",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "existing in large numbers or amounts:",
+        "defn_zh": "大量存在的;豐富的"
+      },
+      {
+        "word": "abrasive",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "showing little concern for others; harsh:",
+        "defn_zh": "粗暴的/刺耳的"
+      },
+      {
+        "word": "abrupt",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "sudden or unexpected; brief and curt in manner:",
+        "defn_zh": "突然的/唐突的"
+      },
+      {
+        "word": "abstract",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "existing purely in the mind; not representing actual reality:",
+        "defn_zh": "抽象的"
+      },
+      {
+        "word": "abstruse",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "hard to comprehend:",
+        "defn_zh": "深奧難懂的"
+      }
+    ],
+    "n.": [
+      {
+        "word": "aversion",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "strong dislike, opposition:",
+        "defn_zh": "厭惡/反感"
+      },
+      {
+        "word": "aberration",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "something that differs from the norm:",
+        "defn_zh": "異常/脫軌"
+      },
+      {
+        "word": "abjection",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a state of complete misery, hopelessness, or degradation:",
+        "defn_zh": "卑賤;悲慘狀態"
+      },
+      {
+        "word": "abjuration",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the solemn renunciation of a belief, cause, or claim:",
+        "defn_zh": "公開放棄;誓絕"
+      },
+      {
+        "word": "ablution",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the act of washing oneself, especially as part of a religious ritual:",
+        "defn_zh": "沐浴;淨身儀式"
+      },
+      {
+        "word": "abnegation",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "denial of comfort to oneself:",
+        "defn_zh": "自我克制/放棄"
+      },
+      {
+        "word": "abomination",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "something that causes disgust or hatred:",
+        "defn_zh": "可憎之事;令人厭惡的東西"
+      },
+      {
+        "word": "abridgement",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a shortened version of a book or other written work:",
+        "defn_zh": "節略本;縮減版"
+      },
+      {
+        "word": "absolution",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "freedom from blame, guilt, sin:",
+        "defn_zh": "赦免/免罪"
+      },
+      {
+        "word": "abstemiousness",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "moderation or self-restraint, especially in eating and drinking:",
+        "defn_zh": "節制;克己"
+      },
+      {
+        "word": "abstinence",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the practice of restraining oneself from something enjoyable, especially food, alcohol, or sex:",
+        "defn_zh": "節制;戒絕"
+      },
+      {
+        "word": "avocation",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a hobby or minor occupation apart from one's main career:",
+        "defn_zh": "副業;業餘愛好"
+      }
+    ],
+    "adv.": [
+      {
+        "word": "accordingly",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in a manner that fits the circumstances; consequently:",
+        "defn_zh": "相應地;因此"
+      },
+      {
+        "word": "inadvertently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "unintentionally or by accident:",
+        "defn_zh": "無意間/不小心地"
+      },
+      {
+        "word": "consequently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "as a result; therefore:",
+        "defn_zh": "因此;結果"
+      },
+      {
+        "word": "contemptuously",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "without respect; in a disdainful manner:",
+        "defn_zh": "輕蔑地"
+      },
+      {
+        "word": "involuntarily",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "done without conscious control:",
+        "defn_zh": "不由自主地"
+      },
+      {
+        "word": "cordially",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in a warm or friendly manner:",
+        "defn_zh": "誠摯地/友好地"
+      },
+      {
+        "word": "ipso facto",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "by that very fact or act:",
+        "defn_zh": "事實上;因此"
+      },
+      {
+        "word": "en passant",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in passing; incidentally:",
+        "defn_zh": "順帶一提地;偶然地"
+      },
+      {
+        "word": "regardless",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "despite the prevailing circumstances; without being deterred:",
+        "defn_zh": "不管怎樣;儘管如此"
+      },
+      {
+        "word": "subsequently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "afterward; following in time or order:",
+        "defn_zh": "隨後;其後"
+      },
+      {
+        "word": "aside",
+        "pos": "adv./n.",
+        "pos_key": "adv.",
+        "defn_en": "to or on one side; a remark not meant to be heard by everyone:",
+        "defn_zh": "在旁邊;旁白"
+      },
+      {
+        "word": "vice versa",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "with the order or meaning reversed; conversely:",
+        "defn_zh": "反之亦然"
+      }
+    ],
+    "other": [
+      {
+        "word": "（此批單字中，暫無符合此字根/字首的單字）",
+        "pos": "",
+        "pos_key": "other",
+        "defn_en": "",
+        "defn_zh": ""
+      }
+    ],
+    "prep./adv.": [
+      {
+        "word": "besides",
+        "pos": "prep./adv.",
+        "pos_key": "prep./adv.",
+        "defn_en": "in addition to; furthermore:",
+        "defn_zh": "除...之外;此外"
+      }
+    ],
+    "phrasalv.": [
+      {
+        "word": "egg on",
+        "pos": "phrasal v.",
+        "pos_key": "phrasalv.",
+        "defn_en": "to encourage someone to do something, often risky:",
+        "defn_zh": "慫恿;鼓動"
+      }
+    ],
+    "abbr.": [
+      {
+        "word": "etc.",
+        "pos": "abbr.",
+        "pos_key": "abbr.",
+        "defn_en": "and other similar things (abbreviation of et cetera):",
+        "defn_zh": "等等(et cetera的縮寫)"
+      }
+    ],
+    "interj.": [
+      {
+        "word": "fiddledeedee",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "an exclamation expressing dismissal of something as nonsense:",
+        "defn_zh": "廢話!(表示不屑一顧)"
+      },
+      {
+        "word": "gesundheit",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "an expression said to someone who has just sneezed:",
+        "defn_zh": "保重(打噴嚏後的祝福語)"
+      }
+    ],
+    "prep.": [
+      {
+        "word": "via",
+        "pos": "prep.",
+        "pos_key": "prep.",
+        "defn_en": "by way of; passing through:",
+        "defn_zh": "經由;透過"
+      }
+    ]
+  }
+}
