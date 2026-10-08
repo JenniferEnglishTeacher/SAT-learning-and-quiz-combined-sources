@@ -4,7 +4,7 @@
     "total_batches": 236,
     "part1_part2_batches": 159,
     "unclassified_batches": 77,
-    "generated_batches": 155
+    "generated_batches": 156
   },
   "batches": [
     {
@@ -1564,7 +1564,7 @@
       "name": "voc；vok",
       "subtitle": "呼叫",
       "count": 16,
-      "generated": false,
+      "generated": true,
       "search_terms": "advocate avocation convocation convoke disavow equivocal evocation evocative evoke irrevocable provoke revoke vocal vocation vocational vociferate"
     },
     {
