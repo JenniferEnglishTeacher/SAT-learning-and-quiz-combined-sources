@@ -4,7 +4,7 @@
     "total_batches": 236,
     "part1_part2_batches": 159,
     "unclassified_batches": 77,
-    "generated_batches": 144
+    "generated_batches": 145
   },
   "batches": [
     {
@@ -1454,7 +1454,7 @@
       "name": "vig；viv",
       "subtitle": "生命",
       "count": 20,
-      "generated": false,
+      "generated": true,
       "search_terms": "vigilant vigil vivacious convivial bon vivant inter vivos invigorate invigorating revive revivifying vigilance vigilante vignette vigorous vivacity vivid vivify viviparous vivisection vivisepulture"
     },
     {

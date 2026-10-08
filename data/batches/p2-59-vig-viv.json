@@ -1,0 +1,898 @@
+{
+  "id": "p2-59-vig-viv",
+  "part": "part2",
+  "part_label": "Part 2 字根篇 (Roots)",
+  "name": "vig；viv",
+  "subtitle": "生命",
+  "count": 20,
+  "words": [
+    {
+      "word": "vigilant",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "watchful:",
+      "defn_zh": "警惕的",
+      "root_note": "vigil (awake/watchful)",
+      "sentences": [
+        {
+          "en": "Parents should remain ______ when their children are near the swimming pool.",
+          "zh": "當孩子靠近游泳池時,家長應該保持警惕。"
+        },
+        {
+          "en": "The guards stayed ______ throughout the night, watching for any sign of trouble.",
+          "zh": "警衛整晚保持警惕,留意任何可能發生問題的跡象。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "59",
+        "spelling": "vig；viv",
+        "meaning": "生命"
+      }
+    },
+    {
+      "word": "vigil",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "wakeful watching:",
+      "defn_zh": "守夜/監視",
+      "root_note": "vigil (awake)",
+      "sentences": [
+        {
+          "en": "Family members kept a ______ at the hospital all night.",
+          "zh": "家屬整夜都在醫院守候。"
+        },
+        {
+          "en": "Hundreds gathered for a candlelight ______ to honor the victims.",
+          "zh": "數百人聚集舉行燭光守夜,以悼念這些受害者。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "59",
+        "spelling": "vig；viv",
+        "meaning": "生命"
+      }
+    },
+    {
+      "word": "vivacious",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "lively:",
+      "defn_zh": "活潑的/快活的",
+      "root_note": "vivere (to live)",
+      "sentences": [
+        {
+          "en": "Her ______ personality made her the life of every party.",
+          "zh": "她活潑開朗的個性讓她成為每場派對的靈魂人物。"
+        },
+        {
+          "en": "The ______ young actress charmed the entire audience.",
+          "zh": "這位活潑生動的年輕女演員迷倒了全場觀眾。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "59",
+        "spelling": "vig；viv",
+        "meaning": "生命"
+      }
+    },
+    {
+      "word": "convivial",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "sociable, outgoing, especially when pertaining to eating and drinking; fond of good company",
+      "defn_zh": "歡樂的；喜好交際的",
+      "root_note": "con- (together) + vivere (to live)",
+      "sentences": [
+        {
+          "en": "The dinner party had a ______ atmosphere filled with laughter.",
+          "zh": "這場晚宴洋溢著充滿歡笑的歡樂氣氛。"
+        },
+        {
+          "en": "He enjoyed the ______ company of old friends over a bottle of wine.",
+          "zh": "他喜歡與老朋友一邊喝酒,一邊享受歡樂的相聚時光。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "59",
+        "spelling": "vig；viv",
+        "meaning": "生命"
+      }
+    },
+    {
+      "word": "bon vivant",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a person who enjoys good food, drink, and company:",
+      "defn_zh": "享樂主義者;講究生活享受的人",
+      "root_note": "bon (good) + vivant (living), from French",
+      "sentences": [
+        {
+          "en": "As a true ______ , he never turned down an invitation to a fine dinner.",
+          "zh": "身為一位真正懂得享受生活的人,他從不拒絕任何一場美食盛宴的邀約。"
+        },
+        {
+          "en": "The travel show followed a charming ______ sampling wine across the countryside.",
+          "zh": "這個旅遊節目跟拍了一位迷人的生活享受家,在鄉間品嚐各種葡萄酒。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "59",
+        "spelling": "vig；viv",
+        "meaning": "生命"
+      }
+    },
+    {
+      "word": "inter vivos",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "made or effective between living persons, especially of a legal transfer:",
+      "defn_zh": "生前的;生者之間的(法律用語)",
+      "root_note": "Latin inter (between) + vivos (the living)",
+      "sentences": [
+        {
+          "en": "The estate was distributed through an ______ trust.",
+          "zh": "這份遺產是透過生前信託分配的。"
+        },
+        {
+          "en": "An ______ gift avoids certain estate taxes after death.",
+          "zh": "生前贈與能避免死後某些遺產稅。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "59",
+        "spelling": "vig；viv",
+        "meaning": "生命"
+      }
+    },
+    {
+      "word": "invigorate",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to give strength or energy to:",
+      "defn_zh": "使充滿活力;振奮",
+      "root_note": "in- (into) + vigor (strength), from Latin",
+      "sentences": [
+        {
+          "en": "A cold shower can ______ you first thing in the morning.",
+          "zh": "一場冷水澡能在早晨第一時間讓你精神振奮。"
+        },
+        {
+          "en": "The team's win seemed to ______ the entire town.",
+          "zh": "這支隊伍的勝利似乎讓整座小鎮充滿了活力。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "59",
+        "spelling": "vig；viv",
+        "meaning": "生命"
+      }
+    },
+    {
+      "word": "invigorating",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "making one feel stronger and more energetic:",
+      "defn_zh": "令人精神振奮的",
+      "root_note": "in- (into) + vigor (strength), from Latin",
+      "sentences": [
+        {
+          "en": "The mountain air felt wonderfully ______ .",
+          "zh": "山間的空氣讓人感到十分振奮清爽。"
+        },
+        {
+          "en": "She found the debate ______ rather than exhausting.",
+          "zh": "她覺得這場辯論令人振奮,而非疲憊。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "59",
+        "spelling": "vig；viv",
+        "meaning": "生命"
+      }
+    },
+    {
+      "word": "revive",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to restore to life, consciousness, or vigor:",
+      "defn_zh": "使甦醒;復興",
+      "root_note": "revivere (to live again), from Latin re- (again) + vivere (to live)",
+      "sentences": [
+        {
+          "en": "Paramedics worked quickly to ______ the unconscious patient.",
+          "zh": "醫護人員迅速搶救,使這位失去意識的病人甦醒過來。"
+        },
+        {
+          "en": "The festival helped ______ interest in the town's forgotten history.",
+          "zh": "這場慶典幫助重振了人們對這座城鎮被遺忘歷史的興趣。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "59",
+        "spelling": "vig；viv",
+        "meaning": "生命"
+      }
+    },
+    {
+      "word": "revivifying",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "giving new life or vigor to something:",
+      "defn_zh": "使復甦的;恢復生機的",
+      "root_note": "re- (again) + vivificare (to make alive), from Latin vivus (living) + facere (to make)",
+      "sentences": [
+        {
+          "en": "The rain brought a ______ freshness to the withered garden.",
+          "zh": "這場雨為這座枯萎的花園帶來了恢復生機的清新。"
+        },
+        {
+          "en": "Their trip abroad had a truly ______ effect on her outlook.",
+          "zh": "他們的海外旅行對她的人生觀產生了真正恢復生機的效果。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "59",
+        "spelling": "vig；viv",
+        "meaning": "生命"
+      }
+    },
+    {
+      "word": "vigilance",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "the action of keeping careful watch:",
+      "defn_zh": "警覺/警戒",
+      "root_note": "vigilare (to watch)",
+      "sentences": [
+        {
+          "en": "Constant ______ is needed for security.",
+          "zh": "維護安全需要持續的警覺。"
+        },
+        {
+          "en": "Parents must maintain ______ when their children are near water.",
+          "zh": "當孩子靠近水域時,父母必須保持高度警覺。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "59",
+        "spelling": "vig；viv",
+        "meaning": "生命"
+      }
+    },
+    {
+      "word": "vigilante",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a person who takes law enforcement into their own hands without legal authority:",
+      "defn_zh": "自警團成員;私刑執法者",
+      "root_note": "vigilante (watchman), from Spanish, from Latin vigilare (to keep watch)",
+      "sentences": [
+        {
+          "en": "The film centers on a masked ______ fighting crime at night.",
+          "zh": "這部電影的核心是一位戴著面具、在夜間打擊犯罪的私刑執法者。"
+        },
+        {
+          "en": "Local authorities warned against forming ______ groups to punish suspects.",
+          "zh": "當地政府警告不要組成私刑團體來懲罰嫌疑人。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "59",
+        "spelling": "vig；viv",
+        "meaning": "生命"
+      }
+    },
+    {
+      "word": "vignette",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a brief, evocative description or episode; a decorative border design:",
+      "defn_zh": "小品文;小插曲",
+      "root_note": "vignette (a small vine design), from French vigne (vine)",
+      "sentences": [
+        {
+          "en": "The book consists of short ______ s depicting everyday rural life.",
+          "zh": "這本書由描繪日常鄉村生活的短篇小品文組成。"
+        },
+        {
+          "en": "The film's opening ______ sets the tone for the rest of the story.",
+          "zh": "這部電影開場的小插曲為故事其餘的部分定下了基調。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "59",
+        "spelling": "vig；viv",
+        "meaning": "生命"
+      }
+    },
+    {
+      "word": "vigorous",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "strong, healthy, and full of energy:",
+      "defn_zh": "精力充沛的;強健的",
+      "root_note": "vigor (liveliness), from Latin vigere (to thrive)",
+      "sentences": [
+        {
+          "en": "He maintained a ______ exercise routine well into his eighties.",
+          "zh": "他直到八十多歲仍維持著精力充沛的運動習慣。"
+        },
+        {
+          "en": "The debate turned into a ______ exchange of opposing views.",
+          "zh": "這場辯論演變成一場針鋒相對、活力十足的意見交流。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "59",
+        "spelling": "vig；viv",
+        "meaning": "生命"
+      }
+    },
+    {
+      "word": "vivacity",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "the quality of being lively and animated:",
+      "defn_zh": "活潑;生氣勃勃",
+      "root_note": "vivacitas, from Latin vivax (lively), from vivere (to live)",
+      "sentences": [
+        {
+          "en": "Her ______ made her the center of attention at every party.",
+          "zh": "她的活潑生動讓她在每場派對上都成為眾人矚目的焦點。"
+        },
+        {
+          "en": "The child's natural ______ delighted everyone in the room.",
+          "zh": "這個孩子天生的活潑生氣讓房間裡的每個人都感到欣喜。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "59",
+        "spelling": "vig；viv",
+        "meaning": "生命"
+      }
+    },
+    {
+      "word": "vivid",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "producing powerful feelings or clear images in the mind:",
+      "defn_zh": "生動的;鮮明的",
+      "root_note": "vividus (lively), from Latin vivere (to live)",
+      "sentences": [
+        {
+          "en": "She gave a ______ description of the sunset over the ocean.",
+          "zh": "她生動地描述了海洋上空的日落景色。"
+        },
+        {
+          "en": "He still had ______ memories of his childhood home.",
+          "zh": "他對自己童年的家依然保有鮮明的記憶。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "59",
+        "spelling": "vig；viv",
+        "meaning": "生命"
+      }
+    },
+    {
+      "word": "vivify",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to give life or vigor to; to animate:",
+      "defn_zh": "賦予生命;使生動",
+      "root_note": "vivificare, from Latin vivus (alive) + facere (to make)",
+      "sentences": [
+        {
+          "en": "The author's rich details ______ every scene in the novel.",
+          "zh": "這位作者豐富的細節讓這本小說裡的每一個場景都栩栩如生。"
+        },
+        {
+          "en": "Fresh flowers seemed to ______ the otherwise dull room.",
+          "zh": "新鮮的花朵彷彿為這個原本沉悶的房間注入了生機。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "59",
+        "spelling": "vig；viv",
+        "meaning": "生命"
+      }
+    },
+    {
+      "word": "viviparous",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "giving birth to live offspring rather than laying eggs:",
+      "defn_zh": "胎生的",
+      "root_note": "vivus (alive) + parere (to bring forth), from Latin",
+      "sentences": [
+        {
+          "en": "Most mammals are ______ , giving birth to fully formed young.",
+          "zh": "大多數哺乳動物都是胎生的,會產下發育完全的幼崽。"
+        },
+        {
+          "en": "Some species of sharks are surprisingly ______ rather than egg-laying.",
+          "zh": "某些鯊魚物種出人意料地是胎生的,而非卵生。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "59",
+        "spelling": "vig；viv",
+        "meaning": "生命"
+      }
+    },
+    {
+      "word": "vivisection",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "surgical experimentation on live animals for scientific research:",
+      "defn_zh": "活體解剖",
+      "root_note": "vivus (alive) + sectio (cutting), from Latin",
+      "sentences": [
+        {
+          "en": "Animal rights groups protested against the lab's use of ______ .",
+          "zh": "動物權利團體抗議這間實驗室進行活體解剖。"
+        },
+        {
+          "en": "The university phased out ______ in favor of alternative methods.",
+          "zh": "這所大學逐步淘汰活體解剖,改採替代方法。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "59",
+        "spelling": "vig；viv",
+        "meaning": "生命"
+      }
+    },
+    {
+      "word": "vivisepulture",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "the act of burying someone alive:",
+      "defn_zh": "活埋",
+      "root_note": "vivus (alive) + sepultura (burial), from Latin",
+      "sentences": [
+        {
+          "en": "The horror novel's plot centers on the terrifying fear of ______ .",
+          "zh": "這本恐怖小說的情節圍繞著活埋這種令人恐懼的主題展開。"
+        },
+        {
+          "en": "Historical accounts occasionally describe accidental cases of ______ before modern medicine.",
+          "zh": "在現代醫學出現之前,歷史記載偶爾會描述意外活埋的案例。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "59",
+        "spelling": "vig；viv",
+        "meaning": "生命"
+      }
+    }
+  ],
+  "family_options": {},
+  "fallback_options": {
+    "v.": [
+      {
+        "word": "abound",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to exist in great numbers:",
+        "defn_zh": "充滿"
+      },
+      {
+        "word": "abrogate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to deprive of legal force, to nullify:=abolish",
+        "defn_zh": "廢除/取消"
+      },
+      {
+        "word": "abjure",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to renounce, abstain from:",
+        "defn_zh": "發誓放棄/棄絕"
+      },
+      {
+        "word": "abbreviate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to shorten a word or phrase:",
+        "defn_zh": "縮寫;縮短"
+      },
+      {
+        "word": "abdicate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to give up a position, usually one of leadership:",
+        "defn_zh": "退位/放棄(職位)"
+      },
+      {
+        "word": "abduct",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to kidnap, take by force:",
+        "defn_zh": "綁架/劫持"
+      },
+      {
+        "word": "abhor",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to regard with disgust and hatred:",
+        "defn_zh": "憎惡/厭惡"
+      },
+      {
+        "word": "abnegate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to deny or renounce:",
+        "defn_zh": "放棄/克制"
+      },
+      {
+        "word": "abolish",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to formally put an end to a system, practice, or institution:",
+        "defn_zh": "廢除"
+      },
+      {
+        "word": "abort",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to give up on a half-finished project or effort:",
+        "defn_zh": "中止/放棄"
+      },
+      {
+        "word": "abrade",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to scrape or wear away by friction:",
+        "defn_zh": "磨損;擦傷"
+      },
+      {
+        "word": "abscond",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to sneak away and hide:",
+        "defn_zh": "潛逃/逃匿"
+      }
+    ],
+    "adj.": [
+      {
+        "word": "abortive",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "fruitless, failing:",
+        "defn_zh": "失敗的/夭折的"
+      },
+      {
+        "word": "abstemious",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "moderate in eating or drinking:",
+        "defn_zh": "飲食有節制的"
+      },
+      {
+        "word": "abhorrent",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "detestable, despised:",
+        "defn_zh": "令人厭惡的"
+      },
+      {
+        "word": "absurd",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "ridiculous:",
+        "defn_zh": "荒謬的"
+      },
+      {
+        "word": "aberrant",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "deviating from what is normal or expected:",
+        "defn_zh": "異常的;脫軌的"
+      },
+      {
+        "word": "abject",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "wretched, pitiful:",
+        "defn_zh": "卑賤的/淒慘的"
+      },
+      {
+        "word": "abominable",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "causing moral revulsion; extremely unpleasant:",
+        "defn_zh": "可憎的;惡劣的"
+      },
+      {
+        "word": "abounding",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "existing in large numbers or amounts:",
+        "defn_zh": "大量存在的;豐富的"
+      },
+      {
+        "word": "abrasive",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "showing little concern for others; harsh:",
+        "defn_zh": "粗暴的/刺耳的"
+      },
+      {
+        "word": "abrupt",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "sudden or unexpected; brief and curt in manner:",
+        "defn_zh": "突然的/唐突的"
+      },
+      {
+        "word": "abstract",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "existing purely in the mind; not representing actual reality:",
+        "defn_zh": "抽象的"
+      },
+      {
+        "word": "abstruse",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "hard to comprehend:",
+        "defn_zh": "深奧難懂的"
+      }
+    ],
+    "n.": [
+      {
+        "word": "aversion",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "strong dislike, opposition:",
+        "defn_zh": "厭惡/反感"
+      },
+      {
+        "word": "aberration",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "something that differs from the norm:",
+        "defn_zh": "異常/脫軌"
+      },
+      {
+        "word": "abjection",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a state of complete misery, hopelessness, or degradation:",
+        "defn_zh": "卑賤;悲慘狀態"
+      },
+      {
+        "word": "abjuration",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the solemn renunciation of a belief, cause, or claim:",
+        "defn_zh": "公開放棄;誓絕"
+      },
+      {
+        "word": "ablution",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the act of washing oneself, especially as part of a religious ritual:",
+        "defn_zh": "沐浴;淨身儀式"
+      },
+      {
+        "word": "abnegation",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "denial of comfort to oneself:",
+        "defn_zh": "自我克制/放棄"
+      },
+      {
+        "word": "abomination",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "something that causes disgust or hatred:",
+        "defn_zh": "可憎之事;令人厭惡的東西"
+      },
+      {
+        "word": "abridgement",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a shortened version of a book or other written work:",
+        "defn_zh": "節略本;縮減版"
+      },
+      {
+        "word": "absolution",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "freedom from blame, guilt, sin:",
+        "defn_zh": "赦免/免罪"
+      },
+      {
+        "word": "abstemiousness",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "moderation or self-restraint, especially in eating and drinking:",
+        "defn_zh": "節制;克己"
+      },
+      {
+        "word": "abstinence",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the practice of restraining oneself from something enjoyable, especially food, alcohol, or sex:",
+        "defn_zh": "節制;戒絕"
+      },
+      {
+        "word": "avocation",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a hobby or minor occupation apart from one's main career:",
+        "defn_zh": "副業;業餘愛好"
+      }
+    ],
+    "adv.": [
+      {
+        "word": "accordingly",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in a manner that fits the circumstances; consequently:",
+        "defn_zh": "相應地;因此"
+      },
+      {
+        "word": "inadvertently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "unintentionally or by accident:",
+        "defn_zh": "無意間/不小心地"
+      },
+      {
+        "word": "consequently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "as a result; therefore:",
+        "defn_zh": "因此;結果"
+      },
+      {
+        "word": "contemptuously",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "without respect; in a disdainful manner:",
+        "defn_zh": "輕蔑地"
+      },
+      {
+        "word": "involuntarily",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "done without conscious control:",
+        "defn_zh": "不由自主地"
+      },
+      {
+        "word": "cordially",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in a warm or friendly manner:",
+        "defn_zh": "誠摯地/友好地"
+      },
+      {
+        "word": "ipso facto",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "by that very fact or act:",
+        "defn_zh": "事實上;因此"
+      },
+      {
+        "word": "en passant",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in passing; incidentally:",
+        "defn_zh": "順帶一提地;偶然地"
+      },
+      {
+        "word": "regardless",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "despite the prevailing circumstances; without being deterred:",
+        "defn_zh": "不管怎樣;儘管如此"
+      },
+      {
+        "word": "subsequently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "afterward; following in time or order:",
+        "defn_zh": "隨後;其後"
+      },
+      {
+        "word": "aside",
+        "pos": "adv./n.",
+        "pos_key": "adv.",
+        "defn_en": "to or on one side; a remark not meant to be heard by everyone:",
+        "defn_zh": "在旁邊;旁白"
+      },
+      {
+        "word": "vice versa",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "with the order or meaning reversed; conversely:",
+        "defn_zh": "反之亦然"
+      }
+    ],
+    "other": [
+      {
+        "word": "（此批單字中，暫無符合此字根/字首的單字）",
+        "pos": "",
+        "pos_key": "other",
+        "defn_en": "",
+        "defn_zh": ""
+      }
+    ],
+    "prep./adv.": [
+      {
+        "word": "besides",
+        "pos": "prep./adv.",
+        "pos_key": "prep./adv.",
+        "defn_en": "in addition to; furthermore:",
+        "defn_zh": "除...之外;此外"
+      }
+    ],
+    "phrasalv.": [
+      {
+        "word": "egg on",
+        "pos": "phrasal v.",
+        "pos_key": "phrasalv.",
+        "defn_en": "to encourage someone to do something, often risky:",
+        "defn_zh": "慫恿;鼓動"
+      }
+    ],
+    "abbr.": [
+      {
+        "word": "etc.",
+        "pos": "abbr.",
+        "pos_key": "abbr.",
+        "defn_en": "and other similar things (abbreviation of et cetera):",
+        "defn_zh": "等等(et cetera的縮寫)"
+      }
+    ],
+    "interj.": [
+      {
+        "word": "fiddledeedee",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "an exclamation expressing dismissal of something as nonsense:",
+        "defn_zh": "廢話!(表示不屑一顧)"
+      },
+      {
+        "word": "gesundheit",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "an expression said to someone who has just sneezed:",
+        "defn_zh": "保重(打噴嚏後的祝福語)"
+      }
+    ],
+    "prep.": [
+      {
+        "word": "via",
+        "pos": "prep.",
+        "pos_key": "prep.",
+        "defn_en": "by way of; passing through:",
+        "defn_zh": "經由;透過"
+      }
+    ]
+  }
+}
