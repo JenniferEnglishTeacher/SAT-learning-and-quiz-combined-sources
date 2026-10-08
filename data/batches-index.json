@@ -4,7 +4,7 @@
     "total_batches": 236,
     "part1_part2_batches": 159,
     "unclassified_batches": 77,
-    "generated_batches": 148
+    "generated_batches": 149
   },
   "batches": [
     {
@@ -1494,7 +1494,7 @@
       "name": "mov；mot；mob",
       "subtitle": "動",
       "count": 12,
-      "generated": false,
+      "generated": true,
       "search_terms": "remote motivate automobile bon mot emote immovable leitmoff leitmotif moat motif motorcade promote"
     },
     {

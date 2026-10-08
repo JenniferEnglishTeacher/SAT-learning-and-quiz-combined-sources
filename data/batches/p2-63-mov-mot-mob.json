@@ -1,0 +1,706 @@
+{
+  "id": "p2-63-mov-mot-mob",
+  "part": "part2",
+  "part_label": "Part 2 字根篇 (Roots)",
+  "name": "mov；mot；mob",
+  "subtitle": "動",
+  "count": 12,
+  "words": [
+    {
+      "word": "remote",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "distant, hidden away:",
+      "defn_zh": "遙遠的",
+      "root_note": "re- (back) + movere (to move)",
+      "sentences": [
+        {
+          "en": "The cabin was located in a ______ area of the mountains, far from any town.",
+          "zh": "那間小屋位於山區一個偏遠的地方,遠離任何城鎮。"
+        },
+        {
+          "en": "There is only a ______ possibility that the ancient manuscript will ever be found.",
+          "zh": "這份古老手稿被找到的可能性十分渺茫。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "63",
+        "spelling": "mov；mot；mob",
+        "meaning": "動"
+      }
+    },
+    {
+      "word": "motivate",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to inspire, stimulate, provoke:",
+      "defn_zh": "激發/促動",
+      "root_note": "movere (to move)",
+      "sentences": [
+        {
+          "en": "A good coach knows how to ______ every player on the team.",
+          "zh": "一位優秀的教練懂得如何激勵團隊裡的每一位球員。"
+        },
+        {
+          "en": "Fear of failure can sometimes ______ people to work harder.",
+          "zh": "對失敗的恐懼有時能激勵人們更加努力。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "63",
+        "spelling": "mov；mot；mob",
+        "meaning": "動"
+      }
+    },
+    {
+      "word": "automobile",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a road vehicle powered by an engine, typically for passengers:",
+      "defn_zh": "汽車",
+      "root_note": "autos (self) + mobilis (movable), from Greek/Latin",
+      "sentences": [
+        {
+          "en": "The invention of the ______ transformed how cities were designed.",
+          "zh": "汽車的發明徹底改變了城市的設計方式。"
+        },
+        {
+          "en": "He restored the vintage ______ over the course of three years.",
+          "zh": "他花了三年時間修復這輛古董汽車。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "63",
+        "spelling": "mov；mot；mob",
+        "meaning": "動"
+      }
+    },
+    {
+      "word": "bon mot",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a clever, witty remark:",
+      "defn_zh": "妙語;機智話語",
+      "root_note": "bon (good) + mot (word), from French",
+      "sentences": [
+        {
+          "en": "Her ______ at the dinner party had everyone laughing for minutes.",
+          "zh": "她在晚宴上說的那句妙語,讓大家笑了好幾分鐘。"
+        },
+        {
+          "en": "The comedian was known for a rapid string of ______ delivered without pause.",
+          "zh": "這位喜劇演員以連珠炮般、毫不停頓的機智妙語而聞名。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "63",
+        "spelling": "mov；mot；mob",
+        "meaning": "動"
+      }
+    },
+    {
+      "word": "emote",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to express emotion:",
+      "defn_zh": "表達情感/演出情緒",
+      "root_note": "e- (out) + movere (to move)",
+      "sentences": [
+        {
+          "en": "The actor learned to ______ convincingly without saying a single word.",
+          "zh": "這位演員學會了不發一語也能有說服力地表達情感。"
+        },
+        {
+          "en": "She tends to ______ dramatically whenever she tells a story.",
+          "zh": "她每次講故事時都習慣誇張地表達情緒。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "63",
+        "spelling": "mov；mot；mob",
+        "meaning": "動"
+      }
+    },
+    {
+      "word": "immovable",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "not able to be moved; unyielding:",
+      "defn_zh": "不可移動的;不動搖的",
+      "root_note": "in- (not) + movere (to move), from Latin",
+      "sentences": [
+        {
+          "en": "The ancient boulder remained ______ despite the machinery.",
+          "zh": "儘管動用了機械,這塊古老的巨石依然紋絲不動。"
+        },
+        {
+          "en": "He was ______ in his decision, no matter the pressure.",
+          "zh": "無論壓力多大,他在這項決定上始終不動搖。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "63",
+        "spelling": "mov；mot；mob",
+        "meaning": "動"
+      }
+    },
+    {
+      "word": "leitmoff",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a variant spelling of leitmotif, a recurring musical or thematic theme:",
+      "defn_zh": "主導動機(leitmotif異體拼法)",
+      "root_note": "leiten (to lead) + Motiv (motif), from German",
+      "sentences": [
+        {
+          "en": "The composer wove a haunting ______ throughout the entire opera.",
+          "zh": "這位作曲家在整齣歌劇中編織了一個縈繞不去的主導動機。"
+        },
+        {
+          "en": "Critics noted how the film's ______ echoed the hero's inner conflict.",
+          "zh": "評論家注意到這部電影的主導動機呼應了主角內心的衝突。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "63",
+        "spelling": "mov；mot；mob",
+        "meaning": "動"
+      }
+    },
+    {
+      "word": "leitmotif",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a recurring theme associated with a particular idea or character:",
+      "defn_zh": "主導動機;主旋律",
+      "root_note": "leiten (to lead) + Motiv (motif), from German",
+      "sentences": [
+        {
+          "en": "Wagner's operas are famous for their use of the ______ .",
+          "zh": "華格納的歌劇以運用主導動機聞名。"
+        },
+        {
+          "en": "Betrayal serves as a ______ throughout the entire novel.",
+          "zh": "背叛作為主導動機貫穿了整本小說。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "63",
+        "spelling": "mov；mot；mob",
+        "meaning": "動"
+      }
+    },
+    {
+      "word": "moat",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a deep, wide ditch surrounding a castle, filled with water for defense:",
+      "defn_zh": "護城河",
+      "root_note": "mote (mound, embankment), from Old French",
+      "sentences": [
+        {
+          "en": "The medieval castle was surrounded by a wide ______ .",
+          "zh": "這座中世紀城堡被一條寬闊的護城河所環繞。"
+        },
+        {
+          "en": "Visitors crossed the drawbridge over the ______ to enter the fortress.",
+          "zh": "遊客越過護城河上的吊橋才能進入這座堡壘。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "63",
+        "spelling": "mov；mot；mob",
+        "meaning": "動"
+      }
+    },
+    {
+      "word": "motif",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a recurring theme or idea in an artistic work:",
+      "defn_zh": "主題;圖案",
+      "root_note": "motif (motive, theme), from French, from Latin movere (to move)",
+      "sentences": [
+        {
+          "en": "Loss serves as a central ______ throughout her poetry collection.",
+          "zh": "失落作為一個核心主題貫穿了她整本詩集。"
+        },
+        {
+          "en": "The quilt's floral ______ was passed down through generations.",
+          "zh": "這條被子的花卉圖案主題代代相傳。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "63",
+        "spelling": "mov；mot；mob",
+        "meaning": "動"
+      }
+    },
+    {
+      "word": "motorcade",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a procession of motor vehicles:",
+      "defn_zh": "車隊",
+      "root_note": "motor + cavalcade, from Latin movere + caballus (horse)",
+      "sentences": [
+        {
+          "en": "The president's ______ slowed traffic across the entire city.",
+          "zh": "總統的車隊讓整座城市的交通都為之減速。"
+        },
+        {
+          "en": "A festive ______ celebrated the team's championship win.",
+          "zh": "一支歡慶的車隊慶祝著這支球隊贏得冠軍。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "63",
+        "spelling": "mov；mot；mob",
+        "meaning": "動"
+      }
+    },
+    {
+      "word": "promote",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to raise to a higher position; to encourage the development of something:",
+      "defn_zh": "晉升;促進",
+      "root_note": "promovere (to move forward), from Latin pro- (forward) + movere (to move)",
+      "sentences": [
+        {
+          "en": "She was ______ d to senior manager after five successful years.",
+          "zh": "她在五年的成功表現後被晉升為資深經理。"
+        },
+        {
+          "en": "The campaign aimed to ______ healthy eating among schoolchildren.",
+          "zh": "這項活動旨在促進學童的健康飲食。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "63",
+        "spelling": "mov；mot；mob",
+        "meaning": "動"
+      }
+    }
+  ],
+  "family_options": {},
+  "fallback_options": {
+    "v.": [
+      {
+        "word": "abound",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to exist in great numbers:",
+        "defn_zh": "充滿"
+      },
+      {
+        "word": "abrogate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to deprive of legal force, to nullify:=abolish",
+        "defn_zh": "廢除/取消"
+      },
+      {
+        "word": "abjure",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to renounce, abstain from:",
+        "defn_zh": "發誓放棄/棄絕"
+      },
+      {
+        "word": "abbreviate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to shorten a word or phrase:",
+        "defn_zh": "縮寫;縮短"
+      },
+      {
+        "word": "abdicate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to give up a position, usually one of leadership:",
+        "defn_zh": "退位/放棄(職位)"
+      },
+      {
+        "word": "abduct",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to kidnap, take by force:",
+        "defn_zh": "綁架/劫持"
+      },
+      {
+        "word": "abhor",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to regard with disgust and hatred:",
+        "defn_zh": "憎惡/厭惡"
+      },
+      {
+        "word": "abnegate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to deny or renounce:",
+        "defn_zh": "放棄/克制"
+      },
+      {
+        "word": "abolish",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to formally put an end to a system, practice, or institution:",
+        "defn_zh": "廢除"
+      },
+      {
+        "word": "abort",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to give up on a half-finished project or effort:",
+        "defn_zh": "中止/放棄"
+      },
+      {
+        "word": "abrade",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to scrape or wear away by friction:",
+        "defn_zh": "磨損;擦傷"
+      },
+      {
+        "word": "abscond",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to sneak away and hide:",
+        "defn_zh": "潛逃/逃匿"
+      }
+    ],
+    "adj.": [
+      {
+        "word": "abortive",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "fruitless, failing:",
+        "defn_zh": "失敗的/夭折的"
+      },
+      {
+        "word": "abstemious",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "moderate in eating or drinking:",
+        "defn_zh": "飲食有節制的"
+      },
+      {
+        "word": "abhorrent",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "detestable, despised:",
+        "defn_zh": "令人厭惡的"
+      },
+      {
+        "word": "absurd",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "ridiculous:",
+        "defn_zh": "荒謬的"
+      },
+      {
+        "word": "aberrant",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "deviating from what is normal or expected:",
+        "defn_zh": "異常的;脫軌的"
+      },
+      {
+        "word": "abject",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "wretched, pitiful:",
+        "defn_zh": "卑賤的/淒慘的"
+      },
+      {
+        "word": "abominable",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "causing moral revulsion; extremely unpleasant:",
+        "defn_zh": "可憎的;惡劣的"
+      },
+      {
+        "word": "abounding",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "existing in large numbers or amounts:",
+        "defn_zh": "大量存在的;豐富的"
+      },
+      {
+        "word": "abrasive",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "showing little concern for others; harsh:",
+        "defn_zh": "粗暴的/刺耳的"
+      },
+      {
+        "word": "abrupt",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "sudden or unexpected; brief and curt in manner:",
+        "defn_zh": "突然的/唐突的"
+      },
+      {
+        "word": "abstract",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "existing purely in the mind; not representing actual reality:",
+        "defn_zh": "抽象的"
+      },
+      {
+        "word": "abstruse",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "hard to comprehend:",
+        "defn_zh": "深奧難懂的"
+      }
+    ],
+    "n.": [
+      {
+        "word": "aversion",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "strong dislike, opposition:",
+        "defn_zh": "厭惡/反感"
+      },
+      {
+        "word": "aberration",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "something that differs from the norm:",
+        "defn_zh": "異常/脫軌"
+      },
+      {
+        "word": "abjection",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a state of complete misery, hopelessness, or degradation:",
+        "defn_zh": "卑賤;悲慘狀態"
+      },
+      {
+        "word": "abjuration",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the solemn renunciation of a belief, cause, or claim:",
+        "defn_zh": "公開放棄;誓絕"
+      },
+      {
+        "word": "ablution",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the act of washing oneself, especially as part of a religious ritual:",
+        "defn_zh": "沐浴;淨身儀式"
+      },
+      {
+        "word": "abnegation",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "denial of comfort to oneself:",
+        "defn_zh": "自我克制/放棄"
+      },
+      {
+        "word": "abomination",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "something that causes disgust or hatred:",
+        "defn_zh": "可憎之事;令人厭惡的東西"
+      },
+      {
+        "word": "abridgement",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a shortened version of a book or other written work:",
+        "defn_zh": "節略本;縮減版"
+      },
+      {
+        "word": "absolution",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "freedom from blame, guilt, sin:",
+        "defn_zh": "赦免/免罪"
+      },
+      {
+        "word": "abstemiousness",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "moderation or self-restraint, especially in eating and drinking:",
+        "defn_zh": "節制;克己"
+      },
+      {
+        "word": "abstinence",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the practice of restraining oneself from something enjoyable, especially food, alcohol, or sex:",
+        "defn_zh": "節制;戒絕"
+      },
+      {
+        "word": "avocation",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a hobby or minor occupation apart from one's main career:",
+        "defn_zh": "副業;業餘愛好"
+      }
+    ],
+    "adv.": [
+      {
+        "word": "accordingly",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in a manner that fits the circumstances; consequently:",
+        "defn_zh": "相應地;因此"
+      },
+      {
+        "word": "inadvertently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "unintentionally or by accident:",
+        "defn_zh": "無意間/不小心地"
+      },
+      {
+        "word": "consequently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "as a result; therefore:",
+        "defn_zh": "因此;結果"
+      },
+      {
+        "word": "contemptuously",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "without respect; in a disdainful manner:",
+        "defn_zh": "輕蔑地"
+      },
+      {
+        "word": "involuntarily",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "done without conscious control:",
+        "defn_zh": "不由自主地"
+      },
+      {
+        "word": "cordially",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in a warm or friendly manner:",
+        "defn_zh": "誠摯地/友好地"
+      },
+      {
+        "word": "ipso facto",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "by that very fact or act:",
+        "defn_zh": "事實上;因此"
+      },
+      {
+        "word": "en passant",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in passing; incidentally:",
+        "defn_zh": "順帶一提地;偶然地"
+      },
+      {
+        "word": "regardless",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "despite the prevailing circumstances; without being deterred:",
+        "defn_zh": "不管怎樣;儘管如此"
+      },
+      {
+        "word": "subsequently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "afterward; following in time or order:",
+        "defn_zh": "隨後;其後"
+      },
+      {
+        "word": "aside",
+        "pos": "adv./n.",
+        "pos_key": "adv.",
+        "defn_en": "to or on one side; a remark not meant to be heard by everyone:",
+        "defn_zh": "在旁邊;旁白"
+      },
+      {
+        "word": "vice versa",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "with the order or meaning reversed; conversely:",
+        "defn_zh": "反之亦然"
+      }
+    ],
+    "other": [
+      {
+        "word": "（此批單字中，暫無符合此字根/字首的單字）",
+        "pos": "",
+        "pos_key": "other",
+        "defn_en": "",
+        "defn_zh": ""
+      }
+    ],
+    "prep./adv.": [
+      {
+        "word": "besides",
+        "pos": "prep./adv.",
+        "pos_key": "prep./adv.",
+        "defn_en": "in addition to; furthermore:",
+        "defn_zh": "除...之外;此外"
+      }
+    ],
+    "phrasalv.": [
+      {
+        "word": "egg on",
+        "pos": "phrasal v.",
+        "pos_key": "phrasalv.",
+        "defn_en": "to encourage someone to do something, often risky:",
+        "defn_zh": "慫恿;鼓動"
+      }
+    ],
+    "abbr.": [
+      {
+        "word": "etc.",
+        "pos": "abbr.",
+        "pos_key": "abbr.",
+        "defn_en": "and other similar things (abbreviation of et cetera):",
+        "defn_zh": "等等(et cetera的縮寫)"
+      }
+    ],
+    "interj.": [
+      {
+        "word": "fiddledeedee",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "an exclamation expressing dismissal of something as nonsense:",
+        "defn_zh": "廢話!(表示不屑一顧)"
+      },
+      {
+        "word": "gesundheit",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "an expression said to someone who has just sneezed:",
+        "defn_zh": "保重(打噴嚏後的祝福語)"
+      }
+    ],
+    "prep.": [
+      {
+        "word": "via",
+        "pos": "prep.",
+        "pos_key": "prep.",
+        "defn_en": "by way of; passing through:",
+        "defn_zh": "經由;透過"
+      }
+    ]
+  }
+}
