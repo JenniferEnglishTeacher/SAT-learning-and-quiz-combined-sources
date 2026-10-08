@@ -4,7 +4,7 @@
     "total_batches": 236,
     "part1_part2_batches": 159,
     "unclassified_batches": 77,
-    "generated_batches": 115
+    "generated_batches": 116
   },
   "batches": [
     {
@@ -1164,7 +1164,7 @@
       "name": "patr(i)",
       "subtitle": "父親；祖國",
       "count": 9,
-      "generated": false,
+      "generated": true,
       "search_terms": "perpetrate expatriate addlepated patent patio patios patrician philopatridomania puzzlepate"
     },
     {
