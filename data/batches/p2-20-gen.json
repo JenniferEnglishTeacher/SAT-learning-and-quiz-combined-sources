@@ -1,0 +1,1282 @@
+{
+  "id": "p2-20-gen",
+  "part": "part2",
+  "part_label": "Part 2 字根篇 (Roots)",
+  "name": "gen",
+  "subtitle": "生產；根源",
+  "count": 36,
+  "words": [
+    {
+      "word": "jaunty",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "sprightly:",
+      "defn_zh": "輕鬆活潑的",
+      "root_note": "gentil (nice/pleasing)",
+      "sentences": [
+        {
+          "en": "He walked down the street with a ______ step, whistling a tune.",
+          "zh": "他邁著輕快活潑的步伐走在街上,吹著口哨。"
+        },
+        {
+          "en": "She wore a ______ hat tilted slightly to one side.",
+          "zh": "她戴著一頂略微歪斜、看起來輕鬆俏皮的帽子。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "20",
+        "spelling": "gen",
+        "meaning": "生產；根源"
+      }
+    },
+    {
+      "word": "indigenous",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "native:",
+      "defn_zh": "本土的/土生土長的",
+      "root_note": "indu- (in/within) + gignere (to beget)",
+      "sentences": [
+        {
+          "en": "The museum features artwork created by ______ artists of the region.",
+          "zh": "這座博物館展出該地區原住民藝術家創作的作品。"
+        },
+        {
+          "en": "Corn is ______ to the Americas and was later introduced to other continents.",
+          "zh": "玉米原產於美洲,後來才被引進其他大陸。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "20",
+        "spelling": "gen",
+        "meaning": "生產；根源"
+      }
+    },
+    {
+      "word": "progeny",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "descendants, offspring",
+      "defn_zh": "後代/子孫",
+      "root_note": "pro- (forth) + gignere (to beget)",
+      "sentences": [
+        {
+          "en": "The old oak tree has produced countless ______ scattered throughout the forest.",
+          "zh": "這棵老橡樹已經產下無數散布在森林各處的後代。"
+        },
+        {
+          "en": "The king hoped his ______ would rule the kingdom for generations to come.",
+          "zh": "國王希望他的後代子孫能世世代代統治這個王國。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "20",
+        "spelling": "gen",
+        "meaning": "生產；根源"
+      }
+    },
+    {
+      "word": "heterogeneous",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "dissimilar:",
+      "defn_zh": "異質的",
+      "root_note": "hetero- (different) + genos (kind)",
+      "sentences": [
+        {
+          "en": "The classroom was made up of a ______ mix of students from many countries.",
+          "zh": "這間教室由來自許多國家、背景各異的學生組成。"
+        },
+        {
+          "en": "The rock sample contained a ______ mixture of minerals.",
+          "zh": "這塊岩石標本含有成分各異的礦物混合物。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "20",
+        "spelling": "gen",
+        "meaning": "生產；根源"
+      }
+    },
+    {
+      "word": "congenial",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "sympathetic, agreeable:",
+      "defn_zh": "意氣相投的",
+      "root_note": "con- (with) + genialis (of birth/spirit)",
+      "sentences": [
+        {
+          "en": "The staff at the small inn were warm and ______.",
+          "zh": "這家小旅館的員工既熱情又意氣相投。"
+        },
+        {
+          "en": "She found her new coworkers to be friendly and ______.",
+          "zh": "她發現新同事既友善又合得來。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "20",
+        "spelling": "gen",
+        "meaning": "生產；根源"
+      }
+    },
+    {
+      "word": "malign",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to abuse, slander:",
+      "defn_zh": "誹謗/中傷",
+      "root_note": "malus (bad) + gignere (to beget)",
+      "sentences": [
+        {
+          "en": "The tabloids tried to ______ the actor with baseless rumors.",
+          "zh": "這些八卦小報試圖用毫無根據的謠言中傷這位演員。"
+        },
+        {
+          "en": "He accused his rival of trying to ______ his reputation.",
+          "zh": "他指控對手企圖詆毀他的名聲。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "20",
+        "spelling": "gen",
+        "meaning": "生產；根源"
+      }
+    },
+    {
+      "word": "genre",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "certain form or style in painting or literature:",
+      "defn_zh": "類型/流派",
+      "root_note": "genus (kind)",
+      "sentences": [
+        {
+          "en": "Science fiction is her favorite literary ______.",
+          "zh": "科幻小說是她最喜歡的文學類型。"
+        },
+        {
+          "en": "The director is known for blending different film ______s in one movie.",
+          "zh": "這位導演以在同一部電影中融合不同類型而聞名。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "20",
+        "spelling": "gen",
+        "meaning": "生產；根源"
+      }
+    },
+    {
+      "word": "homogeneous",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "same, uniform:",
+      "defn_zh": "同質的",
+      "root_note": "homos (same) + genos (kind)",
+      "sentences": [
+        {
+          "en": "The neighborhood was once fairly ______ but has since become more diverse.",
+          "zh": "這一帶社區曾經相當單一同質,但如今已變得更加多元。"
+        },
+        {
+          "en": "The company sought a more ______ approach to branding across regions.",
+          "zh": "這家公司希望在各地區採取更加一致統一的品牌策略。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "20",
+        "spelling": "gen",
+        "meaning": "生產；根源"
+      }
+    },
+    {
+      "word": "genocide",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "planned destruction of an entire people:",
+      "defn_zh": "種族滅絕",
+      "root_note": "genos (race) + caedere (to kill)",
+      "sentences": [
+        {
+          "en": "The tribunal was established to prosecute those responsible for the ______.",
+          "zh": "設立這個法庭是為了起訴應為這起種族滅絕負責的人。"
+        },
+        {
+          "en": "Historians continue to study the causes and aftermath of the ______.",
+          "zh": "歷史學家持續研究這場種族滅絕的成因與後續影響。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "20",
+        "spelling": "gen",
+        "meaning": "生產；根源"
+      }
+    },
+    {
+      "word": "gingerly",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "very carefully",
+      "defn_zh": "小心翼翼地",
+      "root_note": "gensor (delicate, Old French; no clear classical root)",
+      "sentences": [
+        {
+          "en": "She ______ stepped over the broken glass on the floor.",
+          "zh": "她小心翼翼地跨過地板上的碎玻璃。"
+        },
+        {
+          "en": "He ______ picked up the injured bird and placed it in a box.",
+          "zh": "他小心翼翼地抱起這隻受傷的鳥,把牠放進箱子裡。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "20",
+        "spelling": "gen",
+        "meaning": "生產；根源"
+      }
+    },
+    {
+      "word": "ingenious",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "very clever or inventive",
+      "defn_zh": "巧妙的；有創意的",
+      "root_note": "in- (in) + gignere (to beget)",
+      "sentences": [
+        {
+          "en": "The engineer came up with an ______ solution to the water shortage.",
+          "zh": "這位工程師針對缺水問題提出了一個巧妙的解決方案。"
+        },
+        {
+          "en": "Her ______ design won first prize at the science fair.",
+          "zh": "她巧妙的設計在科展中贏得了首獎。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "20",
+        "spelling": "gen",
+        "meaning": "生產；根源"
+      }
+    },
+    {
+      "word": "benign",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "favorable, not threatening, mild:",
+      "defn_zh": "溫和的/良性的",
+      "root_note": "bene- (well) + gignere (to be born)",
+      "sentences": [
+        {
+          "en": "The doctor was relieved to find the tumor was ______.",
+          "zh": "醫生鬆了一口氣,發現這顆腫瘤是良性的。"
+        },
+        {
+          "en": "Her ______ smile put the nervous new employee at ease.",
+          "zh": "她溫和的微笑讓這位緊張的新員工放鬆了下來。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "20",
+        "spelling": "gen",
+        "meaning": "生產；根源"
+      }
+    },
+    {
+      "word": "congenital",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "present at birth but not necessarily hereditary:",
+      "defn_zh": "先天性的",
+      "root_note": "con- (together) + gignere/genitus (to bring forth, born)",
+      "sentences": [
+        {
+          "en": "The infant was diagnosed with a rare ______ heart defect.",
+          "zh": "這名嬰兒被診斷出患有一種罕見的先天性心臟缺陷。"
+        },
+        {
+          "en": "Doctors monitored the baby closely for any ______ conditions.",
+          "zh": "醫生密切觀察這名嬰兒是否有任何先天性病症。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "20",
+        "spelling": "gen",
+        "meaning": "生產；根源"
+      }
+    },
+    {
+      "word": "degeneracy",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "the state of having declined in moral or physical standards:",
+      "defn_zh": "墮落;退化",
+      "root_note": "de- (down) + genus (birth, kind), from Latin",
+      "sentences": [
+        {
+          "en": "The critic decried the moral ______ of modern society.",
+          "zh": "這位評論家譴責現代社會的道德墮落。"
+        },
+        {
+          "en": "The empire's final years were marked by cultural ______ .",
+          "zh": "這個帝國的末年以文化衰退墮落為特徵。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "20",
+        "spelling": "gen",
+        "meaning": "生產；根源"
+      }
+    },
+    {
+      "word": "degenerate",
+      "pos": "v./adj.",
+      "pos_key": "v.",
+      "defn_en": "to decline in quality or morals; morally corrupt:",
+      "defn_zh": "退化;墮落的",
+      "root_note": "de- (down) + genus (birth, kind), from Latin",
+      "sentences": [
+        {
+          "en": "The debate quickly ______ d into shouting.",
+          "zh": "這場辯論很快就退化成了互相叫囂。"
+        },
+        {
+          "en": "The novel's ______ characters live only for pleasure.",
+          "zh": "這本小說中墮落的角色只為享樂而活。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "20",
+        "spelling": "gen",
+        "meaning": "生產；根源"
+      }
+    },
+    {
+      "word": "endogenous",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "originating from within an organism or system:",
+      "defn_zh": "內源性的;內生的",
+      "root_note": "endon (within) + genes (born), from Greek",
+      "sentences": [
+        {
+          "en": "The body produces ______ hormones to regulate stress.",
+          "zh": "人體會產生內源性荷爾蒙來調節壓力。"
+        },
+        {
+          "en": "Economists debated whether the growth was ______ or driven by trade.",
+          "zh": "經濟學家爭論這次成長是內生的,還是由貿易所驅動的。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "20",
+        "spelling": "gen",
+        "meaning": "生產；根源"
+      }
+    },
+    {
+      "word": "engender",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to bring about, create, generate:",
+      "defn_zh": "產生/引起",
+      "root_note": "en- (in) + generare (to beget)",
+      "sentences": [
+        {
+          "en": "The new policy is likely to ______ significant public debate.",
+          "zh": "這項新政策很可能引發重大的公眾辯論。"
+        },
+        {
+          "en": "Years of shared hardship helped ______ a deep trust among the crew.",
+          "zh": "多年共同經歷的困境,幫助這群船員之間培養出深厚的信任。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "20",
+        "spelling": "gen",
+        "meaning": "生產；根源"
+      }
+    },
+    {
+      "word": "exogenous",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "originating from outside a system or organism:",
+      "defn_zh": "外源性的;外生的",
+      "root_note": "exo- (outside) + genes (born), from Greek",
+      "sentences": [
+        {
+          "en": "Researchers studied the effects of ______ hormones on growth.",
+          "zh": "研究人員研究了外源性荷爾蒙對生長的影響。"
+        },
+        {
+          "en": "The recession was caused by an ______ shock to the economy.",
+          "zh": "這場經濟衰退是由一次外部經濟衝擊所引起的。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "20",
+        "spelling": "gen",
+        "meaning": "生產；根源"
+      }
+    },
+    {
+      "word": "genealogy",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "an account of a family's or person's descent from an ancestor:",
+      "defn_zh": "家譜;系譜學",
+      "root_note": "genesis (birth) + logos (study), from Greek",
+      "sentences": [
+        {
+          "en": "She traced her ______ back six generations using old church records.",
+          "zh": "她利用古老的教堂紀錄,將她的家譜追溯回六代之前。"
+        },
+        {
+          "en": "Researching family ______ has become a popular hobby.",
+          "zh": "研究家族系譜已經成為一項熱門的嗜好。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "20",
+        "spelling": "gen",
+        "meaning": "生產；根源"
+      }
+    },
+    {
+      "word": "generate",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to produce or bring into existence:",
+      "defn_zh": "產生;引起",
+      "root_note": "generare (to beget), from Latin",
+      "sentences": [
+        {
+          "en": "Solar panels ______ electricity from sunlight.",
+          "zh": "太陽能板能利用陽光產生電力。"
+        },
+        {
+          "en": "The announcement began to ______ public interest.",
+          "zh": "這項宣布開始引起大眾的興趣。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "20",
+        "spelling": "gen",
+        "meaning": "生產；根源"
+      }
+    },
+    {
+      "word": "generous",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "showing readiness to give freely; ample:",
+      "defn_zh": "慷慨的;豐厚的",
+      "root_note": "generosus (of noble birth), from Latin",
+      "sentences": [
+        {
+          "en": "Her ______ donation funded the entire scholarship program.",
+          "zh": "她慷慨的捐款資助了整個獎學金計畫。"
+        },
+        {
+          "en": "The restaurant serves ______ portions at every meal.",
+          "zh": "這家餐廳每一餐都提供豐盛的份量。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "20",
+        "spelling": "gen",
+        "meaning": "生產；根源"
+      }
+    },
+    {
+      "word": "genesis",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "the origin or beginning of something:",
+      "defn_zh": "起源;創始",
+      "root_note": "genesis (birth, origin), from Greek",
+      "sentences": [
+        {
+          "en": "The company's ______ traces back to a small garage workshop.",
+          "zh": "這家公司的起源可以追溯到一間小車庫工作室。"
+        },
+        {
+          "en": "The idea's ______ came from a casual conversation.",
+          "zh": "這個想法的起源來自於一次隨意的談話。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "20",
+        "spelling": "gen",
+        "meaning": "生產；根源"
+      }
+    },
+    {
+      "word": "genetics",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "the study of heredity and inherited traits:",
+      "defn_zh": "遺傳學",
+      "root_note": "genesis (birth, origin), from Greek",
+      "sentences": [
+        {
+          "en": "She majored in ______ to study inherited diseases.",
+          "zh": "她主修遺傳學,以研究遺傳性疾病。"
+        },
+        {
+          "en": "Advances in ______ have led to new treatments for rare disorders.",
+          "zh": "遺傳學的進展帶來了針對罕見疾病的新療法。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "20",
+        "spelling": "gen",
+        "meaning": "生產；根源"
+      }
+    },
+    {
+      "word": "genial",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "friendly, affable:",
+      "defn_zh": "和藹的/親切的",
+      "root_note": "genius (guardian spirit, generative power, Latin)",
+      "sentences": [
+        {
+          "en": "The ______ host made every guest feel instantly welcome.",
+          "zh": "這位和藹可親的主人讓每位賓客都立刻感到賓至如歸。"
+        },
+        {
+          "en": "Despite his intimidating size, he had a ______ smile that put people at ease.",
+          "zh": "儘管體型嚇人,他親切的笑容卻讓人感到放鬆。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "20",
+        "spelling": "gen",
+        "meaning": "生產；根源"
+      }
+    },
+    {
+      "word": "genteel",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "polite, refined, or affectedly proper:",
+      "defn_zh": "文雅的;上流的",
+      "root_note": "gentilis (of the same clan), from Latin",
+      "sentences": [
+        {
+          "en": "She grew up in a ______ household with strict manners.",
+          "zh": "她在一個講究禮儀、上流的家庭中長大。"
+        },
+        {
+          "en": "His ______ manner masked a ruthless business sense.",
+          "zh": "他文雅的舉止掩蓋了他無情的商業手腕。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "20",
+        "spelling": "gen",
+        "meaning": "生產；根源"
+      }
+    },
+    {
+      "word": "genuflection",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "the act of bending the knee, especially in worship:",
+      "defn_zh": "屈膝;下跪",
+      "root_note": "genu (knee) + flectere (to bend), from Latin",
+      "sentences": [
+        {
+          "en": "The worshippers made a brief ______ before the altar.",
+          "zh": "信徒們在祭壇前做了一個簡短的屈膝禮。"
+        },
+        {
+          "en": "A slight ______ is customary upon entering the chapel.",
+          "zh": "進入這座禮拜堂時,行個輕微的屈膝禮是習俗。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "20",
+        "spelling": "gen",
+        "meaning": "生產；根源"
+      }
+    },
+    {
+      "word": "genuine",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "authentic or real:",
+      "defn_zh": "真誠的/真正的",
+      "root_note": "genuinus (natural)",
+      "sentences": [
+        {
+          "en": "His apology seemed ______.",
+          "zh": "他的道歉聽起來相當真誠。"
+        },
+        {
+          "en": "The store guarantees that every product is a ______ leather item.",
+          "zh": "這家商店保證每件產品都是真皮製品。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "20",
+        "spelling": "gen",
+        "meaning": "生產；根源"
+      }
+    },
+    {
+      "word": "homogenize",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to make uniform or similar throughout:",
+      "defn_zh": "使均質化;使一致",
+      "root_note": "homos (same) + genos (kind), from Greek",
+      "sentences": [
+        {
+          "en": "Globalization tends to ______ local cultures over time.",
+          "zh": "全球化往往會使當地文化隨著時間趨於同質化。"
+        },
+        {
+          "en": "The dairy plant uses machines to ______ the milk.",
+          "zh": "這座乳品廠使用機器將牛奶均質化。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "20",
+        "spelling": "gen",
+        "meaning": "生產；根源"
+      }
+    },
+    {
+      "word": "homogenous",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "of the same kind; uniform in composition:",
+      "defn_zh": "同質的;一致的",
+      "root_note": "homos (same) + genos (kind), from Greek",
+      "sentences": [
+        {
+          "en": "The committee was surprisingly ______ in its opinions.",
+          "zh": "這個委員會的意見出人意料地一致。"
+        },
+        {
+          "en": "The neighborhood was largely ______ in its architecture.",
+          "zh": "這個社區的建築風格大致上相當一致。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "20",
+        "spelling": "gen",
+        "meaning": "生產；根源"
+      }
+    },
+    {
+      "word": "iatrogenic",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "caused by medical treatment or examination:",
+      "defn_zh": "醫源性的(由治療引起的)",
+      "root_note": "iatros (healer) + genes (born), from Greek",
+      "sentences": [
+        {
+          "en": "The infection turned out to be ______ , caused by the surgery itself.",
+          "zh": "這場感染最終被證實是醫源性的,由手術本身所引起。"
+        },
+        {
+          "en": "Doctors work to minimize ______ complications during treatment.",
+          "zh": "醫生致力於在治療過程中減少醫源性併發症。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "20",
+        "spelling": "gen",
+        "meaning": "生產；根源"
+      }
+    },
+    {
+      "word": "ingenuous",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "not devious; innocent and candid:",
+      "defn_zh": "率真的/天真無邪的",
+      "root_note": "in- (in) + gignere (to beget, be born)",
+      "sentences": [
+        {
+          "en": "The child's ______ questions about death caught her parents off guard.",
+          "zh": "這個孩子率真地問起關於死亡的問題,讓父母措手不及。"
+        },
+        {
+          "en": "His ______ honesty about his mistakes won over the skeptical committee.",
+          "zh": "他坦率承認自己的錯誤,贏得了原本存疑的委員會的信任。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "20",
+        "spelling": "gen",
+        "meaning": "生產；根源"
+      }
+    },
+    {
+      "word": "postremogeniture",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "the practice of inheritance passing to the last-born child:",
+      "defn_zh": "幼子繼承制",
+      "root_note": "postremus (last) + genitura (birth), from Latin",
+      "sentences": [
+        {
+          "en": "Under the old custom of ______ , the youngest son inherited the family farm.",
+          "zh": "在幼子繼承制的舊習俗下,家中最小的兒子繼承了家族的農場。"
+        },
+        {
+          "en": "Historians study how ______ shaped inheritance patterns in certain rural regions.",
+          "zh": "歷史學家研究幼子繼承制如何塑造了某些鄉村地區的繼承模式。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "20",
+        "spelling": "gen",
+        "meaning": "生產；根源"
+      }
+    },
+    {
+      "word": "primogeniture",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "the right of the firstborn child to inherit the family estate:",
+      "defn_zh": "長子繼承制",
+      "root_note": "primus (first) + genitura (birth), from Latin",
+      "sentences": [
+        {
+          "en": "Under ______ , the eldest son inherited the entire family fortune.",
+          "zh": "在長子繼承制之下,長子繼承了整個家族的財產。"
+        },
+        {
+          "en": "The novel critiques the injustice of ______ toward younger siblings.",
+          "zh": "這本小說批判了長子繼承制對年幼手足所造成的不公。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "20",
+        "spelling": "gen",
+        "meaning": "生產；根源"
+      }
+    },
+    {
+      "word": "progenitor",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "an ancestor or originator; a precursor:",
+      "defn_zh": "祖先;先驅",
+      "root_note": "progenitor (ancestor), from Latin pro- (forth) + gignere (to beget)",
+      "sentences": [
+        {
+          "en": "The scientist is considered a ______ of modern genetics.",
+          "zh": "這位科學家被視為現代遺傳學的先驅。"
+        },
+        {
+          "en": "Historians traced the family's ______ s back to medieval nobility.",
+          "zh": "歷史學家將這個家族的祖先追溯到中世紀的貴族。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "20",
+        "spelling": "gen",
+        "meaning": "生產；根源"
+      }
+    },
+    {
+      "word": "sui generis",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "unique; in a class of its own:",
+      "defn_zh": "獨一無二的;自成一格的",
+      "root_note": "sui (of its own) + generis (kind), from Latin",
+      "sentences": [
+        {
+          "en": "Critics described her artistic style as truly ______ .",
+          "zh": "評論家形容她的藝術風格真正是獨一無二的。"
+        },
+        {
+          "en": "The legal case was considered ______ , setting no broader precedent.",
+          "zh": "這起法律案件被認為自成一格,並未設下更廣泛的先例。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "20",
+        "spelling": "gen",
+        "meaning": "生產；根源"
+      }
+    },
+    {
+      "word": "ultimogeniture",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a system of inheritance in which the youngest child inherits the estate:",
+      "defn_zh": "幼子繼承制",
+      "root_note": "ultimus (last) + genitura (birth), from Latin",
+      "sentences": [
+        {
+          "en": "Some historical cultures practiced ______ instead of favoring the eldest heir.",
+          "zh": "某些歷史文化實行幼子繼承制,而非偏袒長子繼承。"
+        },
+        {
+          "en": "Under ______ , the family farm passed to the youngest son.",
+          "zh": "根據幼子繼承制,這座家族農場傳給了最年幼的兒子。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "20",
+        "spelling": "gen",
+        "meaning": "生產；根源"
+      }
+    }
+  ],
+  "family_options": {},
+  "fallback_options": {
+    "v.": [
+      {
+        "word": "abound",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to exist in great numbers:",
+        "defn_zh": "充滿"
+      },
+      {
+        "word": "abrogate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to deprive of legal force, to nullify:=abolish",
+        "defn_zh": "廢除/取消"
+      },
+      {
+        "word": "abjure",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to renounce, abstain from:",
+        "defn_zh": "發誓放棄/棄絕"
+      },
+      {
+        "word": "abbreviate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to shorten a word or phrase:",
+        "defn_zh": "縮寫;縮短"
+      },
+      {
+        "word": "abdicate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to give up a position, usually one of leadership:",
+        "defn_zh": "退位/放棄(職位)"
+      },
+      {
+        "word": "abduct",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to kidnap, take by force:",
+        "defn_zh": "綁架/劫持"
+      },
+      {
+        "word": "abhor",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to regard with disgust and hatred:",
+        "defn_zh": "憎惡/厭惡"
+      },
+      {
+        "word": "abnegate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to deny or renounce:",
+        "defn_zh": "放棄/克制"
+      },
+      {
+        "word": "abolish",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to formally put an end to a system, practice, or institution:",
+        "defn_zh": "廢除"
+      },
+      {
+        "word": "abort",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to give up on a half-finished project or effort:",
+        "defn_zh": "中止/放棄"
+      },
+      {
+        "word": "abrade",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to scrape or wear away by friction:",
+        "defn_zh": "磨損;擦傷"
+      },
+      {
+        "word": "abscond",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to sneak away and hide:",
+        "defn_zh": "潛逃/逃匿"
+      }
+    ],
+    "adj.": [
+      {
+        "word": "abortive",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "fruitless, failing:",
+        "defn_zh": "失敗的/夭折的"
+      },
+      {
+        "word": "abstemious",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "moderate in eating or drinking:",
+        "defn_zh": "飲食有節制的"
+      },
+      {
+        "word": "abhorrent",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "detestable, despised:",
+        "defn_zh": "令人厭惡的"
+      },
+      {
+        "word": "absurd",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "ridiculous:",
+        "defn_zh": "荒謬的"
+      },
+      {
+        "word": "aberrant",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "deviating from what is normal or expected:",
+        "defn_zh": "異常的;脫軌的"
+      },
+      {
+        "word": "abject",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "wretched, pitiful:",
+        "defn_zh": "卑賤的/淒慘的"
+      },
+      {
+        "word": "abominable",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "causing moral revulsion; extremely unpleasant:",
+        "defn_zh": "可憎的;惡劣的"
+      },
+      {
+        "word": "abounding",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "existing in large numbers or amounts:",
+        "defn_zh": "大量存在的;豐富的"
+      },
+      {
+        "word": "abrasive",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "showing little concern for others; harsh:",
+        "defn_zh": "粗暴的/刺耳的"
+      },
+      {
+        "word": "abrupt",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "sudden or unexpected; brief and curt in manner:",
+        "defn_zh": "突然的/唐突的"
+      },
+      {
+        "word": "abstract",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "existing purely in the mind; not representing actual reality:",
+        "defn_zh": "抽象的"
+      },
+      {
+        "word": "abstruse",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "hard to comprehend:",
+        "defn_zh": "深奧難懂的"
+      }
+    ],
+    "n.": [
+      {
+        "word": "aversion",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "strong dislike, opposition:",
+        "defn_zh": "厭惡/反感"
+      },
+      {
+        "word": "aberration",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "something that differs from the norm:",
+        "defn_zh": "異常/脫軌"
+      },
+      {
+        "word": "abjection",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a state of complete misery, hopelessness, or degradation:",
+        "defn_zh": "卑賤;悲慘狀態"
+      },
+      {
+        "word": "abjuration",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the solemn renunciation of a belief, cause, or claim:",
+        "defn_zh": "公開放棄;誓絕"
+      },
+      {
+        "word": "ablution",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the act of washing oneself, especially as part of a religious ritual:",
+        "defn_zh": "沐浴;淨身儀式"
+      },
+      {
+        "word": "abnegation",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "denial of comfort to oneself:",
+        "defn_zh": "自我克制/放棄"
+      },
+      {
+        "word": "abomination",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "something that causes disgust or hatred:",
+        "defn_zh": "可憎之事;令人厭惡的東西"
+      },
+      {
+        "word": "abridgement",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a shortened version of a book or other written work:",
+        "defn_zh": "節略本;縮減版"
+      },
+      {
+        "word": "absolution",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "freedom from blame, guilt, sin:",
+        "defn_zh": "赦免/免罪"
+      },
+      {
+        "word": "abstemiousness",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "moderation or self-restraint, especially in eating and drinking:",
+        "defn_zh": "節制;克己"
+      },
+      {
+        "word": "abstinence",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the practice of restraining oneself from something enjoyable, especially food, alcohol, or sex:",
+        "defn_zh": "節制;戒絕"
+      },
+      {
+        "word": "avocation",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a hobby or minor occupation apart from one's main career:",
+        "defn_zh": "副業;業餘愛好"
+      }
+    ],
+    "adv.": [
+      {
+        "word": "accordingly",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in a manner that fits the circumstances; consequently:",
+        "defn_zh": "相應地;因此"
+      },
+      {
+        "word": "inadvertently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "unintentionally or by accident:",
+        "defn_zh": "無意間/不小心地"
+      },
+      {
+        "word": "consequently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "as a result; therefore:",
+        "defn_zh": "因此;結果"
+      },
+      {
+        "word": "contemptuously",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "without respect; in a disdainful manner:",
+        "defn_zh": "輕蔑地"
+      },
+      {
+        "word": "involuntarily",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "done without conscious control:",
+        "defn_zh": "不由自主地"
+      },
+      {
+        "word": "cordially",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in a warm or friendly manner:",
+        "defn_zh": "誠摯地/友好地"
+      },
+      {
+        "word": "ipso facto",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "by that very fact or act:",
+        "defn_zh": "事實上;因此"
+      },
+      {
+        "word": "en passant",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in passing; incidentally:",
+        "defn_zh": "順帶一提地;偶然地"
+      },
+      {
+        "word": "regardless",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "despite the prevailing circumstances; without being deterred:",
+        "defn_zh": "不管怎樣;儘管如此"
+      },
+      {
+        "word": "subsequently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "afterward; following in time or order:",
+        "defn_zh": "隨後;其後"
+      },
+      {
+        "word": "aside",
+        "pos": "adv./n.",
+        "pos_key": "adv.",
+        "defn_en": "to or on one side; a remark not meant to be heard by everyone:",
+        "defn_zh": "在旁邊;旁白"
+      },
+      {
+        "word": "vice versa",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "with the order or meaning reversed; conversely:",
+        "defn_zh": "反之亦然"
+      }
+    ],
+    "other": [
+      {
+        "word": "（此批單字中，暫無符合此字根/字首的單字）",
+        "pos": "",
+        "pos_key": "other",
+        "defn_en": "",
+        "defn_zh": ""
+      }
+    ],
+    "prep./adv.": [
+      {
+        "word": "besides",
+        "pos": "prep./adv.",
+        "pos_key": "prep./adv.",
+        "defn_en": "in addition to; furthermore:",
+        "defn_zh": "除...之外;此外"
+      }
+    ],
+    "phrasalv.": [
+      {
+        "word": "egg on",
+        "pos": "phrasal v.",
+        "pos_key": "phrasalv.",
+        "defn_en": "to encourage someone to do something, often risky:",
+        "defn_zh": "慫恿;鼓動"
+      }
+    ],
+    "abbr.": [
+      {
+        "word": "etc.",
+        "pos": "abbr.",
+        "pos_key": "abbr.",
+        "defn_en": "and other similar things (abbreviation of et cetera):",
+        "defn_zh": "等等(et cetera的縮寫)"
+      }
+    ],
+    "interj.": [
+      {
+        "word": "fiddledeedee",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "an exclamation expressing dismissal of something as nonsense:",
+        "defn_zh": "廢話!(表示不屑一顧)"
+      },
+      {
+        "word": "gesundheit",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "an expression said to someone who has just sneezed:",
+        "defn_zh": "保重(打噴嚏後的祝福語)"
+      }
+    ],
+    "prep.": [
+      {
+        "word": "via",
+        "pos": "prep.",
+        "pos_key": "prep.",
+        "defn_en": "by way of; passing through:",
+        "defn_zh": "經由;透過"
+      }
+    ]
+  }
+}
