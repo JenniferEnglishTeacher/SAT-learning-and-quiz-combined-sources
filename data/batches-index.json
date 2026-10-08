@@ -4,7 +4,7 @@
     "total_batches": 236,
     "part1_part2_batches": 159,
     "unclassified_batches": 77,
-    "generated_batches": 113
+    "generated_batches": 114
   },
   "batches": [
     {
@@ -1144,7 +1144,7 @@
       "name": "nov",
       "subtitle": "新",
       "count": 6,
-      "generated": false,
+      "generated": true,
       "search_terms": "innovation novel innovate innovative novice renovate"
     },
     {
