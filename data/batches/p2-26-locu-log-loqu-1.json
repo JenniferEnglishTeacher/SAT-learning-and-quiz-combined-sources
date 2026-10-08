@@ -1,0 +1,1618 @@
+{
+  "id": "p2-26-locu-log-loqu-1",
+  "part": "part2",
+  "part_label": "Part 2 字根篇 (Roots)",
+  "name": "locu；log；loqu (1/2)",
+  "subtitle": "說話",
+  "count": 50,
+  "words": [
+    {
+      "word": "allocate",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to distribute, set aside:",
+      "defn_zh": "分配",
+      "root_note": "ad- (to) + locus (place)",
+      "sentences": [
+        {
+          "en": "The city plans to ______ more funding for public schools next year.",
+          "zh": "這座城市計畫明年為公立學校分配更多經費。"
+        },
+        {
+          "en": "Managers must carefully ______ their team's time across multiple projects.",
+          "zh": "經理人必須謹慎地將團隊的時間分配到多個專案之中。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "26",
+        "spelling": "locu；log；loqu",
+        "meaning": "說話"
+      }
+    },
+    {
+      "word": "analogous",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "comparable, similar:",
+      "defn_zh": "類似的/可類比的",
+      "root_note": "ana- (according to) + logos (ratio)",
+      "sentences": [
+        {
+          "en": "The human heart functions in a way ______ to a mechanical pump.",
+          "zh": "人類心臟的運作方式與機械幫浦有相似之處。"
+        },
+        {
+          "en": "Her situation is ______ to that of many other single parents.",
+          "zh": "她的處境與許多其他單親家長的情況類似。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "26",
+        "spelling": "locu；log；loqu",
+        "meaning": "說話"
+      }
+    },
+    {
+      "word": "analogy",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a comparison between two things to explain or clarify:",
+      "defn_zh": "類比;比喻",
+      "root_note": "ana- (up, according to) + logos (ratio), from Greek",
+      "sentences": [
+        {
+          "en": "The teacher used a simple ______ , comparing the heart to a pump, to explain circulation.",
+          "zh": "老師用一個簡單的比喻,把心臟比作幫浦,來解釋血液循環。"
+        },
+        {
+          "en": "Her ______ between the internet and a highway system helped the students understand data flow.",
+          "zh": "她把網際網路比喻成高速公路系統的類比,幫助學生理解資料的流動。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "26",
+        "spelling": "locu；log；loqu",
+        "meaning": "說話"
+      }
+    },
+    {
+      "word": "anthropology",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "science of the origins and social relationships of humans:",
+      "defn_zh": "人類學",
+      "root_note": "anthropos (mankind) + logos (study)",
+      "sentences": [
+        {
+          "en": "She majored in ______ to study how ancient cultures shaped modern society.",
+          "zh": "她主修人類學,以研究古代文化如何塑造現代社會。"
+        },
+        {
+          "en": "The ______ professor spent years living among remote tribes.",
+          "zh": "這位人類學教授花了好幾年時間與偏遠部落一起生活。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "26",
+        "spelling": "locu；log；loqu",
+        "meaning": "說話"
+      }
+    },
+    {
+      "word": "astrology",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "the study claiming that the positions of stars influence human affairs:",
+      "defn_zh": "占星學",
+      "root_note": "astron (star) + logos (study), from Greek",
+      "sentences": [
+        {
+          "en": "She reads her horoscope daily, though she treats ______ as entertainment.",
+          "zh": "她每天都會看星座運勢,不過她把占星學當作娛樂看待。"
+        },
+        {
+          "en": "Skeptics dismiss ______ as lacking any scientific basis.",
+          "zh": "懷疑論者認為占星學缺乏任何科學根據,因而不予採信。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "26",
+        "spelling": "locu；log；loqu",
+        "meaning": "說話"
+      }
+    },
+    {
+      "word": "biologist",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a scientist who studies living organisms:",
+      "defn_zh": "生物學家",
+      "root_note": "bios (life) + logos (study), from Greek",
+      "sentences": [
+        {
+          "en": "The marine ______ studied coral reef ecosystems for her research.",
+          "zh": "這位海洋生物學家為她的研究而研究珊瑚礁生態系統。"
+        },
+        {
+          "en": "He decided to become a ______ after taking a fascinating high school course.",
+          "zh": "他在修完一門引人入勝的高中課程後決定成為一位生物學家。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "26",
+        "spelling": "locu；log；loqu",
+        "meaning": "說話"
+      }
+    },
+    {
+      "word": "biology",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "the science that studies living organisms:",
+      "defn_zh": "生物學",
+      "root_note": "bios (life) + logos (study)",
+      "sentences": [
+        {
+          "en": "She has wanted to study ______ ever since she got her first microscope.",
+          "zh": "自從得到第一台顯微鏡以來,她就一直想研讀生物學。"
+        },
+        {
+          "en": "The ______ teacher brought in real frogs for the dissection lab.",
+          "zh": "這位生物老師帶來了真的青蛙供解剖實驗課使用。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "26",
+        "spelling": "locu；log；loqu",
+        "meaning": "說話"
+      }
+    },
+    {
+      "word": "breviloquent",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "speaking in a brief, concise manner:",
+      "defn_zh": "言簡意賅的",
+      "root_note": "brevis (short) + loqui (to speak), from Latin",
+      "sentences": [
+        {
+          "en": "The general was famously ______ , issuing orders in as few words as possible.",
+          "zh": "這位將軍以言簡意賅著稱,下達命令總是用最少的字。"
+        },
+        {
+          "en": "Her ______ reports impressed executives who had little patience for long meetings.",
+          "zh": "她言簡意賅的報告,讓沒耐心聽冗長會議的主管們印象深刻。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "26",
+        "spelling": "locu；log；loqu",
+        "meaning": "說話"
+      }
+    },
+    {
+      "word": "cacology",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "poor choice of words or bad style in speech or writing:",
+      "defn_zh": "措辭不當;文體拙劣",
+      "root_note": "kakos (bad) + logos (word), from Greek",
+      "sentences": [
+        {
+          "en": "The editor's notes pointed out several instances of ______ in the first draft.",
+          "zh": "編輯的批註指出了初稿中好幾處措辭不當的地方。"
+        },
+        {
+          "en": "His speeches, full of ______ , rarely persuaded anyone.",
+          "zh": "他的演講充斥著拙劣的措辭,幾乎說服不了任何人。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "26",
+        "spelling": "locu；log；loqu",
+        "meaning": "說話"
+      }
+    },
+    {
+      "word": "cardiologist",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a doctor specializing in disorders of the heart:",
+      "defn_zh": "心臟科醫師",
+      "root_note": "kardia (heart) + logos (study), from Greek",
+      "sentences": [
+        {
+          "en": "The ______ scheduled a stress test to check his heart function.",
+          "zh": "這位心臟科醫師安排了一項壓力測試,以檢查他的心臟功能。"
+        },
+        {
+          "en": "She was referred to a ______ after her EKG showed irregularities.",
+          "zh": "她的心電圖顯示異常後被轉診給一位心臟科醫師。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "26",
+        "spelling": "locu；log；loqu",
+        "meaning": "說話"
+      }
+    },
+    {
+      "word": "cardiology",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "the branch of medicine dealing with the heart and its diseases:",
+      "defn_zh": "心臟病學",
+      "root_note": "kardia (heart) + logos (study)",
+      "sentences": [
+        {
+          "en": "She decided to specialize in ______ after her grandfather's heart surgery.",
+          "zh": "在祖父接受心臟手術後,她決定專攻心臟病學。"
+        },
+        {
+          "en": "The hospital's ______ department is one of the best in the country.",
+          "zh": "這家醫院的心臟科在全國名列前茅。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "26",
+        "spelling": "locu；log；loqu",
+        "meaning": "說話"
+      }
+    },
+    {
+      "word": "chronological",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "arranged in order of time:",
+      "defn_zh": "按時間順序的",
+      "root_note": "chronos (time) + logos (study, Greek)",
+      "sentences": [
+        {
+          "en": "The museum exhibit presents the artist's works in ______ order.",
+          "zh": "這場博物館展覽按時間順序呈現這位藝術家的作品。"
+        },
+        {
+          "en": "Please list your work experience in ______ order, starting with the most recent.",
+          "zh": "請按時間順序列出你的工作經歷,從最近的開始。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "26",
+        "spelling": "locu；log；loqu",
+        "meaning": "說話"
+      }
+    },
+    {
+      "word": "circumlocution",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "speaking in circles; roundabout speech",
+      "defn_zh": "迂迴累贅的說法",
+      "root_note": "circum- (around) + loqui (to speak)",
+      "sentences": [
+        {
+          "en": "He used so much ______ that no one understood his actual point.",
+          "zh": "他用了太多迂迴的說法,結果沒人聽懂他真正的重點。"
+        },
+        {
+          "en": "Instead of a direct answer, she offered only vague ______.",
+          "zh": "她沒有直接回答,只提供了一堆含糊迂迴的說詞。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "26",
+        "spelling": "locu；log；loqu",
+        "meaning": "說話"
+      }
+    },
+    {
+      "word": "circumlocutory",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "using an indirect and wordy way of speaking, avoiding directness:",
+      "defn_zh": "拐彎抹角的;迂迴的",
+      "root_note": "circum- (around) + loqui (to speak), from Latin",
+      "sentences": [
+        {
+          "en": "His ______ answer left the reporters more confused than before they asked.",
+          "zh": "他拐彎抹角的回答,讓記者比提問前更加困惑。"
+        },
+        {
+          "en": "The contract's ______ language made it nearly impossible to understand the actual terms.",
+          "zh": "這份合約迂迴的措辭,讓人幾乎無法理解實際的條款內容。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "26",
+        "spelling": "locu；log；loqu",
+        "meaning": "說話"
+      }
+    },
+    {
+      "word": "colloquial",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "pertaining to common everyday speech; conversational",
+      "defn_zh": "口語的；通俗的",
+      "root_note": "co- (together) + loqui (to speak)",
+      "sentences": [
+        {
+          "en": "The novel's ______ dialogue made the characters feel real.",
+          "zh": "這部小說口語化的對話讓角色顯得真實生動。"
+        },
+        {
+          "en": "\"Gonna\" is a ______ contraction of \"going to.\"",
+          "zh": "「gonna」是「going to」的口語化縮寫。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "26",
+        "spelling": "locu；log；loqu",
+        "meaning": "說話"
+      }
+    },
+    {
+      "word": "dermatologist",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a doctor specializing in skin disorders:",
+      "defn_zh": "皮膚科醫師",
+      "root_note": "derma (skin) + logos (study), from Greek",
+      "sentences": [
+        {
+          "en": "He consulted a ______ about the persistent rash on his arm.",
+          "zh": "他就手臂上持續不退的疹子諮詢了一位皮膚科醫師。"
+        },
+        {
+          "en": "The ______ recommended a stronger sunscreen for daily use.",
+          "zh": "這位皮膚科醫師建議每天使用防曬係數更高的產品。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "26",
+        "spelling": "locu；log；loqu",
+        "meaning": "說話"
+      }
+    },
+    {
+      "word": "dermatology",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "the branch of medicine dealing with the skin:",
+      "defn_zh": "皮膚科學",
+      "root_note": "derma (skin, Greek) + logos (study, Greek)",
+      "sentences": [
+        {
+          "en": "She made an appointment with ______ to have the mole checked.",
+          "zh": "她預約了皮膚科,以便檢查這顆痣。"
+        },
+        {
+          "en": "Advances in ______ have made treating severe acne much easier.",
+          "zh": "皮膚科學的進步讓治療嚴重痤瘡變得容易許多。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "26",
+        "spelling": "locu；log；loqu",
+        "meaning": "說話"
+      }
+    },
+    {
+      "word": "dialogue",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a conversation between two persons:",
+      "defn_zh": "對話",
+      "root_note": "dia- (across) + logos (speech, Greek)",
+      "sentences": [
+        {
+          "en": "The two leaders agreed to open a ______ to resolve the conflict.",
+          "zh": "這兩位領袖同意展開對話,以解決這場衝突。"
+        },
+        {
+          "en": "The film's ______ felt natural and unscripted.",
+          "zh": "這部電影的對白感覺自然而未經刻意安排。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "26",
+        "spelling": "locu；log；loqu",
+        "meaning": "說話"
+      }
+    },
+    {
+      "word": "doctiloquent",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "speaking in a learned or scholarly manner:",
+      "defn_zh": "博學善辯的",
+      "root_note": "doctus (learned) + loqui (to speak), from Latin",
+      "sentences": [
+        {
+          "en": "The ______ scholar impressed the entire committee.",
+          "zh": "這位博學善辯的學者讓整個委員會印象深刻。"
+        },
+        {
+          "en": "His ______ style sometimes confused less educated listeners.",
+          "zh": "他博學善辯的說話風格有時會讓教育程度較低的聽眾感到困惑。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "26",
+        "spelling": "locu；log；loqu",
+        "meaning": "說話"
+      }
+    },
+    {
+      "word": "doxology",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a short hymn of praise to God:",
+      "defn_zh": "頌榮詩;讚美詩",
+      "root_note": "doxa (glory) + logos (word), from Greek",
+      "sentences": [
+        {
+          "en": "The congregation sang the ______ at the close of the service.",
+          "zh": "會眾在禮拜結束時唱了頌榮詩。"
+        },
+        {
+          "en": "A traditional ______ has been part of the liturgy for centuries.",
+          "zh": "一首傳統的頌榮詩數個世紀以來一直是禮拜儀式的一部分。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "26",
+        "spelling": "locu；log；loqu",
+        "meaning": "說話"
+      }
+    },
+    {
+      "word": "eloquence",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "artful ease with speaking that impacts people's feelings",
+      "defn_zh": "口才；雄辯",
+      "root_note": "e- (out) + loqui (to speak)",
+      "sentences": [
+        {
+          "en": "Her ______ moved the entire audience to tears.",
+          "zh": "她的口才動人,讓全場觀眾為之落淚。"
+        },
+        {
+          "en": "The lawyer's ______ helped sway the jury in his client's favor.",
+          "zh": "這位律師的雄辯口才有助於讓陪審團倒向他的當事人。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "26",
+        "spelling": "locu；log；loqu",
+        "meaning": "說話"
+      }
+    },
+    {
+      "word": "eloquent",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "fluent or persuasive in speaking or writing:",
+      "defn_zh": "雄辯的/口才流利的",
+      "root_note": "e- (out) + loqui (to speak)",
+      "sentences": [
+        {
+          "en": "The speaker's ______ words inspired the audience.",
+          "zh": "這位講者雄辯滔滔的話語激勵了在場的觀眾。"
+        },
+        {
+          "en": "His speech was not only ______ but also extremely compelling.",
+          "zh": "他的演講不僅口才流利,而且極具說服力。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "26",
+        "spelling": "locu；log；loqu",
+        "meaning": "說話"
+      }
+    },
+    {
+      "word": "entomologist",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a scientist who studies insects:",
+      "defn_zh": "昆蟲學家",
+      "root_note": "entomon (insect) + logos (study), from Greek",
+      "sentences": [
+        {
+          "en": "The ______ collected samples of the rare beetle for study.",
+          "zh": "這位昆蟲學家採集了這種稀有甲蟲的樣本進行研究。"
+        },
+        {
+          "en": "As an ______ , she spent hours observing ant colonies.",
+          "zh": "身為一位昆蟲學家,她花了好幾個小時觀察螞蟻群落。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "26",
+        "spelling": "locu；log；loqu",
+        "meaning": "說話"
+      }
+    },
+    {
+      "word": "entomology",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "the branch of zoology that studies insects:",
+      "defn_zh": "昆蟲學",
+      "root_note": "entomon (insect, Greek) + logos (study, Greek)",
+      "sentences": [
+        {
+          "en": "She switched her major to ______ after discovering her love of beetles.",
+          "zh": "在發現自己熱愛甲蟲後,她把主修改為昆蟲學。"
+        },
+        {
+          "en": "The ______ department maintains a collection of over a million specimens.",
+          "zh": "這個昆蟲學系保存了超過一百萬件標本的收藏。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "26",
+        "spelling": "locu；log；loqu",
+        "meaning": "說話"
+      }
+    },
+    {
+      "word": "epilogue",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a short speech by an actor at the end of a play:",
+      "defn_zh": "尾聲/後記",
+      "root_note": "epi- (upon) + logos (speech, Greek)",
+      "sentences": [
+        {
+          "en": "The novel's ______ reveals what happened to the characters years later.",
+          "zh": "這部小說的後記揭露了多年後這些角色的下落。"
+        },
+        {
+          "en": "An actor delivered a brief ______ thanking the audience for coming.",
+          "zh": "一位演員發表了一段簡短的尾聲,感謝觀眾的到來。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "26",
+        "spelling": "locu；log；loqu",
+        "meaning": "說話"
+      }
+    },
+    {
+      "word": "etiology",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "the study of the causes of diseases or conditions:",
+      "defn_zh": "病因學",
+      "root_note": "aitia (cause) + logos (study), from Greek",
+      "sentences": [
+        {
+          "en": "Researchers are still investigating the ______ of the rare disorder.",
+          "zh": "研究人員仍在探究這種罕見病症的病因學。"
+        },
+        {
+          "en": "The textbook chapter covers the ______ of infectious diseases.",
+          "zh": "這本教科書的章節涵蓋了傳染病的病因學。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "26",
+        "spelling": "locu；log；loqu",
+        "meaning": "說話"
+      }
+    },
+    {
+      "word": "etymologist",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a scholar who studies the origin and history of words:",
+      "defn_zh": "詞源學家",
+      "root_note": "etymon (true meaning) + logos (study), from Greek",
+      "sentences": [
+        {
+          "en": "The ______ traced the word back to ancient Sanskrit.",
+          "zh": "這位詞源學家追溯這個字的源頭至古代梵文。"
+        },
+        {
+          "en": "An ______ explained how slang words enter the dictionary.",
+          "zh": "一位詞源學家解釋了俚語如何被收入詞典。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "26",
+        "spelling": "locu；log；loqu",
+        "meaning": "說話"
+      }
+    },
+    {
+      "word": "etymology",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "the history of words, their origin and development:",
+      "defn_zh": "詞源學",
+      "root_note": "etymon (true meaning, Greek) + logos (study, Greek)",
+      "sentences": [
+        {
+          "en": "Understanding a word's ______ can help students remember its meaning.",
+          "zh": "了解一個字的詞源有助於學生記住它的意思。"
+        },
+        {
+          "en": "The professor traced the ______ of the word back to ancient Sanskrit.",
+          "zh": "這位教授將這個字的詞源追溯回古梵文。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "26",
+        "spelling": "locu；log；loqu",
+        "meaning": "說話"
+      }
+    },
+    {
+      "word": "eulogize",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to praise, as in a eulogy; to say good things about",
+      "defn_zh": "頌揚",
+      "root_note": "eu- (good, Greek) + logos (word, Greek)",
+      "sentences": [
+        {
+          "en": "His closest friend rose to ______ him at the memorial service.",
+          "zh": "他最親密的朋友在追悼會上起身頌揚他的一生。"
+        },
+        {
+          "en": "The obituary ______d her decades of service to the community.",
+          "zh": "這篇訃聞頌揚了她數十年來對社區的服務貢獻。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "26",
+        "spelling": "locu；log；loqu",
+        "meaning": "說話"
+      }
+    },
+    {
+      "word": "eulogy",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a formal expression of praise for someone who has died:",
+      "defn_zh": "悼詞/頌詞",
+      "root_note": "eu- (good) + logos (speech, Greek)",
+      "sentences": [
+        {
+          "en": "Her son delivered a heartfelt ______ at the funeral.",
+          "zh": "她的兒子在葬禮上發表了一篇真摯感人的悼詞。"
+        },
+        {
+          "en": "The ______ recalled his lifelong dedication to public service.",
+          "zh": "這篇悼詞回顧了他一生對公共服務的奉獻。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "26",
+        "spelling": "locu；log；loqu",
+        "meaning": "說話"
+      }
+    },
+    {
+      "word": "genealogy",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "an account of a family's or person's descent from an ancestor:",
+      "defn_zh": "家譜;系譜學",
+      "root_note": "genesis (birth) + logos (study), from Greek",
+      "sentences": [
+        {
+          "en": "She traced her ______ back six generations using old church records.",
+          "zh": "她利用古老的教堂紀錄,將她的家譜追溯回六代之前。"
+        },
+        {
+          "en": "Researching family ______ has become a popular hobby.",
+          "zh": "研究家族系譜已經成為一項熱門的嗜好。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "26",
+        "spelling": "locu；log；loqu",
+        "meaning": "說話"
+      }
+    },
+    {
+      "word": "geologist",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a scientist who studies the earth's physical structure and substances:",
+      "defn_zh": "地質學家",
+      "root_note": "geo (earth) + logos (study), from Greek",
+      "sentences": [
+        {
+          "en": "The ______ examined the rock formations for signs of ancient volcanic activity.",
+          "zh": "這位地質學家檢視了這些岩層,尋找古代火山活動的跡象。"
+        },
+        {
+          "en": "He worked as a ______ for a mining company for over a decade.",
+          "zh": "他曾在一家採礦公司擔任地質學家超過十年。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "26",
+        "spelling": "locu；log；loqu",
+        "meaning": "說話"
+      }
+    },
+    {
+      "word": "geology",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "science of the history of the earth as recorded in rocks:",
+      "defn_zh": "地質學",
+      "root_note": "ge (earth, Greek) + logos (study, Greek)",
+      "sentences": [
+        {
+          "en": "She chose to major in ______ after a childhood spent collecting rocks.",
+          "zh": "童年時期熱愛收集石頭的她,長大後選擇主修地質學。"
+        },
+        {
+          "en": "The ______ professor took the class on a field trip to study rock formations.",
+          "zh": "這位地質學教授帶全班進行野外考察,研究岩石構造。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "26",
+        "spelling": "locu；log；loqu",
+        "meaning": "說話"
+      }
+    },
+    {
+      "word": "gerontologist",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a specialist who studies the non-medical aspects of aging:",
+      "defn_zh": "老年學家",
+      "root_note": "geron (old man) + logos (study), from Greek",
+      "sentences": [
+        {
+          "en": "The ______ presented research on healthy aging strategies.",
+          "zh": "這位老年學家發表了關於健康老化策略的研究。"
+        },
+        {
+          "en": "She became a ______ after working for years in elder care.",
+          "zh": "她在老年照護領域工作多年後,成為了一位老年學家。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "26",
+        "spelling": "locu；log；loqu",
+        "meaning": "說話"
+      }
+    },
+    {
+      "word": "gerontology",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "the branch of medical science that deals with old people:",
+      "defn_zh": "老年學",
+      "root_note": "geron (old man, Greek) + logos (study, Greek)",
+      "sentences": [
+        {
+          "en": "She pursued a career in ______ to help improve elder care.",
+          "zh": "她投身老年學領域的職涯,以協助改善老年照護。"
+        },
+        {
+          "en": "Researchers in ______ study how the body changes with age.",
+          "zh": "老年學的研究人員探討身體如何隨年齡增長而變化。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "26",
+        "spelling": "locu；log；loqu",
+        "meaning": "說話"
+      }
+    },
+    {
+      "word": "grandiloquence",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "lofty, pompous language:",
+      "defn_zh": "誇大的言辭/浮誇",
+      "root_note": "grandis (great) + loqui (to speak)",
+      "sentences": [
+        {
+          "en": "The politician's speech was full of empty ______ rather than real solutions.",
+          "zh": "這位政治人物的演說充滿了空洞浮誇的言辭,而非實際的解決方案。"
+        },
+        {
+          "en": "Critics mocked the author's ______, calling his prose needlessly complicated.",
+          "zh": "評論家嘲諷這位作者浮誇的文風,批評他的散文毫無必要地複雜。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "26",
+        "spelling": "locu；log；loqu",
+        "meaning": "說話"
+      }
+    },
+    {
+      "word": "grandiloquent",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "using big and fancy words when speaking for the purpose of impressing others",
+      "defn_zh": "誇大其詞的",
+      "root_note": "grandis (grand) + loqui (to speak)",
+      "sentences": [
+        {
+          "en": "His ______ speech impressed no one; they saw through the empty words.",
+          "zh": "他誇大其詞的演說沒能打動任何人,大家都看穿了那些空話。"
+        },
+        {
+          "en": "The ______ toast went on far too long for such a simple occasion.",
+          "zh": "這場誇張浮誇的祝酒詞,對這麼簡單的場合來說實在太冗長了。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "26",
+        "spelling": "locu；log；loqu",
+        "meaning": "說話"
+      }
+    },
+    {
+      "word": "graphologist",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a person who analyzes handwriting to assess personality traits:",
+      "defn_zh": "筆跡學家",
+      "root_note": "graphein (write) + logos (study), from Greek",
+      "sentences": [
+        {
+          "en": "The detective consulted a ______ to examine the ransom note.",
+          "zh": "這位偵探諮詢了一位筆跡學家,以檢視這封勒索信。"
+        },
+        {
+          "en": "She hired a ______ as a novelty act for the corporate event.",
+          "zh": "她為這場企業活動聘請了一位筆跡學家,作為一項新奇的餘興節目。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "26",
+        "spelling": "locu；log；loqu",
+        "meaning": "說話"
+      }
+    },
+    {
+      "word": "graphology",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "the study of handwriting, especially as a means of analyzing character:",
+      "defn_zh": "筆跡學",
+      "root_note": "graphein (to write) + logos (study), from Greek",
+      "sentences": [
+        {
+          "en": "The consultant used ______ to assess job candidates.",
+          "zh": "這位顧問使用筆跡學來評估求職者。"
+        },
+        {
+          "en": "Some critics dismiss ______ as pseudoscience.",
+          "zh": "有些評論家認為筆跡學是偽科學而不予採信。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "26",
+        "spelling": "locu；log；loqu",
+        "meaning": "說話"
+      }
+    },
+    {
+      "word": "gynaecology",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "the branch of medicine that deals with the diseases and hygiene of women:",
+      "defn_zh": "婦科學",
+      "root_note": "gyne (woman, Greek) + logos (study, Greek)",
+      "sentences": [
+        {
+          "en": "She scheduled an appointment with her ______ specialist for a routine checkup.",
+          "zh": "她預約了婦科專科醫師,進行例行檢查。"
+        },
+        {
+          "en": "The hospital recently expanded its ______ department to serve more patients.",
+          "zh": "這家醫院最近擴大了婦科部門,以服務更多病患。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "26",
+        "spelling": "locu；log；loqu",
+        "meaning": "說話"
+      }
+    },
+    {
+      "word": "gynecologist",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a doctor specializing in female reproductive health:",
+      "defn_zh": "婦科醫師",
+      "root_note": "gyne (woman) + logos (study), from Greek",
+      "sentences": [
+        {
+          "en": "She visits her ______ annually for a routine checkup.",
+          "zh": "她每年都會去看她的婦科醫師做例行健檢。"
+        },
+        {
+          "en": "The hospital hired a new ______ to meet growing patient demand.",
+          "zh": "這間醫院聘請了一位新的婦科醫師,以滿足日益增長的病患需求。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "26",
+        "spelling": "locu；log；loqu",
+        "meaning": "說話"
+      }
+    },
+    {
+      "word": "gynecology",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "the branch of medicine dealing with female reproductive health:",
+      "defn_zh": "婦科學",
+      "root_note": "gyne (woman) + logos (study), from Greek",
+      "sentences": [
+        {
+          "en": "She specialized in ______ after completing medical school.",
+          "zh": "她完成醫學院學業後專攻婦科學。"
+        },
+        {
+          "en": "The clinic offers ______ services alongside general checkups.",
+          "zh": "這間診所除了一般健檢外還提供婦科服務。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "26",
+        "spelling": "locu；log；loqu",
+        "meaning": "說話"
+      }
+    },
+    {
+      "word": "ideologue",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a person who strictly adheres to a particular ideology:",
+      "defn_zh": "意識形態的堅定信徒",
+      "root_note": "idea (form) + logos (word), from Greek",
+      "sentences": [
+        {
+          "en": "Critics dismissed him as a rigid ______ unwilling to compromise.",
+          "zh": "評論家批評他是個死板的意識形態信徒,不願妥協。"
+        },
+        {
+          "en": "The party split between pragmatists and ______ s.",
+          "zh": "這個政黨在務實派與意識形態信徒之間出現了分裂。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "26",
+        "spelling": "locu；log；loqu",
+        "meaning": "說話"
+      }
+    },
+    {
+      "word": "ideology",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a system of ideas and ideals forming the basis of a political or economic theory:",
+      "defn_zh": "意識形態",
+      "root_note": "idea (form) + logos (word), from Greek",
+      "sentences": [
+        {
+          "en": "The revolution was fueled by a radical political ______ .",
+          "zh": "這場革命受到激進政治意識形態的驅動。"
+        },
+        {
+          "en": "Their ______ shaped every policy decision the party made.",
+          "zh": "他們的意識形態塑造了這個政黨所做的每一項政策決定。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "26",
+        "spelling": "locu；log；loqu",
+        "meaning": "說話"
+      }
+    },
+    {
+      "word": "illogical",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "lacking sense or clear, sound reasoning:",
+      "defn_zh": "不合邏輯的",
+      "root_note": "in- (not) + logos (reason)",
+      "sentences": [
+        {
+          "en": "His argument was ______ and did not convince the audience.",
+          "zh": "他的論點不合邏輯,並未說服觀眾。"
+        },
+        {
+          "en": "It seems ______ to spend more money fixing the old car than buying a new one.",
+          "zh": "花更多錢修理這輛舊車,而不是買一輛新車,似乎不合邏輯。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "26",
+        "spelling": "locu；log；loqu",
+        "meaning": "說話"
+      }
+    },
+    {
+      "word": "interlocutor",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "someone who participates in a dialogue or conversation:",
+      "defn_zh": "對話者/會談者",
+      "root_note": "inter- (between) + loqui (to speak)",
+      "sentences": [
+        {
+          "en": "The diplomat served as the main ______ between the two governments.",
+          "zh": "這位外交官擔任這兩國政府之間主要的對話橋樑。"
+        },
+        {
+          "en": "A skilled ______ knows when to listen as much as when to speak.",
+          "zh": "一位善於溝通的對話者懂得何時該傾聽,而不只是說話。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "26",
+        "spelling": "locu；log；loqu",
+        "meaning": "說話"
+      }
+    },
+    {
+      "word": "localized",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "restricted to a specific area or part:",
+      "defn_zh": "局部的/地方性的",
+      "root_note": "locus (place)",
+      "sentences": [
+        {
+          "en": "The infection was ______ to his left lung and was treated successfully.",
+          "zh": "這次感染局限於他的左肺,並成功獲得治療。"
+        },
+        {
+          "en": "The disease was ______ to one region.",
+          "zh": "這種疾病局限於某一個地區。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "26",
+        "spelling": "locu；log；loqu",
+        "meaning": "說話"
+      }
+    },
+    {
+      "word": "lock",
+      "pos": "n./v.",
+      "pos_key": "n.",
+      "defn_en": "a device for securing a door; to fasten with such a device:",
+      "defn_zh": "鎖;鎖上",
+      "root_note": "loc (bolt, bar), from Old English",
+      "sentences": [
+        {
+          "en": "She forgot to ______ the front door before leaving.",
+          "zh": "她出門前忘了把前門鎖上。"
+        },
+        {
+          "en": "The old ______ finally gave way after years of rust.",
+          "zh": "這把舊鎖在多年生鏽之後終於打開了。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "26",
+        "spelling": "locu；log；loqu",
+        "meaning": "說話"
+      }
+    },
+    {
+      "word": "locution",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a particular word or phrase, especially one peculiar to a person or group:",
+      "defn_zh": "說法;措辭",
+      "root_note": "locutio (speech), from Latin loqui (to speak)",
+      "sentences": [
+        {
+          "en": "His old-fashioned ______ s amused the younger students.",
+          "zh": "他老派的措辭方式逗樂了較年輕的學生。"
+        },
+        {
+          "en": "The dialect features many unique regional ______ s.",
+          "zh": "這種方言有著許多獨特的地方性措辭。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "26",
+        "spelling": "locu；log；loqu",
+        "meaning": "說話"
+      }
+    },
+    {
+      "word": "logodaedaly",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "arbitrary or capricious coining of words:",
+      "defn_zh": "任意造字;文字遊戲",
+      "root_note": "logos (word) + daidalos (skillfully made), from Greek",
+      "sentences": [
+        {
+          "en": "The poet's playful ______ delighted readers who loved wordplay.",
+          "zh": "這位詩人任意創造新詞的文字遊戲讓喜愛文字趣味的讀者感到欣喜。"
+        },
+        {
+          "en": "Critics dismissed the neologisms as mere ______ without real meaning.",
+          "zh": "評論家認為這些新詞不過是缺乏真正意義的任意造字。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "26",
+        "spelling": "locu；log；loqu",
+        "meaning": "說話"
+      }
+    }
+  ],
+  "family_options": {},
+  "fallback_options": {
+    "v.": [
+      {
+        "word": "abound",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to exist in great numbers:",
+        "defn_zh": "充滿"
+      },
+      {
+        "word": "abrogate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to deprive of legal force, to nullify:=abolish",
+        "defn_zh": "廢除/取消"
+      },
+      {
+        "word": "abjure",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to renounce, abstain from:",
+        "defn_zh": "發誓放棄/棄絕"
+      },
+      {
+        "word": "abbreviate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to shorten a word or phrase:",
+        "defn_zh": "縮寫;縮短"
+      },
+      {
+        "word": "abdicate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to give up a position, usually one of leadership:",
+        "defn_zh": "退位/放棄(職位)"
+      },
+      {
+        "word": "abduct",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to kidnap, take by force:",
+        "defn_zh": "綁架/劫持"
+      },
+      {
+        "word": "abhor",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to regard with disgust and hatred:",
+        "defn_zh": "憎惡/厭惡"
+      },
+      {
+        "word": "abnegate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to deny or renounce:",
+        "defn_zh": "放棄/克制"
+      },
+      {
+        "word": "abolish",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to formally put an end to a system, practice, or institution:",
+        "defn_zh": "廢除"
+      },
+      {
+        "word": "abort",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to give up on a half-finished project or effort:",
+        "defn_zh": "中止/放棄"
+      },
+      {
+        "word": "abrade",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to scrape or wear away by friction:",
+        "defn_zh": "磨損;擦傷"
+      },
+      {
+        "word": "abscond",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to sneak away and hide:",
+        "defn_zh": "潛逃/逃匿"
+      }
+    ],
+    "adj.": [
+      {
+        "word": "abortive",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "fruitless, failing:",
+        "defn_zh": "失敗的/夭折的"
+      },
+      {
+        "word": "abstemious",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "moderate in eating or drinking:",
+        "defn_zh": "飲食有節制的"
+      },
+      {
+        "word": "abhorrent",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "detestable, despised:",
+        "defn_zh": "令人厭惡的"
+      },
+      {
+        "word": "absurd",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "ridiculous:",
+        "defn_zh": "荒謬的"
+      },
+      {
+        "word": "aberrant",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "deviating from what is normal or expected:",
+        "defn_zh": "異常的;脫軌的"
+      },
+      {
+        "word": "abject",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "wretched, pitiful:",
+        "defn_zh": "卑賤的/淒慘的"
+      },
+      {
+        "word": "abominable",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "causing moral revulsion; extremely unpleasant:",
+        "defn_zh": "可憎的;惡劣的"
+      },
+      {
+        "word": "abounding",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "existing in large numbers or amounts:",
+        "defn_zh": "大量存在的;豐富的"
+      },
+      {
+        "word": "abrasive",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "showing little concern for others; harsh:",
+        "defn_zh": "粗暴的/刺耳的"
+      },
+      {
+        "word": "abrupt",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "sudden or unexpected; brief and curt in manner:",
+        "defn_zh": "突然的/唐突的"
+      },
+      {
+        "word": "abstract",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "existing purely in the mind; not representing actual reality:",
+        "defn_zh": "抽象的"
+      },
+      {
+        "word": "abstruse",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "hard to comprehend:",
+        "defn_zh": "深奧難懂的"
+      }
+    ],
+    "n.": [
+      {
+        "word": "aversion",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "strong dislike, opposition:",
+        "defn_zh": "厭惡/反感"
+      },
+      {
+        "word": "aberration",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "something that differs from the norm:",
+        "defn_zh": "異常/脫軌"
+      },
+      {
+        "word": "abjection",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a state of complete misery, hopelessness, or degradation:",
+        "defn_zh": "卑賤;悲慘狀態"
+      },
+      {
+        "word": "abjuration",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the solemn renunciation of a belief, cause, or claim:",
+        "defn_zh": "公開放棄;誓絕"
+      },
+      {
+        "word": "ablution",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the act of washing oneself, especially as part of a religious ritual:",
+        "defn_zh": "沐浴;淨身儀式"
+      },
+      {
+        "word": "abnegation",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "denial of comfort to oneself:",
+        "defn_zh": "自我克制/放棄"
+      },
+      {
+        "word": "abomination",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "something that causes disgust or hatred:",
+        "defn_zh": "可憎之事;令人厭惡的東西"
+      },
+      {
+        "word": "abridgement",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a shortened version of a book or other written work:",
+        "defn_zh": "節略本;縮減版"
+      },
+      {
+        "word": "absolution",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "freedom from blame, guilt, sin:",
+        "defn_zh": "赦免/免罪"
+      },
+      {
+        "word": "abstemiousness",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "moderation or self-restraint, especially in eating and drinking:",
+        "defn_zh": "節制;克己"
+      },
+      {
+        "word": "abstinence",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the practice of restraining oneself from something enjoyable, especially food, alcohol, or sex:",
+        "defn_zh": "節制;戒絕"
+      },
+      {
+        "word": "avocation",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a hobby or minor occupation apart from one's main career:",
+        "defn_zh": "副業;業餘愛好"
+      }
+    ],
+    "adv.": [
+      {
+        "word": "accordingly",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in a manner that fits the circumstances; consequently:",
+        "defn_zh": "相應地;因此"
+      },
+      {
+        "word": "inadvertently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "unintentionally or by accident:",
+        "defn_zh": "無意間/不小心地"
+      },
+      {
+        "word": "consequently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "as a result; therefore:",
+        "defn_zh": "因此;結果"
+      },
+      {
+        "word": "contemptuously",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "without respect; in a disdainful manner:",
+        "defn_zh": "輕蔑地"
+      },
+      {
+        "word": "involuntarily",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "done without conscious control:",
+        "defn_zh": "不由自主地"
+      },
+      {
+        "word": "cordially",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in a warm or friendly manner:",
+        "defn_zh": "誠摯地/友好地"
+      },
+      {
+        "word": "ipso facto",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "by that very fact or act:",
+        "defn_zh": "事實上;因此"
+      },
+      {
+        "word": "en passant",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in passing; incidentally:",
+        "defn_zh": "順帶一提地;偶然地"
+      },
+      {
+        "word": "regardless",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "despite the prevailing circumstances; without being deterred:",
+        "defn_zh": "不管怎樣;儘管如此"
+      },
+      {
+        "word": "subsequently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "afterward; following in time or order:",
+        "defn_zh": "隨後;其後"
+      },
+      {
+        "word": "aside",
+        "pos": "adv./n.",
+        "pos_key": "adv.",
+        "defn_en": "to or on one side; a remark not meant to be heard by everyone:",
+        "defn_zh": "在旁邊;旁白"
+      },
+      {
+        "word": "vice versa",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "with the order or meaning reversed; conversely:",
+        "defn_zh": "反之亦然"
+      }
+    ],
+    "other": [
+      {
+        "word": "（此批單字中，暫無符合此字根/字首的單字）",
+        "pos": "",
+        "pos_key": "other",
+        "defn_en": "",
+        "defn_zh": ""
+      }
+    ],
+    "prep./adv.": [
+      {
+        "word": "besides",
+        "pos": "prep./adv.",
+        "pos_key": "prep./adv.",
+        "defn_en": "in addition to; furthermore:",
+        "defn_zh": "除...之外;此外"
+      }
+    ],
+    "phrasalv.": [
+      {
+        "word": "egg on",
+        "pos": "phrasal v.",
+        "pos_key": "phrasalv.",
+        "defn_en": "to encourage someone to do something, often risky:",
+        "defn_zh": "慫恿;鼓動"
+      }
+    ],
+    "abbr.": [
+      {
+        "word": "etc.",
+        "pos": "abbr.",
+        "pos_key": "abbr.",
+        "defn_en": "and other similar things (abbreviation of et cetera):",
+        "defn_zh": "等等(et cetera的縮寫)"
+      }
+    ],
+    "interj.": [
+      {
+        "word": "fiddledeedee",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "an exclamation expressing dismissal of something as nonsense:",
+        "defn_zh": "廢話!(表示不屑一顧)"
+      },
+      {
+        "word": "gesundheit",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "an expression said to someone who has just sneezed:",
+        "defn_zh": "保重(打噴嚏後的祝福語)"
+      }
+    ],
+    "prep.": [
+      {
+        "word": "via",
+        "pos": "prep.",
+        "pos_key": "prep.",
+        "defn_en": "by way of; passing through:",
+        "defn_zh": "經由;透過"
+      }
+    ]
+  }
+}
