@@ -4,7 +4,7 @@
     "total_batches": 236,
     "part1_part2_batches": 159,
     "unclassified_batches": 77,
-    "generated_batches": 78
+    "generated_batches": 79
   },
   "batches": [
     {
@@ -794,7 +794,7 @@
       "name": "epi",
       "subtitle": "在⋯⋯之上；之後",
       "count": 17,
-      "generated": false,
+      "generated": true,
       "search_terms": "epithet epitome ephemeral epicene epidemic epidermis epigram epigrammatic epigraph epilogue epiphanic epiphany epistle epistrophe epitaph eponym eponymous"
     },
     {
