@@ -4,7 +4,7 @@
     "total_batches": 236,
     "part1_part2_batches": 159,
     "unclassified_batches": 77,
-    "generated_batches": 100
+    "generated_batches": 101
   },
   "batches": [
     {
@@ -1014,7 +1014,7 @@
       "name": "cord",
       "subtitle": "心",
       "count": 12,
-      "generated": false,
+      "generated": true,
       "search_terms": "quarry cordial discordant accord accordingly concord cordiality cordially courageous discord discourage encourage"
     },
     {
