@@ -4,7 +4,7 @@
     "total_batches": 236,
     "part1_part2_batches": 159,
     "unclassified_batches": 77,
-    "generated_batches": 120
+    "generated_batches": 121
   },
   "batches": [
     {
@@ -1214,7 +1214,7 @@
       "name": "plen；plete",
       "subtitle": "滿；全",
       "count": 17,
-      "generated": false,
+      "generated": true,
       "search_terms": "replete replenish compliant complementary complement compliment deplete depleted implement plenary plenitude plentiful plentitude plenty plexiform plexus supplement"
     },
     {
