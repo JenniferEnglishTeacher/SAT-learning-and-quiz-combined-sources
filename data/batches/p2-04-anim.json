@@ -1,0 +1,850 @@
+{
+  "id": "p2-04-anim",
+  "part": "part2",
+  "part_label": "Part 2 字根篇 (Roots)",
+  "name": "anim",
+  "subtitle": "氣息；心",
+  "count": 18,
+  "words": [
+    {
+      "word": "inanimate",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "lifeless:",
+      "defn_zh": "無生命的",
+      "root_note": "in- (not) + anima (soul/breath)",
+      "sentences": [
+        {
+          "en": "A rock is an ______ object, unlike a plant or an animal.",
+          "zh": "石頭是無生命的物體,不像植物或動物。"
+        },
+        {
+          "en": "The children imagined the ______ toys coming to life at night.",
+          "zh": "孩子們幻想這些沒有生命的玩具在夜裡活了過來。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "04",
+        "spelling": "anim",
+        "meaning": "氣息；心"
+      }
+    },
+    {
+      "word": "equanimity",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "evenness of mind, composure:",
+      "defn_zh": "平靜/鎮定",
+      "root_note": "aequus (even) + animus (mind)",
+      "sentences": [
+        {
+          "en": "She faced the criticism with remarkable ______.",
+          "zh": "她以驚人的鎮定態度面對這些批評。"
+        },
+        {
+          "en": "Despite the chaos around him, he maintained his ______.",
+          "zh": "儘管周遭一片混亂,他依然保持著平靜的心態。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "04",
+        "spelling": "anim",
+        "meaning": "氣息；心"
+      }
+    },
+    {
+      "word": "equanimity",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "calmness, self-control:",
+      "defn_zh": "平靜/鎮定",
+      "root_note": "aequus (even) + animus (mind)",
+      "sentences": [
+        {
+          "en": "She faced the criticism with remarkable ______.",
+          "zh": "她以驚人的鎮定態度面對這些批評。"
+        },
+        {
+          "en": "Despite the chaos around him, he maintained his ______.",
+          "zh": "儘管周遭一片混亂,他依然保持著平靜的心態。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "04",
+        "spelling": "anim",
+        "meaning": "氣息；心"
+      }
+    },
+    {
+      "word": "magnanimous",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "noble, generous:",
+      "defn_zh": "寬宏大量的",
+      "root_note": "magnus (great) + animus (soul)",
+      "sentences": [
+        {
+          "en": "The winning team was ______ in victory, praising their opponents.",
+          "zh": "獲勝的隊伍在勝利時展現出寬宏大量,對對手大加讚賞。"
+        },
+        {
+          "en": "It was ______ of her to forgive him so quickly.",
+          "zh": "她這麼快就原諒了他,實在是非常寬宏大量。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "04",
+        "spelling": "anim",
+        "meaning": "氣息；心"
+      }
+    },
+    {
+      "word": "animosity",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "hatred; ill will",
+      "defn_zh": "仇恨；敵意",
+      "root_note": "animus (spirit/hostility)",
+      "sentences": [
+        {
+          "en": "Years of competition had bred deep ______ between the two companies.",
+          "zh": "多年的競爭在這兩家公司之間滋生了深深的敵意。"
+        },
+        {
+          "en": "The ______ between the siblings stemmed from an old family dispute.",
+          "zh": "這對兄弟姊妹之間的仇恨源自於一場舊有的家族糾紛。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "04",
+        "spelling": "anim",
+        "meaning": "氣息；心"
+      }
+    },
+    {
+      "word": "animadversion",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a critical or hostile remark:",
+      "defn_zh": "批評;譴責",
+      "root_note": "animus (mind) + advertere (to turn toward), from Latin",
+      "sentences": [
+        {
+          "en": "The critic's review was full of sharp ______ against the director's choices.",
+          "zh": "這位評論家的影評充滿了對導演選擇的尖銳批評。"
+        },
+        {
+          "en": "He accepted the harsh ______ from his editor without complaint.",
+          "zh": "他毫無怨言地接受了編輯嚴厲的批評。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "04",
+        "spelling": "anim",
+        "meaning": "氣息；心"
+      }
+    },
+    {
+      "word": "animadvert",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to criticize or comment on something critically:",
+      "defn_zh": "批評;非難",
+      "root_note": "animus (mind) + advertere (to turn toward), from Latin",
+      "sentences": [
+        {
+          "en": "The columnist did not hesitate to ______ on the mayor's questionable spending.",
+          "zh": "這位專欄作家毫不猶豫地批評市長可疑的支出。"
+        },
+        {
+          "en": "Reviewers ______ freely on every flaw in the debut novel.",
+          "zh": "評論家對這部處女作的每個缺點都毫不留情地加以批評。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "04",
+        "spelling": "anim",
+        "meaning": "氣息；心"
+      }
+    },
+    {
+      "word": "animate",
+      "pos": "v./adj.",
+      "pos_key": "v.",
+      "defn_en": "to bring to life or give energy to; alive or lively:",
+      "defn_zh": "使有活力;賦予生命",
+      "root_note": "anima (breath, soul, from Latin)",
+      "sentences": [
+        {
+          "en": "The director's passion seemed to ______ every scene of the film.",
+          "zh": "導演的熱情似乎為電影的每一幕都注入了生命力。"
+        },
+        {
+          "en": "Her enthusiasm could ______ even the dullest committee meeting.",
+          "zh": "她的熱情能讓最沉悶的委員會會議也活絡起來。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "04",
+        "spelling": "anim",
+        "meaning": "氣息；心"
+      }
+    },
+    {
+      "word": "animated",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "lively:",
+      "defn_zh": "生動的/活潑的",
+      "root_note": "anima (life, spirit)",
+      "sentences": [
+        {
+          "en": "The children watched their favorite ______ movie for the tenth time.",
+          "zh": "孩子們第十次觀看他們最喜歡的動畫電影。"
+        },
+        {
+          "en": "Her ______ storytelling kept the whole class engaged.",
+          "zh": "她生動活潑的說故事方式讓全班學生都聽得入迷。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "04",
+        "spelling": "anim",
+        "meaning": "氣息；心"
+      }
+    },
+    {
+      "word": "animating",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "giving life, energy, or spirit to something:",
+      "defn_zh": "賦予活力的",
+      "root_note": "anima (breath, soul, from Latin)",
+      "sentences": [
+        {
+          "en": "Curiosity was the ______ force behind her decades of research.",
+          "zh": "好奇心是驅動她數十年研究工作的活力泉源。"
+        },
+        {
+          "en": "The coach's ______ speech turned the team's mood around completely.",
+          "zh": "教練充滿活力的講話,徹底扭轉了球隊的士氣。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "04",
+        "spelling": "anim",
+        "meaning": "氣息；心"
+      }
+    },
+    {
+      "word": "animation",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "liveliness and enthusiasm; the technique of creating moving images from drawings:",
+      "defn_zh": "活力;動畫",
+      "root_note": "anima (breath, soul, from Latin)",
+      "sentences": [
+        {
+          "en": "She described the trip with such ______ that everyone wanted to visit immediately.",
+          "zh": "她描述這趟旅行時神采飛揚,讓每個人都想立刻動身前往。"
+        },
+        {
+          "en": "The studio spent five years perfecting the film's hand-drawn ______.",
+          "zh": "這家片廠花了五年時間打磨這部電影手繪動畫的細節。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "04",
+        "spelling": "anim",
+        "meaning": "氣息；心"
+      }
+    },
+    {
+      "word": "animus",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "hostility or ill feeling; a motivating force:",
+      "defn_zh": "敵意;動機",
+      "root_note": "animus (mind, spirit, from Latin)",
+      "sentences": [
+        {
+          "en": "The lawsuit alleged the firing was driven by personal ______ rather than performance.",
+          "zh": "這起訴訟指稱解雇的原因是出於私人恩怨,而非工作表現。"
+        },
+        {
+          "en": "Despite decades of rivalry, the two coaches showed no visible ______ toward each other.",
+          "zh": "儘管競爭了數十年,這兩位教練彼此之間看不出明顯的敵意。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "04",
+        "spelling": "anim",
+        "meaning": "氣息；心"
+      }
+    },
+    {
+      "word": "laonanimity",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a rare term relating to calmness or tranquility of mind:",
+      "defn_zh": "心靈的平靜(罕見詞)",
+      "root_note": "possibly related to Latin lenis (gentle) + animus (mind)",
+      "sentences": [
+        {
+          "en": "Years of meditation brought her a deep sense of ______ .",
+          "zh": "多年的冥想為她帶來了一種深沉的內心平靜。"
+        },
+        {
+          "en": "He faced the crisis with remarkable ______ , never losing his composure.",
+          "zh": "他以驚人的心靈平靜面對這場危機,從未失去鎮定。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "04",
+        "spelling": "anim",
+        "meaning": "氣息；心"
+      }
+    },
+    {
+      "word": "longanimity",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "patient endurance of hardship; forbearance:",
+      "defn_zh": "堅忍;寬容忍耐",
+      "root_note": "longus (long) + animus (mind, spirit), from Latin",
+      "sentences": [
+        {
+          "en": "She endured years of hardship with remarkable ______ .",
+          "zh": "她以驚人的堅忍耐性度過了多年的艱難時光。"
+        },
+        {
+          "en": "His ______ toward difficult students earned him great respect.",
+          "zh": "他對難相處的學生展現的寬容忍耐讓他贏得極大的尊敬。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "04",
+        "spelling": "anim",
+        "meaning": "氣息；心"
+      }
+    },
+    {
+      "word": "magnanimity",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "generosity or forgiveness toward a rival or less powerful person:",
+      "defn_zh": "寬宏大量",
+      "root_note": "magnus (great) + animus (spirit), from Latin",
+      "sentences": [
+        {
+          "en": "The victorious general treated his enemies with unexpected ______ .",
+          "zh": "這位得勝的將軍以出人意料的寬宏大量對待他的敵人。"
+        },
+        {
+          "en": "His ______ toward his critics won him widespread admiration.",
+          "zh": "他對批評者展現的寬宏大量為他贏得了廣泛的欽佩。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "04",
+        "spelling": "anim",
+        "meaning": "氣息；心"
+      }
+    },
+    {
+      "word": "pusillanimity",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a lack of courage or determination; timidity:",
+      "defn_zh": "怯懦;膽小",
+      "root_note": "pusillus (very small) + animus (spirit), from Latin",
+      "sentences": [
+        {
+          "en": "His ______ prevented him from speaking up during the crisis.",
+          "zh": "他的怯懦讓他在這場危機中無法挺身發言。"
+        },
+        {
+          "en": "The general condemned the soldiers' ______ in retreating without orders.",
+          "zh": "這位將軍譴責這些士兵未經命令就撤退的怯懦行為。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "04",
+        "spelling": "anim",
+        "meaning": "氣息；心"
+      }
+    },
+    {
+      "word": "pusillanimous",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "showing a lack of courage or determination:",
+      "defn_zh": "怯懦的;膽小的",
+      "root_note": "pusillus (very small) + animus (spirit), from Latin",
+      "sentences": [
+        {
+          "en": "His ______ response to the challenge disappointed his supporters.",
+          "zh": "他對這項挑戰怯懦的回應讓他的支持者感到失望。"
+        },
+        {
+          "en": "The senator was accused of a ______ refusal to take a clear stance.",
+          "zh": "這位參議員被指控怯懦地拒絕表明清楚的立場。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "04",
+        "spelling": "anim",
+        "meaning": "氣息；心"
+      }
+    },
+    {
+      "word": "unanimous",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "fully in agreement, especially by all members of a group:",
+      "defn_zh": "一致同意的",
+      "root_note": "unus (one) + animus (mind)",
+      "sentences": [
+        {
+          "en": "The decision was ______, with everyone agreeing on the solution.",
+          "zh": "這項決定獲得了全體一致的同意,每個人都認同這個解決方案。"
+        },
+        {
+          "en": "The jury reached a ______ verdict after only two hours.",
+          "zh": "陪審團僅花了兩個小時就達成了一致的判決。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "04",
+        "spelling": "anim",
+        "meaning": "氣息；心"
+      }
+    }
+  ],
+  "family_options": {},
+  "fallback_options": {
+    "v.": [
+      {
+        "word": "abound",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to exist in great numbers:",
+        "defn_zh": "充滿"
+      },
+      {
+        "word": "abrogate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to deprive of legal force, to nullify:=abolish",
+        "defn_zh": "廢除/取消"
+      },
+      {
+        "word": "abjure",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to renounce, abstain from:",
+        "defn_zh": "發誓放棄/棄絕"
+      },
+      {
+        "word": "abbreviate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to shorten a word or phrase:",
+        "defn_zh": "縮寫;縮短"
+      },
+      {
+        "word": "abdicate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to give up a position, usually one of leadership:",
+        "defn_zh": "退位/放棄(職位)"
+      },
+      {
+        "word": "abduct",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to kidnap, take by force:",
+        "defn_zh": "綁架/劫持"
+      },
+      {
+        "word": "abhor",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to regard with disgust and hatred:",
+        "defn_zh": "憎惡/厭惡"
+      },
+      {
+        "word": "abnegate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to deny or renounce:",
+        "defn_zh": "放棄/克制"
+      },
+      {
+        "word": "abolish",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to formally put an end to a system, practice, or institution:",
+        "defn_zh": "廢除"
+      },
+      {
+        "word": "abort",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to give up on a half-finished project or effort:",
+        "defn_zh": "中止/放棄"
+      },
+      {
+        "word": "abrade",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to scrape or wear away by friction:",
+        "defn_zh": "磨損;擦傷"
+      },
+      {
+        "word": "abscond",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to sneak away and hide:",
+        "defn_zh": "潛逃/逃匿"
+      }
+    ],
+    "adj.": [
+      {
+        "word": "abortive",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "fruitless, failing:",
+        "defn_zh": "失敗的/夭折的"
+      },
+      {
+        "word": "abstemious",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "moderate in eating or drinking:",
+        "defn_zh": "飲食有節制的"
+      },
+      {
+        "word": "abhorrent",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "detestable, despised:",
+        "defn_zh": "令人厭惡的"
+      },
+      {
+        "word": "absurd",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "ridiculous:",
+        "defn_zh": "荒謬的"
+      },
+      {
+        "word": "aberrant",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "deviating from what is normal or expected:",
+        "defn_zh": "異常的;脫軌的"
+      },
+      {
+        "word": "abject",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "wretched, pitiful:",
+        "defn_zh": "卑賤的/淒慘的"
+      },
+      {
+        "word": "abominable",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "causing moral revulsion; extremely unpleasant:",
+        "defn_zh": "可憎的;惡劣的"
+      },
+      {
+        "word": "abounding",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "existing in large numbers or amounts:",
+        "defn_zh": "大量存在的;豐富的"
+      },
+      {
+        "word": "abrasive",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "showing little concern for others; harsh:",
+        "defn_zh": "粗暴的/刺耳的"
+      },
+      {
+        "word": "abrupt",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "sudden or unexpected; brief and curt in manner:",
+        "defn_zh": "突然的/唐突的"
+      },
+      {
+        "word": "abstract",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "existing purely in the mind; not representing actual reality:",
+        "defn_zh": "抽象的"
+      },
+      {
+        "word": "abstruse",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "hard to comprehend:",
+        "defn_zh": "深奧難懂的"
+      }
+    ],
+    "n.": [
+      {
+        "word": "aversion",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "strong dislike, opposition:",
+        "defn_zh": "厭惡/反感"
+      },
+      {
+        "word": "aberration",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "something that differs from the norm:",
+        "defn_zh": "異常/脫軌"
+      },
+      {
+        "word": "abjection",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a state of complete misery, hopelessness, or degradation:",
+        "defn_zh": "卑賤;悲慘狀態"
+      },
+      {
+        "word": "abjuration",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the solemn renunciation of a belief, cause, or claim:",
+        "defn_zh": "公開放棄;誓絕"
+      },
+      {
+        "word": "ablution",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the act of washing oneself, especially as part of a religious ritual:",
+        "defn_zh": "沐浴;淨身儀式"
+      },
+      {
+        "word": "abnegation",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "denial of comfort to oneself:",
+        "defn_zh": "自我克制/放棄"
+      },
+      {
+        "word": "abomination",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "something that causes disgust or hatred:",
+        "defn_zh": "可憎之事;令人厭惡的東西"
+      },
+      {
+        "word": "abridgement",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a shortened version of a book or other written work:",
+        "defn_zh": "節略本;縮減版"
+      },
+      {
+        "word": "absolution",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "freedom from blame, guilt, sin:",
+        "defn_zh": "赦免/免罪"
+      },
+      {
+        "word": "abstemiousness",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "moderation or self-restraint, especially in eating and drinking:",
+        "defn_zh": "節制;克己"
+      },
+      {
+        "word": "abstinence",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the practice of restraining oneself from something enjoyable, especially food, alcohol, or sex:",
+        "defn_zh": "節制;戒絕"
+      },
+      {
+        "word": "avocation",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a hobby or minor occupation apart from one's main career:",
+        "defn_zh": "副業;業餘愛好"
+      }
+    ],
+    "adv.": [
+      {
+        "word": "accordingly",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in a manner that fits the circumstances; consequently:",
+        "defn_zh": "相應地;因此"
+      },
+      {
+        "word": "inadvertently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "unintentionally or by accident:",
+        "defn_zh": "無意間/不小心地"
+      },
+      {
+        "word": "consequently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "as a result; therefore:",
+        "defn_zh": "因此;結果"
+      },
+      {
+        "word": "contemptuously",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "without respect; in a disdainful manner:",
+        "defn_zh": "輕蔑地"
+      },
+      {
+        "word": "involuntarily",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "done without conscious control:",
+        "defn_zh": "不由自主地"
+      },
+      {
+        "word": "cordially",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in a warm or friendly manner:",
+        "defn_zh": "誠摯地/友好地"
+      },
+      {
+        "word": "ipso facto",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "by that very fact or act:",
+        "defn_zh": "事實上;因此"
+      },
+      {
+        "word": "en passant",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in passing; incidentally:",
+        "defn_zh": "順帶一提地;偶然地"
+      },
+      {
+        "word": "regardless",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "despite the prevailing circumstances; without being deterred:",
+        "defn_zh": "不管怎樣;儘管如此"
+      },
+      {
+        "word": "subsequently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "afterward; following in time or order:",
+        "defn_zh": "隨後;其後"
+      },
+      {
+        "word": "aside",
+        "pos": "adv./n.",
+        "pos_key": "adv.",
+        "defn_en": "to or on one side; a remark not meant to be heard by everyone:",
+        "defn_zh": "在旁邊;旁白"
+      },
+      {
+        "word": "vice versa",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "with the order or meaning reversed; conversely:",
+        "defn_zh": "反之亦然"
+      }
+    ],
+    "other": [
+      {
+        "word": "（此批單字中，暫無符合此字根/字首的單字）",
+        "pos": "",
+        "pos_key": "other",
+        "defn_en": "",
+        "defn_zh": ""
+      }
+    ],
+    "prep./adv.": [
+      {
+        "word": "besides",
+        "pos": "prep./adv.",
+        "pos_key": "prep./adv.",
+        "defn_en": "in addition to; furthermore:",
+        "defn_zh": "除...之外;此外"
+      }
+    ],
+    "phrasalv.": [
+      {
+        "word": "egg on",
+        "pos": "phrasal v.",
+        "pos_key": "phrasalv.",
+        "defn_en": "to encourage someone to do something, often risky:",
+        "defn_zh": "慫恿;鼓動"
+      }
+    ],
+    "abbr.": [
+      {
+        "word": "etc.",
+        "pos": "abbr.",
+        "pos_key": "abbr.",
+        "defn_en": "and other similar things (abbreviation of et cetera):",
+        "defn_zh": "等等(et cetera的縮寫)"
+      }
+    ],
+    "interj.": [
+      {
+        "word": "fiddledeedee",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "an exclamation expressing dismissal of something as nonsense:",
+        "defn_zh": "廢話!(表示不屑一顧)"
+      },
+      {
+        "word": "gesundheit",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "an expression said to someone who has just sneezed:",
+        "defn_zh": "保重(打噴嚏後的祝福語)"
+      }
+    ],
+    "prep.": [
+      {
+        "word": "via",
+        "pos": "prep.",
+        "pos_key": "prep.",
+        "defn_en": "by way of; passing through:",
+        "defn_zh": "經由;透過"
+      }
+    ]
+  }
+}
