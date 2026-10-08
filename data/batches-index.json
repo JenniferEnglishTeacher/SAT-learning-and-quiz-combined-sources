@@ -4,7 +4,7 @@
     "total_batches": 236,
     "part1_part2_batches": 159,
     "unclassified_batches": 77,
-    "generated_batches": 71
+    "generated_batches": 72
   },
   "batches": [
     {
@@ -634,7 +634,7 @@
       "name": "re (3/3)",
       "subtitle": "反向；再次",
       "count": 10,
-      "generated": false,
+      "generated": true,
       "search_terms": "reverberating revere revert revile revitalizing revivifying revoke revolve reword ruse"
     },
     {
