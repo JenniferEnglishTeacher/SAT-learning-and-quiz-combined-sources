@@ -4,7 +4,7 @@
     "total_batches": 236,
     "part1_part2_batches": 159,
     "unclassified_batches": 77,
-    "generated_batches": 152
+    "generated_batches": 153
   },
   "batches": [
     {
@@ -1534,7 +1534,7 @@
       "name": "cur；curs",
       "subtitle": "跑",
       "count": 14,
-      "generated": false,
+      "generated": true,
       "search_terms": "concur cursory courier course curmudgeonly curriculum discourse discursive excursion pococurante precursor recur recurrence succor"
     },
     {
