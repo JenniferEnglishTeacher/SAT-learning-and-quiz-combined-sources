@@ -1,0 +1,151 @@
+{
+  "id": "p2-07-arm",
+  "name": "arm",
+  "subtitle": "武器；武裝；防禦；衝突",
+  "words": [
+    {
+      "word": "armistice", "pos": "n.", "pos_key": "n.",
+      "defn_en": "a formal agreement between enemies to stop fighting, especially while a permanent peace is negotiated:",
+      "defn_zh": "停戰協議；休戰",
+      "root_note": "arma (weapons) + stitium or sistere (cause to stand or stop)",
+      "synonyms": ["truce", "ceasefire", "cessation of hostilities"], "antonyms": ["warfare", "hostilities", "conflict"],
+      "sentences": [
+        {"en": "After years of brutal trench warfare, the exhausted nations finally signed an ______, agreeing to cease all military hostilities at midnight while diplomats negotiated a permanent peace treaty.", "zh": "經過多年殘酷的戰壕戰後，精疲力竭的各國終於簽署了停戰協議，同意在午夜停止所有軍事敵對行動，同時由外交官談判永久和平條約。"},
+        {"en": "The temporary ______ brought a fragile calm to the border, prompting citizens to hope that the halting of gunfire would lead to a lasting resolution between the rival factions.", "zh": "臨時休戰為邊境帶來了脆弱的平靜，促使民眾希望槍火的平息能為敵對派系帶來持久的解決方案。"}
+      ],
+      "category": {"part": 2, "num": "07", "spelling": "arm", "meaning": "武器；武裝；防禦；衝突"}
+    },
+    {
+      "word": "armada", "pos": "n.", "pos_key": "n.",
+      "defn_en": "a large fleet of warships or other vehicles moving together:",
+      "defn_zh": "艦隊；大型船隊",
+      "root_note": "arm (equip or provide with weapons) + -ada (collection or group)",
+      "synonyms": ["fleet", "flotilla", "naval force"], "antonyms": [],
+      "sentences": [
+        {"en": "King Philip II sent a massive ______ of over one hundred fortified warships across the English Channel, hoping his naval fleet would invade and conquer England.", "zh": "腓力二世國王派遣一支由一百多艘戒備森嚴戰艦組成的龐大艦隊橫渡英吉利海峽，希望海軍能成功入侵並征服英格蘭。"},
+        {"en": "The coastal defenses were overwhelmed when a vast ______ appeared on the horizon, its sails blocking the sunset as it prepared to launch an amphibious assault.", "zh": "當地平線上出現一支巨大的海軍艦隊時，海岸防禦徹底崩潰；其船帆遮擋落日，準備發起兩棲攻擊。"}
+      ],
+      "category": {"part": 2, "num": "07", "spelling": "arm", "meaning": "武器；武裝；防禦；衝突"}
+    },
+    {
+      "word": "armament", "pos": "n.", "pos_key": "n.",
+      "defn_en": "military weapons and equipment, or the process of preparing for war:",
+      "defn_zh": "軍備；武器裝備；武裝",
+      "root_note": "arma (weapons or gear) + -ment (result, instrument, or state)",
+      "synonyms": ["weaponry", "arms", "military equipment", "munitions"], "antonyms": ["disarmament", "demilitarization"],
+      "sentences": [
+        {"en": "During the tense geopolitical standoff, the military superpower rapidly increased its ______, upgrading missiles, battleships, and defensive systems to deter foreign aggression.", "zh": "在緊張的地緣政治對峙期間，這個軍事超級大國迅速增加軍備，升級飛彈、戰艦和防禦系統，以震懾潛在的外國侵略。"},
+        {"en": "Historians note that the rapid accumulation of heavy ______ by European nations in the early twentieth century created an unstable environment that made large-scale conflict more likely.", "zh": "歷史學家指出，二十世紀初歐洲各國迅速累積重型軍備，造成不穩定的環境，使大規模衝突更容易發生。"}
+      ],
+      "category": {"part": 2, "num": "07", "spelling": "arm", "meaning": "武器；武裝；防禦；衝突"}
+    },
+    {
+      "word": "armor", "pos": "n. / v.", "pos_key": "n.",
+      "defn_en": "a strong protective covering for a person or vehicle; to provide such protection:",
+      "defn_zh": "盔甲；裝甲；為……加裝防護",
+      "root_note": "arma (weapons or defensive gear)",
+      "synonyms": ["protective covering", "shielding", "plate"], "antonyms": ["exposure", "vulnerability"],
+      "sentences": [
+        {"en": "The medieval knight wore a heavy suit of steel ______ designed to deflect enemy sword strikes, though it severely limited his mobility on the muddy battlefield.", "zh": "這位中世紀騎士穿著一套旨在偏轉敵人劍擊的沉重鋼鐵盔甲，儘管這嚴重限制了他在泥濘戰場上的機動性。"},
+        {"en": "Engineers chose to ______ the undercarriage of the military transport vehicle with reinforced titanium plates to protect the soldiers inside from landmine explosions.", "zh": "工程師選擇用強化鈦合金板為軍事運輸車底盤加裝防護裝甲，以保護車內士兵免受地雷爆炸傷害。"}
+      ],
+      "category": {"part": 2, "num": "07", "spelling": "arm", "meaning": "武器；武裝；防禦；衝突"}
+    },
+    {
+      "word": "armory", "pos": "n.", "pos_key": "n.",
+      "defn_en": "a building or place where weapons and military equipment are stored:",
+      "defn_zh": "軍火庫；武器庫；兵工廠",
+      "root_note": "arma (weapons) + -ory (place for)",
+      "synonyms": ["arsenal", "weapons depot", "magazine"], "antonyms": [],
+      "sentences": [
+        {"en": "Before deploying to the dangerous border zone, the infantry soldiers marched to the base ______ to collect their rifles, ammunition, and night-vision equipment.", "zh": "部署到危險邊境地區前，步兵前往基地軍火庫，領取步槍、彈藥和夜視裝備。"},
+        {"en": "The rebel forces raided the colonial ______, seizing thousands of weapons and stockpiles of gunpowder needed to launch their revolution.", "zh": "反抗軍成功突襲殖民地兵工廠，繳獲了發動革命迫切需要的數千件武器和大量火藥。"}
+      ],
+      "category": {"part": 2, "num": "07", "spelling": "arm", "meaning": "武器；武裝；防禦；衝突"}
+    },
+    {
+      "word": "disarm", "pos": "v.", "pos_key": "v.",
+      "defn_en": "to take weapons away from someone or make a person less hostile or suspicious:",
+      "defn_zh": "解除武裝；消除敵意或戒心",
+      "root_note": "dis- (undo or remove) + arm (weapons)",
+      "synonyms": ["demilitarize", "deweaponize", "pacify", "defuse"], "antonyms": ["arm", "equip", "provoke"],
+      "sentences": [
+        {"en": "The peace treaty required both nations to completely ______ their border checkpoints, removing all artillery and landmines to establish a demilitarized safety zone.", "zh": "這項和平條約要求交戰雙方完全解除邊境檢查站的武裝，拆除所有火砲和地雷，以建立非軍事化安全區。"},
+        {"en": "The negotiator managed to ______ the hostile crowd with calm logic and empathetic language, effectively defusing a volatile situation.", "zh": "談判代表以冷靜的邏輯和富有同理心的語言消除敵對群眾的戒心，有效化解了動盪局面。"}
+      ],
+      "category": {"part": 2, "num": "07", "spelling": "arm", "meaning": "武器；武裝；防禦；衝突"}
+    },
+    {
+      "word": "belligerent", "pos": "adj.", "pos_key": "adj.",
+      "defn_en": "hostile, aggressive, and eager to fight or argue:",
+      "defn_zh": "好戰的；敵對的；挑釁的",
+      "root_note": "bellum (war) + ger (carry or wage)",
+      "synonyms": ["aggressive", "hostile", "combative", "bellicose"], "antonyms": ["peaceful", "conciliatory", "friendly"],
+      "sentences": [
+        {"en": "The dictator's ______ rhetoric alarmed neighboring countries because he threatened military invasion if his economic demands were not met.", "zh": "獨裁者在電視直播中的好戰言論令鄰國深感不安，因為他威脅若經濟要求未獲滿足就會發動軍事入侵。"},
+        {"en": "The corporate merger failed because the two chief executives maintained a ______ attitude toward each other and refused to compromise on any major decision.", "zh": "企業合併案失敗了，因為兩家公司的執行長彼此保持敵對態度，拒絕在任何重大決策上妥協。"}
+      ],
+      "category": {"part": 2, "num": "07", "spelling": "arm", "meaning": "武器；武裝；防禦；衝突"}
+    },
+    {
+      "word": "fortify", "pos": "v.", "pos_key": "v.",
+      "defn_en": "to strengthen a place against attack or make something stronger by adding support or nutrients:",
+      "defn_zh": "加固；設防；強化；添加營養",
+      "root_note": "fort (strong) + -fy (make or cause to become)",
+      "synonyms": ["strengthen", "reinforce", "secure", "enrich"], "antonyms": ["weaken", "undermine", "expose"],
+      "sentences": [
+        {"en": "Anticipating a prolonged siege, the garrison worked through the night to ______ the castle walls with thick stone blocks and heavy wooden barriers.", "zh": "守軍預料侵略軍將長期圍城，因此徹夜用厚重石塊和木製障礙物加固城牆。"},
+        {"en": "To prevent nutritional deficiencies, the health ministry required factories to ______ wheat flour with essential vitamins and iron.", "zh": "為防止營養缺乏，衛生部要求工廠在小麥粉中添加必需的維生素和鐵質以強化營養。"}
+      ],
+      "category": {"part": 2, "num": "07", "spelling": "arm", "meaning": "武器；武裝；防禦；衝突"}
+    },
+    {
+      "word": "pugnacious", "pos": "adj.", "pos_key": "adj.",
+      "defn_en": "eager or quick to argue, quarrel, or fight:",
+      "defn_zh": "好鬥的；愛爭吵的；咄咄逼人的",
+      "root_note": "pugn (fight or fist) + -acious (inclined to or full of)",
+      "synonyms": ["combative", "quarrelsome", "aggressive", "contentious"], "antonyms": ["peaceable", "docile", "conciliatory"],
+      "sentences": [
+        {"en": "The lawyer's ______ demeanor frequently annoyed the judge because he picked arguments over minor procedural details and interrupted opposing counsel.", "zh": "律師在法庭上好鬥的舉止經常惹惱法官，因為他總針對細微程序挑起爭論，並不斷打斷對方律師。"},
+        {"en": "Although the small terrier appeared harmless, its ______ nature meant it would fearlessly bark and snap at dogs ten times its size.", "zh": "儘管這隻小梗犬看似無害，但牠好鬥的天性使牠會毫無畏懼地向體型大十倍的狗吠叫和撕咬。"}
+      ],
+      "category": {"part": 2, "num": "07", "spelling": "arm", "meaning": "武器；武裝；防禦；衝突"}
+    },
+    {
+      "word": "bulwark", "pos": "n.", "pos_key": "n.",
+      "defn_en": "a defensive wall or a person, institution, or principle that protects against danger or harmful change:",
+      "defn_zh": "壁壘；防禦工事；屏障；捍衛者",
+      "root_note": "Germanic origin meaning a defensive wall or rampart",
+      "synonyms": ["rampart", "barrier", "safeguard", "bastion"], "antonyms": ["vulnerability", "weakness"],
+      "sentences": [
+        {"en": "The concrete sea wall serves as a vital ______ against coastal erosion, shielding vulnerable beachfront properties from destructive waves.", "zh": "新建的混凝土防波堤是抵禦海岸侵蝕的重要屏障，保護脆弱的海濱房產免受破壞性海浪侵襲。"},
+        {"en": "Thomas Jefferson argued that a free and independent press acts as an essential ______ of democracy, protecting citizens from tyranny and corruption.", "zh": "湯瑪斯・傑佛遜主張，自由且獨立的媒體是民主不可或缺的壁壘，能保護公民免受暴政與腐敗侵害。"}
+      ],
+      "category": {"part": 2, "num": "07", "spelling": "arm", "meaning": "武器；武裝；防禦；衝突"}
+    },
+    {
+      "word": "skirmish", "pos": "n. / v.", "pos_key": "n.",
+      "defn_en": "a brief, small-scale fight or argument, often before a larger conflict:",
+      "defn_zh": "小規模衝突；遭遇戰；短暫爭執",
+      "root_note": "from Old French escremisher (to fence or defend)",
+      "synonyms": ["clash", "scuffle", "encounter", "engagement"], "antonyms": ["peace", "truce", "agreement"],
+      "sentences": [
+        {"en": "What began as a minor border ______ between a few scouts rapidly escalated into a full-scale international war involving heavy artillery and airstrikes.", "zh": "起初只是幾名偵察兵之間的小規模邊境衝突，卻迅速升級為涉及重型火砲和空襲的全面國際戰爭。"},
+        {"en": "Protesters and local police engaged in a brief ______ outside the convention center, causing minor property damage before the crowd was dispersed.", "zh": "抗議者與當地警力在會議中心外發生短暫衝突，在人群被驅散前造成輕微財產損失。"}
+      ],
+      "category": {"part": 2, "num": "07", "spelling": "arm", "meaning": "武器；武裝；防禦；衝突"}
+    },
+    {
+      "word": "inimical", "pos": "adj.", "pos_key": "adj.",
+      "defn_en": "hostile or harmful to someone or something; likely to obstruct its success:",
+      "defn_zh": "敵對的；有害的；不利於……的",
+      "root_note": "in- (not) + amicus (friend); literally, not friendly",
+      "synonyms": ["hostile", "adverse", "harmful", "antagonistic"], "antonyms": ["friendly", "favorable", "beneficial", "supportive"],
+      "sentences": [
+        {"en": "Excessive censorship and government surveillance are fundamentally ______ to a free society because they suppress creative expression and frighten citizens into silence.", "zh": "過度審查和政府監控從根本上不利於自由社會，因為它們扼殺創意表達，並恐嚇公民保持沉默。"},
+        {"en": "Factory owners criticized the strict environmental regulations as ______ to industrial growth and claimed that the rules would cause massive job losses.", "zh": "工廠主批評嚴格的環境法規不利於工業成長，並聲稱這些規定將導致大量失業。"}
+      ],
+      "category": {"part": 2, "num": "07", "spelling": "arm", "meaning": "武器；武裝；防禦；衝突"}
+    }
+  ]
+}
