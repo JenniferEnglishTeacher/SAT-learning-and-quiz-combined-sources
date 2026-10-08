@@ -4,7 +4,7 @@
     "total_batches": 236,
     "part1_part2_batches": 159,
     "unclassified_batches": 77,
-    "generated_batches": 106
+    "generated_batches": 107
   },
   "batches": [
     {
@@ -1074,7 +1074,7 @@
       "name": "habit",
       "subtitle": "居住；擁有",
       "count": 8,
-      "generated": false,
+      "generated": true,
       "search_terms": "malady inhibition habitat prohibition habitual habituated inhibit prohibit"
     },
     {
