@@ -4,7 +4,7 @@
     "total_batches": 236,
     "part1_part2_batches": 159,
     "unclassified_batches": 77,
-    "generated_batches": 127
+    "generated_batches": 128
   },
   "batches": [
     {
@@ -1284,7 +1284,7 @@
       "name": "sacr",
       "subtitle": "神聖的",
       "count": 5,
-      "generated": false,
+      "generated": true,
       "search_terms": "consecration execrate execration sacred sacrifice"
     },
     {
