@@ -4,7 +4,7 @@
     "total_batches": 236,
     "part1_part2_batches": 159,
     "unclassified_batches": 77,
-    "generated_batches": 81
+    "generated_batches": 82
   },
   "batches": [
     {
@@ -824,7 +824,7 @@
       "name": "eu",
       "subtitle": "好",
       "count": 14,
-      "generated": false,
+      "generated": true,
       "search_terms": "euphemism euphony eulogize eulogy eupepsia eupeptic euphemistic euphemize euphonic euphonious euphoria euphoric euthanasia evangelize"
     },
     {
