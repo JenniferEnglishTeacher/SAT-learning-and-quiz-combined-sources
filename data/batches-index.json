@@ -4,7 +4,7 @@
     "total_batches": 236,
     "part1_part2_batches": 159,
     "unclassified_batches": 77,
-    "generated_batches": 117
+    "generated_batches": 118
   },
   "batches": [
     {
@@ -1184,7 +1184,7 @@
       "name": "pel；puls",
       "subtitle": "推；驅使",
       "count": 10,
-      "generated": false,
+      "generated": true,
       "search_terms": "repulse appellation archipelago compelling dispel impel impulsive pilfer repellent repulsive"
     },
     {
