@@ -4,7 +4,7 @@
     "total_batches": 236,
     "part1_part2_batches": 159,
     "unclassified_batches": 77,
-    "generated_batches": 112
+    "generated_batches": 113
   },
   "batches": [
     {
@@ -1134,7 +1134,7 @@
       "name": "miss；mit",
       "subtitle": "發送",
       "count": 22,
-      "generated": false,
+      "generated": true,
       "search_terms": "emit premise surmise remiss unmitigated emissary mitigate submissive committed dismiss dismissive emission immitigable intermittent manumit missive missle mite mitigable permit submission submit"
     },
     {

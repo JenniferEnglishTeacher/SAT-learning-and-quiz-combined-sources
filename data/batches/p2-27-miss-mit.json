@@ -1,0 +1,946 @@
+{
+  "id": "p2-27-miss-mit",
+  "part": "part2",
+  "part_label": "Part 2 字根篇 (Roots)",
+  "name": "miss；mit",
+  "subtitle": "發送",
+  "count": 22,
+  "words": [
+    {
+      "word": "emit",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to give off:",
+      "defn_zh": "發出/散發",
+      "root_note": "e- (out) + mittere (to send)",
+      "sentences": [
+        {
+          "en": "The old furnace began to ______ a strange odor after years of use.",
+          "zh": "這個舊暖爐使用多年後,開始散發出一股怪味。"
+        },
+        {
+          "en": "Certain stars ______ light that can be detected from millions of miles away.",
+          "zh": "某些恆星發出的光線能在數百萬英里外被偵測到。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "27",
+        "spelling": "miss；mit",
+        "meaning": "發送"
+      }
+    },
+    {
+      "word": "premise",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "proposition for argument:",
+      "defn_zh": "前提/假設",
+      "root_note": "prae- (before) + mittere (to send/put)",
+      "sentences": [
+        {
+          "en": "The whole argument rests on the ______ that everyone acts in their own self-interest.",
+          "zh": "整個論點都建立在人人都出於自身利益行事這個前提上。"
+        },
+        {
+          "en": "If the initial ______ is false, the entire conclusion falls apart.",
+          "zh": "如果最初的假設是錯誤的,整個結論就會站不住腳。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "27",
+        "spelling": "miss；mit",
+        "meaning": "發送"
+      }
+    },
+    {
+      "word": "surmise",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to guess:",
+      "defn_zh": "猜測/臆測",
+      "root_note": "super- (over) + mittere (to send)",
+      "sentences": [
+        {
+          "en": "From the muddy footprints, the detective could ______ that the thief had escaped through the garden.",
+          "zh": "從泥濘的腳印,偵探可以猜測小偷是從花園逃跑的。"
+        },
+        {
+          "en": "We can only ______ what really happened, since no witnesses came forward.",
+          "zh": "由於沒有目擊者出面,我們只能猜測到底發生了什麼事。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "27",
+        "spelling": "miss；mit",
+        "meaning": "發送"
+      }
+    },
+    {
+      "word": "remiss",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "careless, negligent:",
+      "defn_zh": "怠忽職守的",
+      "root_note": "re- (back) + mittere (to send)",
+      "sentences": [
+        {
+          "en": "It would be ______ of me not to mention the risks involved.",
+          "zh": "如果我不提及其中涉及的風險,那將是我的怠忽職守。"
+        },
+        {
+          "en": "He was ______ in checking the safety equipment before the climb.",
+          "zh": "他在攀登前未能盡責檢查安全裝備。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "27",
+        "spelling": "miss；mit",
+        "meaning": "發送"
+      }
+    },
+    {
+      "word": "unmitigated",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "unrelieved, as bad as can be:",
+      "defn_zh": "未減輕的/絕對的",
+      "root_note": "un- (not) + mitigare (to soften)",
+      "sentences": [
+        {
+          "en": "The concert was an ______ disaster from start to finish.",
+          "zh": "這場演唱會從頭到尾都是一場徹頭徹尾的災難。"
+        },
+        {
+          "en": "His plan turned out to be an ______ failure.",
+          "zh": "他的計畫結果證明是一場徹底的失敗。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "27",
+        "spelling": "miss；mit",
+        "meaning": "發送"
+      }
+    },
+    {
+      "word": "emissary",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "representative, envoy:",
+      "defn_zh": "使者/密使",
+      "root_note": "ex- (out) + mittere (to send)",
+      "sentences": [
+        {
+          "en": "The king sent an ______ to negotiate peace with the neighboring nation.",
+          "zh": "國王派遣了一位使者前去與鄰國協商和平。"
+        },
+        {
+          "en": "A special ______ was dispatched to deliver the confidential message.",
+          "zh": "一位特派密使被派去傳遞這份機密訊息。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "27",
+        "spelling": "miss；mit",
+        "meaning": "發送"
+      }
+    },
+    {
+      "word": "mitigate",
+      "pos": "vb.",
+      "pos_key": "v.",
+      "defn_en": "to make or become less severe; to lessen pain or damage",
+      "defn_zh": "使緩和",
+      "root_note": "mitis (mild) + agere (to act)",
+      "sentences": [
+        {
+          "en": "The company took steps to ______ the environmental damage caused by the spill.",
+          "zh": "這家公司採取措施,以減輕這次外洩事故所造成的環境損害。"
+        },
+        {
+          "en": "Wearing a helmet can ______ the severity of a head injury.",
+          "zh": "戴安全帽可以減輕頭部受傷的嚴重程度。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "27",
+        "spelling": "miss；mit",
+        "meaning": "發送"
+      }
+    },
+    {
+      "word": "submissive",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "voluntarily obeying another; humble",
+      "defn_zh": "順從的",
+      "root_note": "sub- (under) + mittere (to send)",
+      "sentences": [
+        {
+          "en": "The trainer taught the dog to be calm and ______.",
+          "zh": "訓練師教導這隻狗要保持冷靜順從。"
+        },
+        {
+          "en": "She refused to remain ______ in a relationship that disrespected her.",
+          "zh": "她拒絕在一段不尊重她的感情中繼續保持順從。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "27",
+        "spelling": "miss；mit",
+        "meaning": "發送"
+      }
+    },
+    {
+      "word": "committed",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "dedicated to a cause or task:",
+      "defn_zh": "投入的/忠誠的",
+      "root_note": "com- (together) + mittere (to send)",
+      "sentences": [
+        {
+          "en": "Ava is ______ to her studies and always wants top grades.",
+          "zh": "艾娃全心投入於學業,總是希望拿到最高的成績。"
+        },
+        {
+          "en": "He remains fully ______ to finishing the marathon despite his injury.",
+          "zh": "儘管受了傷,他仍然全心堅持要完成這場馬拉松。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "27",
+        "spelling": "miss；mit",
+        "meaning": "發送"
+      }
+    },
+    {
+      "word": "dismiss",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to reject or send away:",
+      "defn_zh": "駁回/解散",
+      "root_note": "dis- (apart) + mittere (to send)",
+      "sentences": [
+        {
+          "en": "The teacher ______ the idea to end class early.",
+          "zh": "老師駁回了提早下課的提議。"
+        },
+        {
+          "en": "The judge decided to ______ the case due to lack of evidence.",
+          "zh": "法官因證據不足而決定駁回此案。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "27",
+        "spelling": "miss；mit",
+        "meaning": "發送"
+      }
+    },
+    {
+      "word": "dismissive",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "showing disregard or lack of interest; treating something as unworthy of attention:",
+      "defn_zh": "輕蔑的/不屑一顧的",
+      "root_note": "dis- (apart) + mittere (to send)",
+      "sentences": [
+        {
+          "en": "Her ______ attitude towards the suggestions irritated the group.",
+          "zh": "她對這些建議不屑一顧的態度激怒了大家。"
+        },
+        {
+          "en": "He gave a ______ wave of his hand and walked away.",
+          "zh": "他不耐煩地揮了揮手,然後就走開了。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "27",
+        "spelling": "miss；mit",
+        "meaning": "發送"
+      }
+    },
+    {
+      "word": "emission",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "the production and discharge of something, especially gas:",
+      "defn_zh": "排放;釋放",
+      "root_note": "e- (out) + mittere (to send), from Latin",
+      "sentences": [
+        {
+          "en": "The new law limits carbon ______ s from factories.",
+          "zh": "這項新法限制了工廠的碳排放。"
+        },
+        {
+          "en": "Scientists measured the ______ of heat from the volcano.",
+          "zh": "科學家測量了這座火山釋放的熱量。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "27",
+        "spelling": "miss；mit",
+        "meaning": "發送"
+      }
+    },
+    {
+      "word": "immitigable",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "not able to be lessened or eased:",
+      "defn_zh": "無法減輕的;無法緩解的",
+      "root_note": "in- (not) + mitigare (to soften), from Latin",
+      "sentences": [
+        {
+          "en": "The disease caused ______ pain in its final stages.",
+          "zh": "這種疾病在末期造成了無法減輕的疼痛。"
+        },
+        {
+          "en": "His guilt seemed ______ despite years of therapy.",
+          "zh": "儘管多年的治療,他的罪惡感似乎仍無法緩解。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "27",
+        "spelling": "miss；mit",
+        "meaning": "發送"
+      }
+    },
+    {
+      "word": "intermittent",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "occurring at irregular intervals; not continuous:",
+      "defn_zh": "間歇性的;斷斷續續的",
+      "root_note": "inter- (between) + mittere (to send), from Latin",
+      "sentences": [
+        {
+          "en": "The area experienced ______ rain throughout the day.",
+          "zh": "這個地區整天都下著間歇性的雨。"
+        },
+        {
+          "en": "His ______ cough worried the doctor.",
+          "zh": "他斷斷續續的咳嗽讓醫生感到擔心。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "27",
+        "spelling": "miss；mit",
+        "meaning": "發送"
+      }
+    },
+    {
+      "word": "manumit",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to release from slavery:",
+      "defn_zh": "解放奴隸",
+      "root_note": "manus (hand) + mittere (to send), from Latin",
+      "sentences": [
+        {
+          "en": "The plantation owner chose to ______ several enslaved workers before his death.",
+          "zh": "這位莊園主在去世前選擇解放了幾名被奴役的工人。"
+        },
+        {
+          "en": "Historical records show when the state began to ______ its enslaved population.",
+          "zh": "歷史紀錄顯示這個州何時開始解放境內被奴役的人口。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "27",
+        "spelling": "miss；mit",
+        "meaning": "發送"
+      }
+    },
+    {
+      "word": "missive",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a letter, especially a formal or lengthy one:",
+      "defn_zh": "公函;書信",
+      "root_note": "mittere (to send), from Latin",
+      "sentences": [
+        {
+          "en": "He received a lengthy ______ from his estranged brother.",
+          "zh": "他收到了一封來自疏遠已久的兄弟的長篇書信。"
+        },
+        {
+          "en": "The ambassador sent an urgent ______ to the capital.",
+          "zh": "這位大使發出了一封緊急公函給首都。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "27",
+        "spelling": "miss；mit",
+        "meaning": "發送"
+      }
+    },
+    {
+      "word": "missle",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a common misspelling of missile, a weapon or object propelled toward a target:",
+      "defn_zh": "飛彈;拋擲物(missile的誤拼)",
+      "root_note": "mittere (to send), from Latin, variant spelling",
+      "sentences": [
+        {
+          "en": "The military tested a new long-range ______ in the desert.",
+          "zh": "軍方在這片沙漠中測試了一款新型的遠程飛彈。"
+        },
+        {
+          "en": "Protesters hurled a ______ toward the police barricade.",
+          "zh": "抗議者朝警方的路障投擲了一枚拋擲物。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "27",
+        "spelling": "miss；mit",
+        "meaning": "發送"
+      }
+    },
+    {
+      "word": "mite",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a tiny arachnid; a small amount or contribution:",
+      "defn_zh": "蟎蟲;微薄的貢獻",
+      "root_note": "mite (small creature), from Old English",
+      "sentences": [
+        {
+          "en": "Dust ______ s can trigger allergic reactions in sensitive individuals.",
+          "zh": "塵蟎可能會引發敏感體質者的過敏反應。"
+        },
+        {
+          "en": "She donated a small ______ to the relief fund each month.",
+          "zh": "她每個月都會捐出一筆微薄的款項給這個救濟基金。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "27",
+        "spelling": "miss；mit",
+        "meaning": "發送"
+      }
+    },
+    {
+      "word": "mitigable",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "capable of being lessened or made less severe:",
+      "defn_zh": "可減輕的",
+      "root_note": "mitigare (to soften), from Latin mitis (mild)",
+      "sentences": [
+        {
+          "en": "Engineers determined the flood risk was ______ with proper drainage.",
+          "zh": "工程師確認只要有適當的排水系統,這項洪水風險是可以減輕的。"
+        },
+        {
+          "en": "The judge considered whether the sentence was ______ due to his age.",
+          "zh": "這位法官考慮是否因他的年齡而減輕這項判決。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "27",
+        "spelling": "miss；mit",
+        "meaning": "發送"
+      }
+    },
+    {
+      "word": "permit",
+      "pos": "v./n.",
+      "pos_key": "v.",
+      "defn_en": "to allow something; an official document granting authorization:",
+      "defn_zh": "允許;許可證",
+      "root_note": "permittere (to let pass through), from Latin per- (through) + mittere (to send)",
+      "sentences": [
+        {
+          "en": "The landlord would not ______ pets in the apartment.",
+          "zh": "房東不允許在這間公寓裡飼養寵物。"
+        },
+        {
+          "en": "She applied for a building ______ before starting the renovation.",
+          "zh": "她在開始整修之前申請了建築許可證。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "27",
+        "spelling": "miss；mit",
+        "meaning": "發送"
+      }
+    },
+    {
+      "word": "submission",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "the act of yielding to authority; something submitted for consideration:",
+      "defn_zh": "屈服;提交",
+      "root_note": "submittere, from Latin sub- (under) + mittere (to send)",
+      "sentences": [
+        {
+          "en": "The rebels eventually forced the garrison into ______ .",
+          "zh": "叛軍最終迫使這座駐軍要塞屈服投降。"
+        },
+        {
+          "en": "The magazine received hundreds of ______ s for the writing contest.",
+          "zh": "這本雜誌為這場寫作比賽收到了數百件投稿。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "27",
+        "spelling": "miss；mit",
+        "meaning": "發送"
+      }
+    },
+    {
+      "word": "submit",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to accept or yield to authority; to present for consideration:",
+      "defn_zh": "屈服;提交",
+      "root_note": "submittere, from Latin sub- (under) + mittere (to send)",
+      "sentences": [
+        {
+          "en": "He refused to ______ to the demands of the hijackers.",
+          "zh": "他拒絕屈服於這些劫機者的要求。"
+        },
+        {
+          "en": "Applicants must ______ their forms before the deadline.",
+          "zh": "申請人必須在截止日期前提交他們的表格。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "27",
+        "spelling": "miss；mit",
+        "meaning": "發送"
+      }
+    }
+  ],
+  "family_options": {},
+  "fallback_options": {
+    "v.": [
+      {
+        "word": "abound",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to exist in great numbers:",
+        "defn_zh": "充滿"
+      },
+      {
+        "word": "abrogate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to deprive of legal force, to nullify:=abolish",
+        "defn_zh": "廢除/取消"
+      },
+      {
+        "word": "abjure",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to renounce, abstain from:",
+        "defn_zh": "發誓放棄/棄絕"
+      },
+      {
+        "word": "abbreviate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to shorten a word or phrase:",
+        "defn_zh": "縮寫;縮短"
+      },
+      {
+        "word": "abdicate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to give up a position, usually one of leadership:",
+        "defn_zh": "退位/放棄(職位)"
+      },
+      {
+        "word": "abduct",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to kidnap, take by force:",
+        "defn_zh": "綁架/劫持"
+      },
+      {
+        "word": "abhor",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to regard with disgust and hatred:",
+        "defn_zh": "憎惡/厭惡"
+      },
+      {
+        "word": "abnegate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to deny or renounce:",
+        "defn_zh": "放棄/克制"
+      },
+      {
+        "word": "abolish",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to formally put an end to a system, practice, or institution:",
+        "defn_zh": "廢除"
+      },
+      {
+        "word": "abort",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to give up on a half-finished project or effort:",
+        "defn_zh": "中止/放棄"
+      },
+      {
+        "word": "abrade",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to scrape or wear away by friction:",
+        "defn_zh": "磨損;擦傷"
+      },
+      {
+        "word": "abscond",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to sneak away and hide:",
+        "defn_zh": "潛逃/逃匿"
+      }
+    ],
+    "adj.": [
+      {
+        "word": "abortive",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "fruitless, failing:",
+        "defn_zh": "失敗的/夭折的"
+      },
+      {
+        "word": "abstemious",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "moderate in eating or drinking:",
+        "defn_zh": "飲食有節制的"
+      },
+      {
+        "word": "abhorrent",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "detestable, despised:",
+        "defn_zh": "令人厭惡的"
+      },
+      {
+        "word": "absurd",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "ridiculous:",
+        "defn_zh": "荒謬的"
+      },
+      {
+        "word": "aberrant",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "deviating from what is normal or expected:",
+        "defn_zh": "異常的;脫軌的"
+      },
+      {
+        "word": "abject",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "wretched, pitiful:",
+        "defn_zh": "卑賤的/淒慘的"
+      },
+      {
+        "word": "abominable",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "causing moral revulsion; extremely unpleasant:",
+        "defn_zh": "可憎的;惡劣的"
+      },
+      {
+        "word": "abounding",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "existing in large numbers or amounts:",
+        "defn_zh": "大量存在的;豐富的"
+      },
+      {
+        "word": "abrasive",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "showing little concern for others; harsh:",
+        "defn_zh": "粗暴的/刺耳的"
+      },
+      {
+        "word": "abrupt",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "sudden or unexpected; brief and curt in manner:",
+        "defn_zh": "突然的/唐突的"
+      },
+      {
+        "word": "abstract",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "existing purely in the mind; not representing actual reality:",
+        "defn_zh": "抽象的"
+      },
+      {
+        "word": "abstruse",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "hard to comprehend:",
+        "defn_zh": "深奧難懂的"
+      }
+    ],
+    "n.": [
+      {
+        "word": "aversion",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "strong dislike, opposition:",
+        "defn_zh": "厭惡/反感"
+      },
+      {
+        "word": "aberration",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "something that differs from the norm:",
+        "defn_zh": "異常/脫軌"
+      },
+      {
+        "word": "abjection",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a state of complete misery, hopelessness, or degradation:",
+        "defn_zh": "卑賤;悲慘狀態"
+      },
+      {
+        "word": "abjuration",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the solemn renunciation of a belief, cause, or claim:",
+        "defn_zh": "公開放棄;誓絕"
+      },
+      {
+        "word": "ablution",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the act of washing oneself, especially as part of a religious ritual:",
+        "defn_zh": "沐浴;淨身儀式"
+      },
+      {
+        "word": "abnegation",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "denial of comfort to oneself:",
+        "defn_zh": "自我克制/放棄"
+      },
+      {
+        "word": "abomination",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "something that causes disgust or hatred:",
+        "defn_zh": "可憎之事;令人厭惡的東西"
+      },
+      {
+        "word": "abridgement",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a shortened version of a book or other written work:",
+        "defn_zh": "節略本;縮減版"
+      },
+      {
+        "word": "absolution",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "freedom from blame, guilt, sin:",
+        "defn_zh": "赦免/免罪"
+      },
+      {
+        "word": "abstemiousness",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "moderation or self-restraint, especially in eating and drinking:",
+        "defn_zh": "節制;克己"
+      },
+      {
+        "word": "abstinence",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the practice of restraining oneself from something enjoyable, especially food, alcohol, or sex:",
+        "defn_zh": "節制;戒絕"
+      },
+      {
+        "word": "avocation",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a hobby or minor occupation apart from one's main career:",
+        "defn_zh": "副業;業餘愛好"
+      }
+    ],
+    "adv.": [
+      {
+        "word": "accordingly",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in a manner that fits the circumstances; consequently:",
+        "defn_zh": "相應地;因此"
+      },
+      {
+        "word": "inadvertently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "unintentionally or by accident:",
+        "defn_zh": "無意間/不小心地"
+      },
+      {
+        "word": "consequently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "as a result; therefore:",
+        "defn_zh": "因此;結果"
+      },
+      {
+        "word": "contemptuously",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "without respect; in a disdainful manner:",
+        "defn_zh": "輕蔑地"
+      },
+      {
+        "word": "involuntarily",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "done without conscious control:",
+        "defn_zh": "不由自主地"
+      },
+      {
+        "word": "cordially",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in a warm or friendly manner:",
+        "defn_zh": "誠摯地/友好地"
+      },
+      {
+        "word": "ipso facto",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "by that very fact or act:",
+        "defn_zh": "事實上;因此"
+      },
+      {
+        "word": "en passant",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in passing; incidentally:",
+        "defn_zh": "順帶一提地;偶然地"
+      },
+      {
+        "word": "regardless",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "despite the prevailing circumstances; without being deterred:",
+        "defn_zh": "不管怎樣;儘管如此"
+      },
+      {
+        "word": "subsequently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "afterward; following in time or order:",
+        "defn_zh": "隨後;其後"
+      },
+      {
+        "word": "aside",
+        "pos": "adv./n.",
+        "pos_key": "adv.",
+        "defn_en": "to or on one side; a remark not meant to be heard by everyone:",
+        "defn_zh": "在旁邊;旁白"
+      },
+      {
+        "word": "vice versa",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "with the order or meaning reversed; conversely:",
+        "defn_zh": "反之亦然"
+      }
+    ],
+    "other": [
+      {
+        "word": "（此批單字中，暫無符合此字根/字首的單字）",
+        "pos": "",
+        "pos_key": "other",
+        "defn_en": "",
+        "defn_zh": ""
+      }
+    ],
+    "prep./adv.": [
+      {
+        "word": "besides",
+        "pos": "prep./adv.",
+        "pos_key": "prep./adv.",
+        "defn_en": "in addition to; furthermore:",
+        "defn_zh": "除...之外;此外"
+      }
+    ],
+    "phrasalv.": [
+      {
+        "word": "egg on",
+        "pos": "phrasal v.",
+        "pos_key": "phrasalv.",
+        "defn_en": "to encourage someone to do something, often risky:",
+        "defn_zh": "慫恿;鼓動"
+      }
+    ],
+    "abbr.": [
+      {
+        "word": "etc.",
+        "pos": "abbr.",
+        "pos_key": "abbr.",
+        "defn_en": "and other similar things (abbreviation of et cetera):",
+        "defn_zh": "等等(et cetera的縮寫)"
+      }
+    ],
+    "interj.": [
+      {
+        "word": "fiddledeedee",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "an exclamation expressing dismissal of something as nonsense:",
+        "defn_zh": "廢話!(表示不屑一顧)"
+      },
+      {
+        "word": "gesundheit",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "an expression said to someone who has just sneezed:",
+        "defn_zh": "保重(打噴嚏後的祝福語)"
+      }
+    ],
+    "prep.": [
+      {
+        "word": "via",
+        "pos": "prep.",
+        "pos_key": "prep.",
+        "defn_en": "by way of; passing through:",
+        "defn_zh": "經由;透過"
+      }
+    ]
+  }
+}
