@@ -1,0 +1,152 @@
+{
+  "id": "p2-41-rupt",
+  "merge_with_source": true,
+  "name": "rupt",
+  "subtitle": "破裂；打破；崩解；劇變",
+  "words": [
+    {
+      "word": "rupture", "pos": "n. / v.", "pos_key": "n.",
+      "defn_en": "a sudden break, burst, or serious breach in a structure or relationship; to cause such a break:",
+      "defn_zh": "破裂；斷裂；決裂；使破裂",
+      "root_note": "rupt (to break or burst) + -ure (act, process, or state)",
+      "synonyms": ["break", "breach", "split", "tear"], "antonyms": ["repair", "union", "reconciliation"],
+      "sentences": [
+        {"en": "A sudden spike in water pressure caused a massive ______ in the city's main underground pipeline.", "zh": "水壓突然飆升，導致城市地下主管道發生巨大破裂。"},
+        {"en": "The contract dispute threatened to ______ the long-standing partnership between the two technology firms.", "zh": "合約糾紛可能使兩家科技公司長期的合作關係永久決裂。"}
+      ],
+      "category": {"part": 2, "num": "41", "spelling": "rupt", "meaning": "破裂；打破；崩解；劇變"}
+    },
+    {
+      "word": "disruptive", "pos": "adj.", "pos_key": "adj.",
+      "defn_en": "causing disorder, interruption, or major change to an established system:",
+      "defn_zh": "造成干擾的；破壞性的；顛覆性的",
+      "root_note": "dis- (apart) + rupt (break) + -ive (having the quality of)",
+      "synonyms": ["disturbing", "unsettling", "revolutionary", "interruptive"], "antonyms": ["orderly", "stabilizing", "conventional"],
+      "sentences": [
+        {"en": "Personal smartphones became a highly ______ technology that shattered traditional telephone business models.", "zh": "個人智慧型手機成為高度顛覆性的科技，徹底改變傳統電話商業模式。"},
+        {"en": "The teacher moved the talkative student because his constant jokes were ______ to classmates trying to focus.", "zh": "老師把愛說話的學生調開，因為他不斷開玩笑，嚴重干擾其他同學專心。"}
+      ],
+      "category": {"part": 2, "num": "41", "spelling": "rupt", "meaning": "破裂；打破；崩解；劇變"}
+    },
+    {
+      "word": "abrupt", "pos": "adj.", "pos_key": "adj.",
+      "defn_en": "sudden and unexpected, or brief and unfriendly in manner:",
+      "defn_zh": "突然的；意外的；唐突的；生硬的",
+      "root_note": "ab- (off or away) + rupt (break)",
+      "synonyms": ["sudden", "unexpected", "hasty", "curt"], "antonyms": ["gradual", "smooth", "courteous"],
+      "sentences": [
+        {"en": "The stock market experienced an ______ decline after the unexpected political announcement.", "zh": "股市在突如其來的政治聲明後驟然下跌，讓投資者措手不及。"},
+        {"en": "Drivers slammed on their brakes when the mountain highway came to an ______ dead end after a landslide.", "zh": "山崩使高山公路突然變成死路，駕駛人不得不猛踩煞車。"}
+      ],
+      "category": {"part": 2, "num": "41", "spelling": "rupt", "meaning": "破裂；打破；崩解；劇變"}
+    },
+    {
+      "word": "corruptible", "pos": "adj.", "pos_key": "adj.",
+      "defn_en": "capable of being morally influenced by dishonesty or physically damaged and made unreliable:",
+      "defn_zh": "容易腐敗的；可被收買的；容易損壞的",
+      "root_note": "cor- (thoroughly) + rupt (break) + -ible (capable of being)",
+      "synonyms": ["bribable", "vulnerable", "fallible", "degradable"], "antonyms": ["incorruptible", "honest", "durable"],
+      "sentences": [
+        {"en": "The journalist discovered that the legal system was highly ______ because wealthy defendants could bribe officials.", "zh": "記者發現該法律制度非常容易腐敗，富有的被告可以賄賂官員。"},
+        {"en": "Files stored on the outdated magnetic tape proved highly ______ and eventually became unreadable.", "zh": "儲存在過時磁帶上的檔案很容易損壞，最後變得完全無法讀取。"}
+      ],
+      "category": {"part": 2, "num": "41", "spelling": "rupt", "meaning": "破裂；打破；崩解；劇變"}
+    },
+    {
+      "word": "interrupt", "pos": "v.", "pos_key": "v.",
+      "defn_en": "to stop an activity temporarily or break into someone's speech or action:",
+      "defn_zh": "打斷；插嘴；中斷；阻斷",
+      "root_note": "inter- (between or among) + rupt (break)",
+      "synonyms": ["disrupt", "halt", "break in", "interfere"], "antonyms": ["continue", "sustain", "resume"],
+      "sentences": [
+        {"en": "The moderator repeatedly warned both candidates not to ______ each other during the live debate.", "zh": "直播辯論中，主持人一再警告兩位候選人不要互相打斷。"},
+        {"en": "Severe lightning storms could temporarily ______ electrical service to thousands of homes tonight.", "zh": "嚴重雷暴今晚可能暫時中斷數千戶家庭的電力供應。"}
+      ],
+      "category": {"part": 2, "num": "41", "spelling": "rupt", "meaning": "破裂；打破；崩解；劇變"}
+    },
+    {
+      "word": "eruptive", "pos": "adj.", "pos_key": "adj.",
+      "defn_en": "relating to or tending to burst outward suddenly and violently:",
+      "defn_zh": "噴發的；爆發性的；突然爆發的",
+      "root_note": "e- (out) + rupt (break or burst) + -ive (having the quality of)",
+      "synonyms": ["explosive", "volcanic", "bursting", "violent"], "antonyms": ["dormant", "calm", "stable"],
+      "sentences": [
+        {"en": "Geologists observed seismic activity that pointed to an impending ______ event at the active volcano.", "zh": "地質學家觀察到地震活動，顯示活火山即將發生噴發事件。"},
+        {"en": "The patient's suppressed anger often manifested as ______ outbursts over minor inconveniences.", "zh": "患者壓抑的憤怒常因日常小事而表現為突然爆發的脾氣。"}
+      ],
+      "category": {"part": 2, "num": "41", "spelling": "rupt", "meaning": "破裂；打破；崩解；劇變"}
+    },
+    {
+      "word": "fracture", "pos": "n. / v.", "pos_key": "n.",
+      "defn_en": "a crack or break in a hard object or bone; to crack, break, or divide something:",
+      "defn_zh": "裂縫；骨折；斷裂；使分裂",
+      "root_note": "frag or fract (to break), a Latin root related in meaning to rupt",
+      "synonyms": ["crack", "break", "split", "fissure"], "antonyms": ["repair", "mend", "unify"],
+      "sentences": [
+        {"en": "Pressure from shifting tectonic plates caused a major ______ in the bedrock and created a fault line.", "zh": "移動板塊產生的壓力使基岩出現重大裂縫，並形成斷層線。"},
+        {"en": "Critics argued that the new tax policy would further ______ an already divided electorate.", "zh": "批評者認為新稅制會使原本已分裂的選民群體更加瓦解。"}
+      ],
+      "category": {"part": 2, "num": "41", "spelling": "rupt", "meaning": "破裂；打破；崩解；劇變"}
+    },
+    {
+      "word": "infraction", "pos": "n.", "pos_key": "n.",
+      "defn_en": "a violation of a rule, law, agreement, or code of conduct:",
+      "defn_zh": "違規；違法行為；違反",
+      "root_note": "in- (against) + fract (break) + -ion (act or state)",
+      "synonyms": ["violation", "breach", "offense", "transgression"], "antonyms": ["compliance", "obedience", "observance"],
+      "sentences": [
+        {"en": "A minor traffic ______ such as speeding usually results in a fine rather than imprisonment.", "zh": "超速等輕微交通違規通常只會被處以罰款，而不是監禁。"},
+        {"en": "The employee handbook states that any serious safety ______ will result in immediate suspension.", "zh": "員工手冊規定，任何嚴重的安全違規都會導致立即停職。"}
+      ],
+      "category": {"part": 2, "num": "41", "spelling": "rupt", "meaning": "破裂；打破；崩解；劇變"}
+    },
+    {
+      "word": "upheaval", "pos": "n.", "pos_key": "n.",
+      "defn_en": "a sudden, violent, or major change that causes disorder and uncertainty:",
+      "defn_zh": "劇變；動盪；動亂；大變動",
+      "root_note": "from the Germanic sense of heaving or lifting upward from beneath",
+      "synonyms": ["turmoil", "disruption", "revolution", "disturbance"], "antonyms": ["stability", "calm", "order"],
+      "sentences": [
+        {"en": "The sudden collapse of the currency triggered widespread economic ______ and forced thousands of businesses into bankruptcy.", "zh": "貨幣突然崩盤，引發廣泛的經濟動盪，迫使數千家企業破產。"},
+        {"en": "Moving abroad as a teenager was a profound emotional ______ for Marcus.", "zh": "對馬庫斯而言，青少年時期移居國外是一次深刻的情感巨變。"}
+      ],
+      "category": {"part": 2, "num": "41", "spelling": "rupt", "meaning": "破裂；打破；崩解；劇變"}
+    },
+    {
+      "word": "cataclysmic", "pos": "adj.", "pos_key": "adj.",
+      "defn_en": "causing a sudden and extremely destructive disaster or enormous change:",
+      "defn_zh": "災難性的；毀滅性的；引起巨大變動的",
+      "root_note": "kata- (down or thoroughly) + klyzein (to wash or dash over)",
+      "synonyms": ["catastrophic", "devastating", "disastrous", "calamitous"], "antonyms": ["minor", "beneficial", "harmless"],
+      "sentences": [
+        {"en": "Scientists believe a ______ asteroid impact altered Earth's climate and contributed to the dinosaurs' extinction.", "zh": "科學家認為，一場災難性的小行星撞擊改變了地球氣候，並造成恐龍滅絕。"},
+        {"en": "The bank's failure had a ______ effect on financial markets and triggered a worldwide recession.", "zh": "這家銀行倒閉對金融市場造成毀滅性影響，並引發全球經濟衰退。"}
+      ],
+      "category": {"part": 2, "num": "41", "spelling": "rupt", "meaning": "破裂；打破；崩解；劇變"}
+    },
+    {
+      "word": "schism", "pos": "n.", "pos_key": "n.",
+      "defn_en": "a serious and lasting division between members of a group, especially over beliefs or policies:",
+      "defn_zh": "分裂；派系鬥爭；教派分裂",
+      "root_note": "Greek schisma (a split or cleft)",
+      "synonyms": ["split", "division", "rift", "breach"], "antonyms": ["unity", "harmony", "reconciliation"],
+      "sentences": [
+        {"en": "A theological dispute over leadership created a permanent ______ within the religious organization.", "zh": "一場關於領導權的神學爭端在宗教組織內造成永久分裂。"},
+        {"en": "Disagreements over environmental policy led to a bitter ______ within the political party.", "zh": "環境政策上的分歧在政黨內引發激烈分裂。"}
+      ],
+      "category": {"part": 2, "num": "41", "spelling": "rupt", "meaning": "破裂；打破；崩解；劇變"}
+    },
+    {
+      "word": "fragmentary", "pos": "adj.", "pos_key": "adj.",
+      "defn_en": "consisting of small, disconnected pieces and therefore incomplete:",
+      "defn_zh": "零碎的；片段的；不完整的",
+      "root_note": "frag (to break) + -ment (result) + -ary (relating to)",
+      "synonyms": ["incomplete", "partial", "scattered", "disjointed"], "antonyms": ["complete", "coherent", "whole"],
+      "sentences": [
+        {"en": "Historians could reconstruct only a ______ account because the ancient tablets had shattered into pieces.", "zh": "由於古代石碑已碎裂，歷史學家只能重建一份零碎的記錄。"},
+        {"en": "The detective had only ______ evidence and needed more witnesses to construct a complete account.", "zh": "偵探手上只有片段證據，必須尋找更多證人才能重建完整經過。"}
+      ],
+      "category": {"part": 2, "num": "41", "spelling": "rupt", "meaning": "破裂；打破；崩解；劇變"}
+    }
+  ]
+}

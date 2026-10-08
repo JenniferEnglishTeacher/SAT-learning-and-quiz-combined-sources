@@ -4,7 +4,7 @@
     "total_batches": 236,
     "part1_part2_batches": 159,
     "unclassified_batches": 77,
-    "generated_batches": 126
+    "generated_batches": 127
   },
   "batches": [
     {
@@ -1272,10 +1272,10 @@
       "part": "part2",
       "part_label": "Part 2 字根篇 (Roots)",
       "name": "rupt",
-      "subtitle": "破裂；毀壞",
-      "count": 3,
-      "generated": false,
-      "search_terms": "eruption abrupt corruption"
+      "subtitle": "破裂；打破；崩解；劇變",
+      "count": 14,
+      "generated": true,
+      "search_terms": "eruption abrupt corruption rupture disruptive corruptible interrupt eruptive fracture infraction upheaval cataclysmic schism fragmentary"
     },
     {
       "id": "p2-42-sacr",
