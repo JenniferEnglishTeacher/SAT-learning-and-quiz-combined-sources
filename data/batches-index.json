@@ -4,7 +4,7 @@
     "total_batches": 236,
     "part1_part2_batches": 159,
     "unclassified_batches": 77,
-    "generated_batches": 66
+    "generated_batches": 67
   },
   "batches": [
     {
@@ -454,7 +454,7 @@
       "name": "inter",
       "subtitle": "在⋯⋯之間",
       "count": 19,
-      "generated": false,
+      "generated": true,
       "search_terms": "interject interloper interrogate internecine interchangeable interdict interdiction interface interlocutor interlope intermittent interpolate interpolation interpose interpret interregnum intersect interstice interstitial"
     },
     {

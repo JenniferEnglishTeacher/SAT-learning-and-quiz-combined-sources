@@ -1,0 +1,874 @@
+{
+  "id": "p1-25-inter",
+  "part": "part1",
+  "part_label": "Part 1 字首篇 (Prefixes)",
+  "name": "inter",
+  "subtitle": "在⋯⋯之間",
+  "count": 19,
+  "words": [
+    {
+      "word": "interject",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to interrupt:",
+      "defn_zh": "插嘴",
+      "root_note": "inter- (between) + jacere (to throw)",
+      "sentences": [
+        {
+          "en": "She had to ______ before the meeting went completely off track.",
+          "zh": "她不得不插嘴,以免會議完全偏離主題。"
+        },
+        {
+          "en": "He would often ______ with a joke whenever the conversation grew tense.",
+          "zh": "每當談話氣氛變得緊張,他就常常插嘴講個笑話。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "25",
+        "spelling": "inter",
+        "meaning": "在⋯⋯之間"
+      }
+    },
+    {
+      "word": "interloper",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "unauthorized person:",
+      "defn_zh": "闖入者/干涉者",
+      "root_note": "inter- (between) + lope (to leap/run)",
+      "sentences": [
+        {
+          "en": "The villagers viewed the newcomer as an ______ who didn't understand their customs.",
+          "zh": "村民將這名新來者視為不懂他們習俗的闖入者。"
+        },
+        {
+          "en": "Security quickly removed the ______ who had snuck backstage.",
+          "zh": "保全人員迅速將偷溜到後台的闖入者帶走。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "25",
+        "spelling": "inter",
+        "meaning": "在⋯⋯之間"
+      }
+    },
+    {
+      "word": "interrogate",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to question:",
+      "defn_zh": "審問/質問",
+      "root_note": "inter- (between) + rogare (to ask)",
+      "sentences": [
+        {
+          "en": "Detectives ______d the suspect for hours before he confessed.",
+          "zh": "偵探審問了嫌犯好幾個小時,他才終於認罪。"
+        },
+        {
+          "en": "The teacher began to ______ the student about the missing homework.",
+          "zh": "老師開始盤問這名學生為何沒交作業。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "25",
+        "spelling": "inter",
+        "meaning": "在⋯⋯之間"
+      }
+    },
+    {
+      "word": "internecine",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "mutually destructive, conflict within a group:",
+      "defn_zh": "內訌的/兩敗俱傷的",
+      "root_note": "inter- (among) + necare (to kill)",
+      "sentences": [
+        {
+          "en": "The party's ______ struggles weakened it before the election.",
+          "zh": "這個政黨內部兩敗俱傷的鬥爭在選舉前就已經削弱了它的實力。"
+        },
+        {
+          "en": "Years of ______ conflict left the organization deeply divided.",
+          "zh": "多年的內部惡鬥讓這個組織產生了深刻的分裂。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "25",
+        "spelling": "inter",
+        "meaning": "在⋯⋯之間"
+      }
+    },
+    {
+      "word": "interchangeable",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "able to be exchanged or replaced with another item without significant difference:",
+      "defn_zh": "可互換的",
+      "root_note": "inter- (between) + cambiare (to change)",
+      "sentences": [
+        {
+          "en": "The two parts were ______, making repairs easier.",
+          "zh": "這兩個零件可以互換,讓維修變得更容易。"
+        },
+        {
+          "en": "These parts are ______ so it doesn't matter which one you use.",
+          "zh": "這些零件是可以互換的,所以用哪一個都沒關係。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "25",
+        "spelling": "inter",
+        "meaning": "在⋯⋯之間"
+      }
+    },
+    {
+      "word": "interdict",
+      "pos": "v./n.",
+      "pos_key": "v.",
+      "defn_en": "to forbid or prohibit; an official prohibition:",
+      "defn_zh": "禁止;禁令",
+      "root_note": "inter- (between) + dicere (to say), from Latin",
+      "sentences": [
+        {
+          "en": "The court moved to ______ the sale of the disputed property.",
+          "zh": "法院採取行動禁止這處爭議產業的出售。"
+        },
+        {
+          "en": "The church issued an ______ against the controversial practice.",
+          "zh": "教會針對這項具爭議性的行為發布了禁令。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "25",
+        "spelling": "inter",
+        "meaning": "在⋯⋯之間"
+      }
+    },
+    {
+      "word": "interdiction",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "the action of prohibiting or forbidding something:",
+      "defn_zh": "禁止;查禁",
+      "root_note": "inter- (between) + dicere (to say), from Latin",
+      "sentences": [
+        {
+          "en": "The military carried out a naval ______ to block the smuggling route.",
+          "zh": "軍方執行了一次海上查禁行動,以阻斷這條走私路線。"
+        },
+        {
+          "en": "The ______ of certain imports affected local businesses.",
+          "zh": "查禁某些進口商品影響了當地的企業。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "25",
+        "spelling": "inter",
+        "meaning": "在⋯⋯之間"
+      }
+    },
+    {
+      "word": "interface",
+      "pos": "n./v.",
+      "pos_key": "n.",
+      "defn_en": "a point where two systems meet and interact:",
+      "defn_zh": "介面;交流",
+      "root_note": "inter- (between) + facies (face), from Latin",
+      "sentences": [
+        {
+          "en": "The app's ______ was redesigned to be more user-friendly.",
+          "zh": "這款應用程式的介面經過重新設計,變得更加使用者友善。"
+        },
+        {
+          "en": "Engineers worked to ______ the two software systems.",
+          "zh": "工程師努力讓這兩套軟體系統能夠交流互通。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "25",
+        "spelling": "inter",
+        "meaning": "在⋯⋯之間"
+      }
+    },
+    {
+      "word": "interlocutor",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "someone who participates in a dialogue or conversation:",
+      "defn_zh": "對話者/會談者",
+      "root_note": "inter- (between) + loqui (to speak)",
+      "sentences": [
+        {
+          "en": "The diplomat served as the main ______ between the two governments.",
+          "zh": "這位外交官擔任這兩國政府之間主要的對話橋樑。"
+        },
+        {
+          "en": "A skilled ______ knows when to listen as much as when to speak.",
+          "zh": "一位善於溝通的對話者懂得何時該傾聽,而不只是說話。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "25",
+        "spelling": "inter",
+        "meaning": "在⋯⋯之間"
+      }
+    },
+    {
+      "word": "interlope",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to intrude in someone else's affairs without invitation:",
+      "defn_zh": "干涉;闖入(他人事務)",
+      "root_note": "inter- (between) + lopen (to run), from Dutch",
+      "sentences": [
+        {
+          "en": "She refused to ______ in her sister's marriage.",
+          "zh": "她拒絕干涉姊姊的婚姻。"
+        },
+        {
+          "en": "The unwanted advisor continued to ______ in the negotiations.",
+          "zh": "這位不受歡迎的顧問繼續干涉這場談判。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "25",
+        "spelling": "inter",
+        "meaning": "在⋯⋯之間"
+      }
+    },
+    {
+      "word": "intermittent",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "occurring at irregular intervals; not continuous:",
+      "defn_zh": "間歇性的;斷斷續續的",
+      "root_note": "inter- (between) + mittere (to send), from Latin",
+      "sentences": [
+        {
+          "en": "The area experienced ______ rain throughout the day.",
+          "zh": "這個地區整天都下著間歇性的雨。"
+        },
+        {
+          "en": "His ______ cough worried the doctor.",
+          "zh": "他斷斷續續的咳嗽讓醫生感到擔心。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "25",
+        "spelling": "inter",
+        "meaning": "在⋯⋯之間"
+      }
+    },
+    {
+      "word": "interpolate",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to insert something of a different nature into something else; to estimate a value between known values:",
+      "defn_zh": "插入;內插",
+      "root_note": "inter- (between) + polire (to polish), from Latin",
+      "sentences": [
+        {
+          "en": "Scholars believe a later scribe began to ______ passages into the manuscript.",
+          "zh": "學者相信後來的抄寫員在這份手稿中插入了一些段落。"
+        },
+        {
+          "en": "Scientists ______ missing data points using the surrounding trend.",
+          "zh": "科學家利用周圍的趨勢來內插缺失的數據點。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "25",
+        "spelling": "inter",
+        "meaning": "在⋯⋯之間"
+      }
+    },
+    {
+      "word": "interpolation",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "the insertion of something into a text or between other things:",
+      "defn_zh": "插入;內插法",
+      "root_note": "inter- (between) + polire (to polish), from Latin",
+      "sentences": [
+        {
+          "en": "Editors identified a later ______ in the ancient text.",
+          "zh": "編輯在這份古老的文本中發現了一段後來插入的內容。"
+        },
+        {
+          "en": "The graph used ______ to estimate the missing values.",
+          "zh": "這張圖表使用內插法來估算缺失的數值。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "25",
+        "spelling": "inter",
+        "meaning": "在⋯⋯之間"
+      }
+    },
+    {
+      "word": "interpose",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to insert between other things; to intervene:",
+      "defn_zh": "插入;介入",
+      "root_note": "inter- (between) + ponere (to place), from Latin",
+      "sentences": [
+        {
+          "en": "He tried to ______ himself between the two arguing friends.",
+          "zh": "他試圖介入這兩位爭吵中的朋友之間。"
+        },
+        {
+          "en": "The lawyer ______ d an objection during the testimony.",
+          "zh": "這位律師在證詞進行中提出了異議插話。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "25",
+        "spelling": "inter",
+        "meaning": "在⋯⋯之間"
+      }
+    },
+    {
+      "word": "interpret",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to explain the meaning of something:",
+      "defn_zh": "解釋/詮釋",
+      "root_note": "inter- (between) + pres (agent)",
+      "sentences": [
+        {
+          "en": "I don't understand this poem; can you ______ it for me?",
+          "zh": "我看不懂這首詩,你能幫我解釋一下嗎?"
+        },
+        {
+          "en": "The judge asked the translator to ______ the witness's testimony.",
+          "zh": "法官要求翻譯人員解釋這名證人的證詞。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "25",
+        "spelling": "inter",
+        "meaning": "在⋯⋯之間"
+      }
+    },
+    {
+      "word": "interregnum",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a period when normal government is suspended, especially between reigns:",
+      "defn_zh": "空位期;過渡期",
+      "root_note": "inter- (between) + regnum (kingdom, reign), from Latin",
+      "sentences": [
+        {
+          "en": "The country experienced chaos during the ______ before the new king was crowned.",
+          "zh": "在新國王加冕之前,這個國家經歷了空位期的混亂。"
+        },
+        {
+          "en": "The company's ______ between CEOs led to uncertainty among staff.",
+          "zh": "這家公司在執行長更替之間的過渡期讓員工感到不確定。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "25",
+        "spelling": "inter",
+        "meaning": "在⋯⋯之間"
+      }
+    },
+    {
+      "word": "intersect",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to cross or meet at a point:",
+      "defn_zh": "相交/交叉",
+      "root_note": "inter- (between) + secare (to cut)",
+      "sentences": [
+        {
+          "en": "The two streets ______ downtown.",
+          "zh": "這兩條街道在市中心交會。"
+        },
+        {
+          "en": "The two storylines eventually ______ in the final chapter.",
+          "zh": "這兩條故事線最終在最後一章交會在一起。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "25",
+        "spelling": "inter",
+        "meaning": "在⋯⋯之間"
+      }
+    },
+    {
+      "word": "interstice",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a small gap or space between things:",
+      "defn_zh": "縫隙;間隙",
+      "root_note": "inter- (between) + sistere (to stand), from Latin",
+      "sentences": [
+        {
+          "en": "Light filtered through the ______ s between the leaves.",
+          "zh": "光線從樹葉間的縫隙中透了進來。"
+        },
+        {
+          "en": "Water seeped into the tiny ______ s of the rock.",
+          "zh": "水滲入了這塊岩石細小的縫隙之中。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "25",
+        "spelling": "inter",
+        "meaning": "在⋯⋯之間"
+      }
+    },
+    {
+      "word": "interstitial",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "relating to small spaces between structures or tissues:",
+      "defn_zh": "間隙的;組織間的",
+      "root_note": "inter- (between) + sistere (to stand), from Latin",
+      "sentences": [
+        {
+          "en": "The doctor diagnosed her with an ______ lung condition.",
+          "zh": "醫生診斷她患有一種肺部間質性病症。"
+        },
+        {
+          "en": "Engineers studied the ______ spaces within the composite material.",
+          "zh": "工程師研究了這種複合材料內部的間隙結構。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "25",
+        "spelling": "inter",
+        "meaning": "在⋯⋯之間"
+      }
+    }
+  ],
+  "family_options": {},
+  "fallback_options": {
+    "v.": [
+      {
+        "word": "abound",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to exist in great numbers:",
+        "defn_zh": "充滿"
+      },
+      {
+        "word": "abrogate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to deprive of legal force, to nullify:=abolish",
+        "defn_zh": "廢除/取消"
+      },
+      {
+        "word": "abjure",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to renounce, abstain from:",
+        "defn_zh": "發誓放棄/棄絕"
+      },
+      {
+        "word": "abbreviate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to shorten a word or phrase:",
+        "defn_zh": "縮寫;縮短"
+      },
+      {
+        "word": "abdicate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to give up a position, usually one of leadership:",
+        "defn_zh": "退位/放棄(職位)"
+      },
+      {
+        "word": "abduct",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to kidnap, take by force:",
+        "defn_zh": "綁架/劫持"
+      },
+      {
+        "word": "abhor",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to regard with disgust and hatred:",
+        "defn_zh": "憎惡/厭惡"
+      },
+      {
+        "word": "abnegate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to deny or renounce:",
+        "defn_zh": "放棄/克制"
+      },
+      {
+        "word": "abolish",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to formally put an end to a system, practice, or institution:",
+        "defn_zh": "廢除"
+      },
+      {
+        "word": "abort",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to give up on a half-finished project or effort:",
+        "defn_zh": "中止/放棄"
+      },
+      {
+        "word": "abrade",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to scrape or wear away by friction:",
+        "defn_zh": "磨損;擦傷"
+      },
+      {
+        "word": "abscond",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to sneak away and hide:",
+        "defn_zh": "潛逃/逃匿"
+      }
+    ],
+    "adj.": [
+      {
+        "word": "abortive",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "fruitless, failing:",
+        "defn_zh": "失敗的/夭折的"
+      },
+      {
+        "word": "abstemious",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "moderate in eating or drinking:",
+        "defn_zh": "飲食有節制的"
+      },
+      {
+        "word": "abhorrent",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "detestable, despised:",
+        "defn_zh": "令人厭惡的"
+      },
+      {
+        "word": "absurd",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "ridiculous:",
+        "defn_zh": "荒謬的"
+      },
+      {
+        "word": "aberrant",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "deviating from what is normal or expected:",
+        "defn_zh": "異常的;脫軌的"
+      },
+      {
+        "word": "abject",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "wretched, pitiful:",
+        "defn_zh": "卑賤的/淒慘的"
+      },
+      {
+        "word": "abominable",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "causing moral revulsion; extremely unpleasant:",
+        "defn_zh": "可憎的;惡劣的"
+      },
+      {
+        "word": "abounding",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "existing in large numbers or amounts:",
+        "defn_zh": "大量存在的;豐富的"
+      },
+      {
+        "word": "abrasive",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "showing little concern for others; harsh:",
+        "defn_zh": "粗暴的/刺耳的"
+      },
+      {
+        "word": "abrupt",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "sudden or unexpected; brief and curt in manner:",
+        "defn_zh": "突然的/唐突的"
+      },
+      {
+        "word": "abstract",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "existing purely in the mind; not representing actual reality:",
+        "defn_zh": "抽象的"
+      },
+      {
+        "word": "abstruse",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "hard to comprehend:",
+        "defn_zh": "深奧難懂的"
+      }
+    ],
+    "n.": [
+      {
+        "word": "aversion",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "strong dislike, opposition:",
+        "defn_zh": "厭惡/反感"
+      },
+      {
+        "word": "aberration",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "something that differs from the norm:",
+        "defn_zh": "異常/脫軌"
+      },
+      {
+        "word": "abjection",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a state of complete misery, hopelessness, or degradation:",
+        "defn_zh": "卑賤;悲慘狀態"
+      },
+      {
+        "word": "abjuration",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the solemn renunciation of a belief, cause, or claim:",
+        "defn_zh": "公開放棄;誓絕"
+      },
+      {
+        "word": "ablution",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the act of washing oneself, especially as part of a religious ritual:",
+        "defn_zh": "沐浴;淨身儀式"
+      },
+      {
+        "word": "abnegation",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "denial of comfort to oneself:",
+        "defn_zh": "自我克制/放棄"
+      },
+      {
+        "word": "abomination",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "something that causes disgust or hatred:",
+        "defn_zh": "可憎之事;令人厭惡的東西"
+      },
+      {
+        "word": "abridgement",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a shortened version of a book or other written work:",
+        "defn_zh": "節略本;縮減版"
+      },
+      {
+        "word": "absolution",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "freedom from blame, guilt, sin:",
+        "defn_zh": "赦免/免罪"
+      },
+      {
+        "word": "abstemiousness",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "moderation or self-restraint, especially in eating and drinking:",
+        "defn_zh": "節制;克己"
+      },
+      {
+        "word": "abstinence",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the practice of restraining oneself from something enjoyable, especially food, alcohol, or sex:",
+        "defn_zh": "節制;戒絕"
+      },
+      {
+        "word": "avocation",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a hobby or minor occupation apart from one's main career:",
+        "defn_zh": "副業;業餘愛好"
+      }
+    ],
+    "adv.": [
+      {
+        "word": "accordingly",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in a manner that fits the circumstances; consequently:",
+        "defn_zh": "相應地;因此"
+      },
+      {
+        "word": "inadvertently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "unintentionally or by accident:",
+        "defn_zh": "無意間/不小心地"
+      },
+      {
+        "word": "consequently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "as a result; therefore:",
+        "defn_zh": "因此;結果"
+      },
+      {
+        "word": "contemptuously",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "without respect; in a disdainful manner:",
+        "defn_zh": "輕蔑地"
+      },
+      {
+        "word": "involuntarily",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "done without conscious control:",
+        "defn_zh": "不由自主地"
+      },
+      {
+        "word": "cordially",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in a warm or friendly manner:",
+        "defn_zh": "誠摯地/友好地"
+      },
+      {
+        "word": "ipso facto",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "by that very fact or act:",
+        "defn_zh": "事實上;因此"
+      },
+      {
+        "word": "en passant",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in passing; incidentally:",
+        "defn_zh": "順帶一提地;偶然地"
+      },
+      {
+        "word": "regardless",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "despite the prevailing circumstances; without being deterred:",
+        "defn_zh": "不管怎樣;儘管如此"
+      },
+      {
+        "word": "subsequently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "afterward; following in time or order:",
+        "defn_zh": "隨後;其後"
+      },
+      {
+        "word": "aside",
+        "pos": "adv./n.",
+        "pos_key": "adv.",
+        "defn_en": "to or on one side; a remark not meant to be heard by everyone:",
+        "defn_zh": "在旁邊;旁白"
+      },
+      {
+        "word": "vice versa",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "with the order or meaning reversed; conversely:",
+        "defn_zh": "反之亦然"
+      }
+    ],
+    "other": [
+      {
+        "word": "（此批單字中，暫無符合此字根/字首的單字）",
+        "pos": "",
+        "pos_key": "other",
+        "defn_en": "",
+        "defn_zh": ""
+      }
+    ],
+    "prep./adv.": [
+      {
+        "word": "besides",
+        "pos": "prep./adv.",
+        "pos_key": "prep./adv.",
+        "defn_en": "in addition to; furthermore:",
+        "defn_zh": "除...之外;此外"
+      }
+    ],
+    "phrasalv.": [
+      {
+        "word": "egg on",
+        "pos": "phrasal v.",
+        "pos_key": "phrasalv.",
+        "defn_en": "to encourage someone to do something, often risky:",
+        "defn_zh": "慫恿;鼓動"
+      }
+    ],
+    "abbr.": [
+      {
+        "word": "etc.",
+        "pos": "abbr.",
+        "pos_key": "abbr.",
+        "defn_en": "and other similar things (abbreviation of et cetera):",
+        "defn_zh": "等等(et cetera的縮寫)"
+      }
+    ],
+    "interj.": [
+      {
+        "word": "fiddledeedee",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "an exclamation expressing dismissal of something as nonsense:",
+        "defn_zh": "廢話!(表示不屑一顧)"
+      },
+      {
+        "word": "gesundheit",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "an expression said to someone who has just sneezed:",
+        "defn_zh": "保重(打噴嚏後的祝福語)"
+      }
+    ],
+    "prep.": [
+      {
+        "word": "via",
+        "pos": "prep.",
+        "pos_key": "prep.",
+        "defn_en": "by way of; passing through:",
+        "defn_zh": "經由;透過"
+      }
+    ]
+  }
+}
