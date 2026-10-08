@@ -4,7 +4,7 @@
     "total_batches": 236,
     "part1_part2_batches": 159,
     "unclassified_batches": 77,
-    "generated_batches": 129
+    "generated_batches": 130
   },
   "batches": [
     {
@@ -1304,7 +1304,7 @@
       "name": "scrib；scrip",
       "subtitle": "書寫",
       "count": 9,
-      "generated": false,
+      "generated": true,
       "search_terms": "ascribe circumscribe circumscribed postscript prescribe prescription proscribe scribble scripture"
     },
     {
