@@ -4,7 +4,7 @@
     "total_batches": 236,
     "part1_part2_batches": 159,
     "unclassified_batches": 77,
-    "generated_batches": 98
+    "generated_batches": 99
   },
   "batches": [
     {
@@ -994,7 +994,7 @@
       "name": "cide",
       "subtitle": "殺害",
       "count": 25,
-      "generated": false,
+      "generated": true,
       "search_terms": "incisive genocide concise bactericide caesura circumcision conciseness deciding decisive fratricide fungicide herbicide homicide infanticide insecticide matricide menticide parricide patricide pesticide regicide sororicide tyrannicide uxoricide vermicide"
     },
     {
