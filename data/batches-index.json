@@ -4,7 +4,7 @@
     "total_batches": 236,
     "part1_part2_batches": 159,
     "unclassified_batches": 77,
-    "generated_batches": 121
+    "generated_batches": 122
   },
   "batches": [
     {
@@ -1224,7 +1224,7 @@
       "name": "port",
       "subtitle": "運送；攜帶",
       "count": 16,
-      "generated": false,
+      "generated": true,
       "search_terms": "importune opportunist comport comportment deport deportment export import portable portcullis portfolio portly portmanteau rapport rapporteur report"
     },
     {

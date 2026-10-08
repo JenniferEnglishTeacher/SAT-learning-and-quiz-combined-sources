@@ -1,0 +1,802 @@
+{
+  "id": "p2-36-port",
+  "part": "part2",
+  "part_label": "Part 2 字根篇 (Roots)",
+  "name": "port",
+  "subtitle": "運送；攜帶",
+  "count": 16,
+  "words": [
+    {
+      "word": "importune",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to ask urgently:implore=solicit",
+      "defn_zh": "強求/胡纏",
+      "root_note": "in- (not) + portus (port)",
+      "sentences": [
+        {
+          "en": "The beggar continued to ______ passersby for spare change.",
+          "zh": "這名乞丐持續向路人強求零錢。"
+        },
+        {
+          "en": "She would ______ her parents for a new phone every single day.",
+          "zh": "她每天都纏著父母要一支新手機。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "36",
+        "spelling": "port",
+        "meaning": "運送；攜帶"
+      }
+    },
+    {
+      "word": "opportunist",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a person who seeks self-gain, even at the expense of others, without regard to values or moral principles",
+      "defn_zh": "投機者",
+      "root_note": "ob- (toward) + portus (port)",
+      "sentences": [
+        {
+          "en": "The politician was criticized as an ______ who changed his views to win votes.",
+          "zh": "這位政治人物被批評是個為了贏得選票而不斷改變立場的投機者。"
+        },
+        {
+          "en": "He was seen as an ______, taking credit for work he hadn't done.",
+          "zh": "他被視為一個投機者,把別人做的工作攬功在自己身上。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "36",
+        "spelling": "port",
+        "meaning": "運送；攜帶"
+      }
+    },
+    {
+      "word": "comport",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to conduct oneself in a particular way; to be in agreement with:",
+      "defn_zh": "舉止合宜;與...一致",
+      "root_note": "com- (together) + portare (to carry), from Latin",
+      "sentences": [
+        {
+          "en": "He was taught to ______ himself with dignity, even under pressure.",
+          "zh": "他從小被教導,即使在壓力之下也要保持應有的體面舉止。"
+        },
+        {
+          "en": "Her actions did not ______ with the values she claimed to hold.",
+          "zh": "她的行為與她自稱秉持的價值觀並不一致。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "36",
+        "spelling": "port",
+        "meaning": "運送；攜帶"
+      }
+    },
+    {
+      "word": "comportment",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "behavior or conduct, especially in a formal setting:",
+      "defn_zh": "舉止;風度",
+      "root_note": "com- (together) + portare (to carry), from Latin",
+      "sentences": [
+        {
+          "en": "The academy places heavy emphasis on proper ______ as well as academics.",
+          "zh": "這所學院除了學業之外,也十分重視得體的舉止。"
+        },
+        {
+          "en": "Her calm ______ during the crisis reassured the entire staff.",
+          "zh": "她在危機中沉著的舉止,讓全體員工都感到安心。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "36",
+        "spelling": "port",
+        "meaning": "運送；攜帶"
+      }
+    },
+    {
+      "word": "deport",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to expel a foreigner from a country:",
+      "defn_zh": "驅逐出境",
+      "root_note": "de- (away) + portare (to carry), from Latin",
+      "sentences": [
+        {
+          "en": "The government moved to ______ the undocumented workers.",
+          "zh": "政府採取行動要驅逐這些無合法文件的工人出境。"
+        },
+        {
+          "en": "He was ______ ed after his visa expired.",
+          "zh": "他的簽證過期後就被驅逐出境了。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "36",
+        "spelling": "port",
+        "meaning": "運送；攜帶"
+      }
+    },
+    {
+      "word": "deportment",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a person's manner of behaving; conduct:",
+      "defn_zh": "行為舉止;禮儀",
+      "root_note": "de- (away) + portare (to carry), from Latin",
+      "sentences": [
+        {
+          "en": "The academy taught etiquette and proper ______ .",
+          "zh": "這所學院教授禮儀與正確的行為舉止。"
+        },
+        {
+          "en": "Her calm ______ impressed the interview panel.",
+          "zh": "她沉穩的舉止讓面試官印象深刻。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "36",
+        "spelling": "port",
+        "meaning": "運送；攜帶"
+      }
+    },
+    {
+      "word": "export",
+      "pos": "v./n.",
+      "pos_key": "v.",
+      "defn_en": "to send goods to another country for sale:",
+      "defn_zh": "出口;輸出",
+      "root_note": "ex- (out) + portare (to carry), from Latin",
+      "sentences": [
+        {
+          "en": "The country began to ______ rice to neighboring nations.",
+          "zh": "這個國家開始向鄰國出口稻米。"
+        },
+        {
+          "en": "Coffee remains the region's most valuable ______ .",
+          "zh": "咖啡仍是該地區最有價值的出口商品。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "36",
+        "spelling": "port",
+        "meaning": "運送；攜帶"
+      }
+    },
+    {
+      "word": "import",
+      "pos": "v./n.",
+      "pos_key": "v.",
+      "defn_en": "to bring in goods from abroad; significance:",
+      "defn_zh": "進口;重要性",
+      "root_note": "in- (in) + portare (to carry), from Latin",
+      "sentences": [
+        {
+          "en": "The country began to ______ machinery from overseas.",
+          "zh": "這個國家開始從海外進口機械。"
+        },
+        {
+          "en": "The discovery holds great ______ for future medical research.",
+          "zh": "這項發現對未來的醫學研究具有重大的意義。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "36",
+        "spelling": "port",
+        "meaning": "運送；攜帶"
+      }
+    },
+    {
+      "word": "portable",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "able to be easily carried or moved:",
+      "defn_zh": "便攜的;可攜式的",
+      "root_note": "portare (to carry), from Latin",
+      "sentences": [
+        {
+          "en": "She bought a lightweight, ______ speaker for outdoor gatherings.",
+          "zh": "她買了一個輕巧便攜的音響,用於戶外聚會。"
+        },
+        {
+          "en": "The new laptop was praised for being sleek and highly ______ .",
+          "zh": "這台新筆電因外型輕薄且極為便攜而備受讚譽。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "36",
+        "spelling": "port",
+        "meaning": "運送；攜帶"
+      }
+    },
+    {
+      "word": "portcullis",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a heavy grated gate lowered to block a castle's entrance:",
+      "defn_zh": "閘門;吊閘",
+      "root_note": "porte coleice (sliding door), from Old French",
+      "sentences": [
+        {
+          "en": "Guards quickly lowered the ______ as enemy forces approached.",
+          "zh": "隨著敵軍逼近,守衛迅速放下了這座吊閘。"
+        },
+        {
+          "en": "Tourists admired the castle's ancient iron ______ .",
+          "zh": "遊客們讚嘆這座城堡古老的鐵製吊閘。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "36",
+        "spelling": "port",
+        "meaning": "運送；攜帶"
+      }
+    },
+    {
+      "word": "portfolio",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a case for carrying documents; a range of investments or work samples:",
+      "defn_zh": "文件夾;投資組合;作品集",
+      "root_note": "portare (to carry) + foglio (leaf, sheet), from Italian",
+      "sentences": [
+        {
+          "en": "The photographer brought her ______ to show prospective clients.",
+          "zh": "這位攝影師帶著她的作品集向潛在客戶展示。"
+        },
+        {
+          "en": "Financial advisors recommend diversifying an investment ______ .",
+          "zh": "理財顧問建議將投資組合多元化。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "36",
+        "spelling": "port",
+        "meaning": "運送；攜帶"
+      }
+    },
+    {
+      "word": "portly",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "somewhat overweight, especially in a dignified way:",
+      "defn_zh": "肥胖的;體態豐腴的",
+      "root_note": "port (bearing, demeanor), from Latin portare (to carry)",
+      "sentences": [
+        {
+          "en": "The ______ gentleman greeted his guests with a warm smile.",
+          "zh": "這位體態豐腴的紳士以溫暖的笑容迎接他的賓客。"
+        },
+        {
+          "en": "Her grandfather grew ______ in his later years.",
+          "zh": "她的祖父在晚年變得較為發福。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "36",
+        "spelling": "port",
+        "meaning": "運送；攜帶"
+      }
+    },
+    {
+      "word": "portmanteau",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a word blending the sounds and meanings of two others; a large traveling case:",
+      "defn_zh": "混成詞;大型行李箱",
+      "root_note": "porter (to carry) + manteau (cloak), from French",
+      "sentences": [
+        {
+          "en": "'Brunch' is a well-known ______ combining breakfast and lunch.",
+          "zh": "「brunch(早午餐)」是一個廣為人知的混成詞,融合了早餐與午餐。"
+        },
+        {
+          "en": "He packed his old leather ______ for the long voyage.",
+          "zh": "他為這趟漫長的旅程打包了他那個老舊的皮製行李箱。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "36",
+        "spelling": "port",
+        "meaning": "運送；攜帶"
+      }
+    },
+    {
+      "word": "rapport",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "mutual understanding and harmony:",
+      "defn_zh": "融洽關係/默契",
+      "root_note": "re- (back) + portare (to carry, Latin)",
+      "sentences": [
+        {
+          "en": "The therapist quickly built ______ with her nervous new client.",
+          "zh": "這位治療師很快就和她緊張的新個案建立起融洽的關係。"
+        },
+        {
+          "en": "Their instant ______ made the interview feel more like a friendly conversation.",
+          "zh": "他們之間立刻建立起的默契,讓這場訪談更像是一場友善的交談。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "36",
+        "spelling": "port",
+        "meaning": "運送；攜帶"
+      }
+    },
+    {
+      "word": "rapporteur",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a person appointed to report on the proceedings of a meeting or committee:",
+      "defn_zh": "報告員;調查專員",
+      "root_note": "rapporter (to bring back), from French, from Latin re- (back) + portare (to carry)",
+      "sentences": [
+        {
+          "en": "The United Nations appointed a special ______ to investigate the crisis.",
+          "zh": "聯合國指派了一位特別報告員來調查這場危機。"
+        },
+        {
+          "en": "Her role as ______ required summarizing every committee session.",
+          "zh": "她擔任報告員的角色需要總結每一場委員會會議。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "36",
+        "spelling": "port",
+        "meaning": "運送；攜帶"
+      }
+    },
+    {
+      "word": "report",
+      "pos": "n./v.",
+      "pos_key": "n.",
+      "defn_en": "a spoken or written account of an event; to give an account of something:",
+      "defn_zh": "報告;報導",
+      "root_note": "reportare (to carry back), from Latin re- (back) + portare (to carry)",
+      "sentences": [
+        {
+          "en": "The committee released a detailed ______ on the incident.",
+          "zh": "這個委員會發布了一份關於這起事件的詳盡報告。"
+        },
+        {
+          "en": "Journalists rushed to ______ on the breaking news.",
+          "zh": "記者們急忙報導這則突發新聞。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "36",
+        "spelling": "port",
+        "meaning": "運送；攜帶"
+      }
+    }
+  ],
+  "family_options": {},
+  "fallback_options": {
+    "v.": [
+      {
+        "word": "abound",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to exist in great numbers:",
+        "defn_zh": "充滿"
+      },
+      {
+        "word": "abrogate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to deprive of legal force, to nullify:=abolish",
+        "defn_zh": "廢除/取消"
+      },
+      {
+        "word": "abjure",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to renounce, abstain from:",
+        "defn_zh": "發誓放棄/棄絕"
+      },
+      {
+        "word": "abbreviate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to shorten a word or phrase:",
+        "defn_zh": "縮寫;縮短"
+      },
+      {
+        "word": "abdicate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to give up a position, usually one of leadership:",
+        "defn_zh": "退位/放棄(職位)"
+      },
+      {
+        "word": "abduct",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to kidnap, take by force:",
+        "defn_zh": "綁架/劫持"
+      },
+      {
+        "word": "abhor",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to regard with disgust and hatred:",
+        "defn_zh": "憎惡/厭惡"
+      },
+      {
+        "word": "abnegate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to deny or renounce:",
+        "defn_zh": "放棄/克制"
+      },
+      {
+        "word": "abolish",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to formally put an end to a system, practice, or institution:",
+        "defn_zh": "廢除"
+      },
+      {
+        "word": "abort",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to give up on a half-finished project or effort:",
+        "defn_zh": "中止/放棄"
+      },
+      {
+        "word": "abrade",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to scrape or wear away by friction:",
+        "defn_zh": "磨損;擦傷"
+      },
+      {
+        "word": "abscond",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to sneak away and hide:",
+        "defn_zh": "潛逃/逃匿"
+      }
+    ],
+    "adj.": [
+      {
+        "word": "abortive",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "fruitless, failing:",
+        "defn_zh": "失敗的/夭折的"
+      },
+      {
+        "word": "abstemious",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "moderate in eating or drinking:",
+        "defn_zh": "飲食有節制的"
+      },
+      {
+        "word": "abhorrent",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "detestable, despised:",
+        "defn_zh": "令人厭惡的"
+      },
+      {
+        "word": "absurd",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "ridiculous:",
+        "defn_zh": "荒謬的"
+      },
+      {
+        "word": "aberrant",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "deviating from what is normal or expected:",
+        "defn_zh": "異常的;脫軌的"
+      },
+      {
+        "word": "abject",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "wretched, pitiful:",
+        "defn_zh": "卑賤的/淒慘的"
+      },
+      {
+        "word": "abominable",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "causing moral revulsion; extremely unpleasant:",
+        "defn_zh": "可憎的;惡劣的"
+      },
+      {
+        "word": "abounding",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "existing in large numbers or amounts:",
+        "defn_zh": "大量存在的;豐富的"
+      },
+      {
+        "word": "abrasive",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "showing little concern for others; harsh:",
+        "defn_zh": "粗暴的/刺耳的"
+      },
+      {
+        "word": "abrupt",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "sudden or unexpected; brief and curt in manner:",
+        "defn_zh": "突然的/唐突的"
+      },
+      {
+        "word": "abstract",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "existing purely in the mind; not representing actual reality:",
+        "defn_zh": "抽象的"
+      },
+      {
+        "word": "abstruse",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "hard to comprehend:",
+        "defn_zh": "深奧難懂的"
+      }
+    ],
+    "n.": [
+      {
+        "word": "aversion",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "strong dislike, opposition:",
+        "defn_zh": "厭惡/反感"
+      },
+      {
+        "word": "aberration",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "something that differs from the norm:",
+        "defn_zh": "異常/脫軌"
+      },
+      {
+        "word": "abjection",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a state of complete misery, hopelessness, or degradation:",
+        "defn_zh": "卑賤;悲慘狀態"
+      },
+      {
+        "word": "abjuration",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the solemn renunciation of a belief, cause, or claim:",
+        "defn_zh": "公開放棄;誓絕"
+      },
+      {
+        "word": "ablution",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the act of washing oneself, especially as part of a religious ritual:",
+        "defn_zh": "沐浴;淨身儀式"
+      },
+      {
+        "word": "abnegation",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "denial of comfort to oneself:",
+        "defn_zh": "自我克制/放棄"
+      },
+      {
+        "word": "abomination",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "something that causes disgust or hatred:",
+        "defn_zh": "可憎之事;令人厭惡的東西"
+      },
+      {
+        "word": "abridgement",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a shortened version of a book or other written work:",
+        "defn_zh": "節略本;縮減版"
+      },
+      {
+        "word": "absolution",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "freedom from blame, guilt, sin:",
+        "defn_zh": "赦免/免罪"
+      },
+      {
+        "word": "abstemiousness",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "moderation or self-restraint, especially in eating and drinking:",
+        "defn_zh": "節制;克己"
+      },
+      {
+        "word": "abstinence",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the practice of restraining oneself from something enjoyable, especially food, alcohol, or sex:",
+        "defn_zh": "節制;戒絕"
+      },
+      {
+        "word": "avocation",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a hobby or minor occupation apart from one's main career:",
+        "defn_zh": "副業;業餘愛好"
+      }
+    ],
+    "adv.": [
+      {
+        "word": "accordingly",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in a manner that fits the circumstances; consequently:",
+        "defn_zh": "相應地;因此"
+      },
+      {
+        "word": "inadvertently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "unintentionally or by accident:",
+        "defn_zh": "無意間/不小心地"
+      },
+      {
+        "word": "consequently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "as a result; therefore:",
+        "defn_zh": "因此;結果"
+      },
+      {
+        "word": "contemptuously",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "without respect; in a disdainful manner:",
+        "defn_zh": "輕蔑地"
+      },
+      {
+        "word": "involuntarily",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "done without conscious control:",
+        "defn_zh": "不由自主地"
+      },
+      {
+        "word": "cordially",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in a warm or friendly manner:",
+        "defn_zh": "誠摯地/友好地"
+      },
+      {
+        "word": "ipso facto",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "by that very fact or act:",
+        "defn_zh": "事實上;因此"
+      },
+      {
+        "word": "en passant",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in passing; incidentally:",
+        "defn_zh": "順帶一提地;偶然地"
+      },
+      {
+        "word": "regardless",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "despite the prevailing circumstances; without being deterred:",
+        "defn_zh": "不管怎樣;儘管如此"
+      },
+      {
+        "word": "subsequently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "afterward; following in time or order:",
+        "defn_zh": "隨後;其後"
+      },
+      {
+        "word": "aside",
+        "pos": "adv./n.",
+        "pos_key": "adv.",
+        "defn_en": "to or on one side; a remark not meant to be heard by everyone:",
+        "defn_zh": "在旁邊;旁白"
+      },
+      {
+        "word": "vice versa",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "with the order or meaning reversed; conversely:",
+        "defn_zh": "反之亦然"
+      }
+    ],
+    "other": [
+      {
+        "word": "（此批單字中，暫無符合此字根/字首的單字）",
+        "pos": "",
+        "pos_key": "other",
+        "defn_en": "",
+        "defn_zh": ""
+      }
+    ],
+    "prep./adv.": [
+      {
+        "word": "besides",
+        "pos": "prep./adv.",
+        "pos_key": "prep./adv.",
+        "defn_en": "in addition to; furthermore:",
+        "defn_zh": "除...之外;此外"
+      }
+    ],
+    "phrasalv.": [
+      {
+        "word": "egg on",
+        "pos": "phrasal v.",
+        "pos_key": "phrasalv.",
+        "defn_en": "to encourage someone to do something, often risky:",
+        "defn_zh": "慫恿;鼓動"
+      }
+    ],
+    "abbr.": [
+      {
+        "word": "etc.",
+        "pos": "abbr.",
+        "pos_key": "abbr.",
+        "defn_en": "and other similar things (abbreviation of et cetera):",
+        "defn_zh": "等等(et cetera的縮寫)"
+      }
+    ],
+    "interj.": [
+      {
+        "word": "fiddledeedee",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "an exclamation expressing dismissal of something as nonsense:",
+        "defn_zh": "廢話!(表示不屑一顧)"
+      },
+      {
+        "word": "gesundheit",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "an expression said to someone who has just sneezed:",
+        "defn_zh": "保重(打噴嚏後的祝福語)"
+      }
+    ],
+    "prep.": [
+      {
+        "word": "via",
+        "pos": "prep.",
+        "pos_key": "prep.",
+        "defn_en": "by way of; passing through:",
+        "defn_zh": "經由;透過"
+      }
+    ]
+  }
+}
