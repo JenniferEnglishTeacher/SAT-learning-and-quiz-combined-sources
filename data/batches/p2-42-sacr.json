@@ -2,9 +2,9 @@
   "id": "p2-42-sacr",
   "part": "part2",
   "part_label": "Part 2 字根篇 (Roots)",
-  "name": "sacr",
-  "subtitle": "神聖的",
-  "count": 5,
+  "name": "sacr；secr；sanct",
+  "subtitle": "神聖；奉獻；敬畏；褻瀆",
+  "count": 21,
   "words": [
     {
       "word": "consecration",
@@ -34,24 +34,35 @@
       "word": "execrate",
       "pos": "v.",
       "pos_key": "v.",
-      "defn_en": "to feel or express great loathing for:",
-      "defn_zh": "痛恨;咒罵",
-      "root_note": "ex- (out) + sacrare (to make sacred, curse), from Latin",
+      "defn_en": "to express intense hatred for someone or condemn someone as evil or accursed:",
+      "defn_zh": "痛恨；詛咒；強烈譴責",
+      "root_note": "ex- (out or away) + secr or sacr (holy), from Latin execrari (to curse)",
+      "synonyms": [
+        "detest",
+        "abhor",
+        "curse",
+        "denounce"
+      ],
+      "antonyms": [
+        "praise",
+        "bless",
+        "venerate"
+      ],
       "sentences": [
         {
-          "en": "The public began to ______ the corrupt official.",
-          "zh": "民眾開始痛恨這位貪腐的官員。"
+          "en": "Citizens gathered in the square to ______ the dictator's brutal actions and demand his trial.",
+          "zh": "公民聚集在廣場強烈譴責獨裁者的暴行，並要求審判他。"
         },
         {
-          "en": "Historians ______ the atrocities committed during the war.",
-          "zh": "歷史學家痛斥戰爭期間所犯下的暴行。"
+          "en": "Sports fans often ______ referees for controversial late-game decisions.",
+          "zh": "體育迷經常因比賽末段的爭議判決而痛罵裁判。"
         }
       ],
       "category": {
         "part": 2,
         "num": "42",
-        "spelling": "sacr",
-        "meaning": "神聖的"
+        "spelling": "sacr；secr；sanct",
+        "meaning": "神聖；奉獻；敬畏；褻瀆"
       }
     },
     {
@@ -104,26 +115,590 @@
     },
     {
       "word": "sacrifice",
-      "pos": "n./v.",
+      "pos": "n. / v.",
       "pos_key": "n.",
-      "defn_en": "the act of giving up something valued for a higher purpose:",
-      "defn_zh": "犧牲;獻祭",
-      "root_note": "sacrificium (a making sacred), from Latin sacer (sacred) + facere (to make)",
+      "defn_en": "the act of giving up something valuable for another purpose or person; to give it up:",
+      "defn_zh": "犧牲；奉獻；祭品；犧牲掉",
+      "root_note": "sacr (holy) + facere (to make or do)",
+      "synonyms": [
+        "offering",
+        "renunciation",
+        "forfeiture",
+        "surrender"
+      ],
+      "antonyms": [
+        "gain",
+        "preservation",
+        "self-indulgence"
+      ],
       "sentences": [
         {
-          "en": "Her parents made countless ______ s to fund her education.",
-          "zh": "她的父母做出了無數犧牲來資助她的教育。"
+          "en": "Working two night jobs was a huge personal ______, but it paid his daughter's tuition.",
+          "zh": "整夜兼任兩份工作是巨大的個人犧牲，但讓父親能支付女兒的學費。"
         },
         {
-          "en": "Ancient rituals often involved a ______ to appease the gods.",
-          "zh": "古代的儀式經常涉及獻祭以撫慰諸神。"
+          "en": "The general refused to ______ more soldiers in a reckless attack on the fortified bunker.",
+          "zh": "將軍不願在魯莽攻擊堅固碉堡時犧牲更多士兵。"
         }
       ],
       "category": {
         "part": 2,
         "num": "42",
-        "spelling": "sacr",
-        "meaning": "神聖的"
+        "spelling": "sacr；secr；sanct",
+        "meaning": "神聖；奉獻；敬畏；褻瀆"
+      }
+    },
+    {
+      "word": "sacrosanct",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "regarded as too important, sacred, or valuable to be changed, criticized, or violated:",
+      "defn_zh": "神聖不可侵犯的；不可更動的",
+      "root_note": "sacr (holy) + sanct (holy or consecrated)",
+      "synonyms": [
+        "inviolable",
+        "sacred",
+        "untouchable",
+        "revered"
+      ],
+      "antonyms": [
+        "profane",
+        "violable",
+        "ordinary"
+      ],
+      "sentences": [
+        {
+          "en": "The attorney considered the constitutional right to a fair trial completely ______.",
+          "zh": "辯護律師認為，獲得公平審判的憲法權利完全神聖不可侵犯。"
+        },
+        {
+          "en": "Marcus kept the family Sunday dinner ______ and refused to answer business calls during it.",
+          "zh": "馬庫斯將週日家庭晚餐視為不可動搖的傳統，期間拒接任何公務電話。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "42",
+        "spelling": "sacr；secr；sanct",
+        "meaning": "神聖；奉獻；敬畏；褻瀆"
+      }
+    },
+    {
+      "word": "sacrilege",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "an act that violates, damages, or shows disrespect toward something sacred or deeply valued:",
+      "defn_zh": "褻瀆；冒犯聖物；糟蹋珍貴事物",
+      "root_note": "sacr (holy) + legere (to steal or gather)",
+      "synonyms": [
+        "profanation",
+        "blasphemy",
+        "desecration",
+        "violation"
+      ],
+      "antonyms": [
+        "reverence",
+        "veneration",
+        "consecration"
+      ],
+      "sentences": [
+        {
+          "en": "The community condemned the graffiti on the cathedral walls as an act of absolute ______.",
+          "zh": "當地社群譴責在大教堂牆上塗鴉是徹底褻瀆聖物的行為。"
+        },
+        {
+          "en": "To literary purists, replacing Shakespeare's original language with slang was creative ______.",
+          "zh": "對文學純粹主義者而言，用俚語取代莎士比亞原文是一種創作上的糟蹋。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "42",
+        "spelling": "sacr；secr；sanct",
+        "meaning": "神聖；奉獻；敬畏；褻瀆"
+      }
+    },
+    {
+      "word": "consecrate",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to make something sacred formally or to dedicate it completely to a special purpose:",
+      "defn_zh": "使神聖化；奉獻；致力於",
+      "root_note": "con- (thoroughly) + secr or sacr (holy) + -ate (make)",
+      "synonyms": [
+        "sanctify",
+        "dedicate",
+        "bless",
+        "devote"
+      ],
+      "antonyms": [
+        "desecrate",
+        "profane",
+        "defile"
+      ],
+      "sentences": [
+        {
+          "en": "Lincoln said the living could not ______ the battlefield because the fallen soldiers had already made it holy.",
+          "zh": "林肯表示，生者無法使戰場更加神聖，因為陣亡士兵早已以犧牲使其神聖化。"
+        },
+        {
+          "en": "The doctor decided to ______ her career to treating poor patients in remote rural areas.",
+          "zh": "這位醫生決定把整個職業生涯奉獻給偏遠農村的貧困患者。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "42",
+        "spelling": "sacr；secr；sanct",
+        "meaning": "神聖；奉獻；敬畏；褻瀆"
+      }
+    },
+    {
+      "word": "desecrate",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to damage or treat a sacred place or object with violent disrespect:",
+      "defn_zh": "褻瀆；玷污；破壞神聖之物",
+      "root_note": "de- (remove or reverse) + secr or sacr (holy) + -ate (make)",
+      "synonyms": [
+        "profane",
+        "defile",
+        "violate",
+        "pollute"
+      ],
+      "antonyms": [
+        "consecrate",
+        "sanctify",
+        "honor"
+      ],
+      "sentences": [
+        {
+          "en": "Vandals attempted to ______ the national monument built to honor fallen soldiers.",
+          "zh": "破壞者企圖褻瀆為紀念陣亡士兵而建的國家紀念碑。"
+        },
+        {
+          "en": "Activists argued that an oil refinery would permanently ______ the tribe's ancestral lands.",
+          "zh": "環保人士認為，煉油廠會永久玷污部落的祖傳土地。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "42",
+        "spelling": "sacr；secr；sanct",
+        "meaning": "神聖；奉獻；敬畏；褻瀆"
+      }
+    },
+    {
+      "word": "execrable",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "extremely unpleasant, morally repulsive, or of very poor quality:",
+      "defn_zh": "極其惡劣的；可憎的；糟糕透頂的",
+      "root_note": "ex- (out or away) + secr or sacr (holy), through Latin execrari (to curse)",
+      "synonyms": [
+        "abominable",
+        "detestable",
+        "atrocious",
+        "appalling"
+      ],
+      "antonyms": [
+        "excellent",
+        "admirable",
+        "delightful"
+      ],
+      "sentences": [
+        {
+          "en": "Conditions in the refugee camp were ______, with no clean water, sanitation, or adequate medical care.",
+          "zh": "難民營的條件極其惡劣，沒有乾淨用水、衛生設施或足夠醫療照護。"
+        },
+        {
+          "en": "Reviewers called the predictable plot and shallow characters an ______ waste of paper.",
+          "zh": "書評家稱可預測的情節和膚淺角色是糟糕透頂的紙張浪費。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "42",
+        "spelling": "sacr；secr；sanct",
+        "meaning": "神聖；奉獻；敬畏；褻瀆"
+      }
+    },
+    {
+      "word": "sacrament",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a sacred religious ceremony or a visible sign of spiritual grace:",
+      "defn_zh": "聖禮；神聖儀式；聖約",
+      "root_note": "sacr (holy) + -ment (act, instrument, or state)",
+      "synonyms": [
+        "holy rite",
+        "ordinance",
+        "ceremony",
+        "mystery"
+      ],
+      "antonyms": [
+        "profanity",
+        "secular act"
+      ],
+      "sentences": [
+        {
+          "en": "The tribe regards its annual harvest festival as a solemn ______ honoring ancestral spirits.",
+          "zh": "該部落把一年一度的豐收節視為感謝祖靈的莊嚴聖禮。"
+        },
+        {
+          "en": "The community treated marriage not merely as a contract but as a binding spiritual ______.",
+          "zh": "這個社群不只把婚姻視為法律契約，更視為具有約束力的精神聖約。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "42",
+        "spelling": "sacr；secr；sanct",
+        "meaning": "神聖；奉獻；敬畏；褻瀆"
+      }
+    },
+    {
+      "word": "sacerdotal",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "relating to priests, priestly duties, or government controlled by a priesthood:",
+      "defn_zh": "祭司的；僧侶的；祭司統治的",
+      "root_note": "Latin sacerdos (priest), related to sacr (holy)",
+      "synonyms": [
+        "priestly",
+        "clerical",
+        "ecclesiastical",
+        "hieratic"
+      ],
+      "antonyms": [
+        "secular",
+        "lay",
+        "nonclerical"
+      ],
+      "sentences": [
+        {
+          "en": "The museum displayed gold robes and daggers used exclusively for ______ duties by Aztec high priests.",
+          "zh": "博物館展示阿茲特克大祭司專門用於祭司職責的金袍與儀式匕首。"
+        },
+        {
+          "en": "The empire's transition to a rigid ______ society concentrated power in the religious hierarchy.",
+          "zh": "帝國轉變為嚴格的祭司統治社會，使權力集中於宗教階層。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "42",
+        "spelling": "sacr；secr；sanct",
+        "meaning": "神聖；奉獻；敬畏；褻瀆"
+      }
+    },
+    {
+      "word": "sacristy",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a church room where sacred vessels, vestments, and other ceremonial objects are kept:",
+      "defn_zh": "聖器室；祭衣間；教堂聖物室",
+      "root_note": "sacr (holy) + -isty (place associated with)",
+      "synonyms": [
+        "vestry",
+        "church chamber",
+        "vestment room"
+      ],
+      "antonyms": [],
+      "sentences": [
+        {
+          "en": "Before the procession, the archbishop entered the ______ to put on ceremonial vestments.",
+          "zh": "遊行開始前，大主教進入聖器室穿上儀式禮服。"
+        },
+        {
+          "en": "Thieves broke into the monastery's ______ and stole manuscripts decorated with gold leaf.",
+          "zh": "小偷闖入修道院聖物室，偷走以金箔裝飾的古老手稿。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "42",
+        "spelling": "sacr；secr；sanct",
+        "meaning": "神聖；奉獻；敬畏；褻瀆"
+      }
+    },
+    {
+      "word": "sacrate",
+      "pos": "adj. / v.",
+      "pos_key": "adj.",
+      "defn_en": "consecrated or made sacred; to consecrate something, especially in archaic usage:",
+      "defn_zh": "神聖的；經祝聖的；使神聖化（古語）",
+      "root_note": "sacr (holy) + -ate (made or cause to become)",
+      "synonyms": [
+        "consecrated",
+        "hallowed",
+        "sanctified",
+        "holy"
+      ],
+      "antonyms": [
+        "profane",
+        "desecrated",
+        "secular"
+      ],
+      "sentences": [
+        {
+          "en": "The poet described a ______ grove hidden deep in the forest and untouched by human corruption.",
+          "zh": "詩人描寫一片隱藏在森林深處、不受人類污染的神聖樹叢。"
+        },
+        {
+          "en": "Scholars investigated the ______ status of relics supposedly blessed by early church founders.",
+          "zh": "學者研究據稱由早期教會創始者祝福之文物的神聖地位。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "42",
+        "spelling": "sacr；secr；sanct",
+        "meaning": "神聖；奉獻；敬畏；褻瀆"
+      }
+    },
+    {
+      "word": "sacrificial",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "relating to a sacrifice or deliberately given up so that something else can be saved or achieved:",
+      "defn_zh": "祭祀的；犧牲的；作為犧牲品的",
+      "root_note": "sacr (holy) + fac (make) + -ial (relating to)",
+      "synonyms": [
+        "offertory",
+        "self-denying",
+        "expendable",
+        "atoning"
+      ],
+      "antonyms": [
+        "self-preserving",
+        "protected"
+      ],
+      "sentences": [
+        {
+          "en": "Archaeologists uncovered a limestone altar that served as the tribe's primary ______ site.",
+          "zh": "考古學家發現一座石灰岩祭壇，是該部落主要的祭祀場所。"
+        },
+        {
+          "en": "The executive offered his department as a ______ pawn so the broader company could survive.",
+          "zh": "主管把自己的部門當成犧牲的棋子，以挽救整家公司。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "42",
+        "spelling": "sacr；secr；sanct",
+        "meaning": "神聖；奉獻；敬畏；褻瀆"
+      }
+    },
+    {
+      "word": "venerate",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to regard a person or thing with very deep respect and admiration:",
+      "defn_zh": "崇敬；敬仰；尊奉",
+      "root_note": "Latin venerari (to worship or regard with reverence)",
+      "synonyms": [
+        "revere",
+        "honor",
+        "worship",
+        "esteem"
+      ],
+      "antonyms": [
+        "despise",
+        "scorn",
+        "disrespect"
+      ],
+      "sentences": [
+        {
+          "en": "Medical students ______ the retired surgeon for his decades of pioneering brain research.",
+          "zh": "醫學生因這位退休外科醫師數十年的開創性腦部研究而深深敬仰他。"
+        },
+        {
+          "en": "Many citizens ______ the reformer as a symbol of courage and moral integrity.",
+          "zh": "許多民眾敬仰這位改革者，視他為勇氣與道德正直的象徵。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "42",
+        "spelling": "sacr；secr；sanct",
+        "meaning": "神聖；奉獻；敬畏；褻瀆"
+      }
+    },
+    {
+      "word": "profane",
+      "pos": "adj. / v.",
+      "pos_key": "adj.",
+      "defn_en": "not sacred or religious, or showing disrespect toward sacred things; to treat them disrespectfully:",
+      "defn_zh": "世俗的；非宗教的；褻瀆的；褻瀆",
+      "root_note": "pro- (before or outside) + fanum (temple); literally, outside the temple",
+      "synonyms": [
+        "secular",
+        "irreverent",
+        "unholy",
+        "worldly"
+      ],
+      "antonyms": [
+        "sacred",
+        "holy",
+        "reverent"
+      ],
+      "sentences": [
+        {
+          "en": "The museum displays both sacred artifacts and ______ objects from ordinary ancient life.",
+          "zh": "博物館同時展示神聖文物與記錄古人日常生活的世俗物品。"
+        },
+        {
+          "en": "The novel contrasts the monk's spiritual devotion with the ______ ambitions of the royal court.",
+          "zh": "小說將僧侶的精神奉獻與王室世俗野心形成對比。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "42",
+        "spelling": "sacr；secr；sanct",
+        "meaning": "神聖；奉獻；敬畏；褻瀆"
+      }
+    },
+    {
+      "word": "inviolable",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "never to be broken, violated, dishonored, or taken away:",
+      "defn_zh": "不可侵犯的；不可違背的；神聖不可動搖的",
+      "root_note": "in- (not) + violare (to injure or violate) + -able (capable of)",
+      "synonyms": [
+        "sacrosanct",
+        "untouchable",
+        "absolute",
+        "secure"
+      ],
+      "antonyms": [
+        "violable",
+        "vulnerable",
+        "revocable"
+      ],
+      "sentences": [
+        {
+          "en": "Human-rights groups argue that personal privacy should be an ______ liberty.",
+          "zh": "人權組織主張，個人隱私應是一項不可侵犯的自由。"
+        },
+        {
+          "en": "The treaty declared the nation's borders ______ and guaranteed protection against invasion.",
+          "zh": "條約宣告國界不可侵犯，並保障其免遭入侵。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "42",
+        "spelling": "sacr；secr；sanct",
+        "meaning": "神聖；奉獻；敬畏；褻瀆"
+      }
+    },
+    {
+      "word": "blasphemy",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "speech or behavior that shows great disrespect toward God, religion, or something considered sacred:",
+      "defn_zh": "褻瀆神明；瀆神言論；大不敬",
+      "root_note": "Greek blasphemia (impious speech, slander, or speaking ill)",
+      "synonyms": [
+        "sacrilege",
+        "profanity",
+        "irreverence",
+        "impiety"
+      ],
+      "antonyms": [
+        "worship",
+        "reverence",
+        "piety"
+      ],
+      "sentences": [
+        {
+          "en": "The medieval authorities prosecuted the astronomer's theory as ______ against established doctrine.",
+          "zh": "中世紀當局把天文學家的理論視為違反既定教義的瀆神言論而起訴。"
+        },
+        {
+          "en": "The playwright was accused of ______ after satirizing figures whom the community considered sacred.",
+          "zh": "劇作家諷刺社群視為神聖的人物後，被指控褻瀆神明。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "42",
+        "spelling": "sacr；secr；sanct",
+        "meaning": "神聖；奉獻；敬畏；褻瀆"
+      }
+    },
+    {
+      "word": "sanctimonious",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "making a hypocritical show of being morally superior or more religious than others:",
+      "defn_zh": "道貌岸然的；假裝虔誠的；自命清高的",
+      "root_note": "Latin sanctus (holy), with a later negative sense of pretended holiness",
+      "synonyms": [
+        "self-righteous",
+        "hypocritical",
+        "pious",
+        "smug"
+      ],
+      "antonyms": [
+        "sincere",
+        "humble",
+        "unpretentious"
+      ],
+      "sentences": [
+        {
+          "en": "The politician's ______ speeches disgusted voters after reporters exposed his corruption.",
+          "zh": "記者揭露政治人物的貪腐後，他那些道貌岸然的演說令選民厭惡。"
+        },
+        {
+          "en": "Her ______ lecture about honesty sounded hollow because she had lied on her own application.",
+          "zh": "她自己曾在申請資料中說謊，因此那場關於誠實的自命清高演講顯得空洞。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "42",
+        "spelling": "sacr；secr；sanct",
+        "meaning": "神聖；奉獻；敬畏；褻瀆"
+      }
+    },
+    {
+      "word": "revere",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to feel profound respect, admiration, and sometimes awe for someone or something:",
+      "defn_zh": "敬畏；崇敬；推崇",
+      "root_note": "re- (intensive) + Latin vereri (to stand in awe of or fear)",
+      "synonyms": [
+        "venerate",
+        "honor",
+        "admire",
+        "worship"
+      ],
+      "antonyms": [
+        "despise",
+        "disdain",
+        "scorn"
+      ],
+      "sentences": [
+        {
+          "en": "Environmentalists ______ John Muir for helping persuade lawmakers to establish Yosemite National Park.",
+          "zh": "環保人士推崇約翰・繆爾，因為他協助說服立法者建立優勝美地國家公園。"
+        },
+        {
+          "en": "The community continues to ______ the teacher whose quiet courage protected generations of students.",
+          "zh": "社群至今仍敬仰那位以沉著勇氣保護數代學生的教師。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "42",
+        "spelling": "sacr；secr；sanct",
+        "meaning": "神聖；奉獻；敬畏；褻瀆"
       }
     }
   ],
