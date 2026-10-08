@@ -4,7 +4,7 @@
     "total_batches": 236,
     "part1_part2_batches": 159,
     "unclassified_batches": 77,
-    "generated_batches": 131
+    "generated_batches": 132
   },
   "batches": [
     {
@@ -1324,7 +1324,7 @@
       "name": "sens；sent",
       "subtitle": "感覺",
       "count": 20,
-      "generated": false,
+      "generated": true,
       "search_terms": "dissent assent consensus consent insensate insensible insentient presentiment scented sensate senseless sensible sensitive sensual sensualist sensuous sentence sententious sentience sentient"
     },
     {

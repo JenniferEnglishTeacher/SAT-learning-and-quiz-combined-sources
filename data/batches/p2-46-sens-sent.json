@@ -1,0 +1,898 @@
+{
+  "id": "p2-46-sens-sent",
+  "part": "part2",
+  "part_label": "Part 2 字根篇 (Roots)",
+  "name": "sens；sent",
+  "subtitle": "感覺",
+  "count": 20,
+  "words": [
+    {
+      "word": "dissent",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to differ, disagree, protest:",
+      "defn_zh": "異議/不同意",
+      "root_note": "dis- (apart) + sentire (to feel)",
+      "sentences": [
+        {
+          "en": "Several board members chose to ______ from the majority decision.",
+          "zh": "有幾位董事會成員選擇對這項多數決議表示異議。"
+        },
+        {
+          "en": "The judge's ______ing opinion argued the ruling was unconstitutional.",
+          "zh": "這位法官持不同意見,主張這項判決違憲。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "46",
+        "spelling": "sens；sent",
+        "meaning": "感覺"
+      }
+    },
+    {
+      "word": "assent",
+      "pos": "n./v.",
+      "pos_key": "n.",
+      "defn_en": "agreement or approval; to agree:",
+      "defn_zh": "同意;贊同",
+      "root_note": "ad- (to) + sentire (to feel)",
+      "sentences": [
+        {
+          "en": "The board gave its ______ to the merger after weeks of debate.",
+          "zh": "經過數週的討論,董事會終於同意了這項合併案。"
+        },
+        {
+          "en": "She reluctantly ______ to her brother's plan.",
+          "zh": "她勉強同意了哥哥的計畫。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "46",
+        "spelling": "sens；sent",
+        "meaning": "感覺"
+      }
+    },
+    {
+      "word": "consensus",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "general agreement:",
+      "defn_zh": "共識",
+      "root_note": "con- (together) + sentire (to feel)",
+      "sentences": [
+        {
+          "en": "The team finally reached a ______ on the decision.",
+          "zh": "團隊終於就這項決定達成了共識。"
+        },
+        {
+          "en": "Scientists have reached a broad ______ on the causes of climate change.",
+          "zh": "科學家們對氣候變遷的成因已達成廣泛的共識。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "46",
+        "spelling": "sens；sent",
+        "meaning": "感覺"
+      }
+    },
+    {
+      "word": "consent",
+      "pos": "n./v.",
+      "pos_key": "n.",
+      "defn_en": "permission for something to happen; to give permission:",
+      "defn_zh": "同意;許可",
+      "root_note": "con- (together) + sentire (to feel), from Latin",
+      "sentences": [
+        {
+          "en": "The surgery could not proceed without the patient's written ______.",
+          "zh": "沒有病人的書面同意,這場手術無法進行。"
+        },
+        {
+          "en": "Her parents finally ______ed to the overseas trip after months of discussion.",
+          "zh": "經過好幾個月的討論,她的父母終於同意了這趟海外旅行。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "46",
+        "spelling": "sens；sent",
+        "meaning": "感覺"
+      }
+    },
+    {
+      "word": "insensate",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "lacking physical sensation; lacking sympathy or feeling:",
+      "defn_zh": "無知覺的;麻木不仁的",
+      "root_note": "in- (not) + sentire (to feel), from Latin",
+      "sentences": [
+        {
+          "en": "The nerve damage left his hand nearly ______ .",
+          "zh": "神經受損讓他的手幾乎失去知覺。"
+        },
+        {
+          "en": "Critics called the policy ______ to the suffering it caused.",
+          "zh": "評論家批評這項政策對其造成的痛苦麻木不仁。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "46",
+        "spelling": "sens；sent",
+        "meaning": "感覺"
+      }
+    },
+    {
+      "word": "insensible",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "unaware or indifferent:",
+      "defn_zh": "無知覺的/麻木的",
+      "root_note": "in- (not) + sentire (to feel)",
+      "sentences": [
+        {
+          "en": "The father was ______ to his children's boredom.",
+          "zh": "這位父親對孩子的無聊感到毫無察覺。"
+        },
+        {
+          "en": "After the anesthesia, the patient became completely ______ to pain.",
+          "zh": "麻醉之後,病人對疼痛完全失去了知覺。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "46",
+        "spelling": "sens；sent",
+        "meaning": "感覺"
+      }
+    },
+    {
+      "word": "insentient",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "lacking the capacity for sensation or consciousness:",
+      "defn_zh": "無知覺的;無意識的",
+      "root_note": "in- (not) + sentire (to feel), from Latin",
+      "sentences": [
+        {
+          "en": "Rocks and minerals are entirely ______ objects.",
+          "zh": "岩石與礦物完全是毫無知覺的物體。"
+        },
+        {
+          "en": "Philosophers debated whether plants are truly ______ .",
+          "zh": "哲學家爭論植物是否真的毫無意識。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "46",
+        "spelling": "sens；sent",
+        "meaning": "感覺"
+      }
+    },
+    {
+      "word": "presentiment",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "an intuitive feeling about the future, especially of something bad:",
+      "defn_zh": "預感(尤指不祥的)",
+      "root_note": "prae- (before) + sentire (to feel), from Latin, via French",
+      "sentences": [
+        {
+          "en": "She had a strange ______ that something was wrong before the phone rang.",
+          "zh": "電話鈴響之前,她有一種奇怪的預感,覺得事情不太對勁。"
+        },
+        {
+          "en": "A dark ______ settled over the household on the eve of the storm.",
+          "zh": "在暴風雨來臨的前夕,一種不祥的預感籠罩了這個家庭。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "46",
+        "spelling": "sens；sent",
+        "meaning": "感覺"
+      }
+    },
+    {
+      "word": "scented",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "having a pleasant smell:",
+      "defn_zh": "有香味的",
+      "root_note": "sentire (to feel, perceive), from Latin, via Old French sentir",
+      "sentences": [
+        {
+          "en": "She lit a lavender-______ candle before bed.",
+          "zh": "她在睡前點了一根薰衣草香味的蠟燭。"
+        },
+        {
+          "en": "The ______ soap left a fresh fragrance on her hands.",
+          "zh": "這款香皂在她的雙手上留下了清新的香氣。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "46",
+        "spelling": "sens；sent",
+        "meaning": "感覺"
+      }
+    },
+    {
+      "word": "sensate",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "perceiving through the senses; endowed with sensation:",
+      "defn_zh": "有感覺的;能感知的",
+      "root_note": "sensatus (having sense), from Latin sentire (to feel)",
+      "sentences": [
+        {
+          "en": "Philosophers debated whether all living things are truly ______ beings.",
+          "zh": "哲學家爭論是否所有生物都真正是有感知能力的存在。"
+        },
+        {
+          "en": "The novel imagines a world where machines become fully ______ .",
+          "zh": "這本小說想像了一個機器變得完全有感知能力的世界。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "46",
+        "spelling": "sens；sent",
+        "meaning": "感覺"
+      }
+    },
+    {
+      "word": "senseless",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "lacking meaning or purpose; unconscious:",
+      "defn_zh": "無意義的;失去知覺的",
+      "root_note": "sense, from Latin sensus + -less",
+      "sentences": [
+        {
+          "en": "The community mourned the ______ violence that claimed so many lives.",
+          "zh": "這個社區為這場奪走無數性命、毫無意義的暴力事件哀悼。"
+        },
+        {
+          "en": "He was knocked ______ by the unexpected blow.",
+          "zh": "這突如其來的一擊讓他失去了知覺。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "46",
+        "spelling": "sens；sent",
+        "meaning": "感覺"
+      }
+    },
+    {
+      "word": "sensible",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "having good judgment; practical:",
+      "defn_zh": "明智的;理智的",
+      "root_note": "sensibilis (perceptible), from Latin sentire (to feel)",
+      "sentences": [
+        {
+          "en": "She made the ______ choice to save part of her bonus.",
+          "zh": "她做出了明智的選擇,把部分獎金存了起來。"
+        },
+        {
+          "en": "Wearing comfortable shoes was a ______ decision for the long hike.",
+          "zh": "穿舒適的鞋子對這趟漫長的健行來說是個明智的決定。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "46",
+        "spelling": "sens；sent",
+        "meaning": "感覺"
+      }
+    },
+    {
+      "word": "sensitive",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "easily affected or aware:",
+      "defn_zh": "敏感的",
+      "root_note": "sentire (to feel)",
+      "sentences": [
+        {
+          "en": "She is very ______ to criticism.",
+          "zh": "她對批評非常敏感。"
+        },
+        {
+          "en": "This is a ______ topic, so please choose your words carefully.",
+          "zh": "這是一個敏感的話題,請務必謹慎用字。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "46",
+        "spelling": "sens；sent",
+        "meaning": "感覺"
+      }
+    },
+    {
+      "word": "sensual",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "involving sensory gratification, usually related to sex:",
+      "defn_zh": "感官的/肉慾的",
+      "root_note": "sentire (to feel, perceive)",
+      "sentences": [
+        {
+          "en": "The film's ______ imagery drew criticism from conservative audiences.",
+          "zh": "這部電影充滿感官意味的畫面,招致保守觀眾的批評。"
+        },
+        {
+          "en": "She described the meal as a ______ experience full of rich flavors and textures.",
+          "zh": "她將這頓餐點形容為一場充滿豐富滋味與口感的感官饗宴。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "46",
+        "spelling": "sens；sent",
+        "meaning": "感覺"
+      }
+    },
+    {
+      "word": "sensualist",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a person who seeks or values sensory pleasure above all else:",
+      "defn_zh": "享樂主義者;耽於感官享受者",
+      "root_note": "sensualis (of the senses), from Latin sensus (feeling)",
+      "sentences": [
+        {
+          "en": "The novel's protagonist is depicted as an unapologetic ______ .",
+          "zh": "這本小說的主角被刻畫成一位毫不掩飾的享樂主義者。"
+        },
+        {
+          "en": "He indulged his inner ______ with fine wine and rich food.",
+          "zh": "他放縱自己內心耽於感官享受的一面,享用美酒與豐盛的美食。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "46",
+        "spelling": "sens；sent",
+        "meaning": "感覺"
+      }
+    },
+    {
+      "word": "sensuous",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "involving sensory gratification:",
+      "defn_zh": "感官愉悅的",
+      "root_note": "sentire (to feel, perceive)",
+      "sentences": [
+        {
+          "en": "The silk fabric had a wonderfully ______ texture against her skin.",
+          "zh": "這塊絲質布料觸感絕佳,貼在她的皮膚上感覺格外舒適愉悅。"
+        },
+        {
+          "en": "The poem is filled with ______ descriptions of the summer garden.",
+          "zh": "這首詩充滿了對夏日花園感官愉悅的描寫。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "46",
+        "spelling": "sens；sent",
+        "meaning": "感覺"
+      }
+    },
+    {
+      "word": "sentence",
+      "pos": "n./v.",
+      "pos_key": "n.",
+      "defn_en": "a grammatical unit expressing a complete thought; a judicial punishment:",
+      "defn_zh": "句子;判決",
+      "root_note": "sententia (opinion, judgment), from Latin sentire (to feel)",
+      "sentences": [
+        {
+          "en": "She revised the opening ______ of her essay several times.",
+          "zh": "她把這篇文章的開頭句子修改了好幾次。"
+        },
+        {
+          "en": "The judge handed down a ten-year ______ for the crime.",
+          "zh": "這位法官針對這起罪行宣判了十年的刑期。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "46",
+        "spelling": "sens；sent",
+        "meaning": "感覺"
+      }
+    },
+    {
+      "word": "sententious",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "given to moralizing in a pompous or affected way:",
+      "defn_zh": "說教式的;訓誡意味濃厚的",
+      "root_note": "sententiosus (full of meaning), from Latin sententia (opinion, maxim)",
+      "sentences": [
+        {
+          "en": "His ______ advice bored the students more than it inspired them.",
+          "zh": "他訓誡式的建議讓學生們感到無聊,而非受到啟發。"
+        },
+        {
+          "en": "The novel's narrator often lapses into ______ commentary on morality.",
+          "zh": "這本小說的敘事者經常陷入對道德說教式的評論。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "46",
+        "spelling": "sens；sent",
+        "meaning": "感覺"
+      }
+    },
+    {
+      "word": "sentience",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "the capacity to feel or perceive things:",
+      "defn_zh": "感知力;知覺",
+      "root_note": "sentire (to feel), from Latin",
+      "sentences": [
+        {
+          "en": "Scientists debate the level of ______ possessed by certain animals.",
+          "zh": "科學家爭論某些動物所具備的感知力程度。"
+        },
+        {
+          "en": "The philosophical question of machine ______ remains unresolved.",
+          "zh": "機器是否具有感知力這個哲學問題至今仍未解決。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "46",
+        "spelling": "sens；sent",
+        "meaning": "感覺"
+      }
+    },
+    {
+      "word": "sentient",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "able to perceive or feel things:",
+      "defn_zh": "有知覺的;有感知能力的",
+      "root_note": "sentire (to feel), from Latin",
+      "sentences": [
+        {
+          "en": "The film explores the ethical treatment of ______ beings.",
+          "zh": "這部電影探討了對有感知能力生物的道德對待。"
+        },
+        {
+          "en": "Some philosophers argue plants may be more ______ than previously believed.",
+          "zh": "一些哲學家主張植物可能比先前所認為的更具有感知能力。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "46",
+        "spelling": "sens；sent",
+        "meaning": "感覺"
+      }
+    }
+  ],
+  "family_options": {},
+  "fallback_options": {
+    "v.": [
+      {
+        "word": "abound",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to exist in great numbers:",
+        "defn_zh": "充滿"
+      },
+      {
+        "word": "abrogate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to deprive of legal force, to nullify:=abolish",
+        "defn_zh": "廢除/取消"
+      },
+      {
+        "word": "abjure",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to renounce, abstain from:",
+        "defn_zh": "發誓放棄/棄絕"
+      },
+      {
+        "word": "abbreviate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to shorten a word or phrase:",
+        "defn_zh": "縮寫;縮短"
+      },
+      {
+        "word": "abdicate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to give up a position, usually one of leadership:",
+        "defn_zh": "退位/放棄(職位)"
+      },
+      {
+        "word": "abduct",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to kidnap, take by force:",
+        "defn_zh": "綁架/劫持"
+      },
+      {
+        "word": "abhor",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to regard with disgust and hatred:",
+        "defn_zh": "憎惡/厭惡"
+      },
+      {
+        "word": "abnegate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to deny or renounce:",
+        "defn_zh": "放棄/克制"
+      },
+      {
+        "word": "abolish",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to formally put an end to a system, practice, or institution:",
+        "defn_zh": "廢除"
+      },
+      {
+        "word": "abort",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to give up on a half-finished project or effort:",
+        "defn_zh": "中止/放棄"
+      },
+      {
+        "word": "abrade",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to scrape or wear away by friction:",
+        "defn_zh": "磨損;擦傷"
+      },
+      {
+        "word": "abscond",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to sneak away and hide:",
+        "defn_zh": "潛逃/逃匿"
+      }
+    ],
+    "adj.": [
+      {
+        "word": "abortive",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "fruitless, failing:",
+        "defn_zh": "失敗的/夭折的"
+      },
+      {
+        "word": "abstemious",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "moderate in eating or drinking:",
+        "defn_zh": "飲食有節制的"
+      },
+      {
+        "word": "abhorrent",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "detestable, despised:",
+        "defn_zh": "令人厭惡的"
+      },
+      {
+        "word": "absurd",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "ridiculous:",
+        "defn_zh": "荒謬的"
+      },
+      {
+        "word": "aberrant",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "deviating from what is normal or expected:",
+        "defn_zh": "異常的;脫軌的"
+      },
+      {
+        "word": "abject",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "wretched, pitiful:",
+        "defn_zh": "卑賤的/淒慘的"
+      },
+      {
+        "word": "abominable",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "causing moral revulsion; extremely unpleasant:",
+        "defn_zh": "可憎的;惡劣的"
+      },
+      {
+        "word": "abounding",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "existing in large numbers or amounts:",
+        "defn_zh": "大量存在的;豐富的"
+      },
+      {
+        "word": "abrasive",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "showing little concern for others; harsh:",
+        "defn_zh": "粗暴的/刺耳的"
+      },
+      {
+        "word": "abrupt",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "sudden or unexpected; brief and curt in manner:",
+        "defn_zh": "突然的/唐突的"
+      },
+      {
+        "word": "abstract",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "existing purely in the mind; not representing actual reality:",
+        "defn_zh": "抽象的"
+      },
+      {
+        "word": "abstruse",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "hard to comprehend:",
+        "defn_zh": "深奧難懂的"
+      }
+    ],
+    "n.": [
+      {
+        "word": "aversion",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "strong dislike, opposition:",
+        "defn_zh": "厭惡/反感"
+      },
+      {
+        "word": "aberration",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "something that differs from the norm:",
+        "defn_zh": "異常/脫軌"
+      },
+      {
+        "word": "abjection",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a state of complete misery, hopelessness, or degradation:",
+        "defn_zh": "卑賤;悲慘狀態"
+      },
+      {
+        "word": "abjuration",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the solemn renunciation of a belief, cause, or claim:",
+        "defn_zh": "公開放棄;誓絕"
+      },
+      {
+        "word": "ablution",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the act of washing oneself, especially as part of a religious ritual:",
+        "defn_zh": "沐浴;淨身儀式"
+      },
+      {
+        "word": "abnegation",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "denial of comfort to oneself:",
+        "defn_zh": "自我克制/放棄"
+      },
+      {
+        "word": "abomination",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "something that causes disgust or hatred:",
+        "defn_zh": "可憎之事;令人厭惡的東西"
+      },
+      {
+        "word": "abridgement",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a shortened version of a book or other written work:",
+        "defn_zh": "節略本;縮減版"
+      },
+      {
+        "word": "absolution",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "freedom from blame, guilt, sin:",
+        "defn_zh": "赦免/免罪"
+      },
+      {
+        "word": "abstemiousness",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "moderation or self-restraint, especially in eating and drinking:",
+        "defn_zh": "節制;克己"
+      },
+      {
+        "word": "abstinence",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the practice of restraining oneself from something enjoyable, especially food, alcohol, or sex:",
+        "defn_zh": "節制;戒絕"
+      },
+      {
+        "word": "avocation",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a hobby or minor occupation apart from one's main career:",
+        "defn_zh": "副業;業餘愛好"
+      }
+    ],
+    "adv.": [
+      {
+        "word": "accordingly",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in a manner that fits the circumstances; consequently:",
+        "defn_zh": "相應地;因此"
+      },
+      {
+        "word": "inadvertently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "unintentionally or by accident:",
+        "defn_zh": "無意間/不小心地"
+      },
+      {
+        "word": "consequently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "as a result; therefore:",
+        "defn_zh": "因此;結果"
+      },
+      {
+        "word": "contemptuously",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "without respect; in a disdainful manner:",
+        "defn_zh": "輕蔑地"
+      },
+      {
+        "word": "involuntarily",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "done without conscious control:",
+        "defn_zh": "不由自主地"
+      },
+      {
+        "word": "cordially",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in a warm or friendly manner:",
+        "defn_zh": "誠摯地/友好地"
+      },
+      {
+        "word": "ipso facto",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "by that very fact or act:",
+        "defn_zh": "事實上;因此"
+      },
+      {
+        "word": "en passant",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in passing; incidentally:",
+        "defn_zh": "順帶一提地;偶然地"
+      },
+      {
+        "word": "regardless",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "despite the prevailing circumstances; without being deterred:",
+        "defn_zh": "不管怎樣;儘管如此"
+      },
+      {
+        "word": "subsequently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "afterward; following in time or order:",
+        "defn_zh": "隨後;其後"
+      },
+      {
+        "word": "aside",
+        "pos": "adv./n.",
+        "pos_key": "adv.",
+        "defn_en": "to or on one side; a remark not meant to be heard by everyone:",
+        "defn_zh": "在旁邊;旁白"
+      },
+      {
+        "word": "vice versa",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "with the order or meaning reversed; conversely:",
+        "defn_zh": "反之亦然"
+      }
+    ],
+    "other": [
+      {
+        "word": "（此批單字中，暫無符合此字根/字首的單字）",
+        "pos": "",
+        "pos_key": "other",
+        "defn_en": "",
+        "defn_zh": ""
+      }
+    ],
+    "prep./adv.": [
+      {
+        "word": "besides",
+        "pos": "prep./adv.",
+        "pos_key": "prep./adv.",
+        "defn_en": "in addition to; furthermore:",
+        "defn_zh": "除...之外;此外"
+      }
+    ],
+    "phrasalv.": [
+      {
+        "word": "egg on",
+        "pos": "phrasal v.",
+        "pos_key": "phrasalv.",
+        "defn_en": "to encourage someone to do something, often risky:",
+        "defn_zh": "慫恿;鼓動"
+      }
+    ],
+    "abbr.": [
+      {
+        "word": "etc.",
+        "pos": "abbr.",
+        "pos_key": "abbr.",
+        "defn_en": "and other similar things (abbreviation of et cetera):",
+        "defn_zh": "等等(et cetera的縮寫)"
+      }
+    ],
+    "interj.": [
+      {
+        "word": "fiddledeedee",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "an exclamation expressing dismissal of something as nonsense:",
+        "defn_zh": "廢話!(表示不屑一顧)"
+      },
+      {
+        "word": "gesundheit",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "an expression said to someone who has just sneezed:",
+        "defn_zh": "保重(打噴嚏後的祝福語)"
+      }
+    ],
+    "prep.": [
+      {
+        "word": "via",
+        "pos": "prep.",
+        "pos_key": "prep.",
+        "defn_en": "by way of; passing through:",
+        "defn_zh": "經由;透過"
+      }
+    ]
+  }
+}
