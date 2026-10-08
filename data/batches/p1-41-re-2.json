@@ -1,0 +1,1618 @@
+{
+  "id": "p1-41-re-2",
+  "part": "part1",
+  "part_label": "Part 1 字首篇 (Prefixes)",
+  "name": "re (2/3)",
+  "subtitle": "反向；再次",
+  "count": 50,
+  "words": [
+    {
+      "word": "renovate",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "restore, return to original state:",
+      "defn_zh": "翻新/整修",
+      "root_note": "re- (again) + novare (to make new)",
+      "sentences": [
+        {
+          "en": "They spent their savings to ______ the old farmhouse into a cozy home.",
+          "zh": "他們花光積蓄,將這棟老舊的農舍整修成一個溫馨的家。"
+        },
+        {
+          "en": "The city council approved funds to ______ the crumbling library building.",
+          "zh": "市議會核准了經費,以整修這座逐漸崩塌的圖書館建築。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "41",
+        "spelling": "re",
+        "meaning": "反向；再次"
+      }
+    },
+    {
+      "word": "renown",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "honor, acclaim:",
+      "defn_zh": "聲望/名望",
+      "root_note": "re- (again) + nomen (name, Latin)",
+      "sentences": [
+        {
+          "en": "The scientist earned worldwide ______ for her breakthrough discovery.",
+          "zh": "這位科學家因其突破性的發現而贏得了世界性的聲望。"
+        },
+        {
+          "en": "The chef's restaurant grew in ______ after receiving a prestigious award.",
+          "zh": "在獲得一項享有盛譽的獎項後,這位主廚的餐廳聲望日益提升。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "41",
+        "spelling": "re",
+        "meaning": "反向；再次"
+      }
+    },
+    {
+      "word": "renunciation",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "to reject:",
+      "defn_zh": "放棄/拒絕",
+      "root_note": "re- (back) + nuntiare (to announce)",
+      "sentences": [
+        {
+          "en": "His public ______ of violence surprised many former followers.",
+          "zh": "他公開放棄暴力的聲明讓許多昔日的追隨者感到意外。"
+        },
+        {
+          "en": "The prince's ______ of the throne shocked the entire kingdom.",
+          "zh": "這位王子放棄王位的舉動震驚了整個王國。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "41",
+        "spelling": "re",
+        "meaning": "反向；再次"
+      }
+    },
+    {
+      "word": "reoccur",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to happen again:",
+      "defn_zh": "再次發生",
+      "root_note": "re- (again) + occur, from Latin occurrere (to run to meet)",
+      "sentences": [
+        {
+          "en": "Doctors warned the symptoms might ______ within a few months.",
+          "zh": "醫生警告這些症狀可能在幾個月內再次發生。"
+        },
+        {
+          "en": "Engineers redesigned the system to ensure the failure would not ______ .",
+          "zh": "工程師重新設計了這套系統,以確保這項故障不會再次發生。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "41",
+        "spelling": "re",
+        "meaning": "反向；再次"
+      }
+    },
+    {
+      "word": "reoccurance",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a variant spelling of reoccurrence, the act of happening again:",
+      "defn_zh": "再次發生(異體拼法)",
+      "root_note": "re- (again) + occur, from Latin occurrere (to run to meet)",
+      "sentences": [
+        {
+          "en": "The company implemented new safeguards to prevent a ______ of the outage.",
+          "zh": "這家公司實施了新的防護措施,以防止這場停機事故再次發生。"
+        },
+        {
+          "en": "A ______ of the flooding would devastate the already fragile community.",
+          "zh": "這場洪水若再次發生,將會摧毀這個原本就脆弱的社區。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "41",
+        "spelling": "re",
+        "meaning": "反向；再次"
+      }
+    },
+    {
+      "word": "repent",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to desire to make amends, regret:",
+      "defn_zh": "後悔/懺悔",
+      "root_note": "re- (intensive) + paenitere (to regret)",
+      "sentences": [
+        {
+          "en": "He ______ed his harsh words and apologized the next day.",
+          "zh": "他為自己說過的重話感到後悔,並在隔天道了歉。"
+        },
+        {
+          "en": "The character in the story ______s his past sins before he dies.",
+          "zh": "故事中的這個角色在臨終前為自己過去的罪過懺悔。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "41",
+        "spelling": "re",
+        "meaning": "反向；再次"
+      }
+    },
+    {
+      "word": "repentant",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "penitent, sorry:",
+      "defn_zh": "懊悔的/悔改的",
+      "root_note": "re- (again) + paenitere (to cause regret)",
+      "sentences": [
+        {
+          "en": "The ______ thief returned the stolen money along with a written apology.",
+          "zh": "這名悔改的小偷歸還了偷竊的錢,並附上一封道歉信。"
+        },
+        {
+          "en": "She seemed truly ______ for the pain her words had caused.",
+          "zh": "她似乎對自己言語造成的傷害感到真心懊悔。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "41",
+        "spelling": "re",
+        "meaning": "反向；再次"
+      }
+    },
+    {
+      "word": "repercussion",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "an unintended consequence or effect, often negative:",
+      "defn_zh": "後果/餘波",
+      "root_note": "re- (back) + per- (through) + quatere (to shake)",
+      "sentences": [
+        {
+          "en": "The ______ of her decision was felt by everyone in the organization.",
+          "zh": "她這項決定所帶來的後果讓整個組織的每個人都感受到了。"
+        },
+        {
+          "en": "Losing the contract had serious financial ______ for the company.",
+          "zh": "失去這份合約為公司帶來了嚴重的財務後果。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "41",
+        "spelling": "re",
+        "meaning": "反向；再次"
+      }
+    },
+    {
+      "word": "repertoire",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "works that an artist is prepared to perform:",
+      "defn_zh": "全部節目/曲目",
+      "root_note": "re- (back) + parere (to produce)",
+      "sentences": [
+        {
+          "en": "The orchestra's ______ includes works from Beethoven to modern composers.",
+          "zh": "這支管弦樂團的曲目涵蓋了從貝多芬到現代作曲家的作品。"
+        },
+        {
+          "en": "The chef expanded his ______ by learning new international dishes.",
+          "zh": "這位主廚透過學習新的國際料理,拓展了自己的拿手菜色。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "41",
+        "spelling": "re",
+        "meaning": "反向；再次"
+      }
+    },
+    {
+      "word": "replenish",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to fill again, restock:",
+      "defn_zh": "補充/重新裝滿",
+      "root_note": "re- (again) + plenus (full)",
+      "sentences": [
+        {
+          "en": "The store staff worked to ______ the shelves before the holiday rush.",
+          "zh": "店員在假期人潮湧入前忙著補貨上架。"
+        },
+        {
+          "en": "Drinking water regularly helps ______ the body's fluids after exercise.",
+          "zh": "運動後定時補充水分有助於恢復體內的水分。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "41",
+        "spelling": "re",
+        "meaning": "反向；再次"
+      }
+    },
+    {
+      "word": "replete",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "completely filled or supplied with:",
+      "defn_zh": "充滿的",
+      "root_note": "re- (again) + plere (to fill)",
+      "sentences": [
+        {
+          "en": "The museum's new exhibit is ______ with fascinating artifacts from ancient Egypt.",
+          "zh": "博物館的新展覽充滿了來自古埃及的迷人文物。"
+        },
+        {
+          "en": "His speech was ______ with statistics and expert opinions.",
+          "zh": "他的演講中充滿了統計數據和專家意見。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "41",
+        "spelling": "re",
+        "meaning": "反向；再次"
+      }
+    },
+    {
+      "word": "replicable",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "capable of being reproduced or repeated:",
+      "defn_zh": "可複製的/可重複的",
+      "root_note": "re- (again) + plicare (to fold)",
+      "sentences": [
+        {
+          "en": "The experiment was designed to be ______, allowing others to verify the results.",
+          "zh": "這項實驗的設計是為了可以被重複進行,讓其他人得以驗證結果。"
+        },
+        {
+          "en": "The experiment's results were ______.",
+          "zh": "這項實驗的結果是可以被重複驗證的。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "41",
+        "spelling": "re",
+        "meaning": "反向；再次"
+      }
+    },
+    {
+      "word": "repose",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "state of rest:=respite",
+      "defn_zh": "休息/睡眠",
+      "root_note": "re- (back) + pausare (to pause)",
+      "sentences": [
+        {
+          "en": "After the long journey, she finally found a moment of ______ by the fireplace.",
+          "zh": "經過漫長的旅程,她終於在壁爐旁找到片刻的休息。"
+        },
+        {
+          "en": "The garden offered a peaceful place of ______ away from the city's noise.",
+          "zh": "這座花園是遠離城市喧囂、寧靜休憩的地方。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "41",
+        "spelling": "re",
+        "meaning": "反向；再次"
+      }
+    },
+    {
+      "word": "reprehensible",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "deserving rebuke:",
+      "defn_zh": "應受譴責的/可恥的",
+      "root_note": "re- (back) + prehendere (to seize)",
+      "sentences": [
+        {
+          "en": "The court called the company's actions ______ and imposed a heavy fine.",
+          "zh": "法院譴責這家公司的行為應受懲處,並處以重額罰款。"
+        },
+        {
+          "en": "His ______ treatment of his employees eventually led to a lawsuit.",
+          "zh": "他對待員工應受譴責的方式,最終導致了一場訴訟。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "41",
+        "spelling": "re",
+        "meaning": "反向；再次"
+      }
+    },
+    {
+      "word": "representative",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a person acting on behalf of others:",
+      "defn_zh": "代表",
+      "root_note": "re- (again) + praesentare (to present)",
+      "sentences": [
+        {
+          "en": "The company's ______ spoke at the meeting.",
+          "zh": "這家公司的代表在會議上發言。"
+        },
+        {
+          "en": "Each district elects its own ______ to the national assembly.",
+          "zh": "每個選區都會選出自己的代表進入國民大會。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "41",
+        "spelling": "re",
+        "meaning": "反向；再次"
+      }
+    },
+    {
+      "word": "repress",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to hold back, tamp down:",
+      "defn_zh": "壓抑/鎮壓",
+      "root_note": "re- (back) + premere (to press)",
+      "sentences": [
+        {
+          "en": "She struggled to ______ her laughter during the solemn ceremony.",
+          "zh": "在莊嚴的儀式中,她努力壓抑自己的笑意。"
+        },
+        {
+          "en": "The government used force to ______ any sign of protest.",
+          "zh": "政府動用武力鎮壓任何抗議的跡象。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "41",
+        "spelling": "re",
+        "meaning": "反向；再次"
+      }
+    },
+    {
+      "word": "reprieve",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a temporary relief or delay:",
+      "defn_zh": "緩刑/暫緩",
+      "root_note": "re- (back) + prehendere (to seize)",
+      "sentences": [
+        {
+          "en": "Because the defendant needed surgery, the judge granted a ______.",
+          "zh": "由於被告需要動手術,法官准許暫緩執行。"
+        },
+        {
+          "en": "The rain gave the exhausted firefighters a brief ______.",
+          "zh": "這場雨讓筋疲力盡的消防員獲得了片刻的喘息。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "41",
+        "spelling": "re",
+        "meaning": "反向；再次"
+      }
+    },
+    {
+      "word": "reprimand",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to show sharp disapproval:",
+      "defn_zh": "譴責",
+      "root_note": "re- (back) + premere (to press)",
+      "sentences": [
+        {
+          "en": "The teacher ______ed the students for talking during the exam.",
+          "zh": "老師譴責了在考試中講話的學生。"
+        },
+        {
+          "en": "He received a formal ______ from his boss for arriving late every day.",
+          "zh": "他因為每天遲到而受到上司正式的譴責。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "41",
+        "spelling": "re",
+        "meaning": "反向；再次"
+      }
+    },
+    {
+      "word": "reproach",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to rebuke, reprimand:",
+      "defn_zh": "責備/斥責",
+      "root_note": "re- (back) + prope (near)",
+      "sentences": [
+        {
+          "en": "Her mother's silent ______ hurt more than any harsh words.",
+          "zh": "母親無聲的責備比任何嚴厲的話語都更讓她難受。"
+        },
+        {
+          "en": "He couldn't bear the ______ in his coach's eyes after the loss.",
+          "zh": "落敗之後,他無法承受教練眼中流露出的責備。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "41",
+        "spelling": "re",
+        "meaning": "反向；再次"
+      }
+    },
+    {
+      "word": "reprobate",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "evil, unprincipled:",
+      "defn_zh": "墮落的/無恥的",
+      "root_note": "re- (opposite of) + probare (to approve, test)",
+      "sentences": [
+        {
+          "en": "The old ______ spent every night gambling away what little money he had.",
+          "zh": "這個墮落的老頭每晚都把僅有的一點錢拿去賭博揮霍。"
+        },
+        {
+          "en": "The novel's ______ villain shows no remorse for his crimes.",
+          "zh": "這部小說中無恥的反派對自己的罪行毫無悔意。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "41",
+        "spelling": "re",
+        "meaning": "反向；再次"
+      }
+    },
+    {
+      "word": "reprove",
+      "pos": "vb.",
+      "pos_key": "v.",
+      "defn_en": "to speak to in a disapproving manner; to scold",
+      "defn_zh": "責備",
+      "root_note": "re- (back) + probare (to test/approve)",
+      "sentences": [
+        {
+          "en": "The principal gently ______d the student for talking during the assembly.",
+          "zh": "校長溫和地責備這名學生在集會時說話。"
+        },
+        {
+          "en": "She would often ______ her younger brother for his messy room.",
+          "zh": "她經常責備弟弟房間太過凌亂。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "41",
+        "spelling": "re",
+        "meaning": "反向；再次"
+      }
+    },
+    {
+      "word": "repudiate",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to reject, decline:",
+      "defn_zh": "拒絕/否認",
+      "root_note": "re- (back) + pudium (divorce/reject)",
+      "sentences": [
+        {
+          "en": "The senator was forced to ______ his earlier statement after public backlash.",
+          "zh": "這位參議員在遭到公眾強烈反對後,被迫收回先前的言論。"
+        },
+        {
+          "en": "She decided to ______ the contract after discovering the hidden fees.",
+          "zh": "她發現隱藏費用後,決定拒絕承認這份合約。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "41",
+        "spelling": "re",
+        "meaning": "反向；再次"
+      }
+    },
+    {
+      "word": "repugnant",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "distasteful, repulsive:",
+      "defn_zh": "令人反感的",
+      "root_note": "re- (back) + pugnare (to fight)",
+      "sentences": [
+        {
+          "en": "The idea of eating insects was ______ to him.",
+          "zh": "吃昆蟲的想法讓他感到十分反感。"
+        },
+        {
+          "en": "She found his dishonesty absolutely ______.",
+          "zh": "她覺得他的不誠實令人極度反感。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "41",
+        "spelling": "re",
+        "meaning": "反向；再次"
+      }
+    },
+    {
+      "word": "repulse",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to drive back, repel:",
+      "defn_zh": "擊退/拒絕",
+      "root_note": "re- (back) + pellere (to drive)",
+      "sentences": [
+        {
+          "en": "The defenders managed to ______ the enemy's first attack.",
+          "zh": "守軍成功擊退了敵人的第一波攻擊。"
+        },
+        {
+          "en": "His rude behavior tends to ______ anyone who tries to be friendly.",
+          "zh": "他粗魯的行為往往讓任何想與他交好的人望而卻步。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "41",
+        "spelling": "re",
+        "meaning": "反向；再次"
+      }
+    },
+    {
+      "word": "reputable",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "of good reputation:",
+      "defn_zh": "聲譽良好的/可靠的",
+      "root_note": "re- (again) + putare (to think, reckon)",
+      "sentences": [
+        {
+          "en": "She only buys medicine from a ______ pharmacy.",
+          "zh": "她只在信譽良好的藥局購買藥品。"
+        },
+        {
+          "en": "The university partnered with several ______ hospitals for its medical program.",
+          "zh": "這所大學與數家信譽良好的醫院合作,推動其醫學課程。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "41",
+        "spelling": "re",
+        "meaning": "反向；再次"
+      }
+    },
+    {
+      "word": "reputed",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "believed, thought, supposed:",
+      "defn_zh": "被普遍認為的/名義上的",
+      "root_note": "re- (over) + putare (to think)",
+      "sentences": [
+        {
+          "en": "He is ______ to be one of the wealthiest men in the city.",
+          "zh": "他被普遍認為是這座城市最富有的人之一。"
+        },
+        {
+          "en": "The restaurant is ______ to serve the best noodles in town.",
+          "zh": "這家餐廳被公認是鎮上麵食做得最好的地方。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "41",
+        "spelling": "re",
+        "meaning": "反向；再次"
+      }
+    },
+    {
+      "word": "requisite",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "requirement:",
+      "defn_zh": "必需品/必要條件",
+      "root_note": "re- (again) + quaerere (to ask/seek)",
+      "sentences": [
+        {
+          "en": "She had all the ______ skills for the job.",
+          "zh": "她具備了這份工作所有必要的技能。"
+        },
+        {
+          "en": "A valid passport is a ______ for international travel.",
+          "zh": "有效護照是國際旅行的必要條件。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "41",
+        "spelling": "re",
+        "meaning": "反向；再次"
+      }
+    },
+    {
+      "word": "requisition",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a demand for goods, usually made by an authority:",
+      "defn_zh": "徵用/請購",
+      "root_note": "re- (again) + quaerere (to seek)",
+      "sentences": [
+        {
+          "en": "The military issued a ______ for additional medical supplies.",
+          "zh": "軍方發出了一項徵用命令,要求提供額外的醫療用品。"
+        },
+        {
+          "en": "The department submitted a ______ for new laboratory equipment.",
+          "zh": "這個部門提交了一份新實驗室設備的請購單。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "41",
+        "spelling": "re",
+        "meaning": "反向；再次"
+      }
+    },
+    {
+      "word": "rescind",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to revoke, cancel, or repeal a law, order, or agreement:",
+      "defn_zh": "撤銷/廢除",
+      "root_note": "re- (back) + scindere (to cut)",
+      "sentences": [
+        {
+          "en": "The company decided to ______ the job offer after reviewing his application.",
+          "zh": "這家公司在審核他的申請後決定撤回這份工作邀約。"
+        },
+        {
+          "en": "The city council voted to ______ the controversial ordinance.",
+          "zh": "市議會投票決定廢除這項具爭議性的法令。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "41",
+        "spelling": "re",
+        "meaning": "反向；再次"
+      }
+    },
+    {
+      "word": "reseme^",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "a rare or nonstandard term meaning to resume or begin again:",
+      "defn_zh": "重新開始(異體字)",
+      "root_note": "re- (again) + sumere (to take up), from Latin, altered form",
+      "sentences": [
+        {
+          "en": "The committee agreed to ______ discussions after the winter break.",
+          "zh": "委員會同意在寒假結束後重新展開討論。"
+        },
+        {
+          "en": "Talks between the two sides will ______ next month.",
+          "zh": "雙方的談判將於下個月重新展開。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "41",
+        "spelling": "re",
+        "meaning": "反向；再次"
+      }
+    },
+    {
+      "word": "reservoir",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "reserves, large supply:",
+      "defn_zh": "水庫/儲備",
+      "root_note": "re- (back) + servare (to keep, save)",
+      "sentences": [
+        {
+          "en": "The city's main ______ dropped to dangerously low levels during the drought.",
+          "zh": "在這場乾旱期間,這座城市的主要水庫水位降到了危險的低點。"
+        },
+        {
+          "en": "She drew upon a deep ______ of patience while teaching the toddlers.",
+          "zh": "在教導這些幼兒時,她動用了自己深厚的耐心儲備。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "41",
+        "spelling": "re",
+        "meaning": "反向；再次"
+      }
+    },
+    {
+      "word": "resilient",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "able to recover quickly from difficulties; tough and adaptable:",
+      "defn_zh": "有韌性的/能迅速恢復的",
+      "root_note": "re- (back) + salire (to leap)",
+      "sentences": [
+        {
+          "en": "She showed ______ strength after the accident, returning to work soon after.",
+          "zh": "在這場意外之後,她展現出堅韌的力量,很快就重返工作崗位。"
+        },
+        {
+          "en": "Even after setbacks, the patient is very ______.",
+          "zh": "即使遭遇挫折,這位病人依然十分堅韌,恢復力很強。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "41",
+        "spelling": "re",
+        "meaning": "反向；再次"
+      }
+    },
+    {
+      "word": "resolute",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "firm, determined:",
+      "defn_zh": "堅定的/果決的",
+      "root_note": "re- (again) + solvere (to loosen, resolve)",
+      "sentences": [
+        {
+          "en": "She remained ______ in her decision despite pressure from her family.",
+          "zh": "儘管家人施壓,她仍對自己的決定堅定不移。"
+        },
+        {
+          "en": "His ______ leadership helped the team through its most difficult season.",
+          "zh": "他堅定果決的領導,帶領球隊度過了最艱難的一個賽季。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "41",
+        "spelling": "re",
+        "meaning": "反向；再次"
+      }
+    },
+    {
+      "word": "resolve",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "firmness, determination",
+      "defn_zh": "決心",
+      "root_note": "re- (again) + solvere (to loosen)",
+      "sentences": [
+        {
+          "en": "Her ______ never wavered, even in the face of failure.",
+          "zh": "即使面對失敗,她的決心也從未動搖。"
+        },
+        {
+          "en": "The team's ______ carried them through a difficult season.",
+          "zh": "這支隊伍的決心讓他們撐過了艱難的賽季。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "41",
+        "spelling": "re",
+        "meaning": "反向；再次"
+      }
+    },
+    {
+      "word": "resourceful",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "able to meet any situation:",
+      "defn_zh": "足智多謀的/機智的",
+      "root_note": "re- (again) + surgere (to rise)",
+      "sentences": [
+        {
+          "en": "Being ______, she fixed the flat tire using only a hairpin and some tape.",
+          "zh": "她足智多謀,僅用一根髮夾和一些膠帶就修好了爆胎。"
+        },
+        {
+          "en": "The survivors were praised for being ______ during the crisis.",
+          "zh": "這些倖存者因在危機中展現的機智應變而受到讚揚。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "41",
+        "spelling": "re",
+        "meaning": "反向；再次"
+      }
+    },
+    {
+      "word": "resplendent",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "shiny, glowing:",
+      "defn_zh": "燦爛的/光輝奪目的",
+      "root_note": "re- (thoroughly) + splendere (to shine)",
+      "sentences": [
+        {
+          "en": "The bride looked ______ in her embroidered silk gown.",
+          "zh": "新娘身穿刺繡絲質禮服,看起來光彩奪目。"
+        },
+        {
+          "en": "The cathedral's dome was ______ with gold mosaics.",
+          "zh": "這座大教堂的圓頂因金色馬賽克鑲嵌而燦爛奪目。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "41",
+        "spelling": "re",
+        "meaning": "反向；再次"
+      }
+    },
+    {
+      "word": "responsive",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "reacting quickly or positively:",
+      "defn_zh": "回應迅速的/反應靈敏的",
+      "root_note": "re- (back) + spondere (to promise)",
+      "sentences": [
+        {
+          "en": "The team wanted to improve and was very ______ to feedback.",
+          "zh": "這個團隊渴望進步,對回饋意見的反應非常積極。"
+        },
+        {
+          "en": "The company's customer service is known for being quick and ______.",
+          "zh": "這家公司的客服以反應迅速且積極聞名。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "41",
+        "spelling": "re",
+        "meaning": "反向；再次"
+      }
+    },
+    {
+      "word": "restitution",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "restoration to the rightful owner:",
+      "defn_zh": "賠償/歸還",
+      "root_note": "re- (again) + statuere (to set up)",
+      "sentences": [
+        {
+          "en": "The court ordered the company to make ______ to the affected families.",
+          "zh": "法院下令這家公司對受影響的家庭做出賠償。"
+        },
+        {
+          "en": "He offered to make ______ for the damage he had caused years earlier.",
+          "zh": "他主動提出要為多年前造成的損害做出賠償。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "41",
+        "spelling": "re",
+        "meaning": "反向；再次"
+      }
+    },
+    {
+      "word": "restive",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "resistant, stubborn, impatient:",
+      "defn_zh": "焦躁不安的/難駕馭的",
+      "root_note": "re- (back) + stare (to stand)",
+      "sentences": [
+        {
+          "en": "The ______ crowd grew louder as the delayed concert failed to start.",
+          "zh": "隨著延遲的演唱會遲遲未能開始,這群焦躁的群眾變得越來越喧鬧。"
+        },
+        {
+          "en": "The ______ horse refused to stand still during the fitting.",
+          "zh": "這匹難以駕馭的馬在試穿馬具時不肯乖乖站定。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "41",
+        "spelling": "re",
+        "meaning": "反向；再次"
+      }
+    },
+    {
+      "word": "restore",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to bring back to original condition:",
+      "defn_zh": "恢復/修復",
+      "root_note": "re- (again) + staurare (to set up)",
+      "sentences": [
+        {
+          "en": "The architecture team carefully ______ the old house.",
+          "zh": "這支建築團隊細心修復了這棟老房子。"
+        },
+        {
+          "en": "The new medication helped ______ his energy levels.",
+          "zh": "這種新藥有助於恢復他的體力。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "41",
+        "spelling": "re",
+        "meaning": "反向；再次"
+      }
+    },
+    {
+      "word": "restrain",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to hold back or limit:",
+      "defn_zh": "抑制/約束",
+      "root_note": "re- (back) + stringere (to draw tight)",
+      "sentences": [
+        {
+          "en": "Even though Tom was furious, he ______ his anger.",
+          "zh": "儘管湯姆非常憤怒,他還是克制住了自己的怒氣。"
+        },
+        {
+          "en": "Security had to ______ the excited fans from rushing the stage.",
+          "zh": "保全人員必須阻止興奮的粉絲衝上舞台。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "41",
+        "spelling": "re",
+        "meaning": "反向；再次"
+      }
+    },
+    {
+      "word": "restrained",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "controlled, limited, or held back; not excessive or extreme in expression:",
+      "defn_zh": "克制的/含蓄的",
+      "root_note": "re- (back) + stringere (to draw tight)",
+      "sentences": [
+        {
+          "en": "His ______ behavior at the meeting showed professionalism and composure.",
+          "zh": "他在會議上克制自持的表現展現出專業與沉著。"
+        },
+        {
+          "en": "The film's ______ use of special effects made the story feel more realistic.",
+          "zh": "這部電影節制地使用特效,讓故事顯得更加真實。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "41",
+        "spelling": "re",
+        "meaning": "反向；再次"
+      }
+    },
+    {
+      "word": "restrictive",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "harsh, confining:",
+      "defn_zh": "限制性的/約束的",
+      "root_note": "re- (back) + stringere (to bind)",
+      "sentences": [
+        {
+          "en": "The school's ______ dress code left little room for personal expression.",
+          "zh": "這所學校嚴格的服裝規定讓學生幾乎沒有個人表現的空間。"
+        },
+        {
+          "en": "Some countries have very ______ laws regarding freedom of speech.",
+          "zh": "有些國家對言論自由訂有非常嚴格限制的法律。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "41",
+        "spelling": "re",
+        "meaning": "反向；再次"
+      }
+    },
+    {
+      "word": "retain",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to keep or hold onto:",
+      "defn_zh": "保留/保持",
+      "root_note": "re- (back) + tenere (to hold)",
+      "sentences": [
+        {
+          "en": "I use this pitcher to ______ water for my herb garden.",
+          "zh": "我用這個水壺來儲存澆灌香草花園的水。"
+        },
+        {
+          "en": "The company struggled to ______ its top employees amid the industry-wide layoffs.",
+          "zh": "在整個產業普遍裁員的情況下,這家公司很難留住頂尖員工。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "41",
+        "spelling": "re",
+        "meaning": "反向；再次"
+      }
+    },
+    {
+      "word": "retaliate",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to respond to an attack:",
+      "defn_zh": "報復",
+      "root_note": "re- (back) + talis (such)",
+      "sentences": [
+        {
+          "en": "After Celia yelled at Dom, he ______ with a counterattack.",
+          "zh": "西莉亞對唐姆大吼之後,他也以反擊回應。"
+        },
+        {
+          "en": "The nation vowed to ______ against the unprovoked attack.",
+          "zh": "這個國家誓言要對這場無端的攻擊進行報復。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "41",
+        "spelling": "re",
+        "meaning": "反向；再次"
+      }
+    },
+    {
+      "word": "reticent",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "inclined to be reserved:",
+      "defn_zh": "沉默寡言的",
+      "root_note": "re- (back) + tacere (to be silent)",
+      "sentences": [
+        {
+          "en": "He remained ______ about his plans, refusing to answer any questions.",
+          "zh": "他對自己的計畫保持沉默,拒絕回答任何問題。"
+        },
+        {
+          "en": "She is usually ______ in large groups but talkative among close friends.",
+          "zh": "她在人多的場合通常沉默寡言,但和好友在一起時卻很健談。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "41",
+        "spelling": "re",
+        "meaning": "反向；再次"
+      }
+    },
+    {
+      "word": "reticent",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "silent, reserved:",
+      "defn_zh": "沉默寡言的",
+      "root_note": "re- (back) + tacere (to be silent)",
+      "sentences": [
+        {
+          "en": "He remained ______ about his plans, refusing to answer any questions.",
+          "zh": "他對自己的計畫保持沉默,拒絕回答任何問題。"
+        },
+        {
+          "en": "She is usually ______ in large groups but talkative among close friends.",
+          "zh": "她在人多的場合通常沉默寡言,但和好友在一起時卻很健談。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "41",
+        "spelling": "re",
+        "meaning": "反向；再次"
+      }
+    },
+    {
+      "word": "retort",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to answer, reply:",
+      "defn_zh": "反駁/回嘴",
+      "root_note": "re- (back) + torquere (to twist)",
+      "sentences": [
+        {
+          "en": "\"I never asked for your opinion,\" she ______ed sharply.",
+          "zh": "「我從沒問過你的意見,」她尖銳地反駁道。"
+        },
+        {
+          "en": "He was quick to ______ whenever someone questioned his methods.",
+          "zh": "每當有人質疑他的方法,他總是很快就會反駁回去。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "41",
+        "spelling": "re",
+        "meaning": "反向；再次"
+      }
+    },
+    {
+      "word": "retract",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "withdraw:",
+      "defn_zh": "撤回/收回",
+      "root_note": "re- (back) + trahere (to draw, pull)",
+      "sentences": [
+        {
+          "en": "The newspaper was forced to ______ its false claim the following day.",
+          "zh": "這家報社隔天被迫撤回其不實的報導內容。"
+        },
+        {
+          "en": "He refused to ______ his statement, even under pressure from his lawyers.",
+          "zh": "即使受到律師的壓力,他仍拒絕撤回自己的聲明。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "41",
+        "spelling": "re",
+        "meaning": "反向；再次"
+      }
+    },
+    {
+      "word": "revel",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to enjoy intensely:",
+      "defn_zh": "狂歡/盡情享受",
+      "root_note": "re- (again) + bellare (to war, hence rebellare, revel)",
+      "sentences": [
+        {
+          "en": "The team continued to ______ in their unexpected victory long into the night.",
+          "zh": "這支隊伍徹夜狂歡,慶祝這場意外的勝利。"
+        },
+        {
+          "en": "She loves to ______ in the quiet beauty of an early morning walk.",
+          "zh": "她非常喜歡沉浸在清晨散步那份寧靜的美好之中。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "41",
+        "spelling": "re",
+        "meaning": "反向；再次"
+      }
+    }
+  ],
+  "family_options": {},
+  "fallback_options": {
+    "v.": [
+      {
+        "word": "abound",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to exist in great numbers:",
+        "defn_zh": "充滿"
+      },
+      {
+        "word": "abrogate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to deprive of legal force, to nullify:=abolish",
+        "defn_zh": "廢除/取消"
+      },
+      {
+        "word": "abjure",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to renounce, abstain from:",
+        "defn_zh": "發誓放棄/棄絕"
+      },
+      {
+        "word": "abbreviate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to shorten a word or phrase:",
+        "defn_zh": "縮寫;縮短"
+      },
+      {
+        "word": "abdicate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to give up a position, usually one of leadership:",
+        "defn_zh": "退位/放棄(職位)"
+      },
+      {
+        "word": "abduct",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to kidnap, take by force:",
+        "defn_zh": "綁架/劫持"
+      },
+      {
+        "word": "abhor",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to regard with disgust and hatred:",
+        "defn_zh": "憎惡/厭惡"
+      },
+      {
+        "word": "abnegate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to deny or renounce:",
+        "defn_zh": "放棄/克制"
+      },
+      {
+        "word": "abolish",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to formally put an end to a system, practice, or institution:",
+        "defn_zh": "廢除"
+      },
+      {
+        "word": "abort",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to give up on a half-finished project or effort:",
+        "defn_zh": "中止/放棄"
+      },
+      {
+        "word": "abrade",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to scrape or wear away by friction:",
+        "defn_zh": "磨損;擦傷"
+      },
+      {
+        "word": "abscond",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to sneak away and hide:",
+        "defn_zh": "潛逃/逃匿"
+      }
+    ],
+    "adj.": [
+      {
+        "word": "abortive",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "fruitless, failing:",
+        "defn_zh": "失敗的/夭折的"
+      },
+      {
+        "word": "abstemious",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "moderate in eating or drinking:",
+        "defn_zh": "飲食有節制的"
+      },
+      {
+        "word": "abhorrent",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "detestable, despised:",
+        "defn_zh": "令人厭惡的"
+      },
+      {
+        "word": "absurd",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "ridiculous:",
+        "defn_zh": "荒謬的"
+      },
+      {
+        "word": "aberrant",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "deviating from what is normal or expected:",
+        "defn_zh": "異常的;脫軌的"
+      },
+      {
+        "word": "abject",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "wretched, pitiful:",
+        "defn_zh": "卑賤的/淒慘的"
+      },
+      {
+        "word": "abominable",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "causing moral revulsion; extremely unpleasant:",
+        "defn_zh": "可憎的;惡劣的"
+      },
+      {
+        "word": "abounding",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "existing in large numbers or amounts:",
+        "defn_zh": "大量存在的;豐富的"
+      },
+      {
+        "word": "abrasive",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "showing little concern for others; harsh:",
+        "defn_zh": "粗暴的/刺耳的"
+      },
+      {
+        "word": "abrupt",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "sudden or unexpected; brief and curt in manner:",
+        "defn_zh": "突然的/唐突的"
+      },
+      {
+        "word": "abstract",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "existing purely in the mind; not representing actual reality:",
+        "defn_zh": "抽象的"
+      },
+      {
+        "word": "abstruse",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "hard to comprehend:",
+        "defn_zh": "深奧難懂的"
+      }
+    ],
+    "n.": [
+      {
+        "word": "aversion",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "strong dislike, opposition:",
+        "defn_zh": "厭惡/反感"
+      },
+      {
+        "word": "aberration",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "something that differs from the norm:",
+        "defn_zh": "異常/脫軌"
+      },
+      {
+        "word": "abjection",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a state of complete misery, hopelessness, or degradation:",
+        "defn_zh": "卑賤;悲慘狀態"
+      },
+      {
+        "word": "abjuration",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the solemn renunciation of a belief, cause, or claim:",
+        "defn_zh": "公開放棄;誓絕"
+      },
+      {
+        "word": "ablution",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the act of washing oneself, especially as part of a religious ritual:",
+        "defn_zh": "沐浴;淨身儀式"
+      },
+      {
+        "word": "abnegation",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "denial of comfort to oneself:",
+        "defn_zh": "自我克制/放棄"
+      },
+      {
+        "word": "abomination",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "something that causes disgust or hatred:",
+        "defn_zh": "可憎之事;令人厭惡的東西"
+      },
+      {
+        "word": "abridgement",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a shortened version of a book or other written work:",
+        "defn_zh": "節略本;縮減版"
+      },
+      {
+        "word": "absolution",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "freedom from blame, guilt, sin:",
+        "defn_zh": "赦免/免罪"
+      },
+      {
+        "word": "abstemiousness",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "moderation or self-restraint, especially in eating and drinking:",
+        "defn_zh": "節制;克己"
+      },
+      {
+        "word": "abstinence",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the practice of restraining oneself from something enjoyable, especially food, alcohol, or sex:",
+        "defn_zh": "節制;戒絕"
+      },
+      {
+        "word": "avocation",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a hobby or minor occupation apart from one's main career:",
+        "defn_zh": "副業;業餘愛好"
+      }
+    ],
+    "adv.": [
+      {
+        "word": "accordingly",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in a manner that fits the circumstances; consequently:",
+        "defn_zh": "相應地;因此"
+      },
+      {
+        "word": "inadvertently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "unintentionally or by accident:",
+        "defn_zh": "無意間/不小心地"
+      },
+      {
+        "word": "consequently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "as a result; therefore:",
+        "defn_zh": "因此;結果"
+      },
+      {
+        "word": "contemptuously",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "without respect; in a disdainful manner:",
+        "defn_zh": "輕蔑地"
+      },
+      {
+        "word": "involuntarily",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "done without conscious control:",
+        "defn_zh": "不由自主地"
+      },
+      {
+        "word": "cordially",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in a warm or friendly manner:",
+        "defn_zh": "誠摯地/友好地"
+      },
+      {
+        "word": "ipso facto",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "by that very fact or act:",
+        "defn_zh": "事實上;因此"
+      },
+      {
+        "word": "en passant",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in passing; incidentally:",
+        "defn_zh": "順帶一提地;偶然地"
+      },
+      {
+        "word": "regardless",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "despite the prevailing circumstances; without being deterred:",
+        "defn_zh": "不管怎樣;儘管如此"
+      },
+      {
+        "word": "subsequently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "afterward; following in time or order:",
+        "defn_zh": "隨後;其後"
+      },
+      {
+        "word": "aside",
+        "pos": "adv./n.",
+        "pos_key": "adv.",
+        "defn_en": "to or on one side; a remark not meant to be heard by everyone:",
+        "defn_zh": "在旁邊;旁白"
+      },
+      {
+        "word": "vice versa",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "with the order or meaning reversed; conversely:",
+        "defn_zh": "反之亦然"
+      }
+    ],
+    "other": [
+      {
+        "word": "（此批單字中，暫無符合此字根/字首的單字）",
+        "pos": "",
+        "pos_key": "other",
+        "defn_en": "",
+        "defn_zh": ""
+      }
+    ],
+    "prep./adv.": [
+      {
+        "word": "besides",
+        "pos": "prep./adv.",
+        "pos_key": "prep./adv.",
+        "defn_en": "in addition to; furthermore:",
+        "defn_zh": "除...之外;此外"
+      }
+    ],
+    "phrasalv.": [
+      {
+        "word": "egg on",
+        "pos": "phrasal v.",
+        "pos_key": "phrasalv.",
+        "defn_en": "to encourage someone to do something, often risky:",
+        "defn_zh": "慫恿;鼓動"
+      }
+    ],
+    "abbr.": [
+      {
+        "word": "etc.",
+        "pos": "abbr.",
+        "pos_key": "abbr.",
+        "defn_en": "and other similar things (abbreviation of et cetera):",
+        "defn_zh": "等等(et cetera的縮寫)"
+      }
+    ],
+    "interj.": [
+      {
+        "word": "fiddledeedee",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "an exclamation expressing dismissal of something as nonsense:",
+        "defn_zh": "廢話!(表示不屑一顧)"
+      },
+      {
+        "word": "gesundheit",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "an expression said to someone who has just sneezed:",
+        "defn_zh": "保重(打噴嚏後的祝福語)"
+      }
+    ],
+    "prep.": [
+      {
+        "word": "via",
+        "pos": "prep.",
+        "pos_key": "prep.",
+        "defn_en": "by way of; passing through:",
+        "defn_zh": "經由;透過"
+      }
+    ]
+  }
+}
