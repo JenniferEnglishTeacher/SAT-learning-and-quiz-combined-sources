@@ -1,0 +1,634 @@
+{
+  "id": "p2-71-mut",
+  "part": "part2",
+  "part_label": "Part 2 字根篇 (Roots)",
+  "name": "mut",
+  "subtitle": "改變",
+  "count": 9,
+  "words": [
+    {
+      "word": "immutability",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "the quality of being unchangeable:",
+      "defn_zh": "不變性;永恆不變",
+      "root_note": "in- (not) + mutare (to change), from Latin",
+      "sentences": [
+        {
+          "en": "Philosophers debated the ______ of natural law.",
+          "zh": "哲學家爭論自然法則的永恆不變性。"
+        },
+        {
+          "en": "The contract's terms were praised for their ______ .",
+          "zh": "這份合約的條款因其不可更改性而受到讚揚。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "71",
+        "spelling": "mut",
+        "meaning": "改變"
+      }
+    },
+    {
+      "word": "immutable",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "not changeable:",
+      "defn_zh": "不可改變的/永恆的",
+      "root_note": "in- (not) + mutare (to change)",
+      "sentences": [
+        {
+          "en": "The laws of physics are considered ______ across the universe.",
+          "zh": "物理定律被認為在整個宇宙中是不可改變的。"
+        },
+        {
+          "en": "He believed his moral principles were ______, regardless of circumstance.",
+          "zh": "他相信自己的道德原則無論在何種情況下都不可動搖。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "71",
+        "spelling": "mut",
+        "meaning": "改變"
+      }
+    },
+    {
+      "word": "mutable",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "able to change:",
+      "defn_zh": "可變的/易變的",
+      "root_note": "mutare (to change)",
+      "sentences": [
+        {
+          "en": "Human memory is far more ______ than most people realize.",
+          "zh": "人類的記憶遠比大多數人所意識到的更容易改變。"
+        },
+        {
+          "en": "Laws are ______, adapting over time to reflect society's changing values.",
+          "zh": "法律是可變的,隨著時間演變以反映社會不斷變化的價值觀。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "71",
+        "spelling": "mut",
+        "meaning": "改變"
+      }
+    },
+    {
+      "word": "mutant",
+      "pos": "n./adj.",
+      "pos_key": "n.",
+      "defn_en": "an organism with altered genetic characteristics; having undergone mutation:",
+      "defn_zh": "突變體;突變的",
+      "root_note": "mutare (to change), from Latin",
+      "sentences": [
+        {
+          "en": "Scientists isolated a rare ______ strain of the bacteria.",
+          "zh": "科學家分離出這種細菌一種罕見的突變菌株。"
+        },
+        {
+          "en": "The ______ gene was linked to an increased risk of the disease.",
+          "zh": "這個突變基因與該疾病風險的增加有關。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "71",
+        "spelling": "mut",
+        "meaning": "改變"
+      }
+    },
+    {
+      "word": "mutate",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to change in form or nature, especially genetically:",
+      "defn_zh": "突變;改變",
+      "root_note": "mutare (to change), from Latin",
+      "sentences": [
+        {
+          "en": "Viruses can ______ rapidly, complicating vaccine development.",
+          "zh": "病毒能夠快速突變,使疫苗研發變得更加複雜。"
+        },
+        {
+          "en": "The company's mission began to ______ as new leadership took over.",
+          "zh": "隨著新領導層上任,這家公司的使命開始出現變化。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "71",
+        "spelling": "mut",
+        "meaning": "改變"
+      }
+    },
+    {
+      "word": "mutation",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a change in genetic structure; a significant change:",
+      "defn_zh": "突變;變異",
+      "root_note": "mutare (to change), from Latin",
+      "sentences": [
+        {
+          "en": "A single genetic ______ can cause the inherited disorder.",
+          "zh": "單一的基因突變就可能導致這種遺傳性疾病。"
+        },
+        {
+          "en": "The industry underwent a dramatic ______ after the new technology emerged.",
+          "zh": "這項新科技出現後,這個產業經歷了劇烈的變革。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "71",
+        "spelling": "mut",
+        "meaning": "改變"
+      }
+    },
+    {
+      "word": "permutation",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a way in which a set of things can be ordered or arranged:",
+      "defn_zh": "排列組合;變化",
+      "root_note": "permutare (to change thoroughly), from Latin per- (thoroughly) + mutare (to change)",
+      "sentences": [
+        {
+          "en": "The mathematician calculated every possible ______ of the sequence.",
+          "zh": "這位數學家計算了這串序列所有可能的排列組合。"
+        },
+        {
+          "en": "The recipe can be adapted into countless ______ s of flavor.",
+          "zh": "這份食譜可以調整成無數種口味的變化組合。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "71",
+        "spelling": "mut",
+        "meaning": "改變"
+      }
+    },
+    {
+      "word": "transmutation",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "the action of changing from one form, nature, or substance into another:",
+      "defn_zh": "變化;嬗變",
+      "root_note": "transmutare, from Latin trans- (across) + mutare (to change)",
+      "sentences": [
+        {
+          "en": "Medieval alchemists sought the ______ of lead into gold.",
+          "zh": "中世紀的煉金術士尋求將鉛嬗變成黃金的方法。"
+        },
+        {
+          "en": "The novel explores the ______ of grief into artistic inspiration.",
+          "zh": "這本小說探討了悲傷嬗變為藝術靈感的過程。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "71",
+        "spelling": "mut",
+        "meaning": "改變"
+      }
+    },
+    {
+      "word": "transmute",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to change or alter in form:",
+      "defn_zh": "使變形/使轉化",
+      "root_note": "trans- (across) + mutare (to change)",
+      "sentences": [
+        {
+          "en": "Alchemists once believed they could ______ lead into gold.",
+          "zh": "煉金術士曾經相信他們能將鉛轉化為黃金。"
+        },
+        {
+          "en": "Grief can sometimes ______ into a powerful source of creativity.",
+          "zh": "悲傷有時可以轉化為強大的創作力量泉源。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "71",
+        "spelling": "mut",
+        "meaning": "改變"
+      }
+    }
+  ],
+  "family_options": {},
+  "fallback_options": {
+    "v.": [
+      {
+        "word": "abound",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to exist in great numbers:",
+        "defn_zh": "充滿"
+      },
+      {
+        "word": "abrogate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to deprive of legal force, to nullify:=abolish",
+        "defn_zh": "廢除/取消"
+      },
+      {
+        "word": "abjure",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to renounce, abstain from:",
+        "defn_zh": "發誓放棄/棄絕"
+      },
+      {
+        "word": "abbreviate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to shorten a word or phrase:",
+        "defn_zh": "縮寫;縮短"
+      },
+      {
+        "word": "abdicate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to give up a position, usually one of leadership:",
+        "defn_zh": "退位/放棄(職位)"
+      },
+      {
+        "word": "abduct",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to kidnap, take by force:",
+        "defn_zh": "綁架/劫持"
+      },
+      {
+        "word": "abhor",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to regard with disgust and hatred:",
+        "defn_zh": "憎惡/厭惡"
+      },
+      {
+        "word": "abnegate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to deny or renounce:",
+        "defn_zh": "放棄/克制"
+      },
+      {
+        "word": "abolish",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to formally put an end to a system, practice, or institution:",
+        "defn_zh": "廢除"
+      },
+      {
+        "word": "abort",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to give up on a half-finished project or effort:",
+        "defn_zh": "中止/放棄"
+      },
+      {
+        "word": "abrade",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to scrape or wear away by friction:",
+        "defn_zh": "磨損;擦傷"
+      },
+      {
+        "word": "abscond",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to sneak away and hide:",
+        "defn_zh": "潛逃/逃匿"
+      }
+    ],
+    "adj.": [
+      {
+        "word": "abortive",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "fruitless, failing:",
+        "defn_zh": "失敗的/夭折的"
+      },
+      {
+        "word": "abstemious",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "moderate in eating or drinking:",
+        "defn_zh": "飲食有節制的"
+      },
+      {
+        "word": "abhorrent",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "detestable, despised:",
+        "defn_zh": "令人厭惡的"
+      },
+      {
+        "word": "absurd",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "ridiculous:",
+        "defn_zh": "荒謬的"
+      },
+      {
+        "word": "aberrant",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "deviating from what is normal or expected:",
+        "defn_zh": "異常的;脫軌的"
+      },
+      {
+        "word": "abject",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "wretched, pitiful:",
+        "defn_zh": "卑賤的/淒慘的"
+      },
+      {
+        "word": "abominable",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "causing moral revulsion; extremely unpleasant:",
+        "defn_zh": "可憎的;惡劣的"
+      },
+      {
+        "word": "abounding",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "existing in large numbers or amounts:",
+        "defn_zh": "大量存在的;豐富的"
+      },
+      {
+        "word": "abrasive",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "showing little concern for others; harsh:",
+        "defn_zh": "粗暴的/刺耳的"
+      },
+      {
+        "word": "abrupt",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "sudden or unexpected; brief and curt in manner:",
+        "defn_zh": "突然的/唐突的"
+      },
+      {
+        "word": "abstract",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "existing purely in the mind; not representing actual reality:",
+        "defn_zh": "抽象的"
+      },
+      {
+        "word": "abstruse",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "hard to comprehend:",
+        "defn_zh": "深奧難懂的"
+      }
+    ],
+    "n.": [
+      {
+        "word": "aversion",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "strong dislike, opposition:",
+        "defn_zh": "厭惡/反感"
+      },
+      {
+        "word": "aberration",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "something that differs from the norm:",
+        "defn_zh": "異常/脫軌"
+      },
+      {
+        "word": "abjection",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a state of complete misery, hopelessness, or degradation:",
+        "defn_zh": "卑賤;悲慘狀態"
+      },
+      {
+        "word": "abjuration",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the solemn renunciation of a belief, cause, or claim:",
+        "defn_zh": "公開放棄;誓絕"
+      },
+      {
+        "word": "ablution",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the act of washing oneself, especially as part of a religious ritual:",
+        "defn_zh": "沐浴;淨身儀式"
+      },
+      {
+        "word": "abnegation",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "denial of comfort to oneself:",
+        "defn_zh": "自我克制/放棄"
+      },
+      {
+        "word": "abomination",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "something that causes disgust or hatred:",
+        "defn_zh": "可憎之事;令人厭惡的東西"
+      },
+      {
+        "word": "abridgement",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a shortened version of a book or other written work:",
+        "defn_zh": "節略本;縮減版"
+      },
+      {
+        "word": "absolution",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "freedom from blame, guilt, sin:",
+        "defn_zh": "赦免/免罪"
+      },
+      {
+        "word": "abstemiousness",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "moderation or self-restraint, especially in eating and drinking:",
+        "defn_zh": "節制;克己"
+      },
+      {
+        "word": "abstinence",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the practice of restraining oneself from something enjoyable, especially food, alcohol, or sex:",
+        "defn_zh": "節制;戒絕"
+      },
+      {
+        "word": "avocation",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a hobby or minor occupation apart from one's main career:",
+        "defn_zh": "副業;業餘愛好"
+      }
+    ],
+    "adv.": [
+      {
+        "word": "accordingly",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in a manner that fits the circumstances; consequently:",
+        "defn_zh": "相應地;因此"
+      },
+      {
+        "word": "inadvertently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "unintentionally or by accident:",
+        "defn_zh": "無意間/不小心地"
+      },
+      {
+        "word": "consequently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "as a result; therefore:",
+        "defn_zh": "因此;結果"
+      },
+      {
+        "word": "contemptuously",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "without respect; in a disdainful manner:",
+        "defn_zh": "輕蔑地"
+      },
+      {
+        "word": "involuntarily",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "done without conscious control:",
+        "defn_zh": "不由自主地"
+      },
+      {
+        "word": "cordially",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in a warm or friendly manner:",
+        "defn_zh": "誠摯地/友好地"
+      },
+      {
+        "word": "ipso facto",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "by that very fact or act:",
+        "defn_zh": "事實上;因此"
+      },
+      {
+        "word": "en passant",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in passing; incidentally:",
+        "defn_zh": "順帶一提地;偶然地"
+      },
+      {
+        "word": "regardless",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "despite the prevailing circumstances; without being deterred:",
+        "defn_zh": "不管怎樣;儘管如此"
+      },
+      {
+        "word": "subsequently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "afterward; following in time or order:",
+        "defn_zh": "隨後;其後"
+      },
+      {
+        "word": "aside",
+        "pos": "adv./n.",
+        "pos_key": "adv.",
+        "defn_en": "to or on one side; a remark not meant to be heard by everyone:",
+        "defn_zh": "在旁邊;旁白"
+      },
+      {
+        "word": "vice versa",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "with the order or meaning reversed; conversely:",
+        "defn_zh": "反之亦然"
+      }
+    ],
+    "other": [
+      {
+        "word": "（此批單字中，暫無符合此字根/字首的單字）",
+        "pos": "",
+        "pos_key": "other",
+        "defn_en": "",
+        "defn_zh": ""
+      }
+    ],
+    "prep./adv.": [
+      {
+        "word": "besides",
+        "pos": "prep./adv.",
+        "pos_key": "prep./adv.",
+        "defn_en": "in addition to; furthermore:",
+        "defn_zh": "除...之外;此外"
+      }
+    ],
+    "phrasalv.": [
+      {
+        "word": "egg on",
+        "pos": "phrasal v.",
+        "pos_key": "phrasalv.",
+        "defn_en": "to encourage someone to do something, often risky:",
+        "defn_zh": "慫恿;鼓動"
+      }
+    ],
+    "abbr.": [
+      {
+        "word": "etc.",
+        "pos": "abbr.",
+        "pos_key": "abbr.",
+        "defn_en": "and other similar things (abbreviation of et cetera):",
+        "defn_zh": "等等(et cetera的縮寫)"
+      }
+    ],
+    "interj.": [
+      {
+        "word": "fiddledeedee",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "an exclamation expressing dismissal of something as nonsense:",
+        "defn_zh": "廢話!(表示不屑一顧)"
+      },
+      {
+        "word": "gesundheit",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "an expression said to someone who has just sneezed:",
+        "defn_zh": "保重(打噴嚏後的祝福語)"
+      }
+    ],
+    "prep.": [
+      {
+        "word": "via",
+        "pos": "prep.",
+        "pos_key": "prep.",
+        "defn_en": "by way of; passing through:",
+        "defn_zh": "經由;透過"
+      }
+    ]
+  }
+}
