@@ -1,0 +1,151 @@
+{
+  "id": "p2-18-electr",
+  "name": "electr",
+  "subtitle": "電；能量；激發；活力",
+  "words": [
+    {
+      "word": "electrify", "pos": "v.", "pos_key": "v.",
+      "defn_en": "to supply something with electricity or to excite and thrill people intensely:",
+      "defn_zh": "使通電；使震驚；使興奮；激起熱情",
+      "root_note": "electr (amber or electrical charge) + -fy (make or cause to become)",
+      "synonyms": ["energize", "thrill", "excite", "charge"], "antonyms": ["dull", "bore", "de-energize"],
+      "sentences": [
+        {"en": "The young political candidate managed to ______ the cynical crowd with passionate rhetoric, turning a dull rally into a high-energy movement.", "zh": "這位年輕政治候選人以充滿熱情的修辭激起原本憤世嫉俗群眾的情緒，把沉悶集會轉化為高能量運動。"},
+        {"en": "In the early twentieth century, municipal governments launched infrastructure projects to ______ rural communities and connect isolated homes to modern power grids.", "zh": "二十世紀初，地方政府發起大規模基礎設施計畫，使鄉村社區通電，並把偏遠住家接上現代電網。"}
+      ],
+      "category": {"part": 2, "num": "18", "spelling": "electr", "meaning": "電；能量；激發；活力"}
+    },
+    {
+      "word": "electrochemical", "pos": "adj.", "pos_key": "adj.",
+      "defn_en": "relating to chemical reactions that produce electricity or are caused by electric current:",
+      "defn_zh": "電化學的",
+      "root_note": "electr (electricity) + chem (chemical change) + -ical (relating to)",
+      "synonyms": ["electrolytic", "battery-related"], "antonyms": [],
+      "sentences": [
+        {"en": "Engineers are optimizing the ______ processes inside lithium-ion batteries to increase the energy density of electric vehicles.", "zh": "工程師正優化鋰離子電池內部的電化學過程，以提高電動車的能量密度。"},
+        {"en": "Human neurons rely on rapid ______ signals to transmit vital sensory information from the fingertips to the brain.", "zh": "人類神經元依賴快速的電化學訊號，把重要的感覺資訊從指尖傳送到大腦。"}
+      ],
+      "category": {"part": 2, "num": "18", "spelling": "electr", "meaning": "電；能量；激發；活力"}
+    },
+    {
+      "word": "electrolysis", "pos": "n.", "pos_key": "n.",
+      "defn_en": "the process of using electric current to split or chemically change a substance:",
+      "defn_zh": "電解；電解作用",
+      "root_note": "electr (electricity) + lysis (loosening or breaking down)",
+      "synonyms": ["electrolytic decomposition", "electrical separation"], "antonyms": [],
+      "sentences": [
+        {"en": "The manufacturing plant uses ______ to split water molecules into hydrogen and oxygen, creating a clean fuel source for heavy machinery.", "zh": "製造廠利用電解把水分子分解成氫氣與氧氣，為重型工業機械提供清潔燃料來源。"},
+        {"en": "Archaeologists carefully used mild ______ to remove centuries of rust and mineral deposits from iron artifacts recovered from a shipwreck.", "zh": "考古學家小心使用溫和電解法，清除沉船鐵器上累積數百年的鐵鏽和礦物沉積。"}
+      ],
+      "category": {"part": 2, "num": "18", "spelling": "electr", "meaning": "電；能量；激發；活力"}
+    },
+    {
+      "word": "electrode", "pos": "n.", "pos_key": "n.",
+      "defn_en": "a conductor through which electric current enters or leaves a substance or device:",
+      "defn_zh": "電極",
+      "root_note": "electr (electricity) + hodos (way or path)",
+      "synonyms": ["terminal", "conductor", "contact"], "antonyms": [],
+      "sentences": [
+        {"en": "During the examination, the technician attached a sensitive copper ______ to the patient's chest to monitor the electrical rhythm of his heartbeat.", "zh": "檢查期間，技術人員把敏感的銅製電極貼在患者胸口，以監測心跳的電氣節律。"},
+        {"en": "In the physics experiment, current traveled from the positive ______ through a vacuum tube toward the negative terminal.", "zh": "在物理實驗中，電流從正電極通過真空管流向負端。"}
+      ],
+      "category": {"part": 2, "num": "18", "spelling": "electr", "meaning": "電；能量；激發；活力"}
+    },
+    {
+      "word": "electron", "pos": "n.", "pos_key": "n.",
+      "defn_en": "a stable subatomic particle that carries a negative electric charge:",
+      "defn_zh": "電子",
+      "root_note": "electr (amber or electric charge) + -on (particle suffix)",
+      "synonyms": ["negative particle", "subatomic particle"], "antonyms": [],
+      "sentences": [
+        {"en": "A chemical bond can form when one atom shares or transfers a valence ______ to a neighboring atom, producing a stable molecular structure.", "zh": "當一個原子與鄰近原子共享或轉移一個價電子時，便可能形成化學鍵並產生穩定分子結構。"},
+        {"en": "An ______ microscope achieves extremely high magnification because the particles' wavelengths are much shorter than visible light waves.", "zh": "電子顯微鏡能達到極高放大倍率，因為電子的波長遠短於可見光波。"}
+      ],
+      "category": {"part": 2, "num": "18", "spelling": "electr", "meaning": "電；能量；激發；活力"}
+    },
+    {
+      "word": "electromagnetism", "pos": "n.", "pos_key": "n.",
+      "defn_en": "the physical interaction between electric charges, currents, and magnetic fields:",
+      "defn_zh": "電磁學；電磁作用",
+      "root_note": "electr (electricity) + magnetism (magnetic force)",
+      "synonyms": ["electromagnetic force", "electromagnetic interaction"], "antonyms": [],
+      "sentences": [
+        {"en": "James Clerk Maxwell transformed physics by showing that light is an electromagnetic wave governed by the laws of ______.", "zh": "詹姆斯・克拉克・馬克士威證明光是受電磁學定律支配的電磁波，徹底改變了物理學。"},
+        {"en": "High-speed maglev trains rely on ______ to levitate above the tracks, nearly eliminating friction and allowing extreme speeds.", "zh": "高速磁浮列車依賴電磁作用懸浮於軌道上方，幾乎完全消除摩擦並達到極高速度。"}
+      ],
+      "category": {"part": 2, "num": "18", "spelling": "electr", "meaning": "電；能量；激發；活力"}
+    },
+    {
+      "word": "galvanize", "pos": "v.", "pos_key": "v.",
+      "defn_en": "to shock or inspire someone into taking action, or to coat metal with protective zinc:",
+      "defn_zh": "激勵；促使採取行動；電鍍；鍍鋅",
+      "root_note": "from Luigi Galvani, whose experiments used electricity to stimulate muscles",
+      "synonyms": ["motivate", "rouse", "spur", "energize"], "antonyms": ["discourage", "deter", "paralyze"],
+      "sentences": [
+        {"en": "The environmental disaster served to ______ the community, shocking residents out of apathy and driving them to demand strict safety laws.", "zh": "這場環境災難激起地方社群，使居民擺脫冷漠並要求制定嚴格安全法規。"},
+        {"en": "The coach delivered an impassioned speech designed to ______ his exhausted team before the final quarter of the championship game.", "zh": "教練發表慷慨激昂的演說，旨在冠軍賽最後一節前激勵精疲力竭的球隊。"}
+      ],
+      "category": {"part": 2, "num": "18", "spelling": "electr", "meaning": "電；能量；激發；活力"}
+    },
+    {
+      "word": "vivacious", "pos": "adj.", "pos_key": "adj.",
+      "defn_en": "attractively lively, energetic, and full of enthusiasm:",
+      "defn_zh": "活潑的；神采奕奕的；精力充沛的",
+      "root_note": "viv or vita (life or energy) + -acious (full of or inclined to)",
+      "synonyms": ["lively", "animated", "spirited", "effervescent"], "antonyms": ["dull", "listless", "lethargic"],
+      "sentences": [
+        {"en": "Known for her ______ personality, the talk-show host charmed interviewees and kept viewers engaged with sparkling wit and bright laughter.", "zh": "這位脫口秀主持人以活潑個性聞名，以機智與爽朗笑聲吸引受訪者和觀眾。"},
+        {"en": "The spring festival featured ______ folk dances in which performers in colorful costumes leaped energetically to fast-paced music.", "zh": "春季慶典充滿活潑的民間舞蹈，身穿鮮豔服裝的表演者隨快節奏音樂充滿活力地跳躍。"}
+      ],
+      "category": {"part": 2, "num": "18", "spelling": "electr", "meaning": "電；能量；激發；活力"}
+    },
+    {
+      "word": "dynamic", "pos": "adj.", "pos_key": "adj.",
+      "defn_en": "energetic, forceful, or constantly changing and developing:",
+      "defn_zh": "充滿活力的；動態的；不斷變化的",
+      "root_note": "dynamis (power, force, or energy)",
+      "synonyms": ["energetic", "active", "changing", "vigorous"], "antonyms": ["static", "inactive", "unchanging"],
+      "sentences": [
+        {"en": "The technology market is highly ______, requiring companies to innovate constantly and adapt to rapidly changing consumer preferences.", "zh": "科技市場高度動態，要求企業持續創新並適應快速變化的消費者偏好。"},
+        {"en": "The novel's protagonist is a ______ character whose moral values shift dramatically as he faces severe hardships throughout his journey.", "zh": "小說主角是一名會發展變化的角色，他在旅程中面對艱難困苦時，道德價值觀也劇烈轉變。"}
+      ],
+      "category": {"part": 2, "num": "18", "spelling": "electr", "meaning": "電；能量；激發；活力"}
+    },
+    {
+      "word": "magnetic", "pos": "adj.", "pos_key": "adj.",
+      "defn_en": "relating to magnetism or having an unusually powerful ability to attract people:",
+      "defn_zh": "磁性的；極具吸引力的",
+      "root_note": "magnes (a stone that attracts iron) + -ic (relating to)",
+      "synonyms": ["attractive", "captivating", "charismatic", "compelling"], "antonyms": ["repellent", "unappealing"],
+      "sentences": [
+        {"en": "The actor possessed a ______ charisma that captivated everyone in the theater and made it impossible to look away during his scenes.", "zh": "這位演員擁有極具吸引力的魅力，瞬間吸引劇院裡每個人，使觀眾在他演出時無法移開視線。"},
+        {"en": "Tourists are drawn to the cultural capital by its ______ appeal, world-class museums, historic architecture, and diverse food scene.", "zh": "遊客被這座文化之都磁石般的吸引力、世界級博物館、歷史建築與多元美食所吸引。"}
+      ],
+      "category": {"part": 2, "num": "18", "spelling": "electr", "meaning": "電；能量；激發；活力"}
+    },
+    {
+      "word": "scintillating", "pos": "adj.", "pos_key": "adj.",
+      "defn_en": "brilliantly lively, clever, or sparkling:",
+      "defn_zh": "妙趣橫生的；才華橫溢的；閃爍奪目的",
+      "root_note": "scintilla (spark) + -ating (having an active quality)",
+      "synonyms": ["brilliant", "sparkling", "witty", "dazzling"], "antonyms": ["dull", "tedious", "uninspired"],
+      "sentences": [
+        {"en": "The dinner guests enjoyed the professor's ______ conversation, which moved effortlessly among physics, classical art, and witty political satire.", "zh": "晚宴賓客十分欣賞教授妙趣橫生的談話，內容在高階物理、古典藝術與機智政治諷刺間流暢轉換。"},
+        {"en": "Astronomers observed the ______ stars through the mountain telescope and tracked how cosmic light sparkled through Earth's atmosphere.", "zh": "天文學家透過高山望遠鏡觀察閃爍繁星，追蹤宇宙光如何穿過地球大氣層而閃耀。"}
+      ],
+      "category": {"part": 2, "num": "18", "spelling": "electr", "meaning": "電；能量；激發；活力"}
+    },
+    {
+      "word": "catalyst", "pos": "n.", "pos_key": "n.",
+      "defn_en": "a substance that speeds a chemical reaction or an event that causes major change or action:",
+      "defn_zh": "催化劑；促成變化的因素；導火線",
+      "root_note": "kata- (down or thoroughly) + lyein (loosen or release)",
+      "synonyms": ["stimulus", "trigger", "impetus", "accelerator"], "antonyms": ["deterrent", "inhibitor", "obstacle"],
+      "sentences": [
+        {"en": "The investigative report acted as a ______ for civil rights reform, triggering protests that forced the government to rewrite discriminatory laws.", "zh": "這份調查報告成為民權改革的催化劑，引發廣泛抗議，迫使政府修改歧視性法律。"},
+        {"en": "In the manufacturing process, platinum serves as a ______ that speeds the reaction without being consumed itself.", "zh": "在工業製程中，鉑作為催化劑，在本身不被消耗的情況下顯著加快反應。"}
+      ],
+      "category": {"part": 2, "num": "18", "spelling": "electr", "meaning": "電；能量；激發；活力"}
+    }
+  ]
+}
