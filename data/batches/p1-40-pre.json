@@ -1,0 +1,1594 @@
+{
+  "id": "p1-40-pre",
+  "part": "part1",
+  "part_label": "Part 1 字首篇 (Prefixes)",
+  "name": "pre",
+  "subtitle": "在⋯⋯之前",
+  "count": 49,
+  "words": [
+    {
+      "word": "pretext",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "an excuse:",
+      "defn_zh": "藉口",
+      "root_note": "pre- (before) + texere (to weave)",
+      "sentences": [
+        {
+          "en": "He used a doctor's appointment as a ______ to leave the meeting early.",
+          "zh": "他以看醫生為藉口提早離開會議。"
+        },
+        {
+          "en": "The soldiers invaded the town under the ______ of restoring order.",
+          "zh": "士兵們以恢復秩序為藉口入侵了這座城鎮。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "40",
+        "spelling": "pre",
+        "meaning": "在⋯⋯之前"
+      }
+    },
+    {
+      "word": "precocious",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "reaching maturity early:",
+      "defn_zh": "早熟的",
+      "root_note": "prae- (before) + coquere (to cook/ripen)",
+      "sentences": [
+        {
+          "en": "The ______ child could already read novels by the age of five.",
+          "zh": "這個早熟的孩子五歲就已經能閱讀小說了。"
+        },
+        {
+          "en": "Her ______ talent for music amazed everyone at the recital.",
+          "zh": "她在音樂方面早熟的天賦讓演奏會上的每個人都驚豔不已。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "40",
+        "spelling": "pre",
+        "meaning": "在⋯⋯之前"
+      }
+    },
+    {
+      "word": "premonition",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "forewarning:",
+      "defn_zh": "預感",
+      "root_note": "prae- (before) + monere (to warn)",
+      "sentences": [
+        {
+          "en": "She had a strange ______ that something bad was about to happen.",
+          "zh": "她有一種奇怪的預感,覺得將有不好的事情發生。"
+        },
+        {
+          "en": "His ______ about the storm turned out to be correct.",
+          "zh": "他對這場暴風雨的預感後來證實是正確的。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "40",
+        "spelling": "pre",
+        "meaning": "在⋯⋯之前"
+      }
+    },
+    {
+      "word": "premise",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "proposition for argument:",
+      "defn_zh": "前提/假設",
+      "root_note": "prae- (before) + mittere (to send/put)",
+      "sentences": [
+        {
+          "en": "The whole argument rests on the ______ that everyone acts in their own self-interest.",
+          "zh": "整個論點都建立在人人都出於自身利益行事這個前提上。"
+        },
+        {
+          "en": "If the initial ______ is false, the entire conclusion falls apart.",
+          "zh": "如果最初的假設是錯誤的,整個結論就會站不住腳。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "40",
+        "spelling": "pre",
+        "meaning": "在⋯⋯之前"
+      }
+    },
+    {
+      "word": "precipitate",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to hasten, cause:",
+      "defn_zh": "促成/使沉澱",
+      "root_note": "prae- (before) + caput (head)",
+      "sentences": [
+        {
+          "en": "The assassination helped to ______ the outbreak of war.",
+          "zh": "這起暗殺事件促成了戰爭的爆發。"
+        },
+        {
+          "en": "A sudden drop in temperature can ______ the formation of ice crystals.",
+          "zh": "氣溫驟降能促成冰晶的形成。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "40",
+        "spelling": "pre",
+        "meaning": "在⋯⋯之前"
+      }
+    },
+    {
+      "word": "preclude",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to prevent:",
+      "defn_zh": "排除/防止",
+      "root_note": "prae- (before) + claudere (to shut)",
+      "sentences": [
+        {
+          "en": "A prior commitment will ______ him from attending the wedding.",
+          "zh": "先前的行程安排使他無法參加這場婚禮。"
+        },
+        {
+          "en": "New safety regulations are designed to ______ future accidents.",
+          "zh": "新的安全法規旨在防止未來發生意外。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "40",
+        "spelling": "pre",
+        "meaning": "在⋯⋯之前"
+      }
+    },
+    {
+      "word": "prelude",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "introduction:",
+      "defn_zh": "序幕/前奏",
+      "root_note": "prae- (before) + ludere (to play)",
+      "sentences": [
+        {
+          "en": "The small protest turned out to be just a ______ to a much larger uprising.",
+          "zh": "這場小規模的抗議結果只是一場更大規模起義的序幕。"
+        },
+        {
+          "en": "The composer's early works served as a ______ to his later masterpieces.",
+          "zh": "這位作曲家早期的作品成為他後來傑作的前奏。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "40",
+        "spelling": "pre",
+        "meaning": "在⋯⋯之前"
+      }
+    },
+    {
+      "word": "prevalent",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "primary, common, general:",
+      "defn_zh": "普遍的/盛行的",
+      "root_note": "prae- (before) + valere (to be strong)",
+      "sentences": [
+        {
+          "en": "Obesity has become increasingly ______ in modern society.",
+          "zh": "肥胖問題在現代社會中變得越來越普遍。"
+        },
+        {
+          "en": "The disease is most ______ in regions with poor sanitation.",
+          "zh": "這種疾病在衛生條件不佳的地區最為盛行。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "40",
+        "spelling": "pre",
+        "meaning": "在⋯⋯之前"
+      }
+    },
+    {
+      "word": "precedent",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "earlier example of something similar:",
+      "defn_zh": "先例/前例",
+      "root_note": "prae- (before) + cedere (to go)",
+      "sentences": [
+        {
+          "en": "The court's ruling set an important legal ______.",
+          "zh": "這項法院判決樹立了一個重要的法律先例。"
+        },
+        {
+          "en": "Allowing one exception could set a dangerous ______ for the future.",
+          "zh": "允許一次例外可能會為未來立下危險的先例。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "40",
+        "spelling": "pre",
+        "meaning": "在⋯⋯之前"
+      }
+    },
+    {
+      "word": "prerogative",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "exclusive power or right:",
+      "defn_zh": "特權",
+      "root_note": "prae- (before) + rogare (to ask)",
+      "sentences": [
+        {
+          "en": "It is the president's ______ to appoint new cabinet members.",
+          "zh": "任命新的內閣成員是總統的特權。"
+        },
+        {
+          "en": "Choosing her own career path was a ______ she valued deeply.",
+          "zh": "選擇自己的職業道路是她非常珍視的一項特權。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "40",
+        "spelling": "pre",
+        "meaning": "在⋯⋯之前"
+      }
+    },
+    {
+      "word": "prevarication",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "lie, deviation from the truth:",
+      "defn_zh": "支吾/撒謊",
+      "root_note": "prae- (before) + varicare (to straddle)",
+      "sentences": [
+        {
+          "en": "The witness's ______ frustrated the lawyers on both sides.",
+          "zh": "這位證人閃爍其詞的說法讓雙方律師都感到十分沮喪。"
+        },
+        {
+          "en": "His constant ______ made it hard to trust anything he said.",
+          "zh": "他不斷含糊其辭,讓人很難相信他所說的任何話。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "40",
+        "spelling": "pre",
+        "meaning": "在⋯⋯之前"
+      }
+    },
+    {
+      "word": "presumptuous",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "too forward or bold; overstepping proper bounds",
+      "defn_zh": "專擅的；冒失的",
+      "root_note": "prae- (before) + sumere (to take)",
+      "sentences": [
+        {
+          "en": "It would be ______ of me to assume I already have the job.",
+          "zh": "假設自己已經得到這份工作,那未免太自以為是了。"
+        },
+        {
+          "en": "She found his ______ request for a raise, made on his first day, quite bold.",
+          "zh": "她覺得他上班第一天就冒昧地要求加薪,實在太大膽了。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "40",
+        "spelling": "pre",
+        "meaning": "在⋯⋯之前"
+      }
+    },
+    {
+      "word": "pretentious",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "claiming or pretending increased importance or grandness",
+      "defn_zh": "自命不凡的",
+      "root_note": "prae- (before) + tendere (to stretch)",
+      "sentences": [
+        {
+          "en": "The restaurant's ______ menu described a simple salad in absurdly fancy terms.",
+          "zh": "這家餐廳自命不凡的菜單用荒謬華麗的詞彙來描述一道簡單的沙拉。"
+        },
+        {
+          "en": "His ______ use of big words didn't impress anyone at the meeting.",
+          "zh": "他在會議上刻意賣弄艱深詞彙,自命不凡的樣子並沒有讓任何人印象深刻。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "40",
+        "spelling": "pre",
+        "meaning": "在⋯⋯之前"
+      }
+    },
+    {
+      "word": "predator",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "one who takes advantage of another, exploits or feeds on another; a strong adversary or rival",
+      "defn_zh": "掠食者",
+      "root_note": "prae- (before) + dare (to seize/give)",
+      "sentences": [
+        {
+          "en": "The lion is a top ______ in the African savanna.",
+          "zh": "獅子是非洲大草原上的頂級掠食者。"
+        },
+        {
+          "en": "Online scammers act as ______s, targeting the elderly and vulnerable.",
+          "zh": "網路詐騙者如同掠食者一般,專門鎖定老年人和弱勢族群下手。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "40",
+        "spelling": "pre",
+        "meaning": "在⋯⋯之前"
+      }
+    },
+    {
+      "word": "unprecedented",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "novel; unparalleled",
+      "defn_zh": "空前的",
+      "root_note": "un- (not) + prae- (before) + cedere (to go)",
+      "sentences": [
+        {
+          "en": "The pandemic caused ______ disruptions to the global economy.",
+          "zh": "這場疫情對全球經濟造成了前所未有的衝擊。"
+        },
+        {
+          "en": "Ticket sales reached ______ levels for the reunion concert.",
+          "zh": "這場重聚演唱會的票券銷售達到了空前的水準。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "40",
+        "spelling": "pre",
+        "meaning": "在⋯⋯之前"
+      }
+    },
+    {
+      "word": "preapprehension",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "an understanding or perception formed in advance:",
+      "defn_zh": "預先認知;先入之見",
+      "root_note": "prae- (before) + apprehendere (to seize, understand), from Latin",
+      "sentences": [
+        {
+          "en": "Her ______ of the difficult negotiation proved largely accurate.",
+          "zh": "她對這場困難談判的預先認知結果證明大致準確。"
+        },
+        {
+          "en": "Philosophers debated whether all knowledge begins with some form of ______ .",
+          "zh": "哲學家爭論所有知識是否都始於某種形式的先入之見。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "40",
+        "spelling": "pre",
+        "meaning": "在⋯⋯之前"
+      }
+    },
+    {
+      "word": "precipice",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "the face of a cliff, a steep or overhanging place:",
+      "defn_zh": "懸崖/絕壁",
+      "root_note": "prae- (before) + caput (head, hence praeceps headlong)",
+      "sentences": [
+        {
+          "en": "The hikers stopped just short of the ______, their hearts pounding.",
+          "zh": "這群健行者在懸崖邊緣停下腳步,心跳劇烈。"
+        },
+        {
+          "en": "The country stood on the ______ of economic collapse.",
+          "zh": "這個國家正站在經濟崩潰的懸崖邊緣。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "40",
+        "spelling": "pre",
+        "meaning": "在⋯⋯之前"
+      }
+    },
+    {
+      "word": "precognition",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "supposed knowledge of an event before it happens:",
+      "defn_zh": "預知;超前認知",
+      "root_note": "prae- (before) + cognitio (knowledge), from Latin cognoscere (to know)",
+      "sentences": [
+        {
+          "en": "She claimed to have had a moment of ______ before the accident occurred.",
+          "zh": "她聲稱在這起意外發生前有過一瞬間的預知感。"
+        },
+        {
+          "en": "Scientists remain skeptical of claims involving ______ .",
+          "zh": "科學家對涉及預知能力的主張始終抱持懷疑態度。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "40",
+        "spelling": "pre",
+        "meaning": "在⋯⋯之前"
+      }
+    },
+    {
+      "word": "precursor",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a person or thing that precedes and leads to the development of something else:",
+      "defn_zh": "先驅;前身",
+      "root_note": "prae- (before) + currere (to run), from Latin",
+      "sentences": [
+        {
+          "en": "The telegraph served as a ______ to modern telecommunications.",
+          "zh": "電報作為現代電信通訊的先驅。"
+        },
+        {
+          "en": "Historians consider the pamphlet a ______ to the revolutionary movement.",
+          "zh": "歷史學家認為這本小冊子是這場革命運動的先驅。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "40",
+        "spelling": "pre",
+        "meaning": "在⋯⋯之前"
+      }
+    },
+    {
+      "word": "predetermine",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to decide or determine in advance, especially by fate or a higher power:",
+      "defn_zh": "預先決定",
+      "root_note": "prae- (before) + de- (down) + terminare (to limit)",
+      "sentences": [
+        {
+          "en": "His actions seemed ______, as if everything had already been decided for him.",
+          "zh": "他的行動看起來像是命中註定,彷彿一切早已被預先決定好了。"
+        },
+        {
+          "en": "The results of the rigged election were entirely ______.",
+          "zh": "這場舞弊選舉的結果完全是預先決定好的。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "40",
+        "spelling": "pre",
+        "meaning": "在⋯⋯之前"
+      }
+    },
+    {
+      "word": "predetermined",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "decided in advance:",
+      "defn_zh": "預先決定的",
+      "root_note": "prae- (before) + de- (down) + terminare (to limit)",
+      "sentences": [
+        {
+          "en": "The outcome seemed ______ and that we could do nothing to change it.",
+          "zh": "這個結果似乎是預先決定的,我們無法做任何改變。"
+        },
+        {
+          "en": "Each contestant was given a ______ amount of time to answer.",
+          "zh": "每位參賽者都被分配到一段預先決定好的答題時間。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "40",
+        "spelling": "pre",
+        "meaning": "在⋯⋯之前"
+      }
+    },
+    {
+      "word": "predict",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to say what will happen in the future:",
+      "defn_zh": "預測",
+      "root_note": "prae- (before) + dicere (to say)",
+      "sentences": [
+        {
+          "en": "Meteorologists ______ rain tomorrow.",
+          "zh": "氣象學家預測明天會下雨。"
+        },
+        {
+          "en": "No one could ______ how successful the small startup would become.",
+          "zh": "沒有人能預測這家小型新創公司會變得如此成功。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "40",
+        "spelling": "pre",
+        "meaning": "在⋯⋯之前"
+      }
+    },
+    {
+      "word": "predilection",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a preference or inclination for something:",
+      "defn_zh": "偏好/偏愛",
+      "root_note": "prae- (before) + diligere (to love, select)",
+      "sentences": [
+        {
+          "en": "She has always had a ______ for mystery novels over any other genre.",
+          "zh": "比起其他任何類型,她一直對懸疑小說情有獨鍾。"
+        },
+        {
+          "en": "His ______ for spicy food often surprised his dinner guests.",
+          "zh": "他對辛辣食物的偏好常常讓晚宴賓客感到意外。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "40",
+        "spelling": "pre",
+        "meaning": "在⋯⋯之前"
+      }
+    },
+    {
+      "word": "predispose",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to make someone susceptible to a particular condition or behavior beforehand:",
+      "defn_zh": "使易於;使傾向於",
+      "root_note": "prae- (before) + disponere (to arrange), from Latin",
+      "sentences": [
+        {
+          "en": "Genetics can ______ certain individuals to particular illnesses.",
+          "zh": "基因可能使某些人容易罹患特定的疾病。"
+        },
+        {
+          "en": "Early childhood experiences often ______ people toward certain habits.",
+          "zh": "早期的童年經驗往往使人們傾向於形成特定的習慣。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "40",
+        "spelling": "pre",
+        "meaning": "在⋯⋯之前"
+      }
+    },
+    {
+      "word": "predisposition",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a tendency to a particular condition or behavior, existing beforehand:",
+      "defn_zh": "先天傾向;易感性",
+      "root_note": "prae- (before) + disponere (to arrange), from Latin",
+      "sentences": [
+        {
+          "en": "Doctors asked about any family ______ to heart disease.",
+          "zh": "醫生詢問是否有任何心臟病的家族先天傾向。"
+        },
+        {
+          "en": "Her ______ toward anxiety made public speaking especially difficult.",
+          "zh": "她天生容易焦慮的傾向讓公開演講變得格外困難。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "40",
+        "spelling": "pre",
+        "meaning": "在⋯⋯之前"
+      }
+    },
+    {
+      "word": "preeminent",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "surpassing all others; distinguished above all others:",
+      "defn_zh": "卓越的;首屈一指的",
+      "root_note": "prae- (before) + eminere (to stand out), from Latin",
+      "sentences": [
+        {
+          "en": "She is regarded as the ______ expert in her field of study.",
+          "zh": "她被視為她研究領域中首屈一指的專家。"
+        },
+        {
+          "en": "The university attracted the ______ scholars of the century.",
+          "zh": "這所大學吸引了這個世紀最卓越的學者。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "40",
+        "spelling": "pre",
+        "meaning": "在⋯⋯之前"
+      }
+    },
+    {
+      "word": "preference",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a greater liking for one option over another:",
+      "defn_zh": "偏好;偏愛",
+      "root_note": "prae- (before) + ferre (to carry), from Latin",
+      "sentences": [
+        {
+          "en": "She stated a clear ______ for tea over coffee.",
+          "zh": "她明確表示了對茶而非咖啡的偏好。"
+        },
+        {
+          "en": "The survey asked customers about their ______ s regarding delivery times.",
+          "zh": "這項調查詢問顧客對送貨時間的偏好。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "40",
+        "spelling": "pre",
+        "meaning": "在⋯⋯之前"
+      }
+    },
+    {
+      "word": "prejudice",
+      "pos": "n./v.",
+      "pos_key": "n.",
+      "defn_en": "a preconceived opinion not based on reason; to cause bias:",
+      "defn_zh": "偏見;成見",
+      "root_note": "prae- (before) + judicium (judgment), from Latin",
+      "sentences": [
+        {
+          "en": "The community worked hard to overcome longstanding racial ______ .",
+          "zh": "這個社區努力克服長期存在的種族偏見。"
+        },
+        {
+          "en": "The lawyer argued that pretrial publicity could ______ the jury.",
+          "zh": "這位律師主張審判前的媒體報導可能會影響陪審團的公正。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "40",
+        "spelling": "pre",
+        "meaning": "在⋯⋯之前"
+      }
+    },
+    {
+      "word": "prelapsarian",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "relating to the innocent period before a significant fall or loss:",
+      "defn_zh": "墮落之前的;純真時期的",
+      "root_note": "prae- (before) + lapsus (a fall), from Latin labi (to slip)",
+      "sentences": [
+        {
+          "en": "The novel evokes a ______ innocence before the war destroyed everything.",
+          "zh": "這本小說喚起了戰爭摧毀一切之前那份墮落之前的純真。"
+        },
+        {
+          "en": "She longed for the ______ simplicity of her childhood summers.",
+          "zh": "她渴望回到童年夏日那份未經世事的純真簡單。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "40",
+        "spelling": "pre",
+        "meaning": "在⋯⋯之前"
+      }
+    },
+    {
+      "word": "preliminary",
+      "pos": "adj./n.",
+      "pos_key": "adj.",
+      "defn_en": "preceding and preparing for something more important:",
+      "defn_zh": "初步的;預備的",
+      "root_note": "prae- (before) + limen (threshold), from Latin",
+      "sentences": [
+        {
+          "en": "The doctor ordered a ______ blood test before the full diagnosis.",
+          "zh": "醫生在做出完整診斷前安排了一項初步的血液檢查。"
+        },
+        {
+          "en": "The ______ results looked promising for the new drug trial.",
+          "zh": "這項新藥試驗的初步結果看起來相當有希望。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "40",
+        "spelling": "pre",
+        "meaning": "在⋯⋯之前"
+      }
+    },
+    {
+      "word": "premeditated",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "planned beforehand:",
+      "defn_zh": "預謀的",
+      "root_note": "prae- (before) + meditari (to meditate)",
+      "sentences": [
+        {
+          "en": "Because the man had planned the theft for weeks, it was obvious the crime was ______.",
+          "zh": "由於這名男子已經策劃這起竊案好幾個星期,顯然這是一起預謀犯罪。"
+        },
+        {
+          "en": "The prosecutor argued that the attack was clearly ______.",
+          "zh": "檢察官主張這起攻擊事件顯然是有預謀的。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "40",
+        "spelling": "pre",
+        "meaning": "在⋯⋯之前"
+      }
+    },
+    {
+      "word": "premonitory",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "giving warning of something in advance:",
+      "defn_zh": "預兆的;預警的",
+      "root_note": "prae- (before) + monere (to warn), from Latin",
+      "sentences": [
+        {
+          "en": "A dull headache served as a ______ sign of the coming migraine.",
+          "zh": "一陣隱隱的頭痛作為即將到來的偏頭痛的預兆徵兆。"
+        },
+        {
+          "en": "She experienced a ______ dream the night before the earthquake.",
+          "zh": "她在這場地震前一晚做了一個帶有預兆意味的夢。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "40",
+        "spelling": "pre",
+        "meaning": "在⋯⋯之前"
+      }
+    },
+    {
+      "word": "preponderance",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "superiority in importance or quantity:",
+      "defn_zh": "優勢/多數",
+      "root_note": "prae- (before) + ponderare (to weigh)",
+      "sentences": [
+        {
+          "en": "The jury found a clear ______ of evidence pointing to his guilt.",
+          "zh": "陪審團發現大量證據明顯指向他有罪。"
+        },
+        {
+          "en": "A ______ of young voters supported the new candidate.",
+          "zh": "大多數年輕選民都支持這位新候選人。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "40",
+        "spelling": "pre",
+        "meaning": "在⋯⋯之前"
+      }
+    },
+    {
+      "word": "prepossess",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to influence someone beforehand, especially favorably:",
+      "defn_zh": "使先入為主;使產生好感",
+      "root_note": "prae- (before) + possess, from Latin possidere (to have and hold)",
+      "sentences": [
+        {
+          "en": "His charming manner tended to ______ new acquaintances in his favor.",
+          "zh": "他迷人的舉止總是讓新結識的人對他先入為主地產生好感。"
+        },
+        {
+          "en": "Her glowing reputation would ______ even the sternest interviewers.",
+          "zh": "她耀眼的名聲總是能讓即使最嚴厲的面試官都先產生好感。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "40",
+        "spelling": "pre",
+        "meaning": "在⋯⋯之前"
+      }
+    },
+    {
+      "word": "prepossessing",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "occupying the mind to the exclusion of other thoughts:",
+      "defn_zh": "先入為主的/占據心思的",
+      "root_note": "prae- (before) + possidere (to possess)",
+      "sentences": [
+        {
+          "en": "A ______ fear of failure kept him from ever submitting his manuscript.",
+          "zh": "一股先入為主的失敗恐懼,讓他始終不敢遞交自己的手稿。"
+        },
+        {
+          "en": "Her ______ worry about the exam made it hard to focus on anything else.",
+          "zh": "她對這場考試揮之不去的擔憂,讓她難以專注在其他任何事情上。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "40",
+        "spelling": "pre",
+        "meaning": "在⋯⋯之前"
+      }
+    },
+    {
+      "word": "presage",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "an omen:",
+      "defn_zh": "預兆/前兆",
+      "root_note": "prae- (before) + sagire (to perceive keenly)",
+      "sentences": [
+        {
+          "en": "The old sailors viewed the strange cloud formation as a ______ of the storm.",
+          "zh": "老水手們將這片奇異的雲層視為暴風雨的預兆。"
+        },
+        {
+          "en": "Her sudden illness felt like a grim ______ of what was to come.",
+          "zh": "她突如其來的病痛,彷彿是即將發生之事的不祥預兆。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "40",
+        "spelling": "pre",
+        "meaning": "在⋯⋯之前"
+      }
+    },
+    {
+      "word": "prescience",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "knowledge of events before they happen; foresight:",
+      "defn_zh": "先見之明;預知能力",
+      "root_note": "prae- (before) + scire (to know), from Latin",
+      "sentences": [
+        {
+          "en": "Her uncanny ______ allowed her to anticipate the market crash.",
+          "zh": "她驚人的先見之明讓她能夠預見這場市場崩盤。"
+        },
+        {
+          "en": "The author's ______ about future technology impressed later readers.",
+          "zh": "這位作者對未來科技的先見之明讓後世的讀者印象深刻。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "40",
+        "spelling": "pre",
+        "meaning": "在⋯⋯之前"
+      }
+    },
+    {
+      "word": "prescient",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "to have foreknowledge of events:",
+      "defn_zh": "有先見之明的",
+      "root_note": "prae- (before) + scire (to know)",
+      "sentences": [
+        {
+          "en": "Her ______ warnings about the market crash proved entirely accurate.",
+          "zh": "她對市場崩盤具有先見之明的警告,後來證實完全正確。"
+        },
+        {
+          "en": "The novel's ______ depiction of future technology impressed critics decades later.",
+          "zh": "這部小說對未來科技具有先見之明的描寫,數十年後仍讓評論家印象深刻。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "40",
+        "spelling": "pre",
+        "meaning": "在⋯⋯之前"
+      }
+    },
+    {
+      "word": "prescribe",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to recommend or authorize the use of something, especially a treatment or remedy:",
+      "defn_zh": "開處方/規定",
+      "root_note": "prae- (before) + scribere (to write)",
+      "sentences": [
+        {
+          "en": "The doctor will ______ a course of antibiotics to treat the infection.",
+          "zh": "醫生將開立一個療程的抗生素來治療這次感染。"
+        },
+        {
+          "en": "The doctor ______ antibiotics when I had an ear infection.",
+          "zh": "我耳朵感染時,醫生開了抗生素給我。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "40",
+        "spelling": "pre",
+        "meaning": "在⋯⋯之前"
+      }
+    },
+    {
+      "word": "prescription",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "an instruction written by a doctor for medicine; an authoritative recommendation:",
+      "defn_zh": "處方;規定",
+      "root_note": "prae- (before) + scribere (to write), from Latin",
+      "sentences": [
+        {
+          "en": "She picked up her ______ from the pharmacy after work.",
+          "zh": "她下班後到藥局取了她的處方藥。"
+        },
+        {
+          "en": "The economist offered a bold ______ for reviving the economy.",
+          "zh": "這位經濟學家提出了一項大膽的振興經濟處方。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "40",
+        "spelling": "pre",
+        "meaning": "在⋯⋯之前"
+      }
+    },
+    {
+      "word": "presentiment",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "an intuitive feeling about the future, especially of something bad:",
+      "defn_zh": "預感(尤指不祥的)",
+      "root_note": "prae- (before) + sentire (to feel), from Latin, via French",
+      "sentences": [
+        {
+          "en": "She had a strange ______ that something was wrong before the phone rang.",
+          "zh": "電話鈴響之前,她有一種奇怪的預感,覺得事情不太對勁。"
+        },
+        {
+          "en": "A dark ______ settled over the household on the eve of the storm.",
+          "zh": "在暴風雨來臨的前夕,一種不祥的預感籠罩了這個家庭。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "40",
+        "spelling": "pre",
+        "meaning": "在⋯⋯之前"
+      }
+    },
+    {
+      "word": "preserve",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to keep something in its original state:",
+      "defn_zh": "保存/維護",
+      "root_note": "prae- (before) + servare (to keep)",
+      "sentences": [
+        {
+          "en": "The builders worked to ______ the house's original decorations.",
+          "zh": "建築工人努力保存這棟房子原有的裝飾。"
+        },
+        {
+          "en": "The nature reserve was created to ______ the region's rare wildlife.",
+          "zh": "這座自然保護區的成立是為了保護這個地區稀有的野生動物。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "40",
+        "spelling": "pre",
+        "meaning": "在⋯⋯之前"
+      }
+    },
+    {
+      "word": "presume",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to assume something to be true:",
+      "defn_zh": "假定/推測",
+      "root_note": "prae- (before) + sumere (to take)",
+      "sentences": [
+        {
+          "en": "I ______ he will be late to the party.",
+          "zh": "我猜想他派對會遲到。"
+        },
+        {
+          "en": "You shouldn't ______ that everyone shares your opinion.",
+          "zh": "你不應該假定每個人都認同你的看法。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "40",
+        "spelling": "pre",
+        "meaning": "在⋯⋯之前"
+      }
+    },
+    {
+      "word": "presumption",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "an assumption taken as true without proof; arrogant behavior:",
+      "defn_zh": "假定;放肆",
+      "root_note": "prae- (before) + sumere (to take), from Latin",
+      "sentences": [
+        {
+          "en": "The court operates on the ______ of innocence until proven guilty.",
+          "zh": "法院是根據無罪推定的原則運作的,直到證明有罪為止。"
+        },
+        {
+          "en": "His ______ in speaking for the entire group offended several members.",
+          "zh": "他擅自代表整個團體發言的放肆行為冒犯了好幾位成員。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "40",
+        "spelling": "pre",
+        "meaning": "在⋯⋯之前"
+      }
+    },
+    {
+      "word": "presumptuousness",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "the quality of being overly bold or arrogant:",
+      "defn_zh": "放肆;僭越",
+      "root_note": "prae- (before) + sumere (to take), from Latin",
+      "sentences": [
+        {
+          "en": "His ______ in criticizing the CEO's decision shocked the entire room.",
+          "zh": "他批評執行長決定時的放肆態度震驚了整個會場。"
+        },
+        {
+          "en": "She apologized for the ______ of assuming she'd already been invited.",
+          "zh": "她為擅自假設自己已被邀請的放肆行為道了歉。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "40",
+        "spelling": "pre",
+        "meaning": "在⋯⋯之前"
+      }
+    },
+    {
+      "word": "pretense",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "an appearance or action intended to deceive:",
+      "defn_zh": "藉口/偽裝",
+      "root_note": "prae- (before) + tendere (to stretch)",
+      "sentences": [
+        {
+          "en": "He entered the office under the ______ of delivering a package.",
+          "zh": "他以送包裹為藉口進入了這間辦公室。"
+        },
+        {
+          "en": "She dropped all ______ of politeness once the meeting ended.",
+          "zh": "會議一結束,她便放下了所有禮貌的偽裝。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "40",
+        "spelling": "pre",
+        "meaning": "在⋯⋯之前"
+      }
+    },
+    {
+      "word": "prevail",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to prove more powerful or superior; to win or succeed after a struggle:",
+      "defn_zh": "獲勝/盛行",
+      "root_note": "prae- (before) + valere (to be strong)",
+      "sentences": [
+        {
+          "en": "After a long legal battle, justice finally ______.",
+          "zh": "經過一場漫長的法律訴訟,正義終於獲得伸張。"
+        },
+        {
+          "en": "Justice will always ______.",
+          "zh": "正義終將獲勝。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "40",
+        "spelling": "pre",
+        "meaning": "在⋯⋯之前"
+      }
+    },
+    {
+      "word": "prevent",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to stop something from happening:",
+      "defn_zh": "預防;阻止",
+      "root_note": "prae- (before) + venire (to come), from Latin",
+      "sentences": [
+        {
+          "en": "Vaccination can ______ the spread of many infectious diseases.",
+          "zh": "接種疫苗能預防許多傳染病的擴散。"
+        },
+        {
+          "en": "A last-minute call helped ______ the deal from falling apart.",
+          "zh": "一通最後一刻的電話幫助阻止了這筆交易的破裂。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "40",
+        "spelling": "pre",
+        "meaning": "在⋯⋯之前"
+      }
+    },
+    {
+      "word": "preventable",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "able to be avoided:",
+      "defn_zh": "可預防的",
+      "root_note": "prae- (before) + venire (to come)",
+      "sentences": [
+        {
+          "en": "Many diseases are ______ with vaccines.",
+          "zh": "許多疾病是可以透過疫苗預防的。"
+        },
+        {
+          "en": "The report concluded that most of the accidents were entirely ______.",
+          "zh": "這份報告的結論是,大多數的意外其實都是可以預防的。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "40",
+        "spelling": "pre",
+        "meaning": "在⋯⋯之前"
+      }
+    }
+  ],
+  "family_options": {},
+  "fallback_options": {
+    "v.": [
+      {
+        "word": "abound",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to exist in great numbers:",
+        "defn_zh": "充滿"
+      },
+      {
+        "word": "abrogate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to deprive of legal force, to nullify:=abolish",
+        "defn_zh": "廢除/取消"
+      },
+      {
+        "word": "abjure",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to renounce, abstain from:",
+        "defn_zh": "發誓放棄/棄絕"
+      },
+      {
+        "word": "abbreviate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to shorten a word or phrase:",
+        "defn_zh": "縮寫;縮短"
+      },
+      {
+        "word": "abdicate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to give up a position, usually one of leadership:",
+        "defn_zh": "退位/放棄(職位)"
+      },
+      {
+        "word": "abduct",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to kidnap, take by force:",
+        "defn_zh": "綁架/劫持"
+      },
+      {
+        "word": "abhor",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to regard with disgust and hatred:",
+        "defn_zh": "憎惡/厭惡"
+      },
+      {
+        "word": "abnegate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to deny or renounce:",
+        "defn_zh": "放棄/克制"
+      },
+      {
+        "word": "abolish",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to formally put an end to a system, practice, or institution:",
+        "defn_zh": "廢除"
+      },
+      {
+        "word": "abort",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to give up on a half-finished project or effort:",
+        "defn_zh": "中止/放棄"
+      },
+      {
+        "word": "abrade",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to scrape or wear away by friction:",
+        "defn_zh": "磨損;擦傷"
+      },
+      {
+        "word": "abscond",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to sneak away and hide:",
+        "defn_zh": "潛逃/逃匿"
+      }
+    ],
+    "adj.": [
+      {
+        "word": "abortive",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "fruitless, failing:",
+        "defn_zh": "失敗的/夭折的"
+      },
+      {
+        "word": "abstemious",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "moderate in eating or drinking:",
+        "defn_zh": "飲食有節制的"
+      },
+      {
+        "word": "abhorrent",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "detestable, despised:",
+        "defn_zh": "令人厭惡的"
+      },
+      {
+        "word": "absurd",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "ridiculous:",
+        "defn_zh": "荒謬的"
+      },
+      {
+        "word": "aberrant",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "deviating from what is normal or expected:",
+        "defn_zh": "異常的;脫軌的"
+      },
+      {
+        "word": "abject",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "wretched, pitiful:",
+        "defn_zh": "卑賤的/淒慘的"
+      },
+      {
+        "word": "abominable",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "causing moral revulsion; extremely unpleasant:",
+        "defn_zh": "可憎的;惡劣的"
+      },
+      {
+        "word": "abounding",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "existing in large numbers or amounts:",
+        "defn_zh": "大量存在的;豐富的"
+      },
+      {
+        "word": "abrasive",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "showing little concern for others; harsh:",
+        "defn_zh": "粗暴的/刺耳的"
+      },
+      {
+        "word": "abrupt",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "sudden or unexpected; brief and curt in manner:",
+        "defn_zh": "突然的/唐突的"
+      },
+      {
+        "word": "abstract",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "existing purely in the mind; not representing actual reality:",
+        "defn_zh": "抽象的"
+      },
+      {
+        "word": "abstruse",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "hard to comprehend:",
+        "defn_zh": "深奧難懂的"
+      }
+    ],
+    "n.": [
+      {
+        "word": "aversion",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "strong dislike, opposition:",
+        "defn_zh": "厭惡/反感"
+      },
+      {
+        "word": "aberration",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "something that differs from the norm:",
+        "defn_zh": "異常/脫軌"
+      },
+      {
+        "word": "abjection",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a state of complete misery, hopelessness, or degradation:",
+        "defn_zh": "卑賤;悲慘狀態"
+      },
+      {
+        "word": "abjuration",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the solemn renunciation of a belief, cause, or claim:",
+        "defn_zh": "公開放棄;誓絕"
+      },
+      {
+        "word": "ablution",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the act of washing oneself, especially as part of a religious ritual:",
+        "defn_zh": "沐浴;淨身儀式"
+      },
+      {
+        "word": "abnegation",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "denial of comfort to oneself:",
+        "defn_zh": "自我克制/放棄"
+      },
+      {
+        "word": "abomination",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "something that causes disgust or hatred:",
+        "defn_zh": "可憎之事;令人厭惡的東西"
+      },
+      {
+        "word": "abridgement",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a shortened version of a book or other written work:",
+        "defn_zh": "節略本;縮減版"
+      },
+      {
+        "word": "absolution",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "freedom from blame, guilt, sin:",
+        "defn_zh": "赦免/免罪"
+      },
+      {
+        "word": "abstemiousness",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "moderation or self-restraint, especially in eating and drinking:",
+        "defn_zh": "節制;克己"
+      },
+      {
+        "word": "abstinence",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the practice of restraining oneself from something enjoyable, especially food, alcohol, or sex:",
+        "defn_zh": "節制;戒絕"
+      },
+      {
+        "word": "avocation",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a hobby or minor occupation apart from one's main career:",
+        "defn_zh": "副業;業餘愛好"
+      }
+    ],
+    "adv.": [
+      {
+        "word": "accordingly",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in a manner that fits the circumstances; consequently:",
+        "defn_zh": "相應地;因此"
+      },
+      {
+        "word": "inadvertently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "unintentionally or by accident:",
+        "defn_zh": "無意間/不小心地"
+      },
+      {
+        "word": "consequently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "as a result; therefore:",
+        "defn_zh": "因此;結果"
+      },
+      {
+        "word": "contemptuously",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "without respect; in a disdainful manner:",
+        "defn_zh": "輕蔑地"
+      },
+      {
+        "word": "involuntarily",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "done without conscious control:",
+        "defn_zh": "不由自主地"
+      },
+      {
+        "word": "cordially",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in a warm or friendly manner:",
+        "defn_zh": "誠摯地/友好地"
+      },
+      {
+        "word": "ipso facto",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "by that very fact or act:",
+        "defn_zh": "事實上;因此"
+      },
+      {
+        "word": "en passant",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in passing; incidentally:",
+        "defn_zh": "順帶一提地;偶然地"
+      },
+      {
+        "word": "regardless",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "despite the prevailing circumstances; without being deterred:",
+        "defn_zh": "不管怎樣;儘管如此"
+      },
+      {
+        "word": "subsequently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "afterward; following in time or order:",
+        "defn_zh": "隨後;其後"
+      },
+      {
+        "word": "aside",
+        "pos": "adv./n.",
+        "pos_key": "adv.",
+        "defn_en": "to or on one side; a remark not meant to be heard by everyone:",
+        "defn_zh": "在旁邊;旁白"
+      },
+      {
+        "word": "vice versa",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "with the order or meaning reversed; conversely:",
+        "defn_zh": "反之亦然"
+      }
+    ],
+    "other": [
+      {
+        "word": "（此批單字中，暫無符合此字根/字首的單字）",
+        "pos": "",
+        "pos_key": "other",
+        "defn_en": "",
+        "defn_zh": ""
+      }
+    ],
+    "prep./adv.": [
+      {
+        "word": "besides",
+        "pos": "prep./adv.",
+        "pos_key": "prep./adv.",
+        "defn_en": "in addition to; furthermore:",
+        "defn_zh": "除...之外;此外"
+      }
+    ],
+    "phrasalv.": [
+      {
+        "word": "egg on",
+        "pos": "phrasal v.",
+        "pos_key": "phrasalv.",
+        "defn_en": "to encourage someone to do something, often risky:",
+        "defn_zh": "慫恿;鼓動"
+      }
+    ],
+    "abbr.": [
+      {
+        "word": "etc.",
+        "pos": "abbr.",
+        "pos_key": "abbr.",
+        "defn_en": "and other similar things (abbreviation of et cetera):",
+        "defn_zh": "等等(et cetera的縮寫)"
+      }
+    ],
+    "interj.": [
+      {
+        "word": "fiddledeedee",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "an exclamation expressing dismissal of something as nonsense:",
+        "defn_zh": "廢話!(表示不屑一顧)"
+      },
+      {
+        "word": "gesundheit",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "an expression said to someone who has just sneezed:",
+        "defn_zh": "保重(打噴嚏後的祝福語)"
+      }
+    ],
+    "prep.": [
+      {
+        "word": "via",
+        "pos": "prep.",
+        "pos_key": "prep.",
+        "defn_en": "by way of; passing through:",
+        "defn_zh": "經由;透過"
+      }
+    ]
+  }
+}
