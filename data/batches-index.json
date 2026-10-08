@@ -4,7 +4,7 @@
     "total_batches": 236,
     "part1_part2_batches": 159,
     "unclassified_batches": 77,
-    "generated_batches": 137
+    "generated_batches": 138
   },
   "batches": [
     {
@@ -1384,7 +1384,7 @@
       "name": "tend；tens",
       "subtitle": "伸展",
       "count": 17,
-      "generated": false,
+      "generated": true,
       "search_terms": "ostentatious ostensible pretentious contentious attention contend contention distend extend extension extensive intentional portent pretense pretentiousness tenderfoot unintended"
     },
     {
