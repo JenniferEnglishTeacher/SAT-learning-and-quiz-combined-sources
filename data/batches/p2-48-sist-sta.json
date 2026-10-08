@@ -1,0 +1,1282 @@
+{
+  "id": "p2-48-sist-sta",
+  "part": "part2",
+  "part_label": "Part 2 字根篇 (Roots)",
+  "name": "sist；sta",
+  "subtitle": "站立",
+  "count": 36,
+  "words": [
+    {
+      "word": "desist",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to cease:",
+      "defn_zh": "停止",
+      "root_note": "de- (away) + sistere (to stop)",
+      "sentences": [
+        {
+          "en": "The judge ordered the company to ______ from using the disputed trademark.",
+          "zh": "法官下令該公司停止使用有爭議的商標。"
+        },
+        {
+          "en": "Police warned the protesters to ______ or face arrest.",
+          "zh": "警方警告抗議者停止行動,否則將面臨逮捕。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "48",
+        "spelling": "sist；sta",
+        "meaning": "站立"
+      }
+    },
+    {
+      "word": "extant",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "still existing:",
+      "defn_zh": "現存的/尚存的",
+      "root_note": "ex- (out) + stare (to stand)",
+      "sentences": [
+        {
+          "en": "Only a handful of copies of the original manuscript are still ______.",
+          "zh": "這份原始手稿如今只剩下少數幾份仍然存在。"
+        },
+        {
+          "en": "The museum houses the oldest ______ example of the ancient writing system.",
+          "zh": "這座博物館收藏了這種古老文字系統現存最古老的實例。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "48",
+        "spelling": "sist；sta",
+        "meaning": "站立"
+      }
+    },
+    {
+      "word": "destitution",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "extreme poverty:=Indigence=Privation",
+      "defn_zh": "貧困/赤貧",
+      "root_note": "de- (away) + statuere (to place)",
+      "sentences": [
+        {
+          "en": "The war left thousands of families in complete ______.",
+          "zh": "這場戰爭讓數千個家庭陷入徹底的赤貧。"
+        },
+        {
+          "en": "Charities are working to lift the region out of ______.",
+          "zh": "慈善機構正努力使這個地區擺脫赤貧的境況。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "48",
+        "spelling": "sist；sta",
+        "meaning": "站立"
+      }
+    },
+    {
+      "word": "superstition",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "irrational belief or practice:",
+      "defn_zh": "迷信",
+      "root_note": "super- (over) + stare (to stand)",
+      "sentences": [
+        {
+          "en": "It's just ______ that walking under a ladder brings bad luck.",
+          "zh": "走過梯子下方會帶來厄運,這只是一種迷信。"
+        },
+        {
+          "en": "Many sailors still hold onto old ______s about the sea.",
+          "zh": "許多水手至今仍抱持著關於大海的古老迷信。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "48",
+        "spelling": "sist；sta",
+        "meaning": "站立"
+      }
+    },
+    {
+      "word": "stagnant",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "motionless, dull, inactive:",
+      "defn_zh": "停滯的/不景氣的",
+      "root_note": "stagnum (pool)",
+      "sentences": [
+        {
+          "en": "The company's sales have remained ______ for the past three years.",
+          "zh": "這家公司的銷售額過去三年來一直停滯不前。"
+        },
+        {
+          "en": "______ water in the pond attracted mosquitoes.",
+          "zh": "池塘裡的死水吸引了大量蚊子。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "48",
+        "spelling": "sist；sta",
+        "meaning": "站立"
+      }
+    },
+    {
+      "word": "obstinate",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "stubborn; inflexible",
+      "defn_zh": "固執的",
+      "root_note": "ob- (against) + stare (to stand)",
+      "sentences": [
+        {
+          "en": "The ______ toddler refused to eat anything green.",
+          "zh": "這個固執的幼兒拒絕吃任何綠色的食物。"
+        },
+        {
+          "en": "His ______ refusal to apologize damaged the friendship for years.",
+          "zh": "他固執地拒絕道歉,讓這段友誼受損多年。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "48",
+        "spelling": "sist；sta",
+        "meaning": "站立"
+      }
+    },
+    {
+      "word": "circumstance",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a fact or condition connected with an event or situation:",
+      "defn_zh": "情況;境遇",
+      "root_note": "circum- (around) + stare (to stand), from Latin",
+      "sentences": [
+        {
+          "en": "Under normal ______ , the flight would have taken only two hours.",
+          "zh": "在正常情況下,這趟航班原本只需要兩小時。"
+        },
+        {
+          "en": "She adapted well to her new ______ despite the sudden move.",
+          "zh": "儘管突然搬遷,她仍很快適應了新的環境。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "48",
+        "spelling": "sist；sta",
+        "meaning": "站立"
+      }
+    },
+    {
+      "word": "consistent",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "acting in the same way over time:",
+      "defn_zh": "一致的/前後一致的",
+      "root_note": "con- (together) + sistere (to stand)",
+      "sentences": [
+        {
+          "en": "My grandmother's knitting is always ______ in quality.",
+          "zh": "我祖母的編織作品品質總是十分一致穩定。"
+        },
+        {
+          "en": "The referee's calls were not ______ throughout the game.",
+          "zh": "裁判在整場比賽中的判決並不一致。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "48",
+        "spelling": "sist；sta",
+        "meaning": "站立"
+      }
+    },
+    {
+      "word": "constant",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "occurring continuously:",
+      "defn_zh": "持續不斷的",
+      "root_note": "con- (together) + stare (to stand)",
+      "sentences": [
+        {
+          "en": "The criminal lived in ______ fear that he'd be found out.",
+          "zh": "這名罪犯活在害怕被發現的持續恐懼中。"
+        },
+        {
+          "en": "The engine produces a ______ humming sound.",
+          "zh": "這台引擎會發出持續不斷的嗡嗡聲。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "48",
+        "spelling": "sist；sta",
+        "meaning": "站立"
+      }
+    },
+    {
+      "word": "constituent",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "an essential part:",
+      "defn_zh": "組成部分/選民",
+      "root_note": "con- (together) + statuere (to set up)",
+      "sentences": [
+        {
+          "en": "Oxygen is a key ______ of the earth's atmosphere.",
+          "zh": "氧氣是地球大氣層的一項關鍵組成成分。"
+        },
+        {
+          "en": "The senator held a town hall to hear from her ______s.",
+          "zh": "這位參議員舉辦市民大會,以聽取選民的意見。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "48",
+        "spelling": "sist；sta",
+        "meaning": "站立"
+      }
+    },
+    {
+      "word": "destiny",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "the events that will inevitably happen to a person or thing:",
+      "defn_zh": "命運",
+      "root_note": "de- (thoroughly) + stare (to stand), from Latin",
+      "sentences": [
+        {
+          "en": "She believed it was her ______ to become a doctor.",
+          "zh": "她相信成為醫生是她的命運。"
+        },
+        {
+          "en": "The hero's ______ was foretold by an ancient prophecy.",
+          "zh": "這位英雄的命運早已被古老的預言所預示。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "48",
+        "spelling": "sist；sta",
+        "meaning": "站立"
+      }
+    },
+    {
+      "word": "destitute",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "impoverished, utterly lacking:",
+      "defn_zh": "赤貧的/窮困潦倒的",
+      "root_note": "de- (away) + statuere (to set up)",
+      "sentences": [
+        {
+          "en": "The flood left thousands of families ______ and homeless.",
+          "zh": "這場洪水讓數千個家庭一貧如洗、無家可歸。"
+        },
+        {
+          "en": "The charity provides food and shelter to the city's most ______ residents.",
+          "zh": "這個慈善機構為這座城市最貧困的居民提供食物與住所。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "48",
+        "spelling": "sist；sta",
+        "meaning": "站立"
+      }
+    },
+    {
+      "word": "estate",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "extensive landed property retained by the owner:",
+      "defn_zh": "莊園/地產",
+      "root_note": "status (condition, Latin)",
+      "sentences": [
+        {
+          "en": "The wealthy family owned a sprawling country ______ with dozens of rooms.",
+          "zh": "這個富裕的家族擁有一座佔地遼闊、擁有數十個房間的鄉村莊園。"
+        },
+        {
+          "en": "After his death, his entire ______ was divided among his three children.",
+          "zh": "他過世後,全部的產業被分給了他的三個孩子。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "48",
+        "spelling": "sist；sta",
+        "meaning": "站立"
+      }
+    },
+    {
+      "word": "interstice",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a small gap or space between things:",
+      "defn_zh": "縫隙;間隙",
+      "root_note": "inter- (between) + sistere (to stand), from Latin",
+      "sentences": [
+        {
+          "en": "Light filtered through the ______ s between the leaves.",
+          "zh": "光線從樹葉間的縫隙中透了進來。"
+        },
+        {
+          "en": "Water seeped into the tiny ______ s of the rock.",
+          "zh": "水滲入了這塊岩石細小的縫隙之中。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "48",
+        "spelling": "sist；sta",
+        "meaning": "站立"
+      }
+    },
+    {
+      "word": "interstitial",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "relating to small spaces between structures or tissues:",
+      "defn_zh": "間隙的;組織間的",
+      "root_note": "inter- (between) + sistere (to stand), from Latin",
+      "sentences": [
+        {
+          "en": "The doctor diagnosed her with an ______ lung condition.",
+          "zh": "醫生診斷她患有一種肺部間質性病症。"
+        },
+        {
+          "en": "Engineers studied the ______ spaces within the composite material.",
+          "zh": "工程師研究了這種複合材料內部的間隙結構。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "48",
+        "spelling": "sist；sta",
+        "meaning": "站立"
+      }
+    },
+    {
+      "word": "long-standing",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "having existed for a long time:",
+      "defn_zh": "長久存在的;由來已久的",
+      "root_note": "long, from Old English lang + standing",
+      "sentences": [
+        {
+          "en": "The two nations resolved their ______ border dispute peacefully.",
+          "zh": "這兩國和平解決了由來已久的邊界爭端。"
+        },
+        {
+          "en": "She finally addressed her ______ fear of public speaking.",
+          "zh": "她終於面對了自己由來已久的公開演講恐懼。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "48",
+        "spelling": "sist；sta",
+        "meaning": "站立"
+      }
+    },
+    {
+      "word": "obstetrics",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "the branch of medicine dealing with childbirth and pregnancy:",
+      "defn_zh": "產科學",
+      "root_note": "ob- (before) + stare (to stand)",
+      "sentences": [
+        {
+          "en": "She decided to specialize in ______ after delivering her first baby during medical school.",
+          "zh": "在醫學院期間接生了她的第一個嬰兒後,她決定專攻產科學。"
+        },
+        {
+          "en": "The hospital's ______ ward welcomes over a hundred new babies each month.",
+          "zh": "這家醫院的產科病房每個月迎接超過一百個新生兒。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "48",
+        "spelling": "sist；sta",
+        "meaning": "站立"
+      }
+    },
+    {
+      "word": "painstaking",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "done with great care and thoroughness:",
+      "defn_zh": "煞費苦心的;精心細緻的",
+      "root_note": "pain, from Latin poena + stake, from Old English staca",
+      "sentences": [
+        {
+          "en": "Restoring the mural required ______ attention to detail.",
+          "zh": "修復這幅壁畫需要煞費苦心的細節關注。"
+        },
+        {
+          "en": "Her ______ research took nearly ten years to complete.",
+          "zh": "她精心細緻的研究花了近十年才完成。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "48",
+        "spelling": "sist；sta",
+        "meaning": "站立"
+      }
+    },
+    {
+      "word": "persistent",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "continuing firmly or steadily in a course of action despite difficulties or opposition:",
+      "defn_zh": "堅持不懈的/持續的",
+      "root_note": "per- (through) + sistere (to stand)",
+      "sentences": [
+        {
+          "en": "His ______ efforts to improve the system eventually paid off.",
+          "zh": "他堅持不懈地努力改善這套系統,最終有了回報。"
+        },
+        {
+          "en": "After fifty years of buying lottery tickets, ______ efforts paid off when he won the jackpot.",
+          "zh": "在買了五十年彩券之後,他堅持不懈的努力終於得到回報,中了頭獎。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "48",
+        "spelling": "sist；sta",
+        "meaning": "站立"
+      }
+    },
+    {
+      "word": "prostitute",
+      "pos": "n./v.",
+      "pos_key": "n.",
+      "defn_en": "a person who engages in sexual activity for payment; to misuse one's talents for unworthy purposes:",
+      "defn_zh": "妓女;出賣",
+      "root_note": "prostituere (to expose publicly), from Latin pro- (before) + statuere (to place)",
+      "sentences": [
+        {
+          "en": "The novel portrays the harsh realities faced by a ______ in the 19th century.",
+          "zh": "這本小說描繪了十九世紀一位妓女所面對的殘酷現實。"
+        },
+        {
+          "en": "Critics accused the writer of choosing to ______ his talent for quick profit.",
+          "zh": "評論家指控這位作家選擇出賣自己的才華以換取快速的利潤。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "48",
+        "spelling": "sist；sta",
+        "meaning": "站立"
+      }
+    },
+    {
+      "word": "resist",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to withstand or fight against something:",
+      "defn_zh": "抵抗;抗拒",
+      "root_note": "resistere (to stand against), from Latin re- (against) + sistere (to stand)",
+      "sentences": [
+        {
+          "en": "She could not ______ the temptation of the fresh-baked pastries.",
+          "zh": "她無法抗拒剛出爐糕點的誘惑。"
+        },
+        {
+          "en": "The colony continued to ______ foreign occupation for decades.",
+          "zh": "這個殖民地持續抵抗外國占領長達數十年。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "48",
+        "spelling": "sist；sta",
+        "meaning": "站立"
+      }
+    },
+    {
+      "word": "restitution",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "restoration to the rightful owner:",
+      "defn_zh": "賠償/歸還",
+      "root_note": "re- (again) + statuere (to set up)",
+      "sentences": [
+        {
+          "en": "The court ordered the company to make ______ to the affected families.",
+          "zh": "法院下令這家公司對受影響的家庭做出賠償。"
+        },
+        {
+          "en": "He offered to make ______ for the damage he had caused years earlier.",
+          "zh": "他主動提出要為多年前造成的損害做出賠償。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "48",
+        "spelling": "sist；sta",
+        "meaning": "站立"
+      }
+    },
+    {
+      "word": "restive",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "resistant, stubborn, impatient:",
+      "defn_zh": "焦躁不安的/難駕馭的",
+      "root_note": "re- (back) + stare (to stand)",
+      "sentences": [
+        {
+          "en": "The ______ crowd grew louder as the delayed concert failed to start.",
+          "zh": "隨著延遲的演唱會遲遲未能開始,這群焦躁的群眾變得越來越喧鬧。"
+        },
+        {
+          "en": "The ______ horse refused to stand still during the fitting.",
+          "zh": "這匹難以駕馭的馬在試穿馬具時不肯乖乖站定。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "48",
+        "spelling": "sist；sta",
+        "meaning": "站立"
+      }
+    },
+    {
+      "word": "restore",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to bring back to original condition:",
+      "defn_zh": "恢復/修復",
+      "root_note": "re- (again) + staurare (to set up)",
+      "sentences": [
+        {
+          "en": "The architecture team carefully ______ the old house.",
+          "zh": "這支建築團隊細心修復了這棟老房子。"
+        },
+        {
+          "en": "The new medication helped ______ his energy levels.",
+          "zh": "這種新藥有助於恢復他的體力。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "48",
+        "spelling": "sist；sta",
+        "meaning": "站立"
+      }
+    },
+    {
+      "word": "stable",
+      "pos": "adj./n.",
+      "pos_key": "adj.",
+      "defn_en": "firmly fixed or unlikely to change; a building for housing horses:",
+      "defn_zh": "穩定的;馬廄",
+      "root_note": "stabilis (firm, steadfast), from Latin stare (to stand)",
+      "sentences": [
+        {
+          "en": "The doctor confirmed that the patient's condition was ______ .",
+          "zh": "這位醫生確認這名病患的狀況已經穩定。"
+        },
+        {
+          "en": "The old ______ still housed three horses on the farm.",
+          "zh": "這座老舊的馬廄裡仍養著這座農場的三匹馬。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "48",
+        "spelling": "sist；sta",
+        "meaning": "站立"
+      }
+    },
+    {
+      "word": "stadium",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a large structure with tiered seating for sports events:",
+      "defn_zh": "體育場",
+      "root_note": "stadion (a unit of length, a running track), from Greek",
+      "sentences": [
+        {
+          "en": "Fans packed the ______ to watch the championship match.",
+          "zh": "球迷們擠滿了這座體育場,觀看這場冠軍賽。"
+        },
+        {
+          "en": "The city built a new ______ to host the international games.",
+          "zh": "這座城市興建了一座新的體育場,以主辦這場國際賽事。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "48",
+        "spelling": "sist；sta",
+        "meaning": "站立"
+      }
+    },
+    {
+      "word": "stagnate",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to become or remain inactive, not develop, not flow:",
+      "defn_zh": "停滯/停滯不前",
+      "root_note": "stagnum (standing water, pool)",
+      "sentences": [
+        {
+          "en": "Wages have begun to ______ despite the rising cost of living.",
+          "zh": "儘管生活成本不斷上升,薪資卻開始停滯不前。"
+        },
+        {
+          "en": "Without new challenges, his career began to ______.",
+          "zh": "缺乏新的挑戰,他的職涯開始陷入停滯。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "48",
+        "spelling": "sist；sta",
+        "meaning": "站立"
+      }
+    },
+    {
+      "word": "stagnation",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "the state of not developing, growing, or moving:",
+      "defn_zh": "停滯;停頓",
+      "root_note": "stagnum (a pool of standing water), from Latin",
+      "sentences": [
+        {
+          "en": "Economists warned of years of economic ______ ahead.",
+          "zh": "經濟學家警告未來將有多年的經濟停滯。"
+        },
+        {
+          "en": "Without new ideas, the company fell into creative ______ .",
+          "zh": "由於缺乏新的構想,這家公司陷入了創意上的停滯。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "48",
+        "spelling": "sist；sta",
+        "meaning": "站立"
+      }
+    },
+    {
+      "word": "stairwit",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a clever remark or response thought of too late (a witty comeback realized only after leaving, as if while descending the stairs):",
+      "defn_zh": "事後才想到的機智回應",
+      "root_note": "stair, from Old English stæger + wit, from Old English witt, translating French esprit de l'escalier",
+      "sentences": [
+        {
+          "en": "He was famous among friends for his frustrating habit of ______ .",
+          "zh": "他以自己那令人懊惱的「事後諸葛式機智回應」聞名於朋友之間。"
+        },
+        {
+          "en": "Only on the drive home did her perfect ______ finally arrive.",
+          "zh": "直到開車回家的路上,她那完美的事後機智回應才終於浮現。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "48",
+        "spelling": "sist；sta",
+        "meaning": "站立"
+      }
+    },
+    {
+      "word": "standoffish",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "reserved, cold, or distant in manner:",
+      "defn_zh": "冷淡的;疏遠的",
+      "root_note": "stand + off, from Old English standan, describing keeping one's distance",
+      "sentences": [
+        {
+          "en": "Her ______ demeanor made her hard to approach at first.",
+          "zh": "她冷淡疏遠的態度讓她起初讓人難以親近。"
+        },
+        {
+          "en": "New coworkers found him ______ until they got to know him better.",
+          "zh": "新同事一開始覺得他很冷淡,直到更了解他之後才改觀。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "48",
+        "spelling": "sist；sta",
+        "meaning": "站立"
+      }
+    },
+    {
+      "word": "static",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "not moving or changing; stationary:",
+      "defn_zh": "靜態的;不變的",
+      "root_note": "statikos (causing to stand), from Greek histanai (to stand)",
+      "sentences": [
+        {
+          "en": "Sales figures remained ______ throughout the entire quarter.",
+          "zh": "銷售數字在整個季度中都維持不變。"
+        },
+        {
+          "en": "The museum's ______ display contrasted with the interactive exhibits nearby.",
+          "zh": "這座博物館的靜態展示與附近的互動展覽形成對比。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "48",
+        "spelling": "sist；sta",
+        "meaning": "站立"
+      }
+    },
+    {
+      "word": "statuette",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a small statue:",
+      "defn_zh": "小雕像",
+      "root_note": "statue, from Latin statua + -ette (diminutive), from French",
+      "sentences": [
+        {
+          "en": "The award ceremony presented winners with a golden ______ .",
+          "zh": "這場頒獎典禮頒給得獎者一座金色的小雕像。"
+        },
+        {
+          "en": "A bronze ______ of the founder stood in the lobby.",
+          "zh": "大廳裡立著一座這位創辦人的青銅小雕像。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "48",
+        "spelling": "sist；sta",
+        "meaning": "站立"
+      }
+    },
+    {
+      "word": "staurophobia",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "an irrational fear of crosses or crucifixes:",
+      "defn_zh": "十字架恐懼症",
+      "root_note": "stauros (cross) + phobos (fear), from Greek",
+      "sentences": [
+        {
+          "en": "His ______ made visiting old churches distressing for him.",
+          "zh": "他的十字架恐懼症讓他造訪古老教堂時感到十分痛苦。"
+        },
+        {
+          "en": "Therapists rarely encounter cases of ______ in their practice.",
+          "zh": "治療師在他們的診療工作中很少遇到十字架恐懼症的病例。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "48",
+        "spelling": "sist；sta",
+        "meaning": "站立"
+      }
+    },
+    {
+      "word": "staycation",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a vacation spent at home or nearby rather than traveling:",
+      "defn_zh": "宅度假;在地度假",
+      "root_note": "stay + vacation, a blend of English words",
+      "sentences": [
+        {
+          "en": "They decided on a relaxing ______ instead of an expensive trip abroad.",
+          "zh": "他們決定來一趟放鬆的宅度假,而不是花大錢出國旅遊。"
+        },
+        {
+          "en": "During the ______ , she finally finished all the books on her shelf.",
+          "zh": "在這趟在地度假期間,她終於讀完了書架上所有的書。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "48",
+        "spelling": "sist；sta",
+        "meaning": "站立"
+      }
+    },
+    {
+      "word": "subsistence",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a means of surviving:",
+      "defn_zh": "維生/生計",
+      "root_note": "sub- (under) + sistere (to stand)",
+      "sentences": [
+        {
+          "en": "Many families in the region rely on ______ farming to survive.",
+          "zh": "這個地區的許多家庭依靠自給自足的農業維生。"
+        },
+        {
+          "en": "The refugees were provided with only the bare ______ needed to survive the winter.",
+          "zh": "這些難民只獲得了勉強度過冬天所需的基本維生物資。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "48",
+        "spelling": "sist；sta",
+        "meaning": "站立"
+      }
+    },
+    {
+      "word": "substantial",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "of considerable importance, size, or worth; significant:",
+      "defn_zh": "相當大的/重要的",
+      "root_note": "sub- (under) + stare (to stand)",
+      "sentences": [
+        {
+          "en": "The company made a ______ profit this quarter, far exceeding expectations.",
+          "zh": "這家公司本季獲得了可觀的利潤,遠超出預期。"
+        },
+        {
+          "en": "Jackie made a ______ donation to her alma mater.",
+          "zh": "傑琪向她的母校捐贈了一筆可觀的款項。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "48",
+        "spelling": "sist；sta",
+        "meaning": "站立"
+      }
+    }
+  ],
+  "family_options": {},
+  "fallback_options": {
+    "v.": [
+      {
+        "word": "abound",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to exist in great numbers:",
+        "defn_zh": "充滿"
+      },
+      {
+        "word": "abrogate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to deprive of legal force, to nullify:=abolish",
+        "defn_zh": "廢除/取消"
+      },
+      {
+        "word": "abjure",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to renounce, abstain from:",
+        "defn_zh": "發誓放棄/棄絕"
+      },
+      {
+        "word": "abbreviate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to shorten a word or phrase:",
+        "defn_zh": "縮寫;縮短"
+      },
+      {
+        "word": "abdicate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to give up a position, usually one of leadership:",
+        "defn_zh": "退位/放棄(職位)"
+      },
+      {
+        "word": "abduct",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to kidnap, take by force:",
+        "defn_zh": "綁架/劫持"
+      },
+      {
+        "word": "abhor",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to regard with disgust and hatred:",
+        "defn_zh": "憎惡/厭惡"
+      },
+      {
+        "word": "abnegate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to deny or renounce:",
+        "defn_zh": "放棄/克制"
+      },
+      {
+        "word": "abolish",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to formally put an end to a system, practice, or institution:",
+        "defn_zh": "廢除"
+      },
+      {
+        "word": "abort",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to give up on a half-finished project or effort:",
+        "defn_zh": "中止/放棄"
+      },
+      {
+        "word": "abrade",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to scrape or wear away by friction:",
+        "defn_zh": "磨損;擦傷"
+      },
+      {
+        "word": "abscond",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to sneak away and hide:",
+        "defn_zh": "潛逃/逃匿"
+      }
+    ],
+    "adj.": [
+      {
+        "word": "abortive",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "fruitless, failing:",
+        "defn_zh": "失敗的/夭折的"
+      },
+      {
+        "word": "abstemious",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "moderate in eating or drinking:",
+        "defn_zh": "飲食有節制的"
+      },
+      {
+        "word": "abhorrent",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "detestable, despised:",
+        "defn_zh": "令人厭惡的"
+      },
+      {
+        "word": "absurd",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "ridiculous:",
+        "defn_zh": "荒謬的"
+      },
+      {
+        "word": "aberrant",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "deviating from what is normal or expected:",
+        "defn_zh": "異常的;脫軌的"
+      },
+      {
+        "word": "abject",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "wretched, pitiful:",
+        "defn_zh": "卑賤的/淒慘的"
+      },
+      {
+        "word": "abominable",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "causing moral revulsion; extremely unpleasant:",
+        "defn_zh": "可憎的;惡劣的"
+      },
+      {
+        "word": "abounding",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "existing in large numbers or amounts:",
+        "defn_zh": "大量存在的;豐富的"
+      },
+      {
+        "word": "abrasive",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "showing little concern for others; harsh:",
+        "defn_zh": "粗暴的/刺耳的"
+      },
+      {
+        "word": "abrupt",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "sudden or unexpected; brief and curt in manner:",
+        "defn_zh": "突然的/唐突的"
+      },
+      {
+        "word": "abstract",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "existing purely in the mind; not representing actual reality:",
+        "defn_zh": "抽象的"
+      },
+      {
+        "word": "abstruse",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "hard to comprehend:",
+        "defn_zh": "深奧難懂的"
+      }
+    ],
+    "n.": [
+      {
+        "word": "aversion",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "strong dislike, opposition:",
+        "defn_zh": "厭惡/反感"
+      },
+      {
+        "word": "aberration",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "something that differs from the norm:",
+        "defn_zh": "異常/脫軌"
+      },
+      {
+        "word": "abjection",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a state of complete misery, hopelessness, or degradation:",
+        "defn_zh": "卑賤;悲慘狀態"
+      },
+      {
+        "word": "abjuration",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the solemn renunciation of a belief, cause, or claim:",
+        "defn_zh": "公開放棄;誓絕"
+      },
+      {
+        "word": "ablution",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the act of washing oneself, especially as part of a religious ritual:",
+        "defn_zh": "沐浴;淨身儀式"
+      },
+      {
+        "word": "abnegation",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "denial of comfort to oneself:",
+        "defn_zh": "自我克制/放棄"
+      },
+      {
+        "word": "abomination",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "something that causes disgust or hatred:",
+        "defn_zh": "可憎之事;令人厭惡的東西"
+      },
+      {
+        "word": "abridgement",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a shortened version of a book or other written work:",
+        "defn_zh": "節略本;縮減版"
+      },
+      {
+        "word": "absolution",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "freedom from blame, guilt, sin:",
+        "defn_zh": "赦免/免罪"
+      },
+      {
+        "word": "abstemiousness",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "moderation or self-restraint, especially in eating and drinking:",
+        "defn_zh": "節制;克己"
+      },
+      {
+        "word": "abstinence",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the practice of restraining oneself from something enjoyable, especially food, alcohol, or sex:",
+        "defn_zh": "節制;戒絕"
+      },
+      {
+        "word": "avocation",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a hobby or minor occupation apart from one's main career:",
+        "defn_zh": "副業;業餘愛好"
+      }
+    ],
+    "adv.": [
+      {
+        "word": "accordingly",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in a manner that fits the circumstances; consequently:",
+        "defn_zh": "相應地;因此"
+      },
+      {
+        "word": "inadvertently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "unintentionally or by accident:",
+        "defn_zh": "無意間/不小心地"
+      },
+      {
+        "word": "consequently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "as a result; therefore:",
+        "defn_zh": "因此;結果"
+      },
+      {
+        "word": "contemptuously",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "without respect; in a disdainful manner:",
+        "defn_zh": "輕蔑地"
+      },
+      {
+        "word": "involuntarily",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "done without conscious control:",
+        "defn_zh": "不由自主地"
+      },
+      {
+        "word": "cordially",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in a warm or friendly manner:",
+        "defn_zh": "誠摯地/友好地"
+      },
+      {
+        "word": "ipso facto",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "by that very fact or act:",
+        "defn_zh": "事實上;因此"
+      },
+      {
+        "word": "en passant",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in passing; incidentally:",
+        "defn_zh": "順帶一提地;偶然地"
+      },
+      {
+        "word": "regardless",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "despite the prevailing circumstances; without being deterred:",
+        "defn_zh": "不管怎樣;儘管如此"
+      },
+      {
+        "word": "subsequently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "afterward; following in time or order:",
+        "defn_zh": "隨後;其後"
+      },
+      {
+        "word": "aside",
+        "pos": "adv./n.",
+        "pos_key": "adv.",
+        "defn_en": "to or on one side; a remark not meant to be heard by everyone:",
+        "defn_zh": "在旁邊;旁白"
+      },
+      {
+        "word": "vice versa",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "with the order or meaning reversed; conversely:",
+        "defn_zh": "反之亦然"
+      }
+    ],
+    "other": [
+      {
+        "word": "（此批單字中，暫無符合此字根/字首的單字）",
+        "pos": "",
+        "pos_key": "other",
+        "defn_en": "",
+        "defn_zh": ""
+      }
+    ],
+    "prep./adv.": [
+      {
+        "word": "besides",
+        "pos": "prep./adv.",
+        "pos_key": "prep./adv.",
+        "defn_en": "in addition to; furthermore:",
+        "defn_zh": "除...之外;此外"
+      }
+    ],
+    "phrasalv.": [
+      {
+        "word": "egg on",
+        "pos": "phrasal v.",
+        "pos_key": "phrasalv.",
+        "defn_en": "to encourage someone to do something, often risky:",
+        "defn_zh": "慫恿;鼓動"
+      }
+    ],
+    "abbr.": [
+      {
+        "word": "etc.",
+        "pos": "abbr.",
+        "pos_key": "abbr.",
+        "defn_en": "and other similar things (abbreviation of et cetera):",
+        "defn_zh": "等等(et cetera的縮寫)"
+      }
+    ],
+    "interj.": [
+      {
+        "word": "fiddledeedee",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "an exclamation expressing dismissal of something as nonsense:",
+        "defn_zh": "廢話!(表示不屑一顧)"
+      },
+      {
+        "word": "gesundheit",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "an expression said to someone who has just sneezed:",
+        "defn_zh": "保重(打噴嚏後的祝福語)"
+      }
+    ],
+    "prep.": [
+      {
+        "word": "via",
+        "pos": "prep.",
+        "pos_key": "prep.",
+        "defn_en": "by way of; passing through:",
+        "defn_zh": "經由;透過"
+      }
+    ]
+  }
+}
