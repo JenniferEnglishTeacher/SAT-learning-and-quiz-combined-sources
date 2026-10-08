@@ -4,7 +4,7 @@
     "total_batches": 236,
     "part1_part2_batches": 159,
     "unclassified_batches": 77,
-    "generated_batches": 96
+    "generated_batches": 97
   },
   "batches": [
     {
@@ -972,10 +972,10 @@
       "part": "part2",
       "part_label": "Part 2 字根篇 (Roots)",
       "name": "cert",
-      "subtitle": "確定",
-      "count": 4,
-      "generated": false,
-      "search_terms": "ascertain certain certify sincerity"
+      "subtitle": "確定；真實；驗證；信念",
+      "count": 15,
+      "generated": true,
+      "search_terms": "ascertain certain certify sincerity certitude concerted unsettling certification recertify conviction veracity indubitable corroborate empirical dogmatic"
     },
     {
       "id": "p2-14-chron",

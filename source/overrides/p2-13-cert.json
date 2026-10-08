@@ -1,0 +1,152 @@
+{
+  "id": "p2-13-cert",
+  "merge_with_source": true,
+  "name": "cert",
+  "subtitle": "確定；真實；驗證；信念",
+  "words": [
+    {
+      "word": "certitude", "pos": "n.", "pos_key": "n.",
+      "defn_en": "complete certainty or freedom from doubt:",
+      "defn_zh": "確信；確定性；十足把握",
+      "root_note": "cert (sure or decided) + -itude (state or condition)",
+      "synonyms": ["certainty", "assurance", "confidence", "conviction"], "antonyms": ["doubt", "uncertainty", "hesitation"],
+      "sentences": [
+        {"en": "Although the defense attorney argued persuasively, the prosecutor presented DNA evidence with absolute ______, leaving the jury with no doubt about the defendant's guilt.", "zh": "儘管辯護律師論證有力，檢察官仍以絕對確信提出 DNA 證據，使陪審團對被告有罪毫無疑問。"},
+        {"en": "Economists predict market trends from historical data, but they admit that no one can forecast future stock values with complete ______.", "zh": "經濟學家根據歷史資料預測市場趨勢，但承認沒有人能以完全把握預測未來股票估值。"}
+      ],
+      "category": {"part": 2, "num": "13", "spelling": "cert", "meaning": "確定；真實；驗證；信念"}
+    },
+    {
+      "word": "ascertain", "pos": "v.", "pos_key": "v.",
+      "defn_en": "to discover or establish something with certainty through examination or investigation:",
+      "defn_zh": "查明；弄清；確定",
+      "root_note": "ad- (to or toward) + cert (sure or settled)",
+      "synonyms": ["determine", "discover", "verify", "establish"], "antonyms": ["guess", "overlook", "misunderstand"],
+      "sentences": [
+        {"en": "The detective reviewed hours of security footage to ______ the exact moment the thief entered the building and establish a definitive timeline.", "zh": "偵探查看數小時監視器畫面，以查明小偷進入大樓的確切時刻，並建立明確時間線。"},
+        {"en": "Marine biologists conducted several water tests to ______ whether toxic chemical runoff had reached the delicate coral reef habitat.", "zh": "海洋生物學家進行多次水質檢測，以確定有毒化學逕流是否已進入脆弱的珊瑚礁棲息地。"}
+      ],
+      "category": {"part": 2, "num": "13", "spelling": "cert", "meaning": "確定；真實；驗證；信念"}
+    },
+    {
+      "word": "concerted", "pos": "adj.", "pos_key": "adj.",
+      "defn_en": "planned, coordinated, and carried out together with determined effort:",
+      "defn_zh": "協同的；齊心協力的；一致的",
+      "root_note": "con- (together) + cert (resolved or decided) + -ed (having the quality)",
+      "synonyms": ["coordinated", "joint", "collective", "collaborative"], "antonyms": ["uncoordinated", "individual", "fragmented"],
+      "sentences": [
+        {"en": "Overcoming the public health crisis required a ______ effort from governments, laboratories, and healthcare workers pursuing a common vaccine goal.", "zh": "克服公共衛生危機需要各國政府、私人實驗室和醫療工作者為共同疫苗目標齊心協力。"},
+        {"en": "The school board made a ______ push to upgrade classroom technology and ensure that every student received a laptop before the fall term.", "zh": "學校董事會協同推動教室科技升級，確保每位學生在秋季學期開始前獲得筆記型電腦。"}
+      ],
+      "category": {"part": 2, "num": "13", "spelling": "cert", "meaning": "確定；真實；驗證；信念"}
+    },
+    {
+      "word": "unsettling", "pos": "adj.", "pos_key": "adj.",
+      "defn_en": "causing anxiety, uneasiness, or uncertainty:",
+      "defn_zh": "令人不安的；令人心神不寧的",
+      "root_note": "un- (not) + settle (make firm, stable, or certain) + -ing (having an effect)",
+      "synonyms": ["disturbing", "disquieting", "alarming", "troubling"], "antonyms": ["reassuring", "calming", "comforting"],
+      "sentences": [
+        {"en": "The sudden eerie silence inside the cavern was deeply ______ to the hikers, making them feel that a predator was watching from the shadows.", "zh": "洞穴內突然出現的詭異寂靜令登山客深感不安，使他們覺得有危險掠食者正從陰影中注視。"},
+        {"en": "Shareholders found the chief financial officer's sudden resignation ______ because they feared hidden structural problems within the corporation.", "zh": "股東認為財務長突然辭職令人不安，因為他們擔心公司內部隱藏著結構性問題。"}
+      ],
+      "category": {"part": 2, "num": "13", "spelling": "cert", "meaning": "確定；真實；驗證；信念"}
+    },
+    {
+      "word": "certification", "pos": "n.", "pos_key": "n.",
+      "defn_en": "official confirmation that a person, product, or process meets required standards:",
+      "defn_zh": "認證；資格證明；證書",
+      "root_note": "cert (sure) + fic (make) + -ation (process or result)",
+      "synonyms": ["accreditation", "validation", "authorization", "credential"], "antonyms": ["disqualification", "rejection", "revocation"],
+      "sentences": [
+        {"en": "To practice medicine legally, the young physician had to pass a rigorous examination and receive official board ______.", "zh": "為了合法行醫，這位年輕醫師必須通過嚴格考試並取得醫學委員會的正式執業認證。"},
+        {"en": "The organic farm displayed its agricultural ______ to prove that no synthetic pesticides had been used on its crops.", "zh": "這家有機農場展示農業認證，向重視環保的消費者證明作物未使用合成農藥。"}
+      ],
+      "category": {"part": 2, "num": "13", "spelling": "cert", "meaning": "確定；真實；驗證；信念"}
+    },
+    {
+      "word": "recertify", "pos": "v.", "pos_key": "v.",
+      "defn_en": "to officially confirm again that someone or something still meets required standards:",
+      "defn_zh": "重新認證；重新核准資格",
+      "root_note": "re- (again) + cert (sure) + -fy (make)",
+      "synonyms": ["reauthorize", "revalidate", "renew", "reapprove"], "antonyms": ["decertify", "revoke", "disqualify"],
+      "sentences": [
+        {"en": "Aviation law requires commercial pilots to ______ their flight skills every twelve months through intensive simulator training.", "zh": "航空法要求商業飛行員每十二個月接受密集模擬器訓練，以重新認證飛行技能。"},
+        {"en": "The environmental agency voted to ______ the factory's safety permit after an inspection showed that the facility met updated emissions standards.", "zh": "檢查證明工廠符合更新後的排放標準後，環保機構投票決定重新核准其安全許可證。"}
+      ],
+      "category": {"part": 2, "num": "13", "spelling": "cert", "meaning": "確定；真實；驗證；信念"}
+    },
+    {
+      "word": "conviction", "pos": "n.", "pos_key": "n.",
+      "defn_en": "a firmly held belief, or a formal judgment that someone is guilty of a crime:",
+      "defn_zh": "堅定信念；確信；定罪",
+      "root_note": "con- (thoroughly) + vict or vinc (conquer or prove wrong) + -ion (state or result)",
+      "synonyms": ["belief", "certainty", "assurance", "judgment"], "antonyms": ["doubt", "uncertainty", "acquittal"],
+      "sentences": [
+        {"en": "The abolitionist spoke with profound moral ______ and refused to compromise her ideals even when threatened with political retaliation.", "zh": "這位廢奴主義者帶著深刻的道德信念演說，即使面臨政治報復威脅，也拒絕妥協理想。"},
+        {"en": "Despite years of academic rejection, the scientist maintained his ______ that his unconventional energy theory would eventually change the world.", "zh": "儘管多年遭學界拒絕，這位科學家仍堅信自己的非傳統能源理論終將改變世界。"}
+      ],
+      "category": {"part": 2, "num": "13", "spelling": "cert", "meaning": "確定；真實；驗證；信念"}
+    },
+    {
+      "word": "veracity", "pos": "n.", "pos_key": "n.",
+      "defn_en": "the quality of being truthful, accurate, or in accordance with facts:",
+      "defn_zh": "真實性；準確性；誠實",
+      "root_note": "ver (true) + -acity (quality of being)",
+      "synonyms": ["truthfulness", "accuracy", "credibility", "honesty"], "antonyms": ["falsehood", "inaccuracy", "deception"],
+      "sentences": [
+        {"en": "The historian questioned the ______ of the monarch's diary, suspecting that the king had changed dates to conceal tactical failures.", "zh": "歷史研究者質疑君主日記的真實性，懷疑國王篡改日期以隱瞞戰術失敗。"},
+        {"en": "Because the witness had a history of perjury, the jurors doubted the ______ of his testimony during the trial.", "zh": "由於證人曾有偽證紀錄，陪審員在審判中徹底懷疑其證詞的真實性。"}
+      ],
+      "category": {"part": 2, "num": "13", "spelling": "cert", "meaning": "確定；真實；驗證；信念"}
+    },
+    {
+      "word": "indubitable", "pos": "adj.", "pos_key": "adj.",
+      "defn_en": "impossible to doubt; completely certain:",
+      "defn_zh": "不容置疑的；確鑿的；無疑的",
+      "root_note": "in- (not) + dubit (doubt) + -able (capable of being)",
+      "synonyms": ["undeniable", "unquestionable", "certain", "incontrovertible"], "antonyms": ["doubtful", "uncertain", "debatable"],
+      "sentences": [
+        {"en": "The archaeological discovery provided ______ proof that an advanced civilization had thrived in the rainforest centuries before explorers arrived.", "zh": "這項考古發現提供了不容置疑的證據，證明探險家到來數百年前已有高度先進文明在雨林中繁榮。"},
+        {"en": "Mathematical proofs require ______ logic because one erroneous calculation can invalidate an entire geometric theory.", "zh": "數學證明需要確鑿無疑的邏輯，因為一個錯誤計算就可能使整套幾何理論失效。"}
+      ],
+      "category": {"part": 2, "num": "13", "spelling": "cert", "meaning": "確定；真實；驗證；信念"}
+    },
+    {
+      "word": "corroborate", "pos": "v.", "pos_key": "v.",
+      "defn_en": "to confirm or support a statement, theory, or finding with additional evidence:",
+      "defn_zh": "證實；提供證據支持；確證",
+      "root_note": "con- (together or thoroughly) + robur (strength) + -ate (verb suffix)",
+      "synonyms": ["confirm", "verify", "substantiate", "validate"], "antonyms": ["contradict", "refute", "disprove"],
+      "sentences": [
+        {"en": "The defense team found a store receipt that would ______ the suspect's alibi by proving that he was miles from the crime scene.", "zh": "辯護團隊找到一張商店收據，可證實嫌疑人的不在場證明，顯示他當時距犯罪現場數英里。"},
+        {"en": "Independent laboratories could not ______ the professor's controversial findings, leading many researchers to suspect flawed data.", "zh": "獨立實驗室無法證實教授具爭議性的研究結果，使許多同行懷疑其資料有誤。"}
+      ],
+      "category": {"part": 2, "num": "13", "spelling": "cert", "meaning": "確定；真實；驗證；信念"}
+    },
+    {
+      "word": "empirical", "pos": "adj.", "pos_key": "adj.",
+      "defn_en": "based on observation, experiment, or practical experience rather than theory alone:",
+      "defn_zh": "實證的；以觀察或經驗為依據的",
+      "root_note": "em- (in) + peira (trial, experiment, or experience) + -ical (relating to)",
+      "synonyms": ["observational", "experimental", "evidence-based", "practical"], "antonyms": ["theoretical", "speculative", "abstract"],
+      "sentences": [
+        {"en": "Rather than relying on speculation, the scientific community demands ______ evidence gathered through rigorous, reproducible laboratory experiments.", "zh": "科學界不依賴單純推測，而要求透過嚴格且可重複的實驗所蒐集的實證證據。"},
+        {"en": "The sociologist's thesis was supported by ______ data compiled from surveys of more than ten thousand households across varied economic backgrounds.", "zh": "這位社會學家的論文獲得實證資料大力支持，資料來自對一萬多戶不同經濟背景家庭的調查。"}
+      ],
+      "category": {"part": 2, "num": "13", "spelling": "cert", "meaning": "確定；真實；驗證；信念"}
+    },
+    {
+      "word": "dogmatic", "pos": "adj.", "pos_key": "adj.",
+      "defn_en": "expressing opinions as unquestionable truths and refusing to consider other views:",
+      "defn_zh": "教條主義的；武斷的；固執己見的",
+      "root_note": "dogma (opinion or principle treated as absolute truth) + -atic (relating to)",
+      "synonyms": ["doctrinaire", "rigid", "authoritarian", "inflexible"], "antonyms": ["open-minded", "flexible", "tolerant"],
+      "sentences": [
+        {"en": "The professor's ______ teaching style alienated students because he refused classroom debate and treated his opinions as absolute facts.", "zh": "教授教條主義的教學風格疏遠了學生，因為他拒絕課堂辯論，並堅稱自己的觀點就是絕對事實。"},
+        {"en": "People who hold ______ political beliefs rarely compromise and often ignore factual evidence that contradicts their ideology.", "zh": "抱持固執教條政治信念的人很少妥協，並常忽略與其意識形態矛盾的事實證據。"}
+      ],
+      "category": {"part": 2, "num": "13", "spelling": "cert", "meaning": "確定；真實；驗證；信念"}
+    }
+  ]
+}

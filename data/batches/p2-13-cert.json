@@ -1,0 +1,910 @@
+{
+  "id": "p2-13-cert",
+  "part": "part2",
+  "part_label": "Part 2 字根篇 (Roots)",
+  "name": "cert",
+  "subtitle": "確定；真實；驗證；信念",
+  "count": 15,
+  "words": [
+    {
+      "word": "ascertain",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to discover or establish something with certainty through examination or investigation:",
+      "defn_zh": "查明；弄清；確定",
+      "root_note": "ad- (to or toward) + cert (sure or settled)",
+      "synonyms": [
+        "determine",
+        "discover",
+        "verify",
+        "establish"
+      ],
+      "antonyms": [
+        "guess",
+        "overlook",
+        "misunderstand"
+      ],
+      "sentences": [
+        {
+          "en": "The detective reviewed hours of security footage to ______ the exact moment the thief entered the building and establish a definitive timeline.",
+          "zh": "偵探查看數小時監視器畫面，以查明小偷進入大樓的確切時刻，並建立明確時間線。"
+        },
+        {
+          "en": "Marine biologists conducted several water tests to ______ whether toxic chemical runoff had reached the delicate coral reef habitat.",
+          "zh": "海洋生物學家進行多次水質檢測，以確定有毒化學逕流是否已進入脆弱的珊瑚礁棲息地。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "13",
+        "spelling": "cert",
+        "meaning": "確定；真實；驗證；信念"
+      }
+    },
+    {
+      "word": "certain",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "known for sure; particular but not specified:",
+      "defn_zh": "確定的;某些",
+      "root_note": "certus (fixed, sure, from Latin)",
+      "sentences": [
+        {
+          "en": "She was ______ she had locked the door before leaving.",
+          "zh": "她確定自己離開前有把門鎖上。"
+        },
+        {
+          "en": "______ students will be selected for the advanced program based on their test scores.",
+          "zh": "某些學生將依照測驗成績,被選入進階課程。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "13",
+        "spelling": "cert",
+        "meaning": "確定"
+      }
+    },
+    {
+      "word": "certify",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to formally confirm or attest to something:",
+      "defn_zh": "證明;認證",
+      "root_note": "certus (fixed, sure) + facere (to make), from Latin",
+      "sentences": [
+        {
+          "en": "The inspector had to ______ that the building met all fire safety codes.",
+          "zh": "檢查員必須證明這棟建築符合所有消防安全規範。"
+        },
+        {
+          "en": "A licensed electrician must ______ the wiring before the house can be sold.",
+          "zh": "在房子出售前,必須由合格的電工認證電線配置。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "13",
+        "spelling": "cert",
+        "meaning": "確定"
+      }
+    },
+    {
+      "word": "sincerity",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "the quality of being genuine:",
+      "defn_zh": "真誠",
+      "root_note": "sine (without) + cera (wax)",
+      "sentences": [
+        {
+          "en": "His ______ was evident in his speech.",
+          "zh": "他演說中的真誠顯而易見。"
+        },
+        {
+          "en": "She thanked him with genuine ______.",
+          "zh": "她以真摯的誠意向他道謝。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "13",
+        "spelling": "cert",
+        "meaning": "確定"
+      }
+    },
+    {
+      "word": "certitude",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "complete certainty or freedom from doubt:",
+      "defn_zh": "確信；確定性；十足把握",
+      "root_note": "cert (sure or decided) + -itude (state or condition)",
+      "synonyms": [
+        "certainty",
+        "assurance",
+        "confidence",
+        "conviction"
+      ],
+      "antonyms": [
+        "doubt",
+        "uncertainty",
+        "hesitation"
+      ],
+      "sentences": [
+        {
+          "en": "Although the defense attorney argued persuasively, the prosecutor presented DNA evidence with absolute ______, leaving the jury with no doubt about the defendant's guilt.",
+          "zh": "儘管辯護律師論證有力，檢察官仍以絕對確信提出 DNA 證據，使陪審團對被告有罪毫無疑問。"
+        },
+        {
+          "en": "Economists predict market trends from historical data, but they admit that no one can forecast future stock values with complete ______.",
+          "zh": "經濟學家根據歷史資料預測市場趨勢，但承認沒有人能以完全把握預測未來股票估值。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "13",
+        "spelling": "cert",
+        "meaning": "確定；真實；驗證；信念"
+      }
+    },
+    {
+      "word": "concerted",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "planned, coordinated, and carried out together with determined effort:",
+      "defn_zh": "協同的；齊心協力的；一致的",
+      "root_note": "con- (together) + cert (resolved or decided) + -ed (having the quality)",
+      "synonyms": [
+        "coordinated",
+        "joint",
+        "collective",
+        "collaborative"
+      ],
+      "antonyms": [
+        "uncoordinated",
+        "individual",
+        "fragmented"
+      ],
+      "sentences": [
+        {
+          "en": "Overcoming the public health crisis required a ______ effort from governments, laboratories, and healthcare workers pursuing a common vaccine goal.",
+          "zh": "克服公共衛生危機需要各國政府、私人實驗室和醫療工作者為共同疫苗目標齊心協力。"
+        },
+        {
+          "en": "The school board made a ______ push to upgrade classroom technology and ensure that every student received a laptop before the fall term.",
+          "zh": "學校董事會協同推動教室科技升級，確保每位學生在秋季學期開始前獲得筆記型電腦。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "13",
+        "spelling": "cert",
+        "meaning": "確定；真實；驗證；信念"
+      }
+    },
+    {
+      "word": "unsettling",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "causing anxiety, uneasiness, or uncertainty:",
+      "defn_zh": "令人不安的；令人心神不寧的",
+      "root_note": "un- (not) + settle (make firm, stable, or certain) + -ing (having an effect)",
+      "synonyms": [
+        "disturbing",
+        "disquieting",
+        "alarming",
+        "troubling"
+      ],
+      "antonyms": [
+        "reassuring",
+        "calming",
+        "comforting"
+      ],
+      "sentences": [
+        {
+          "en": "The sudden eerie silence inside the cavern was deeply ______ to the hikers, making them feel that a predator was watching from the shadows.",
+          "zh": "洞穴內突然出現的詭異寂靜令登山客深感不安，使他們覺得有危險掠食者正從陰影中注視。"
+        },
+        {
+          "en": "Shareholders found the chief financial officer's sudden resignation ______ because they feared hidden structural problems within the corporation.",
+          "zh": "股東認為財務長突然辭職令人不安，因為他們擔心公司內部隱藏著結構性問題。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "13",
+        "spelling": "cert",
+        "meaning": "確定；真實；驗證；信念"
+      }
+    },
+    {
+      "word": "certification",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "official confirmation that a person, product, or process meets required standards:",
+      "defn_zh": "認證；資格證明；證書",
+      "root_note": "cert (sure) + fic (make) + -ation (process or result)",
+      "synonyms": [
+        "accreditation",
+        "validation",
+        "authorization",
+        "credential"
+      ],
+      "antonyms": [
+        "disqualification",
+        "rejection",
+        "revocation"
+      ],
+      "sentences": [
+        {
+          "en": "To practice medicine legally, the young physician had to pass a rigorous examination and receive official board ______.",
+          "zh": "為了合法行醫，這位年輕醫師必須通過嚴格考試並取得醫學委員會的正式執業認證。"
+        },
+        {
+          "en": "The organic farm displayed its agricultural ______ to prove that no synthetic pesticides had been used on its crops.",
+          "zh": "這家有機農場展示農業認證，向重視環保的消費者證明作物未使用合成農藥。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "13",
+        "spelling": "cert",
+        "meaning": "確定；真實；驗證；信念"
+      }
+    },
+    {
+      "word": "recertify",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to officially confirm again that someone or something still meets required standards:",
+      "defn_zh": "重新認證；重新核准資格",
+      "root_note": "re- (again) + cert (sure) + -fy (make)",
+      "synonyms": [
+        "reauthorize",
+        "revalidate",
+        "renew",
+        "reapprove"
+      ],
+      "antonyms": [
+        "decertify",
+        "revoke",
+        "disqualify"
+      ],
+      "sentences": [
+        {
+          "en": "Aviation law requires commercial pilots to ______ their flight skills every twelve months through intensive simulator training.",
+          "zh": "航空法要求商業飛行員每十二個月接受密集模擬器訓練，以重新認證飛行技能。"
+        },
+        {
+          "en": "The environmental agency voted to ______ the factory's safety permit after an inspection showed that the facility met updated emissions standards.",
+          "zh": "檢查證明工廠符合更新後的排放標準後，環保機構投票決定重新核准其安全許可證。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "13",
+        "spelling": "cert",
+        "meaning": "確定；真實；驗證；信念"
+      }
+    },
+    {
+      "word": "conviction",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a firmly held belief, or a formal judgment that someone is guilty of a crime:",
+      "defn_zh": "堅定信念；確信；定罪",
+      "root_note": "con- (thoroughly) + vict or vinc (conquer or prove wrong) + -ion (state or result)",
+      "synonyms": [
+        "belief",
+        "certainty",
+        "assurance",
+        "judgment"
+      ],
+      "antonyms": [
+        "doubt",
+        "uncertainty",
+        "acquittal"
+      ],
+      "sentences": [
+        {
+          "en": "The abolitionist spoke with profound moral ______ and refused to compromise her ideals even when threatened with political retaliation.",
+          "zh": "這位廢奴主義者帶著深刻的道德信念演說，即使面臨政治報復威脅，也拒絕妥協理想。"
+        },
+        {
+          "en": "Despite years of academic rejection, the scientist maintained his ______ that his unconventional energy theory would eventually change the world.",
+          "zh": "儘管多年遭學界拒絕，這位科學家仍堅信自己的非傳統能源理論終將改變世界。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "13",
+        "spelling": "cert",
+        "meaning": "確定；真實；驗證；信念"
+      }
+    },
+    {
+      "word": "veracity",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "the quality of being truthful, accurate, or in accordance with facts:",
+      "defn_zh": "真實性；準確性；誠實",
+      "root_note": "ver (true) + -acity (quality of being)",
+      "synonyms": [
+        "truthfulness",
+        "accuracy",
+        "credibility",
+        "honesty"
+      ],
+      "antonyms": [
+        "falsehood",
+        "inaccuracy",
+        "deception"
+      ],
+      "sentences": [
+        {
+          "en": "The historian questioned the ______ of the monarch's diary, suspecting that the king had changed dates to conceal tactical failures.",
+          "zh": "歷史研究者質疑君主日記的真實性，懷疑國王篡改日期以隱瞞戰術失敗。"
+        },
+        {
+          "en": "Because the witness had a history of perjury, the jurors doubted the ______ of his testimony during the trial.",
+          "zh": "由於證人曾有偽證紀錄，陪審員在審判中徹底懷疑其證詞的真實性。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "13",
+        "spelling": "cert",
+        "meaning": "確定；真實；驗證；信念"
+      }
+    },
+    {
+      "word": "indubitable",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "impossible to doubt; completely certain:",
+      "defn_zh": "不容置疑的；確鑿的；無疑的",
+      "root_note": "in- (not) + dubit (doubt) + -able (capable of being)",
+      "synonyms": [
+        "undeniable",
+        "unquestionable",
+        "certain",
+        "incontrovertible"
+      ],
+      "antonyms": [
+        "doubtful",
+        "uncertain",
+        "debatable"
+      ],
+      "sentences": [
+        {
+          "en": "The archaeological discovery provided ______ proof that an advanced civilization had thrived in the rainforest centuries before explorers arrived.",
+          "zh": "這項考古發現提供了不容置疑的證據，證明探險家到來數百年前已有高度先進文明在雨林中繁榮。"
+        },
+        {
+          "en": "Mathematical proofs require ______ logic because one erroneous calculation can invalidate an entire geometric theory.",
+          "zh": "數學證明需要確鑿無疑的邏輯，因為一個錯誤計算就可能使整套幾何理論失效。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "13",
+        "spelling": "cert",
+        "meaning": "確定；真實；驗證；信念"
+      }
+    },
+    {
+      "word": "corroborate",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to confirm or support a statement, theory, or finding with additional evidence:",
+      "defn_zh": "證實；提供證據支持；確證",
+      "root_note": "con- (together or thoroughly) + robur (strength) + -ate (verb suffix)",
+      "synonyms": [
+        "confirm",
+        "verify",
+        "substantiate",
+        "validate"
+      ],
+      "antonyms": [
+        "contradict",
+        "refute",
+        "disprove"
+      ],
+      "sentences": [
+        {
+          "en": "The defense team found a store receipt that would ______ the suspect's alibi by proving that he was miles from the crime scene.",
+          "zh": "辯護團隊找到一張商店收據，可證實嫌疑人的不在場證明，顯示他當時距犯罪現場數英里。"
+        },
+        {
+          "en": "Independent laboratories could not ______ the professor's controversial findings, leading many researchers to suspect flawed data.",
+          "zh": "獨立實驗室無法證實教授具爭議性的研究結果，使許多同行懷疑其資料有誤。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "13",
+        "spelling": "cert",
+        "meaning": "確定；真實；驗證；信念"
+      }
+    },
+    {
+      "word": "empirical",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "based on observation, experiment, or practical experience rather than theory alone:",
+      "defn_zh": "實證的；以觀察或經驗為依據的",
+      "root_note": "em- (in) + peira (trial, experiment, or experience) + -ical (relating to)",
+      "synonyms": [
+        "observational",
+        "experimental",
+        "evidence-based",
+        "practical"
+      ],
+      "antonyms": [
+        "theoretical",
+        "speculative",
+        "abstract"
+      ],
+      "sentences": [
+        {
+          "en": "Rather than relying on speculation, the scientific community demands ______ evidence gathered through rigorous, reproducible laboratory experiments.",
+          "zh": "科學界不依賴單純推測，而要求透過嚴格且可重複的實驗所蒐集的實證證據。"
+        },
+        {
+          "en": "The sociologist's thesis was supported by ______ data compiled from surveys of more than ten thousand households across varied economic backgrounds.",
+          "zh": "這位社會學家的論文獲得實證資料大力支持，資料來自對一萬多戶不同經濟背景家庭的調查。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "13",
+        "spelling": "cert",
+        "meaning": "確定；真實；驗證；信念"
+      }
+    },
+    {
+      "word": "dogmatic",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "expressing opinions as unquestionable truths and refusing to consider other views:",
+      "defn_zh": "教條主義的；武斷的；固執己見的",
+      "root_note": "dogma (opinion or principle treated as absolute truth) + -atic (relating to)",
+      "synonyms": [
+        "doctrinaire",
+        "rigid",
+        "authoritarian",
+        "inflexible"
+      ],
+      "antonyms": [
+        "open-minded",
+        "flexible",
+        "tolerant"
+      ],
+      "sentences": [
+        {
+          "en": "The professor's ______ teaching style alienated students because he refused classroom debate and treated his opinions as absolute facts.",
+          "zh": "教授教條主義的教學風格疏遠了學生，因為他拒絕課堂辯論，並堅稱自己的觀點就是絕對事實。"
+        },
+        {
+          "en": "People who hold ______ political beliefs rarely compromise and often ignore factual evidence that contradicts their ideology.",
+          "zh": "抱持固執教條政治信念的人很少妥協，並常忽略與其意識形態矛盾的事實證據。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "13",
+        "spelling": "cert",
+        "meaning": "確定；真實；驗證；信念"
+      }
+    }
+  ],
+  "family_options": {},
+  "fallback_options": {
+    "v.": [
+      {
+        "word": "abound",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to exist in great numbers:",
+        "defn_zh": "充滿"
+      },
+      {
+        "word": "abrogate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to deprive of legal force, to nullify:=abolish",
+        "defn_zh": "廢除/取消"
+      },
+      {
+        "word": "abjure",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to renounce, abstain from:",
+        "defn_zh": "發誓放棄/棄絕"
+      },
+      {
+        "word": "abbreviate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to shorten a word or phrase:",
+        "defn_zh": "縮寫;縮短"
+      },
+      {
+        "word": "abdicate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to give up a position, usually one of leadership:",
+        "defn_zh": "退位/放棄(職位)"
+      },
+      {
+        "word": "abduct",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to kidnap, take by force:",
+        "defn_zh": "綁架/劫持"
+      },
+      {
+        "word": "abhor",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to regard with disgust and hatred:",
+        "defn_zh": "憎惡/厭惡"
+      },
+      {
+        "word": "abnegate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to deny or renounce:",
+        "defn_zh": "放棄/克制"
+      },
+      {
+        "word": "abolish",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to formally put an end to a system, practice, or institution:",
+        "defn_zh": "廢除"
+      },
+      {
+        "word": "abort",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to give up on a half-finished project or effort:",
+        "defn_zh": "中止/放棄"
+      },
+      {
+        "word": "abrade",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to scrape or wear away by friction:",
+        "defn_zh": "磨損;擦傷"
+      },
+      {
+        "word": "abscond",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to sneak away and hide:",
+        "defn_zh": "潛逃/逃匿"
+      }
+    ],
+    "adj.": [
+      {
+        "word": "abortive",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "fruitless, failing:",
+        "defn_zh": "失敗的/夭折的"
+      },
+      {
+        "word": "abstemious",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "moderate in eating or drinking:",
+        "defn_zh": "飲食有節制的"
+      },
+      {
+        "word": "abhorrent",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "detestable, despised:",
+        "defn_zh": "令人厭惡的"
+      },
+      {
+        "word": "absurd",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "ridiculous:",
+        "defn_zh": "荒謬的"
+      },
+      {
+        "word": "aberrant",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "deviating from what is normal or expected:",
+        "defn_zh": "異常的;脫軌的"
+      },
+      {
+        "word": "abject",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "wretched, pitiful:",
+        "defn_zh": "卑賤的/淒慘的"
+      },
+      {
+        "word": "abominable",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "causing moral revulsion; extremely unpleasant:",
+        "defn_zh": "可憎的;惡劣的"
+      },
+      {
+        "word": "abounding",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "existing in large numbers or amounts:",
+        "defn_zh": "大量存在的;豐富的"
+      },
+      {
+        "word": "abrasive",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "showing little concern for others; harsh:",
+        "defn_zh": "粗暴的/刺耳的"
+      },
+      {
+        "word": "abrupt",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "sudden or unexpected; brief and curt in manner:",
+        "defn_zh": "突然的/唐突的"
+      },
+      {
+        "word": "abstract",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "existing purely in the mind; not representing actual reality:",
+        "defn_zh": "抽象的"
+      },
+      {
+        "word": "abstruse",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "hard to comprehend:",
+        "defn_zh": "深奧難懂的"
+      }
+    ],
+    "n.": [
+      {
+        "word": "aversion",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "strong dislike, opposition:",
+        "defn_zh": "厭惡/反感"
+      },
+      {
+        "word": "aberration",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "something that differs from the norm:",
+        "defn_zh": "異常/脫軌"
+      },
+      {
+        "word": "abjection",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a state of complete misery, hopelessness, or degradation:",
+        "defn_zh": "卑賤;悲慘狀態"
+      },
+      {
+        "word": "abjuration",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the solemn renunciation of a belief, cause, or claim:",
+        "defn_zh": "公開放棄;誓絕"
+      },
+      {
+        "word": "ablution",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the act of washing oneself, especially as part of a religious ritual:",
+        "defn_zh": "沐浴;淨身儀式"
+      },
+      {
+        "word": "abnegation",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "denial of comfort to oneself:",
+        "defn_zh": "自我克制/放棄"
+      },
+      {
+        "word": "abomination",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "something that causes disgust or hatred:",
+        "defn_zh": "可憎之事;令人厭惡的東西"
+      },
+      {
+        "word": "abridgement",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a shortened version of a book or other written work:",
+        "defn_zh": "節略本;縮減版"
+      },
+      {
+        "word": "absolution",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "freedom from blame, guilt, sin:",
+        "defn_zh": "赦免/免罪"
+      },
+      {
+        "word": "abstemiousness",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "moderation or self-restraint, especially in eating and drinking:",
+        "defn_zh": "節制;克己"
+      },
+      {
+        "word": "abstinence",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the practice of restraining oneself from something enjoyable, especially food, alcohol, or sex:",
+        "defn_zh": "節制;戒絕"
+      },
+      {
+        "word": "avocation",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a hobby or minor occupation apart from one's main career:",
+        "defn_zh": "副業;業餘愛好"
+      }
+    ],
+    "adv.": [
+      {
+        "word": "accordingly",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in a manner that fits the circumstances; consequently:",
+        "defn_zh": "相應地;因此"
+      },
+      {
+        "word": "inadvertently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "unintentionally or by accident:",
+        "defn_zh": "無意間/不小心地"
+      },
+      {
+        "word": "consequently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "as a result; therefore:",
+        "defn_zh": "因此;結果"
+      },
+      {
+        "word": "contemptuously",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "without respect; in a disdainful manner:",
+        "defn_zh": "輕蔑地"
+      },
+      {
+        "word": "involuntarily",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "done without conscious control:",
+        "defn_zh": "不由自主地"
+      },
+      {
+        "word": "cordially",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in a warm or friendly manner:",
+        "defn_zh": "誠摯地/友好地"
+      },
+      {
+        "word": "ipso facto",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "by that very fact or act:",
+        "defn_zh": "事實上;因此"
+      },
+      {
+        "word": "en passant",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in passing; incidentally:",
+        "defn_zh": "順帶一提地;偶然地"
+      },
+      {
+        "word": "regardless",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "despite the prevailing circumstances; without being deterred:",
+        "defn_zh": "不管怎樣;儘管如此"
+      },
+      {
+        "word": "subsequently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "afterward; following in time or order:",
+        "defn_zh": "隨後;其後"
+      },
+      {
+        "word": "aside",
+        "pos": "adv./n.",
+        "pos_key": "adv.",
+        "defn_en": "to or on one side; a remark not meant to be heard by everyone:",
+        "defn_zh": "在旁邊;旁白"
+      },
+      {
+        "word": "vice versa",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "with the order or meaning reversed; conversely:",
+        "defn_zh": "反之亦然"
+      }
+    ],
+    "other": [
+      {
+        "word": "（此批單字中，暫無符合此字根/字首的單字）",
+        "pos": "",
+        "pos_key": "other",
+        "defn_en": "",
+        "defn_zh": ""
+      }
+    ],
+    "prep./adv.": [
+      {
+        "word": "besides",
+        "pos": "prep./adv.",
+        "pos_key": "prep./adv.",
+        "defn_en": "in addition to; furthermore:",
+        "defn_zh": "除...之外;此外"
+      }
+    ],
+    "phrasalv.": [
+      {
+        "word": "egg on",
+        "pos": "phrasal v.",
+        "pos_key": "phrasalv.",
+        "defn_en": "to encourage someone to do something, often risky:",
+        "defn_zh": "慫恿;鼓動"
+      }
+    ],
+    "abbr.": [
+      {
+        "word": "etc.",
+        "pos": "abbr.",
+        "pos_key": "abbr.",
+        "defn_en": "and other similar things (abbreviation of et cetera):",
+        "defn_zh": "等等(et cetera的縮寫)"
+      }
+    ],
+    "interj.": [
+      {
+        "word": "fiddledeedee",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "an exclamation expressing dismissal of something as nonsense:",
+        "defn_zh": "廢話!(表示不屑一顧)"
+      },
+      {
+        "word": "gesundheit",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "an expression said to someone who has just sneezed:",
+        "defn_zh": "保重(打噴嚏後的祝福語)"
+      }
+    ],
+    "prep.": [
+      {
+        "word": "via",
+        "pos": "prep.",
+        "pos_key": "prep.",
+        "defn_en": "by way of; passing through:",
+        "defn_zh": "經由;透過"
+      }
+    ]
+  }
+}
