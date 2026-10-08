@@ -4,7 +4,7 @@
     "total_batches": 236,
     "part1_part2_batches": 159,
     "unclassified_batches": 77,
-    "generated_batches": 85
+    "generated_batches": 86
   },
   "batches": [
     {
@@ -864,7 +864,7 @@
       "name": "alter",
       "subtitle": "其他的；改變",
       "count": 10,
-      "generated": false,
+      "generated": true,
       "search_terms": "altruistic alter ego alteration altercation alternate alternating alternation alternative altruism altruist"
     },
     {
