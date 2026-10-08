@@ -4,7 +4,7 @@
     "total_batches": 236,
     "part1_part2_batches": 159,
     "unclassified_batches": 77,
-    "generated_batches": 154
+    "generated_batches": 155
   },
   "batches": [
     {
@@ -1554,7 +1554,7 @@
       "name": "grat",
       "subtitle": "令人愉悅；感謝",
       "count": 9,
-      "generated": false,
+      "generated": true,
       "search_terms": "ingratiate gratuity gratify disagreement gracious graciousness gratis gratuitous ingratiating"
     },
     {
