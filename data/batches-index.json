@@ -4,7 +4,7 @@
     "total_batches": 236,
     "part1_part2_batches": 159,
     "unclassified_batches": 77,
-    "generated_batches": 88
+    "generated_batches": 89
   },
   "batches": [
     {
@@ -892,10 +892,10 @@
       "part": "part2",
       "part_label": "Part 2 字根篇 (Roots)",
       "name": "aqua",
-      "subtitle": "水",
-      "count": 1,
-      "generated": false,
-      "search_terms": "aquatic"
+      "subtitle": "水；液體；流動",
+      "count": 12,
+      "generated": true,
+      "search_terms": "aquatic aqueduct aqueous aquifer aquaculture aquanaut deluge liquefy confluence inundate imbrue effluent"
     },
     {
       "id": "p2-06-arch",

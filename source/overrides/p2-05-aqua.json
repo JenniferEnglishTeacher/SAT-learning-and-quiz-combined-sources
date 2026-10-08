@@ -1,0 +1,188 @@
+{
+  "id": "p2-05-aqua",
+  "merge_with_source": true,
+  "name": "aqua",
+  "subtitle": "水；液體；流動",
+  "words": [
+    {
+      "word": "aquatic",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "living, growing, or taking place in or near water:",
+      "defn_zh": "水生的；水棲的；水中的",
+      "root_note": "aqua (water) + -atic (relating to or belonging to)",
+      "synonyms": ["marine", "water-dwelling", "underwater"],
+      "antonyms": ["terrestrial", "land-based"],
+      "sentences": [
+        {"en": "Marine biologists are deeply concerned about how rising ocean temperatures affect ______ ecosystems, particularly coral reefs that provide critical habitats for thousands of underwater species.", "zh": "海洋生物學家非常擔心海洋溫度升高會如何影響水生生態系統，特別是為數千種水下物種提供關鍵棲息地的珊瑚礁。"},
+        {"en": "Unlike terrestrial mammals that spend their entire lives on solid ground, sea otters are entirely ______ creatures, hunting, mating, and even sleeping while floating on their backs in the ocean.", "zh": "與一生都在堅實陸地上度過的陸生哺乳動物不同，海獺是完全的水棲動物，牠們會在海中仰浮時捕獵、交配，甚至睡覺。"}
+      ],
+      "category": {"part": 2, "num": "05", "spelling": "aqua", "meaning": "水；液體；流動"}
+    },
+    {
+      "word": "aqueduct",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a bridge, pipe, or channel built to carry water from one place to another:",
+      "defn_zh": "輸水道；渡槽；引水渠",
+      "root_note": "aqua (water) + duct (lead or guide)",
+      "synonyms": ["water channel", "conduit", "canal"],
+      "antonyms": [],
+      "sentences": [
+        {"en": "The ancient Roman ______ remains a marvel of engineering, as its massive stone arches relied on gravity alone to transport clean mountain water across dozens of miles into the heart of the dry city.", "zh": "古羅馬的輸水道至今仍是工程學上的奇蹟，其巨大的石拱完全依賴重力，成功將乾淨的高山水輸送數十英里，直達乾燥城市的中心。"},
+        {"en": "To support agriculture in the arid valley, the government constructed a massive concrete ______ to channel water directly from northern reservoirs to southern farmland.", "zh": "為了支持乾旱山谷的農業，政府建造了一座巨大的混凝土輸水渠道，將水直接從北部水庫引導到南部農田。"}
+      ],
+      "category": {"part": 2, "num": "05", "spelling": "aqua", "meaning": "水；液體；流動"}
+    },
+    {
+      "word": "aqueous",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "made with water, containing water, or having a watery quality:",
+      "defn_zh": "水的；含水的；水溶液的",
+      "root_note": "aque (water) + -ous (full of or having the quality of)",
+      "synonyms": ["watery", "water-based", "liquid"],
+      "antonyms": ["dry", "anhydrous"],
+      "sentences": [
+        {"en": "In the chemistry laboratory, the scientist dissolved the salty compound in distilled water to create an ______ solution, allowing the molecules to react freely in the fluid environment.", "zh": "在化學實驗室中，科學家將鹽類化合物溶解於蒸餾水中，以製造水溶液，使分子能夠在流體環境中自由反應。"},
+        {"en": "The biological passage explained that the human eye is filled with ______ humor, a clear, watery fluid between the lens and the cornea that maintains essential intraocular pressure.", "zh": "這篇生物學文章解釋說，人類的眼睛充滿了房水，這是一種位於晶狀體與角膜之間、用以維持必要眼壓的透明水樣液體。"}
+      ],
+      "category": {"part": 2, "num": "05", "spelling": "aqua", "meaning": "水；液體；流動"}
+    },
+    {
+      "word": "aquifer",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "an underground layer of rock or soil that stores and carries groundwater:",
+      "defn_zh": "含水層；地下蓄水層",
+      "root_note": "aqua (water) + fer (bear or carry)",
+      "synonyms": ["water-bearing layer", "groundwater reservoir"],
+      "antonyms": [],
+      "sentences": [
+        {"en": "Because towns in the desert region lack flowing rivers, they rely on drilling deep wells into a subterranean ______ to pump out thousands of gallons of trapped prehistoric freshwater.", "zh": "由於沙漠地區的城鎮缺乏流動河川，它們完全依賴在地下含水層開鑿深井，以抽取數千加侖被困於地底的史前淡水。"},
+        {"en": "Environmental scientists warned that chemical runoff from the surface could seep through porous rocks and permanently contaminate the underground ______, poisoning the region's main drinking-water supply.", "zh": "環境科學家警告，地表化學逕流可能滲透多孔岩石，永久污染地下含水層，進而毒害該地區的主要飲用水源。"}
+      ],
+      "category": {"part": 2, "num": "05", "spelling": "aqua", "meaning": "水；液體；流動"}
+    },
+    {
+      "word": "aquaculture",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "the controlled farming of fish, shellfish, or aquatic plants:",
+      "defn_zh": "水產養殖；水生生物養殖",
+      "root_note": "aqua (water) + culture (growing or cultivation)",
+      "synonyms": ["fish farming", "marine farming"],
+      "antonyms": ["wild harvesting"],
+      "sentences": [
+        {"en": "As overfishing depletes wild salmon populations, global seafood suppliers are turning toward sustainable ______, raising millions of fish in controlled coastal pens.", "zh": "隨著過度捕撈持續耗盡野生鮭魚族群，全球海鮮供應商正轉向永續水產養殖，在受控的沿海圍網中養殖數百萬條魚。"},
+        {"en": "The economic essay argued that investment in marine ______ not only revitalizes struggling coastal economies but also satisfies the soaring global demand for high-protein seafood.", "zh": "這篇經濟學論文指出，投資海洋水產養殖不僅能振興陷入困境的沿海經濟，也能滿足全球對高蛋白海鮮飆升的需求。"}
+      ],
+      "category": {"part": 2, "num": "05", "spelling": "aqua", "meaning": "水；液體；流動"}
+    },
+    {
+      "word": "aquanaut",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a person trained to live and work underwater for extended periods:",
+      "defn_zh": "海底探險家；海底研究人員；潛水員",
+      "root_note": "aqua (water) + naut (sailor or explorer)",
+      "synonyms": ["undersea explorer", "diver", "submariner"],
+      "antonyms": [],
+      "sentences": [
+        {"en": "Spending over thirty consecutive days inside the submerged laboratory, the brave ______ conducted complex experiments on deep-sea pressure without returning to the surface for air.", "zh": "這位勇敢的海底研究人員在水下實驗室中連續待了三十多天，在沒有返回海面呼吸空氣的情況下，進行深海壓力的複雜實驗。"},
+        {"en": "Just as an astronaut trains intensely for outer space, a certified ______ must practice specialized diving techniques to survive at the crushing depths of the ocean floor.", "zh": "正如太空人接受密集訓練以適應外太空一樣，合格的海底探險家必須練習專門的潛水技術，才能在海床的巨大壓力下生存。"}
+      ],
+      "category": {"part": 2, "num": "05", "spelling": "aqua", "meaning": "水；液體；流動"}
+    },
+    {
+      "word": "deluge",
+      "pos": "n. / v.",
+      "pos_key": "n.",
+      "defn_en": "a severe flood or an overwhelming amount of something arriving at once:",
+      "defn_zh": "洪水；暴雨；大量湧來的事物；淹沒",
+      "root_note": "dis- (away) + lav or luv (wash); literally, a washing away",
+      "synonyms": ["flood", "torrent", "inundation", "downpour"],
+      "antonyms": ["drought", "scarcity", "trickle"],
+      "sentences": [
+        {"en": "The sudden tropical storm unleashed a catastrophic ______ upon the valley, overflowing the riverbanks and submerging residential streets in several feet of rushing water.", "zh": "突如其來的熱帶風暴給山谷帶來災難性的洪水，使河流氾濫，並將住宅區街道淹沒在數英尺深的急流中。"},
+        {"en": "Following the controversial product announcement, the customer service department was hit by a ______ of angry emails, making it impossible for staff to answer every complaint.", "zh": "在充滿爭議的產品發布後，客服部門收到如洪水般湧來的憤怒郵件，使員工無法逐一回覆每一項投訴。"}
+      ],
+      "category": {"part": 2, "num": "05", "spelling": "aqua", "meaning": "水；液體；流動"}
+    },
+    {
+      "word": "liquefy",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to make or become liquid:",
+      "defn_zh": "使液化；變成液體",
+      "root_note": "liqu (liquid) + -fy (make or cause to become)",
+      "synonyms": ["melt", "dissolve", "fluidize"],
+      "antonyms": ["solidify", "freeze", "harden"],
+      "sentences": [
+        {"en": "As the volcanic eruption intensified, the immense heat began to ______ the surrounding granite, turning it into a scorching, slow-moving river of molten magma.", "zh": "隨著火山爆發加劇，巨大的熱量開始使周圍堅硬的花崗岩液化，將其變成一條灼熱且緩慢移動的熔岩河。"},
+        {"en": "During an intense earthquake, seismic waves can cause loose, water-saturated sandy soil to ______, destroying its structural stability and causing buildings to sink.", "zh": "強烈地震期間，地震波可能使鬆散且含水飽和的沙質土壤液化，破壞其結構穩定性並導致建築物下沉。"}
+      ],
+      "category": {"part": 2, "num": "05", "spelling": "aqua", "meaning": "水；液體；流動"}
+    },
+    {
+      "word": "confluence",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a place where streams meet, or a combination of people, events, or ideas:",
+      "defn_zh": "匯流處；交匯；融合",
+      "root_note": "con- (together) + flu (flow) + -ence (state)",
+      "synonyms": ["junction", "merging", "convergence", "intersection"],
+      "antonyms": ["divergence", "separation"],
+      "sentences": [
+        {"en": "The historic trading post was strategically built at the geographical ______ of two major rivers, allowing merchants on either waterway to meet and exchange goods.", "zh": "這座歷史悠久的貿易站戰略性地建在兩條主要河流的地理匯流處，使沿著任一水道而來的商人都能會面並交換貨物。"},
+        {"en": "The company's success was driven by a rare ______ of brilliant software engineering, massive venture capital, and perfect market timing.", "zh": "這家開創性科技公司的成功，是由傑出的軟體工程、龐大的風險資本以及完美的市場時機三者罕見交匯所推動。"}
+      ],
+      "category": {"part": 2, "num": "05", "spelling": "aqua", "meaning": "水；液體；流動"}
+    },
+    {
+      "word": "inundate",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to flood a place or overwhelm someone with a very large amount of something:",
+      "defn_zh": "淹沒；使不勝負荷；大量湧入",
+      "root_note": "in- (into or upon) + und (wave or flood) + -ate (verb suffix)",
+      "synonyms": ["flood", "overwhelm", "swamp", "deluge"],
+      "antonyms": ["drain", "relieve", "clear"],
+      "sentences": [
+        {"en": "If the heavy rainfall continues through the night, the nearby dam will overflow and completely ______ the downstream farmland with devastating floodwater.", "zh": "如果大雨持續整夜不停，附近的水壩將會溢流，並以具破壞性的洪水徹底淹沒下游農田。"},
+        {"en": "Ahead of the final examination, the overwhelmed students felt that the professor had chosen to ______ them with dense textbook chapters and complicated study guides.", "zh": "在期末考試前，不堪重負的學生覺得教授用大量艱深的課本章節和複雜的複習指南使他們應接不暇。"}
+      ],
+      "category": {"part": 2, "num": "05", "spelling": "aqua", "meaning": "水；液體；流動"}
+    },
+    {
+      "word": "imbrue",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to soak, stain, or deeply saturate something with a liquid or a quality:",
+      "defn_zh": "浸濕；染遍；使充滿",
+      "root_note": "im- (into or thoroughly) + an old root meaning soak or moisten",
+      "synonyms": ["soak", "drench", "saturate", "stain"],
+      "antonyms": ["dry", "cleanse"],
+      "sentences": [
+        {"en": "Shakespearean tragedies often end with ambitious tyrants who ______ their own hands in innocent blood to secure political dominance.", "zh": "莎士比亞悲劇常以野心勃勃的暴君為鞏固政治統治而讓自己的雙手沾滿無辜者的鮮血作結。"},
+        {"en": "The watercolor painter tilted the damp canvas, allowing the vibrant crimson pigments to ______ the paper fibers and create a richly saturated background.", "zh": "這位水彩畫家小心傾斜潮濕的畫布，讓鮮豔的深紅色顏料浸潤紙張纖維，營造出色彩飽和的背景。"}
+      ],
+      "category": {"part": 2, "num": "05", "spelling": "aqua", "meaning": "水；液體；流動"}
+    },
+    {
+      "word": "effluent",
+      "pos": "n. / adj.",
+      "pos_key": "n.",
+      "defn_en": "liquid waste or sewage flowing out from a factory, treatment plant, or other source:",
+      "defn_zh": "流出液；污水；處理後廢水",
+      "root_note": "ef- (out) + flu (flow) + -ent (being or doing)",
+      "synonyms": ["discharge", "wastewater", "outflow"],
+      "antonyms": ["inflow", "intake"],
+      "sentences": [
+        {"en": "Environmental agents routinely test the toxic ______ discharged from the factory's underground waste pipes to ensure that no hazardous chemicals enter the municipal river.", "zh": "環境保護人員定期檢測從工廠地下廢水管排出的有毒污水，以確保沒有危險化學物質流入市區河川。"},
+        {"en": "The engineering textbook explained how the treatment facility purifies contaminated liquid until the resulting ______ is safe enough to return to natural water systems.", "zh": "這本工程學教科書說明處理設施如何淨化受污染的液體，直到最終流出液足夠安全，可以重新排入天然水系統。"}
+      ],
+      "category": {"part": 2, "num": "05", "spelling": "aqua", "meaning": "水；液體；流動"}
+    }
+  ]
+}
