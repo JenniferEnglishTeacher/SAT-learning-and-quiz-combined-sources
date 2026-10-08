@@ -4,7 +4,7 @@
     "total_batches": 236,
     "part1_part2_batches": 159,
     "unclassified_batches": 77,
-    "generated_batches": 89
+    "generated_batches": 90
   },
   "batches": [
     {
@@ -904,7 +904,7 @@
       "name": "arch",
       "subtitle": "統治（者）",
       "count": 11,
-      "generated": false,
+      "generated": true,
       "search_terms": "anarchist arcane archetypal archival archive hierarchy matriarch oligarchic oligarchical oligarchy patriarch"
     },
     {

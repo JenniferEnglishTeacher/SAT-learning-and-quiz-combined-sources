@@ -88,9 +88,10 @@
     "p2-02-alter",
     "p2-03-am",
     "p2-04-anim",
-    "p2-05-aqua"
+    "p2-05-aqua",
+    "p2-06-arch"
   ],
-  "generated_count": 89,
+  "generated_count": 90,
   "total": 236,
-  "next_batch": "p2-06-arch"
+  "next_batch": "p2-07-arm"
 }

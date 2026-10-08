@@ -1,0 +1,682 @@
+{
+  "id": "p2-06-arch",
+  "part": "part2",
+  "part_label": "Part 2 字根篇 (Roots)",
+  "name": "arch",
+  "subtitle": "統治（者）",
+  "count": 11,
+  "words": [
+    {
+      "word": "anarchist",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "one who wants to eliminate all government:",
+      "defn_zh": "無政府主義者",
+      "root_note": "an- (without) + arche (rule, Greek)",
+      "sentences": [
+        {
+          "en": "The ______ believed that all forms of government were inherently oppressive.",
+          "zh": "這位無政府主義者認為一切形式的政府本質上都具有壓迫性。"
+        },
+        {
+          "en": "Historians study the movement to understand what drew so many young people to become ______s.",
+          "zh": "歷史學家研究這場運動,以了解為何有這麼多年輕人被吸引成為無政府主義者。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "06",
+        "spelling": "arch",
+        "meaning": "統治（者）"
+      }
+    },
+    {
+      "word": "arcane",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "mysterious or known by few:",
+      "defn_zh": "神秘的/隱奧的",
+      "root_note": "arca (chest, box)",
+      "sentences": [
+        {
+          "en": "The ancient book contained ______ knowledge.",
+          "zh": "這本古書蘊藏著隱奧難解的知識。"
+        },
+        {
+          "en": "Only a handful of scholars understood the ______ rituals described in the text.",
+          "zh": "只有少數學者能理解這篇文本中描述的神秘儀式。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "06",
+        "spelling": "arch",
+        "meaning": "統治（者）"
+      }
+    },
+    {
+      "word": "archetypal",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "the most representative or typical example of something:",
+      "defn_zh": "典型的/原型的",
+      "root_note": "arche (original, Greek) + typos (model, Greek)",
+      "sentences": [
+        {
+          "en": "The lonely cowboy is an ______ figure in Western films.",
+          "zh": "孤獨的牛仔是西部電影中的典型人物形象。"
+        },
+        {
+          "en": "Her rags-to-riches story follows the ______ American Dream narrative.",
+          "zh": "她白手起家的故事,遵循著典型的美國夢敘事。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "06",
+        "spelling": "arch",
+        "meaning": "統治（者）"
+      }
+    },
+    {
+      "word": "archival",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "relating to historical documents or records:",
+      "defn_zh": "檔案的;歷史記錄的",
+      "root_note": "archivum (records office, from Latin)",
+      "sentences": [
+        {
+          "en": "The documentary relied heavily on rare ______ footage from the 1960s.",
+          "zh": "這部紀錄片大量運用了1960年代罕見的檔案影像。"
+        },
+        {
+          "en": "The library keeps its most fragile ______ materials in a climate-controlled room.",
+          "zh": "圖書館將最脆弱的檔案資料存放在恆溫恆濕的房間裡。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "06",
+        "spelling": "arch",
+        "meaning": "統治（者）"
+      }
+    },
+    {
+      "word": "archive",
+      "pos": "n./v.",
+      "pos_key": "n.",
+      "defn_en": "a collection of historical documents or records; to store such records:",
+      "defn_zh": "檔案;存檔",
+      "root_note": "archivum (records office, from Latin)",
+      "sentences": [
+        {
+          "en": "The national ______ holds letters written by soldiers during the war.",
+          "zh": "國家檔案館收藏著戰爭期間士兵所寫的信件。"
+        },
+        {
+          "en": "The company decided to ______ all emails older than five years.",
+          "zh": "這家公司決定將五年以上的舊郵件全部存檔。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "06",
+        "spelling": "arch",
+        "meaning": "統治（者）"
+      }
+    },
+    {
+      "word": "hierarchy",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a system with ranked groups:",
+      "defn_zh": "階層/等級制度",
+      "root_note": "hieros (sacred, Greek) + arche (rule, Greek)",
+      "sentences": [
+        {
+          "en": "The company's rigid ______ made it difficult for new ideas to reach management.",
+          "zh": "這家公司僵化的階級制度讓新想法很難傳達給管理階層。"
+        },
+        {
+          "en": "Wolves live in a strict social ______ led by an alpha pair.",
+          "zh": "狼群生活在由一對首領帶領的嚴格社會階級制度中。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "06",
+        "spelling": "arch",
+        "meaning": "統治（者）"
+      }
+    },
+    {
+      "word": "matriarch",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a woman who is the head of a family or tribe:",
+      "defn_zh": "女家長;女族長",
+      "root_note": "mater (mother) + archein (rule), from Latin and Greek",
+      "sentences": [
+        {
+          "en": "The family gathered every Sunday at the home of the ______ .",
+          "zh": "這個家庭每個星期天都會聚集在這位女家長的家中。"
+        },
+        {
+          "en": "As the ______ of the clan, she made all major decisions.",
+          "zh": "身為這個家族的女族長,她做出所有重大決定。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "06",
+        "spelling": "arch",
+        "meaning": "統治（者）"
+      }
+    },
+    {
+      "word": "oligarchic",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "relating to government by a small group of powerful people:",
+      "defn_zh": "寡頭政治的",
+      "root_note": "oligos (few) + archein (to rule), from Greek",
+      "sentences": [
+        {
+          "en": "Critics warned that the reforms would create an ______ power structure.",
+          "zh": "批評者警告這些改革將形成一種寡頭政治的權力結構。"
+        },
+        {
+          "en": "The historian traced the rise of ______ control in the ancient city-state.",
+          "zh": "這位歷史學家追溯了這個古代城邦寡頭政治興起的歷史。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "06",
+        "spelling": "arch",
+        "meaning": "統治（者）"
+      }
+    },
+    {
+      "word": "oligarchical",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "relating to or characteristic of rule by a small elite group:",
+      "defn_zh": "寡頭政治的",
+      "root_note": "oligos (few) + archein (to rule), from Greek",
+      "sentences": [
+        {
+          "en": "The nation slowly transitioned from democratic to ______ governance.",
+          "zh": "這個國家逐漸從民主治理轉變為寡頭政治統治。"
+        },
+        {
+          "en": "An ______ elite controlled nearly all the country's wealth.",
+          "zh": "一個寡頭政治的菁英集團掌控了這個國家幾乎所有的財富。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "06",
+        "spelling": "arch",
+        "meaning": "統治（者）"
+      }
+    },
+    {
+      "word": "oligarchy",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a form of government in which power rests with a small group:",
+      "defn_zh": "寡頭政治;寡頭統治集團",
+      "root_note": "oligos (few) + archein (to rule), from Greek",
+      "sentences": [
+        {
+          "en": "The revolution overthrew the ruling ______ within a matter of weeks.",
+          "zh": "這場革命在短短數週內推翻了這個執政的寡頭統治集團。"
+        },
+        {
+          "en": "Historians debate whether the corporation functions like a small ______ .",
+          "zh": "歷史學家爭論這家公司是否運作得像一個小型的寡頭統治集團。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "06",
+        "spelling": "arch",
+        "meaning": "統治（者）"
+      }
+    },
+    {
+      "word": "patriarch",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "the male head of a family or tribe; a respected senior figure:",
+      "defn_zh": "族長;宗主教",
+      "root_note": "pater (father) + archein (to rule), from Greek",
+      "sentences": [
+        {
+          "en": "The family ______ gathered everyone together for the holiday.",
+          "zh": "這位家族族長在假期期間召集了所有人團聚。"
+        },
+        {
+          "en": "He was regarded as the ______ of the local business community.",
+          "zh": "他被視為當地商業界的宗族長輩。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "06",
+        "spelling": "arch",
+        "meaning": "統治（者）"
+      }
+    }
+  ],
+  "family_options": {},
+  "fallback_options": {
+    "v.": [
+      {
+        "word": "abound",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to exist in great numbers:",
+        "defn_zh": "充滿"
+      },
+      {
+        "word": "abrogate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to deprive of legal force, to nullify:=abolish",
+        "defn_zh": "廢除/取消"
+      },
+      {
+        "word": "abjure",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to renounce, abstain from:",
+        "defn_zh": "發誓放棄/棄絕"
+      },
+      {
+        "word": "abbreviate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to shorten a word or phrase:",
+        "defn_zh": "縮寫;縮短"
+      },
+      {
+        "word": "abdicate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to give up a position, usually one of leadership:",
+        "defn_zh": "退位/放棄(職位)"
+      },
+      {
+        "word": "abduct",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to kidnap, take by force:",
+        "defn_zh": "綁架/劫持"
+      },
+      {
+        "word": "abhor",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to regard with disgust and hatred:",
+        "defn_zh": "憎惡/厭惡"
+      },
+      {
+        "word": "abnegate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to deny or renounce:",
+        "defn_zh": "放棄/克制"
+      },
+      {
+        "word": "abolish",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to formally put an end to a system, practice, or institution:",
+        "defn_zh": "廢除"
+      },
+      {
+        "word": "abort",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to give up on a half-finished project or effort:",
+        "defn_zh": "中止/放棄"
+      },
+      {
+        "word": "abrade",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to scrape or wear away by friction:",
+        "defn_zh": "磨損;擦傷"
+      },
+      {
+        "word": "abscond",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to sneak away and hide:",
+        "defn_zh": "潛逃/逃匿"
+      }
+    ],
+    "adj.": [
+      {
+        "word": "abortive",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "fruitless, failing:",
+        "defn_zh": "失敗的/夭折的"
+      },
+      {
+        "word": "abstemious",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "moderate in eating or drinking:",
+        "defn_zh": "飲食有節制的"
+      },
+      {
+        "word": "abhorrent",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "detestable, despised:",
+        "defn_zh": "令人厭惡的"
+      },
+      {
+        "word": "absurd",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "ridiculous:",
+        "defn_zh": "荒謬的"
+      },
+      {
+        "word": "aberrant",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "deviating from what is normal or expected:",
+        "defn_zh": "異常的;脫軌的"
+      },
+      {
+        "word": "abject",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "wretched, pitiful:",
+        "defn_zh": "卑賤的/淒慘的"
+      },
+      {
+        "word": "abominable",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "causing moral revulsion; extremely unpleasant:",
+        "defn_zh": "可憎的;惡劣的"
+      },
+      {
+        "word": "abounding",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "existing in large numbers or amounts:",
+        "defn_zh": "大量存在的;豐富的"
+      },
+      {
+        "word": "abrasive",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "showing little concern for others; harsh:",
+        "defn_zh": "粗暴的/刺耳的"
+      },
+      {
+        "word": "abrupt",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "sudden or unexpected; brief and curt in manner:",
+        "defn_zh": "突然的/唐突的"
+      },
+      {
+        "word": "abstract",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "existing purely in the mind; not representing actual reality:",
+        "defn_zh": "抽象的"
+      },
+      {
+        "word": "abstruse",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "hard to comprehend:",
+        "defn_zh": "深奧難懂的"
+      }
+    ],
+    "n.": [
+      {
+        "word": "aversion",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "strong dislike, opposition:",
+        "defn_zh": "厭惡/反感"
+      },
+      {
+        "word": "aberration",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "something that differs from the norm:",
+        "defn_zh": "異常/脫軌"
+      },
+      {
+        "word": "abjection",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a state of complete misery, hopelessness, or degradation:",
+        "defn_zh": "卑賤;悲慘狀態"
+      },
+      {
+        "word": "abjuration",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the solemn renunciation of a belief, cause, or claim:",
+        "defn_zh": "公開放棄;誓絕"
+      },
+      {
+        "word": "ablution",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the act of washing oneself, especially as part of a religious ritual:",
+        "defn_zh": "沐浴;淨身儀式"
+      },
+      {
+        "word": "abnegation",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "denial of comfort to oneself:",
+        "defn_zh": "自我克制/放棄"
+      },
+      {
+        "word": "abomination",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "something that causes disgust or hatred:",
+        "defn_zh": "可憎之事;令人厭惡的東西"
+      },
+      {
+        "word": "abridgement",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a shortened version of a book or other written work:",
+        "defn_zh": "節略本;縮減版"
+      },
+      {
+        "word": "absolution",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "freedom from blame, guilt, sin:",
+        "defn_zh": "赦免/免罪"
+      },
+      {
+        "word": "abstemiousness",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "moderation or self-restraint, especially in eating and drinking:",
+        "defn_zh": "節制;克己"
+      },
+      {
+        "word": "abstinence",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the practice of restraining oneself from something enjoyable, especially food, alcohol, or sex:",
+        "defn_zh": "節制;戒絕"
+      },
+      {
+        "word": "avocation",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a hobby or minor occupation apart from one's main career:",
+        "defn_zh": "副業;業餘愛好"
+      }
+    ],
+    "adv.": [
+      {
+        "word": "accordingly",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in a manner that fits the circumstances; consequently:",
+        "defn_zh": "相應地;因此"
+      },
+      {
+        "word": "inadvertently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "unintentionally or by accident:",
+        "defn_zh": "無意間/不小心地"
+      },
+      {
+        "word": "consequently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "as a result; therefore:",
+        "defn_zh": "因此;結果"
+      },
+      {
+        "word": "contemptuously",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "without respect; in a disdainful manner:",
+        "defn_zh": "輕蔑地"
+      },
+      {
+        "word": "involuntarily",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "done without conscious control:",
+        "defn_zh": "不由自主地"
+      },
+      {
+        "word": "cordially",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in a warm or friendly manner:",
+        "defn_zh": "誠摯地/友好地"
+      },
+      {
+        "word": "ipso facto",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "by that very fact or act:",
+        "defn_zh": "事實上;因此"
+      },
+      {
+        "word": "en passant",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in passing; incidentally:",
+        "defn_zh": "順帶一提地;偶然地"
+      },
+      {
+        "word": "regardless",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "despite the prevailing circumstances; without being deterred:",
+        "defn_zh": "不管怎樣;儘管如此"
+      },
+      {
+        "word": "subsequently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "afterward; following in time or order:",
+        "defn_zh": "隨後;其後"
+      },
+      {
+        "word": "aside",
+        "pos": "adv./n.",
+        "pos_key": "adv.",
+        "defn_en": "to or on one side; a remark not meant to be heard by everyone:",
+        "defn_zh": "在旁邊;旁白"
+      },
+      {
+        "word": "vice versa",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "with the order or meaning reversed; conversely:",
+        "defn_zh": "反之亦然"
+      }
+    ],
+    "other": [
+      {
+        "word": "（此批單字中，暫無符合此字根/字首的單字）",
+        "pos": "",
+        "pos_key": "other",
+        "defn_en": "",
+        "defn_zh": ""
+      }
+    ],
+    "prep./adv.": [
+      {
+        "word": "besides",
+        "pos": "prep./adv.",
+        "pos_key": "prep./adv.",
+        "defn_en": "in addition to; furthermore:",
+        "defn_zh": "除...之外;此外"
+      }
+    ],
+    "phrasalv.": [
+      {
+        "word": "egg on",
+        "pos": "phrasal v.",
+        "pos_key": "phrasalv.",
+        "defn_en": "to encourage someone to do something, often risky:",
+        "defn_zh": "慫恿;鼓動"
+      }
+    ],
+    "abbr.": [
+      {
+        "word": "etc.",
+        "pos": "abbr.",
+        "pos_key": "abbr.",
+        "defn_en": "and other similar things (abbreviation of et cetera):",
+        "defn_zh": "等等(et cetera的縮寫)"
+      }
+    ],
+    "interj.": [
+      {
+        "word": "fiddledeedee",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "an exclamation expressing dismissal of something as nonsense:",
+        "defn_zh": "廢話!(表示不屑一顧)"
+      },
+      {
+        "word": "gesundheit",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "an expression said to someone who has just sneezed:",
+        "defn_zh": "保重(打噴嚏後的祝福語)"
+      }
+    ],
+    "prep.": [
+      {
+        "word": "via",
+        "pos": "prep.",
+        "pos_key": "prep.",
+        "defn_en": "by way of; passing through:",
+        "defn_zh": "經由;透過"
+      }
+    ]
+  }
+}
