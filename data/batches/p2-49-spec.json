@@ -1,0 +1,970 @@
+{
+  "id": "p2-49-spec",
+  "part": "part2",
+  "part_label": "Part 2 字根篇 (Roots)",
+  "name": "spec",
+  "subtitle": "看",
+  "count": 23,
+  "words": [
+    {
+      "word": "introspective",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "looking into one's own feelings:",
+      "defn_zh": "內省的/反省的",
+      "root_note": "intro- (inward) + specere (to look)",
+      "sentences": [
+        {
+          "en": "After the breakup, she became more ______ about her own behavior.",
+          "zh": "分手之後,她變得更加反省自己的行為。"
+        },
+        {
+          "en": "The novel's ______ narrator spends much of the book reflecting on his past.",
+          "zh": "這部小說內省的敘事者在書中花了許多篇幅反思自己的過去。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "49",
+        "spelling": "spec",
+        "meaning": "看"
+      }
+    },
+    {
+      "word": "perspicacious",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "acutely perceptive, shrewd:",
+      "defn_zh": "有洞察力的",
+      "root_note": "per- (through) + specere (to look)",
+      "sentences": [
+        {
+          "en": "The ______ detective noticed the tiny detail everyone else had missed.",
+          "zh": "這位洞察力敏銳的偵探注意到了其他人都忽略的細微線索。"
+        },
+        {
+          "en": "Her ______ analysis of the market predicted the crash months early.",
+          "zh": "她對市場敏銳的分析提前好幾個月就預測到了這場崩盤。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "49",
+        "spelling": "spec",
+        "meaning": "看"
+      }
+    },
+    {
+      "word": "retrospect",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "looking backward:",
+      "defn_zh": "回顧/追溯",
+      "root_note": "retro- (backward) + specere (to look)",
+      "sentences": [
+        {
+          "en": "In ______, quitting that job was the best decision she ever made.",
+          "zh": "回顧過去,辭去那份工作是她做過最好的決定。"
+        },
+        {
+          "en": "In ______, the warning signs of the crisis were obvious.",
+          "zh": "事後回想,這場危機的警訊其實相當明顯。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "49",
+        "spelling": "spec",
+        "meaning": "看"
+      }
+    },
+    {
+      "word": "circumspect",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "careful and cautious before acting",
+      "defn_zh": "謹慎周到的",
+      "root_note": "circum- (around) + specere (to look)",
+      "sentences": [
+        {
+          "en": "She remained ______ when discussing the company's confidential plans.",
+          "zh": "在討論公司機密計畫時,她保持著謹慎周到的態度。"
+        },
+        {
+          "en": "A good diplomat must be ______ in every public statement.",
+          "zh": "一位優秀的外交官在每一次公開發言時都必須謹言慎行。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "49",
+        "spelling": "spec",
+        "meaning": "看"
+      }
+    },
+    {
+      "word": "inconspicuous",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "hardly noticeable",
+      "defn_zh": "不顯眼的",
+      "root_note": "in- (not) + con- (together) + specere (to look)",
+      "sentences": [
+        {
+          "en": "He tried to remain ______ while sneaking into the meeting late.",
+          "zh": "他試圖悄悄地不引人注意地溜進遲到的會議。"
+        },
+        {
+          "en": "The safe was hidden behind an ______ bookshelf.",
+          "zh": "這個保險箱被藏在一個不起眼的書架後面。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "49",
+        "spelling": "spec",
+        "meaning": "看"
+      }
+    },
+    {
+      "word": "auspex",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a person who observes and interprets omens, especially from the flight of birds:",
+      "defn_zh": "占鳥師",
+      "root_note": "avis (bird) + specere (to look at), from Latin",
+      "sentences": [
+        {
+          "en": "The Roman general consulted an ______ before crossing the river.",
+          "zh": "這位羅馬將軍在渡河前先諮詢了占鳥師的意見。"
+        },
+        {
+          "en": "The temple employed a respected ______ to interpret the eagle's flight path.",
+          "zh": "這座神廟聘請了一位受人敬重的占鳥師,來解讀老鷹的飛行路徑。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "49",
+        "spelling": "spec",
+        "meaning": "看"
+      }
+    },
+    {
+      "word": "auspice",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "patronage and support; (usually plural) an omen:",
+      "defn_zh": "贊助;吉兆",
+      "root_note": "avis (bird) + specere (to look at), from Latin",
+      "sentences": [
+        {
+          "en": "The conference was held under the ______ of the United Nations.",
+          "zh": "這場會議是在聯合國的贊助下舉行的。"
+        },
+        {
+          "en": "The clear skies on their wedding day were seen as a favorable ______.",
+          "zh": "婚禮當天萬里無雲,被視為一個好兆頭。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "49",
+        "spelling": "spec",
+        "meaning": "看"
+      }
+    },
+    {
+      "word": "auspicious",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "favorable, indicative of good things:",
+      "defn_zh": "吉利的/預示好兆頭的",
+      "root_note": "avis (bird) + specere (to look)",
+      "sentences": [
+        {
+          "en": "The couple chose an ______ date for their wedding according to tradition.",
+          "zh": "這對新人按照傳統選了一個吉利的日子舉行婚禮。"
+        },
+        {
+          "en": "The company's strong first quarter was an ______ sign for the year ahead.",
+          "zh": "這家公司強勁的第一季表現,為接下來的一年帶來了好兆頭。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "49",
+        "spelling": "spec",
+        "meaning": "看"
+      }
+    },
+    {
+      "word": "conspectus",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a general survey or summary of a subject:",
+      "defn_zh": "概覽;綜覽",
+      "root_note": "con- (together) + specere (to look), from Latin",
+      "sentences": [
+        {
+          "en": "The introduction offers a useful ______ of the entire field before diving into specifics.",
+          "zh": "這篇導言在深入細節之前,先提供了整個領域實用的概覽。"
+        },
+        {
+          "en": "Her lecture served as a ______ of twentieth-century art movements.",
+          "zh": "她的講座是一場對二十世紀藝術流派的綜覽。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "49",
+        "spelling": "spec",
+        "meaning": "看"
+      }
+    },
+    {
+      "word": "despicable",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "deserving hatred and contempt:",
+      "defn_zh": "可鄙的;卑劣的",
+      "root_note": "de- (down) + specere (to look), from Latin",
+      "sentences": [
+        {
+          "en": "Betraying a close friend for money is truly ______ .",
+          "zh": "為了金錢背叛摯友的行為實在卑劣。"
+        },
+        {
+          "en": "The crowd condemned his ______ treatment of the animals.",
+          "zh": "群眾譴責他對待動物的卑劣行為。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "49",
+        "spelling": "spec",
+        "meaning": "看"
+      }
+    },
+    {
+      "word": "introspection",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "the examination of one's own thoughts and feelings:",
+      "defn_zh": "內省;反省",
+      "root_note": "intro- (inward) + specere (to look), from Latin",
+      "sentences": [
+        {
+          "en": "The long flight gave her time for quiet ______ .",
+          "zh": "這趟長途飛行給了她安靜反省的時間。"
+        },
+        {
+          "en": "Years of therapy encouraged deeper ______ .",
+          "zh": "多年的治療促使他進行更深層的自我反省。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "49",
+        "spelling": "spec",
+        "meaning": "看"
+      }
+    },
+    {
+      "word": "perspicacity",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "shrewdness, perceptiveness:",
+      "defn_zh": "敏銳/洞察力",
+      "root_note": "per- (thoroughly) + specere (to see)",
+      "sentences": [
+        {
+          "en": "Her ______ allowed her to spot the flaw in the plan immediately.",
+          "zh": "她的敏銳洞察力讓她立刻發現了這項計畫的漏洞。"
+        },
+        {
+          "en": "The detective's ______ helped him solve the case within days.",
+          "zh": "這位偵探的敏銳洞察力幫助他在數天內就破了案。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "49",
+        "spelling": "spec",
+        "meaning": "看"
+      }
+    },
+    {
+      "word": "perspicuity",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "clearness of expression or statement:",
+      "defn_zh": "明晰;清楚易懂",
+      "root_note": "per- (through) + specere (to look), from Latin",
+      "sentences": [
+        {
+          "en": "The report was praised for its ______ despite covering complex data.",
+          "zh": "這份報告儘管涵蓋了複雜的數據,仍因其清楚易懂而備受讚譽。"
+        },
+        {
+          "en": "Good technical writing depends on ______ rather than jargon.",
+          "zh": "好的技術寫作依賴的是清晰明瞭,而非專業術語。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "49",
+        "spelling": "spec",
+        "meaning": "看"
+      }
+    },
+    {
+      "word": "perspicuous",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "clearly expressed and easily understood:",
+      "defn_zh": "清晰明瞭的",
+      "root_note": "perspicuus (transparent, clear), from Latin per- (through) + specere (to look)",
+      "sentences": [
+        {
+          "en": "The professor's ______ explanation finally clarified the confusing concept.",
+          "zh": "這位教授清晰明瞭的解釋終於釐清了這個令人困惑的概念。"
+        },
+        {
+          "en": "Legal documents are rarely as ______ as they should be.",
+          "zh": "法律文件很少能像它們應該做到的那樣清晰明瞭。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "49",
+        "spelling": "spec",
+        "meaning": "看"
+      }
+    },
+    {
+      "word": "prospect",
+      "pos": "n./v.",
+      "pos_key": "n.",
+      "defn_en": "the possibility of something happening in the future; a potential customer:",
+      "defn_zh": "前景;潛在客戶",
+      "root_note": "pro- (forward) + specere (to look), from Latin",
+      "sentences": [
+        {
+          "en": "The ______ of a promotion motivated her to work harder.",
+          "zh": "升遷的前景激勵她更加努力工作。"
+        },
+        {
+          "en": "The sales team followed up with each promising ______ .",
+          "zh": "銷售團隊對每位有潛力的客戶進行了後續追蹤。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "49",
+        "spelling": "spec",
+        "meaning": "看"
+      }
+    },
+    {
+      "word": "specify",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to state something clearly and precisely:",
+      "defn_zh": "明確指定;詳細說明",
+      "root_note": "species (kind) + facere (to make), from Latin",
+      "sentences": [
+        {
+          "en": "The contract failed to ______ a deadline for the final payment.",
+          "zh": "這份合約未能明確指定最終付款的期限。"
+        },
+        {
+          "en": "Please ______ your preferred delivery date on the order form.",
+          "zh": "請在這份訂單表格上明確指定您偏好的送達日期。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "49",
+        "spelling": "spec",
+        "meaning": "看"
+      }
+    },
+    {
+      "word": "specious",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "appearing true or plausible but actually false:",
+      "defn_zh": "似是而非的;貌似有理的",
+      "root_note": "speciosus (good-looking, plausible), from Latin species (appearance)",
+      "sentences": [
+        {
+          "en": "The lawyer dismantled the witness's ______ reasoning point by point.",
+          "zh": "這位律師逐點拆解了這位證人似是而非的推理。"
+        },
+        {
+          "en": "Her argument sounded convincing but was ultimately ______ .",
+          "zh": "她的論點聽起來很有說服力,但終究是貌似有理的。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "49",
+        "spelling": "spec",
+        "meaning": "看"
+      }
+    },
+    {
+      "word": "spectacle",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a visually striking public display or performance:",
+      "defn_zh": "奇觀;壯觀的場面",
+      "root_note": "spectaculum, from Latin spectare (to watch)",
+      "sentences": [
+        {
+          "en": "The fireworks display was a dazzling ______ over the harbor.",
+          "zh": "這場煙火秀是港灣上方一場令人目眩神迷的壯觀場面。"
+        },
+        {
+          "en": "He made a ______ of himself by shouting during the ceremony.",
+          "zh": "他在這場典禮上大喊大叫,讓自己出盡洋相。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "49",
+        "spelling": "spec",
+        "meaning": "看"
+      }
+    },
+    {
+      "word": "spectacular",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "beautiful or dramatic in a way that impresses:",
+      "defn_zh": "壯觀的;令人驚嘆的",
+      "root_note": "spectaculum, from Latin spectare (to watch)",
+      "sentences": [
+        {
+          "en": "The view from the summit was absolutely ______ .",
+          "zh": "從這座山頂望出去的景色實在令人驚嘆。"
+        },
+        {
+          "en": "The team pulled off a ______ comeback in the final minutes.",
+          "zh": "這支隊伍在最後幾分鐘完成了一場壯觀的逆轉。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "49",
+        "spelling": "spec",
+        "meaning": "看"
+      }
+    },
+    {
+      "word": "spectator",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a person who watches an event without participating:",
+      "defn_zh": "觀眾;旁觀者",
+      "root_note": "spectare (to watch), from Latin",
+      "sentences": [
+        {
+          "en": "Thousands of ______ s filled the stadium for the championship game.",
+          "zh": "數千名觀眾擠滿了這座體育場,觀看這場冠軍賽。"
+        },
+        {
+          "en": "He remained a passive ______ during the heated debate.",
+          "zh": "他在這場激烈的辯論中始終是個被動的旁觀者。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "49",
+        "spelling": "spec",
+        "meaning": "看"
+      }
+    },
+    {
+      "word": "speculate",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to form a theory or conjecture without sufficient evidence; to guess:",
+      "defn_zh": "推測/臆測",
+      "root_note": "speculari (to observe)",
+      "sentences": [
+        {
+          "en": "They ______ about the cause of the delay but had no solid information.",
+          "zh": "他們對延誤的原因進行臆測,但並沒有確切的資訊。"
+        },
+        {
+          "en": "He ______ about the outcome of the soccer match.",
+          "zh": "他對這場足球比賽的結果進行了推測。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "49",
+        "spelling": "spec",
+        "meaning": "看"
+      }
+    },
+    {
+      "word": "speculative",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "not based in fact:",
+      "defn_zh": "臆測的/投機性的",
+      "root_note": "specere (to look, observe)",
+      "sentences": [
+        {
+          "en": "The report's conclusions were purely ______ and lacked solid evidence.",
+          "zh": "這份報告的結論純屬臆測,缺乏確鑿的證據。"
+        },
+        {
+          "en": "Investors were warned about the risks of ______ trading in volatile markets.",
+          "zh": "投資人被提醒在波動劇烈的市場中進行投機交易的風險。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "49",
+        "spelling": "spec",
+        "meaning": "看"
+      }
+    },
+    {
+      "word": "suspect",
+      "pos": "v./n./adj.",
+      "pos_key": "v.",
+      "defn_en": "to believe something is likely without proof; a person thought guilty:",
+      "defn_zh": "懷疑;嫌疑犯",
+      "root_note": "suspicere, from Latin sub- (under) + specere (to look)",
+      "sentences": [
+        {
+          "en": "Detectives began to ______ the neighbor after inconsistencies emerged.",
+          "zh": "在幾個矛盾之處浮現後,偵探們開始懷疑這位鄰居。"
+        },
+        {
+          "en": "Police brought in the primary ______ for questioning.",
+          "zh": "警方將這名主要嫌疑犯帶回偵訊。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "49",
+        "spelling": "spec",
+        "meaning": "看"
+      }
+    }
+  ],
+  "family_options": {},
+  "fallback_options": {
+    "v.": [
+      {
+        "word": "abound",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to exist in great numbers:",
+        "defn_zh": "充滿"
+      },
+      {
+        "word": "abrogate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to deprive of legal force, to nullify:=abolish",
+        "defn_zh": "廢除/取消"
+      },
+      {
+        "word": "abjure",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to renounce, abstain from:",
+        "defn_zh": "發誓放棄/棄絕"
+      },
+      {
+        "word": "abbreviate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to shorten a word or phrase:",
+        "defn_zh": "縮寫;縮短"
+      },
+      {
+        "word": "abdicate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to give up a position, usually one of leadership:",
+        "defn_zh": "退位/放棄(職位)"
+      },
+      {
+        "word": "abduct",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to kidnap, take by force:",
+        "defn_zh": "綁架/劫持"
+      },
+      {
+        "word": "abhor",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to regard with disgust and hatred:",
+        "defn_zh": "憎惡/厭惡"
+      },
+      {
+        "word": "abnegate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to deny or renounce:",
+        "defn_zh": "放棄/克制"
+      },
+      {
+        "word": "abolish",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to formally put an end to a system, practice, or institution:",
+        "defn_zh": "廢除"
+      },
+      {
+        "word": "abort",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to give up on a half-finished project or effort:",
+        "defn_zh": "中止/放棄"
+      },
+      {
+        "word": "abrade",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to scrape or wear away by friction:",
+        "defn_zh": "磨損;擦傷"
+      },
+      {
+        "word": "abscond",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to sneak away and hide:",
+        "defn_zh": "潛逃/逃匿"
+      }
+    ],
+    "adj.": [
+      {
+        "word": "abortive",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "fruitless, failing:",
+        "defn_zh": "失敗的/夭折的"
+      },
+      {
+        "word": "abstemious",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "moderate in eating or drinking:",
+        "defn_zh": "飲食有節制的"
+      },
+      {
+        "word": "abhorrent",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "detestable, despised:",
+        "defn_zh": "令人厭惡的"
+      },
+      {
+        "word": "absurd",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "ridiculous:",
+        "defn_zh": "荒謬的"
+      },
+      {
+        "word": "aberrant",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "deviating from what is normal or expected:",
+        "defn_zh": "異常的;脫軌的"
+      },
+      {
+        "word": "abject",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "wretched, pitiful:",
+        "defn_zh": "卑賤的/淒慘的"
+      },
+      {
+        "word": "abominable",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "causing moral revulsion; extremely unpleasant:",
+        "defn_zh": "可憎的;惡劣的"
+      },
+      {
+        "word": "abounding",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "existing in large numbers or amounts:",
+        "defn_zh": "大量存在的;豐富的"
+      },
+      {
+        "word": "abrasive",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "showing little concern for others; harsh:",
+        "defn_zh": "粗暴的/刺耳的"
+      },
+      {
+        "word": "abrupt",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "sudden or unexpected; brief and curt in manner:",
+        "defn_zh": "突然的/唐突的"
+      },
+      {
+        "word": "abstract",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "existing purely in the mind; not representing actual reality:",
+        "defn_zh": "抽象的"
+      },
+      {
+        "word": "abstruse",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "hard to comprehend:",
+        "defn_zh": "深奧難懂的"
+      }
+    ],
+    "n.": [
+      {
+        "word": "aversion",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "strong dislike, opposition:",
+        "defn_zh": "厭惡/反感"
+      },
+      {
+        "word": "aberration",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "something that differs from the norm:",
+        "defn_zh": "異常/脫軌"
+      },
+      {
+        "word": "abjection",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a state of complete misery, hopelessness, or degradation:",
+        "defn_zh": "卑賤;悲慘狀態"
+      },
+      {
+        "word": "abjuration",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the solemn renunciation of a belief, cause, or claim:",
+        "defn_zh": "公開放棄;誓絕"
+      },
+      {
+        "word": "ablution",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the act of washing oneself, especially as part of a religious ritual:",
+        "defn_zh": "沐浴;淨身儀式"
+      },
+      {
+        "word": "abnegation",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "denial of comfort to oneself:",
+        "defn_zh": "自我克制/放棄"
+      },
+      {
+        "word": "abomination",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "something that causes disgust or hatred:",
+        "defn_zh": "可憎之事;令人厭惡的東西"
+      },
+      {
+        "word": "abridgement",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a shortened version of a book or other written work:",
+        "defn_zh": "節略本;縮減版"
+      },
+      {
+        "word": "absolution",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "freedom from blame, guilt, sin:",
+        "defn_zh": "赦免/免罪"
+      },
+      {
+        "word": "abstemiousness",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "moderation or self-restraint, especially in eating and drinking:",
+        "defn_zh": "節制;克己"
+      },
+      {
+        "word": "abstinence",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the practice of restraining oneself from something enjoyable, especially food, alcohol, or sex:",
+        "defn_zh": "節制;戒絕"
+      },
+      {
+        "word": "avocation",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a hobby or minor occupation apart from one's main career:",
+        "defn_zh": "副業;業餘愛好"
+      }
+    ],
+    "adv.": [
+      {
+        "word": "accordingly",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in a manner that fits the circumstances; consequently:",
+        "defn_zh": "相應地;因此"
+      },
+      {
+        "word": "inadvertently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "unintentionally or by accident:",
+        "defn_zh": "無意間/不小心地"
+      },
+      {
+        "word": "consequently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "as a result; therefore:",
+        "defn_zh": "因此;結果"
+      },
+      {
+        "word": "contemptuously",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "without respect; in a disdainful manner:",
+        "defn_zh": "輕蔑地"
+      },
+      {
+        "word": "involuntarily",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "done without conscious control:",
+        "defn_zh": "不由自主地"
+      },
+      {
+        "word": "cordially",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in a warm or friendly manner:",
+        "defn_zh": "誠摯地/友好地"
+      },
+      {
+        "word": "ipso facto",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "by that very fact or act:",
+        "defn_zh": "事實上;因此"
+      },
+      {
+        "word": "en passant",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in passing; incidentally:",
+        "defn_zh": "順帶一提地;偶然地"
+      },
+      {
+        "word": "regardless",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "despite the prevailing circumstances; without being deterred:",
+        "defn_zh": "不管怎樣;儘管如此"
+      },
+      {
+        "word": "subsequently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "afterward; following in time or order:",
+        "defn_zh": "隨後;其後"
+      },
+      {
+        "word": "aside",
+        "pos": "adv./n.",
+        "pos_key": "adv.",
+        "defn_en": "to or on one side; a remark not meant to be heard by everyone:",
+        "defn_zh": "在旁邊;旁白"
+      },
+      {
+        "word": "vice versa",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "with the order or meaning reversed; conversely:",
+        "defn_zh": "反之亦然"
+      }
+    ],
+    "other": [
+      {
+        "word": "（此批單字中，暫無符合此字根/字首的單字）",
+        "pos": "",
+        "pos_key": "other",
+        "defn_en": "",
+        "defn_zh": ""
+      }
+    ],
+    "prep./adv.": [
+      {
+        "word": "besides",
+        "pos": "prep./adv.",
+        "pos_key": "prep./adv.",
+        "defn_en": "in addition to; furthermore:",
+        "defn_zh": "除...之外;此外"
+      }
+    ],
+    "phrasalv.": [
+      {
+        "word": "egg on",
+        "pos": "phrasal v.",
+        "pos_key": "phrasalv.",
+        "defn_en": "to encourage someone to do something, often risky:",
+        "defn_zh": "慫恿;鼓動"
+      }
+    ],
+    "abbr.": [
+      {
+        "word": "etc.",
+        "pos": "abbr.",
+        "pos_key": "abbr.",
+        "defn_en": "and other similar things (abbreviation of et cetera):",
+        "defn_zh": "等等(et cetera的縮寫)"
+      }
+    ],
+    "interj.": [
+      {
+        "word": "fiddledeedee",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "an exclamation expressing dismissal of something as nonsense:",
+        "defn_zh": "廢話!(表示不屑一顧)"
+      },
+      {
+        "word": "gesundheit",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "an expression said to someone who has just sneezed:",
+        "defn_zh": "保重(打噴嚏後的祝福語)"
+      }
+    ],
+    "prep.": [
+      {
+        "word": "via",
+        "pos": "prep.",
+        "pos_key": "prep.",
+        "defn_en": "by way of; passing through:",
+        "defn_zh": "經由;透過"
+      }
+    ]
+  }
+}
