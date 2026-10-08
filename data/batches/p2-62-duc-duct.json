@@ -1,0 +1,778 @@
+{
+  "id": "p2-62-duc-duct",
+  "part": "part2",
+  "part_label": "Part 2 字根篇 (Roots)",
+  "name": "duc；duct",
+  "subtitle": "引導；帶領",
+  "count": 15,
+  "words": [
+    {
+      "word": "conducive",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "leading, helpful:",
+      "defn_zh": "有助於...的",
+      "root_note": "con- (with) + ducere (to lead)",
+      "sentences": [
+        {
+          "en": "A quiet environment is ______ to good studying.",
+          "zh": "安靜的環境有助於良好的學習。"
+        },
+        {
+          "en": "The company created a workspace ______ to creativity.",
+          "zh": "這家公司打造了一個有助於激發創意的工作空間。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "62",
+        "spelling": "duc；duct",
+        "meaning": "引導；帶領"
+      }
+    },
+    {
+      "word": "abduct",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to kidnap, take by force:",
+      "defn_zh": "綁架/劫持",
+      "root_note": "ab- (away) + ducere (to lead)",
+      "sentences": [
+        {
+          "en": "Police believe the suspect planned to ______ the child from the playground.",
+          "zh": "警方認為嫌犯計畫從遊樂場綁架這名孩童。"
+        },
+        {
+          "en": "The movie's plot centers on aliens who ______ unsuspecting campers.",
+          "zh": "這部電影的劇情以外星人綁架毫無防備的露營者為主軸。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "62",
+        "spelling": "duc；duct",
+        "meaning": "引導；帶領"
+      }
+    },
+    {
+      "word": "adduce",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to cite as evidence or proof:",
+      "defn_zh": "引證;提出(證據)",
+      "root_note": "ad- (to) + ducere (to lead)",
+      "sentences": [
+        {
+          "en": "The lawyer could ______ no witnesses to support her client's alibi.",
+          "zh": "律師無法提出任何證人來支持她當事人的不在場證明。"
+        },
+        {
+          "en": "Researchers ______ several studies to support their controversial claim.",
+          "zh": "研究人員引證了好幾項研究,以支持他們具爭議性的主張。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "62",
+        "spelling": "duc；duct",
+        "meaning": "引導；帶領"
+      }
+    },
+    {
+      "word": "conductive",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "having the ability to conduct heat, electricity, or sound:",
+      "defn_zh": "傳導性的",
+      "root_note": "con- (together) + ducere (to lead), from Latin",
+      "sentences": [
+        {
+          "en": "Copper wire is highly ______ , which is why it's used in most electrical circuits.",
+          "zh": "銅線的導電性極佳,這正是它被廣泛用於電路的原因。"
+        },
+        {
+          "en": "Engineers chose a ______ material to help the device dissipate heat quickly.",
+          "zh": "工程師選用了一種導熱材料,以幫助這個裝置快速散熱。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "62",
+        "spelling": "duc；duct",
+        "meaning": "引導；帶領"
+      }
+    },
+    {
+      "word": "conduit",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a pipe or channel through which something passes:",
+      "defn_zh": "導管/管道",
+      "root_note": "con- (together) + ducere (to lead)",
+      "sentences": [
+        {
+          "en": "Electrical wires were run through a metal ______ beneath the floor.",
+          "zh": "電線被裝在地板下方的一條金屬導管中。"
+        },
+        {
+          "en": "Social media has become a major ______ for political information.",
+          "zh": "社群媒體已成為政治資訊傳播的重要管道。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "62",
+        "spelling": "duc；duct",
+        "meaning": "引導；帶領"
+      }
+    },
+    {
+      "word": "educated",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "having received formal instruction or training; informed:",
+      "defn_zh": "受過教育的;有根據的",
+      "root_note": "e- (out) + ducere (to lead), from Latin",
+      "sentences": [
+        {
+          "en": "She made an ______ guess based on the available data.",
+          "zh": "她根據現有的資料做出了一個有根據的猜測。"
+        },
+        {
+          "en": "A well- ______ workforce drives economic growth.",
+          "zh": "一支受過良好教育的勞動力能推動經濟成長。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "62",
+        "spelling": "duc；duct",
+        "meaning": "引導；帶領"
+      }
+    },
+    {
+      "word": "educationalist",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a specialist in the theory or practice of education:",
+      "defn_zh": "教育學家",
+      "root_note": "e- (out) + ducere (to lead), from Latin",
+      "sentences": [
+        {
+          "en": "The ______ proposed reforms to the national curriculum.",
+          "zh": "這位教育學家提出了國家課程的改革建議。"
+        },
+        {
+          "en": "A panel of ______ s reviewed the new teaching methods.",
+          "zh": "一組教育學家審查了這套新的教學方法。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "62",
+        "spelling": "duc；duct",
+        "meaning": "引導；帶領"
+      }
+    },
+    {
+      "word": "educationist",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a specialist in education, especially its theory:",
+      "defn_zh": "教育學家;教育專家",
+      "root_note": "e- (out) + ducere (to lead), from Latin",
+      "sentences": [
+        {
+          "en": "The conference invited leading ______ s from around the world.",
+          "zh": "這場研討會邀請了來自世界各地的頂尖教育學家。"
+        },
+        {
+          "en": "As an ______ , she published widely on early childhood learning.",
+          "zh": "身為教育學家,她發表了大量關於幼兒學習的著作。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "62",
+        "spelling": "duc；duct",
+        "meaning": "引導；帶領"
+      }
+    },
+    {
+      "word": "educator",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a person who provides instruction or training:",
+      "defn_zh": "教育工作者",
+      "root_note": "e- (out) + ducere (to lead), from Latin",
+      "sentences": [
+        {
+          "en": "The award recognized her as an outstanding ______ .",
+          "zh": "這個獎項表彰她是一位傑出的教育工作者。"
+        },
+        {
+          "en": "Every ______ deserves fair compensation for their work.",
+          "zh": "每位教育工作者都應獲得公平的薪酬。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "62",
+        "spelling": "duc；duct",
+        "meaning": "引導；帶領"
+      }
+    },
+    {
+      "word": "induce",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to bring about, stimulate:",
+      "defn_zh": "誘導/引起",
+      "root_note": "in- (in) + ducere (to lead)",
+      "sentences": [
+        {
+          "en": "Doctors sometimes ______ labor when a pregnancy goes past its due date.",
+          "zh": "當懷孕超過預產期時,醫生有時會採取催生措施。"
+        },
+        {
+          "en": "A warm cup of tea can help ______ a sense of calm before bed.",
+          "zh": "睡前喝一杯溫熱的茶有助於引發平靜的感覺。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "62",
+        "spelling": "duc；duct",
+        "meaning": "引導；帶領"
+      }
+    },
+    {
+      "word": "produce",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to create or generate something:",
+      "defn_zh": "生產/製造",
+      "root_note": "pro- (forward) + ducere (to lead)",
+      "sentences": [
+        {
+          "en": "The Ford factory ______ thousands of cars each year.",
+          "zh": "福特工廠每年生產數千輛汽車。"
+        },
+        {
+          "en": "This region's soil is fertile enough to ______ two crops a year.",
+          "zh": "這個地區的土壤十分肥沃,足以一年生產兩季作物。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "62",
+        "spelling": "duc；duct",
+        "meaning": "引導；帶領"
+      }
+    },
+    {
+      "word": "subdue",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to overcome or bring under control by force:",
+      "defn_zh": "征服;抑制",
+      "root_note": "subducere (to withdraw), from Latin sub- (under) + ducere (to lead)",
+      "sentences": [
+        {
+          "en": "The knights fought to ______ the rebellious province.",
+          "zh": "騎士們奮戰以征服這個反叛的省份。"
+        },
+        {
+          "en": "She struggled to ______ her rising anger during the argument.",
+          "zh": "她在這場爭執中努力抑制自己漸漸升起的怒氣。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "62",
+        "spelling": "duc；duct",
+        "meaning": "引導；帶領"
+      }
+    },
+    {
+      "word": "subdued",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "lacking liveliness; quiet and restrained:",
+      "defn_zh": "柔和的;抑制的",
+      "root_note": "past participle of subdue, from Latin sub- (under) + ducere (to lead)",
+      "sentences": [
+        {
+          "en": "The room had a ______ atmosphere after the disappointing news.",
+          "zh": "在這則令人失望的消息之後,這個房間裡瀰漫著低沉的氣氛。"
+        },
+        {
+          "en": "She spoke in a ______ tone out of respect for the mourners.",
+          "zh": "出於對這些哀悼者的尊重,她以柔和克制的語氣說話。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "62",
+        "spelling": "duc；duct",
+        "meaning": "引導；帶領"
+      }
+    },
+    {
+      "word": "traduce",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to speak falsely or maliciously about someone; to slander:",
+      "defn_zh": "誹謗;詆毀",
+      "root_note": "traducere (to lead across, expose to shame), from Latin trans- + ducere (to lead)",
+      "sentences": [
+        {
+          "en": "The tabloid attempted to ______ the actress with baseless rumors.",
+          "zh": "這家小報企圖用毫無根據的謠言詆毀這位女演員。"
+        },
+        {
+          "en": "He refused to ______ his former partner despite their bitter split.",
+          "zh": "儘管兩人分手鬧得很不愉快,他仍拒絕詆毀他的前搭檔。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "62",
+        "spelling": "duc；duct",
+        "meaning": "引導；帶領"
+      }
+    },
+    {
+      "word": "traducement",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "the act of slandering or defaming someone:",
+      "defn_zh": "誹謗;詆毀行為",
+      "root_note": "traducere (to lead across, expose to shame), from Latin trans- + ducere (to lead)",
+      "sentences": [
+        {
+          "en": "The public statement was widely seen as a deliberate ______ of his rival.",
+          "zh": "這份公開聲明被普遍視為對他這位對手蓄意的詆毀。"
+        },
+        {
+          "en": "She filed a lawsuit in response to the ______ of her business practices.",
+          "zh": "她針對她商業行為所遭受的詆毀提起了訴訟。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "62",
+        "spelling": "duc；duct",
+        "meaning": "引導；帶領"
+      }
+    }
+  ],
+  "family_options": {},
+  "fallback_options": {
+    "v.": [
+      {
+        "word": "abound",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to exist in great numbers:",
+        "defn_zh": "充滿"
+      },
+      {
+        "word": "abrogate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to deprive of legal force, to nullify:=abolish",
+        "defn_zh": "廢除/取消"
+      },
+      {
+        "word": "abjure",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to renounce, abstain from:",
+        "defn_zh": "發誓放棄/棄絕"
+      },
+      {
+        "word": "abbreviate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to shorten a word or phrase:",
+        "defn_zh": "縮寫;縮短"
+      },
+      {
+        "word": "abdicate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to give up a position, usually one of leadership:",
+        "defn_zh": "退位/放棄(職位)"
+      },
+      {
+        "word": "abhor",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to regard with disgust and hatred:",
+        "defn_zh": "憎惡/厭惡"
+      },
+      {
+        "word": "abnegate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to deny or renounce:",
+        "defn_zh": "放棄/克制"
+      },
+      {
+        "word": "abolish",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to formally put an end to a system, practice, or institution:",
+        "defn_zh": "廢除"
+      },
+      {
+        "word": "abort",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to give up on a half-finished project or effort:",
+        "defn_zh": "中止/放棄"
+      },
+      {
+        "word": "abrade",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to scrape or wear away by friction:",
+        "defn_zh": "磨損;擦傷"
+      },
+      {
+        "word": "abscond",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to sneak away and hide:",
+        "defn_zh": "潛逃/逃匿"
+      },
+      {
+        "word": "absolve",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to free someone from blame, guilt, or responsibility:",
+        "defn_zh": "免除罪責/赦免"
+      }
+    ],
+    "adj.": [
+      {
+        "word": "abortive",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "fruitless, failing:",
+        "defn_zh": "失敗的/夭折的"
+      },
+      {
+        "word": "abstemious",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "moderate in eating or drinking:",
+        "defn_zh": "飲食有節制的"
+      },
+      {
+        "word": "abhorrent",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "detestable, despised:",
+        "defn_zh": "令人厭惡的"
+      },
+      {
+        "word": "absurd",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "ridiculous:",
+        "defn_zh": "荒謬的"
+      },
+      {
+        "word": "aberrant",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "deviating from what is normal or expected:",
+        "defn_zh": "異常的;脫軌的"
+      },
+      {
+        "word": "abject",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "wretched, pitiful:",
+        "defn_zh": "卑賤的/淒慘的"
+      },
+      {
+        "word": "abominable",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "causing moral revulsion; extremely unpleasant:",
+        "defn_zh": "可憎的;惡劣的"
+      },
+      {
+        "word": "abounding",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "existing in large numbers or amounts:",
+        "defn_zh": "大量存在的;豐富的"
+      },
+      {
+        "word": "abrasive",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "showing little concern for others; harsh:",
+        "defn_zh": "粗暴的/刺耳的"
+      },
+      {
+        "word": "abrupt",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "sudden or unexpected; brief and curt in manner:",
+        "defn_zh": "突然的/唐突的"
+      },
+      {
+        "word": "abstract",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "existing purely in the mind; not representing actual reality:",
+        "defn_zh": "抽象的"
+      },
+      {
+        "word": "abstruse",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "hard to comprehend:",
+        "defn_zh": "深奧難懂的"
+      }
+    ],
+    "n.": [
+      {
+        "word": "aversion",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "strong dislike, opposition:",
+        "defn_zh": "厭惡/反感"
+      },
+      {
+        "word": "aberration",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "something that differs from the norm:",
+        "defn_zh": "異常/脫軌"
+      },
+      {
+        "word": "abjection",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a state of complete misery, hopelessness, or degradation:",
+        "defn_zh": "卑賤;悲慘狀態"
+      },
+      {
+        "word": "abjuration",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the solemn renunciation of a belief, cause, or claim:",
+        "defn_zh": "公開放棄;誓絕"
+      },
+      {
+        "word": "ablution",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the act of washing oneself, especially as part of a religious ritual:",
+        "defn_zh": "沐浴;淨身儀式"
+      },
+      {
+        "word": "abnegation",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "denial of comfort to oneself:",
+        "defn_zh": "自我克制/放棄"
+      },
+      {
+        "word": "abomination",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "something that causes disgust or hatred:",
+        "defn_zh": "可憎之事;令人厭惡的東西"
+      },
+      {
+        "word": "abridgement",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a shortened version of a book or other written work:",
+        "defn_zh": "節略本;縮減版"
+      },
+      {
+        "word": "absolution",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "freedom from blame, guilt, sin:",
+        "defn_zh": "赦免/免罪"
+      },
+      {
+        "word": "abstemiousness",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "moderation or self-restraint, especially in eating and drinking:",
+        "defn_zh": "節制;克己"
+      },
+      {
+        "word": "abstinence",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the practice of restraining oneself from something enjoyable, especially food, alcohol, or sex:",
+        "defn_zh": "節制;戒絕"
+      },
+      {
+        "word": "avocation",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a hobby or minor occupation apart from one's main career:",
+        "defn_zh": "副業;業餘愛好"
+      }
+    ],
+    "adv.": [
+      {
+        "word": "accordingly",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in a manner that fits the circumstances; consequently:",
+        "defn_zh": "相應地;因此"
+      },
+      {
+        "word": "inadvertently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "unintentionally or by accident:",
+        "defn_zh": "無意間/不小心地"
+      },
+      {
+        "word": "consequently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "as a result; therefore:",
+        "defn_zh": "因此;結果"
+      },
+      {
+        "word": "contemptuously",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "without respect; in a disdainful manner:",
+        "defn_zh": "輕蔑地"
+      },
+      {
+        "word": "involuntarily",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "done without conscious control:",
+        "defn_zh": "不由自主地"
+      },
+      {
+        "word": "cordially",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in a warm or friendly manner:",
+        "defn_zh": "誠摯地/友好地"
+      },
+      {
+        "word": "ipso facto",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "by that very fact or act:",
+        "defn_zh": "事實上;因此"
+      },
+      {
+        "word": "en passant",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in passing; incidentally:",
+        "defn_zh": "順帶一提地;偶然地"
+      },
+      {
+        "word": "regardless",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "despite the prevailing circumstances; without being deterred:",
+        "defn_zh": "不管怎樣;儘管如此"
+      },
+      {
+        "word": "subsequently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "afterward; following in time or order:",
+        "defn_zh": "隨後;其後"
+      },
+      {
+        "word": "aside",
+        "pos": "adv./n.",
+        "pos_key": "adv.",
+        "defn_en": "to or on one side; a remark not meant to be heard by everyone:",
+        "defn_zh": "在旁邊;旁白"
+      },
+      {
+        "word": "vice versa",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "with the order or meaning reversed; conversely:",
+        "defn_zh": "反之亦然"
+      }
+    ],
+    "other": [
+      {
+        "word": "（此批單字中，暫無符合此字根/字首的單字）",
+        "pos": "",
+        "pos_key": "other",
+        "defn_en": "",
+        "defn_zh": ""
+      }
+    ],
+    "prep./adv.": [
+      {
+        "word": "besides",
+        "pos": "prep./adv.",
+        "pos_key": "prep./adv.",
+        "defn_en": "in addition to; furthermore:",
+        "defn_zh": "除...之外;此外"
+      }
+    ],
+    "phrasalv.": [
+      {
+        "word": "egg on",
+        "pos": "phrasal v.",
+        "pos_key": "phrasalv.",
+        "defn_en": "to encourage someone to do something, often risky:",
+        "defn_zh": "慫恿;鼓動"
+      }
+    ],
+    "abbr.": [
+      {
+        "word": "etc.",
+        "pos": "abbr.",
+        "pos_key": "abbr.",
+        "defn_en": "and other similar things (abbreviation of et cetera):",
+        "defn_zh": "等等(et cetera的縮寫)"
+      }
+    ],
+    "interj.": [
+      {
+        "word": "fiddledeedee",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "an exclamation expressing dismissal of something as nonsense:",
+        "defn_zh": "廢話!(表示不屑一顧)"
+      },
+      {
+        "word": "gesundheit",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "an expression said to someone who has just sneezed:",
+        "defn_zh": "保重(打噴嚏後的祝福語)"
+      }
+    ],
+    "prep.": [
+      {
+        "word": "via",
+        "pos": "prep.",
+        "pos_key": "prep.",
+        "defn_en": "by way of; passing through:",
+        "defn_zh": "經由;透過"
+      }
+    ]
+  }
+}
