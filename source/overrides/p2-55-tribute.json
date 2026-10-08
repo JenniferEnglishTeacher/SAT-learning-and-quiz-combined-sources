@@ -1,0 +1,152 @@
+{
+  "id": "p2-55-tribute",
+  "merge_with_source": true,
+  "name": "tribut；tribute",
+  "subtitle": "給予；分配；貢獻；回報",
+  "words": [
+    {
+      "word": "attribute", "pos": "v. / n.", "pos_key": "v.",
+      "defn_en": "to regard something as being caused, written, or created by someone or something; a quality or characteristic:",
+      "defn_zh": "歸因於；歸功於；屬性；特質",
+      "root_note": "ad- (to or toward) + tribut (to give or assign)",
+      "synonyms": ["ascribe", "credit", "assign", "characteristic"], "antonyms": ["disassociate", "deny"],
+      "sentences": [
+        {"en": "Literary scholars ______ the anonymous essay to Virginia Woolf because of its distinctive style and themes.", "zh": "文學學者根據獨特的風格與主題，將這篇匿名文章歸於維吉尼亞・吳爾芙。"},
+        {"en": "Patience is an essential ______ for a field researcher who must observe wildlife for hours.", "zh": "耐心是田野研究人員不可或缺的特質，因為觀察野生動物需要數小時。"}
+      ],
+      "category": {"part": 2, "num": "55", "spelling": "tribut；tribute", "meaning": "給予；分配；貢獻；回報"}
+    },
+    {
+      "word": "retribution", "pos": "n.", "pos_key": "n.",
+      "defn_en": "punishment or revenge imposed in return for a wrongful act:",
+      "defn_zh": "報應；懲罰；報復",
+      "root_note": "re- (back or again) + tribut (to pay or give) + -ion (act or state)",
+      "synonyms": ["punishment", "vengeance", "reprisal", "payback"], "antonyms": ["forgiveness", "mercy", "reward"],
+      "sentences": [
+        {"en": "In the myth, the arrogant king faced divine ______ after insulting the gods.", "zh": "在神話中，傲慢的國王侮辱神明後遭到天譴般的報應。"},
+        {"en": "Fearing economic ______ from its powerful neighbor, the island nation hesitated to approve the tariffs.", "zh": "由於害怕強大鄰國的經濟報復，這個島國遲遲不敢批准關稅。"}
+      ],
+      "category": {"part": 2, "num": "55", "spelling": "tribut；tribute", "meaning": "給予；分配；貢獻；回報"}
+    },
+    {
+      "word": "tributary", "pos": "n. / adj.", "pos_key": "n.",
+      "defn_en": "a stream that flows into a larger river, or a state or person that pays tribute to a stronger power:",
+      "defn_zh": "支流；進貢國；進貢的；屬國的",
+      "root_note": "tribut (to pay or give) + -ary (relating to or a place for)",
+      "synonyms": ["branch stream", "feeder river", "vassal", "dependent"], "antonyms": ["main river", "sovereign"],
+      "sentences": [
+        {"en": "Several neighboring regions acted as ______ states, sending silk and horses to the emperor for protection.", "zh": "周邊幾個地區充當進貢國，定期向皇帝運送絲綢和馬匹以換取保護。"},
+        {"en": "Scientists tracked the chemical spill as it flowed down a mountain ______ toward the main river.", "zh": "科學家追蹤化學物質沿高山支流流向主河道的情況。"}
+      ],
+      "category": {"part": 2, "num": "55", "spelling": "tribut；tribute", "meaning": "給予；分配；貢獻；回報"}
+    },
+    {
+      "word": "distributive", "pos": "adj.", "pos_key": "adj.",
+      "defn_en": "relating to the fair or organized allocation of goods, resources, or responsibilities:",
+      "defn_zh": "分配的；分發的；配給的",
+      "root_note": "dis- (apart) + tribut (to give or allot) + -ive (having the quality of)",
+      "synonyms": ["allocative", "dispensing", "apportioning", "sharing"], "antonyms": ["concentrative", "withholding"],
+      "sentences": [
+        {"en": "The philosopher argued for a fairer system of ______ justice in which resources are shared across social classes.", "zh": "哲學家主張更公平的分配正義，使資源能在各社會階層間共享。"},
+        {"en": "Logistical failures caused the relief agency's ______ network to collapse after the disaster.", "zh": "物流失誤導致救援機構的物資分配網絡在災後崩潰。"}
+      ],
+      "category": {"part": 2, "num": "55", "spelling": "tribut；tribute", "meaning": "給予；分配；貢獻；回報"}
+    },
+    {
+      "word": "contribution", "pos": "n.", "pos_key": "n.",
+      "defn_en": "something given, supplied, or done to help achieve a result or support a shared purpose:",
+      "defn_zh": "貢獻；捐獻；投稿；促成作用",
+      "root_note": "con- (together or with) + tribut (to give or pay) + -ion (act or state)",
+      "synonyms": ["donation", "input", "support", "achievement"], "antonyms": ["withdrawal", "obstruction"],
+      "sentences": [
+        {"en": "The scientist received the Nobel Prize for her groundbreaking ______ to cancer research.", "zh": "這位科學家因對癌症研究作出突破性貢獻而獲得諾貝爾獎。"},
+        {"en": "The printing press made a vital ______ to the spread of literacy and scientific knowledge.", "zh": "印刷術對識字率與科學知識的傳播作出了重要貢獻。"}
+      ],
+      "category": {"part": 2, "num": "55", "spelling": "tribut；tribute", "meaning": "給予；分配；貢獻；回報"}
+    },
+    {
+      "word": "contributive", "pos": "adj.", "pos_key": "adj.",
+      "defn_en": "helping to cause, support, or bring about a result:",
+      "defn_zh": "有助於的；促成的；有貢獻的",
+      "root_note": "con- (together) + tribut (to give) + -ive (tending to)",
+      "synonyms": ["helpful", "supportive", "conducive", "beneficial"], "antonyms": ["obstructive", "detrimental", "counterproductive"],
+      "sentences": [
+        {"en": "Regular exercise and a balanced diet are highly ______ factors in long-term heart health.", "zh": "規律運動和均衡飲食是維持長期心臟健康的重要助益因素。"},
+        {"en": "The mediator said the union leader's calm demeanor was ______ to resolving the negotiations peacefully.", "zh": "調解人表示，工會領袖冷靜的舉止有助於和平解決談判。"}
+      ],
+      "category": {"part": 2, "num": "55", "spelling": "tribut；tribute", "meaning": "給予；分配；貢獻；回報"}
+    },
+    {
+      "word": "endow", "pos": "v.", "pos_key": "v.",
+      "defn_en": "to provide a person or institution with money, property, a quality, or an ability:",
+      "defn_zh": "捐贈；資助；賦予",
+      "root_note": "en- (into) + dotare (to give or provide with a dowry)",
+      "synonyms": ["grant", "bestow", "equip", "fund"], "antonyms": ["deprive", "strip", "withhold"],
+      "sentences": [
+        {"en": "The wealthy alumnus decided to ______ the university with a grant for a biotechnology laboratory.", "zh": "這位富有的校友決定捐款資助大學興建生物科技實驗室。"},
+        {"en": "Nature chose to ______ the cheetah with a flexible spine and powerful hind legs.", "zh": "大自然賦予獵豹靈活的脊椎和強健的後腿。"}
+      ],
+      "category": {"part": 2, "num": "55", "spelling": "tribut；tribute", "meaning": "給予；分配；貢獻；回報"}
+    },
+    {
+      "word": "commendation", "pos": "n.", "pos_key": "n.",
+      "defn_en": "formal or enthusiastic praise, especially an official award recognizing achievement or bravery:",
+      "defn_zh": "表彰；嘉獎；稱讚",
+      "root_note": "com- (thoroughly) + mandare (to entrust or commend) + -ion (act)",
+      "synonyms": ["praise", "acclaim", "citation", "approval"], "antonyms": ["criticism", "condemnation", "reprimand"],
+      "sentences": [
+        {"en": "The firefighter received an official ______ from the mayor for rescuing a family from a burning building.", "zh": "消防員因從火場救出一家人而獲得市長的正式表彰。"},
+        {"en": "Although the novel did not win the prize, it earned high ______ from prominent critics.", "zh": "儘管這部小說沒有獲獎，仍受到知名書評家的高度讚揚。"}
+      ],
+      "category": {"part": 2, "num": "55", "spelling": "tribut；tribute", "meaning": "給予；分配；貢獻；回報"}
+    },
+    {
+      "word": "allocate", "pos": "v.", "pos_key": "v.",
+      "defn_en": "to distribute or assign money, time, space, or duties for a particular purpose:",
+      "defn_zh": "分配；撥給；配置",
+      "root_note": "ad- (to or toward) + locare (to place)",
+      "synonyms": ["assign", "allot", "distribute", "apportion"], "antonyms": ["withhold", "retain", "concentrate"],
+      "sentences": [
+        {"en": "The city council voted to ______ more funds to public libraries for upgraded computer centers.", "zh": "市議會投票決定為公共圖書館撥配更多資金，以升級電腦中心。"},
+        {"en": "The student had to carefully ______ her limited study hours between calculus and chemistry.", "zh": "學生必須仔細分配有限的時間，在微積分和化學之間安排複習。"}
+      ],
+      "category": {"part": 2, "num": "55", "spelling": "tribut；tribute", "meaning": "給予；分配；貢獻；回報"}
+    },
+    {
+      "word": "subsidize", "pos": "v.", "pos_key": "v.",
+      "defn_en": "to support a person, organization, or activity by providing money or financial assistance:",
+      "defn_zh": "補貼；資助；給予津貼",
+      "root_note": "sub- (under) + sedere (to sit); from subsidy, financial support held in reserve",
+      "synonyms": ["fund", "finance", "support", "underwrite"], "antonyms": ["defund", "withdraw", "charge"],
+      "sentences": [
+        {"en": "The government chose to ______ electric-car manufacturers to encourage the adoption of clean energy.", "zh": "政府選擇補貼電動車製造商，以鼓勵採用潔淨能源。"},
+        {"en": "The university uses football revenue to ______ smaller academic and arts departments.", "zh": "大學利用美式足球收入補助規模較小的學術與藝術系所。"}
+      ],
+      "category": {"part": 2, "num": "55", "spelling": "tribut；tribute", "meaning": "給予；分配；貢獻；回報"}
+    },
+    {
+      "word": "requite", "pos": "v.", "pos_key": "v.",
+      "defn_en": "to repay or return love, kindness, harm, or a favor:",
+      "defn_zh": "回報；報答；酬謝；報復",
+      "root_note": "re- (back) + quit (free or clear); literally, to clear or repay a debt",
+      "synonyms": ["repay", "reward", "reciprocate", "avenge"], "antonyms": ["ignore", "disregard", "withhold"],
+      "sentences": [
+        {"en": "The protagonist suffered when he realized the duchess would never ______ his deep affection.", "zh": "主角意識到公爵夫人永遠不會回應他的深情時，感到萬分痛苦。"},
+        {"en": "The soldiers vowed to ______ their commander's sacrifice by securing a final victory.", "zh": "士兵發誓以取得最終勝利來報答指揮官的犧牲。"}
+      ],
+      "category": {"part": 2, "num": "55", "spelling": "tribut；tribute", "meaning": "給予；分配；貢獻；回報"}
+    },
+    {
+      "word": "benefaction", "pos": "n.", "pos_key": "n.",
+      "defn_en": "a generous donation, gift, or charitable act intended to help others:",
+      "defn_zh": "捐助；善行；慈善贈款",
+      "root_note": "bene (good) + fac or fic (do or make) + -ion (act)",
+      "synonyms": ["donation", "gift", "charity", "endowment"], "antonyms": ["deprivation", "harm", "exaction"],
+      "sentences": [
+        {"en": "The shelter doubled its capacity thanks to a generous financial ______ from a local philanthropist.", "zh": "由於當地慈善家的慷慨捐助，收容所得以把收容量增加一倍。"},
+        {"en": "A bronze plaque lists the citizens whose ______ made the museum's new wing possible.", "zh": "青銅牌上列出捐款促成博物館新展翼落成的市民姓名。"}
+      ],
+      "category": {"part": 2, "num": "55", "spelling": "tribut；tribute", "meaning": "給予；分配；貢獻；回報"}
+    }
+  ]
+}
