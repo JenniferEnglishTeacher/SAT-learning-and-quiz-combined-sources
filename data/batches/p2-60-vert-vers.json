@@ -1,0 +1,1378 @@
+{
+  "id": "p2-60-vert-vers",
+  "part": "part2",
+  "part_label": "Part 2 字根篇 (Roots)",
+  "name": "vert；vers",
+  "subtitle": "轉",
+  "count": 40,
+  "words": [
+    {
+      "word": "inadvertent",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "unintentional:",
+      "defn_zh": "無意的",
+      "root_note": "in- (not) + ad- (to) + vertere (to turn)",
+      "sentences": [
+        {
+          "en": "The mistake in the report was completely ______, not an attempt to deceive anyone.",
+          "zh": "報告中的錯誤完全是無意的,並非想欺騙任何人。"
+        },
+        {
+          "en": "Her ______ comment about the surprise party ruined the secret.",
+          "zh": "她無意間提到驚喜派對的話,毀了這個秘密。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "60",
+        "spelling": "vert；vers",
+        "meaning": "轉"
+      }
+    },
+    {
+      "word": "perverse",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "contrary, persisting in error:",
+      "defn_zh": "固執錯誤的/乖戾的",
+      "root_note": "per- (thoroughly) + vertere (to turn)",
+      "sentences": [
+        {
+          "en": "He took a ______ pleasure in making his classmates uncomfortable.",
+          "zh": "他從讓同學感到不自在中得到一種乖戾的快感。"
+        },
+        {
+          "en": "It seems ______ to spend more money just to save time on such a small task.",
+          "zh": "為了在這種小事上省時間而花更多錢,似乎是種不合理的固執。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "60",
+        "spelling": "vert；vers",
+        "meaning": "轉"
+      }
+    },
+    {
+      "word": "revert",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to return:",
+      "defn_zh": "恢復/重返",
+      "root_note": "re- (back) + vertere (to turn)",
+      "sentences": [
+        {
+          "en": "After the experiment failed, the scientists had to ______ to their original method.",
+          "zh": "實驗失敗後,科學家們必須恢復採用原本的方法。"
+        },
+        {
+          "en": "Once the medication wore off, his symptoms began to ______ to how they were before.",
+          "zh": "藥效退去後,他的症狀開始恢復到原本的狀態。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "60",
+        "spelling": "vert；vers",
+        "meaning": "轉"
+      }
+    },
+    {
+      "word": "adverse",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "unfavorable, harmful:",
+      "defn_zh": "不利的",
+      "root_note": "ad- (to) + vertere (to turn against)",
+      "sentences": [
+        {
+          "en": "The medicine can cause several ______ side effects, including nausea and dizziness.",
+          "zh": "這種藥物可能引起若干不良的副作用,包括噁心和暈眩。"
+        },
+        {
+          "en": "The team performed well despite the ______ weather conditions.",
+          "zh": "儘管天氣狀況不利,球隊仍表現出色。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "60",
+        "spelling": "vert；vers",
+        "meaning": "轉"
+      }
+    },
+    {
+      "word": "incontrovertible",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "undeniable:",
+      "defn_zh": "無可辯駁的/不容置疑的",
+      "root_note": "in- (not) + contro- (against) + vertere (to turn)",
+      "sentences": [
+        {
+          "en": "The DNA test provided ______ proof of his innocence.",
+          "zh": "DNA檢測提供了無可辯駁的證據,證明他的清白。"
+        },
+        {
+          "en": "The data offers ______ evidence that the climate is changing.",
+          "zh": "這些數據提供了氣候正在變遷的無可辯駁的證據。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "60",
+        "spelling": "vert；vers",
+        "meaning": "轉"
+      }
+    },
+    {
+      "word": "controversial",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "debatable:",
+      "defn_zh": "有爭議的",
+      "root_note": "contra- (against) + vertere (to turn)",
+      "sentences": [
+        {
+          "en": "The new policy proved highly ______ among voters.",
+          "zh": "這項新政策在選民之間引發了高度爭議。"
+        },
+        {
+          "en": "She wrote a ______ article that sparked debate across the country.",
+          "zh": "她寫了一篇引發全國辯論的爭議性文章。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "60",
+        "spelling": "vert；vers",
+        "meaning": "轉"
+      }
+    },
+    {
+      "word": "universal",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "present everywhere:",
+      "defn_zh": "普遍的/宇宙的",
+      "root_note": "uni- (one) + vertere (to turn)",
+      "sentences": [
+        {
+          "en": "The desire for love and belonging seems to be a ______ human need.",
+          "zh": "對愛與歸屬感的渴望似乎是一種普遍的人類需求。"
+        },
+        {
+          "en": "The company hopes to design a ______ remote that works with any device.",
+          "zh": "這家公司希望設計出一款能與任何裝置搭配使用的通用遙控器。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "60",
+        "spelling": "vert；vers",
+        "meaning": "轉"
+      }
+    },
+    {
+      "word": "aversion",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "strong dislike, opposition:",
+      "defn_zh": "厭惡/反感",
+      "root_note": "ab- (from) + vertere (to turn)",
+      "sentences": [
+        {
+          "en": "She has a strong ______ to spiders and won't go near them.",
+          "zh": "她對蜘蛛有強烈的厭惡感,絕不會靠近牠們。"
+        },
+        {
+          "en": "His childhood illness left him with a lasting ______ to hospitals.",
+          "zh": "他童年時的病痛讓他對醫院留下了持久的反感。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "60",
+        "spelling": "vert；vers",
+        "meaning": "轉"
+      }
+    },
+    {
+      "word": "adversary",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "opponent, enemy, foe:",
+      "defn_zh": "對手/敵手",
+      "root_note": "ad- (to) + vertere (to turn)",
+      "sentences": [
+        {
+          "en": "The two chess masters had been fierce ______ies for years.",
+          "zh": "這兩位西洋棋大師多年來一直是激烈的對手。"
+        },
+        {
+          "en": "The senator's political ______ accused him of dishonesty.",
+          "zh": "這位參議員的政治對手指控他不誠實。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "60",
+        "spelling": "vert；vers",
+        "meaning": "轉"
+      }
+    },
+    {
+      "word": "vertigo",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "dizziness:",
+      "defn_zh": "眩暈",
+      "root_note": "vertere (to turn)",
+      "sentences": [
+        {
+          "en": "He experienced sudden ______ while standing on the ladder.",
+          "zh": "他站在梯子上時突然感到一陣眩暈。"
+        },
+        {
+          "en": "Looking down from the cliff gave her a strong sense of ______.",
+          "zh": "從懸崖往下看讓她感到一陣強烈的暈眩。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "60",
+        "spelling": "vert；vers",
+        "meaning": "轉"
+      }
+    },
+    {
+      "word": "diversity",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "variety:",
+      "defn_zh": "多樣性",
+      "root_note": "dis- (apart) + vertere (to turn)",
+      "sentences": [
+        {
+          "en": "The company values ______ in its hiring practices.",
+          "zh": "這家公司在招聘政策上重視多樣性。"
+        },
+        {
+          "en": "The festival celebrates the cultural ______ of the city.",
+          "zh": "這場慶典慶祝著這座城市的文化多樣性。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "60",
+        "spelling": "vert；vers",
+        "meaning": "轉"
+      }
+    },
+    {
+      "word": "adversity",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "great trouble or difficulty",
+      "defn_zh": "逆境；不幸",
+      "root_note": "ad- (to) + vertere (to turn)",
+      "sentences": [
+        {
+          "en": "She showed remarkable strength in the face of ______.",
+          "zh": "面對逆境,她展現出驚人的堅強意志。"
+        },
+        {
+          "en": "The team grew closer through shared ______ during the tough season.",
+          "zh": "在這個艱難的賽季中,這支隊伍因共同經歷的逆境而變得更加團結。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "60",
+        "spelling": "vert；vers",
+        "meaning": "轉"
+      }
+    },
+    {
+      "word": "advertise",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to promote a product, service, or event publicly:",
+      "defn_zh": "宣傳;登廣告",
+      "root_note": "ad- (to) + vertere (to turn)",
+      "sentences": [
+        {
+          "en": "The startup spent most of its budget to ______ the new app on social media.",
+          "zh": "這家新創公司把大部分預算花在社群媒體宣傳新應用程式上。"
+        },
+        {
+          "en": "Local shops ______ their weekend sales with flyers posted around town.",
+          "zh": "當地商店在城裡張貼傳單,宣傳週末的特賣活動。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "60",
+        "spelling": "vert；vers",
+        "meaning": "轉"
+      }
+    },
+    {
+      "word": "ambivert",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a person with a balance of introverted and extroverted traits:",
+      "defn_zh": "中間性格者(內外向兼具)",
+      "root_note": "ambi- (both) + vertere (to turn)",
+      "sentences": [
+        {
+          "en": "As an ______ , she enjoys parties but also treasures quiet evenings alone.",
+          "zh": "身為中間性格者,她既喜歡派對,也珍惜獨處的寧靜夜晚。"
+        },
+        {
+          "en": "Career counselors often say ______ make excellent salespeople and mediators.",
+          "zh": "職涯顧問常說,中間性格者最適合當業務員或調解人。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "60",
+        "spelling": "vert；vers",
+        "meaning": "轉"
+      }
+    },
+    {
+      "word": "aver",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to state something as a fact with confidence:",
+      "defn_zh": "斷言;宣稱",
+      "root_note": "ad- (to) + verus (true)",
+      "sentences": [
+        {
+          "en": "The witness continued to ______ that she had seen nothing unusual that night.",
+          "zh": "證人持續斷言她那晚沒看到任何異常的事。"
+        },
+        {
+          "en": "He ______ that the new policy would save the company millions.",
+          "zh": "他斷言這項新政策能為公司省下數百萬。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "60",
+        "spelling": "vert；vers",
+        "meaning": "轉"
+      }
+    },
+    {
+      "word": "avert",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to prevent an undesirable event; to turn away one's gaze:",
+      "defn_zh": "避免;移開視線",
+      "root_note": "ab- (away) + vertere (to turn)",
+      "sentences": [
+        {
+          "en": "Quick action by the crew helped ______ a much larger disaster.",
+          "zh": "機組人員的迅速應對,幫助避免了一場更大的災難。"
+        },
+        {
+          "en": "She had to ______ her eyes from the graphic scene in the film.",
+          "zh": "她不得不把視線從電影中的血腥畫面移開。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "60",
+        "spelling": "vert；vers",
+        "meaning": "轉"
+      }
+    },
+    {
+      "word": "controversy",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "prolonged public dispute or disagreement:",
+      "defn_zh": "爭議",
+      "root_note": "contra- (against) + versus (turned), from Latin vertere",
+      "sentences": [
+        {
+          "en": "The new policy sparked ______ among parents and teachers alike.",
+          "zh": "這項新政策在家長與老師之間引發了爭議。"
+        },
+        {
+          "en": "A ______ over funding delayed the project for months.",
+          "zh": "一場關於資金的爭議使這項計畫延誤了數月。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "60",
+        "spelling": "vert；vers",
+        "meaning": "轉"
+      }
+    },
+    {
+      "word": "controvert",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to deny or dispute the truth of something:",
+      "defn_zh": "反駁;否認",
+      "root_note": "contra- (against) + vertere (to turn), from Latin",
+      "sentences": [
+        {
+          "en": "The lawyer tried to ______ the witness's testimony.",
+          "zh": "律師試圖反駁證人的證詞。"
+        },
+        {
+          "en": "New data ______ ed the study's original conclusion.",
+          "zh": "新的數據反駁了該研究最初的結論。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "60",
+        "spelling": "vert；vers",
+        "meaning": "轉"
+      }
+    },
+    {
+      "word": "conversant",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "familiar with or knowledgeable about a subject:",
+      "defn_zh": "熟悉的;精通的",
+      "root_note": "con- (together) + vertere (to turn), from Latin",
+      "sentences": [
+        {
+          "en": "The new hire was already ______ with the company's software.",
+          "zh": "這位新員工已經熟悉公司的軟體。"
+        },
+        {
+          "en": "A good diplomat must be ______ with several languages.",
+          "zh": "一個優秀的外交官必須精通好幾種語言。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "60",
+        "spelling": "vert；vers",
+        "meaning": "轉"
+      }
+    },
+    {
+      "word": "conversation",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "an informal talk between people:",
+      "defn_zh": "對話;交談",
+      "root_note": "con- (together) + vertere (to turn), from Latin",
+      "sentences": [
+        {
+          "en": "Their ______ drifted from politics to old memories.",
+          "zh": "他們的對話從政治聊到了往日的回憶。"
+        },
+        {
+          "en": "She struck up a ______ with the stranger on the train.",
+          "zh": "她與火車上的陌生人攀談了起來。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "60",
+        "spelling": "vert；vers",
+        "meaning": "轉"
+      }
+    },
+    {
+      "word": "converse",
+      "pos": "v./adj.",
+      "pos_key": "v.",
+      "defn_en": "to talk informally; being the opposite:",
+      "defn_zh": "交談;相反的",
+      "root_note": "con- (together) + vertere (to turn), from Latin",
+      "sentences": [
+        {
+          "en": "They ______ d for hours about their travels.",
+          "zh": "他們談論旅行的事,聊了好幾個小時。"
+        },
+        {
+          "en": "The ______ of his argument turned out to be equally true.",
+          "zh": "他論點的反面竟然同樣成立。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "60",
+        "spelling": "vert；vers",
+        "meaning": "轉"
+      }
+    },
+    {
+      "word": "convert",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to change something into a different form, state, or use:",
+      "defn_zh": "轉變/使轉換",
+      "root_note": "con- (together) + vertere (to turn)",
+      "sentences": [
+        {
+          "en": "He decided to ______ his garage into a home office.",
+          "zh": "他決定將車庫改建成一間家庭辦公室。"
+        },
+        {
+          "en": "The company plans to ______ all its trucks to run on electricity.",
+          "zh": "這家公司計畫將旗下所有卡車改裝為電動車。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "60",
+        "spelling": "vert；vers",
+        "meaning": "轉"
+      }
+    },
+    {
+      "word": "diverse",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "showing a great deal of variety; very different from one another:",
+      "defn_zh": "多樣的/各異的",
+      "root_note": "dis- (apart) + vertere (to turn)",
+      "sentences": [
+        {
+          "en": "The class was made up of a ______ group of students from various cultural backgrounds.",
+          "zh": "這個班級由來自不同文化背景、多元豐富的學生組成。"
+        },
+        {
+          "en": "New York City has a ______ population.",
+          "zh": "紐約市擁有多元豐富的人口組成。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "60",
+        "spelling": "vert；vers",
+        "meaning": "轉"
+      }
+    },
+    {
+      "word": "extrovert",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a person directed toward others as opposed to the self:",
+      "defn_zh": "外向的人",
+      "root_note": "extra- (outward) + vertere (to turn)",
+      "sentences": [
+        {
+          "en": "As a natural ______, she thrives at large social gatherings.",
+          "zh": "身為天生外向的人,她在大型社交場合中總是如魚得水。"
+        },
+        {
+          "en": "Unlike his introverted brother, he is a cheerful ______ who loves meeting new people.",
+          "zh": "與他內向的哥哥不同,他是個開朗外向、喜歡結識新朋友的人。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "60",
+        "spelling": "vert；vers",
+        "meaning": "轉"
+      }
+    },
+    {
+      "word": "inadvertently",
+      "pos": "adv.",
+      "pos_key": "adv.",
+      "defn_en": "unintentionally or by accident:",
+      "defn_zh": "無意間/不小心地",
+      "root_note": "in- (not) + ad- (toward) + vertere (to turn)",
+      "sentences": [
+        {
+          "en": "The new worker caused a ruckus when he ______ deleted an important file.",
+          "zh": "這位新員工不小心刪除了一份重要檔案,因而引起一陣騷動。"
+        },
+        {
+          "en": "She ______ revealed the surprise party while talking on the phone.",
+          "zh": "她在講電話時無意間洩漏了驚喜派對的消息。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "60",
+        "spelling": "vert；vers",
+        "meaning": "轉"
+      }
+    },
+    {
+      "word": "introvert",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a person who tends to shrink from social contacts:",
+      "defn_zh": "內向的人",
+      "root_note": "intro- (within) + vertere (to turn)",
+      "sentences": [
+        {
+          "en": "As a natural ______, he prefers quiet evenings alone to crowded parties.",
+          "zh": "身為天生內向的人,他更喜歡安靜獨處的夜晚,而非熱鬧的派對。"
+        },
+        {
+          "en": "Being an ______ doesn't mean she dislikes people; she just needs time to recharge.",
+          "zh": "身為內向者並不代表她不喜歡與人相處,她只是需要時間充電。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "60",
+        "spelling": "vert；vers",
+        "meaning": "轉"
+      }
+    },
+    {
+      "word": "pervert",
+      "pos": "v./n.",
+      "pos_key": "v.",
+      "defn_en": "to distort something from its original meaning or use; a person with deviant tendencies:",
+      "defn_zh": "曲解;變態者",
+      "root_note": "pervertere (to turn around), from Latin per- (thoroughly) + vertere (to turn)",
+      "sentences": [
+        {
+          "en": "The tabloid was accused of trying to ______ the facts of the case.",
+          "zh": "這家小報被指控試圖曲解這起案件的事實。"
+        },
+        {
+          "en": "The court committed him for evaluation after labeling him a dangerous ______ .",
+          "zh": "在將他標記為危險的變態者之後,法院將他交付評估。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "60",
+        "spelling": "vert；vers",
+        "meaning": "轉"
+      }
+    },
+    {
+      "word": "subvert",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to undermine or overthrow the power or authority of:",
+      "defn_zh": "顛覆;破壞",
+      "root_note": "subvertere, from Latin sub- (from below) + vertere (to turn)",
+      "sentences": [
+        {
+          "en": "The spies worked secretly to ______ the government from within.",
+          "zh": "這些間諜暗中運作,企圖從內部顛覆這個政府。"
+        },
+        {
+          "en": "Critics argued the policy would ______ the very rights it claimed to protect.",
+          "zh": "評論家主張這項政策會破壞它聲稱要保護的權利本身。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "60",
+        "spelling": "vert；vers",
+        "meaning": "轉"
+      }
+    },
+    {
+      "word": "tergiversate",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to change one's loyalties or opinions repeatedly; to be evasive:",
+      "defn_zh": "反覆變節;支吾其詞",
+      "root_note": "tergiversari, from Latin tergum (back) + vertere (to turn)",
+      "sentences": [
+        {
+          "en": "The politician tended to ______ whenever a controversial topic arose.",
+          "zh": "每當出現有爭議的話題,這位政客總是傾向支吾其詞。"
+        },
+        {
+          "en": "He was criticized for continuing to ______ on such an important issue.",
+          "zh": "他因在如此重要的議題上持續反覆變節而受到批評。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "60",
+        "spelling": "vert；vers",
+        "meaning": "轉"
+      }
+    },
+    {
+      "word": "tergiversation",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "the act of repeatedly changing one's loyalties or opinions; evasiveness:",
+      "defn_zh": "反覆變節;支吾搪塞",
+      "root_note": "tergiversatio, from Latin tergum (back) + vertere (to turn)",
+      "sentences": [
+        {
+          "en": "Voters grew frustrated with the candidate's constant ______ on key policies.",
+          "zh": "選民對這位候選人在關鍵政策上不斷反覆變節感到不滿。"
+        },
+        {
+          "en": "The witness's ______ under questioning raised doubts about his honesty.",
+          "zh": "這位證人在詢問下的支吾搪塞讓人對他的誠實產生懷疑。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "60",
+        "spelling": "vert；vers",
+        "meaning": "轉"
+      }
+    },
+    {
+      "word": "veracity",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "truthfulness, accuracy:",
+      "defn_zh": "真實性/誠實",
+      "root_note": "verus (true)",
+      "sentences": [
+        {
+          "en": "Journalists questioned the ______ of the anonymous source's claims.",
+          "zh": "記者質疑這位匿名消息來源說法的真實性。"
+        },
+        {
+          "en": "Her reputation for ______ made her testimony highly credible in court.",
+          "zh": "她以誠實可信著稱,這讓她在法庭上的證詞極具公信力。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "60",
+        "spelling": "vert；vers",
+        "meaning": "轉"
+      }
+    },
+    {
+      "word": "verisimilitude",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "the appearance or quality of being real or true; the resemblance to reality:",
+      "defn_zh": "逼真/擬真性",
+      "root_note": "verus (true) + similitudo (likeness)",
+      "sentences": [
+        {
+          "en": "The movie's attention to detail gave it a sense of ______ that captivated the audience.",
+          "zh": "這部電影對細節的講究賦予了它一種逼真感,深深吸引了觀眾。"
+        },
+        {
+          "en": "The novel's ______ made it compelling.",
+          "zh": "這部小說的逼真感讓它引人入勝。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "60",
+        "spelling": "vert；vers",
+        "meaning": "轉"
+      }
+    },
+    {
+      "word": "veritable",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "used to emphasize truth:",
+      "defn_zh": "名副其實的/真正的",
+      "root_note": "verus (true)",
+      "sentences": [
+        {
+          "en": "Einstein was a ______ genius.",
+          "zh": "愛因斯坦是名副其實的天才。"
+        },
+        {
+          "en": "The buffet offered a ______ feast of international cuisine.",
+          "zh": "這場自助餐提供了名副其實的國際美食盛宴。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "60",
+        "spelling": "vert；vers",
+        "meaning": "轉"
+      }
+    },
+    {
+      "word": "versatile",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "able to adapt to many different functions or activities:",
+      "defn_zh": "多才多藝的;通用的",
+      "root_note": "vertere (to turn), from Latin",
+      "sentences": [
+        {
+          "en": "The actor was praised for being remarkably ______ across genres.",
+          "zh": "這位演員因跨類型展現出非凡的多才多藝而備受讚譽。"
+        },
+        {
+          "en": "This ______ tool can be used for a dozen different tasks.",
+          "zh": "這項多功能工具可以用於十幾種不同的任務。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "60",
+        "spelling": "vert；vers",
+        "meaning": "轉"
+      }
+    },
+    {
+      "word": "versed",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "having great knowledge or experience in a particular subject:",
+      "defn_zh": "精通的;熟悉的",
+      "root_note": "versatus, past participle of Latin versari (to be occupied with)",
+      "sentences": [
+        {
+          "en": "She was well ______ in international trade law.",
+          "zh": "她十分精通國際貿易法。"
+        },
+        {
+          "en": "He became ______ in several programming languages during college.",
+          "zh": "他在大學期間精通了好幾種程式語言。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "60",
+        "spelling": "vert；vers",
+        "meaning": "轉"
+      }
+    },
+    {
+      "word": "vert",
+      "pos": "n./adj.",
+      "pos_key": "n.",
+      "defn_en": "the color green, especially in heraldry:",
+      "defn_zh": "綠色(尤指紋章學)",
+      "root_note": "vert (green), from Old French, from Latin viridis",
+      "sentences": [
+        {
+          "en": "The knight's shield featured a field of ______ with a golden lion.",
+          "zh": "這位騎士的盾牌上有著綠色的底面,上面繪有一頭金色的獅子。"
+        },
+        {
+          "en": "Heraldic experts identified the coat of arms by its use of ______ .",
+          "zh": "紋章學專家透過其使用的綠色辨識出了這面紋章。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "60",
+        "spelling": "vert；vers",
+        "meaning": "轉"
+      }
+    },
+    {
+      "word": "vertebrae",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "the small bones that form the backbone (plural of vertebra):",
+      "defn_zh": "脊椎骨(複數)",
+      "root_note": "vertebra, from Latin vertere (to turn)",
+      "sentences": [
+        {
+          "en": "The X-ray revealed a fracture in one of his ______ .",
+          "zh": "這張X光片顯示他的其中一節脊椎骨骨折了。"
+        },
+        {
+          "en": "The chiropractor gently realigned the misaligned ______ .",
+          "zh": "這位脊骨神經醫師輕輕地將這些錯位的脊椎骨調整回正確位置。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "60",
+        "spelling": "vert；vers",
+        "meaning": "轉"
+      }
+    },
+    {
+      "word": "vertex",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "the highest point; the point where two lines meet to form an angle:",
+      "defn_zh": "頂點;端點",
+      "root_note": "vertex (whirl, top), from Latin vertere (to turn)",
+      "sentences": [
+        {
+          "en": "The climbers finally reached the ______ of the mountain at dawn.",
+          "zh": "這些登山者終於在黎明時分抵達了這座山的頂點。"
+        },
+        {
+          "en": "Students measured the angle formed at the triangle's ______ .",
+          "zh": "學生們測量了這個三角形頂點所形成的角度。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "60",
+        "spelling": "vert；vers",
+        "meaning": "轉"
+      }
+    },
+    {
+      "word": "vertiginous",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "causing dizziness; extremely high or steep:",
+      "defn_zh": "令人暈眩的",
+      "root_note": "vertiginosus, from Latin vertigo (dizziness), from vertere (to turn)",
+      "sentences": [
+        {
+          "en": "The ______ cliff edge made even experienced climbers nervous.",
+          "zh": "這道令人暈眩的懸崖邊緣讓經驗豐富的登山者也感到緊張。"
+        },
+        {
+          "en": "Stock prices reached ______ heights before the sudden crash.",
+          "zh": "股價在這場突如其來的崩盤前攀升到令人暈眩的高度。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "60",
+        "spelling": "vert；vers",
+        "meaning": "轉"
+      }
+    },
+    {
+      "word": "vice versa",
+      "pos": "adv.",
+      "pos_key": "adv.",
+      "defn_en": "with the order or meaning reversed; conversely:",
+      "defn_zh": "反之亦然",
+      "root_note": "vice (in place of) + versa (turned), from Latin",
+      "sentences": [
+        {
+          "en": "She helps him with math, and ______ he helps her with writing.",
+          "zh": "她幫他複習數學,反之他也幫她加強寫作。"
+        },
+        {
+          "en": "A rise in supply often lowers prices, and ______ .",
+          "zh": "供給增加通常會導致價格下跌,反之亦然。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "60",
+        "spelling": "vert；vers",
+        "meaning": "轉"
+      }
+    }
+  ],
+  "family_options": {},
+  "fallback_options": {
+    "v.": [
+      {
+        "word": "abound",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to exist in great numbers:",
+        "defn_zh": "充滿"
+      },
+      {
+        "word": "abrogate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to deprive of legal force, to nullify:=abolish",
+        "defn_zh": "廢除/取消"
+      },
+      {
+        "word": "abjure",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to renounce, abstain from:",
+        "defn_zh": "發誓放棄/棄絕"
+      },
+      {
+        "word": "abbreviate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to shorten a word or phrase:",
+        "defn_zh": "縮寫;縮短"
+      },
+      {
+        "word": "abdicate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to give up a position, usually one of leadership:",
+        "defn_zh": "退位/放棄(職位)"
+      },
+      {
+        "word": "abduct",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to kidnap, take by force:",
+        "defn_zh": "綁架/劫持"
+      },
+      {
+        "word": "abhor",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to regard with disgust and hatred:",
+        "defn_zh": "憎惡/厭惡"
+      },
+      {
+        "word": "abnegate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to deny or renounce:",
+        "defn_zh": "放棄/克制"
+      },
+      {
+        "word": "abolish",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to formally put an end to a system, practice, or institution:",
+        "defn_zh": "廢除"
+      },
+      {
+        "word": "abort",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to give up on a half-finished project or effort:",
+        "defn_zh": "中止/放棄"
+      },
+      {
+        "word": "abrade",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to scrape or wear away by friction:",
+        "defn_zh": "磨損;擦傷"
+      },
+      {
+        "word": "abscond",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to sneak away and hide:",
+        "defn_zh": "潛逃/逃匿"
+      }
+    ],
+    "adj.": [
+      {
+        "word": "abortive",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "fruitless, failing:",
+        "defn_zh": "失敗的/夭折的"
+      },
+      {
+        "word": "abstemious",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "moderate in eating or drinking:",
+        "defn_zh": "飲食有節制的"
+      },
+      {
+        "word": "abhorrent",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "detestable, despised:",
+        "defn_zh": "令人厭惡的"
+      },
+      {
+        "word": "absurd",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "ridiculous:",
+        "defn_zh": "荒謬的"
+      },
+      {
+        "word": "aberrant",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "deviating from what is normal or expected:",
+        "defn_zh": "異常的;脫軌的"
+      },
+      {
+        "word": "abject",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "wretched, pitiful:",
+        "defn_zh": "卑賤的/淒慘的"
+      },
+      {
+        "word": "abominable",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "causing moral revulsion; extremely unpleasant:",
+        "defn_zh": "可憎的;惡劣的"
+      },
+      {
+        "word": "abounding",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "existing in large numbers or amounts:",
+        "defn_zh": "大量存在的;豐富的"
+      },
+      {
+        "word": "abrasive",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "showing little concern for others; harsh:",
+        "defn_zh": "粗暴的/刺耳的"
+      },
+      {
+        "word": "abrupt",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "sudden or unexpected; brief and curt in manner:",
+        "defn_zh": "突然的/唐突的"
+      },
+      {
+        "word": "abstract",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "existing purely in the mind; not representing actual reality:",
+        "defn_zh": "抽象的"
+      },
+      {
+        "word": "abstruse",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "hard to comprehend:",
+        "defn_zh": "深奧難懂的"
+      }
+    ],
+    "n.": [
+      {
+        "word": "aberration",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "something that differs from the norm:",
+        "defn_zh": "異常/脫軌"
+      },
+      {
+        "word": "abjection",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a state of complete misery, hopelessness, or degradation:",
+        "defn_zh": "卑賤;悲慘狀態"
+      },
+      {
+        "word": "abjuration",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the solemn renunciation of a belief, cause, or claim:",
+        "defn_zh": "公開放棄;誓絕"
+      },
+      {
+        "word": "ablution",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the act of washing oneself, especially as part of a religious ritual:",
+        "defn_zh": "沐浴;淨身儀式"
+      },
+      {
+        "word": "abnegation",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "denial of comfort to oneself:",
+        "defn_zh": "自我克制/放棄"
+      },
+      {
+        "word": "abomination",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "something that causes disgust or hatred:",
+        "defn_zh": "可憎之事;令人厭惡的東西"
+      },
+      {
+        "word": "abridgement",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a shortened version of a book or other written work:",
+        "defn_zh": "節略本;縮減版"
+      },
+      {
+        "word": "absolution",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "freedom from blame, guilt, sin:",
+        "defn_zh": "赦免/免罪"
+      },
+      {
+        "word": "abstemiousness",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "moderation or self-restraint, especially in eating and drinking:",
+        "defn_zh": "節制;克己"
+      },
+      {
+        "word": "abstinence",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the practice of restraining oneself from something enjoyable, especially food, alcohol, or sex:",
+        "defn_zh": "節制;戒絕"
+      },
+      {
+        "word": "avocation",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a hobby or minor occupation apart from one's main career:",
+        "defn_zh": "副業;業餘愛好"
+      },
+      {
+        "word": "self-abnegation",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "renunciation of your own interests in favor of others:",
+        "defn_zh": "自我克制/捨己為人"
+      }
+    ],
+    "adv.": [
+      {
+        "word": "accordingly",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in a manner that fits the circumstances; consequently:",
+        "defn_zh": "相應地;因此"
+      },
+      {
+        "word": "consequently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "as a result; therefore:",
+        "defn_zh": "因此;結果"
+      },
+      {
+        "word": "contemptuously",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "without respect; in a disdainful manner:",
+        "defn_zh": "輕蔑地"
+      },
+      {
+        "word": "involuntarily",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "done without conscious control:",
+        "defn_zh": "不由自主地"
+      },
+      {
+        "word": "cordially",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in a warm or friendly manner:",
+        "defn_zh": "誠摯地/友好地"
+      },
+      {
+        "word": "ipso facto",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "by that very fact or act:",
+        "defn_zh": "事實上;因此"
+      },
+      {
+        "word": "en passant",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in passing; incidentally:",
+        "defn_zh": "順帶一提地;偶然地"
+      },
+      {
+        "word": "regardless",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "despite the prevailing circumstances; without being deterred:",
+        "defn_zh": "不管怎樣;儘管如此"
+      },
+      {
+        "word": "subsequently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "afterward; following in time or order:",
+        "defn_zh": "隨後;其後"
+      },
+      {
+        "word": "aside",
+        "pos": "adv./n.",
+        "pos_key": "adv.",
+        "defn_en": "to or on one side; a remark not meant to be heard by everyone:",
+        "defn_zh": "在旁邊;旁白"
+      },
+      {
+        "word": "forward",
+        "pos": "adv./adj.",
+        "pos_key": "adv.",
+        "defn_en": "toward the front or future; bold or presumptuous:",
+        "defn_zh": "向前的;冒失的"
+      },
+      {
+        "word": "forthwith",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "immediately:",
+        "defn_zh": "立即"
+      }
+    ],
+    "other": [
+      {
+        "word": "（此批單字中，暫無符合此字根/字首的單字）",
+        "pos": "",
+        "pos_key": "other",
+        "defn_en": "",
+        "defn_zh": ""
+      }
+    ],
+    "prep./adv.": [
+      {
+        "word": "besides",
+        "pos": "prep./adv.",
+        "pos_key": "prep./adv.",
+        "defn_en": "in addition to; furthermore:",
+        "defn_zh": "除...之外;此外"
+      }
+    ],
+    "phrasalv.": [
+      {
+        "word": "egg on",
+        "pos": "phrasal v.",
+        "pos_key": "phrasalv.",
+        "defn_en": "to encourage someone to do something, often risky:",
+        "defn_zh": "慫恿;鼓動"
+      }
+    ],
+    "abbr.": [
+      {
+        "word": "etc.",
+        "pos": "abbr.",
+        "pos_key": "abbr.",
+        "defn_en": "and other similar things (abbreviation of et cetera):",
+        "defn_zh": "等等(et cetera的縮寫)"
+      }
+    ],
+    "interj.": [
+      {
+        "word": "fiddledeedee",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "an exclamation expressing dismissal of something as nonsense:",
+        "defn_zh": "廢話!(表示不屑一顧)"
+      },
+      {
+        "word": "gesundheit",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "an expression said to someone who has just sneezed:",
+        "defn_zh": "保重(打噴嚏後的祝福語)"
+      }
+    ],
+    "prep.": [
+      {
+        "word": "via",
+        "pos": "prep.",
+        "pos_key": "prep.",
+        "defn_en": "by way of; passing through:",
+        "defn_zh": "經由;透過"
+      }
+    ]
+  }
+}
