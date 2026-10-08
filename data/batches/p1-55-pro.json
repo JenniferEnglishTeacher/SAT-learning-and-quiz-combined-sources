@@ -1,0 +1,1234 @@
+{
+  "id": "p1-55-pro",
+  "part": "part1",
+  "part_label": "Part 1 字首篇 (Prefixes)",
+  "name": "pro",
+  "subtitle": "向前；代替",
+  "count": 34,
+  "words": [
+    {
+      "word": "prognosticate",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to predict or foretell a future event:",
+      "defn_zh": "預言",
+      "root_note": "pro- (before) + gnosko (know)",
+      "sentences": [
+        {
+          "en": "Economists ______ that prices will keep rising throughout the year.",
+          "zh": "經濟學家預言物價將在這一年持續上漲。"
+        },
+        {
+          "en": "It is difficult to ______ exactly when the storm will hit the coast.",
+          "zh": "很難準確預言暴風雨何時會侵襲海岸。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "55",
+        "spelling": "pro",
+        "meaning": "向前；代替"
+      }
+    },
+    {
+      "word": "promulgate",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to make known officially:",
+      "defn_zh": "公布/頒布",
+      "root_note": "pro- (forth) + mulgere (to milk/extract)",
+      "sentences": [
+        {
+          "en": "The government plans to ______ the new tax law next month.",
+          "zh": "政府計畫在下個月頒布這項新的稅法。"
+        },
+        {
+          "en": "The committee will ______ the updated safety guidelines to all employees.",
+          "zh": "委員會將向所有員工公布更新後的安全準則。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "55",
+        "spelling": "pro",
+        "meaning": "向前；代替"
+      }
+    },
+    {
+      "word": "propitious",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "favorable:",
+      "defn_zh": "吉利的/有利的",
+      "root_note": "pro- (forward) + petere (to seek)",
+      "sentences": [
+        {
+          "en": "The fortune teller said it was a ______ time to start a new business.",
+          "zh": "算命師說現在是創業的吉利時機。"
+        },
+        {
+          "en": "Clear skies and calm winds made conditions ______ for the launch.",
+          "zh": "晴朗的天空與平靜的風勢使發射條件十分有利。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "55",
+        "spelling": "pro",
+        "meaning": "向前；代替"
+      }
+    },
+    {
+      "word": "progeny",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "descendants, offspring",
+      "defn_zh": "後代/子孫",
+      "root_note": "pro- (forth) + gignere (to beget)",
+      "sentences": [
+        {
+          "en": "The old oak tree has produced countless ______ scattered throughout the forest.",
+          "zh": "這棵老橡樹已經產下無數散布在森林各處的後代。"
+        },
+        {
+          "en": "The king hoped his ______ would rule the kingdom for generations to come.",
+          "zh": "國王希望他的後代子孫能世世代代統治這個王國。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "55",
+        "spelling": "pro",
+        "meaning": "向前；代替"
+      }
+    },
+    {
+      "word": "profligate",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "wasteful: (anti:frugal=economical=stingy)",
+      "defn_zh": "揮霍的/放蕩的",
+      "root_note": "pro- (forward) + fligere (to strike/dash)",
+      "sentences": [
+        {
+          "en": "His ______ spending habits left him deeply in debt within a few years.",
+          "zh": "他揮霍無度的消費習慣讓他在幾年內就債台高築。"
+        },
+        {
+          "en": "The company was criticized for its ______ use of shareholder funds.",
+          "zh": "這家公司因揮霍股東資金而受到批評。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "55",
+        "spelling": "pro",
+        "meaning": "向前；代替"
+      }
+    },
+    {
+      "word": "prohibition",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "the act of banning certain behavior:",
+      "defn_zh": "禁止",
+      "root_note": "pro- (before) + habere (to hold)",
+      "sentences": [
+        {
+          "en": "The city passed a ______ on smoking in public parks.",
+          "zh": "市政府通過了一項禁止在公園吸菸的法令。"
+        },
+        {
+          "en": "The ______ of alcohol in the 1920s led to widespread bootlegging.",
+          "zh": "1920年代的禁酒令導致私釀私售酒類的行為十分猖獗。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "55",
+        "spelling": "pro",
+        "meaning": "向前；代替"
+      }
+    },
+    {
+      "word": "prodigy",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "marvel, phenomenon:",
+      "defn_zh": "神童/奇蹟",
+      "root_note": "pro- (forth) + agium (saying/omen)",
+      "sentences": [
+        {
+          "en": "The young violinist was hailed as a musical ______.",
+          "zh": "這位年輕的小提琴手被譽為音樂神童。"
+        },
+        {
+          "en": "He was a chess ______, winning tournaments before the age of ten.",
+          "zh": "他是個西洋棋神童,不到十歲就贏得多項錦標賽冠軍。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "55",
+        "spelling": "pro",
+        "meaning": "向前；代替"
+      }
+    },
+    {
+      "word": "propagate",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to multiply, spread:",
+      "defn_zh": "傳播/繁殖",
+      "root_note": "pro- (forth) + pangere (to fasten)",
+      "sentences": [
+        {
+          "en": "Rumors tend to ______ quickly on social media.",
+          "zh": "謠言在社群媒體上往往傳播得很快。"
+        },
+        {
+          "en": "Gardeners often ______ plants by taking cuttings from a healthy stem.",
+          "zh": "園丁經常透過剪取健康莖枝來繁殖植物。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "55",
+        "spelling": "pro",
+        "meaning": "向前；代替"
+      }
+    },
+    {
+      "word": "prodigious",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "extraordinary, enormous:",
+      "defn_zh": "巨大的/驚人的",
+      "root_note": "pro- (forth) + agium (omen)",
+      "sentences": [
+        {
+          "en": "The child displayed ______ talent at the piano from a young age.",
+          "zh": "這個孩子從小就展現出驚人的鋼琴天賦。"
+        },
+        {
+          "en": "The company reported a ______ increase in profits this quarter.",
+          "zh": "這家公司公布本季獲利出現驚人的成長。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "55",
+        "spelling": "pro",
+        "meaning": "向前；代替"
+      }
+    },
+    {
+      "word": "profound",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "deep, intense:",
+      "defn_zh": "深奧的/深刻的",
+      "root_note": "pro- (forth) + fundus (bottom)",
+      "sentences": [
+        {
+          "en": "The loss of her father had a ______ effect on her writing.",
+          "zh": "父親的離世對她的寫作產生了深刻的影響。"
+        },
+        {
+          "en": "He offered a ______ insight into the nature of grief.",
+          "zh": "他對悲傷的本質提出了深刻的見解。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "55",
+        "spelling": "pro",
+        "meaning": "向前；代替"
+      }
+    },
+    {
+      "word": "propensity",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "disposition, inclination, bent:",
+      "defn_zh": "傾向/習性",
+      "root_note": "pro- (forward) + pendere (to hang)",
+      "sentences": [
+        {
+          "en": "She has a ______ for choosing the most difficult path.",
+          "zh": "她總是傾向於選擇最艱難的那條路。"
+        },
+        {
+          "en": "He showed an early ______ toward music and rhythm.",
+          "zh": "他從小就展現出對音樂與節奏的天生傾向。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "55",
+        "spelling": "pro",
+        "meaning": "向前；代替"
+      }
+    },
+    {
+      "word": "procrastinate",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to delay, put off:",
+      "defn_zh": "拖延/耽擱",
+      "root_note": "pro- (forward) + crastinus (of tomorrow)",
+      "sentences": [
+        {
+          "en": "He tends to ______ until the night before a deadline.",
+          "zh": "他總是習慣拖到截止日期前一晚才動手。"
+        },
+        {
+          "en": "She promised herself she would stop ______ing on her thesis.",
+          "zh": "她告訴自己不再拖延撰寫論文。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "55",
+        "spelling": "pro",
+        "meaning": "向前；代替"
+      }
+    },
+    {
+      "word": "proffer",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to offer for acceptance:",
+      "defn_zh": "提供/提出",
+      "root_note": "pro- (before) + offerre (to offer)",
+      "sentences": [
+        {
+          "en": "He ______ed his hand in a gesture of peace.",
+          "zh": "他伸出手,做出一個和平的示意動作。"
+        },
+        {
+          "en": "The company ______ed a generous settlement to avoid a lawsuit.",
+          "zh": "這家公司提出了一筆優渥的和解金,以避免訴訟。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "55",
+        "spelling": "pro",
+        "meaning": "向前；代替"
+      }
+    },
+    {
+      "word": "profuse",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "abundant, overflowing:",
+      "defn_zh": "豐富的/大量的",
+      "root_note": "pro- (forth) + fundere (to pour)",
+      "sentences": [
+        {
+          "en": "He offered ______ apologies for arriving so late.",
+          "zh": "他為自己遲到這麼久而不斷致歉。"
+        },
+        {
+          "en": "The garden was covered in a ______ display of spring flowers.",
+          "zh": "這座花園裡開滿了大量的春花。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "55",
+        "spelling": "pro",
+        "meaning": "向前；代替"
+      }
+    },
+    {
+      "word": "prodigal",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "wasteful; lavish",
+      "defn_zh": "揮霍的",
+      "root_note": "pro- (forth) + agere (to drive)",
+      "sentences": [
+        {
+          "en": "The ______ heir spent his entire inheritance within a few years.",
+          "zh": "這位揮霍無度的繼承人在短短幾年內就把整筆遺產花光了。"
+        },
+        {
+          "en": "His ______ spending habits eventually led him to bankruptcy.",
+          "zh": "他揮霍無度的花錢習慣最終讓他走向破產。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "55",
+        "spelling": "pro",
+        "meaning": "向前；代替"
+      }
+    },
+    {
+      "word": "proactive",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "acting in anticipation of future problems rather than reacting to them:",
+      "defn_zh": "積極主動的",
+      "root_note": "pro- (before) + active, from Latin agere (to act)",
+      "sentences": [
+        {
+          "en": "The company took a ______ approach to preventing workplace accidents.",
+          "zh": "這家公司採取積極主動的方式來預防職場意外事故。"
+        },
+        {
+          "en": "She encouraged her students to be ______ about their own learning.",
+          "zh": "她鼓勵學生對自己的學習抱持積極主動的態度。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "55",
+        "spelling": "pro",
+        "meaning": "向前；代替"
+      }
+    },
+    {
+      "word": "proclaim",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to announce officially or publicly:",
+      "defn_zh": "宣告/宣布",
+      "root_note": "pro- (forth) + clamare (to shout)",
+      "sentences": [
+        {
+          "en": "The president will ______ the new law during the ceremony tomorrow.",
+          "zh": "總統將於明天的典禮上宣布這項新法律。"
+        },
+        {
+          "en": "The king ______ a new law.",
+          "zh": "國王頒布了一項新法律。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "55",
+        "spelling": "pro",
+        "meaning": "向前；代替"
+      }
+    },
+    {
+      "word": "proclivity",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a strong inclination toward something:",
+      "defn_zh": "傾向/癖好",
+      "root_note": "pro- (forward) + clivus (slope)",
+      "sentences": [
+        {
+          "en": "He has always had a ______ for taking unnecessary risks.",
+          "zh": "他一直有著承擔不必要風險的傾向。"
+        },
+        {
+          "en": "Her ______ toward perfectionism sometimes slowed down the entire team.",
+          "zh": "她對完美主義的執著有時會拖慢整個團隊的進度。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "55",
+        "spelling": "pro",
+        "meaning": "向前；代替"
+      }
+    },
+    {
+      "word": "procure",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to obtain, acquire:",
+      "defn_zh": "取得/採購",
+      "root_note": "pro- (forth) + curare (to care for)",
+      "sentences": [
+        {
+          "en": "The chef managed to ______ rare ingredients from a local farmer.",
+          "zh": "這位主廚設法從一位當地農夫那裡取得了稀有食材。"
+        },
+        {
+          "en": "The company hired an agent to ______ office supplies at a discount.",
+          "zh": "這家公司聘請了一位代理商以優惠價格採購辦公用品。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "55",
+        "spelling": "pro",
+        "meaning": "向前；代替"
+      }
+    },
+    {
+      "word": "produce",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to create or generate something:",
+      "defn_zh": "生產/製造",
+      "root_note": "pro- (forward) + ducere (to lead)",
+      "sentences": [
+        {
+          "en": "The Ford factory ______ thousands of cars each year.",
+          "zh": "福特工廠每年生產數千輛汽車。"
+        },
+        {
+          "en": "This region's soil is fertile enough to ______ two crops a year.",
+          "zh": "這個地區的土壤十分肥沃,足以一年生產兩季作物。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "55",
+        "spelling": "pro",
+        "meaning": "向前；代替"
+      }
+    },
+    {
+      "word": "profane",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "lewd, indecent:",
+      "defn_zh": "褻瀆的/粗俗的",
+      "root_note": "pro- (outside) + fanum (temple)",
+      "sentences": [
+        {
+          "en": "The comedian's ______ language shocked the more conservative members of the audience.",
+          "zh": "這位喜劇演員粗俗不堪的言語讓觀眾中較為保守的人士感到震驚。"
+        },
+        {
+          "en": "He was asked to leave the church for his ______ remarks during the service.",
+          "zh": "他因在儀式中發表褻瀆的言論而被要求離開教堂。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "55",
+        "spelling": "pro",
+        "meaning": "向前；代替"
+      }
+    },
+    {
+      "word": "profusion",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a large quantity of something:",
+      "defn_zh": "豐富/大量",
+      "root_note": "pro- (forth) + fundere (to pour)",
+      "sentences": [
+        {
+          "en": "The garden had a ______ of flowers every spring.",
+          "zh": "這座花園每年春天都會開滿大量的花朵。"
+        },
+        {
+          "en": "The buffet offered a ______ of dishes from around the world.",
+          "zh": "這場自助餐提供了種類豐富、來自世界各地的菜餚。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "55",
+        "spelling": "pro",
+        "meaning": "向前；代替"
+      }
+    },
+    {
+      "word": "prognosis",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a forecast, especially regarding the likely course of a disease:",
+      "defn_zh": "預後;預測",
+      "root_note": "pro- (before) + gignoskein (to know), from Greek",
+      "sentences": [
+        {
+          "en": "The doctor gave a cautiously optimistic ______ after the surgery.",
+          "zh": "這位醫生在這場手術後給出了謹慎樂觀的預後評估。"
+        },
+        {
+          "en": "Economists offered a grim ______ for the coming recession.",
+          "zh": "經濟學家對這場即將到來的經濟衰退給出了嚴峻的預測。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "55",
+        "spelling": "pro",
+        "meaning": "向前；代替"
+      }
+    },
+    {
+      "word": "prognostic",
+      "pos": "adj./n.",
+      "pos_key": "adj.",
+      "defn_en": "indicating the likely future course of something:",
+      "defn_zh": "預兆的;預測性的",
+      "root_note": "pro- (before) + gignoskein (to know), from Greek",
+      "sentences": [
+        {
+          "en": "Doctors identified several ______ factors for the disease's progression.",
+          "zh": "醫生找出了幾項這種疾病病程發展的預測性因素。"
+        },
+        {
+          "en": "The dark clouds served as a ______ sign of the coming storm.",
+          "zh": "這片烏雲成了即將到來的暴風雨的預兆徵象。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "55",
+        "spelling": "pro",
+        "meaning": "向前；代替"
+      }
+    },
+    {
+      "word": "prognostication",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a prediction or forecast:",
+      "defn_zh": "預測;預言",
+      "root_note": "pro- (before) + gignoskein (to know), from Greek",
+      "sentences": [
+        {
+          "en": "The economist's ______ about the market proved accurate.",
+          "zh": "這位經濟學家對這個市場的預測結果被證明是準確的。"
+        },
+        {
+          "en": "Ancient astrologers based their ______ s on the movement of stars.",
+          "zh": "古代占星家將他們的預言建立在星辰運行之上。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "55",
+        "spelling": "pro",
+        "meaning": "向前；代替"
+      }
+    },
+    {
+      "word": "prognosticator",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a person who predicts future events:",
+      "defn_zh": "預言家;預測者",
+      "root_note": "pro- (before) + gignoskein (to know), from Greek",
+      "sentences": [
+        {
+          "en": "The weather ______ warned of an unusually harsh winter ahead.",
+          "zh": "這位氣象預測者警告即將到來一個異常嚴酷的冬天。"
+        },
+        {
+          "en": "He earned a reputation as a skilled financial ______ .",
+          "zh": "他贏得了熟練的財經預測者的名聲。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "55",
+        "spelling": "pro",
+        "meaning": "向前；代替"
+      }
+    },
+    {
+      "word": "prologue",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "an introductory section of a novel or other literary work:",
+      "defn_zh": "序言/前言",
+      "root_note": "pro- (before, Greek) + logos (speech, Greek)",
+      "sentences": [
+        {
+          "en": "The novel's ______ hints at a tragedy that will unfold later in the story.",
+          "zh": "這部小說的序言暗示了故事後續將展開的一場悲劇。"
+        },
+        {
+          "en": "She skipped the ______ and went straight to the first chapter.",
+          "zh": "她跳過了序言,直接翻到第一章。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "55",
+        "spelling": "pro",
+        "meaning": "向前；代替"
+      }
+    },
+    {
+      "word": "prolong",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to extend in duration:",
+      "defn_zh": "延長",
+      "root_note": "pro- (forward) + longus (long)",
+      "sentences": [
+        {
+          "en": "He tried to ______ the meeting from one hour to two.",
+          "zh": "他試圖將會議時間從一小時延長到兩小時。"
+        },
+        {
+          "en": "Doctors say a healthy diet can ______ your life expectancy.",
+          "zh": "醫生表示,健康的飲食能夠延長你的預期壽命。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "55",
+        "spelling": "pro",
+        "meaning": "向前；代替"
+      }
+    },
+    {
+      "word": "prominent",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "important or well-known:",
+      "defn_zh": "知名的/顯著的",
+      "root_note": "pro- (forward) + minere (to project)",
+      "sentences": [
+        {
+          "en": "Marie Curie was a ______ scientist who won many awards.",
+          "zh": "瑪麗·居禮是一位知名的科學家,曾獲得許多獎項。"
+        },
+        {
+          "en": "The scandal involved several ______ business leaders.",
+          "zh": "這起醜聞牽涉到好幾位知名的企業領袖。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "55",
+        "spelling": "pro",
+        "meaning": "向前；代替"
+      }
+    },
+    {
+      "word": "proponent",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a person who advocates or supports a cause or idea:",
+      "defn_zh": "支持者/提倡者",
+      "root_note": "pro- (forward) + ponere (to place)",
+      "sentences": [
+        {
+          "en": "She was a leading ______ of environmental conservation.",
+          "zh": "她是環境保護運動的主要提倡者。"
+        },
+        {
+          "en": "The environmentalist was a ______ of renewable energy.",
+          "zh": "這位環保人士是再生能源的支持者。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "55",
+        "spelling": "pro",
+        "meaning": "向前；代替"
+      }
+    },
+    {
+      "word": "proscribe",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to forbid, especially by law; to condemn or outlaw:",
+      "defn_zh": "禁止/取締",
+      "root_note": "pro- (forth) + scribere (to write)",
+      "sentences": [
+        {
+          "en": "The government decided to ______ the use of the harmful chemical.",
+          "zh": "政府決定禁止使用這種有害的化學物質。"
+        },
+        {
+          "en": "Local laws ______ the sale of alcohol on Sundays.",
+          "zh": "當地法律禁止在星期日銷售酒類。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "55",
+        "spelling": "pro",
+        "meaning": "向前；代替"
+      }
+    },
+    {
+      "word": "prosecute",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "conduct legal proceedings against a defendant:",
+      "defn_zh": "起訴/檢控",
+      "root_note": "pro- (forward) + sequi (to follow)",
+      "sentences": [
+        {
+          "en": "The district attorney decided to ______ the case despite limited evidence.",
+          "zh": "儘管證據有限,這位地區檢察官仍決定起訴這起案件。"
+        },
+        {
+          "en": "Prosecutors vowed to ______ anyone involved in the fraud scheme.",
+          "zh": "檢方誓言要起訴任何涉入這起詐欺案的人。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "55",
+        "spelling": "pro",
+        "meaning": "向前；代替"
+      }
+    },
+    {
+      "word": "prospect",
+      "pos": "n./v.",
+      "pos_key": "n.",
+      "defn_en": "the possibility of something happening in the future; a potential customer:",
+      "defn_zh": "前景;潛在客戶",
+      "root_note": "pro- (forward) + specere (to look), from Latin",
+      "sentences": [
+        {
+          "en": "The ______ of a promotion motivated her to work harder.",
+          "zh": "升遷的前景激勵她更加努力工作。"
+        },
+        {
+          "en": "The sales team followed up with each promising ______ .",
+          "zh": "銷售團隊對每位有潛力的客戶進行了後續追蹤。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "55",
+        "spelling": "pro",
+        "meaning": "向前；代替"
+      }
+    },
+    {
+      "word": "provoke",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to stir up or incite:",
+      "defn_zh": "激怒/激起",
+      "root_note": "pro- (forth) + vocare (to call)",
+      "sentences": [
+        {
+          "en": "Miriam's rude words ______ an argument.",
+          "zh": "米瑞安無禮的話語引發了一場爭吵。"
+        },
+        {
+          "en": "The controversial painting was designed to ______ discussion.",
+          "zh": "這幅具爭議性的畫作是刻意設計來激發討論的。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "55",
+        "spelling": "pro",
+        "meaning": "向前；代替"
+      }
+    }
+  ],
+  "family_options": {},
+  "fallback_options": {
+    "v.": [
+      {
+        "word": "abound",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to exist in great numbers:",
+        "defn_zh": "充滿"
+      },
+      {
+        "word": "abrogate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to deprive of legal force, to nullify:=abolish",
+        "defn_zh": "廢除/取消"
+      },
+      {
+        "word": "abjure",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to renounce, abstain from:",
+        "defn_zh": "發誓放棄/棄絕"
+      },
+      {
+        "word": "abbreviate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to shorten a word or phrase:",
+        "defn_zh": "縮寫;縮短"
+      },
+      {
+        "word": "abdicate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to give up a position, usually one of leadership:",
+        "defn_zh": "退位/放棄(職位)"
+      },
+      {
+        "word": "abduct",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to kidnap, take by force:",
+        "defn_zh": "綁架/劫持"
+      },
+      {
+        "word": "abhor",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to regard with disgust and hatred:",
+        "defn_zh": "憎惡/厭惡"
+      },
+      {
+        "word": "abnegate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to deny or renounce:",
+        "defn_zh": "放棄/克制"
+      },
+      {
+        "word": "abolish",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to formally put an end to a system, practice, or institution:",
+        "defn_zh": "廢除"
+      },
+      {
+        "word": "abort",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to give up on a half-finished project or effort:",
+        "defn_zh": "中止/放棄"
+      },
+      {
+        "word": "abrade",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to scrape or wear away by friction:",
+        "defn_zh": "磨損;擦傷"
+      },
+      {
+        "word": "abscond",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to sneak away and hide:",
+        "defn_zh": "潛逃/逃匿"
+      }
+    ],
+    "adj.": [
+      {
+        "word": "abortive",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "fruitless, failing:",
+        "defn_zh": "失敗的/夭折的"
+      },
+      {
+        "word": "abstemious",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "moderate in eating or drinking:",
+        "defn_zh": "飲食有節制的"
+      },
+      {
+        "word": "abhorrent",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "detestable, despised:",
+        "defn_zh": "令人厭惡的"
+      },
+      {
+        "word": "absurd",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "ridiculous:",
+        "defn_zh": "荒謬的"
+      },
+      {
+        "word": "aberrant",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "deviating from what is normal or expected:",
+        "defn_zh": "異常的;脫軌的"
+      },
+      {
+        "word": "abject",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "wretched, pitiful:",
+        "defn_zh": "卑賤的/淒慘的"
+      },
+      {
+        "word": "abominable",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "causing moral revulsion; extremely unpleasant:",
+        "defn_zh": "可憎的;惡劣的"
+      },
+      {
+        "word": "abounding",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "existing in large numbers or amounts:",
+        "defn_zh": "大量存在的;豐富的"
+      },
+      {
+        "word": "abrasive",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "showing little concern for others; harsh:",
+        "defn_zh": "粗暴的/刺耳的"
+      },
+      {
+        "word": "abrupt",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "sudden or unexpected; brief and curt in manner:",
+        "defn_zh": "突然的/唐突的"
+      },
+      {
+        "word": "abstract",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "existing purely in the mind; not representing actual reality:",
+        "defn_zh": "抽象的"
+      },
+      {
+        "word": "abstruse",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "hard to comprehend:",
+        "defn_zh": "深奧難懂的"
+      }
+    ],
+    "n.": [
+      {
+        "word": "aversion",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "strong dislike, opposition:",
+        "defn_zh": "厭惡/反感"
+      },
+      {
+        "word": "aberration",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "something that differs from the norm:",
+        "defn_zh": "異常/脫軌"
+      },
+      {
+        "word": "abjection",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a state of complete misery, hopelessness, or degradation:",
+        "defn_zh": "卑賤;悲慘狀態"
+      },
+      {
+        "word": "abjuration",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the solemn renunciation of a belief, cause, or claim:",
+        "defn_zh": "公開放棄;誓絕"
+      },
+      {
+        "word": "ablution",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the act of washing oneself, especially as part of a religious ritual:",
+        "defn_zh": "沐浴;淨身儀式"
+      },
+      {
+        "word": "abnegation",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "denial of comfort to oneself:",
+        "defn_zh": "自我克制/放棄"
+      },
+      {
+        "word": "abomination",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "something that causes disgust or hatred:",
+        "defn_zh": "可憎之事;令人厭惡的東西"
+      },
+      {
+        "word": "abridgement",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a shortened version of a book or other written work:",
+        "defn_zh": "節略本;縮減版"
+      },
+      {
+        "word": "absolution",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "freedom from blame, guilt, sin:",
+        "defn_zh": "赦免/免罪"
+      },
+      {
+        "word": "abstemiousness",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "moderation or self-restraint, especially in eating and drinking:",
+        "defn_zh": "節制;克己"
+      },
+      {
+        "word": "abstinence",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the practice of restraining oneself from something enjoyable, especially food, alcohol, or sex:",
+        "defn_zh": "節制;戒絕"
+      },
+      {
+        "word": "avocation",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a hobby or minor occupation apart from one's main career:",
+        "defn_zh": "副業;業餘愛好"
+      }
+    ],
+    "adv.": [
+      {
+        "word": "accordingly",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in a manner that fits the circumstances; consequently:",
+        "defn_zh": "相應地;因此"
+      },
+      {
+        "word": "inadvertently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "unintentionally or by accident:",
+        "defn_zh": "無意間/不小心地"
+      },
+      {
+        "word": "consequently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "as a result; therefore:",
+        "defn_zh": "因此;結果"
+      },
+      {
+        "word": "contemptuously",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "without respect; in a disdainful manner:",
+        "defn_zh": "輕蔑地"
+      },
+      {
+        "word": "involuntarily",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "done without conscious control:",
+        "defn_zh": "不由自主地"
+      },
+      {
+        "word": "cordially",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in a warm or friendly manner:",
+        "defn_zh": "誠摯地/友好地"
+      },
+      {
+        "word": "ipso facto",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "by that very fact or act:",
+        "defn_zh": "事實上;因此"
+      },
+      {
+        "word": "en passant",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in passing; incidentally:",
+        "defn_zh": "順帶一提地;偶然地"
+      },
+      {
+        "word": "regardless",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "despite the prevailing circumstances; without being deterred:",
+        "defn_zh": "不管怎樣;儘管如此"
+      },
+      {
+        "word": "subsequently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "afterward; following in time or order:",
+        "defn_zh": "隨後;其後"
+      },
+      {
+        "word": "aside",
+        "pos": "adv./n.",
+        "pos_key": "adv.",
+        "defn_en": "to or on one side; a remark not meant to be heard by everyone:",
+        "defn_zh": "在旁邊;旁白"
+      },
+      {
+        "word": "vice versa",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "with the order or meaning reversed; conversely:",
+        "defn_zh": "反之亦然"
+      }
+    ],
+    "other": [
+      {
+        "word": "（此批單字中，暫無符合此字根/字首的單字）",
+        "pos": "",
+        "pos_key": "other",
+        "defn_en": "",
+        "defn_zh": ""
+      }
+    ],
+    "prep./adv.": [
+      {
+        "word": "besides",
+        "pos": "prep./adv.",
+        "pos_key": "prep./adv.",
+        "defn_en": "in addition to; furthermore:",
+        "defn_zh": "除...之外;此外"
+      }
+    ],
+    "phrasalv.": [
+      {
+        "word": "egg on",
+        "pos": "phrasal v.",
+        "pos_key": "phrasalv.",
+        "defn_en": "to encourage someone to do something, often risky:",
+        "defn_zh": "慫恿;鼓動"
+      }
+    ],
+    "abbr.": [
+      {
+        "word": "etc.",
+        "pos": "abbr.",
+        "pos_key": "abbr.",
+        "defn_en": "and other similar things (abbreviation of et cetera):",
+        "defn_zh": "等等(et cetera的縮寫)"
+      }
+    ],
+    "interj.": [
+      {
+        "word": "fiddledeedee",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "an exclamation expressing dismissal of something as nonsense:",
+        "defn_zh": "廢話!(表示不屑一顧)"
+      },
+      {
+        "word": "gesundheit",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "an expression said to someone who has just sneezed:",
+        "defn_zh": "保重(打噴嚏後的祝福語)"
+      }
+    ],
+    "prep.": [
+      {
+        "word": "via",
+        "pos": "prep.",
+        "pos_key": "prep.",
+        "defn_en": "by way of; passing through:",
+        "defn_zh": "經由;透過"
+      }
+    ]
+  }
+}

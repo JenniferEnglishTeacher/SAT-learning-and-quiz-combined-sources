@@ -4,7 +4,7 @@
     "total_batches": 236,
     "part1_part2_batches": 159,
     "unclassified_batches": 77,
-    "generated_batches": 77
+    "generated_batches": 78
   },
   "batches": [
     {
@@ -784,7 +784,7 @@
       "name": "pro",
       "subtitle": "向前；代替",
       "count": 34,
-      "generated": false,
+      "generated": true,
       "search_terms": "prognosticate promulgate propitious progeny profligate prohibition prodigy propagate prodigious profound propensity procrastinate proffer profuse prodigal proactive proclaim proclivity procure produce profane profusion prognosis prognostic prognostication prognosticator prologue prolong prominent proponent proscribe prosecute prospect provoke"
     },
     {
