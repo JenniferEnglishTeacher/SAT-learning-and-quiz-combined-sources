@@ -4,7 +4,7 @@
     "total_batches": 236,
     "part1_part2_batches": 159,
     "unclassified_batches": 77,
-    "generated_batches": 118
+    "generated_batches": 119
   },
   "batches": [
     {
@@ -1194,7 +1194,7 @@
       "name": "pend",
       "subtitle": "懸掛",
       "count": 11,
-      "generated": false,
+      "generated": true,
       "search_terms": "propensity pensive penchant appendix compendious compendium dispensation expend expensive impending inexpensive"
     },
     {
