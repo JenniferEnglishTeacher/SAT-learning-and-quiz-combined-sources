@@ -4,7 +4,7 @@
     "total_batches": 236,
     "part1_part2_batches": 159,
     "unclassified_batches": 77,
-    "generated_batches": 108
+    "generated_batches": 109
   },
   "batches": [
     {
@@ -1092,10 +1092,10 @@
       "part": "part2",
       "part_label": "Part 2 字根篇 (Roots)",
       "name": "join(t)；junct",
-      "subtitle": "連接；結合",
-      "count": 3,
-      "generated": false,
-      "search_terms": "joyful joyous rejoinder"
+      "subtitle": "連接；結合；聯盟",
+      "count": 12,
+      "generated": true,
+      "search_terms": "juncture adjunct conjunction disjunction injunction subjugate coalesce alliance amalgamate nexus synchronize liaison"
     },
     {
       "id": "p2-25-lec-t",

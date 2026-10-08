@@ -1,0 +1,151 @@
+{
+  "id": "p2-24-join-t-junct",
+  "name": "join(t)；junct",
+  "subtitle": "連接；結合；聯盟",
+  "words": [
+    {
+      "word": "juncture", "pos": "n.", "pos_key": "n.",
+      "defn_en": "a particular point in time, especially an important or critical one, or a place where things join:",
+      "defn_zh": "關鍵時刻；接合點；交叉處",
+      "root_note": "junct (to join) + -ure (act, process, or state)",
+      "synonyms": ["turning point", "crossroads", "intersection", "stage"], "antonyms": ["separation", "continuity"],
+      "sentences": [
+        {"en": "At this critical ______ in the international peace negotiations, a single aggressive comment could destroy months of fragile diplomatic progress.", "zh": "在國際和平談判的這一關鍵時刻，任何挑釁性言論都可能徹底摧毀數月來脆弱的外交進展。"},
+        {"en": "The hikers halted at the geographical ______ where three mountain trails met and carefully consulted their map.", "zh": "登山客在三條山路交會的地理交叉點停下來，仔細查閱地圖。"}
+      ],
+      "category": {"part": 2, "num": "24", "spelling": "join(t)；junct", "meaning": "連接；結合；聯盟"}
+    },
+    {
+      "word": "adjunct", "pos": "n. / adj.", "pos_key": "n.",
+      "defn_en": "something added to another thing but secondary to it, or a person serving in a temporary or subordinate role:",
+      "defn_zh": "附屬物；附加部分；兼任的；附屬的",
+      "root_note": "ad- (to or toward) + junct (to join)",
+      "synonyms": ["addition", "supplement", "accessory", "appendage"], "antonyms": ["main component", "essential part"],
+      "sentences": [
+        {"en": "To supplement his income, the scholar accepted a position as an ______ professor while completing his doctoral dissertation.", "zh": "為了補貼收入，這位學者在完成博士論文期間接受了兼任教授的職位。"},
+        {"en": "The luxury hotel built a modern spa as an attractive ______ to its main resort building.", "zh": "這家豪華飯店建造現代化水療中心，作為主度假樓的附加設施。"}
+      ],
+      "category": {"part": 2, "num": "24", "spelling": "join(t)；junct", "meaning": "連接；結合；聯盟"}
+    },
+    {
+      "word": "conjunction", "pos": "n.", "pos_key": "n.",
+      "defn_en": "the act or state of joining, a word that connects grammatical units, or an apparent alignment of celestial objects:",
+      "defn_zh": "結合；連接詞；合相；同時發生",
+      "root_note": "con- (together or with) + junct (to join) + -ion (act or state)",
+      "synonyms": ["combination", "union", "connection", "alignment"], "antonyms": ["separation", "disjunction"],
+      "sentences": [
+        {"en": "The local charity worked in close ______ with municipal food banks to distribute thousands of holiday meals across the city.", "zh": "當地慈善機構與市立食物銀行緊密合作，向全市低收入家庭分發數千份節日餐點。"},
+        {"en": "Astronomers gathered at the observatory to witness a rare planetary ______ involving Jupiter and Saturn.", "zh": "天文學家聚集在天文台，觀看木星與土星罕見的行星合相。"}
+      ],
+      "category": {"part": 2, "num": "24", "spelling": "join(t)；junct", "meaning": "連接；結合；聯盟"}
+    },
+    {
+      "word": "disjunction", "pos": "n.", "pos_key": "n.",
+      "defn_en": "a separation, lack of connection, or inconsistency between two things:",
+      "defn_zh": "脫節；分離；不一致",
+      "root_note": "dis- (apart or away) + junct (to join) + -ion (state)",
+      "synonyms": ["disconnect", "separation", "division", "inconsistency"], "antonyms": ["conjunction", "connection", "unity"],
+      "sentences": [
+        {"en": "Analysts noted a sharp ______ between the senator's progressive speeches and his conservative voting record.", "zh": "分析家指出，這位參議員進步的演說與保守的投票紀錄之間存在明顯脫節。"},
+        {"en": "The report highlighted the troubling ______ between soaring corporate profits and stagnant employee wages.", "zh": "報告強調，企業利潤飆升與員工薪資停滯之間存在令人擔憂的不一致。"}
+      ],
+      "category": {"part": 2, "num": "24", "spelling": "join(t)；junct", "meaning": "連接；結合；聯盟"}
+    },
+    {
+      "word": "injunction", "pos": "n.", "pos_key": "n.",
+      "defn_en": "an official court order requiring someone to do or stop doing something, or an authoritative command:",
+      "defn_zh": "法院禁令；強制令；命令；戒律",
+      "root_note": "in- (upon or against) + junct (to join or bind) + -ion (act or state)",
+      "synonyms": ["court order", "command", "directive", "prohibition"], "antonyms": ["permission", "authorization"],
+      "sentences": [
+        {"en": "The environmental group obtained a court ______ that temporarily blocked the company from cutting down ancient trees.", "zh": "環保組織取得法院禁令，在生態評估完成前暫時阻止公司砍伐古樹。"},
+        {"en": "The community's strict moral ______ forbade members from using modern electronic devices.", "zh": "該社群嚴格的道德戒律禁止成員使用現代電子設備。"}
+      ],
+      "category": {"part": 2, "num": "24", "spelling": "join(t)；junct", "meaning": "連接；結合；聯盟"}
+    },
+    {
+      "word": "subjugate", "pos": "v.", "pos_key": "v.",
+      "defn_en": "to bring a person or country under complete control, especially by force:",
+      "defn_zh": "征服；使屈服；奴役；壓制",
+      "root_note": "sub- (under) + jug (yoke or bind together) + -ate (make or cause)",
+      "synonyms": ["conquer", "enslave", "dominate", "suppress"], "antonyms": ["liberate", "free", "emancipate"],
+      "sentences": [
+        {"en": "The ruthless emperor deployed a massive armada to ______ the neighboring island nations and strip away their autonomy.", "zh": "殘酷的皇帝派遣龐大艦隊征服鄰近島國，並剝奪其自治權。"},
+        {"en": "Dictators have often used censorship and police surveillance to ______ citizens and crush potential revolutions.", "zh": "獨裁者經常利用審查和警察監控來壓制公民，並消滅潛在革命。"}
+      ],
+      "category": {"part": 2, "num": "24", "spelling": "join(t)；junct", "meaning": "連接；結合；聯盟"}
+    },
+    {
+      "word": "coalesce", "pos": "v.", "pos_key": "v.",
+      "defn_en": "to come together and form one larger group, mass, or whole:",
+      "defn_zh": "合併；聯合；凝聚；融合",
+      "root_note": "co- (together) + alescere (to grow)",
+      "synonyms": ["merge", "unite", "combine", "converge"], "antonyms": ["separate", "divide", "disperse"],
+      "sentences": [
+        {"en": "The student protesters began to ______ into a unified political front when the university raised tuition fees.", "zh": "大學提高學費後，學生抗議者開始凝聚成統一的政治陣線。"},
+        {"en": "Cosmic dust particles can slowly ______ over millions of years and eventually form stars and planets.", "zh": "宇宙塵埃顆粒可在數百萬年間緩慢匯聚，最終形成恆星和行星。"}
+      ],
+      "category": {"part": 2, "num": "24", "spelling": "join(t)；junct", "meaning": "連接；結合；聯盟"}
+    },
+    {
+      "word": "alliance", "pos": "n.", "pos_key": "n.",
+      "defn_en": "an agreement or relationship between people, groups, or countries to cooperate and support one another:",
+      "defn_zh": "聯盟；同盟；合作關係",
+      "root_note": "ad- (to or toward) + ligare (to bind or tie)",
+      "synonyms": ["coalition", "partnership", "union", "pact"], "antonyms": ["rivalry", "hostility", "opposition"],
+      "sentences": [
+        {"en": "The two rival technology companies formed a strategic ______ to co-develop open-source artificial intelligence software.", "zh": "兩家競爭的科技公司結成戰略聯盟，共同開發開源人工智慧軟體。"},
+        {"en": "The defensive military ______ deterred foreign aggression and maintained regional stability for decades.", "zh": "防禦性軍事同盟成功嚇阻外國侵略，並維持數十年的區域穩定。"}
+      ],
+      "category": {"part": 2, "num": "24", "spelling": "join(t)；junct", "meaning": "連接；結合；聯盟"}
+    },
+    {
+      "word": "amalgamate", "pos": "v.", "pos_key": "v.",
+      "defn_en": "to combine two or more organizations, substances, or ideas into one:",
+      "defn_zh": "合併；混合；融合",
+      "root_note": "from amalgama, a mixture or alloy of metals",
+      "synonyms": ["merge", "combine", "unify", "blend"], "antonyms": ["separate", "divide", "dissolve"],
+      "sentences": [
+        {"en": "The directors voted to ______ the two regional banks into a single national corporation.", "zh": "董事會投票決定將兩家區域銀行合併成一家全國性公司。"},
+        {"en": "The chef loved to ______ traditional French techniques with vibrant Mexican spices.", "zh": "這位廚師喜歡把傳統法國烹飪技巧與鮮明的墨西哥香料融合在一起。"}
+      ],
+      "category": {"part": 2, "num": "24", "spelling": "join(t)；junct", "meaning": "連接；結合；聯盟"}
+    },
+    {
+      "word": "nexus", "pos": "n.", "pos_key": "n.",
+      "defn_en": "a central connection, link, or network among several people or things:",
+      "defn_zh": "連結；關係網；核心；樞紐",
+      "root_note": "nectere or nex (to bind or connect)",
+      "synonyms": ["link", "connection", "hub", "network"], "antonyms": ["disconnection", "isolation"],
+      "sentences": [
+        {"en": "The downtown station serves as the central ______ of the city's transit system, joining subway lines, buses, and commuter trains.", "zh": "市中心車站是整個城市大眾運輸系統的中央樞紐，連接地鐵、公車和通勤列車。"},
+        {"en": "Journalists discovered that the casino was the ______ of a global money-laundering operation.", "zh": "記者發現，這家賭場其實是一個全球洗錢網絡的核心。"}
+      ],
+      "category": {"part": 2, "num": "24", "spelling": "join(t)；junct", "meaning": "連接；結合；聯盟"}
+    },
+    {
+      "word": "synchronize", "pos": "v.", "pos_key": "v.",
+      "defn_en": "to make two or more things happen, move, or operate at the same time or rate:",
+      "defn_zh": "使同步；對時；同時發生",
+      "root_note": "syn- (together) + chron (time) + -ize (cause to become)",
+      "synonyms": ["coordinate", "align", "time", "harmonize"], "antonyms": ["desynchronize", "misalign", "disrupt"],
+      "sentences": [
+        {"en": "Before the operation, the team met to ______ their watches so every action would occur at the exact planned second.", "zh": "行動前，小組先為手錶對時，確保每個動作都在預定的精確秒數發生。"},
+        {"en": "The update allowed the tablet to ______ its cloud data automatically with the user's smartphone.", "zh": "更新後，平板電腦可自動把雲端資料與使用者的智慧型手機同步。"}
+      ],
+      "category": {"part": 2, "num": "24", "spelling": "join(t)；junct", "meaning": "連接；結合；聯盟"}
+    },
+    {
+      "word": "liaison", "pos": "n.", "pos_key": "n.",
+      "defn_en": "communication or cooperation between people or groups, or a person who helps them communicate:",
+      "defn_zh": "聯絡；合作；聯絡人；溝通橋梁",
+      "root_note": "Old French lier, from Latin ligare (to bind or tie together)",
+      "synonyms": ["contact", "intermediary", "coordinator", "link"], "antonyms": ["barrier", "separation", "disconnect"],
+      "sentences": [
+        {"en": "Because she spoke both languages fluently, Maria was hired as the official ______ between the foreign embassy and the local government.", "zh": "由於瑪麗亞精通兩種語言，她獲聘為外國大使館與地方政府之間的官方聯絡人。"},
+        {"en": "The public relations officer served as a vital ______ during the product recall crisis.", "zh": "在產品召回危機期間，公關人員擔任至關重要的溝通橋梁。"}
+      ],
+      "category": {"part": 2, "num": "24", "spelling": "join(t)；junct", "meaning": "連接；結合；聯盟"}
+    }
+  ]
+}
