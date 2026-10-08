@@ -4,7 +4,7 @@
     "total_batches": 236,
     "part1_part2_batches": 159,
     "unclassified_batches": 77,
-    "generated_batches": 92
+    "generated_batches": 93
   },
   "batches": [
     {
@@ -934,7 +934,7 @@
       "name": "cad；cas；cid",
       "subtitle": "降落",
       "count": 19,
-      "generated": false,
+      "generated": true,
       "search_terms": "decadence incidental accident broadcast cadaver cadaverous cadence castellated castellation castigation casuistry chasten chastisement coincident decadent deciduous downcast forecast incident"
     },
     {

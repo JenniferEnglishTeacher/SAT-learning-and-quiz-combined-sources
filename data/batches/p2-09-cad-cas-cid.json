@@ -1,0 +1,874 @@
+{
+  "id": "p2-09-cad-cas-cid",
+  "part": "part2",
+  "part_label": "Part 2 字根篇 (Roots)",
+  "name": "cad；cas；cid",
+  "subtitle": "降落",
+  "count": 19,
+  "words": [
+    {
+      "word": "decadence",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "self-indulgence:",
+      "defn_zh": "墮落/衰退",
+      "root_note": "de- (down) + cadere (to fall)",
+      "sentences": [
+        {
+          "en": "The lavish party was criticized as a symbol of the empire's ______.",
+          "zh": "這場奢華的派對被批評為這個帝國走向墮落的象徵。"
+        },
+        {
+          "en": "The novel explores the ______ of the wealthy elite in the 1920s.",
+          "zh": "這部小說探討了1920年代富裕菁英階層的墮落生活。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "09",
+        "spelling": "cad；cas；cid",
+        "meaning": "降落"
+      }
+    },
+    {
+      "word": "incidental",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "less important; minor",
+      "defn_zh": "附帶的",
+      "root_note": "in- (upon) + cadere (to fall)",
+      "sentences": [
+        {
+          "en": "The main plot focused on the war, with romance as an ______ subplot.",
+          "zh": "主要劇情聚焦於戰爭,愛情故事只是附帶的次要情節。"
+        },
+        {
+          "en": "Any ______ expenses during the trip will be reimbursed by the company.",
+          "zh": "這趟旅程中任何附帶的花費,公司都會予以報銷。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "09",
+        "spelling": "cad；cas；cid",
+        "meaning": "降落"
+      }
+    },
+    {
+      "word": "accident",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "an unfortunate mishap:",
+      "defn_zh": "意外事故",
+      "root_note": "ac- (to) + cadere (to fall)",
+      "sentences": [
+        {
+          "en": "The car ______ on the highway caused a long traffic jam.",
+          "zh": "高速公路上的這起車禍造成了長時間的交通壅塞。"
+        },
+        {
+          "en": "It was pure ______ that the two old friends ran into each other at the airport.",
+          "zh": "這兩位老朋友在機場巧遇,純屬意外。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "09",
+        "spelling": "cad；cas；cid",
+        "meaning": "降落"
+      }
+    },
+    {
+      "word": "broadcast",
+      "pos": "v./n.",
+      "pos_key": "v.",
+      "defn_en": "to transmit a program by radio or television; such a transmission:",
+      "defn_zh": "廣播;播送",
+      "root_note": "broad + cast (to scatter)",
+      "sentences": [
+        {
+          "en": "The station will ______ the game live starting at seven.",
+          "zh": "電台將於七點開始現場轉播這場比賽。"
+        },
+        {
+          "en": "Millions tuned in to watch the historic ______.",
+          "zh": "數百萬人收看了這場具有歷史意義的轉播。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "09",
+        "spelling": "cad；cas；cid",
+        "meaning": "降落"
+      }
+    },
+    {
+      "word": "cadaver",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "the dead body of a human being:",
+      "defn_zh": "屍體",
+      "root_note": "cadere (to fall)",
+      "sentences": [
+        {
+          "en": "Medical students study a human ______ to learn anatomy.",
+          "zh": "醫學院學生研究人體屍體以學習解剖學。"
+        },
+        {
+          "en": "The morgue kept careful records of every ______ it received.",
+          "zh": "太平間仔細記錄了每一具送來的屍體。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "09",
+        "spelling": "cad；cas；cid",
+        "meaning": "降落"
+      }
+    },
+    {
+      "word": "cadaverous",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "of or relating to a corpse:",
+      "defn_zh": "屍體般的/枯槁蒼白的",
+      "root_note": "cadere (to fall)",
+      "sentences": [
+        {
+          "en": "After weeks without proper food, the prisoner's face had grown ______.",
+          "zh": "在數週缺乏正常飲食後,這名囚犯的臉變得枯槁蒼白如屍。"
+        },
+        {
+          "en": "The actor's ______ makeup was perfect for the horror film role.",
+          "zh": "這位演員蒼白如屍的妝容非常適合這部恐怖片的角色。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "09",
+        "spelling": "cad；cas；cid",
+        "meaning": "降落"
+      }
+    },
+    {
+      "word": "cadence",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a rhythm, progression of sound:",
+      "defn_zh": "節奏/韻律",
+      "root_note": "cadere (to fall)",
+      "sentences": [
+        {
+          "en": "The soldiers marched in a steady ______ across the field.",
+          "zh": "士兵們以穩定的節奏踏步走過這片田野。"
+        },
+        {
+          "en": "Her speech had a gentle ______ that put the audience at ease.",
+          "zh": "她的演說帶著輕柔的韻律,讓聽眾感到放鬆。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "09",
+        "spelling": "cad；cas；cid",
+        "meaning": "降落"
+      }
+    },
+    {
+      "word": "castellated",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "built with battlements like a castle:",
+      "defn_zh": "有城垛的;城堡式的",
+      "root_note": "castellum (small fort, from Latin)",
+      "sentences": [
+        {
+          "en": "The wealthy merchant built a ______ mansion to impress his rivals.",
+          "zh": "這位富商建造了一座城堡式的豪宅,好讓對手刮目相看。"
+        },
+        {
+          "en": "Tourists photograph the ______ walls of the medieval fortress every summer.",
+          "zh": "每年夏天,遊客都會拍攝這座中世紀堡壘上帶有城垛的城牆。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "09",
+        "spelling": "cad；cas；cid",
+        "meaning": "降落"
+      }
+    },
+    {
+      "word": "castellation",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "battlement-like structures on top of a wall or building:",
+      "defn_zh": "城垛結構",
+      "root_note": "castellum (small fort, from Latin)",
+      "sentences": [
+        {
+          "en": "Workers carefully restored the crumbling ______ atop the ancient wall.",
+          "zh": "工人們細心修復了這道古老城牆頂端逐漸崩塌的城垛結構。"
+        },
+        {
+          "en": "The architect added decorative ______ purely for aesthetic effect, not defense.",
+          "zh": "這位建築師增添了裝飾性的城垛結構,純粹是為了美觀,而非防禦。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "09",
+        "spelling": "cad；cas；cid",
+        "meaning": "降落"
+      }
+    },
+    {
+      "word": "castigation",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "severe criticism or punishment:",
+      "defn_zh": "嚴厲斥責;懲罰",
+      "root_note": "castigare (to correct, punish), from Latin",
+      "sentences": [
+        {
+          "en": "The coach's harsh ______ after the loss left several players in tears.",
+          "zh": "教練在敗仗後嚴厲的斥責,讓好幾位球員落淚。"
+        },
+        {
+          "en": "His public ______ of the intern seemed excessive for such a minor mistake.",
+          "zh": "他公開嚴厲斥責這名實習生,對於這麼小的錯誤來說似乎過於嚴苛。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "09",
+        "spelling": "cad；cas；cid",
+        "meaning": "降落"
+      }
+    },
+    {
+      "word": "casuistry",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "excessively subtle or misleading reasoning, especially about moral questions:",
+      "defn_zh": "詭辯;似是而非的推理",
+      "root_note": "casus (case, from Latin)",
+      "sentences": [
+        {
+          "en": "Critics accused the lawyer of pure ______ in twisting the contract's plain meaning.",
+          "zh": "評論家指責這位律師純粹在詭辯,扭曲了合約明明白白的意思。"
+        },
+        {
+          "en": "The philosophy professor challenged students to distinguish sound ethics from mere ______.",
+          "zh": "這位哲學教授要求學生分辨真正健全的倫理學,與純粹的詭辯之間的區別。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "09",
+        "spelling": "cad；cas；cid",
+        "meaning": "降落"
+      }
+    },
+    {
+      "word": "chasten",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to discipline or correct through reproof; to restrain:",
+      "defn_zh": "懲戒;抑制",
+      "root_note": "castigare (to punish, from Latin)",
+      "sentences": [
+        {
+          "en": "The harsh review seemed to ______ the young writer into revising his style.",
+          "zh": "這篇嚴厲的評論,似乎讓這位年輕作家改變了自己的寫作風格。"
+        },
+        {
+          "en": "Losing the championship ______ed the team's overconfidence.",
+          "zh": "在錦標賽中落敗,讓球隊過度的自信收斂了不少。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "09",
+        "spelling": "cad；cas；cid",
+        "meaning": "降落"
+      }
+    },
+    {
+      "word": "chastisement",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "severe criticism or punishment:",
+      "defn_zh": "懲罰;責罰",
+      "root_note": "castigare (to punish, from Latin)",
+      "sentences": [
+        {
+          "en": "The soldier accepted his commander's ______ without complaint.",
+          "zh": "這名士兵毫無怨言地接受了長官的責罰。"
+        },
+        {
+          "en": "Public ______ rarely improves a child's long-term behavior.",
+          "zh": "公開的責罰,很少能真正改善孩子長期的行為。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "09",
+        "spelling": "cad；cas；cid",
+        "meaning": "降落"
+      }
+    },
+    {
+      "word": "coincident",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "occurring or operating at the same time:",
+      "defn_zh": "同時發生的",
+      "root_note": "co- (together) + in- (upon) + cadere (to fall)",
+      "sentences": [
+        {
+          "en": "The rise in sales was ______ with the launch of the new ad campaign.",
+          "zh": "銷售量的上升與新廣告宣傳活動的推出恰好同時發生。"
+        },
+        {
+          "en": "Her promotion was merely ______ with the company's restructuring, not caused by it.",
+          "zh": "她的升遷只是恰巧與公司重組同時發生,並非因此而起。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "09",
+        "spelling": "cad；cas；cid",
+        "meaning": "降落"
+      }
+    },
+    {
+      "word": "decadent",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "relating to indulgence in something pleasurable:",
+      "defn_zh": "頹廢的/奢靡享樂的",
+      "root_note": "de- (down) + cadere (to fall)",
+      "sentences": [
+        {
+          "en": "The dessert menu offered a truly ______ chocolate cake.",
+          "zh": "這份甜點菜單提供了一款極其奢華享樂的巧克力蛋糕。"
+        },
+        {
+          "en": "The novel captures the ______ lifestyle of the wealthy elite in the 1920s.",
+          "zh": "這部小說捕捉了1920年代富裕菁英階層那種奢靡頹廢的生活方式。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "09",
+        "spelling": "cad；cas；cid",
+        "meaning": "降落"
+      }
+    },
+    {
+      "word": "deciduous",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "shedding foliage at the end of the growing season:",
+      "defn_zh": "落葉性的",
+      "root_note": "de- (down) + cadere (to fall)",
+      "sentences": [
+        {
+          "en": "Maple trees are a common ______ species found throughout the region.",
+          "zh": "楓樹是這個地區常見的一種落葉樹種。"
+        },
+        {
+          "en": "The forest turns brilliant shades of orange and red as its ______ trees change color each autumn.",
+          "zh": "每到秋天,這片森林裡的落葉樹木變色,轉為絢麗的橙紅色調。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "09",
+        "spelling": "cad；cas；cid",
+        "meaning": "降落"
+      }
+    },
+    {
+      "word": "downcast",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "feeling sad or dejected; directed downward:",
+      "defn_zh": "沮喪的;垂頭喪氣的",
+      "root_note": "down + cast, from Old English",
+      "sentences": [
+        {
+          "en": "He walked away with a ______ expression after the rejection.",
+          "zh": "被拒絕後,他帶著沮喪的表情離開了。"
+        },
+        {
+          "en": "Her ______ eyes revealed her disappointment.",
+          "zh": "她低垂的雙眼透露出失望之情。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "09",
+        "spelling": "cad；cas；cid",
+        "meaning": "降落"
+      }
+    },
+    {
+      "word": "forecast",
+      "pos": "n./v.",
+      "pos_key": "n.",
+      "defn_en": "a prediction, especially of weather or trends:",
+      "defn_zh": "預測;預報",
+      "root_note": "fore- (before) + cast, from Old English + Old Norse",
+      "sentences": [
+        {
+          "en": "The weather ______ predicted heavy rain this weekend.",
+          "zh": "天氣預報預測本週末將有大雨。"
+        },
+        {
+          "en": "Analysts ______ modest growth for the next quarter.",
+          "zh": "分析師預測下一季將呈現溫和的成長。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "09",
+        "spelling": "cad；cas；cid",
+        "meaning": "降落"
+      }
+    },
+    {
+      "word": "incident",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a single distinct event:",
+      "defn_zh": "事件/事故",
+      "root_note": "in- (upon) + cadere (to fall)",
+      "sentences": [
+        {
+          "en": "The school reported the ______ to the police immediately.",
+          "zh": "這所學校立刻將這起事件呈報給警方。"
+        },
+        {
+          "en": "No one was hurt in the minor traffic ______.",
+          "zh": "在這起輕微的交通事故中沒有人受傷。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "09",
+        "spelling": "cad；cas；cid",
+        "meaning": "降落"
+      }
+    }
+  ],
+  "family_options": {},
+  "fallback_options": {
+    "v.": [
+      {
+        "word": "abound",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to exist in great numbers:",
+        "defn_zh": "充滿"
+      },
+      {
+        "word": "abrogate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to deprive of legal force, to nullify:=abolish",
+        "defn_zh": "廢除/取消"
+      },
+      {
+        "word": "abjure",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to renounce, abstain from:",
+        "defn_zh": "發誓放棄/棄絕"
+      },
+      {
+        "word": "abbreviate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to shorten a word or phrase:",
+        "defn_zh": "縮寫;縮短"
+      },
+      {
+        "word": "abdicate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to give up a position, usually one of leadership:",
+        "defn_zh": "退位/放棄(職位)"
+      },
+      {
+        "word": "abduct",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to kidnap, take by force:",
+        "defn_zh": "綁架/劫持"
+      },
+      {
+        "word": "abhor",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to regard with disgust and hatred:",
+        "defn_zh": "憎惡/厭惡"
+      },
+      {
+        "word": "abnegate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to deny or renounce:",
+        "defn_zh": "放棄/克制"
+      },
+      {
+        "word": "abolish",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to formally put an end to a system, practice, or institution:",
+        "defn_zh": "廢除"
+      },
+      {
+        "word": "abort",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to give up on a half-finished project or effort:",
+        "defn_zh": "中止/放棄"
+      },
+      {
+        "word": "abrade",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to scrape or wear away by friction:",
+        "defn_zh": "磨損;擦傷"
+      },
+      {
+        "word": "abscond",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to sneak away and hide:",
+        "defn_zh": "潛逃/逃匿"
+      }
+    ],
+    "adj.": [
+      {
+        "word": "abortive",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "fruitless, failing:",
+        "defn_zh": "失敗的/夭折的"
+      },
+      {
+        "word": "abstemious",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "moderate in eating or drinking:",
+        "defn_zh": "飲食有節制的"
+      },
+      {
+        "word": "abhorrent",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "detestable, despised:",
+        "defn_zh": "令人厭惡的"
+      },
+      {
+        "word": "absurd",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "ridiculous:",
+        "defn_zh": "荒謬的"
+      },
+      {
+        "word": "aberrant",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "deviating from what is normal or expected:",
+        "defn_zh": "異常的;脫軌的"
+      },
+      {
+        "word": "abject",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "wretched, pitiful:",
+        "defn_zh": "卑賤的/淒慘的"
+      },
+      {
+        "word": "abominable",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "causing moral revulsion; extremely unpleasant:",
+        "defn_zh": "可憎的;惡劣的"
+      },
+      {
+        "word": "abounding",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "existing in large numbers or amounts:",
+        "defn_zh": "大量存在的;豐富的"
+      },
+      {
+        "word": "abrasive",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "showing little concern for others; harsh:",
+        "defn_zh": "粗暴的/刺耳的"
+      },
+      {
+        "word": "abrupt",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "sudden or unexpected; brief and curt in manner:",
+        "defn_zh": "突然的/唐突的"
+      },
+      {
+        "word": "abstract",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "existing purely in the mind; not representing actual reality:",
+        "defn_zh": "抽象的"
+      },
+      {
+        "word": "abstruse",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "hard to comprehend:",
+        "defn_zh": "深奧難懂的"
+      }
+    ],
+    "n.": [
+      {
+        "word": "aversion",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "strong dislike, opposition:",
+        "defn_zh": "厭惡/反感"
+      },
+      {
+        "word": "aberration",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "something that differs from the norm:",
+        "defn_zh": "異常/脫軌"
+      },
+      {
+        "word": "abjection",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a state of complete misery, hopelessness, or degradation:",
+        "defn_zh": "卑賤;悲慘狀態"
+      },
+      {
+        "word": "abjuration",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the solemn renunciation of a belief, cause, or claim:",
+        "defn_zh": "公開放棄;誓絕"
+      },
+      {
+        "word": "ablution",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the act of washing oneself, especially as part of a religious ritual:",
+        "defn_zh": "沐浴;淨身儀式"
+      },
+      {
+        "word": "abnegation",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "denial of comfort to oneself:",
+        "defn_zh": "自我克制/放棄"
+      },
+      {
+        "word": "abomination",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "something that causes disgust or hatred:",
+        "defn_zh": "可憎之事;令人厭惡的東西"
+      },
+      {
+        "word": "abridgement",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a shortened version of a book or other written work:",
+        "defn_zh": "節略本;縮減版"
+      },
+      {
+        "word": "absolution",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "freedom from blame, guilt, sin:",
+        "defn_zh": "赦免/免罪"
+      },
+      {
+        "word": "abstemiousness",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "moderation or self-restraint, especially in eating and drinking:",
+        "defn_zh": "節制;克己"
+      },
+      {
+        "word": "abstinence",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the practice of restraining oneself from something enjoyable, especially food, alcohol, or sex:",
+        "defn_zh": "節制;戒絕"
+      },
+      {
+        "word": "avocation",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a hobby or minor occupation apart from one's main career:",
+        "defn_zh": "副業;業餘愛好"
+      }
+    ],
+    "adv.": [
+      {
+        "word": "accordingly",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in a manner that fits the circumstances; consequently:",
+        "defn_zh": "相應地;因此"
+      },
+      {
+        "word": "inadvertently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "unintentionally or by accident:",
+        "defn_zh": "無意間/不小心地"
+      },
+      {
+        "word": "consequently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "as a result; therefore:",
+        "defn_zh": "因此;結果"
+      },
+      {
+        "word": "contemptuously",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "without respect; in a disdainful manner:",
+        "defn_zh": "輕蔑地"
+      },
+      {
+        "word": "involuntarily",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "done without conscious control:",
+        "defn_zh": "不由自主地"
+      },
+      {
+        "word": "cordially",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in a warm or friendly manner:",
+        "defn_zh": "誠摯地/友好地"
+      },
+      {
+        "word": "ipso facto",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "by that very fact or act:",
+        "defn_zh": "事實上;因此"
+      },
+      {
+        "word": "en passant",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in passing; incidentally:",
+        "defn_zh": "順帶一提地;偶然地"
+      },
+      {
+        "word": "regardless",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "despite the prevailing circumstances; without being deterred:",
+        "defn_zh": "不管怎樣;儘管如此"
+      },
+      {
+        "word": "subsequently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "afterward; following in time or order:",
+        "defn_zh": "隨後;其後"
+      },
+      {
+        "word": "aside",
+        "pos": "adv./n.",
+        "pos_key": "adv.",
+        "defn_en": "to or on one side; a remark not meant to be heard by everyone:",
+        "defn_zh": "在旁邊;旁白"
+      },
+      {
+        "word": "vice versa",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "with the order or meaning reversed; conversely:",
+        "defn_zh": "反之亦然"
+      }
+    ],
+    "other": [
+      {
+        "word": "（此批單字中，暫無符合此字根/字首的單字）",
+        "pos": "",
+        "pos_key": "other",
+        "defn_en": "",
+        "defn_zh": ""
+      }
+    ],
+    "prep./adv.": [
+      {
+        "word": "besides",
+        "pos": "prep./adv.",
+        "pos_key": "prep./adv.",
+        "defn_en": "in addition to; furthermore:",
+        "defn_zh": "除...之外;此外"
+      }
+    ],
+    "phrasalv.": [
+      {
+        "word": "egg on",
+        "pos": "phrasal v.",
+        "pos_key": "phrasalv.",
+        "defn_en": "to encourage someone to do something, often risky:",
+        "defn_zh": "慫恿;鼓動"
+      }
+    ],
+    "abbr.": [
+      {
+        "word": "etc.",
+        "pos": "abbr.",
+        "pos_key": "abbr.",
+        "defn_en": "and other similar things (abbreviation of et cetera):",
+        "defn_zh": "等等(et cetera的縮寫)"
+      }
+    ],
+    "interj.": [
+      {
+        "word": "fiddledeedee",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "an exclamation expressing dismissal of something as nonsense:",
+        "defn_zh": "廢話!(表示不屑一顧)"
+      },
+      {
+        "word": "gesundheit",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "an expression said to someone who has just sneezed:",
+        "defn_zh": "保重(打噴嚏後的祝福語)"
+      }
+    ],
+    "prep.": [
+      {
+        "word": "via",
+        "pos": "prep.",
+        "pos_key": "prep.",
+        "defn_en": "by way of; passing through:",
+        "defn_zh": "經由;透過"
+      }
+    ]
+  }
+}
