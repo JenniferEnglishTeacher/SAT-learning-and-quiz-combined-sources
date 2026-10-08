@@ -1,0 +1,898 @@
+{
+  "id": "p2-40-rect-reg",
+  "part": "part2",
+  "part_label": "Part 2 字根篇 (Roots)",
+  "name": "rect；reg",
+  "subtitle": "正；直",
+  "count": 20,
+  "words": [
+    {
+      "word": "realm",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "special field of something or someone; kingdom:",
+      "defn_zh": "領域",
+      "root_note": "regalis (royal)",
+      "sentences": [
+        {
+          "en": "In the ______ of science fiction, almost anything is possible.",
+          "zh": "在科幻小說的領域裡,幾乎任何事都有可能發生。"
+        },
+        {
+          "en": "The king ruled over a vast ______ that stretched across the continent.",
+          "zh": "國王統治著一個橫跨整個大陸的廣大王國。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "40",
+        "spelling": "rect；reg",
+        "meaning": "正；直"
+      }
+    },
+    {
+      "word": "correct",
+      "pos": "adj./v.",
+      "pos_key": "adj.",
+      "defn_en": "free from error; to make right:",
+      "defn_zh": "正確的;糾正",
+      "root_note": "com- (thoroughly) + regere (to guide, rule), from Latin",
+      "sentences": [
+        {
+          "en": "Only one answer on the quiz was ______ .",
+          "zh": "測驗中只有一個答案是正確的。"
+        },
+        {
+          "en": "The teacher asked him to ______ his spelling mistakes.",
+          "zh": "老師要他糾正自己的拼字錯誤。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "40",
+        "spelling": "rect；reg",
+        "meaning": "正；直"
+      }
+    },
+    {
+      "word": "correction",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "the act of correcting an error:",
+      "defn_zh": "糾正;更正",
+      "root_note": "com- (thoroughly) + regere (to guide, rule), from Latin",
+      "sentences": [
+        {
+          "en": "The newspaper printed a ______ the next day.",
+          "zh": "這份報紙隔天刊登了一則更正啟事。"
+        },
+        {
+          "en": "Her teacher's ______ s helped her improve quickly.",
+          "zh": "她老師的糾正幫助她迅速進步。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "40",
+        "spelling": "rect；reg",
+        "meaning": "正；直"
+      }
+    },
+    {
+      "word": "corrigible",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "capable of being corrected or set right:",
+      "defn_zh": "可矯正的",
+      "root_note": "con- (thoroughly) + regere (to rule, straighten)",
+      "sentences": [
+        {
+          "en": "The counselor believed the troubled teen was still ______.",
+          "zh": "這位輔導員相信這名問題青少年仍有可矯正的空間。"
+        },
+        {
+          "en": "Unlike his stubborn brother, he proved to be quite ______.",
+          "zh": "與他固執的哥哥不同,他證明自己相當容易被說服改正。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "40",
+        "spelling": "rect；reg",
+        "meaning": "正；直"
+      }
+    },
+    {
+      "word": "direct",
+      "pos": "adj./v.",
+      "pos_key": "adj.",
+      "defn_en": "going in a straight line; to guide or manage:",
+      "defn_zh": "直接的;指導",
+      "root_note": "dis- (apart) + regere (to guide), from Latin",
+      "sentences": [
+        {
+          "en": "Take the most ______ route to avoid traffic.",
+          "zh": "走最直接的路線以避開車流。"
+        },
+        {
+          "en": "She was hired to ______ the school play.",
+          "zh": "她受邀執導這齣校園戲劇。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "40",
+        "spelling": "rect；reg",
+        "meaning": "正；直"
+      }
+    },
+    {
+      "word": "directed",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "managed or guided:",
+      "defn_zh": "執導的/指導的",
+      "root_note": "dis- (apart) + regere (to guide)",
+      "sentences": [
+        {
+          "en": "This new film was ______ by a renowned artist.",
+          "zh": "這部新電影是由一位知名藝術家執導的。"
+        },
+        {
+          "en": "The rescue operation was carefully ______ by an experienced team leader.",
+          "zh": "這次救援行動是由一位經驗豐富的隊長細心指揮的。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "40",
+        "spelling": "rect；reg",
+        "meaning": "正；直"
+      }
+    },
+    {
+      "word": "interregnum",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a period when normal government is suspended, especially between reigns:",
+      "defn_zh": "空位期;過渡期",
+      "root_note": "inter- (between) + regnum (kingdom, reign), from Latin",
+      "sentences": [
+        {
+          "en": "The country experienced chaos during the ______ before the new king was crowned.",
+          "zh": "在新國王加冕之前,這個國家經歷了空位期的混亂。"
+        },
+        {
+          "en": "The company's ______ between CEOs led to uncertainty among staff.",
+          "zh": "這家公司在執行長更替之間的過渡期讓員工感到不確定。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "40",
+        "spelling": "rect；reg",
+        "meaning": "正；直"
+      }
+    },
+    {
+      "word": "irregular",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "not conforming to a standard or pattern:",
+      "defn_zh": "不規則的;不規律的",
+      "root_note": "in- (not) + regula (rule), from Latin",
+      "sentences": [
+        {
+          "en": "The doctor noted an ______ heartbeat during the exam.",
+          "zh": "醫生在檢查時注意到心跳不規律。"
+        },
+        {
+          "en": "Her sleeping schedule has been quite ______ this month.",
+          "zh": "她這個月的睡眠時間相當不規律。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "40",
+        "spelling": "rect；reg",
+        "meaning": "正；直"
+      }
+    },
+    {
+      "word": "rectification",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "the act of correcting or setting something right:",
+      "defn_zh": "改正;修正",
+      "root_note": "rectus (straight, correct) + facere (to make), from Latin",
+      "sentences": [
+        {
+          "en": "The company issued a formal ______ of the misleading advertisement.",
+          "zh": "這家公司針對這則誤導性的廣告發布了一份正式的更正聲明。"
+        },
+        {
+          "en": "Legal ______ of the outdated clause took several months.",
+          "zh": "這項過時條款的法律修正花了好幾個月的時間。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "40",
+        "spelling": "rect；reg",
+        "meaning": "正；直"
+      }
+    },
+    {
+      "word": "rectify",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to correct or fix something:",
+      "defn_zh": "糾正/矯正",
+      "root_note": "rectus (right) + facere (to make)",
+      "sentences": [
+        {
+          "en": "She tried to ______ her mistake with an apology.",
+          "zh": "她試圖用一句道歉來彌補她的過錯。"
+        },
+        {
+          "en": "The company promised to ______ the billing error immediately.",
+          "zh": "這家公司承諾將立即糾正這項帳單錯誤。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "40",
+        "spelling": "rect；reg",
+        "meaning": "正；直"
+      }
+    },
+    {
+      "word": "rectitude",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "uprightness, extreme morality:",
+      "defn_zh": "正直/端正",
+      "root_note": "rectus (straight, right)",
+      "sentences": [
+        {
+          "en": "The judge was known throughout the county for his moral ______.",
+          "zh": "這位法官以其道德上的正直,聞名於整個郡縣。"
+        },
+        {
+          "en": "Her unwavering ______ made her a trusted figure in the community.",
+          "zh": "她堅定不移的正直,讓她成為社區中備受信賴的人物。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "40",
+        "spelling": "rect；reg",
+        "meaning": "正；直"
+      }
+    },
+    {
+      "word": "rector",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a member of the clergy in charge of a parish; the head of certain institutions:",
+      "defn_zh": "教區牧師;校長",
+      "root_note": "rector (ruler, guide), from Latin regere (to rule, guide)",
+      "sentences": [
+        {
+          "en": "The ______ welcomed new members to the parish community.",
+          "zh": "這位教區牧師歡迎新成員加入這個堂區社群。"
+        },
+        {
+          "en": "She was appointed ______ of the university after years of service.",
+          "zh": "在多年的服務之後,她被任命為這所大學的校長。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "40",
+        "spelling": "rect；reg",
+        "meaning": "正；直"
+      }
+    },
+    {
+      "word": "rectum",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "the final section of the large intestine:",
+      "defn_zh": "直腸",
+      "root_note": "rectus (straight), from Latin, referring to its relatively straight shape",
+      "sentences": [
+        {
+          "en": "The physician recommended a screening exam of the ______ for patients over fifty.",
+          "zh": "這位醫師建議五十歲以上的病人接受直腸篩檢。"
+        },
+        {
+          "en": "Inflammation of the ______ can cause significant discomfort.",
+          "zh": "直腸發炎可能會造成顯著的不適。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "40",
+        "spelling": "rect；reg",
+        "meaning": "正；直"
+      }
+    },
+    {
+      "word": "regardless",
+      "pos": "adv.",
+      "pos_key": "adv.",
+      "defn_en": "despite the prevailing circumstances; without being deterred:",
+      "defn_zh": "不管怎樣;儘管如此",
+      "root_note": "regard, from Old French regarder + -less",
+      "sentences": [
+        {
+          "en": "She decided to pursue her dream ______ of the risks involved.",
+          "zh": "儘管冒著風險,她仍決定追求她的夢想。"
+        },
+        {
+          "en": "He continued working ______ of the constant criticism.",
+          "zh": "儘管持續受到批評,他仍不管不顧地繼續工作。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "40",
+        "spelling": "rect；reg",
+        "meaning": "正；直"
+      }
+    },
+    {
+      "word": "regimen",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a prescribed course of diet, exercise, or medication:",
+      "defn_zh": "養生法;療程",
+      "root_note": "regimen (rule, government), from Latin regere (to rule)",
+      "sentences": [
+        {
+          "en": "Her strict exercise ______ helped her recover quickly from surgery.",
+          "zh": "她嚴格的運動養生法幫助她從這場手術中迅速康復。"
+        },
+        {
+          "en": "The doctor prescribed a new medication ______ for his condition.",
+          "zh": "這位醫生為他的病況開立了一套新的用藥療程。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "40",
+        "spelling": "rect；reg",
+        "meaning": "正；直"
+      }
+    },
+    {
+      "word": "regnant",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "reigning; currently exercising power:",
+      "defn_zh": "在位的;統治中的",
+      "root_note": "regnare (to reign), from Latin regnum (kingdom)",
+      "sentences": [
+        {
+          "en": "The ______ queen presided over the ceremony herself.",
+          "zh": "這位在位的女王親自主持了這場儀式。"
+        },
+        {
+          "en": "Public opinion had become the ______ force shaping the campaign.",
+          "zh": "公眾輿論已成為塑造這場競選活動的主導力量。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "40",
+        "spelling": "rect；reg",
+        "meaning": "正；直"
+      }
+    },
+    {
+      "word": "regulate",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to control or manage:",
+      "defn_zh": "規範/管制",
+      "root_note": "regula (rule)",
+      "sentences": [
+        {
+          "en": "The government ______ nuclear energy facilities.",
+          "zh": "政府對核能設施進行管制。"
+        },
+        {
+          "en": "This hormone helps ______ the body's blood sugar levels.",
+          "zh": "這種荷爾蒙有助於調節體內的血糖濃度。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "40",
+        "spelling": "rect；reg",
+        "meaning": "正；直"
+      }
+    },
+    {
+      "word": "reign",
+      "pos": "n./v.",
+      "pos_key": "n.",
+      "defn_en": "the period during which a monarch rules; to hold royal office:",
+      "defn_zh": "統治;在位期間",
+      "root_note": "regnum (kingdom), from Latin regere (to rule)",
+      "sentences": [
+        {
+          "en": "The queen's ______ lasted over sixty years.",
+          "zh": "這位女王的統治長達六十多年。"
+        },
+        {
+          "en": "Peace seemed to ______ throughout the kingdom during his rule.",
+          "zh": "在他的統治期間,和平似乎籠罩著整個王國。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "40",
+        "spelling": "rect；reg",
+        "meaning": "正；直"
+      }
+    },
+    {
+      "word": "royal",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "relating to a king or queen; having a grand or magnificent quality:",
+      "defn_zh": "皇家的;王室的",
+      "root_note": "regalis (royal), from Latin rex (king)",
+      "sentences": [
+        {
+          "en": "The ______ family greeted crowds from the palace balcony.",
+          "zh": "王室成員在皇宮陽台上向群眾揮手致意。"
+        },
+        {
+          "en": "They received a ______ welcome upon arriving in the village.",
+          "zh": "他們抵達這座村莊時受到了盛大隆重的歡迎。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "40",
+        "spelling": "rect；reg",
+        "meaning": "正；直"
+      }
+    },
+    {
+      "word": "unregenerate",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "not reformed or repentant; stubbornly unchanged:",
+      "defn_zh": "不悔改的;冥頑不靈的",
+      "root_note": "regenerate, from Latin regenerare (to bring forth again) + un-",
+      "sentences": [
+        {
+          "en": "The parole board denied release to the ______ offender.",
+          "zh": "這個假釋委員會拒絕釋放這名不知悔改的罪犯。"
+        },
+        {
+          "en": "He remained an ______ skeptic despite overwhelming evidence.",
+          "zh": "儘管證據確鑿,他依然是個頑固不化的懷疑論者。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "40",
+        "spelling": "rect；reg",
+        "meaning": "正；直"
+      }
+    }
+  ],
+  "family_options": {},
+  "fallback_options": {
+    "v.": [
+      {
+        "word": "abound",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to exist in great numbers:",
+        "defn_zh": "充滿"
+      },
+      {
+        "word": "abrogate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to deprive of legal force, to nullify:=abolish",
+        "defn_zh": "廢除/取消"
+      },
+      {
+        "word": "abjure",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to renounce, abstain from:",
+        "defn_zh": "發誓放棄/棄絕"
+      },
+      {
+        "word": "abbreviate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to shorten a word or phrase:",
+        "defn_zh": "縮寫;縮短"
+      },
+      {
+        "word": "abdicate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to give up a position, usually one of leadership:",
+        "defn_zh": "退位/放棄(職位)"
+      },
+      {
+        "word": "abduct",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to kidnap, take by force:",
+        "defn_zh": "綁架/劫持"
+      },
+      {
+        "word": "abhor",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to regard with disgust and hatred:",
+        "defn_zh": "憎惡/厭惡"
+      },
+      {
+        "word": "abnegate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to deny or renounce:",
+        "defn_zh": "放棄/克制"
+      },
+      {
+        "word": "abolish",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to formally put an end to a system, practice, or institution:",
+        "defn_zh": "廢除"
+      },
+      {
+        "word": "abort",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to give up on a half-finished project or effort:",
+        "defn_zh": "中止/放棄"
+      },
+      {
+        "word": "abrade",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to scrape or wear away by friction:",
+        "defn_zh": "磨損;擦傷"
+      },
+      {
+        "word": "abscond",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to sneak away and hide:",
+        "defn_zh": "潛逃/逃匿"
+      }
+    ],
+    "adj.": [
+      {
+        "word": "abortive",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "fruitless, failing:",
+        "defn_zh": "失敗的/夭折的"
+      },
+      {
+        "word": "abstemious",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "moderate in eating or drinking:",
+        "defn_zh": "飲食有節制的"
+      },
+      {
+        "word": "abhorrent",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "detestable, despised:",
+        "defn_zh": "令人厭惡的"
+      },
+      {
+        "word": "absurd",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "ridiculous:",
+        "defn_zh": "荒謬的"
+      },
+      {
+        "word": "aberrant",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "deviating from what is normal or expected:",
+        "defn_zh": "異常的;脫軌的"
+      },
+      {
+        "word": "abject",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "wretched, pitiful:",
+        "defn_zh": "卑賤的/淒慘的"
+      },
+      {
+        "word": "abominable",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "causing moral revulsion; extremely unpleasant:",
+        "defn_zh": "可憎的;惡劣的"
+      },
+      {
+        "word": "abounding",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "existing in large numbers or amounts:",
+        "defn_zh": "大量存在的;豐富的"
+      },
+      {
+        "word": "abrasive",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "showing little concern for others; harsh:",
+        "defn_zh": "粗暴的/刺耳的"
+      },
+      {
+        "word": "abrupt",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "sudden or unexpected; brief and curt in manner:",
+        "defn_zh": "突然的/唐突的"
+      },
+      {
+        "word": "abstract",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "existing purely in the mind; not representing actual reality:",
+        "defn_zh": "抽象的"
+      },
+      {
+        "word": "abstruse",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "hard to comprehend:",
+        "defn_zh": "深奧難懂的"
+      }
+    ],
+    "n.": [
+      {
+        "word": "aversion",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "strong dislike, opposition:",
+        "defn_zh": "厭惡/反感"
+      },
+      {
+        "word": "aberration",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "something that differs from the norm:",
+        "defn_zh": "異常/脫軌"
+      },
+      {
+        "word": "abjection",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a state of complete misery, hopelessness, or degradation:",
+        "defn_zh": "卑賤;悲慘狀態"
+      },
+      {
+        "word": "abjuration",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the solemn renunciation of a belief, cause, or claim:",
+        "defn_zh": "公開放棄;誓絕"
+      },
+      {
+        "word": "ablution",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the act of washing oneself, especially as part of a religious ritual:",
+        "defn_zh": "沐浴;淨身儀式"
+      },
+      {
+        "word": "abnegation",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "denial of comfort to oneself:",
+        "defn_zh": "自我克制/放棄"
+      },
+      {
+        "word": "abomination",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "something that causes disgust or hatred:",
+        "defn_zh": "可憎之事;令人厭惡的東西"
+      },
+      {
+        "word": "abridgement",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a shortened version of a book or other written work:",
+        "defn_zh": "節略本;縮減版"
+      },
+      {
+        "word": "absolution",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "freedom from blame, guilt, sin:",
+        "defn_zh": "赦免/免罪"
+      },
+      {
+        "word": "abstemiousness",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "moderation or self-restraint, especially in eating and drinking:",
+        "defn_zh": "節制;克己"
+      },
+      {
+        "word": "abstinence",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the practice of restraining oneself from something enjoyable, especially food, alcohol, or sex:",
+        "defn_zh": "節制;戒絕"
+      },
+      {
+        "word": "avocation",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a hobby or minor occupation apart from one's main career:",
+        "defn_zh": "副業;業餘愛好"
+      }
+    ],
+    "adv.": [
+      {
+        "word": "accordingly",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in a manner that fits the circumstances; consequently:",
+        "defn_zh": "相應地;因此"
+      },
+      {
+        "word": "inadvertently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "unintentionally or by accident:",
+        "defn_zh": "無意間/不小心地"
+      },
+      {
+        "word": "consequently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "as a result; therefore:",
+        "defn_zh": "因此;結果"
+      },
+      {
+        "word": "contemptuously",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "without respect; in a disdainful manner:",
+        "defn_zh": "輕蔑地"
+      },
+      {
+        "word": "involuntarily",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "done without conscious control:",
+        "defn_zh": "不由自主地"
+      },
+      {
+        "word": "cordially",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in a warm or friendly manner:",
+        "defn_zh": "誠摯地/友好地"
+      },
+      {
+        "word": "ipso facto",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "by that very fact or act:",
+        "defn_zh": "事實上;因此"
+      },
+      {
+        "word": "en passant",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in passing; incidentally:",
+        "defn_zh": "順帶一提地;偶然地"
+      },
+      {
+        "word": "subsequently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "afterward; following in time or order:",
+        "defn_zh": "隨後;其後"
+      },
+      {
+        "word": "aside",
+        "pos": "adv./n.",
+        "pos_key": "adv.",
+        "defn_en": "to or on one side; a remark not meant to be heard by everyone:",
+        "defn_zh": "在旁邊;旁白"
+      },
+      {
+        "word": "vice versa",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "with the order or meaning reversed; conversely:",
+        "defn_zh": "反之亦然"
+      },
+      {
+        "word": "forward",
+        "pos": "adv./adj.",
+        "pos_key": "adv.",
+        "defn_en": "toward the front or future; bold or presumptuous:",
+        "defn_zh": "向前的;冒失的"
+      }
+    ],
+    "other": [
+      {
+        "word": "（此批單字中，暫無符合此字根/字首的單字）",
+        "pos": "",
+        "pos_key": "other",
+        "defn_en": "",
+        "defn_zh": ""
+      }
+    ],
+    "prep./adv.": [
+      {
+        "word": "besides",
+        "pos": "prep./adv.",
+        "pos_key": "prep./adv.",
+        "defn_en": "in addition to; furthermore:",
+        "defn_zh": "除...之外;此外"
+      }
+    ],
+    "phrasalv.": [
+      {
+        "word": "egg on",
+        "pos": "phrasal v.",
+        "pos_key": "phrasalv.",
+        "defn_en": "to encourage someone to do something, often risky:",
+        "defn_zh": "慫恿;鼓動"
+      }
+    ],
+    "abbr.": [
+      {
+        "word": "etc.",
+        "pos": "abbr.",
+        "pos_key": "abbr.",
+        "defn_en": "and other similar things (abbreviation of et cetera):",
+        "defn_zh": "等等(et cetera的縮寫)"
+      }
+    ],
+    "interj.": [
+      {
+        "word": "fiddledeedee",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "an exclamation expressing dismissal of something as nonsense:",
+        "defn_zh": "廢話!(表示不屑一顧)"
+      },
+      {
+        "word": "gesundheit",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "an expression said to someone who has just sneezed:",
+        "defn_zh": "保重(打噴嚏後的祝福語)"
+      }
+    ],
+    "prep.": [
+      {
+        "word": "via",
+        "pos": "prep.",
+        "pos_key": "prep.",
+        "defn_en": "by way of; passing through:",
+        "defn_zh": "經由;透過"
+      }
+    ]
+  }
+}

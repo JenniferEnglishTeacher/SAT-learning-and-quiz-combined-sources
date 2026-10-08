@@ -4,7 +4,7 @@
     "total_batches": 236,
     "part1_part2_batches": 159,
     "unclassified_batches": 77,
-    "generated_batches": 125
+    "generated_batches": 126
   },
   "batches": [
     {
@@ -1264,7 +1264,7 @@
       "name": "rect；reg",
       "subtitle": "正；直",
       "count": 20,
-      "generated": false,
+      "generated": true,
       "search_terms": "realm correct correction corrigible direct directed interregnum irregular rectification rectify rectitude rector rectum regardless regimen regnant regulate reign royal unregenerate"
     },
     {

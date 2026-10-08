@@ -124,9 +124,10 @@
     "p2-36-port",
     "p2-37-pose",
     "p2-38-press",
-    "p2-39-quire"
+    "p2-39-quire",
+    "p2-40-rect-reg"
   ],
-  "generated_count": 125,
+  "generated_count": 126,
   "total": 236,
-  "next_batch": "p2-40-rect-reg"
+  "next_batch": "p2-41-rupt"
 }
