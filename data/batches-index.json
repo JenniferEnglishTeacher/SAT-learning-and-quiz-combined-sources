@@ -4,7 +4,7 @@
     "total_batches": 236,
     "part1_part2_batches": 159,
     "unclassified_batches": 77,
-    "generated_batches": 99
+    "generated_batches": 100
   },
   "batches": [
     {
@@ -1002,10 +1002,10 @@
       "part": "part2",
       "part_label": "Part 2 字根篇 (Roots)",
       "name": "close；clude；clus",
-      "subtitle": "關閉",
-      "count": 3,
-      "generated": false,
-      "search_terms": "close-fisted close-fistedness close-minded"
+      "subtitle": "關閉；隔離；阻擋；限制",
+      "count": 18,
+      "generated": true,
+      "search_terms": "close-fisted close-fistedness close-minded seclude preclude reclusive occlude exclusionary cloister inconclusive conclusive embargo segregate hermetic impede insular quarantine constrict"
     },
     {
       "id": "p2-17-cord",
