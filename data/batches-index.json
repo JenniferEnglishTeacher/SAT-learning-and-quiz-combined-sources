@@ -4,7 +4,7 @@
     "total_batches": 236,
     "part1_part2_batches": 159,
     "unclassified_batches": 77,
-    "generated_batches": 116
+    "generated_batches": 117
   },
   "batches": [
     {
@@ -1174,7 +1174,7 @@
       "name": "ped",
       "subtitle": "腳；足",
       "count": 10,
-      "generated": false,
+      "generated": true,
       "search_terms": "impede expedite expedient impediment pawn pedant pedantic pedantry pedestrian sesquipedalian"
     },
     {
