@@ -1,0 +1,831 @@
+{
+  "id": "p2-12-centr",
+  "part": "part2",
+  "part_label": "Part 2 字根篇 (Roots)",
+  "name": "centr",
+  "subtitle": "中心；焦點；匯聚",
+  "count": 12,
+  "words": [
+    {
+      "word": "egocentric",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "thinking mainly about oneself and treating one's own needs or views as most important:",
+      "defn_zh": "以自我為中心的；唯我獨尊的",
+      "root_note": "ego (self or I) + centr (center) + -ic (relating to)",
+      "synonyms": [
+        "self-centered",
+        "self-absorbed",
+        "egoistic"
+      ],
+      "antonyms": [
+        "selfless",
+        "considerate",
+        "altruistic"
+      ],
+      "sentences": [
+        {
+          "en": "The toddler's behavior was completely ______ because he assumed that every toy in the daycare belonged to him and could not understand sharing.",
+          "zh": "這名幼兒的行為完全以自我為中心，因為他理所當然地認為托兒所裡每件玩具都屬於他，並且無法理解分享。"
+        },
+        {
+          "en": "Critics argued that the CEO's ______ leadership ruined the corporation because he consistently placed personal fame above his employees' financial well-being.",
+          "zh": "批評者認為，執行長唯我獨尊的領導風格最終毀了公司，因為他總把個人名聲置於員工的財務福祉之上。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "12",
+        "spelling": "centr",
+        "meaning": "中心；焦點；匯聚"
+      }
+    },
+    {
+      "word": "centrifugal",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "moving or tending to move away from a center:",
+      "defn_zh": "離心的；遠離中心的",
+      "root_note": "centr (center) + fug (flee or escape) + -al (relating to)",
+      "synonyms": [
+        "outward-moving",
+        "dispersive",
+        "decentralizing"
+      ],
+      "antonyms": [
+        "centripetal",
+        "inward-moving",
+        "unifying"
+      ],
+      "sentences": [
+        {
+          "en": "As the carnival ride spun rapidly, intense ______ force pinned passengers against the outer walls and made it difficult for them to move toward the middle.",
+          "zh": "隨著嘉年華遊樂設施快速旋轉，強烈的離心力將乘客緊壓在外牆上，使他們難以向中心移動。"
+        },
+        {
+          "en": "The geopolitical essay used gravity and ______ tendencies as metaphors for how deep cultural divisions can pull a nation away from its centralized government.",
+          "zh": "地緣政治論文用重力與離心趨勢作為比喻，說明深刻的文化分歧如何使國家脫離中央政府而分裂。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "12",
+        "spelling": "centr",
+        "meaning": "中心；焦點；匯聚"
+      }
+    },
+    {
+      "word": "centripetal",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "moving or tending to move toward a center:",
+      "defn_zh": "向心的；凝聚的",
+      "root_note": "centr (center) + pet (seek or strive toward) + -al (relating to)",
+      "synonyms": [
+        "inward-moving",
+        "centralizing",
+        "unifying"
+      ],
+      "antonyms": [
+        "centrifugal",
+        "outward-moving",
+        "dispersive"
+      ],
+      "sentences": [
+        {
+          "en": "A planet orbiting a massive star relies on ______ acceleration caused by gravity to pull it continuously toward the center and prevent it from flying into deep space.",
+          "zh": "繞著巨大恆星運行的行星依靠重力造成的向心加速度，不斷被拉向中心，從而避免飛入深太空。"
+        },
+        {
+          "en": "The sociologist argued that shared national tragedies often act as a ______ cultural force, drawing politically divided citizens back into a unified community.",
+          "zh": "社會學家認為，共同的國家悲劇往往形成向心的文化力量，使政治上分裂的公民重新凝聚成統一社群。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "12",
+        "spelling": "centr",
+        "meaning": "中心；焦點；匯聚"
+      }
+    },
+    {
+      "word": "ethnocentric",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "judging other cultures by the standards of one's own culture and viewing one's own as superior:",
+      "defn_zh": "民族中心主義的；本族文化中心論的",
+      "root_note": "ethno (nation, people, or culture) + centr (center) + -ic (relating to)",
+      "synonyms": [
+        "culture-centered",
+        "parochial",
+        "culturally biased"
+      ],
+      "antonyms": [
+        "cross-cultural",
+        "cosmopolitan",
+        "culturally relative"
+      ],
+      "sentences": [
+        {
+          "en": "The explorer's journal revealed an ______ bias because he dismissed indigenous traditions as primitive merely because they differed from European customs.",
+          "zh": "這位探險家的日記流露出強烈的民族中心主義偏見；他只因原住民傳統不同於歐洲習俗，便將其輕蔑地稱為原始。"
+        },
+        {
+          "en": "Anthropologists undergo rigorous training to avoid ______ interpretations and analyze foreign social behavior through local contexts rather than their own backgrounds.",
+          "zh": "人類學家接受嚴格訓練以避免民族中心主義的解讀，確保透過當地語境而非自身背景分析外國社會行為。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "12",
+        "spelling": "centr",
+        "meaning": "中心；焦點；匯聚"
+      }
+    },
+    {
+      "word": "eccentric",
+      "pos": "adj. / n.",
+      "pos_key": "adj.",
+      "defn_en": "unconventional and strange, or not positioned at the exact center:",
+      "defn_zh": "古怪的；特立獨行的；偏心的；偏心者",
+      "root_note": "ec- or ex- (out or away from) + centr (center) + -ic (relating to)",
+      "synonyms": [
+        "unconventional",
+        "peculiar",
+        "quirky",
+        "off-center"
+      ],
+      "antonyms": [
+        "conventional",
+        "ordinary",
+        "concentric"
+      ],
+      "sentences": [
+        {
+          "en": "The billionaire was famous for ______ habits, including wearing mismatched shoes to business meetings and buying an island for stray cats.",
+          "zh": "這位億萬富翁以古怪習慣聞名，包括穿不成對的鞋出席商務會議，以及買下一座島安置流浪貓。"
+        },
+        {
+          "en": "Astronomers noted that the comet follows a highly ______ orbit, tracing an elongated oval path far from the center of the solar system.",
+          "zh": "天文學家指出，這顆彗星沿著高度偏心的軌道運行，形成一條遠離太陽系中心的細長橢圓路徑。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "12",
+        "spelling": "centr",
+        "meaning": "中心；焦點；匯聚"
+      }
+    },
+    {
+      "word": "anthropocentric",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "regarding human beings as the central or most important part of existence:",
+      "defn_zh": "人類中心主義的；以人類為核心的",
+      "root_note": "anthropo (human) + centr (center) + -ic (relating to)",
+      "synonyms": [
+        "human-centered",
+        "human-focused"
+      ],
+      "antonyms": [
+        "ecocentric",
+        "biocentric"
+      ],
+      "sentences": [
+        {
+          "en": "Environmental philosophers criticize the modern world's ______ worldview, arguing that treating nature solely as a resource for human convenience has caused ecological destruction.",
+          "zh": "環境哲學家批評現代世界的人類中心主義世界觀，認為只把自然視為供人類利用的資源，已造成毀滅性的生態破壞。"
+        },
+        {
+          "en": "Ancient thinkers held an ______ theory of the cosmos, believing that the universe was arranged with human beings at its focal point.",
+          "zh": "古代思想家持有以人類為中心的宇宙理論，堅信整個宇宙特意以人類為焦點安排。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "12",
+        "spelling": "centr",
+        "meaning": "中心；焦點；匯聚"
+      }
+    },
+    {
+      "word": "converge",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to move toward the same point or gradually become similar or united:",
+      "defn_zh": "匯聚；會合；集中；趨同",
+      "root_note": "con- (together) + verge (bend, turn, or incline)",
+      "synonyms": [
+        "meet",
+        "unite",
+        "coincide",
+        "concentrate"
+      ],
+      "antonyms": [
+        "diverge",
+        "separate",
+        "disperse"
+      ],
+      "sentences": [
+        {
+          "en": "Every summer, political activists and world leaders ______ on the Swiss mountain resort to debate economic policy and draft international treaties.",
+          "zh": "每年夏天，政治運動人士與世界領袖都會匯聚於瑞士高山度假勝地，辯論全球經濟政策並起草國際條約。"
+        },
+        {
+          "en": "The detective realized that the clues were beginning to ______ on a single suspect because both DNA evidence and bank records pointed to the accountant.",
+          "zh": "偵探察覺線索正開始集中在單一嫌疑人身上，因為 DNA 證據和銀行紀錄都指向那名會計師。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "12",
+        "spelling": "centr",
+        "meaning": "中心；焦點；匯聚"
+      }
+    },
+    {
+      "word": "crux",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "the most important, difficult, or decisive part of a problem or argument:",
+      "defn_zh": "核心；關鍵；癥結",
+      "root_note": "Latin crux (cross), suggesting a central intersection or decisive point",
+      "synonyms": [
+        "core",
+        "essence",
+        "key point",
+        "heart"
+      ],
+      "antonyms": [
+        "periphery",
+        "detail",
+        "irrelevance"
+      ],
+      "sentences": [
+        {
+          "en": "The ______ of the legal defense was proving that the defendant was outside the country when the robbery occurred, making the prosecution's timeline impossible.",
+          "zh": "整個法律辯護的核心在於證明銀行劫案發生時被告不在國內，從而使檢方的時間線無法成立。"
+        },
+        {
+          "en": "Rather than debating minor details, the mediator urged both executives to address the ______ of the labor dispute: salaries and retirement benefits.",
+          "zh": "調解人敦促兩位主管別再爭論次要細節，而應直接處理勞資糾紛的核心：薪資與退休福利。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "12",
+        "spelling": "centr",
+        "meaning": "中心；焦點；匯聚"
+      }
+    },
+    {
+      "word": "focal",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "central and especially important or attracting the most attention:",
+      "defn_zh": "焦點的；核心的；中心的",
+      "root_note": "focus (hearth or fireplace), traditionally the central gathering point of a home",
+      "synonyms": [
+        "central",
+        "principal",
+        "key",
+        "pivotal"
+      ],
+      "antonyms": [
+        "peripheral",
+        "secondary",
+        "marginal"
+      ],
+      "sentences": [
+        {
+          "en": "The crystal chandelier served as the ______ point of the ballroom's design and immediately captured the attention of every guest.",
+          "zh": "大宴會廳中的水晶吊燈成為整體室內設計的焦點，立刻吸引每位賓客的目光。"
+        },
+        {
+          "en": "In his paper on inflation, the professor made rising fossil-fuel costs the ______ issue, arguing that energy prices influence every other market sector.",
+          "zh": "教授在通膨研究論文中把化石燃料成本上漲列為核心問題，主張能源價格會影響所有其他市場部門。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "12",
+        "spelling": "centr",
+        "meaning": "中心；焦點；匯聚"
+      }
+    },
+    {
+      "word": "apex",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "the highest point of something, especially the peak of achievement or the top of a structure:",
+      "defn_zh": "頂點；最高點；巔峰",
+      "root_note": "Latin apex (summit, peak, or highest point)",
+      "synonyms": [
+        "peak",
+        "summit",
+        "pinnacle",
+        "zenith"
+      ],
+      "antonyms": [
+        "nadir",
+        "bottom",
+        "base"
+      ],
+      "sentences": [
+        {
+          "en": "Winning the international championship marked the ______ of the tennis player's career and cemented her legacy as one of her generation's greatest athletes.",
+          "zh": "贏得國際錦標賽標誌著這位網球選手職業生涯的巔峰，也鞏固了她作為同代最偉大運動員之一的地位。"
+        },
+        {
+          "en": "The golden eagle sits at the ______ of the mountain food chain, facing no natural predators while hunting smaller mammals below.",
+          "zh": "金雕位於高山生態系食物鏈的頂端，捕食較小哺乳動物時不會面臨任何天敵。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "12",
+        "spelling": "centr",
+        "meaning": "中心；焦點；匯聚"
+      }
+    },
+    {
+      "word": "coalesce",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to come together and form one larger group, mass, or whole:",
+      "defn_zh": "合併；結合；凝聚成一體",
+      "root_note": "co- (together) + alescere (grow)",
+      "synonyms": [
+        "merge",
+        "unite",
+        "combine",
+        "consolidate"
+      ],
+      "antonyms": [
+        "divide",
+        "separate",
+        "fragment"
+      ],
+      "sentences": [
+        {
+          "en": "Over several hours, separate dark clouds began to ______ into a massive supercell storm that threatened the coastal city with tornadoes.",
+          "zh": "幾個小時內，分散的烏雲開始融合成巨大的超級單體風暴，以嚴重龍捲風威脅沿海城市。"
+        },
+        {
+          "en": "The fractured rebel factions finally managed to ______ around one charismatic leader, forming a unified front capable of toppling the regime.",
+          "zh": "分裂的反抗軍派系最終成功凝聚在一位極具魅力的領袖周圍，形成足以推翻政權的統一陣線。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "12",
+        "spelling": "centr",
+        "meaning": "中心；焦點；匯聚"
+      }
+    },
+    {
+      "word": "nucleus",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "the central and most important part around which other parts are organized:",
+      "defn_zh": "核心；中心；細胞核；原子核",
+      "root_note": "nuc (nut or kernel), suggesting a central core",
+      "synonyms": [
+        "core",
+        "center",
+        "kernel",
+        "heart"
+      ],
+      "antonyms": [
+        "shell",
+        "periphery",
+        "exterior"
+      ],
+      "sentences": [
+        {
+          "en": "A small group of dedicated scientists formed the ______ of the research project, driving innovation while managing hundreds of laboratory assistants.",
+          "zh": "一小群高度敬業的科學家構成這項研究計畫的核心，在管理數百名實驗室助理的同時推動技術創新。"
+        },
+        {
+          "en": "The biology student adjusted the microscope to obtain a clearer view of the cell's ______, where vital genetic instructions are stored.",
+          "zh": "生物系學生調整顯微鏡，以更清楚觀察儲存重要遺傳指令的細胞核。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "12",
+        "spelling": "centr",
+        "meaning": "中心；焦點；匯聚"
+      }
+    }
+  ],
+  "family_options": {},
+  "fallback_options": {
+    "v.": [
+      {
+        "word": "abound",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to exist in great numbers:",
+        "defn_zh": "充滿"
+      },
+      {
+        "word": "abrogate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to deprive of legal force, to nullify:=abolish",
+        "defn_zh": "廢除/取消"
+      },
+      {
+        "word": "abjure",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to renounce, abstain from:",
+        "defn_zh": "發誓放棄/棄絕"
+      },
+      {
+        "word": "abbreviate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to shorten a word or phrase:",
+        "defn_zh": "縮寫;縮短"
+      },
+      {
+        "word": "abdicate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to give up a position, usually one of leadership:",
+        "defn_zh": "退位/放棄(職位)"
+      },
+      {
+        "word": "abduct",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to kidnap, take by force:",
+        "defn_zh": "綁架/劫持"
+      },
+      {
+        "word": "abhor",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to regard with disgust and hatred:",
+        "defn_zh": "憎惡/厭惡"
+      },
+      {
+        "word": "abnegate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to deny or renounce:",
+        "defn_zh": "放棄/克制"
+      },
+      {
+        "word": "abolish",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to formally put an end to a system, practice, or institution:",
+        "defn_zh": "廢除"
+      },
+      {
+        "word": "abort",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to give up on a half-finished project or effort:",
+        "defn_zh": "中止/放棄"
+      },
+      {
+        "word": "abrade",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to scrape or wear away by friction:",
+        "defn_zh": "磨損;擦傷"
+      },
+      {
+        "word": "abscond",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to sneak away and hide:",
+        "defn_zh": "潛逃/逃匿"
+      }
+    ],
+    "adj.": [
+      {
+        "word": "abortive",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "fruitless, failing:",
+        "defn_zh": "失敗的/夭折的"
+      },
+      {
+        "word": "abstemious",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "moderate in eating or drinking:",
+        "defn_zh": "飲食有節制的"
+      },
+      {
+        "word": "abhorrent",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "detestable, despised:",
+        "defn_zh": "令人厭惡的"
+      },
+      {
+        "word": "absurd",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "ridiculous:",
+        "defn_zh": "荒謬的"
+      },
+      {
+        "word": "aberrant",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "deviating from what is normal or expected:",
+        "defn_zh": "異常的;脫軌的"
+      },
+      {
+        "word": "abject",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "wretched, pitiful:",
+        "defn_zh": "卑賤的/淒慘的"
+      },
+      {
+        "word": "abominable",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "causing moral revulsion; extremely unpleasant:",
+        "defn_zh": "可憎的;惡劣的"
+      },
+      {
+        "word": "abounding",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "existing in large numbers or amounts:",
+        "defn_zh": "大量存在的;豐富的"
+      },
+      {
+        "word": "abrasive",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "showing little concern for others; harsh:",
+        "defn_zh": "粗暴的/刺耳的"
+      },
+      {
+        "word": "abrupt",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "sudden or unexpected; brief and curt in manner:",
+        "defn_zh": "突然的/唐突的"
+      },
+      {
+        "word": "abstract",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "existing purely in the mind; not representing actual reality:",
+        "defn_zh": "抽象的"
+      },
+      {
+        "word": "abstruse",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "hard to comprehend:",
+        "defn_zh": "深奧難懂的"
+      }
+    ],
+    "n.": [
+      {
+        "word": "aversion",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "strong dislike, opposition:",
+        "defn_zh": "厭惡/反感"
+      },
+      {
+        "word": "aberration",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "something that differs from the norm:",
+        "defn_zh": "異常/脫軌"
+      },
+      {
+        "word": "abjection",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a state of complete misery, hopelessness, or degradation:",
+        "defn_zh": "卑賤;悲慘狀態"
+      },
+      {
+        "word": "abjuration",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the solemn renunciation of a belief, cause, or claim:",
+        "defn_zh": "公開放棄;誓絕"
+      },
+      {
+        "word": "ablution",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the act of washing oneself, especially as part of a religious ritual:",
+        "defn_zh": "沐浴;淨身儀式"
+      },
+      {
+        "word": "abnegation",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "denial of comfort to oneself:",
+        "defn_zh": "自我克制/放棄"
+      },
+      {
+        "word": "abomination",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "something that causes disgust or hatred:",
+        "defn_zh": "可憎之事;令人厭惡的東西"
+      },
+      {
+        "word": "abridgement",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a shortened version of a book or other written work:",
+        "defn_zh": "節略本;縮減版"
+      },
+      {
+        "word": "absolution",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "freedom from blame, guilt, sin:",
+        "defn_zh": "赦免/免罪"
+      },
+      {
+        "word": "abstemiousness",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "moderation or self-restraint, especially in eating and drinking:",
+        "defn_zh": "節制;克己"
+      },
+      {
+        "word": "abstinence",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the practice of restraining oneself from something enjoyable, especially food, alcohol, or sex:",
+        "defn_zh": "節制;戒絕"
+      },
+      {
+        "word": "avocation",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a hobby or minor occupation apart from one's main career:",
+        "defn_zh": "副業;業餘愛好"
+      }
+    ],
+    "adv.": [
+      {
+        "word": "accordingly",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in a manner that fits the circumstances; consequently:",
+        "defn_zh": "相應地;因此"
+      },
+      {
+        "word": "inadvertently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "unintentionally or by accident:",
+        "defn_zh": "無意間/不小心地"
+      },
+      {
+        "word": "consequently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "as a result; therefore:",
+        "defn_zh": "因此;結果"
+      },
+      {
+        "word": "contemptuously",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "without respect; in a disdainful manner:",
+        "defn_zh": "輕蔑地"
+      },
+      {
+        "word": "involuntarily",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "done without conscious control:",
+        "defn_zh": "不由自主地"
+      },
+      {
+        "word": "cordially",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in a warm or friendly manner:",
+        "defn_zh": "誠摯地/友好地"
+      },
+      {
+        "word": "ipso facto",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "by that very fact or act:",
+        "defn_zh": "事實上;因此"
+      },
+      {
+        "word": "en passant",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in passing; incidentally:",
+        "defn_zh": "順帶一提地;偶然地"
+      },
+      {
+        "word": "regardless",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "despite the prevailing circumstances; without being deterred:",
+        "defn_zh": "不管怎樣;儘管如此"
+      },
+      {
+        "word": "subsequently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "afterward; following in time or order:",
+        "defn_zh": "隨後;其後"
+      },
+      {
+        "word": "aside",
+        "pos": "adv./n.",
+        "pos_key": "adv.",
+        "defn_en": "to or on one side; a remark not meant to be heard by everyone:",
+        "defn_zh": "在旁邊;旁白"
+      },
+      {
+        "word": "vice versa",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "with the order or meaning reversed; conversely:",
+        "defn_zh": "反之亦然"
+      }
+    ],
+    "other": [
+      {
+        "word": "（此批單字中，暫無符合此字根/字首的單字）",
+        "pos": "",
+        "pos_key": "other",
+        "defn_en": "",
+        "defn_zh": ""
+      }
+    ],
+    "prep./adv.": [
+      {
+        "word": "besides",
+        "pos": "prep./adv.",
+        "pos_key": "prep./adv.",
+        "defn_en": "in addition to; furthermore:",
+        "defn_zh": "除...之外;此外"
+      }
+    ],
+    "phrasalv.": [
+      {
+        "word": "egg on",
+        "pos": "phrasal v.",
+        "pos_key": "phrasalv.",
+        "defn_en": "to encourage someone to do something, often risky:",
+        "defn_zh": "慫恿;鼓動"
+      }
+    ],
+    "abbr.": [
+      {
+        "word": "etc.",
+        "pos": "abbr.",
+        "pos_key": "abbr.",
+        "defn_en": "and other similar things (abbreviation of et cetera):",
+        "defn_zh": "等等(et cetera的縮寫)"
+      }
+    ],
+    "interj.": [
+      {
+        "word": "fiddledeedee",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "an exclamation expressing dismissal of something as nonsense:",
+        "defn_zh": "廢話!(表示不屑一顧)"
+      },
+      {
+        "word": "gesundheit",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "an expression said to someone who has just sneezed:",
+        "defn_zh": "保重(打噴嚏後的祝福語)"
+      }
+    ],
+    "prep.": [
+      {
+        "word": "via",
+        "pos": "prep.",
+        "pos_key": "prep.",
+        "defn_en": "by way of; passing through:",
+        "defn_zh": "經由;透過"
+      }
+    ]
+  }
+}

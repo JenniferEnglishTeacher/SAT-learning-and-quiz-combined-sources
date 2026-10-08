@@ -4,7 +4,7 @@
     "total_batches": 236,
     "part1_part2_batches": 159,
     "unclassified_batches": 77,
-    "generated_batches": 95
+    "generated_batches": 96
   },
   "batches": [
     {
@@ -962,10 +962,10 @@
       "part": "part2",
       "part_label": "Part 2 字根篇 (Roots)",
       "name": "centr",
-      "subtitle": "中心",
-      "count": 1,
-      "generated": false,
-      "search_terms": "egocentric"
+      "subtitle": "中心；焦點；匯聚",
+      "count": 12,
+      "generated": true,
+      "search_terms": "egocentric centrifugal centripetal ethnocentric eccentric anthropocentric converge crux focal apex coalesce nucleus"
     },
     {
       "id": "p2-13-cert",
