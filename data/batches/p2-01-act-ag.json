@@ -1,0 +1,1378 @@
+{
+  "id": "p2-01-act-ag",
+  "part": "part2",
+  "part_label": "Part 2 字根篇 (Roots)",
+  "name": "act；ag",
+  "subtitle": "做；動",
+  "count": 40,
+  "words": [
+    {
+      "word": "castigate",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to correct by punishing:",
+      "defn_zh": "嚴懲/苛評",
+      "root_note": "castus (pure) + agere (to drive)",
+      "sentences": [
+        {
+          "en": "The coach ______d the team harshly after their careless mistakes.",
+          "zh": "教練因球隊粗心的失誤而嚴厲斥責了他們。"
+        },
+        {
+          "en": "The newspaper ______d the mayor for failing to fix the roads.",
+          "zh": "這家報紙嚴厲批評市長未能修好道路。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "01",
+        "spelling": "act；ag",
+        "meaning": "做；動"
+      }
+    },
+    {
+      "word": "cogent",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "forceful, convincing, persuasive:",
+      "defn_zh": "令人信服的",
+      "root_note": "co- (together) + agere (to drive)",
+      "sentences": [
+        {
+          "en": "The lawyer presented a ______ argument that convinced the jury.",
+          "zh": "這位律師提出了一個令人信服的論點,說服了陪審團。"
+        },
+        {
+          "en": "Her essay offered a ______ explanation for the company's decline.",
+          "zh": "她的文章對這家公司的衰落提出了令人信服的解釋。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "01",
+        "spelling": "act；ag",
+        "meaning": "做；動"
+      }
+    },
+    {
+      "word": "ambiguous",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "vague, undefined, not specific:",
+      "defn_zh": "模稜兩可的",
+      "root_note": "ambi- (both) + agere (to drive)",
+      "sentences": [
+        {
+          "en": "His ______ response left everyone unsure of his true opinion.",
+          "zh": "他模稜兩可的回答讓大家都摸不清他真正的想法。"
+        },
+        {
+          "en": "The contract's ______ wording led to a legal dispute.",
+          "zh": "這份合約含糊不清的措辭導致了一場法律糾紛。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "01",
+        "spelling": "act；ag",
+        "meaning": "做；動"
+      }
+    },
+    {
+      "word": "activism",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "rigorous campaigning, advocacy:",
+      "defn_zh": "行動主義/激進主義",
+      "root_note": "actus (doing/driving) + -ism",
+      "sentences": [
+        {
+          "en": "Her ______ helped bring national attention to the local pollution problem.",
+          "zh": "她的行動主義讓這個地方污染問題引起了全國的關注。"
+        },
+        {
+          "en": "Environmental ______ has grown significantly among young people.",
+          "zh": "環保行動主義在年輕人之間有了顯著的成長。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "01",
+        "spelling": "act；ag",
+        "meaning": "做；動"
+      }
+    },
+    {
+      "word": "mitigate",
+      "pos": "vb.",
+      "pos_key": "v.",
+      "defn_en": "to make or become less severe; to lessen pain or damage",
+      "defn_zh": "使緩和",
+      "root_note": "mitis (mild) + agere (to act)",
+      "sentences": [
+        {
+          "en": "The company took steps to ______ the environmental damage caused by the spill.",
+          "zh": "這家公司採取措施,以減輕這次外洩事故所造成的環境損害。"
+        },
+        {
+          "en": "Wearing a helmet can ______ the severity of a head injury.",
+          "zh": "戴安全帽可以減輕頭部受傷的嚴重程度。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "01",
+        "spelling": "act；ag",
+        "meaning": "做；動"
+      }
+    },
+    {
+      "word": "antagonism",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "hatred or hostility",
+      "defn_zh": "敵對；對抗",
+      "root_note": "anti- (against) + agonizesthai (to struggle, Greek)",
+      "sentences": [
+        {
+          "en": "Their constant ______ made teamwork nearly impossible.",
+          "zh": "他們之間持續的敵對讓團隊合作幾乎變得不可能。"
+        },
+        {
+          "en": "The rivalry grew into open ______ after the failed business deal.",
+          "zh": "這場競爭在這筆生意失敗後演變成了公開的敵對。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "01",
+        "spelling": "act；ag",
+        "meaning": "做；動"
+      }
+    },
+    {
+      "word": "prodigal",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "wasteful; lavish",
+      "defn_zh": "揮霍的",
+      "root_note": "pro- (forth) + agere (to drive)",
+      "sentences": [
+        {
+          "en": "The ______ heir spent his entire inheritance within a few years.",
+          "zh": "這位揮霍無度的繼承人在短短幾年內就把整筆遺產花光了。"
+        },
+        {
+          "en": "His ______ spending habits eventually led him to bankruptcy.",
+          "zh": "他揮霍無度的花錢習慣最終讓他走向破產。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "01",
+        "spelling": "act；ag",
+        "meaning": "做；動"
+      }
+    },
+    {
+      "word": "panegyrize",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to praise a person or event in a formal speech or in writing",
+      "defn_zh": "公開讚頌",
+      "root_note": "pan- (all, Greek) + agora (assembly, Greek)",
+      "sentences": [
+        {
+          "en": "The speaker chose to ______ the retiring CEO's decades of leadership.",
+          "zh": "這位講者選擇公開頌揚這位即將退休的執行長數十年來的領導成就。"
+        },
+        {
+          "en": "The biography tends to ______ its subject rather than examine him critically.",
+          "zh": "這本傳記傾向於頌揚傳主,而非以批判的角度來檢視他。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "01",
+        "spelling": "act；ag",
+        "meaning": "做；動"
+      }
+    },
+    {
+      "word": "exacting",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "requiring a great deal of care or effort; painstaking",
+      "defn_zh": "嚴格要求的",
+      "root_note": "ex- (out) + agere (to drive)",
+      "sentences": [
+        {
+          "en": "Her ______ standards made it difficult for assistants to satisfy her.",
+          "zh": "她嚴格要求的標準讓助理很難讓她滿意。"
+        },
+        {
+          "en": "The ______ editor demanded a rewrite of nearly every paragraph.",
+          "zh": "這位嚴格挑剔的編輯要求幾乎每一段都要重寫。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "01",
+        "spelling": "act；ag",
+        "meaning": "做；動"
+      }
+    },
+    {
+      "word": "agenda",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a list of items to be discussed at a meeting; an underlying plan:",
+      "defn_zh": "議程;議事日程",
+      "root_note": "agere (to do, from Latin)",
+      "sentences": [
+        {
+          "en": "The chairperson added one more item to the ______ before the meeting began.",
+          "zh": "會議開始前,主席在議程上又加了一項。"
+        },
+        {
+          "en": "Reporters suspected the senator had a hidden political ______.",
+          "zh": "記者懷疑這位參議員有不可告人的政治盤算。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "01",
+        "spelling": "act；ag",
+        "meaning": "做；動"
+      }
+    },
+    {
+      "word": "agent",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a person who acts on behalf of another; a substance causing an effect:",
+      "defn_zh": "代理人;媒介",
+      "root_note": "agere (to do, from Latin)",
+      "sentences": [
+        {
+          "en": "Her literary ______ negotiated a much better contract than she expected.",
+          "zh": "她的文學經紀人談成了一份比她預期好得多的合約。"
+        },
+        {
+          "en": "Bleach is a powerful cleaning ______ but must be used carefully.",
+          "zh": "漂白水是強力的清潔劑,但必須小心使用。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "01",
+        "spelling": "act；ag",
+        "meaning": "做；動"
+      }
+    },
+    {
+      "word": "agent provocateur",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a person who secretly incites others to commit illegal acts in order to have them arrested:",
+      "defn_zh": "臥底煽動者;誘導犯罪者",
+      "root_note": "agent (one who acts) + provocateur (provoker, from French)",
+      "sentences": [
+        {
+          "en": "Historians later revealed that the protest's loudest voice had been an ______ working for the police.",
+          "zh": "史學家後來揭露,那次抗議中聲音最大的人其實是替警方臥底的煽動者。"
+        },
+        {
+          "en": "The union suspected an ______ was trying to provoke violence at the rally.",
+          "zh": "工會懷疑有人臥底煽動,想在集會中挑起暴力。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "01",
+        "spelling": "act；ag",
+        "meaning": "做；動"
+      }
+    },
+    {
+      "word": "agile",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "quick, nimble:",
+      "defn_zh": "敏捷的",
+      "root_note": "agere (to do, to drive)",
+      "sentences": [
+        {
+          "en": "The ______ gymnast moved effortlessly across the balance beam.",
+          "zh": "這位身手敏捷的體操選手輕鬆地在平衡木上移動。"
+        },
+        {
+          "en": "Small startups can often be more ______ than large corporations.",
+          "zh": "小型新創公司往往比大型企業更能靈活應變。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "01",
+        "spelling": "act；ag",
+        "meaning": "做；動"
+      }
+    },
+    {
+      "word": "agitate",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to stir or disturb emotionally or physically:",
+      "defn_zh": "攪動/使不安",
+      "root_note": "agere (to drive)",
+      "sentences": [
+        {
+          "en": "The loud noises ______ the baby, causing her to cry.",
+          "zh": "巨大的噪音使這個嬰兒感到不安,讓她哭了起來。"
+        },
+        {
+          "en": "Activists continued to ______ for stronger environmental laws.",
+          "zh": "社運人士持續鼓吹推動更嚴格的環保法律。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "01",
+        "spelling": "act；ag",
+        "meaning": "做；動"
+      }
+    },
+    {
+      "word": "agitated",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "troubled or nervous; feeling or showing anxiety:",
+      "defn_zh": "焦躁不安的",
+      "root_note": "agitare (to drive, disturb, from Latin)",
+      "sentences": [
+        {
+          "en": "The dog grew ______ every time thunder rumbled outside.",
+          "zh": "每次外頭雷聲隆隆,這隻狗就變得焦躁不安。"
+        },
+        {
+          "en": "She paced the waiting room, visibly ______ about the test results.",
+          "zh": "她在候診室裡來回踱步,明顯對檢驗結果焦慮不安。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "01",
+        "spelling": "act；ag",
+        "meaning": "做；動"
+      }
+    },
+    {
+      "word": "agitation",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a state of anxiety or nervous excitement; vigorous public discussion or protest for a cause:",
+      "defn_zh": "焦慮;鼓動",
+      "root_note": "agitare (to drive, disturb, from Latin)",
+      "sentences": [
+        {
+          "en": "His hands trembled with ______ as he waited for the verdict.",
+          "zh": "等待判決的時候,他的雙手因焦慮而顫抖。"
+        },
+        {
+          "en": "Decades of public ______ finally led to the reform of the outdated law.",
+          "zh": "數十年的公眾鼓動,終於促成這條過時法律的改革。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "01",
+        "spelling": "act；ag",
+        "meaning": "做；動"
+      }
+    },
+    {
+      "word": "agoraphobia",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "an extreme fear of open or crowded public spaces:",
+      "defn_zh": "廣場恐懼症",
+      "root_note": "agora (marketplace) + phobos (fear), from Greek",
+      "sentences": [
+        {
+          "en": "Her ______ made even a trip to the grocery store feel unbearable.",
+          "zh": "她的廣場恐懼症讓連去一趟超市都變得難以忍受。"
+        },
+        {
+          "en": "Treatment for ______ often involves gradually reintroducing patients to public settings.",
+          "zh": "廣場恐懼症的治療通常會讓病人逐步重新適應公共場合。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "01",
+        "spelling": "act；ag",
+        "meaning": "做；動"
+      }
+    },
+    {
+      "word": "agronomy",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "the science of soil management and crop production:",
+      "defn_zh": "農學;農藝學",
+      "root_note": "agros (field) + nomos (law), from Greek",
+      "sentences": [
+        {
+          "en": "She studied ______ in college before returning to run her family's farm.",
+          "zh": "她大學時主修農學,後來回家經營家族農場。"
+        },
+        {
+          "en": "Advances in ______ have dramatically increased crop yields worldwide.",
+          "zh": "農學的進步已大幅提升了全球的作物產量。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "01",
+        "spelling": "act；ag",
+        "meaning": "做；動"
+      }
+    },
+    {
+      "word": "ambiguity",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "uncertainty or multiple interpretations:",
+      "defn_zh": "模糊性/含糊不清",
+      "root_note": "ambi- (both) + agere (to drive)",
+      "sentences": [
+        {
+          "en": "The ______ in his vague statement caused confusion.",
+          "zh": "他含糊其辭所造成的模糊性引起了困惑。"
+        },
+        {
+          "en": "The contract's wording was full of ______, leading to a legal dispute.",
+          "zh": "這份合約的措辭充滿模糊之處,導致了一場法律糾紛。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "01",
+        "spelling": "act；ag",
+        "meaning": "做；動"
+      }
+    },
+    {
+      "word": "antagonistic",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "showing hostility or opposition:",
+      "defn_zh": "敵對的/對抗性的",
+      "root_note": "anti- (against) + agon (struggle)",
+      "sentences": [
+        {
+          "en": "His ______ behavior created tension at work.",
+          "zh": "他充滿敵意的行為在職場上造成了緊張氣氛。"
+        },
+        {
+          "en": "The two rival companies have maintained an ______ relationship for years.",
+          "zh": "這兩家競爭公司多年來一直維持著敵對的關係。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "01",
+        "spelling": "act；ag",
+        "meaning": "做；動"
+      }
+    },
+    {
+      "word": "antagonize",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to provoke hostility in someone:",
+      "defn_zh": "激怒;使敵對",
+      "root_note": "anti- (against) + agonizesthai (to contend), from Greek",
+      "sentences": [
+        {
+          "en": "He didn't mean to ______ his coworkers, but his blunt feedback often did.",
+          "zh": "他無意激怒同事,但他直白的意見卻常常造成這種效果。"
+        },
+        {
+          "en": "The new tax proposal is likely to ______ small business owners.",
+          "zh": "這項新稅制提案很可能會激怒小企業主。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "01",
+        "spelling": "act；ag",
+        "meaning": "做；動"
+      }
+    },
+    {
+      "word": "coagulate",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to thicken, clot:",
+      "defn_zh": "凝結/凝固",
+      "root_note": "co- (together) + agere (to drive)",
+      "sentences": [
+        {
+          "en": "The blood began to ______ almost immediately around the wound.",
+          "zh": "血液幾乎立即開始在傷口周圍凝結。"
+        },
+        {
+          "en": "Cold temperatures caused the sauce to ______ into a thick paste.",
+          "zh": "低溫使這道醬汁凝結成濃稠的糊狀。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "01",
+        "spelling": "act；ag",
+        "meaning": "做；動"
+      }
+    },
+    {
+      "word": "counteract",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to work in opposition to:",
+      "defn_zh": "抵消/抵銷",
+      "root_note": "contra- (against) + agere (to act)",
+      "sentences": [
+        {
+          "en": "This ingredient seems to ______ the other ones.",
+          "zh": "這項成分似乎會抵消其他成分的作用。"
+        },
+        {
+          "en": "Doctors prescribed a second medication to ______ the side effects of the first.",
+          "zh": "醫生開了第二種藥物,以抵銷第一種藥的副作用。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "01",
+        "spelling": "act；ag",
+        "meaning": "做；動"
+      }
+    },
+    {
+      "word": "demagogue",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a leader who appeals to a people's prejudices:",
+      "defn_zh": "煽動政客/群眾煽動者",
+      "root_note": "demos (people, Greek) + agein (to lead, Greek)",
+      "sentences": [
+        {
+          "en": "Historians warn that economic hardship often gives rise to a ______.",
+          "zh": "歷史學家警告,經濟困頓往往容易催生出煽動政客。"
+        },
+        {
+          "en": "The ______ stirred up the crowd with fear rather than facts.",
+          "zh": "這位煽動政客用恐懼而非事實來鼓動群眾。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "01",
+        "spelling": "act；ag",
+        "meaning": "做；動"
+      }
+    },
+    {
+      "word": "demagogy",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "impassioned appeals to the prejudices and emotions of the populace:",
+      "defn_zh": "煽動政治/蠱惑人心",
+      "root_note": "demos (people, Greek) + agein (to lead, Greek)",
+      "sentences": [
+        {
+          "en": "Critics accused the candidate of relying on empty ______ rather than policy.",
+          "zh": "評論家指責這名候選人依賴空洞的煽動言論,而非實際政策。"
+        },
+        {
+          "en": "The speech was pure ______, designed to provoke anger rather than inform.",
+          "zh": "這場演說純粹是蠱惑人心之詞,旨在激起憤怒而非提供資訊。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "01",
+        "spelling": "act；ag",
+        "meaning": "做；動"
+      }
+    },
+    {
+      "word": "disagree",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to hold a different opinion:",
+      "defn_zh": "不同意;意見不合",
+      "root_note": "dis- (not) + agreer (to agree), from French",
+      "sentences": [
+        {
+          "en": "The two economists ______ on the cause of inflation.",
+          "zh": "這兩位經濟學家對通膨的成因意見不合。"
+        },
+        {
+          "en": "I have to ______ with your assessment of the situation.",
+          "zh": "我必須不同意你對這個情況的評估。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "01",
+        "spelling": "act；ag",
+        "meaning": "做；動"
+      }
+    },
+    {
+      "word": "disagreeable",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "unpleasant; unfriendly:",
+      "defn_zh": "令人不快的;不友善的",
+      "root_note": "dis- (not) + agreer (to agree), from French",
+      "sentences": [
+        {
+          "en": "The medicine had a ______ taste.",
+          "zh": "這種藥有著令人不快的味道。"
+        },
+        {
+          "en": "He grew ______ whenever his opinions were challenged.",
+          "zh": "每當意見受到質疑時,他就變得不友善。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "01",
+        "spelling": "act；ag",
+        "meaning": "做；動"
+      }
+    },
+    {
+      "word": "exactitude",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "the quality of being precise or accurate:",
+      "defn_zh": "精確性",
+      "root_note": "ex- (out) + agere (to drive)",
+      "sentences": [
+        {
+          "en": "The scientist's ______ ensured reliable results.",
+          "zh": "這位科學家一絲不苟的精確性確保了研究結果的可靠性。"
+        },
+        {
+          "en": "The surgeon performed the operation with remarkable ______.",
+          "zh": "這位外科醫生以驚人的精確度完成了這場手術。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "01",
+        "spelling": "act；ag",
+        "meaning": "做；動"
+      }
+    },
+    {
+      "word": "exaggerate",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to overstate or magnify beyond the truth:",
+      "defn_zh": "誇大",
+      "root_note": "ex- (out) + aggerare (to heap up)",
+      "sentences": [
+        {
+          "en": "My cousin tends to ______ his achievements.",
+          "zh": "我的表哥常常誇大自己的成就。"
+        },
+        {
+          "en": "Newspapers sometimes ______ the danger of minor incidents.",
+          "zh": "報紙有時會誇大小事件的危險程度。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "01",
+        "spelling": "act；ag",
+        "meaning": "做；動"
+      }
+    },
+    {
+      "word": "exigent",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "urgent, critical:",
+      "defn_zh": "緊急的/迫切的",
+      "root_note": "ex- (out) + agere (to drive, do)",
+      "sentences": [
+        {
+          "en": "The hospital declared an ______ need for more blood donors.",
+          "zh": "這家醫院宣布迫切需要更多的捐血者。"
+        },
+        {
+          "en": "Facing ______ circumstances, the team worked through the night.",
+          "zh": "面對緊急的情況,這支團隊徹夜工作。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "01",
+        "spelling": "act；ag",
+        "meaning": "做；動"
+      }
+    },
+    {
+      "word": "inactive",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "not engaged in movement or activity:",
+      "defn_zh": "不活躍的/靜止的",
+      "root_note": "in- (not) + agere (to act)",
+      "sentences": [
+        {
+          "en": "The volcano has been ______ for decades.",
+          "zh": "這座火山已經沉寂了數十年。"
+        },
+        {
+          "en": "His social media account has remained ______ since last year.",
+          "zh": "他的社群媒體帳號自去年以來就一直沒有更新。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "01",
+        "spelling": "act；ag",
+        "meaning": "做；動"
+      }
+    },
+    {
+      "word": "intransigent",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "refusing to compromise, often on an extreme opinion:",
+      "defn_zh": "不妥協的/頑固的",
+      "root_note": "in- (not) + trans- (across) + agere (to drive, do)",
+      "sentences": [
+        {
+          "en": "Negotiations stalled because both sides remained completely ______.",
+          "zh": "由於雙方都堅持不肯妥協,談判陷入了僵局。"
+        },
+        {
+          "en": "Her ______ stance on the issue frustrated even her closest allies.",
+          "zh": "她在這個議題上不肯讓步的立場,讓連她最親近的盟友都感到沮喪。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "01",
+        "spelling": "act；ag",
+        "meaning": "做；動"
+      }
+    },
+    {
+      "word": "litigant",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "someone engaged in a lawsuit:",
+      "defn_zh": "訴訟當事人",
+      "root_note": "lis, litis (lawsuit) + agere (to do, drive)",
+      "sentences": [
+        {
+          "en": "Both ______s agreed to settle the case outside of court.",
+          "zh": "雙方訴訟當事人同意在法庭外和解此案。"
+        },
+        {
+          "en": "The judge asked each ______ to present their evidence in turn.",
+          "zh": "法官要求每位訴訟當事人依序提出各自的證據。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "01",
+        "spelling": "act；ag",
+        "meaning": "做；動"
+      }
+    },
+    {
+      "word": "nonage",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "the period of being under legal age; immaturity:",
+      "defn_zh": "未成年期;未成熟階段",
+      "root_note": "non- (not) + age, from Old French aage",
+      "sentences": [
+        {
+          "en": "Under the old law, heirs in their ______ required a guardian.",
+          "zh": "在這項舊法之下,尚未成年的繼承人需要一位監護人。"
+        },
+        {
+          "en": "The company's early ______ was marked by constant financial struggle.",
+          "zh": "這家公司早期的萌芽階段充滿了持續的財務困境。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "01",
+        "spelling": "act；ag",
+        "meaning": "做；動"
+      }
+    },
+    {
+      "word": "panegyric",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a formal public speech or writing praising someone or something:",
+      "defn_zh": "頌詞;讚美文章",
+      "root_note": "panegyrikos (of a public assembly), from Greek pan- (all) + agora (assembly)",
+      "sentences": [
+        {
+          "en": "The eulogy became less a memorial and more a ______ .",
+          "zh": "這篇悼詞少了些追思,更像是一篇讚美文章。"
+        },
+        {
+          "en": "Critics dismissed the biography as an uncritical ______ .",
+          "zh": "評論家認為這本傳記不過是一篇缺乏批判性的頌詞。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "01",
+        "spelling": "act；ag",
+        "meaning": "做；動"
+      }
+    },
+    {
+      "word": "pedagogy",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "the profession of a teacher:",
+      "defn_zh": "教育學/教學法",
+      "root_note": "pais, paidos (child, Greek) + agein (to lead, Greek)",
+      "sentences": [
+        {
+          "en": "Her thesis explores modern approaches to ______ in elementary schools.",
+          "zh": "她的論文探討小學教育中的現代教學法。"
+        },
+        {
+          "en": "He earned a graduate degree in ______ before becoming a school principal.",
+          "zh": "他在成為校長之前,取得了教育學的研究所學位。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "01",
+        "spelling": "act；ag",
+        "meaning": "做；動"
+      }
+    },
+    {
+      "word": "proactive",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "acting in anticipation of future problems rather than reacting to them:",
+      "defn_zh": "積極主動的",
+      "root_note": "pro- (before) + active, from Latin agere (to act)",
+      "sentences": [
+        {
+          "en": "The company took a ______ approach to preventing workplace accidents.",
+          "zh": "這家公司採取積極主動的方式來預防職場意外事故。"
+        },
+        {
+          "en": "She encouraged her students to be ______ about their own learning.",
+          "zh": "她鼓勵學生對自己的學習抱持積極主動的態度。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "01",
+        "spelling": "act；ag",
+        "meaning": "做；動"
+      }
+    },
+    {
+      "word": "redact",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to edit or censor text, especially by removing sensitive information:",
+      "defn_zh": "編輯;刪除機密內容",
+      "root_note": "redigere (to bring back), from Latin re- (back) + agere (to drive)",
+      "sentences": [
+        {
+          "en": "Officials chose to ______ several names from the released document.",
+          "zh": "官員選擇從這份公開的文件中刪除好幾個姓名。"
+        },
+        {
+          "en": "The agency began to ______ classified sections before publication.",
+          "zh": "這個機構在發布前開始刪除機密的部分。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "01",
+        "spelling": "act；ag",
+        "meaning": "做；動"
+      }
+    },
+    {
+      "word": "redaction",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "the editing or censoring of a text, especially by removing sensitive content:",
+      "defn_zh": "刪節;編輯處理",
+      "root_note": "redigere (to bring back), from Latin re- (back) + agere (to drive)",
+      "sentences": [
+        {
+          "en": "Heavy ______ made large portions of the report unreadable.",
+          "zh": "大量的刪節讓這份報告的許多部分變得無法閱讀。"
+        },
+        {
+          "en": "Journalists criticized the government's excessive ______ of the file.",
+          "zh": "記者批評政府對這份檔案過度的刪節處理。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "01",
+        "spelling": "act；ag",
+        "meaning": "做；動"
+      }
+    },
+    {
+      "word": "variegated",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "diversified, distinctly marked:",
+      "defn_zh": "斑駁的/雜色的",
+      "root_note": "varius (various, spotted, Latin) + agere (to do, make)",
+      "sentences": [
+        {
+          "en": "The garden was filled with ______ leaves of green, yellow, and white.",
+          "zh": "這座花園裡開滿了綠、黃、白斑駁交錯的葉子。"
+        },
+        {
+          "en": "She collected ______ shells of every shape and color along the beach.",
+          "zh": "她沿著海灘收集了各種形狀與色彩斑斕的貝殼。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "01",
+        "spelling": "act；ag",
+        "meaning": "做；動"
+      }
+    }
+  ],
+  "family_options": {},
+  "fallback_options": {
+    "v.": [
+      {
+        "word": "abound",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to exist in great numbers:",
+        "defn_zh": "充滿"
+      },
+      {
+        "word": "abrogate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to deprive of legal force, to nullify:=abolish",
+        "defn_zh": "廢除/取消"
+      },
+      {
+        "word": "abjure",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to renounce, abstain from:",
+        "defn_zh": "發誓放棄/棄絕"
+      },
+      {
+        "word": "abbreviate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to shorten a word or phrase:",
+        "defn_zh": "縮寫;縮短"
+      },
+      {
+        "word": "abdicate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to give up a position, usually one of leadership:",
+        "defn_zh": "退位/放棄(職位)"
+      },
+      {
+        "word": "abduct",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to kidnap, take by force:",
+        "defn_zh": "綁架/劫持"
+      },
+      {
+        "word": "abhor",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to regard with disgust and hatred:",
+        "defn_zh": "憎惡/厭惡"
+      },
+      {
+        "word": "abnegate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to deny or renounce:",
+        "defn_zh": "放棄/克制"
+      },
+      {
+        "word": "abolish",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to formally put an end to a system, practice, or institution:",
+        "defn_zh": "廢除"
+      },
+      {
+        "word": "abort",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to give up on a half-finished project or effort:",
+        "defn_zh": "中止/放棄"
+      },
+      {
+        "word": "abrade",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to scrape or wear away by friction:",
+        "defn_zh": "磨損;擦傷"
+      },
+      {
+        "word": "abscond",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to sneak away and hide:",
+        "defn_zh": "潛逃/逃匿"
+      }
+    ],
+    "adj.": [
+      {
+        "word": "abortive",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "fruitless, failing:",
+        "defn_zh": "失敗的/夭折的"
+      },
+      {
+        "word": "abstemious",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "moderate in eating or drinking:",
+        "defn_zh": "飲食有節制的"
+      },
+      {
+        "word": "abhorrent",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "detestable, despised:",
+        "defn_zh": "令人厭惡的"
+      },
+      {
+        "word": "absurd",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "ridiculous:",
+        "defn_zh": "荒謬的"
+      },
+      {
+        "word": "aberrant",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "deviating from what is normal or expected:",
+        "defn_zh": "異常的;脫軌的"
+      },
+      {
+        "word": "abject",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "wretched, pitiful:",
+        "defn_zh": "卑賤的/淒慘的"
+      },
+      {
+        "word": "abominable",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "causing moral revulsion; extremely unpleasant:",
+        "defn_zh": "可憎的;惡劣的"
+      },
+      {
+        "word": "abounding",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "existing in large numbers or amounts:",
+        "defn_zh": "大量存在的;豐富的"
+      },
+      {
+        "word": "abrasive",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "showing little concern for others; harsh:",
+        "defn_zh": "粗暴的/刺耳的"
+      },
+      {
+        "word": "abrupt",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "sudden or unexpected; brief and curt in manner:",
+        "defn_zh": "突然的/唐突的"
+      },
+      {
+        "word": "abstract",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "existing purely in the mind; not representing actual reality:",
+        "defn_zh": "抽象的"
+      },
+      {
+        "word": "abstruse",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "hard to comprehend:",
+        "defn_zh": "深奧難懂的"
+      }
+    ],
+    "n.": [
+      {
+        "word": "aversion",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "strong dislike, opposition:",
+        "defn_zh": "厭惡/反感"
+      },
+      {
+        "word": "aberration",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "something that differs from the norm:",
+        "defn_zh": "異常/脫軌"
+      },
+      {
+        "word": "abjection",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a state of complete misery, hopelessness, or degradation:",
+        "defn_zh": "卑賤;悲慘狀態"
+      },
+      {
+        "word": "abjuration",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the solemn renunciation of a belief, cause, or claim:",
+        "defn_zh": "公開放棄;誓絕"
+      },
+      {
+        "word": "ablution",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the act of washing oneself, especially as part of a religious ritual:",
+        "defn_zh": "沐浴;淨身儀式"
+      },
+      {
+        "word": "abnegation",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "denial of comfort to oneself:",
+        "defn_zh": "自我克制/放棄"
+      },
+      {
+        "word": "abomination",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "something that causes disgust or hatred:",
+        "defn_zh": "可憎之事;令人厭惡的東西"
+      },
+      {
+        "word": "abridgement",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a shortened version of a book or other written work:",
+        "defn_zh": "節略本;縮減版"
+      },
+      {
+        "word": "absolution",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "freedom from blame, guilt, sin:",
+        "defn_zh": "赦免/免罪"
+      },
+      {
+        "word": "abstemiousness",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "moderation or self-restraint, especially in eating and drinking:",
+        "defn_zh": "節制;克己"
+      },
+      {
+        "word": "abstinence",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the practice of restraining oneself from something enjoyable, especially food, alcohol, or sex:",
+        "defn_zh": "節制;戒絕"
+      },
+      {
+        "word": "avocation",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a hobby or minor occupation apart from one's main career:",
+        "defn_zh": "副業;業餘愛好"
+      }
+    ],
+    "adv.": [
+      {
+        "word": "accordingly",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in a manner that fits the circumstances; consequently:",
+        "defn_zh": "相應地;因此"
+      },
+      {
+        "word": "inadvertently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "unintentionally or by accident:",
+        "defn_zh": "無意間/不小心地"
+      },
+      {
+        "word": "consequently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "as a result; therefore:",
+        "defn_zh": "因此;結果"
+      },
+      {
+        "word": "contemptuously",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "without respect; in a disdainful manner:",
+        "defn_zh": "輕蔑地"
+      },
+      {
+        "word": "involuntarily",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "done without conscious control:",
+        "defn_zh": "不由自主地"
+      },
+      {
+        "word": "cordially",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in a warm or friendly manner:",
+        "defn_zh": "誠摯地/友好地"
+      },
+      {
+        "word": "ipso facto",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "by that very fact or act:",
+        "defn_zh": "事實上;因此"
+      },
+      {
+        "word": "en passant",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in passing; incidentally:",
+        "defn_zh": "順帶一提地;偶然地"
+      },
+      {
+        "word": "regardless",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "despite the prevailing circumstances; without being deterred:",
+        "defn_zh": "不管怎樣;儘管如此"
+      },
+      {
+        "word": "subsequently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "afterward; following in time or order:",
+        "defn_zh": "隨後;其後"
+      },
+      {
+        "word": "aside",
+        "pos": "adv./n.",
+        "pos_key": "adv.",
+        "defn_en": "to or on one side; a remark not meant to be heard by everyone:",
+        "defn_zh": "在旁邊;旁白"
+      },
+      {
+        "word": "vice versa",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "with the order or meaning reversed; conversely:",
+        "defn_zh": "反之亦然"
+      }
+    ],
+    "other": [
+      {
+        "word": "（此批單字中，暫無符合此字根/字首的單字）",
+        "pos": "",
+        "pos_key": "other",
+        "defn_en": "",
+        "defn_zh": ""
+      }
+    ],
+    "prep./adv.": [
+      {
+        "word": "besides",
+        "pos": "prep./adv.",
+        "pos_key": "prep./adv.",
+        "defn_en": "in addition to; furthermore:",
+        "defn_zh": "除...之外;此外"
+      }
+    ],
+    "phrasalv.": [
+      {
+        "word": "egg on",
+        "pos": "phrasal v.",
+        "pos_key": "phrasalv.",
+        "defn_en": "to encourage someone to do something, often risky:",
+        "defn_zh": "慫恿;鼓動"
+      }
+    ],
+    "abbr.": [
+      {
+        "word": "etc.",
+        "pos": "abbr.",
+        "pos_key": "abbr.",
+        "defn_en": "and other similar things (abbreviation of et cetera):",
+        "defn_zh": "等等(et cetera的縮寫)"
+      }
+    ],
+    "interj.": [
+      {
+        "word": "fiddledeedee",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "an exclamation expressing dismissal of something as nonsense:",
+        "defn_zh": "廢話!(表示不屑一顧)"
+      },
+      {
+        "word": "gesundheit",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "an expression said to someone who has just sneezed:",
+        "defn_zh": "保重(打噴嚏後的祝福語)"
+      }
+    ],
+    "prep.": [
+      {
+        "word": "via",
+        "pos": "prep.",
+        "pos_key": "prep.",
+        "defn_en": "by way of; passing through:",
+        "defn_zh": "經由;透過"
+      }
+    ]
+  }
+}
