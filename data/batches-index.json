@@ -4,7 +4,7 @@
     "total_batches": 236,
     "part1_part2_batches": 159,
     "unclassified_batches": 77,
-    "generated_batches": 122
+    "generated_batches": 123
   },
   "batches": [
     {
@@ -1234,7 +1234,7 @@
       "name": "pose",
       "subtitle": "放置",
       "count": 24,
-      "generated": false,
+      "generated": true,
       "search_terms": "compound component juxtapose apposite compose composed composure dispose exponent expose expository expound interpose juxtaposition oppose opposition posit position postpone proponent suppose supposition supposititious symposium"
     },
     {
