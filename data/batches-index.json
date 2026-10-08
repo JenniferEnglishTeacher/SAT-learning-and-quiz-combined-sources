@@ -4,7 +4,7 @@
     "total_batches": 236,
     "part1_part2_batches": 159,
     "unclassified_batches": 77,
-    "generated_batches": 94
+    "generated_batches": 95
   },
   "batches": [
     {
@@ -954,7 +954,7 @@
       "name": "cede；ceed；cess",
       "subtitle": "行進；走；讓步",
       "count": 13,
-      "generated": false,
+      "generated": true,
       "search_terms": "cessation access precedent unprecedented accessible accede antecedent concede exceed excess excessive incessant proceed"
     },
     {
