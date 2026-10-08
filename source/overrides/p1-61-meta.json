@@ -1,0 +1,134 @@
+{
+  "id": "p1-61-meta",
+  "merge_with_source": true,
+  "name": "meta",
+  "subtitle": "之後；超越；變化",
+  "words": [
+    {
+      "word": "metamorphosis",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a complete and often dramatic change in form, appearance, or character:",
+      "defn_zh": "蛻變；變形；劇烈轉變",
+      "root_note": "meta- (change) + morph (form or shape) + -osis (process or condition)",
+      "synonyms": ["transformation", "conversion", "transfiguration", "change"],
+      "antonyms": ["stability", "continuity", "preservation"],
+      "sentences": [
+        {
+          "en": "The political landscape underwent a radical ______ after the election; the once-dominant conservative party lost majority control, and a completely new progressive coalition rewrote the nation's economic policies.",
+          "zh": "選舉結束後，政治版圖經歷了徹底的蛻變；曾經佔主導地位的保守黨失去了多數控制權，一個全新的進步聯盟重新制定了國家的經濟政策。"
+        },
+        {
+          "en": "In Franz Kafka's famous novella, Gregor Samsa wakes up to experience a horrifying physical ______, finding his human limbs replaced by the segmented body and antennae of a monstrous insect.",
+          "zh": "在卡夫卡著名的短篇小說中，格里戈爾・薩姆沙醒來後經歷了一場可怕的生理變形，發現自己的四肢被一隻巨大昆蟲的分節身體和觸角所取代。"
+        }
+      ],
+      "category": {"part": 1, "num": "61", "spelling": "meta", "meaning": "之後；超越；變化"}
+    },
+    {
+      "word": "metaphorical",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "using a word or phrase symbolically rather than in its literal sense:",
+      "defn_zh": "隱喻性的；比喻的",
+      "root_note": "meta- (over or across) + phor (carry) + -ical (relating to)",
+      "synonyms": ["figurative", "symbolic", "nonliteral", "allegorical"],
+      "antonyms": ["literal", "actual", "factual"],
+      "sentences": [
+        {
+          "en": "When the poet described the ocean as a 'snarling beast,' she was using ______ language, since the sea does not actually possess teeth or a voice, but it does share a beast's wild and unpredictable nature.",
+          "zh": "當詩人將海洋描述為「咆哮的猛獸」時，她使用的是隱喻性的語言，因為大海實際上並沒有牙齒或聲音，但它確實具有猛獸般狂野且不可預測的本質。"
+        },
+        {
+          "en": "The teacher clarified that the 'mountain of homework' was purely ______; there was no literal pile of dirt in the classroom, but rather a symbolic representation of the immense volume of assignments due on Monday.",
+          "zh": "老師澄清說，「作業大山」純粹是比喻性的；教室裡並沒有真正的一堆土，而是象徵著週一要交的巨大作業量。"
+        }
+      ],
+      "category": {"part": 1, "num": "61", "spelling": "meta", "meaning": "之後；超越；變化"}
+    },
+    {
+      "word": "metabolism",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "the chemical processes by which a living body converts food into energy and materials for growth:",
+      "defn_zh": "新陳代謝",
+      "root_note": "meta- (change) + bol (throw) + -ism (process or system)",
+      "synonyms": ["biochemical processing", "energy conversion"],
+      "antonyms": [],
+      "sentences": [
+        {
+          "en": "Because hummingbird species possess an incredibly rapid ______, they must consume more than their body weight in nectar daily to constantly replenish the massive energy burned by their rapidly beating wings.",
+          "zh": "由於蜂鳥物種擁有極其快速的新陳代謝，牠們每天必須消耗超過自身體重的花蜜，以不斷補充因雙翼快速拍動而燃燒的巨大能量。"
+        },
+        {
+          "en": "Doctors noted that the patient's sluggish ______ was caused by an underactive thyroid, which severely slowed down the rate at which her cells converted nutrients into cellular energy.",
+          "zh": "醫生指出，患者新陳代謝緩慢是由甲狀腺功能低下引起的，這嚴重減慢了她細胞將營養物質轉化為細胞能量的速度。"
+        }
+      ],
+      "category": {"part": 1, "num": "61", "spelling": "meta", "meaning": "之後；超越；變化"}
+    },
+    {
+      "word": "metastasis",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "the spread of disease, especially cancer, from one part of the body to another:",
+      "defn_zh": "轉移；擴散（尤指癌細胞）",
+      "root_note": "meta- (change or beyond) + sta (stand or place) + -sis (process)",
+      "synonyms": ["spread", "dissemination", "migration"],
+      "antonyms": ["localization", "containment"],
+      "sentences": [
+        {
+          "en": "The oncologist ordered an immediate full-body scan to check for ______, fearing that the aggressive cancer cells had broken away from the primary lung tumor and migrated to the patient's bones.",
+          "zh": "腫瘤科醫生立即下令進行全身掃描以檢查是否有癌細胞轉移，擔心具有攻擊性的癌細胞已從原發性肺部腫瘤中脫離，並遷移到患者的骨骼中。"
+        },
+        {
+          "en": "Early detection of the disease prevented ______, ensuring the harmful cells remained localized in one tissue area rather than spreading through the bloodstream to vital organs.",
+          "zh": "該疾病的早期發現阻止了擴散轉移，確保有害細胞僅侷限在單一組織區域，而沒有透過血液循環擴散到重要器官。"
+        }
+      ],
+      "category": {"part": 1, "num": "61", "spelling": "meta", "meaning": "之後；超越；變化"}
+    },
+    {
+      "word": "metaphysical",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "concerned with existence, reality, and ideas beyond the physical world:",
+      "defn_zh": "形而上學的；玄學的；超越物質世界的",
+      "root_note": "meta- (beyond or after) + phys (nature or physical matter) + -ical (relating to)",
+      "synonyms": ["philosophical", "abstract", "transcendent", "spiritual"],
+      "antonyms": ["physical", "material", "concrete", "empirical"],
+      "sentences": [
+        {
+          "en": "The philosophy seminar shifted from basic scientific ethics to deep ______ questions, forcing students to debate the ultimate nature of existence and whether the human soul exists beyond the physical brain.",
+          "zh": "哲學研討會從基礎的科學倫理轉向深奧的形而上學問題，迫使學生辯論存在的終極本質，以及人類靈魂是否凌駕於肉體大腦之上。"
+        },
+        {
+          "en": "John Donne's ______ poetry often uses highly intellectual and unusual analogies to explore intangible ideas like divine love, eternity, and the spiritual connection between lovers.",
+          "zh": "約翰・多恩的玄學詩作經常使用高度智性且獨特的類比，探索神聖之愛、永恆以及戀人之間的精神連結等無形概念。"
+        }
+      ],
+      "category": {"part": 1, "num": "61", "spelling": "meta", "meaning": "之後；超越；變化"}
+    },
+    {
+      "word": "metonymy",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a figure of speech in which the name of one thing is replaced by the name of something closely associated with it:",
+      "defn_zh": "轉喻；借代",
+      "root_note": "meta- (change or substitution) + onym (name)",
+      "synonyms": ["name substitution", "association", "figure of speech"],
+      "antonyms": ["literal expression"],
+      "sentences": [
+        {
+          "en": "When journalists say 'the Pentagon announced a new military strategy,' they are employing ______, substituting the name of the five-sided building for the defense officials who work inside it.",
+          "zh": "當新聞記者說「五角大廈宣布了新的軍事戰略」時，他們是在運用轉喻，用這座五角形建築物的名稱來替代在裡面工作的國防官員。"
+        },
+        {
+          "en": "The famous phrase 'the pen is mightier than the sword' relies on ______, where 'the pen' represents the written word and 'the sword' represents physical military force.",
+          "zh": "著名俗諺「筆鋒勝於武力」運用了轉喻，其中「筆」代表文字的力量，而「劍」則代表實體的軍事力量。"
+        }
+      ],
+      "category": {"part": 1, "num": "61", "spelling": "meta", "meaning": "之後；超越；變化"}
+    }
+  ]
+}
