@@ -4,7 +4,7 @@
     "total_batches": 236,
     "part1_part2_batches": 159,
     "unclassified_batches": 77,
-    "generated_batches": 102
+    "generated_batches": 103
   },
   "batches": [
     {
@@ -1034,7 +1034,7 @@
       "name": "fac(t)；fec(t)；fic(t) (1/2)",
       "subtitle": "做",
       "count": 50,
-      "generated": false,
+      "generated": true,
       "search_terms": "affect artifact artifice benefactor beneficence beneficent beneficial beneficiary certify confection deface defeat defection deficiency deficient deification deify difficult edifice efface efficacious efficacy facade facet facetious facile facilitate facility factitious factotum façade feasible feat febrifacient feckless fecund fecundate fecundity fetch fetish fortify glorification gratify insignificant interface ipso facto liquefy magnify malefactor maleficent"
     },
     {
