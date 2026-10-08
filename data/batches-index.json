@@ -4,7 +4,7 @@
     "total_batches": 236,
     "part1_part2_batches": 159,
     "unclassified_batches": 77,
-    "generated_batches": 72
+    "generated_batches": 73
   },
   "batches": [
     {
@@ -654,7 +654,7 @@
       "name": "sub",
       "subtitle": "在⋯⋯之下",
       "count": 25,
-      "generated": false,
+      "generated": true,
       "search_terms": "succumb to subjugate subterranean surreptitious subterfuge supplication susceptible succinct somber sojourn subservient submissive subordinate subfuscous sublime subliminal sublunary subsequent subsistence substantial subtle suburban succumb supplement surrogate"
     },
     {

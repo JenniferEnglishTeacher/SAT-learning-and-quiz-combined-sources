@@ -1,0 +1,1018 @@
+{
+  "id": "p1-43-sub",
+  "part": "part1",
+  "part_label": "Part 1 字首篇 (Prefixes)",
+  "name": "sub",
+  "subtitle": "在⋯⋯之下",
+  "count": 25,
+  "words": [
+    {
+      "word": "succumb to",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to give way, yield:",
+      "defn_zh": "屈服",
+      "root_note": "sub- (under) + cubare (to lie down)",
+      "sentences": [
+        {
+          "en": "Despite his best efforts, the patient eventually ______ the illness.",
+          "zh": "儘管盡了最大努力,病人最終還是屈服於病魔。"
+        },
+        {
+          "en": "Many soldiers ______ exhaustion after the long march.",
+          "zh": "許多士兵在長途行軍後屈服於疲憊。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "43",
+        "spelling": "sub",
+        "meaning": "在⋯⋯之下"
+      }
+    },
+    {
+      "word": "subjugate",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to conquer:",
+      "defn_zh": "征服/降伏",
+      "root_note": "sub- (under) + jugum (yoke)",
+      "sentences": [
+        {
+          "en": "The empire sought to ______ every neighboring kingdom.",
+          "zh": "這個帝國企圖征服每一個鄰近的王國。"
+        },
+        {
+          "en": "It took years of war for the invaders to fully ______ the region.",
+          "zh": "入侵者花了數年戰爭才完全征服這個地區。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "43",
+        "spelling": "sub",
+        "meaning": "在⋯⋯之下"
+      }
+    },
+    {
+      "word": "subterranean",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "underground:",
+      "defn_zh": "地下的/隱蔽的",
+      "root_note": "sub- (under) + terra (earth)",
+      "sentences": [
+        {
+          "en": "Explorers discovered a vast ______ cave system beneath the mountain.",
+          "zh": "探險家在山下發現了一個廣大的地下洞穴系統。"
+        },
+        {
+          "en": "The city's ______ tunnels once served as bomb shelters during the war.",
+          "zh": "這座城市的地下隧道曾在戰爭期間充當防空洞。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "43",
+        "spelling": "sub",
+        "meaning": "在⋯⋯之下"
+      }
+    },
+    {
+      "word": "surreptitious",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "stealthy, accomplished by secret:furtive",
+      "defn_zh": "鬼鬼祟祟的/暗中的",
+      "root_note": "sub- (secretly) + rapere (to seize)",
+      "sentences": [
+        {
+          "en": "He took a ______ glance at his phone during the meeting.",
+          "zh": "他在會議中偷偷摸摸地瞄了一眼手機。"
+        },
+        {
+          "en": "The spy made a ______ exchange of documents in the crowded café.",
+          "zh": "這名間諜在擁擠的咖啡廳裡暗中完成了文件的交換。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "43",
+        "spelling": "sub",
+        "meaning": "在⋯⋯之下"
+      }
+    },
+    {
+      "word": "subterfuge",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "ruse, trick:",
+      "defn_zh": "詭計/遁詞",
+      "root_note": "subter- (secretly) + fugere (to flee)",
+      "sentences": [
+        {
+          "en": "He used ______ to avoid answering the reporter's difficult questions.",
+          "zh": "他用詭計來迴避記者提出的棘手問題。"
+        },
+        {
+          "en": "The spy relied on ______ rather than force to gather information.",
+          "zh": "這名間諜靠詭計而非武力來蒐集情報。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "43",
+        "spelling": "sub",
+        "meaning": "在⋯⋯之下"
+      }
+    },
+    {
+      "word": "supplication",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "earnest plea:=implore=solicit",
+      "defn_zh": "懇求/祈求",
+      "root_note": "sub- (under) + plicare (to fold/bend)",
+      "sentences": [
+        {
+          "en": "The villagers offered a ______ to the gods for rain.",
+          "zh": "村民們向神明獻上祈求降雨的懇求。"
+        },
+        {
+          "en": "Her letter was filled with desperate ______ for forgiveness.",
+          "zh": "她的信中充滿了懇求原諒的絕望言詞。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "43",
+        "spelling": "sub",
+        "meaning": "在⋯⋯之下"
+      }
+    },
+    {
+      "word": "susceptible",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "easily affected:",
+      "defn_zh": "易受影響的",
+      "root_note": "sub- (up from under) + capere (to take)",
+      "sentences": [
+        {
+          "en": "Young children are especially ______ to colds in winter.",
+          "zh": "幼童在冬天特別容易感冒。"
+        },
+        {
+          "en": "People under stress are more ______ to making impulsive decisions.",
+          "zh": "處於壓力之下的人更容易做出衝動的決定。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "43",
+        "spelling": "sub",
+        "meaning": "在⋯⋯之下"
+      }
+    },
+    {
+      "word": "succinct",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "brief, concise:",
+      "defn_zh": "簡明的/簡潔的",
+      "root_note": "sub- (under) + cingere (to gird)",
+      "sentences": [
+        {
+          "en": "The professor gave a ______ summary of the entire semester.",
+          "zh": "這位教授對整個學期做了簡潔扼要的總結。"
+        },
+        {
+          "en": "Her ______ answer left no room for further questions.",
+          "zh": "她簡潔的回答讓人無需再多問什麼。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "43",
+        "spelling": "sub",
+        "meaning": "在⋯⋯之下"
+      }
+    },
+    {
+      "word": "somber",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "gloomy, sad:",
+      "defn_zh": "憂鬱的/昏暗的",
+      "root_note": "sub- (under) + umbra (shade)",
+      "sentences": [
+        {
+          "en": "A ______ mood fell over the room after the announcement.",
+          "zh": "宣布消息後,整個房間籠罩在一片憂鬱的氣氛中。"
+        },
+        {
+          "en": "The funeral was held under a ______ gray sky.",
+          "zh": "這場葬禮是在陰沉灰暗的天空下舉行的。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "43",
+        "spelling": "sub",
+        "meaning": "在⋯⋯之下"
+      }
+    },
+    {
+      "word": "sojourn",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "temporary stay:",
+      "defn_zh": "逗留/旅居",
+      "root_note": "sub- (under) + diurnus (of a day)",
+      "sentences": [
+        {
+          "en": "Their brief ______ in Paris left them longing to return.",
+          "zh": "他們在巴黎的短暫停留讓他們渴望再次造訪。"
+        },
+        {
+          "en": "He described his month-long ______ in India as life-changing.",
+          "zh": "他形容自己在印度為期一個月的旅居經歷徹底改變了人生。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "43",
+        "spelling": "sub",
+        "meaning": "在⋯⋯之下"
+      }
+    },
+    {
+      "word": "subservient",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "obsequious, servile:",
+      "defn_zh": "屈從的/奉承的",
+      "root_note": "sub- (under) + servire (to serve)",
+      "sentences": [
+        {
+          "en": "He resented being treated as ______ by his older colleagues.",
+          "zh": "他很不滿被年長的同事當成低聲下氣的下屬對待。"
+        },
+        {
+          "en": "The character plays a ______ role, always obeying the king's every wish.",
+          "zh": "這個角色扮演著卑躬屈膝的角色,總是唯命是從國王的每一個心願。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "43",
+        "spelling": "sub",
+        "meaning": "在⋯⋯之下"
+      }
+    },
+    {
+      "word": "submissive",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "voluntarily obeying another; humble",
+      "defn_zh": "順從的",
+      "root_note": "sub- (under) + mittere (to send)",
+      "sentences": [
+        {
+          "en": "The trainer taught the dog to be calm and ______.",
+          "zh": "訓練師教導這隻狗要保持冷靜順從。"
+        },
+        {
+          "en": "She refused to remain ______ in a relationship that disrespected her.",
+          "zh": "她拒絕在一段不尊重她的感情中繼續保持順從。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "43",
+        "spelling": "sub",
+        "meaning": "在⋯⋯之下"
+      }
+    },
+    {
+      "word": "subordinate",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "inferior; lower in rank or status",
+      "defn_zh": "下級的；從屬的",
+      "root_note": "sub- (under) + ordinare (to arrange)",
+      "sentences": [
+        {
+          "en": "As a ______ employee, he had to follow the manager's decisions.",
+          "zh": "身為下屬員工,他必須遵從經理的決定。"
+        },
+        {
+          "en": "The general treated his ______ officers with surprising respect.",
+          "zh": "這位將軍以令人意外的尊重態度對待他的下級軍官。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "43",
+        "spelling": "sub",
+        "meaning": "在⋯⋯之下"
+      }
+    },
+    {
+      "word": "subfuscous",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "dull or dusky in color; drab:",
+      "defn_zh": "暗淡的;褐灰色的",
+      "root_note": "sub- (somewhat) + fuscus (dark, dusky), from Latin",
+      "sentences": [
+        {
+          "en": "The old photographs had faded to a ______ brown over time.",
+          "zh": "這些老照片隨著時間褪成了一種暗淡的褐色。"
+        },
+        {
+          "en": "Moths often display ______ wings that provide effective camouflage.",
+          "zh": "蛾類經常展現出暗淡的翅膀,提供有效的偽裝。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "43",
+        "spelling": "sub",
+        "meaning": "在⋯⋯之下"
+      }
+    },
+    {
+      "word": "sublime",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "lofty, grand, exalted:",
+      "defn_zh": "崇高的/壯麗的",
+      "root_note": "sub- (up to) + limen (threshold, lintel)",
+      "sentences": [
+        {
+          "en": "Standing atop the mountain, she felt a ______ sense of awe.",
+          "zh": "站在山頂上,她感受到一種崇高的敬畏之情。"
+        },
+        {
+          "en": "The symphony's final movement was described by critics as truly ______.",
+          "zh": "評論家將這首交響曲的終樂章形容為真正壯麗崇高的傑作。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "43",
+        "spelling": "sub",
+        "meaning": "在⋯⋯之下"
+      }
+    },
+    {
+      "word": "subliminal",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "below the threshold of conscious perception:",
+      "defn_zh": "潛意識的;下意識的",
+      "root_note": "sub- (below) + limen (threshold), from Latin",
+      "sentences": [
+        {
+          "en": "Advertisers were once accused of using ______ messages in commercials.",
+          "zh": "廣告商曾被指控在廣告中使用潛意識訊息。"
+        },
+        {
+          "en": "The flashing image was too brief to register beyond a ______ level.",
+          "zh": "這個閃現的影像太短暫,只能在潛意識層面被察覺。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "43",
+        "spelling": "sub",
+        "meaning": "在⋯⋯之下"
+      }
+    },
+    {
+      "word": "sublunary",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "belonging to this world; earthly and mundane:",
+      "defn_zh": "塵世的;凡俗的",
+      "root_note": "sub- (under) + luna (moon), from Latin",
+      "sentences": [
+        {
+          "en": "The poem contrasts divine perfection with ______ imperfection.",
+          "zh": "這首詩將神聖的完美與塵世的不完美相互對比。"
+        },
+        {
+          "en": "He grew tired of ______ concerns and sought spiritual meaning instead.",
+          "zh": "他厭倦了塵世的紛擾,轉而尋求精神上的意義。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "43",
+        "spelling": "sub",
+        "meaning": "在⋯⋯之下"
+      }
+    },
+    {
+      "word": "subsequent",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "coming after something in time; following:",
+      "defn_zh": "隨後的;接著的",
+      "root_note": "sub- (under, after) + sequi (follow), from Latin",
+      "sentences": [
+        {
+          "en": "The ______ meeting addressed the concerns raised earlier that day.",
+          "zh": "隨後召開的會議處理了當天稍早提出的疑慮。"
+        },
+        {
+          "en": "______ studies confirmed the initial findings.",
+          "zh": "後續的研究證實了最初的研究結果。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "43",
+        "spelling": "sub",
+        "meaning": "在⋯⋯之下"
+      }
+    },
+    {
+      "word": "subsistence",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a means of surviving:",
+      "defn_zh": "維生/生計",
+      "root_note": "sub- (under) + sistere (to stand)",
+      "sentences": [
+        {
+          "en": "Many families in the region rely on ______ farming to survive.",
+          "zh": "這個地區的許多家庭依靠自給自足的農業維生。"
+        },
+        {
+          "en": "The refugees were provided with only the bare ______ needed to survive the winter.",
+          "zh": "這些難民只獲得了勉強度過冬天所需的基本維生物資。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "43",
+        "spelling": "sub",
+        "meaning": "在⋯⋯之下"
+      }
+    },
+    {
+      "word": "substantial",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "of considerable importance, size, or worth; significant:",
+      "defn_zh": "相當大的/重要的",
+      "root_note": "sub- (under) + stare (to stand)",
+      "sentences": [
+        {
+          "en": "The company made a ______ profit this quarter, far exceeding expectations.",
+          "zh": "這家公司本季獲得了可觀的利潤,遠超出預期。"
+        },
+        {
+          "en": "Jackie made a ______ donation to her alma mater.",
+          "zh": "傑琪向她的母校捐贈了一筆可觀的款項。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "43",
+        "spelling": "sub",
+        "meaning": "在⋯⋯之下"
+      }
+    },
+    {
+      "word": "subtle",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "delicate or precise, difficult to perceive or understand; understated:",
+      "defn_zh": "微妙的/精細的",
+      "root_note": "sub- (under) + tela (web)",
+      "sentences": [
+        {
+          "en": "The artist used ______ colors to create an intricate design.",
+          "zh": "這位藝術家運用細膩微妙的色彩創造出精緻複雜的設計。"
+        },
+        {
+          "en": "The author gave a ______ hint as to who the murderer was.",
+          "zh": "這位作家給出了一個微妙的暗示,透露誰是兇手。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "43",
+        "spelling": "sub",
+        "meaning": "在⋯⋯之下"
+      }
+    },
+    {
+      "word": "suburban",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "relating to a residential area on the outskirts of a city:",
+      "defn_zh": "郊區的",
+      "root_note": "sub- (near, under) + urbs (city), from Latin",
+      "sentences": [
+        {
+          "en": "They moved to a quiet ______ neighborhood to raise their children.",
+          "zh": "他們搬到了一個安靜的郊區社區來養育孩子。"
+        },
+        {
+          "en": "______ life offered more space than their old apartment downtown.",
+          "zh": "郊區生活提供了比他們在市中心的舊公寓更多的空間。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "43",
+        "spelling": "sub",
+        "meaning": "在⋯⋯之下"
+      }
+    },
+    {
+      "word": "succumb",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to yield or give in to something, such as a temptation or pressure; to die from an illness or injury:",
+      "defn_zh": "屈服/因病而死",
+      "root_note": "sub- (under) + cumbere (to lie down)",
+      "sentences": [
+        {
+          "en": "After a long battle with the disease, he eventually ______ to his illness.",
+          "zh": "在與疾病奮戰許久之後,他最終還是不敵病魔。"
+        },
+        {
+          "en": "He ______ to the temptation to eat the entire bag of gummy bears.",
+          "zh": "他終究抵擋不住誘惑,吃掉了整包軟糖熊。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "43",
+        "spelling": "sub",
+        "meaning": "在⋯⋯之下"
+      }
+    },
+    {
+      "word": "supplement",
+      "pos": "v./n.",
+      "pos_key": "v.",
+      "defn_en": "to add something extra to complete or enhance something else:",
+      "defn_zh": "補充/補充品",
+      "root_note": "sub- (under) + plere (to fill)",
+      "sentences": [
+        {
+          "en": "She decided to ______ her diet with vitamins to boost her energy levels.",
+          "zh": "她決定在飲食中補充維他命,以提升自己的體力。"
+        },
+        {
+          "en": "She ______ her income by starting a side hustle.",
+          "zh": "她透過經營副業來補充自己的收入。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "43",
+        "spelling": "sub",
+        "meaning": "在⋯⋯之下"
+      }
+    },
+    {
+      "word": "surrogate",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "one acting in place of another:",
+      "defn_zh": "代理人/代替者",
+      "root_note": "sub- (in place of) + rogare (to ask)",
+      "sentences": [
+        {
+          "en": "The aunt acted as a ______ mother after the child's parents passed away.",
+          "zh": "在這個孩子的父母過世後,這位阿姨成了她的代理母親。"
+        },
+        {
+          "en": "The company appointed a ______ to represent it at the international conference.",
+          "zh": "這家公司指派了一位代表出席這場國際會議。"
+        }
+      ],
+      "category": {
+        "part": 1,
+        "num": "43",
+        "spelling": "sub",
+        "meaning": "在⋯⋯之下"
+      }
+    }
+  ],
+  "family_options": {},
+  "fallback_options": {
+    "v.": [
+      {
+        "word": "abound",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to exist in great numbers:",
+        "defn_zh": "充滿"
+      },
+      {
+        "word": "abrogate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to deprive of legal force, to nullify:=abolish",
+        "defn_zh": "廢除/取消"
+      },
+      {
+        "word": "abjure",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to renounce, abstain from:",
+        "defn_zh": "發誓放棄/棄絕"
+      },
+      {
+        "word": "abbreviate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to shorten a word or phrase:",
+        "defn_zh": "縮寫;縮短"
+      },
+      {
+        "word": "abdicate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to give up a position, usually one of leadership:",
+        "defn_zh": "退位/放棄(職位)"
+      },
+      {
+        "word": "abduct",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to kidnap, take by force:",
+        "defn_zh": "綁架/劫持"
+      },
+      {
+        "word": "abhor",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to regard with disgust and hatred:",
+        "defn_zh": "憎惡/厭惡"
+      },
+      {
+        "word": "abnegate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to deny or renounce:",
+        "defn_zh": "放棄/克制"
+      },
+      {
+        "word": "abolish",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to formally put an end to a system, practice, or institution:",
+        "defn_zh": "廢除"
+      },
+      {
+        "word": "abort",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to give up on a half-finished project or effort:",
+        "defn_zh": "中止/放棄"
+      },
+      {
+        "word": "abrade",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to scrape or wear away by friction:",
+        "defn_zh": "磨損;擦傷"
+      },
+      {
+        "word": "abscond",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to sneak away and hide:",
+        "defn_zh": "潛逃/逃匿"
+      }
+    ],
+    "adj.": [
+      {
+        "word": "abortive",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "fruitless, failing:",
+        "defn_zh": "失敗的/夭折的"
+      },
+      {
+        "word": "abstemious",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "moderate in eating or drinking:",
+        "defn_zh": "飲食有節制的"
+      },
+      {
+        "word": "abhorrent",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "detestable, despised:",
+        "defn_zh": "令人厭惡的"
+      },
+      {
+        "word": "absurd",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "ridiculous:",
+        "defn_zh": "荒謬的"
+      },
+      {
+        "word": "aberrant",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "deviating from what is normal or expected:",
+        "defn_zh": "異常的;脫軌的"
+      },
+      {
+        "word": "abject",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "wretched, pitiful:",
+        "defn_zh": "卑賤的/淒慘的"
+      },
+      {
+        "word": "abominable",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "causing moral revulsion; extremely unpleasant:",
+        "defn_zh": "可憎的;惡劣的"
+      },
+      {
+        "word": "abounding",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "existing in large numbers or amounts:",
+        "defn_zh": "大量存在的;豐富的"
+      },
+      {
+        "word": "abrasive",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "showing little concern for others; harsh:",
+        "defn_zh": "粗暴的/刺耳的"
+      },
+      {
+        "word": "abrupt",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "sudden or unexpected; brief and curt in manner:",
+        "defn_zh": "突然的/唐突的"
+      },
+      {
+        "word": "abstract",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "existing purely in the mind; not representing actual reality:",
+        "defn_zh": "抽象的"
+      },
+      {
+        "word": "abstruse",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "hard to comprehend:",
+        "defn_zh": "深奧難懂的"
+      }
+    ],
+    "n.": [
+      {
+        "word": "aversion",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "strong dislike, opposition:",
+        "defn_zh": "厭惡/反感"
+      },
+      {
+        "word": "aberration",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "something that differs from the norm:",
+        "defn_zh": "異常/脫軌"
+      },
+      {
+        "word": "abjection",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a state of complete misery, hopelessness, or degradation:",
+        "defn_zh": "卑賤;悲慘狀態"
+      },
+      {
+        "word": "abjuration",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the solemn renunciation of a belief, cause, or claim:",
+        "defn_zh": "公開放棄;誓絕"
+      },
+      {
+        "word": "ablution",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the act of washing oneself, especially as part of a religious ritual:",
+        "defn_zh": "沐浴;淨身儀式"
+      },
+      {
+        "word": "abnegation",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "denial of comfort to oneself:",
+        "defn_zh": "自我克制/放棄"
+      },
+      {
+        "word": "abomination",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "something that causes disgust or hatred:",
+        "defn_zh": "可憎之事;令人厭惡的東西"
+      },
+      {
+        "word": "abridgement",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a shortened version of a book or other written work:",
+        "defn_zh": "節略本;縮減版"
+      },
+      {
+        "word": "absolution",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "freedom from blame, guilt, sin:",
+        "defn_zh": "赦免/免罪"
+      },
+      {
+        "word": "abstemiousness",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "moderation or self-restraint, especially in eating and drinking:",
+        "defn_zh": "節制;克己"
+      },
+      {
+        "word": "abstinence",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the practice of restraining oneself from something enjoyable, especially food, alcohol, or sex:",
+        "defn_zh": "節制;戒絕"
+      },
+      {
+        "word": "avocation",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a hobby or minor occupation apart from one's main career:",
+        "defn_zh": "副業;業餘愛好"
+      }
+    ],
+    "adv.": [
+      {
+        "word": "accordingly",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in a manner that fits the circumstances; consequently:",
+        "defn_zh": "相應地;因此"
+      },
+      {
+        "word": "inadvertently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "unintentionally or by accident:",
+        "defn_zh": "無意間/不小心地"
+      },
+      {
+        "word": "consequently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "as a result; therefore:",
+        "defn_zh": "因此;結果"
+      },
+      {
+        "word": "contemptuously",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "without respect; in a disdainful manner:",
+        "defn_zh": "輕蔑地"
+      },
+      {
+        "word": "involuntarily",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "done without conscious control:",
+        "defn_zh": "不由自主地"
+      },
+      {
+        "word": "cordially",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in a warm or friendly manner:",
+        "defn_zh": "誠摯地/友好地"
+      },
+      {
+        "word": "ipso facto",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "by that very fact or act:",
+        "defn_zh": "事實上;因此"
+      },
+      {
+        "word": "en passant",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in passing; incidentally:",
+        "defn_zh": "順帶一提地;偶然地"
+      },
+      {
+        "word": "regardless",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "despite the prevailing circumstances; without being deterred:",
+        "defn_zh": "不管怎樣;儘管如此"
+      },
+      {
+        "word": "subsequently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "afterward; following in time or order:",
+        "defn_zh": "隨後;其後"
+      },
+      {
+        "word": "aside",
+        "pos": "adv./n.",
+        "pos_key": "adv.",
+        "defn_en": "to or on one side; a remark not meant to be heard by everyone:",
+        "defn_zh": "在旁邊;旁白"
+      },
+      {
+        "word": "vice versa",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "with the order or meaning reversed; conversely:",
+        "defn_zh": "反之亦然"
+      }
+    ],
+    "other": [
+      {
+        "word": "（此批單字中，暫無符合此字根/字首的單字）",
+        "pos": "",
+        "pos_key": "other",
+        "defn_en": "",
+        "defn_zh": ""
+      }
+    ],
+    "prep./adv.": [
+      {
+        "word": "besides",
+        "pos": "prep./adv.",
+        "pos_key": "prep./adv.",
+        "defn_en": "in addition to; furthermore:",
+        "defn_zh": "除...之外;此外"
+      }
+    ],
+    "phrasalv.": [
+      {
+        "word": "egg on",
+        "pos": "phrasal v.",
+        "pos_key": "phrasalv.",
+        "defn_en": "to encourage someone to do something, often risky:",
+        "defn_zh": "慫恿;鼓動"
+      }
+    ],
+    "abbr.": [
+      {
+        "word": "etc.",
+        "pos": "abbr.",
+        "pos_key": "abbr.",
+        "defn_en": "and other similar things (abbreviation of et cetera):",
+        "defn_zh": "等等(et cetera的縮寫)"
+      }
+    ],
+    "interj.": [
+      {
+        "word": "fiddledeedee",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "an exclamation expressing dismissal of something as nonsense:",
+        "defn_zh": "廢話!(表示不屑一顧)"
+      },
+      {
+        "word": "gesundheit",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "an expression said to someone who has just sneezed:",
+        "defn_zh": "保重(打噴嚏後的祝福語)"
+      }
+    ],
+    "prep.": [
+      {
+        "word": "via",
+        "pos": "prep.",
+        "pos_key": "prep.",
+        "defn_en": "by way of; passing through:",
+        "defn_zh": "經由;透過"
+      }
+    ]
+  }
+}
