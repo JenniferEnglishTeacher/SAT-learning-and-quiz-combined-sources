@@ -4,7 +4,7 @@
     "total_batches": 236,
     "part1_part2_batches": 159,
     "unclassified_batches": 77,
-    "generated_batches": 91
+    "generated_batches": 92
   },
   "batches": [
     {
@@ -922,10 +922,10 @@
       "part": "part2",
       "part_label": "Part 2 字根篇 (Roots)",
       "name": "audi",
-      "subtitle": "聽",
-      "count": 3,
-      "generated": false,
-      "search_terms": "audacious audible obedient"
+      "subtitle": "聽；聲音；說話",
+      "count": 14,
+      "generated": true,
+      "search_terms": "audacious audible obedient auditory audit inaudible audition audiovisual cacophony mellifluous sonorous vociferous resonance colloquial"
     },
     {
       "id": "p2-09-cad-cas-cid",

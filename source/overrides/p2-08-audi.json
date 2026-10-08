@@ -1,0 +1,152 @@
+{
+  "id": "p2-08-audi",
+  "merge_with_source": true,
+  "name": "audi",
+  "subtitle": "聽；聲音；說話",
+  "words": [
+    {
+      "word": "auditory", "pos": "adj.", "pos_key": "adj.",
+      "defn_en": "connected with hearing or the sense of sound:",
+      "defn_zh": "聽覺的；與聽力有關的",
+      "root_note": "audi (hear) + -ory (relating to)",
+      "synonyms": ["acoustic", "aural", "hearing-related"], "antonyms": ["visual"],
+      "sentences": [
+        {"en": "The neurological study concluded that continuous exposure to deafening factory noise permanently damages delicate ______ nerves and impairs a person's ability to process sound.", "zh": "神經學研究得出結論，持續暴露於震耳欲聾的工廠噪音會永久損害脆弱的聽覺神經，並影響一個人處理聲音的能力。"},
+        {"en": "While some students are visual learners who prefer flashcards, others rely on ______ stimuli and remember complex information best by listening to recorded lectures and podcasts.", "zh": "有些學生是偏好字卡的視覺型學習者，另一些則依賴聽覺刺激，透過聆聽錄音講座和播客最能記住複雜資訊。"}
+      ],
+      "category": {"part": 2, "num": "08", "spelling": "audi", "meaning": "聽；聲音；說話"}
+    },
+    {
+      "word": "audacious", "pos": "adj.", "pos_key": "adj.",
+      "defn_en": "showing a willingness to take bold risks, sometimes in a shocking or disrespectful way:",
+      "defn_zh": "大膽的；無畏的；放肆的",
+      "root_note": "audere (dare), not audi (hear); a commonly confused SAT word origin",
+      "synonyms": ["bold", "daring", "fearless", "brazen"], "antonyms": ["timid", "cautious", "cowardly"],
+      "sentences": [
+        {"en": "The startup launched an ______ plan to build a commercial space station within two years, a daring gamble that skeptics dismissed as unrealistic given the company's tight budget.", "zh": "這家新創公司推出一項大膽計畫，要在兩年內建造商業太空站；懷疑者認為，以該公司的有限預算來看，這場豪賭完全不切實際。"},
+        {"en": "In a characteristically ______ move, the young chess grandmaster sacrificed his queen early in the match, stunning his opponent and securing a brilliant victory.", "zh": "這位年輕的西洋棋特級大師做出典型的大膽之舉，在比賽初期便犧牲皇后，震驚對手並取得精彩勝利。"}
+      ],
+      "category": {"part": 2, "num": "08", "spelling": "audi", "meaning": "聽；聲音；說話"}
+    },
+    {
+      "word": "audit", "pos": "n. / v.", "pos_key": "n.",
+      "defn_en": "an official examination of financial records, procedures, or performance; to conduct such an examination:",
+      "defn_zh": "審計；查帳；稽核；審查",
+      "root_note": "audit (hear or hearing); accounts were historically presented orally",
+      "synonyms": ["inspection", "examination", "review", "assessment"], "antonyms": ["neglect", "oversight"],
+      "sentences": [
+        {"en": "The government launched a comprehensive tax ______ of the multinational corporation after a whistleblower alleged that executives were hiding millions in overseas accounts.", "zh": "一名內部吹哨者指控高階主管將數百萬資金藏在海外帳戶後，政府對這家跨國公司展開全面的稅務審計。"},
+        {"en": "To guarantee that academic records were accurate, the registrar chose to ______ every graduating senior's transcript before issuing diplomas.", "zh": "為確保學業紀錄完全正確，大學註冊主任決定在頒發畢業證書前審查每位應屆畢業生的成績單。"}
+      ],
+      "category": {"part": 2, "num": "08", "spelling": "audi", "meaning": "聽；聲音；說話"}
+    },
+    {
+      "word": "inaudible", "pos": "adj.", "pos_key": "adj.",
+      "defn_en": "too quiet or unclear to be heard:",
+      "defn_zh": "聽不見的；難以聽清的",
+      "root_note": "in- (not) + audi (hear) + -ible (capable of being)",
+      "synonyms": ["unheard", "imperceptible", "faint"], "antonyms": ["audible", "clear", "loud"],
+      "sentences": [
+        {"en": "Because the microphone wire was badly frayed, the keynote speaker's opening remarks were completely ______ to the frustrated audience at the back of the convention hall.", "zh": "由於麥克風線嚴重磨損，坐在大會堂後排的聽眾完全聽不見主講人的開場白，因而感到十分沮喪。"},
+        {"en": "Dog whistles emit high-frequency sound waves that are ______ to the human ear but easily detected by a canine's sharp sense of hearing.", "zh": "狗笛會發出人耳完全聽不見的高頻聲波，卻很容易被犬隻敏銳的聽覺捕捉。"}
+      ],
+      "category": {"part": 2, "num": "08", "spelling": "audi", "meaning": "聽；聲音；說話"}
+    },
+    {
+      "word": "audition", "pos": "n. / v.", "pos_key": "n.",
+      "defn_en": "a performance used to judge someone's suitability for a role; to perform in such a test:",
+      "defn_zh": "試鏡；試演；試奏；參加甄選",
+      "root_note": "audi (hear) + -tion (act or state)",
+      "synonyms": ["tryout", "screen test", "casting test"], "antonyms": [],
+      "sentences": [
+        {"en": "The aspiring actress practiced her Shakespearean monologue for weeks before the Broadway ______, knowing she had only two minutes to impress the casting directors.", "zh": "這位有抱負的女演員在百老匯試鏡前練習莎士比亞獨白數週，因為她知道自己只有兩分鐘能打動選角導演。"},
+        {"en": "The symphony orchestra invited five world-class violinists to ______ for the vacant concertmaster position during a private session on Tuesday.", "zh": "這支著名交響樂團週二在不公開的甄選中，邀請五位世界級小提琴家試奏空缺的樂團首席職位。"}
+      ],
+      "category": {"part": 2, "num": "08", "spelling": "audi", "meaning": "聽；聲音；說話"}
+    },
+    {
+      "word": "audiovisual", "pos": "adj.", "pos_key": "adj.",
+      "defn_en": "involving both sound and visual images:",
+      "defn_zh": "視聽的；影音的",
+      "root_note": "audi (hear) + vis (see)",
+      "synonyms": ["multimedia", "audio-video", "sight-and-sound"], "antonyms": [],
+      "sentences": [
+        {"en": "The history museum upgraded its exhibits with immersive ______ technology, combining surround-sound narration with striking high-definition projections.", "zh": "歷史博物館以沉浸式視聽技術升級展品，將環繞音響敘事與鮮明的高畫質投影結合。"},
+        {"en": "To ensure that the international conference ran smoothly, the coordinators thoroughly tested the ______ equipment to prevent microphone feedback and screen glitches.", "zh": "為確保國際會議順利進行，活動協調員徹底測試視聽設備，以防止麥克風回授或螢幕故障。"}
+      ],
+      "category": {"part": 2, "num": "08", "spelling": "audi", "meaning": "聽；聲音；說話"}
+    },
+    {
+      "word": "cacophony", "pos": "n.", "pos_key": "n.",
+      "defn_en": "a harsh, unpleasant mixture of loud sounds:",
+      "defn_zh": "刺耳的雜音；嘈雜聲",
+      "root_note": "caco- (bad or harsh) + phon (sound or voice)",
+      "synonyms": ["din", "racket", "discord", "clamor"], "antonyms": ["harmony", "melody", "silence"],
+      "sentences": [
+        {"en": "Tourists entering the downtown market were greeted by a chaotic ______ of blaring car horns, shouting vendors, and barking dogs.", "zh": "遊客走進市中心市場時，立刻被汽車喇叭、小販叫喊和狗吠交織而成的混亂刺耳雜音包圍。"},
+        {"en": "Before the conductor raised his baton, the orchestra produced an uncoordinated ______ as dozens of musicians tuned their instruments at once.", "zh": "在指揮舉起指揮棒前，數十名樂手同時為樂器調音，使管弦樂團發出不協調的刺耳雜音。"}
+      ],
+      "category": {"part": 2, "num": "08", "spelling": "audi", "meaning": "聽；聲音；說話"}
+    },
+    {
+      "word": "mellifluous", "pos": "adj.", "pos_key": "adj.",
+      "defn_en": "pleasantly smooth, rich, and musical to hear:",
+      "defn_zh": "悅耳的；甜美流暢的",
+      "root_note": "melli (honey) + flu (flow); literally, flowing like honey",
+      "synonyms": ["melodious", "dulcet", "harmonious", "smooth"], "antonyms": ["harsh", "grating", "cacophonous"],
+      "sentences": [
+        {"en": "The voice actor's ______ baritone was so smooth and soothing that he was repeatedly hired to narrate nature documentaries and bedtime audiobooks.", "zh": "這位配音員悅耳的男中音十分流暢且撫慰人心，因此一再受聘為自然紀錄片和睡前有聲書旁白。"},
+        {"en": "Listeners were captivated by the singer's ______ vocals, which glided effortlessly through complex operatic notes without any strain.", "zh": "聽眾完全被歌手甜美流暢的歌聲吸引，她毫不費力地唱過複雜的歌劇音符，絲毫不顯勉強。"}
+      ],
+      "category": {"part": 2, "num": "08", "spelling": "audi", "meaning": "聽；聲音；說話"}
+    },
+    {
+      "word": "sonorous", "pos": "adj.", "pos_key": "adj.",
+      "defn_en": "producing a deep, rich, and impressively loud sound:",
+      "defn_zh": "洪亮的；渾厚的；響亮的",
+      "root_note": "son (sound) + -ous (full of or having the quality of)",
+      "synonyms": ["resonant", "booming", "full-bodied", "rich"], "antonyms": ["thin", "faint", "shrill"],
+      "sentences": [
+        {"en": "The cathedral's ______ brass bells rang across the valley, their deep, echoing tones signaling the beginning of the morning ceremony.", "zh": "大教堂洪亮的黃銅鐘聲傳遍山谷，其深沉迴盪的音調宣告晨禮開始。"},
+        {"en": "The actor used his powerful, ______ voice to command the outdoor amphitheater, ensuring that every line reached the audience without amplification.", "zh": "演員以強而有力且渾厚洪亮的嗓音吸引整座戶外圓形劇場的注意，使每句台詞不用擴音也能傳到觀眾耳中。"}
+      ],
+      "category": {"part": 2, "num": "08", "spelling": "audi", "meaning": "聽；聲音；說話"}
+    },
+    {
+      "word": "vociferous", "pos": "adj.", "pos_key": "adj.",
+      "defn_en": "expressing opinions loudly, forcefully, and repeatedly:",
+      "defn_zh": "大聲疾呼的；喧嚷的；強烈表達的",
+      "root_note": "voc or vox (voice) + fer (carry)",
+      "synonyms": ["clamorous", "outspoken", "vehement", "loud"], "antonyms": ["quiet", "restrained", "subdued"],
+      "sentences": [
+        {"en": "Despite pressure from town officials, the ______ environmental activists protested outside city hall and demanded an immediate ban on local fracking.", "zh": "儘管承受城鎮官員的壓力，這群大聲疾呼的環保人士仍在市政廳外抗議，要求立即禁止當地水力壓裂。"},
+        {"en": "The board encountered ______ objections from shareholders who fiercely opposed the proposed merger and argued that it would devalue their stock.", "zh": "董事會遭遇股東強烈而喧嚷的反對；他們激烈反對合併案，認為這會使股票大幅貶值。"}
+      ],
+      "category": {"part": 2, "num": "08", "spelling": "audi", "meaning": "聽；聲音；說話"}
+    },
+    {
+      "word": "resonance", "pos": "n.", "pos_key": "n.",
+      "defn_en": "a deep, continuing sound or a quality that creates a strong emotional response or lasting importance:",
+      "defn_zh": "共鳴；迴響；深遠影響",
+      "root_note": "re- (again or back) + son (sound) + -ance (state)",
+      "synonyms": ["reverberation", "echo", "significance", "impact"], "antonyms": ["dullness", "insignificance"],
+      "sentences": [
+        {"en": "Built from seasoned acoustic wood, the cello possesses extraordinary internal ______ that allows its low notes to vibrate throughout the concert hall.", "zh": "這把大提琴以風乾聲學木材製成，具有非凡的內部共鳴，使低音能在整座音樂廳中深沉震動。"},
+        {"en": "The civil rights leader's speech carried powerful emotional ______ that lingered in listeners' minds long after the historic rally ended.", "zh": "這位民權領袖的演說具有強烈的情感共鳴，在歷史性集會結束很久後仍縈繞於聽眾心中。"}
+      ],
+      "category": {"part": 2, "num": "08", "spelling": "audi", "meaning": "聽；聲音；說話"}
+    },
+    {
+      "word": "colloquial", "pos": "adj.", "pos_key": "adj.",
+      "defn_en": "used in ordinary, informal conversation rather than in formal speech or writing:",
+      "defn_zh": "口語的；通俗的；非正式的",
+      "root_note": "col- or con- (together) + loqu (speak or talk) + -ial (relating to)",
+      "synonyms": ["informal", "conversational", "vernacular", "everyday"], "antonyms": ["formal", "literary", "technical"],
+      "sentences": [
+        {"en": "Although ______ phrases such as 'what's up?' are acceptable in messages to friends, they are inappropriate in formal academic writing.", "zh": "雖然「最近如何？」之類的口語片語適合用在朋友訊息中，但在正式學術寫作中並不恰當。"},
+        {"en": "The language instructor reminded students to study both standard grammar and the ______ expressions used by native speakers in everyday conversations.", "zh": "外語教師提醒學生，既要學習標準文法，也要學習母語人士在日常對話中使用的口語表達。"}
+      ],
+      "category": {"part": 2, "num": "08", "spelling": "audi", "meaning": "聽；聲音；說話"}
+    }
+  ]
+}
