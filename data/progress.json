@@ -85,9 +85,10 @@
     "p1-60-pan",
     "p1-61-meta",
     "p2-01-act-ag",
-    "p2-02-alter"
+    "p2-02-alter",
+    "p2-03-am"
   ],
-  "generated_count": 86,
+  "generated_count": 87,
   "total": 236,
-  "next_batch": "p2-03-am"
+  "next_batch": "p2-04-anim"
 }

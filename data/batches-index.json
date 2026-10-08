@@ -4,7 +4,7 @@
     "total_batches": 236,
     "part1_part2_batches": 159,
     "unclassified_batches": 77,
-    "generated_batches": 86
+    "generated_batches": 87
   },
   "batches": [
     {
@@ -874,7 +874,7 @@
       "name": "am",
       "subtitle": "愛",
       "count": 25,
-      "generated": false,
+      "generated": true,
       "search_terms": "amicable amorous amiable amateur ambassador ambrosia ambrosial ambulate ambulating ambulatory amenity amiability amicability amigo amity amour-propre amulet enamor enamored enemy enmity inimical perambulate somnambulate somnambulism"
     },
     {
