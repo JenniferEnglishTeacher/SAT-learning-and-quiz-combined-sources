@@ -4,7 +4,7 @@
     "total_batches": 236,
     "part1_part2_batches": 159,
     "unclassified_batches": 77,
-    "generated_batches": 132
+    "generated_batches": 133
   },
   "batches": [
     {
@@ -1334,7 +1334,7 @@
       "name": "sess；sid",
       "subtitle": "坐",
       "count": 13,
-      "generated": false,
+      "generated": true,
       "search_terms": "obsess sedentary assiduous insidious aside assess bathysiderodromophobia besides consideration dissident possess subside supersede"
     },
     {

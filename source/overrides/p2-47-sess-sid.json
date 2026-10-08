@@ -1,0 +1,21 @@
+{
+  "id": "p2-47-sess-sid",
+  "merge_with_source": true,
+  "words": [
+    {
+      "word": "besides",
+      "pos": "adv. / prep.",
+      "pos_key": "adv.",
+      "defn_en": "in addition; furthermore; apart from or in addition to someone or something:",
+      "defn_zh": "此外；而且；除……之外",
+      "root_note": "be- (by) + side; literally, by the side of",
+      "synonyms": ["moreover", "furthermore", "additionally", "apart from"],
+      "antonyms": ["except", "excluding"],
+      "sentences": [
+        {"en": "The proposal is too expensive; ______, it would take years to complete.", "zh": "這項提案費用過高；此外，還需要數年才能完成。"},
+        {"en": "No one ______ the lead researcher had access to the confidential laboratory records.", "zh": "除了首席研究員之外，沒有人能查閱機密實驗室紀錄。"}
+      ],
+      "category": {"part": 2, "num": "47", "spelling": "sess；sid", "meaning": "坐；停留；居住"}
+    }
+  ]
+}
