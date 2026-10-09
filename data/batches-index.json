@@ -4,7 +4,7 @@
     "total_batches": 236,
     "part1_part2_batches": 159,
     "unclassified_batches": 77,
-    "generated_batches": 235
+    "generated_batches": 236
   },
   "batches": [
     {
@@ -2364,7 +2364,7 @@
       "name": "Unclassified 77 (xenophobic–zucchini)",
       "subtitle": "Alphabetical batch",
       "count": 24,
-      "generated": false,
+      "generated": true,
       "search_terms": "xenophobic xeric xeriscape xerophilous xerophthalmia xerophyte yahoo yarmulke yen yenta yoke yokel zany zeal zealous zeitgeist zemblanity zenith zenzizenzizenzic zephyr zoanthropy zoophobia zucchetto zucchini"
     }
   ]
