@@ -1,0 +1,1480 @@
+{
+  "id": "u-48-oviform-paterfamilias",
+  "part": "unclassified",
+  "part_label": "未歸類 Unclassified",
+  "name": "Unclassified 48 (oviform–paterfamilias)",
+  "subtitle": "Alphabetical batch",
+  "count": 50,
+  "words": [
+    {
+      "word": "oviform",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "having the shape of an egg:",
+      "defn_zh": "卵形的",
+      "root_note": "ovum (egg) + forma (shape), from Latin",
+      "sentences": [
+        {
+          "en": "The sculpture featured a smooth, ______ base.",
+          "zh": "這座雕塑有著光滑的卵形底座。"
+        },
+        {
+          "en": "Botanists described the fruit's ______ structure in detail.",
+          "zh": "植物學家詳細描述了這種水果卵形的結構。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "ovine",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "relating to or resembling sheep:",
+      "defn_zh": "綿羊的;似綿羊的",
+      "root_note": "ovis (sheep), from Latin",
+      "sentences": [
+        {
+          "en": "The farm specialized in ______ wool production.",
+          "zh": "這座農場專門生產綿羊羊毛。"
+        },
+        {
+          "en": "Veterinarians studied common ______ diseases affecting the flock.",
+          "zh": "獸醫研究了影響這群羊隻的常見綿羊疾病。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "oviparous",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "reproducing by laying eggs:",
+      "defn_zh": "卵生的",
+      "root_note": "ovum (egg) + parere (to bring forth), from Latin",
+      "sentences": [
+        {
+          "en": "Most birds and reptiles are ______ , while most mammals are not.",
+          "zh": "大多數的鳥類和爬蟲類是卵生的,而大多數哺乳動物則不是。"
+        },
+        {
+          "en": "The biology textbook explained ______ reproduction in detail.",
+          "zh": "這本生物教科書詳細解釋了卵生繁殖的方式。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "oxymoron",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a figure of speech combining contradictory terms:",
+      "defn_zh": "矛盾修辭法",
+      "root_note": "oxys (sharp) + moros (foolish), from Greek",
+      "sentences": [
+        {
+          "en": "'Deafening silence' is a famous example of an ______ .",
+          "zh": "「震耳欲聾的沉默」是矛盾修辭法一個著名的例子。"
+        },
+        {
+          "en": "The phrase 'jumbo shrimp' is often cited as an ______ .",
+          "zh": "「巨大的小蝦」這個詞常被引用作為矛盾修辭法的例子。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "oxymoronic",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "having the quality of combining contradictory terms:",
+      "defn_zh": "矛盾修辭的",
+      "root_note": "oxys (sharp) + moros (foolish), from Greek",
+      "sentences": [
+        {
+          "en": "The advertisement's ______ slogan confused more than it charmed.",
+          "zh": "這則廣告矛盾修辭般的標語令人困惑多於吸引。"
+        },
+        {
+          "en": "Critics called the policy's title ______ , promising both cuts and growth.",
+          "zh": "評論家稱這項政策的標題自相矛盾,同時承諾了削減與成長。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "oxytocic",
+      "pos": "adj./n.",
+      "pos_key": "adj.",
+      "defn_en": "hastening childbirth by stimulating uterine contractions:",
+      "defn_zh": "催產的;催產藥物",
+      "root_note": "oxys (sharp, quick) + tokos (childbirth), from Greek",
+      "sentences": [
+        {
+          "en": "The doctor administered an ______ drug to induce labor.",
+          "zh": "這位醫生施打了一種催產藥物以引產。"
+        },
+        {
+          "en": "Certain herbs have long been used for their ______ properties.",
+          "zh": "某些藥草長期以來因其催產的特性而被使用。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "pachyderm",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a large mammal with thick skin, such as an elephant or hippo:",
+      "defn_zh": "厚皮動物",
+      "root_note": "pachys (thick, Greek) + derma (skin, Greek)",
+      "sentences": [
+        {
+          "en": "The zoo's newest exhibit features several species of ______, including rhinos.",
+          "zh": "這座動物園最新的展區展示了包括犀牛在內的數種厚皮動物。"
+        },
+        {
+          "en": "Elephants are the largest land-dwelling ______ on Earth.",
+          "zh": "大象是地球上最大的陸生厚皮動物。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "paean",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a song or expression of praise or triumph:",
+      "defn_zh": "頌歌;讚美詩",
+      "root_note": "Paian, an epithet of Apollo, from Greek",
+      "sentences": [
+        {
+          "en": "The critics wrote a glowing ______ to the retiring conductor.",
+          "zh": "評論家為這位即將退休的指揮家寫下了一篇熱情洋溢的頌歌。"
+        },
+        {
+          "en": "The film serves as a ______ to the resilience of the human spirit.",
+          "zh": "這部電影是一首獻給人類堅韌精神的頌歌。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "paediatrics",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "the branch of medicine concerned with the treatment of infants and children:",
+      "defn_zh": "小兒科學",
+      "root_note": "pais, paidos (child, Greek) + iatros (healer, Greek)",
+      "sentences": [
+        {
+          "en": "She chose to specialize in ______ because of her love for working with children.",
+          "zh": "由於她熱愛與兒童相處,她選擇專攻小兒科學。"
+        },
+        {
+          "en": "The hospital's ______ ward is decorated with colorful murals to comfort young patients.",
+          "zh": "這家醫院的小兒科病房裝飾著色彩繽紛的壁畫,以安撫年幼的病患。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "pain",
+      "pos": "n./v.",
+      "pos_key": "n.",
+      "defn_en": "physical or emotional suffering:",
+      "defn_zh": "疼痛;痛苦",
+      "root_note": "poena (penalty, punishment), from Latin, via Old French peine",
+      "sentences": [
+        {
+          "en": "She felt a sharp ______ shoot through her ankle.",
+          "zh": "她感到一陣劇烈的疼痛從腳踝竄過。"
+        },
+        {
+          "en": "His words caused her great emotional ______ .",
+          "zh": "他的話語讓她感到極大的情感痛苦。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "palatable",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "pleasing to the taste buds",
+      "defn_zh": "可口的",
+      "root_note": "palatum (palate)",
+      "sentences": [
+        {
+          "en": "The chef made the bitter vegetable dish more ______ with a sweet glaze.",
+          "zh": "這位主廚用甜味醬汁讓這道苦味蔬菜料理變得更加可口。"
+        },
+        {
+          "en": "The compromise was barely ______ to either side of the negotiation.",
+          "zh": "這項妥協方案對談判雙方來說都幾乎難以接受。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "palaverer",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a person who engages in idle or lengthy chatter:",
+      "defn_zh": "喋喋不休的人",
+      "root_note": "palavra (word, speech), from Portuguese, from Latin parabola",
+      "sentences": [
+        {
+          "en": "The old ______ kept the whole bus entertained with his stories.",
+          "zh": "這位喋喋不休的老人用他的故事逗樂了整輛巴士的乘客。"
+        },
+        {
+          "en": "No one took the ______ 's promises seriously anymore.",
+          "zh": "已經沒有人再認真看待這位長舌之人的承諾了。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "pale",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "very light in color or highly diluted with white:",
+      "defn_zh": "蒼白的/淡色的",
+      "root_note": "pallere (to be pale)",
+      "sentences": [
+        {
+          "en": "Her face turned ______ the moment she heard the shocking news.",
+          "zh": "聽到這個震驚的消息時,她的臉瞬間變得蒼白。"
+        },
+        {
+          "en": "The bedroom walls were painted a soft, ______ shade of blue.",
+          "zh": "這間臥室的牆壁被漆成柔和淡雅的淺藍色。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "palette",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a range of colors or qualities:",
+      "defn_zh": "調色盤/色彩範圍",
+      "root_note": "pala (spade, blade, Latin)",
+      "sentences": [
+        {
+          "en": "The painter mixed colors carefully on her wooden ______.",
+          "zh": "這位畫家在她的木製調色盤上仔細調配顏色。"
+        },
+        {
+          "en": "The designer chose a warm ______ of oranges and browns for the living room.",
+          "zh": "這位設計師為客廳選擇了溫暖的橘色與棕色調色系。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "palindrome",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a word or phrase that reads the same backward as forward:",
+      "defn_zh": "迴文",
+      "root_note": "palin (again) + dromos (running), from Greek",
+      "sentences": [
+        {
+          "en": "'Racecar' is a well-known example of a ______ .",
+          "zh": "「racecar(賽車)」是一個廣為人知的迴文範例。"
+        },
+        {
+          "en": "She enjoyed inventing new ______ s as a hobby.",
+          "zh": "她喜歡以創作新的迴文作為興趣。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "pall",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to cease to please, become dull:",
+      "defn_zh": "失去吸引力/令人生厭",
+      "root_note": "pallen (to become dull/lose strength)",
+      "sentences": [
+        {
+          "en": "Even the most exciting job can begin to ______ after years of routine.",
+          "zh": "即使是最令人興奮的工作,經年累月的例行公事之後也會開始失去吸引力。"
+        },
+        {
+          "en": "The novelty of the new gadget quickly began to ______.",
+          "zh": "這款新裝置的新鮮感很快就開始消退了。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "palliate",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to alleviate, relieve without curing:",
+      "defn_zh": "減輕/掩飾",
+      "root_note": "pallium (cloak)",
+      "sentences": [
+        {
+          "en": "The medication can ______ the pain but cannot cure the underlying disease.",
+          "zh": "這種藥物能減輕疼痛,但無法治癒潛在的疾病。"
+        },
+        {
+          "en": "The company's apology did little to ______ the customers' anger.",
+          "zh": "這家公司的道歉幾乎無法平息顧客的怒氣。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "pallid",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "lacking color:",
+      "defn_zh": "蒼白的/無血色的",
+      "root_note": "pallere (to be pale)",
+      "sentences": [
+        {
+          "en": "The patient's ______ complexion worried the nurses immediately.",
+          "zh": "這名病患蒼白的臉色立刻讓護理師們感到擔憂。"
+        },
+        {
+          "en": "After weeks indoors, his skin had grown noticeably ______.",
+          "zh": "在室內待了好幾週後,他的皮膚變得明顯蒼白無血色。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "pallor",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "an unnatural lack of color in the skin:",
+      "defn_zh": "蒼白/臉色差",
+      "root_note": "pallere (to be pale)",
+      "sentences": [
+        {
+          "en": "A deathly ______ spread across his face as he read the letter.",
+          "zh": "讀信時,他的臉上浮現出一股死灰般的蒼白。"
+        },
+        {
+          "en": "The doctor noted an unusual ______ in the patient's cheeks during the exam.",
+          "zh": "醫生在檢查時注意到病患臉頰上異常的蒼白。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "palmistry",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "the practice of predicting a person's future by reading the lines on their palm:",
+      "defn_zh": "手相術",
+      "root_note": "palm, from Latin palma + -istry",
+      "sentences": [
+        {
+          "en": "The fortune teller offered ______ readings at the fair.",
+          "zh": "這位算命師在市集上提供手相解讀的服務。"
+        },
+        {
+          "en": "She was skeptical of ______ but curious enough to try it once.",
+          "zh": "她對手相術抱持懷疑,但仍好奇到願意嘗試一次。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "palpable",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "able to be touched or felt; tangible; clear to the mind or senses:",
+      "defn_zh": "明顯的/可感知的",
+      "root_note": "palpare (to touch, feel)",
+      "sentences": [
+        {
+          "en": "The tension in the room was ______ as everyone awaited the decision.",
+          "zh": "在大家等待決定的過程中,房間裡的緊張氣氛清晰可感。"
+        },
+        {
+          "en": "There was a ______ sense of relief once the exam ended.",
+          "zh": "考試結束後,大家都感受到一股明顯的如釋重負感。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "palpate",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to examine by touch, especially medically:",
+      "defn_zh": "觸診",
+      "root_note": "palpare (to touch gently), from Latin",
+      "sentences": [
+        {
+          "en": "The doctor began to ______ the patient's abdomen for tenderness.",
+          "zh": "這位醫生開始觸診病人的腹部,檢查是否有壓痛感。"
+        },
+        {
+          "en": "Veterinarians ______ an animal's belly to check for pregnancy.",
+          "zh": "獸醫觸診動物的腹部來檢查是否懷孕。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "palpation",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "the act of examining by touch:",
+      "defn_zh": "觸診",
+      "root_note": "palpare (to touch gently), from Latin",
+      "sentences": [
+        {
+          "en": "Through careful ______ , the physician detected a small lump.",
+          "zh": "透過仔細的觸診,這位醫師發現了一個小腫塊。"
+        },
+        {
+          "en": "______ remains a basic diagnostic technique in physical exams.",
+          "zh": "觸診至今仍是體檢中一項基本的診斷技術。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "palter",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to talk or act insincerely; to equivocate:",
+      "defn_zh": "含糊其辭;搪塞",
+      "root_note": "of uncertain origin, possibly related to paltry",
+      "sentences": [
+        {
+          "en": "The witness continued to ______ instead of answering directly.",
+          "zh": "這位證人持續搪塞其詞,而非直接回答問題。"
+        },
+        {
+          "en": "He refused to ______ with the truth any longer.",
+          "zh": "他拒絕再對真相含糊其辭下去。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "paltry",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "petty, worthless:",
+      "defn_zh": "微不足道的",
+      "root_note": "palter (rags)",
+      "sentences": [
+        {
+          "en": "He was offered a ______ sum for his years of hard work.",
+          "zh": "他多年來的辛勞只換得一筆微不足道的酬勞。"
+        },
+        {
+          "en": "The company's donation seemed ______ compared to its massive profits.",
+          "zh": "與這家公司龐大的利潤相比,它的捐款顯得微不足道。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "pamphlet",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a small unbound booklet, often on a political or educational topic:",
+      "defn_zh": "小冊子",
+      "root_note": "Pamphilus, a popular 12th-century Latin love poem, personified as a booklet",
+      "sentences": [
+        {
+          "en": "Volunteers handed out ______ s explaining the new recycling program.",
+          "zh": "志工們發放了說明這項新回收計畫的小冊子。"
+        },
+        {
+          "en": "The revolutionary ______ circulated secretly among the workers.",
+          "zh": "這本革命小冊子在工人間秘密流傳。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "panache",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "flamboyant confidence of style or manner:",
+      "defn_zh": "灑脫;風度翩翩",
+      "root_note": "pennacchio (plume), from Italian, from Latin pinna (feather)",
+      "sentences": [
+        {
+          "en": "She delivered her speech with remarkable ______ .",
+          "zh": "她以驚人的灑脫風度發表了這場演講。"
+        },
+        {
+          "en": "The chef plated the dish with real ______ .",
+          "zh": "這位主廚以真正的風度巧思擺盤這道菜。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "pander",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to gratify or indulge someone's weaknesses or desires:",
+      "defn_zh": "迎合;縱容",
+      "root_note": "Pandare, a character from Boccaccio who arranged illicit love affairs",
+      "sentences": [
+        {
+          "en": "Critics accused the network of choosing to ______ to the lowest common denominator.",
+          "zh": "評論家指控這個電視網選擇迎合最低俗的大眾口味。"
+        },
+        {
+          "en": "The candidate refused to ______ to popular but shortsighted demands.",
+          "zh": "這位候選人拒絕迎合受歡迎卻短視的要求。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "pandiculation",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "the act of stretching and yawning, especially upon waking:",
+      "defn_zh": "伸懶腰打呵欠",
+      "root_note": "pandiculari (to stretch oneself), from Latin pandere (to spread)",
+      "sentences": [
+        {
+          "en": "The cat's morning ______ was a familiar, lazy ritual.",
+          "zh": "這隻貓每天早晨伸懶腰打呵欠是一項熟悉又慵懶的儀式。"
+        },
+        {
+          "en": "A long ______ helped him wake up after the overnight flight.",
+          "zh": "在這趟通宵航班之後,一個長長的伸懶腰打呵欠幫助他清醒過來。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "panoply",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a complete or impressive collection of things:",
+      "defn_zh": "全套裝備;琳瑯滿目的展示",
+      "root_note": "panoplia (full armor), from Greek pan- (all) + hopla (arms)",
+      "sentences": [
+        {
+          "en": "The museum displayed a ______ of medieval weaponry.",
+          "zh": "這座博物館展示了一整套中世紀的兵器。"
+        },
+        {
+          "en": "The festival offered a ______ of cultural performances.",
+          "zh": "這場慶典提供了琳瑯滿目的文化表演。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "paradigmatic",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "serving as a typical example or model:",
+      "defn_zh": "典範的;範例性的",
+      "root_note": "paradeigma (pattern, example), from Greek para- (beside) + deiknynai (to show)",
+      "sentences": [
+        {
+          "en": "The case became a ______ example cited in every law textbook.",
+          "zh": "這起案件成為每本法律教科書都引用的典範案例。"
+        },
+        {
+          "en": "Her research offered a ______ shift in how the disease is treated.",
+          "zh": "她的研究為這種疾病的治療方式帶來了典範性的轉變。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "paralyze",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to render unable to move or act; to bring to a standstill:",
+      "defn_zh": "使癱瘓;使停頓",
+      "root_note": "paralyein (to disable), from Greek para- (beside) + lyein (to loosen)",
+      "sentences": [
+        {
+          "en": "The accident left him ______ d from the waist down.",
+          "zh": "這場意外導致他腰部以下癱瘓。"
+        },
+        {
+          "en": "Fear of failure seemed to ______ her creative process entirely.",
+          "zh": "對失敗的恐懼似乎讓她的創作過程完全陷入停頓。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "paramour",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a lover, especially one in an illicit relationship:",
+      "defn_zh": "情夫;情婦",
+      "root_note": "par amour (by love), from Old French",
+      "sentences": [
+        {
+          "en": "The novel's queen secretly kept a ______ in the royal court.",
+          "zh": "這本小說裡的王后在宮廷中秘密養著一位情夫。"
+        },
+        {
+          "en": "Rumors of her ______ eventually reached her husband.",
+          "zh": "她私通情夫的謠言最終傳到了她丈夫的耳中。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "pariah",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a social outcast",
+      "defn_zh": "賤民；被排斥者",
+      "root_note": "paraiyar (drummer caste, Tamil; no classical root)",
+      "sentences": [
+        {
+          "en": "After the scandal, he became a social ______ in his hometown.",
+          "zh": "醜聞爆發後,他在家鄉成了一個社會賤民。"
+        },
+        {
+          "en": "The company was treated as an industry ______ following the scandal.",
+          "zh": "在這起醜聞之後,這家公司被業界視為過街老鼠。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "parisienne",
+      "pos": "n./adj.",
+      "pos_key": "n.",
+      "defn_en": "a woman from Paris; relating to Parisian style:",
+      "defn_zh": "巴黎女子;巴黎風格的",
+      "root_note": "Parisien (of Paris), from French",
+      "sentences": [
+        {
+          "en": "She dressed with the effortless chic typical of a true ______ .",
+          "zh": "她穿著打扮流露出真正巴黎女子特有的不費力優雅。"
+        },
+        {
+          "en": "The boutique specialized in ______ fashion for the American market.",
+          "zh": "這家精品店專門為美國市場銷售巴黎風格的時尚服飾。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "parity",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "equality in status, power, or value:",
+      "defn_zh": "平等;對等",
+      "root_note": "par (equal), from Latin",
+      "sentences": [
+        {
+          "en": "The union fought for wage ______ between the two departments.",
+          "zh": "這個工會為這兩個部門之間的薪資平等而奮鬥。"
+        },
+        {
+          "en": "Achieving gender ______ in leadership roles remains a goal for many companies.",
+          "zh": "在領導職位上實現性別平等,對許多公司來說仍是一項目標。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "parochial",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "having a limited or narrow outlook; relating to a church parish:",
+      "defn_zh": "狹隘的;教區的",
+      "root_note": "parochia (parish), from Greek paroikia (dwelling near)",
+      "sentences": [
+        {
+          "en": "His ______ views on the world limited his career opportunities.",
+          "zh": "他對世界狹隘的看法限制了他的職涯機會。"
+        },
+        {
+          "en": "She attended the local ______ school throughout her childhood.",
+          "zh": "她整個童年都在當地的教區學校就讀。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "parsimonious",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "miserly:",
+      "defn_zh": "吝嗇的/極度節儉的",
+      "root_note": "parcere (to spare/save)",
+      "sentences": [
+        {
+          "en": "The ______ old man refused to turn on the heat even in winter.",
+          "zh": "這位吝嗇的老人即使在冬天也拒絕開暖氣。"
+        },
+        {
+          "en": "Despite his wealth, he remained ______ about even the smallest expenses.",
+          "zh": "儘管他很富有,他對再小的花費也依然十分吝嗇。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "parsimony",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "frugality, stinginess:",
+      "defn_zh": "吝嗇/節儉",
+      "root_note": "parcere (to spare, be sparing)",
+      "sentences": [
+        {
+          "en": "His ______ was legendary; he reused tea bags to save money.",
+          "zh": "他的吝嗇是出了名的,甚至會重複使用茶包以省錢。"
+        },
+        {
+          "en": "The company's ______ extended even to skimping on basic office supplies.",
+          "zh": "這家公司的節省甚至延伸到在基本辦公用品上都要省。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "partiality",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "unfair bias in favor of one thing or person; a liking for something:",
+      "defn_zh": "偏袒;偏愛",
+      "root_note": "partialis (partial), from Latin pars (part)",
+      "sentences": [
+        {
+          "en": "The judge was accused of ______ toward the defense.",
+          "zh": "這位法官被指控偏袒辯方。"
+        },
+        {
+          "en": "She admitted a strong ______ for dark chocolate.",
+          "zh": "她坦承對黑巧克力有著強烈的偏愛。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "partisan",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a follower, adherent:",
+      "defn_zh": "黨派人士/擁護者",
+      "root_note": "pars, partis (part, share)",
+      "sentences": [
+        {
+          "en": "The debate quickly turned into a shouting match between ______s of each side.",
+          "zh": "這場辯論迅速演變成雙方擁護者之間的互相叫囂。"
+        },
+        {
+          "en": "He remained a loyal ______ of the movement even during its darkest days.",
+          "zh": "即使在這場運動最黑暗的時期,他依然是忠實的擁護者。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "parturient",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "about to give birth; relating to childbirth:",
+      "defn_zh": "臨盆的;將產的",
+      "root_note": "parturire (to be in labor), from Latin parere (to bring forth)",
+      "sentences": [
+        {
+          "en": "The ______ mare was closely watched by the veterinarian.",
+          "zh": "這位獸醫密切觀察著這匹即將臨盆的母馬。"
+        },
+        {
+          "en": "Nurses prepared the ______ ward for a busy night.",
+          "zh": "護理師為這間即將迎來忙碌夜晚的產房做好了準備。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "parturition",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "the act of giving birth:",
+      "defn_zh": "分娩",
+      "root_note": "parturire (to be in labor), from Latin parere (to bring forth)",
+      "sentences": [
+        {
+          "en": "The textbook described the stages of ______ in detail.",
+          "zh": "這本教科書詳細描述了分娩的各個階段。"
+        },
+        {
+          "en": "Complications during ______ required an emergency intervention.",
+          "zh": "分娩過程中的併發症需要緊急介入處理。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "parvenu",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a person who has recently gained wealth or social status but lacks the manners expected of it:",
+      "defn_zh": "暴發戶",
+      "root_note": "parvenir (to arrive), from French, from Latin pervenire",
+      "sentences": [
+        {
+          "en": "Old society mocked the ______ for his gaudy new mansion.",
+          "zh": "上流社會的舊貴族嘲笑這位暴發戶那棟俗豔的新豪宅。"
+        },
+        {
+          "en": "The novel satirizes the social climbing of a wealthy ______ .",
+          "zh": "這本小說諷刺了一位富有暴發戶向上攀附的社交行徑。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "pasquinade",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a satire or lampoon, especially one posted in a public place:",
+      "defn_zh": "諷刺短文;張貼的諷刺文",
+      "root_note": "named after Pasquino, a Roman statue used to post satirical verses",
+      "sentences": [
+        {
+          "en": "A biting ______ mocking the mayor appeared overnight on the town square.",
+          "zh": "一篇嘲諷市長的辛辣諷刺短文一夜之間出現在城鎮廣場上。"
+        },
+        {
+          "en": "The playwright was known for writing clever political ______ s.",
+          "zh": "這位劇作家以撰寫機智的政治諷刺短文聞名。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "past master",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a person with great skill or experience in a particular activity:",
+      "defn_zh": "老手;箇中高手",
+      "root_note": "past + master, from Latin magister (master)",
+      "sentences": [
+        {
+          "en": "He is a ______ at negotiating difficult business deals.",
+          "zh": "他是協商困難商業交易的箇中高手。"
+        },
+        {
+          "en": "As a ______ of disguise, she fooled even her closest friends.",
+          "zh": "身為易容的箇中老手,她甚至騙過了最親近的朋友。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "pasteurize",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to heat a liquid, especially milk, to destroy harmful microorganisms:",
+      "defn_zh": "巴氏殺菌",
+      "root_note": "named after Louis Pasteur, the French scientist",
+      "sentences": [
+        {
+          "en": "Dairies ______ milk before it reaches grocery store shelves.",
+          "zh": "乳品廠在牛奶上架到雜貨店之前會先進行巴氏殺菌。"
+        },
+        {
+          "en": "The company began to ______ its juice to extend shelf life.",
+          "zh": "這家公司開始對其果汁進行巴氏殺菌,以延長保存期限。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "pastiche",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a work of art imitating the style of previous works:",
+      "defn_zh": "拼貼作品;仿作",
+      "root_note": "pasticcio (pie, medley), from Italian, from Latin pasta (paste)",
+      "sentences": [
+        {
+          "en": "The film is a loving ______ of classic 1980s adventure movies.",
+          "zh": "這部電影是向經典1980年代冒險片致敬的深情仿作。"
+        },
+        {
+          "en": "Her novel reads as a clever ______ of Victorian detective fiction.",
+          "zh": "她的小說讀起來像是一部對維多利亞時代偵探小說巧妙的仿作。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "pastoral",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "relating to the countryside or rural life; relating to spiritual guidance:",
+      "defn_zh": "田園的;牧師的",
+      "root_note": "pastor (shepherd), from Latin pascere (to feed)",
+      "sentences": [
+        {
+          "en": "The painting depicted an idyllic ______ scene of sheep grazing.",
+          "zh": "這幅畫描繪了一幅羊群吃草的田園牧歌般的景象。"
+        },
+        {
+          "en": "The priest offered ______ care to the grieving family.",
+          "zh": "這位神父為這個悲痛的家庭提供了牧靈上的關懷。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "paterfamilias",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "the male head of a family or household:",
+      "defn_zh": "家長;一家之主",
+      "root_note": "pater (father) + familias (of the family), from Latin",
+      "sentences": [
+        {
+          "en": "As ______ , he made every major financial decision.",
+          "zh": "身為一家之主,他做出每一項重大的財務決定。"
+        },
+        {
+          "en": "The novel centers on an aging ______ struggling to control his heirs.",
+          "zh": "這本小說以一位年邁、努力想控制繼承人的家長為中心。"
+        }
+      ],
+      "category": null
+    }
+  ],
+  "family_options": {},
+  "fallback_options": {
+    "v.": [
+      {
+        "word": "abound",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to exist in great numbers:",
+        "defn_zh": "充滿"
+      },
+      {
+        "word": "abrogate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to deprive of legal force, to nullify:=abolish",
+        "defn_zh": "廢除/取消"
+      },
+      {
+        "word": "abjure",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to renounce, abstain from:",
+        "defn_zh": "發誓放棄/棄絕"
+      },
+      {
+        "word": "abbreviate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to shorten a word or phrase:",
+        "defn_zh": "縮寫;縮短"
+      },
+      {
+        "word": "abdicate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to give up a position, usually one of leadership:",
+        "defn_zh": "退位/放棄(職位)"
+      },
+      {
+        "word": "abduct",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to kidnap, take by force:",
+        "defn_zh": "綁架/劫持"
+      },
+      {
+        "word": "abhor",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to regard with disgust and hatred:",
+        "defn_zh": "憎惡/厭惡"
+      },
+      {
+        "word": "abnegate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to deny or renounce:",
+        "defn_zh": "放棄/克制"
+      },
+      {
+        "word": "abolish",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to formally put an end to a system, practice, or institution:",
+        "defn_zh": "廢除"
+      },
+      {
+        "word": "abort",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to give up on a half-finished project or effort:",
+        "defn_zh": "中止/放棄"
+      },
+      {
+        "word": "abrade",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to scrape or wear away by friction:",
+        "defn_zh": "磨損;擦傷"
+      },
+      {
+        "word": "abscond",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to sneak away and hide:",
+        "defn_zh": "潛逃/逃匿"
+      }
+    ],
+    "adj.": [
+      {
+        "word": "abortive",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "fruitless, failing:",
+        "defn_zh": "失敗的/夭折的"
+      },
+      {
+        "word": "abstemious",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "moderate in eating or drinking:",
+        "defn_zh": "飲食有節制的"
+      },
+      {
+        "word": "abhorrent",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "detestable, despised:",
+        "defn_zh": "令人厭惡的"
+      },
+      {
+        "word": "absurd",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "ridiculous:",
+        "defn_zh": "荒謬的"
+      },
+      {
+        "word": "aberrant",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "deviating from what is normal or expected:",
+        "defn_zh": "異常的;脫軌的"
+      },
+      {
+        "word": "abject",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "wretched, pitiful:",
+        "defn_zh": "卑賤的/淒慘的"
+      },
+      {
+        "word": "abominable",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "causing moral revulsion; extremely unpleasant:",
+        "defn_zh": "可憎的;惡劣的"
+      },
+      {
+        "word": "abounding",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "existing in large numbers or amounts:",
+        "defn_zh": "大量存在的;豐富的"
+      },
+      {
+        "word": "abrasive",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "showing little concern for others; harsh:",
+        "defn_zh": "粗暴的/刺耳的"
+      },
+      {
+        "word": "abrupt",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "sudden or unexpected; brief and curt in manner:",
+        "defn_zh": "突然的/唐突的"
+      },
+      {
+        "word": "abstract",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "existing purely in the mind; not representing actual reality:",
+        "defn_zh": "抽象的"
+      },
+      {
+        "word": "abstruse",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "hard to comprehend:",
+        "defn_zh": "深奧難懂的"
+      }
+    ],
+    "n.": [
+      {
+        "word": "aversion",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "strong dislike, opposition:",
+        "defn_zh": "厭惡/反感"
+      },
+      {
+        "word": "aberration",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "something that differs from the norm:",
+        "defn_zh": "異常/脫軌"
+      },
+      {
+        "word": "abjection",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a state of complete misery, hopelessness, or degradation:",
+        "defn_zh": "卑賤;悲慘狀態"
+      },
+      {
+        "word": "abjuration",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the solemn renunciation of a belief, cause, or claim:",
+        "defn_zh": "公開放棄;誓絕"
+      },
+      {
+        "word": "ablution",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the act of washing oneself, especially as part of a religious ritual:",
+        "defn_zh": "沐浴;淨身儀式"
+      },
+      {
+        "word": "abnegation",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "denial of comfort to oneself:",
+        "defn_zh": "自我克制/放棄"
+      },
+      {
+        "word": "abomination",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "something that causes disgust or hatred:",
+        "defn_zh": "可憎之事;令人厭惡的東西"
+      },
+      {
+        "word": "abridgement",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a shortened version of a book or other written work:",
+        "defn_zh": "節略本;縮減版"
+      },
+      {
+        "word": "absolution",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "freedom from blame, guilt, sin:",
+        "defn_zh": "赦免/免罪"
+      },
+      {
+        "word": "abstemiousness",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "moderation or self-restraint, especially in eating and drinking:",
+        "defn_zh": "節制;克己"
+      },
+      {
+        "word": "abstinence",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the practice of restraining oneself from something enjoyable, especially food, alcohol, or sex:",
+        "defn_zh": "節制;戒絕"
+      },
+      {
+        "word": "avocation",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a hobby or minor occupation apart from one's main career:",
+        "defn_zh": "副業;業餘愛好"
+      }
+    ],
+    "adv.": [
+      {
+        "word": "accordingly",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in a manner that fits the circumstances; consequently:",
+        "defn_zh": "相應地;因此"
+      },
+      {
+        "word": "inadvertently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "unintentionally or by accident:",
+        "defn_zh": "無意間/不小心地"
+      },
+      {
+        "word": "consequently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "as a result; therefore:",
+        "defn_zh": "因此;結果"
+      },
+      {
+        "word": "contemptuously",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "without respect; in a disdainful manner:",
+        "defn_zh": "輕蔑地"
+      },
+      {
+        "word": "involuntarily",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "done without conscious control:",
+        "defn_zh": "不由自主地"
+      },
+      {
+        "word": "cordially",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in a warm or friendly manner:",
+        "defn_zh": "誠摯地/友好地"
+      },
+      {
+        "word": "ipso facto",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "by that very fact or act:",
+        "defn_zh": "事實上;因此"
+      },
+      {
+        "word": "en passant",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in passing; incidentally:",
+        "defn_zh": "順帶一提地;偶然地"
+      },
+      {
+        "word": "regardless",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "despite the prevailing circumstances; without being deterred:",
+        "defn_zh": "不管怎樣;儘管如此"
+      },
+      {
+        "word": "subsequently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "afterward; following in time or order:",
+        "defn_zh": "隨後;其後"
+      },
+      {
+        "word": "aside",
+        "pos": "adv./n.",
+        "pos_key": "adv.",
+        "defn_en": "to or on one side; a remark not meant to be heard by everyone:",
+        "defn_zh": "在旁邊;旁白"
+      },
+      {
+        "word": "vice versa",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "with the order or meaning reversed; conversely:",
+        "defn_zh": "反之亦然"
+      }
+    ],
+    "other": [
+      {
+        "word": "（此批單字中，暫無符合此字根/字首的單字）",
+        "pos": "",
+        "pos_key": "other",
+        "defn_en": "",
+        "defn_zh": ""
+      }
+    ],
+    "prep./adv.": [
+      {
+        "word": "besides",
+        "pos": "prep./adv.",
+        "pos_key": "prep./adv.",
+        "defn_en": "in addition to; furthermore:",
+        "defn_zh": "除...之外;此外"
+      }
+    ],
+    "phrasalv.": [
+      {
+        "word": "egg on",
+        "pos": "phrasal v.",
+        "pos_key": "phrasalv.",
+        "defn_en": "to encourage someone to do something, often risky:",
+        "defn_zh": "慫恿;鼓動"
+      },
+      {
+        "word": "carry out",
+        "pos": "phrasal v.",
+        "pos_key": "phrasalv.",
+        "defn_en": "to perform or complete a task:",
+        "defn_zh": "執行；完成"
+      },
+      {
+        "word": "look into",
+        "pos": "phrasal v.",
+        "pos_key": "phrasalv.",
+        "defn_en": "to investigate or examine something:",
+        "defn_zh": "調查；研究"
+      },
+      {
+        "word": "put off",
+        "pos": "phrasal v.",
+        "pos_key": "phrasalv.",
+        "defn_en": "to postpone something until a later time:",
+        "defn_zh": "延後；推遲"
+      },
+      {
+        "word": "rule out",
+        "pos": "phrasal v.",
+        "pos_key": "phrasalv.",
+        "defn_en": "to eliminate something as a possibility:",
+        "defn_zh": "排除（可能性）"
+      }
+    ],
+    "abbr.": [
+      {
+        "word": "etc.",
+        "pos": "abbr.",
+        "pos_key": "abbr.",
+        "defn_en": "and other similar things (abbreviation of et cetera):",
+        "defn_zh": "等等(et cetera的縮寫)"
+      },
+      {
+        "word": "e.g.",
+        "pos": "abbr.",
+        "pos_key": "abbr.",
+        "defn_en": "for example:",
+        "defn_zh": "例如"
+      },
+      {
+        "word": "i.e.",
+        "pos": "abbr.",
+        "pos_key": "abbr.",
+        "defn_en": "that is; in other words:",
+        "defn_zh": "也就是說；換言之"
+      },
+      {
+        "word": "approx.",
+        "pos": "abbr.",
+        "pos_key": "abbr.",
+        "defn_en": "approximately; about but not exactly:",
+        "defn_zh": "大約；約略"
+      },
+      {
+        "word": "vs.",
+        "pos": "abbr.",
+        "pos_key": "abbr.",
+        "defn_en": "versus; against or in comparison with:",
+        "defn_zh": "對；與……相比"
+      }
+    ],
+    "interj.": [
+      {
+        "word": "fiddledeedee",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "an exclamation expressing dismissal of something as nonsense:",
+        "defn_zh": "廢話!(表示不屑一顧)"
+      },
+      {
+        "word": "gesundheit",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "an expression said to someone who has just sneezed:",
+        "defn_zh": "保重(打噴嚏後的祝福語)"
+      },
+      {
+        "word": "alas",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "used to express sadness, regret, or disappointment:",
+        "defn_zh": "唉；哎呀（表示悲傷或遺憾）"
+      },
+      {
+        "word": "bravo",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "used to express approval or admiration:",
+        "defn_zh": "好極了；太棒了"
+      },
+      {
+        "word": "ouch",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "used to express sudden pain:",
+        "defn_zh": "哎喲（表示疼痛）"
+      },
+      {
+        "word": "phew",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "used to express relief, fatigue, or surprise:",
+        "defn_zh": "呼；唷（表示鬆一口氣、疲累或驚訝）"
+      }
+    ],
+    "prep.": [
+      {
+        "word": "via",
+        "pos": "prep.",
+        "pos_key": "prep.",
+        "defn_en": "by way of; passing through:",
+        "defn_zh": "經由;透過"
+      },
+      {
+        "word": "amid",
+        "pos": "prep.",
+        "pos_key": "prep.",
+        "defn_en": "in the middle of or surrounded by:",
+        "defn_zh": "在……之中；被……圍繞"
+      },
+      {
+        "word": "beneath",
+        "pos": "prep.",
+        "pos_key": "prep.",
+        "defn_en": "in or to a lower position than something:",
+        "defn_zh": "在……下方"
+      },
+      {
+        "word": "despite",
+        "pos": "prep.",
+        "pos_key": "prep.",
+        "defn_en": "without being affected or prevented by:",
+        "defn_zh": "儘管；不管"
+      },
+      {
+        "word": "throughout",
+        "pos": "prep.",
+        "pos_key": "prep.",
+        "defn_en": "in every part of or during the whole period of:",
+        "defn_zh": "遍及；貫穿整段期間"
+      }
+    ]
+  }
+}
