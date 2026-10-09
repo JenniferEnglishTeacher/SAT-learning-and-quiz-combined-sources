@@ -1,0 +1,1480 @@
+{
+  "id": "u-47-oral-overwrought",
+  "part": "unclassified",
+  "part_label": "未歸類 Unclassified",
+  "name": "Unclassified 47 (oral–overwrought)",
+  "subtitle": "Alphabetical batch",
+  "count": 50,
+  "words": [
+    {
+      "word": "oral",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "spoken rather than written; relating to the mouth:",
+      "defn_zh": "口頭的;口腔的",
+      "root_note": "os, oris (mouth), from Latin",
+      "sentences": [
+        {
+          "en": "Students gave an ______ presentation on their research findings.",
+          "zh": "學生們針對他們的研究結果進行了口頭報告。"
+        },
+        {
+          "en": "The dentist checked for signs of ______ infection.",
+          "zh": "牙醫檢查是否有口腔感染的跡象。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "orangutan",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a large arboreal ape native to Borneo and Sumatra:",
+      "defn_zh": "紅毛猩猩",
+      "root_note": "orang hutan (person of the forest), from Malay",
+      "sentences": [
+        {
+          "en": "The rescued ______ was released back into the protected rainforest.",
+          "zh": "這隻獲救的紅毛猩猩被放回這片受保護的雨林中。"
+        },
+        {
+          "en": "Conservationists work to protect the endangered ______ from deforestation.",
+          "zh": "保育人士致力於保護這隻瀕危的紅毛猩猩免於森林砍伐的威脅。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "orate",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to make a formal or lengthy speech:",
+      "defn_zh": "演說;發表演講",
+      "root_note": "orare (to speak, plead), from Latin os, oris (mouth)",
+      "sentences": [
+        {
+          "en": "He loved to ______ at length on subjects he barely understood.",
+          "zh": "他喜歡對自己幾乎不了解的話題長篇大論地發表演說。"
+        },
+        {
+          "en": "The candidate would ______ passionately about reform at every rally.",
+          "zh": "這位候選人在每一場造勢活動中都會激情洋溢地演說改革議題。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "oration",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a speech delivered in a formal or ceremonious manner:",
+      "defn_zh": "演說/致詞",
+      "root_note": "orare (to speak, plead)",
+      "sentences": [
+        {
+          "en": "The president delivered a moving ______ at the memorial service.",
+          "zh": "總統在這場追思儀式上發表了一段動人的演說。"
+        },
+        {
+          "en": "Her graduation ______ inspired the entire class to pursue their dreams.",
+          "zh": "她的畢業致詞激勵了全班同學追逐自己的夢想。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "orator",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a skilled and eloquent public speaker:",
+      "defn_zh": "演說家",
+      "root_note": "orare (to speak, plead), from Latin os, oris (mouth)",
+      "sentences": [
+        {
+          "en": "The famed ______ captivated audiences with his powerful voice.",
+          "zh": "這位著名的演說家以他強而有力的嗓音迷住了聽眾。"
+        },
+        {
+          "en": "She trained for years to become a confident public ______ .",
+          "zh": "她花了多年時間訓練,才成為一位自信的公開演說家。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "ordinary",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "with no special or distinctive features; normal:",
+      "defn_zh": "普通的;平凡的",
+      "root_note": "ordinarius (usual, regular), from Latin ordo (order)",
+      "sentences": [
+        {
+          "en": "It seemed like an ______ day until the news broke.",
+          "zh": "在這則消息傳出之前,這看似只是平凡的一天。"
+        },
+        {
+          "en": "He led an ______ life despite his extraordinary talent.",
+          "zh": "儘管擁有非凡的天賦,他過著平凡的生活。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "originate",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to begin, arise:",
+      "defn_zh": "發源/創立",
+      "root_note": "origo (beginning)",
+      "sentences": [
+        {
+          "en": "The rumor seemed to ______ from a single anonymous post online.",
+          "zh": "這個謠言似乎源自於網路上一則匿名貼文。"
+        },
+        {
+          "en": "The tradition is believed to ______ in ancient China.",
+          "zh": "這項傳統據信起源於古代中國。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "ornamental",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "serving as decoration rather than for a practical purpose:",
+      "defn_zh": "裝飾性的",
+      "root_note": "ornare (to adorn)",
+      "sentences": [
+        {
+          "en": "The vase was purely ______, with no real use other than decoration.",
+          "zh": "這只花瓶純粹是裝飾用的,除了美觀之外別無他用。"
+        },
+        {
+          "en": "The garden was filled with ______ plants that helped beautify the space.",
+          "zh": "這座花園種滿了裝飾性的植物,為這個空間增添美感。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "ornate",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "highly elaborate, excessively decorated:",
+      "defn_zh": "華麗的/裝飾繁複的",
+      "root_note": "ornare (to adorn)",
+      "sentences": [
+        {
+          "en": "The cathedral's ceiling featured ______ carvings of angels and saints.",
+          "zh": "這座大教堂的天花板飾有天使與聖徒的華麗雕刻。"
+        },
+        {
+          "en": "Her ______ wedding gown was covered in hand-sewn pearls.",
+          "zh": "她那件華麗的婚紗上綴滿了手縫的珍珠。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "orthodontia",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "the branch of dentistry concerned with straightening teeth:",
+      "defn_zh": "牙齒矯正學",
+      "root_note": "orthos (straight) + odontos (tooth), from Greek",
+      "sentences": [
+        {
+          "en": "Her insurance plan covered part of her ______ treatment.",
+          "zh": "她的保險計畫給付了部分牙齒矯正的治療費用。"
+        },
+        {
+          "en": "He wore braces for two years as part of his ______ .",
+          "zh": "他戴了兩年牙套,作為牙齒矯正治療的一部分。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "orthodontics",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "the branch of dentistry dealing with correction of irregular teeth:",
+      "defn_zh": "齒顎矯正學",
+      "root_note": "orthos (straight, Greek) + odous, odontos (tooth, Greek)",
+      "sentences": [
+        {
+          "en": "She wore braces for two years as part of her ______ treatment.",
+          "zh": "她配戴了兩年的牙套,作為齒顎矯正治療的一部分。"
+        },
+        {
+          "en": "The dentist referred him to a specialist in ______ for his crooked teeth.",
+          "zh": "牙醫因他牙齒不整,將他轉介給齒顎矯正專科醫師。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "orthodontist",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a dentist who specializes in correcting the alignment of teeth:",
+      "defn_zh": "牙齒矯正醫師",
+      "root_note": "orthos (straight) + odontos (tooth), from Greek",
+      "sentences": [
+        {
+          "en": "The ______ recommended braces to fix her overbite.",
+          "zh": "這位牙齒矯正醫師建議戴牙套來矯正她的深咬問題。"
+        },
+        {
+          "en": "He visits his ______ every month to have his braces adjusted.",
+          "zh": "他每個月都會去看他的牙齒矯正醫師,調整牙套。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "orthodox",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "conventional, conforming to established protocol:",
+      "defn_zh": "正統的/傳統的",
+      "root_note": "orthos (correct, Greek) + doxa (opinion, Greek)",
+      "sentences": [
+        {
+          "en": "Her research methods were far from ______, but they produced remarkable results.",
+          "zh": "她的研究方法一點也不傳統,卻產出了驚人的成果。"
+        },
+        {
+          "en": "He follows an ______ approach to teaching that has changed little in decades.",
+          "zh": "他採用一種數十年來幾乎沒有改變的傳統教學方式。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "orthoepy",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "the study of correct pronunciation:",
+      "defn_zh": "正音學",
+      "root_note": "orthos (correct) + epos (word), from Greek",
+      "sentences": [
+        {
+          "en": "The professor's course on ______ helped students refine their accents.",
+          "zh": "這位教授的正音學課程幫助學生改善他們的口音。"
+        },
+        {
+          "en": "Debate over regional dialects has long complicated the study of ______ .",
+          "zh": "地方方言的爭論長期以來使正音學的研究更加複雜。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "orthography",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "the conventional spelling system of a language:",
+      "defn_zh": "正字法;拼字法",
+      "root_note": "orthos (correct) + graphein (to write), from Greek",
+      "sentences": [
+        {
+          "en": "English ______ can be notoriously inconsistent for learners.",
+          "zh": "英語的拼字法對學習者來說可能出了名的不規則。"
+        },
+        {
+          "en": "The reform aimed to simplify the nation's ______ system.",
+          "zh": "這項改革旨在簡化這個國家的正字法系統。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "orthopaedics",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "the branch of medicine concerned with disorders of the spine and joints:",
+      "defn_zh": "骨科學",
+      "root_note": "orthos (straight, correct, Greek) + pais, paidos (child, Greek)",
+      "sentences": [
+        {
+          "en": "After breaking his leg, he was referred to a specialist in ______.",
+          "zh": "在他摔斷腿後,他被轉介給一位骨科專科醫師。"
+        },
+        {
+          "en": "The hospital's ______ department treats hundreds of sports injuries each year.",
+          "zh": "這家醫院的骨科部門每年治療數百起運動傷害。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "orthopedist",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a surgeon who corrects deformities of bones and joints:",
+      "defn_zh": "骨科醫師",
+      "root_note": "orthos (straight) + paidos (child), from Greek",
+      "sentences": [
+        {
+          "en": "The ______ recommended surgery to repair his torn ligament.",
+          "zh": "這位骨科醫師建議動手術修復他撕裂的韌帶。"
+        },
+        {
+          "en": "She saw an ______ after her knee pain worsened.",
+          "zh": "她的膝蓋疼痛加劇後便去看了骨科醫師。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "orthoscopic",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "producing images free from distortion, especially in optics:",
+      "defn_zh": "無畸變的;正像的",
+      "root_note": "orthos (correct) + skopein (to look at), from Greek",
+      "sentences": [
+        {
+          "en": "The telescope's ______ lens produced remarkably sharp images.",
+          "zh": "這台望遠鏡無畸變的鏡頭產生了異常清晰的影像。"
+        },
+        {
+          "en": "Photographers prized the ______ quality of the vintage lens.",
+          "zh": "攝影師珍視這款復古鏡頭無畸變的成像品質。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "oscillate",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to move or swing back and forth in a regular rhythm:",
+      "defn_zh": "擺動/搖擺",
+      "root_note": "oscillum (small swing)",
+      "sentences": [
+        {
+          "en": "The fan ______ in the corner, providing a cool breeze in the room.",
+          "zh": "這台風扇在角落來回擺動,為房間帶來涼爽的微風。"
+        },
+        {
+          "en": "Her mood seemed to ______ between excitement and anxiety all week.",
+          "zh": "整整一週,她的情緒似乎在興奮與焦慮之間來回擺盪。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "oscitancy",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "drowsiness or a tendency to yawn; mental dullness:",
+      "defn_zh": "昏昏欲睡;精神遲鈍",
+      "root_note": "oscitare (to yawn), from Latin os (mouth) + citare (to move)",
+      "sentences": [
+        {
+          "en": "The dull lecture induced a state of ______ across the room.",
+          "zh": "這場沉悶的講課讓整個房間陷入昏昏欲睡的狀態。"
+        },
+        {
+          "en": "He struggled against a wave of ______ during the late-night meeting.",
+          "zh": "他在這場深夜會議中努力對抗一陣陣的昏昏欲睡。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "oscitant",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "yawning; drowsy or inattentive:",
+      "defn_zh": "打呵欠的;昏昏欲睡的",
+      "root_note": "oscitare (to yawn), from Latin os (mouth) + citare (to move)",
+      "sentences": [
+        {
+          "en": "The ______ students barely followed the professor's monotone lecture.",
+          "zh": "這些昏昏欲睡的學生幾乎跟不上教授單調的講課。"
+        },
+        {
+          "en": "An ______ audience signaled that the speech had gone on too long.",
+          "zh": "台下昏昏欲睡的觀眾顯示這場演講已經拖得太長。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "osculation",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "the act of kissing:",
+      "defn_zh": "親吻(正式或詼諧用語)",
+      "root_note": "osculari (to kiss), from Latin osculum (little mouth)",
+      "sentences": [
+        {
+          "en": "The wedding ceremony ended with a tender ______ .",
+          "zh": "這場婚禮以一個溫柔的親吻作為結尾。"
+        },
+        {
+          "en": "The novel humorously describes their first awkward ______ .",
+          "zh": "這本小說幽默地描述了他們第一次笨拙的親吻。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "ostracism",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "exclusion from a group:",
+      "defn_zh": "排斥/放逐",
+      "root_note": "ostrakon (potsherd, shell, Greek)",
+      "sentences": [
+        {
+          "en": "Speaking out against the tradition led to his social ______ within the village.",
+          "zh": "公開反對這項傳統,讓他遭到村里的社會排斥。"
+        },
+        {
+          "en": "The whistleblower faced professional ______ after exposing the company's fraud.",
+          "zh": "這名揭弊者在揭發公司的詐欺行為後,遭到職場上的排擠。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "ostracize",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to exclude someone from a society or group:",
+      "defn_zh": "排斥;放逐",
+      "root_note": "ostrakizein (to banish by voting with potsherds), from Greek ostrakon (shell, potsherd)",
+      "sentences": [
+        {
+          "en": "The community began to ______ the family after the scandal broke.",
+          "zh": "這場醜聞爆發後,這個社區開始排斥這個家庭。"
+        },
+        {
+          "en": "She felt ______ d by her former friends after speaking out.",
+          "zh": "她挺身發聲後,感覺被昔日的朋友們排斥孤立了。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "otiose",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "serving no practical purpose; futile:",
+      "defn_zh": "無用的;徒勞的",
+      "root_note": "otiosus (at leisure, idle), from Latin otium (leisure)",
+      "sentences": [
+        {
+          "en": "The committee dismissed the proposal as ______ and unnecessary.",
+          "zh": "委員會將這項提案視為無用且不必要而予以駁回。"
+        },
+        {
+          "en": "His lengthy footnotes seemed largely ______ to the main argument.",
+          "zh": "他冗長的註腳對於主要論點來說似乎大多是徒勞無用的。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "oubliette",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a secret dungeon accessible only from a trapdoor in the ceiling:",
+      "defn_zh": "地牢暗室(僅能從天花板暗門進入)",
+      "root_note": "oublier (to forget), from French",
+      "sentences": [
+        {
+          "en": "The castle's guide pointed out the grim ______ used centuries ago.",
+          "zh": "這座城堡的導覽員指出了幾個世紀前使用的陰森地牢暗室。"
+        },
+        {
+          "en": "Prisoners thrown into the ______ were rarely seen again.",
+          "zh": "被丟入這個地牢暗室的囚犯很少再被人看見。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "oust",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to drive out, eject:",
+      "defn_zh": "驅逐",
+      "root_note": "obstare (to stand in the way)",
+      "sentences": [
+        {
+          "en": "The board voted to ______ the CEO after the scandal became public.",
+          "zh": "醜聞曝光後,董事會投票決定驅逐這位執行長。"
+        },
+        {
+          "en": "The rebels attempted to ______ the president from power.",
+          "zh": "叛軍試圖將總統趕下台。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "outgrowth",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "something that develops as a natural result or consequence:",
+      "defn_zh": "自然結果;衍生物",
+      "root_note": "out + growth, from Old English growan (to grow)",
+      "sentences": [
+        {
+          "en": "The new policy was an ______ of years of public debate.",
+          "zh": "這項新政策是多年公眾辯論下自然而然的結果。"
+        },
+        {
+          "en": "Her interest in medicine was an ______ of caring for her sick grandmother.",
+          "zh": "她對醫學的興趣是照顧生病祖母後自然衍生出的結果。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "outlandish",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "bizarre or unfamiliar, especially in appearance:",
+      "defn_zh": "古怪的;離譜的",
+      "root_note": "utlendisc (foreign), from Old English ut (out) + land",
+      "sentences": [
+        {
+          "en": "The performer wore an ______ costume covered in feathers.",
+          "zh": "這位表演者穿著一件覆滿羽毛、造型古怪的戲服。"
+        },
+        {
+          "en": "His ______ theory was dismissed by most scientists.",
+          "zh": "他那離譜的理論被大多數科學家所否定。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "outmoded",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "no longer fashionable or useful:",
+      "defn_zh": "過時的;不合時宜的",
+      "root_note": "out + mode, from Latin modus (measure, manner)",
+      "sentences": [
+        {
+          "en": "The factory replaced its ______ machinery with modern equipment.",
+          "zh": "這家工廠以現代設備汰換了過時的機械。"
+        },
+        {
+          "en": "Some argue the tradition has become ______ in today's society.",
+          "zh": "有些人認為這項傳統在現今社會已經變得不合時宜。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "outrageous",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "shockingly bad, excessive, or unacceptable:",
+      "defn_zh": "令人震驚的;離譜的",
+      "root_note": "outrage, from Old French oultrage (excess), from Latin ultra (beyond)",
+      "sentences": [
+        {
+          "en": "The restaurant charged an ______ price for a simple sandwich.",
+          "zh": "這家餐廳為一份簡單的三明治開出了離譜的價格。"
+        },
+        {
+          "en": "Her ______ behavior at the wedding embarrassed everyone.",
+          "zh": "她在這場婚禮上令人震驚的行為讓每個人都感到尷尬。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "outre^",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "unusual and slightly shocking; outside the bounds of convention:",
+      "defn_zh": "怪異的;離經叛道的(異體標示)",
+      "root_note": "outré (exaggerated, beyond bounds), from French outre (beyond)",
+      "sentences": [
+        {
+          "en": "Critics called her ______ performance a bold artistic statement.",
+          "zh": "評論家稱她那怪誕離經叛道的表演是一項大膽的藝術宣言。"
+        },
+        {
+          "en": "The gallery's ______ exhibit divided public opinion sharply.",
+          "zh": "這間畫廊怪異離經叛道的展覽讓大眾意見嚴重分歧。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "outré",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "unusual and slightly shocking; outside the bounds of convention:",
+      "defn_zh": "怪異的;離經叛道的",
+      "root_note": "outré (exaggerated, beyond bounds), from French outre (beyond)",
+      "sentences": [
+        {
+          "en": "The designer's ______ runway show shocked the fashion world.",
+          "zh": "這位設計師怪誕離經叛道的時裝秀震驚了整個時尚界。"
+        },
+        {
+          "en": "His ______ theories were dismissed by mainstream academics.",
+          "zh": "他那離經叛道的理論被主流學界所摒棄。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "outspokenness",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "the quality of expressing one's opinions frankly, even if controversial:",
+      "defn_zh": "直言不諱",
+      "root_note": "out + speak, from Old English sprecan",
+      "sentences": [
+        {
+          "en": "Her ______ on political issues won her both admirers and critics.",
+          "zh": "她在政治議題上直言不諱的態度為她贏得了支持者,也招來了批評者。"
+        },
+        {
+          "en": "The senator was known for his blunt ______ in interviews.",
+          "zh": "這位參議員以他在訪談中直率坦白的直言不諱聞名。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "outstrip",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to surpass or exceed:",
+      "defn_zh": "超越/勝過",
+      "root_note": "",
+      "sentences": [
+        {
+          "en": "Sales of my new novel ______ all expectations.",
+          "zh": "我的新小說銷量遠遠超出所有預期。"
+        },
+        {
+          "en": "Demand for the new phone quickly ______ the factory's supply.",
+          "zh": "這款新手機的需求量迅速超過了工廠的供給量。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "outworn",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "no longer useful, valid, or fashionable:",
+      "defn_zh": "過時的;陳舊的",
+      "root_note": "out + worn, from Old English werian (to wear)",
+      "sentences": [
+        {
+          "en": "The professor challenged several ______ assumptions in the field.",
+          "zh": "這位教授質疑了這個領域裡好幾個過時的假設。"
+        },
+        {
+          "en": "The company finally abandoned its ______ business model.",
+          "zh": "這家公司終於捨棄了它那過時的商業模式。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "overbearing",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "domineering and unpleasantly controlling:",
+      "defn_zh": "專橫的;高壓的",
+      "root_note": "over + bear, from Old English beran (to carry)",
+      "sentences": [
+        {
+          "en": "Her ______ mother controlled every decision in her life.",
+          "zh": "她那專橫的母親掌控著她生活中的每一個決定。"
+        },
+        {
+          "en": "The team resented their ______ new manager.",
+          "zh": "這支團隊對他們新來的專橫經理感到不滿。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "overcome",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to succeed in dealing with a problem:",
+      "defn_zh": "克服",
+      "root_note": "",
+      "sentences": [
+        {
+          "en": "She ______ her fear of public speaking and was able to deliver her remarks.",
+          "zh": "她克服了對公開演講的恐懼,順利發表了她的談話。"
+        },
+        {
+          "en": "The team managed to ______ a two-goal deficit to win the match.",
+          "zh": "這支球隊成功克服了兩球落後的劣勢,贏得了這場比賽。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "overconfident",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "having excessive confidence in oneself:",
+      "defn_zh": "過度自信的",
+      "root_note": "over + confident, from Latin confidere (to trust fully)",
+      "sentences": [
+        {
+          "en": "The ______ team underestimated their opponents and lost badly.",
+          "zh": "這支過度自信的隊伍低估了對手,結果慘敗。"
+        },
+        {
+          "en": "He grew ______ after his first few successes.",
+          "zh": "在最初的幾次成功後,他變得過度自信。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "overlook",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to fail to notice or consider:",
+      "defn_zh": "忽略",
+      "root_note": "",
+      "sentences": [
+        {
+          "en": "The officer ______ an important detail that would have helped solve the crime.",
+          "zh": "這名警官忽略了一個原本能協助破案的重要細節。"
+        },
+        {
+          "en": "It's easy to ______ small errors when you're reading your own writing.",
+          "zh": "在閱讀自己寫的文章時,很容易忽略掉小錯誤。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "overreact",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to respond too strongly:",
+      "defn_zh": "反應過度",
+      "root_note": "",
+      "sentences": [
+        {
+          "en": "My sister ______ to our parents' criticism of her outfit.",
+          "zh": "我姊姊對父母批評她的穿著反應過度。"
+        },
+        {
+          "en": "Try not to ______ when your coworkers offer constructive feedback.",
+          "zh": "當同事提出建設性的意見時,盡量不要反應過度。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "overshadow",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to be more important than something else:",
+      "defn_zh": "使黯然失色/蓋過",
+      "root_note": "",
+      "sentences": [
+        {
+          "en": "His success ______ his past failures.",
+          "zh": "他的成功讓過去的失敗顯得黯然失色。"
+        },
+        {
+          "en": "The scandal ______ all of the company's recent achievements.",
+          "zh": "這起醜聞掩蓋了這家公司近來所有的成就。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "overspread",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to spread over the surface of something:",
+      "defn_zh": "覆蓋;蔓延",
+      "root_note": "over + spread, from Old English sprædan",
+      "sentences": [
+        {
+          "en": "A thick fog began to ______ the valley by nightfall.",
+          "zh": "到了夜幕降臨時,一片濃霧開始籠罩這座山谷。"
+        },
+        {
+          "en": "Panic seemed to ______ the crowd after the announcement.",
+          "zh": "這則宣布之後,一股恐慌似乎蔓延到整個人群之中。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "overt",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "open:obvious",
+      "defn_zh": "公開的/明顯的",
+      "root_note": "aperire (to open)",
+      "sentences": [
+        {
+          "en": "There was no ______ sign of conflict, but tension filled the room.",
+          "zh": "雖然沒有公開的衝突跡象,但房間裡瀰漫著緊張氣氛。"
+        },
+        {
+          "en": "The company faced ______ criticism for its handling of the scandal.",
+          "zh": "這家公司因處理醜聞的方式而面臨公開的批評。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "overthrow",
+      "pos": "v./n.",
+      "pos_key": "v.",
+      "defn_en": "to remove forcibly from power; the removal of a government by force:",
+      "defn_zh": "推翻;政變",
+      "root_note": "over + throw, from Old English thrawan",
+      "sentences": [
+        {
+          "en": "Rebels plotted to ______ the corrupt government.",
+          "zh": "反抗軍密謀推翻這個腐敗的政府。"
+        },
+        {
+          "en": "The military ______ shocked the international community.",
+          "zh": "這場軍事政變震驚了國際社會。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "overtly",
+      "pos": "adv.",
+      "pos_key": "adv.",
+      "defn_en": "openly and clearly:",
+      "defn_zh": "公開地/明顯地",
+      "root_note": "",
+      "sentences": [
+        {
+          "en": "He ______ expressed his disapproval by telling me what he thought.",
+          "zh": "他公開表達了他的不滿,直接告訴我他的想法。"
+        },
+        {
+          "en": "The advertisement was ______ aimed at teenagers.",
+          "zh": "這則廣告明顯是針對青少年設計的。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "overween",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to be excessively conceited or arrogant:",
+      "defn_zh": "過分自負;狂妄自大",
+      "root_note": "over + wenan (to think, suppose), from Old English",
+      "sentences": [
+        {
+          "en": "He tended to ______ whenever his projects met with early success.",
+          "zh": "每當他的計畫初期取得成功,他總是傾向於過分自負。"
+        },
+        {
+          "en": "Critics accused the young author of beginning to ______ after one bestseller.",
+          "zh": "評論家指控這位年輕作家在一本暢銷書之後便開始變得狂妄自大。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "overweening",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "showing excessive confidence or pride:",
+      "defn_zh": "自負的;狂妄的",
+      "root_note": "over + wenan (to think, suppose), from Old English",
+      "sentences": [
+        {
+          "en": "His ______ ambition alienated even his closest allies.",
+          "zh": "他狂妄的野心甚至疏遠了他最親近的盟友。"
+        },
+        {
+          "en": "The critic mocked the director's ______ self-regard.",
+          "zh": "這位評論家嘲諷這位導演狂妄自負的自我評價。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "overwhelmed",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "feeling excessive stress or emotion:",
+      "defn_zh": "不堪重負的/難以承受的",
+      "root_note": "",
+      "sentences": [
+        {
+          "en": "Agatha felt ______ by her workload and had no idea how she'd finish it all in time.",
+          "zh": "阿嘉莎被工作量壓得喘不過氣,完全不知道該如何準時完成所有工作。"
+        },
+        {
+          "en": "New parents often feel ______ during the first few months.",
+          "zh": "新手父母在頭幾個月常常感到不堪重負。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "overwrought",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "extremely agitated or excited; excessively elaborate:",
+      "defn_zh": "情緒激動的;過度雕琢的",
+      "root_note": "over + wrought (worked), from Old English wyrcan (to work)",
+      "sentences": [
+        {
+          "en": "The ______ mother paced the hospital hallway all night.",
+          "zh": "這位情緒激動的母親整晚在醫院走廊來回踱步。"
+        },
+        {
+          "en": "Critics found the novel's prose ______ and overly dramatic.",
+          "zh": "評論家認為這本小說的文筆過度雕琢且過分戲劇化。"
+        }
+      ],
+      "category": null
+    }
+  ],
+  "family_options": {},
+  "fallback_options": {
+    "v.": [
+      {
+        "word": "abound",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to exist in great numbers:",
+        "defn_zh": "充滿"
+      },
+      {
+        "word": "abrogate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to deprive of legal force, to nullify:=abolish",
+        "defn_zh": "廢除/取消"
+      },
+      {
+        "word": "abjure",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to renounce, abstain from:",
+        "defn_zh": "發誓放棄/棄絕"
+      },
+      {
+        "word": "abbreviate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to shorten a word or phrase:",
+        "defn_zh": "縮寫;縮短"
+      },
+      {
+        "word": "abdicate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to give up a position, usually one of leadership:",
+        "defn_zh": "退位/放棄(職位)"
+      },
+      {
+        "word": "abduct",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to kidnap, take by force:",
+        "defn_zh": "綁架/劫持"
+      },
+      {
+        "word": "abhor",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to regard with disgust and hatred:",
+        "defn_zh": "憎惡/厭惡"
+      },
+      {
+        "word": "abnegate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to deny or renounce:",
+        "defn_zh": "放棄/克制"
+      },
+      {
+        "word": "abolish",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to formally put an end to a system, practice, or institution:",
+        "defn_zh": "廢除"
+      },
+      {
+        "word": "abort",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to give up on a half-finished project or effort:",
+        "defn_zh": "中止/放棄"
+      },
+      {
+        "word": "abrade",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to scrape or wear away by friction:",
+        "defn_zh": "磨損;擦傷"
+      },
+      {
+        "word": "abscond",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to sneak away and hide:",
+        "defn_zh": "潛逃/逃匿"
+      }
+    ],
+    "adj.": [
+      {
+        "word": "abortive",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "fruitless, failing:",
+        "defn_zh": "失敗的/夭折的"
+      },
+      {
+        "word": "abstemious",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "moderate in eating or drinking:",
+        "defn_zh": "飲食有節制的"
+      },
+      {
+        "word": "abhorrent",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "detestable, despised:",
+        "defn_zh": "令人厭惡的"
+      },
+      {
+        "word": "absurd",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "ridiculous:",
+        "defn_zh": "荒謬的"
+      },
+      {
+        "word": "aberrant",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "deviating from what is normal or expected:",
+        "defn_zh": "異常的;脫軌的"
+      },
+      {
+        "word": "abject",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "wretched, pitiful:",
+        "defn_zh": "卑賤的/淒慘的"
+      },
+      {
+        "word": "abominable",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "causing moral revulsion; extremely unpleasant:",
+        "defn_zh": "可憎的;惡劣的"
+      },
+      {
+        "word": "abounding",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "existing in large numbers or amounts:",
+        "defn_zh": "大量存在的;豐富的"
+      },
+      {
+        "word": "abrasive",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "showing little concern for others; harsh:",
+        "defn_zh": "粗暴的/刺耳的"
+      },
+      {
+        "word": "abrupt",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "sudden or unexpected; brief and curt in manner:",
+        "defn_zh": "突然的/唐突的"
+      },
+      {
+        "word": "abstract",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "existing purely in the mind; not representing actual reality:",
+        "defn_zh": "抽象的"
+      },
+      {
+        "word": "abstruse",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "hard to comprehend:",
+        "defn_zh": "深奧難懂的"
+      }
+    ],
+    "n.": [
+      {
+        "word": "aversion",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "strong dislike, opposition:",
+        "defn_zh": "厭惡/反感"
+      },
+      {
+        "word": "aberration",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "something that differs from the norm:",
+        "defn_zh": "異常/脫軌"
+      },
+      {
+        "word": "abjection",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a state of complete misery, hopelessness, or degradation:",
+        "defn_zh": "卑賤;悲慘狀態"
+      },
+      {
+        "word": "abjuration",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the solemn renunciation of a belief, cause, or claim:",
+        "defn_zh": "公開放棄;誓絕"
+      },
+      {
+        "word": "ablution",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the act of washing oneself, especially as part of a religious ritual:",
+        "defn_zh": "沐浴;淨身儀式"
+      },
+      {
+        "word": "abnegation",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "denial of comfort to oneself:",
+        "defn_zh": "自我克制/放棄"
+      },
+      {
+        "word": "abomination",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "something that causes disgust or hatred:",
+        "defn_zh": "可憎之事;令人厭惡的東西"
+      },
+      {
+        "word": "abridgement",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a shortened version of a book or other written work:",
+        "defn_zh": "節略本;縮減版"
+      },
+      {
+        "word": "absolution",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "freedom from blame, guilt, sin:",
+        "defn_zh": "赦免/免罪"
+      },
+      {
+        "word": "abstemiousness",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "moderation or self-restraint, especially in eating and drinking:",
+        "defn_zh": "節制;克己"
+      },
+      {
+        "word": "abstinence",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the practice of restraining oneself from something enjoyable, especially food, alcohol, or sex:",
+        "defn_zh": "節制;戒絕"
+      },
+      {
+        "word": "avocation",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a hobby or minor occupation apart from one's main career:",
+        "defn_zh": "副業;業餘愛好"
+      }
+    ],
+    "adv.": [
+      {
+        "word": "accordingly",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in a manner that fits the circumstances; consequently:",
+        "defn_zh": "相應地;因此"
+      },
+      {
+        "word": "inadvertently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "unintentionally or by accident:",
+        "defn_zh": "無意間/不小心地"
+      },
+      {
+        "word": "consequently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "as a result; therefore:",
+        "defn_zh": "因此;結果"
+      },
+      {
+        "word": "contemptuously",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "without respect; in a disdainful manner:",
+        "defn_zh": "輕蔑地"
+      },
+      {
+        "word": "involuntarily",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "done without conscious control:",
+        "defn_zh": "不由自主地"
+      },
+      {
+        "word": "cordially",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in a warm or friendly manner:",
+        "defn_zh": "誠摯地/友好地"
+      },
+      {
+        "word": "ipso facto",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "by that very fact or act:",
+        "defn_zh": "事實上;因此"
+      },
+      {
+        "word": "en passant",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in passing; incidentally:",
+        "defn_zh": "順帶一提地;偶然地"
+      },
+      {
+        "word": "regardless",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "despite the prevailing circumstances; without being deterred:",
+        "defn_zh": "不管怎樣;儘管如此"
+      },
+      {
+        "word": "subsequently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "afterward; following in time or order:",
+        "defn_zh": "隨後;其後"
+      },
+      {
+        "word": "aside",
+        "pos": "adv./n.",
+        "pos_key": "adv.",
+        "defn_en": "to or on one side; a remark not meant to be heard by everyone:",
+        "defn_zh": "在旁邊;旁白"
+      },
+      {
+        "word": "vice versa",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "with the order or meaning reversed; conversely:",
+        "defn_zh": "反之亦然"
+      }
+    ],
+    "other": [
+      {
+        "word": "（此批單字中，暫無符合此字根/字首的單字）",
+        "pos": "",
+        "pos_key": "other",
+        "defn_en": "",
+        "defn_zh": ""
+      }
+    ],
+    "prep./adv.": [
+      {
+        "word": "besides",
+        "pos": "prep./adv.",
+        "pos_key": "prep./adv.",
+        "defn_en": "in addition to; furthermore:",
+        "defn_zh": "除...之外;此外"
+      }
+    ],
+    "phrasalv.": [
+      {
+        "word": "egg on",
+        "pos": "phrasal v.",
+        "pos_key": "phrasalv.",
+        "defn_en": "to encourage someone to do something, often risky:",
+        "defn_zh": "慫恿;鼓動"
+      },
+      {
+        "word": "carry out",
+        "pos": "phrasal v.",
+        "pos_key": "phrasalv.",
+        "defn_en": "to perform or complete a task:",
+        "defn_zh": "執行；完成"
+      },
+      {
+        "word": "look into",
+        "pos": "phrasal v.",
+        "pos_key": "phrasalv.",
+        "defn_en": "to investigate or examine something:",
+        "defn_zh": "調查；研究"
+      },
+      {
+        "word": "put off",
+        "pos": "phrasal v.",
+        "pos_key": "phrasalv.",
+        "defn_en": "to postpone something until a later time:",
+        "defn_zh": "延後；推遲"
+      },
+      {
+        "word": "rule out",
+        "pos": "phrasal v.",
+        "pos_key": "phrasalv.",
+        "defn_en": "to eliminate something as a possibility:",
+        "defn_zh": "排除（可能性）"
+      }
+    ],
+    "abbr.": [
+      {
+        "word": "etc.",
+        "pos": "abbr.",
+        "pos_key": "abbr.",
+        "defn_en": "and other similar things (abbreviation of et cetera):",
+        "defn_zh": "等等(et cetera的縮寫)"
+      },
+      {
+        "word": "e.g.",
+        "pos": "abbr.",
+        "pos_key": "abbr.",
+        "defn_en": "for example:",
+        "defn_zh": "例如"
+      },
+      {
+        "word": "i.e.",
+        "pos": "abbr.",
+        "pos_key": "abbr.",
+        "defn_en": "that is; in other words:",
+        "defn_zh": "也就是說；換言之"
+      },
+      {
+        "word": "approx.",
+        "pos": "abbr.",
+        "pos_key": "abbr.",
+        "defn_en": "approximately; about but not exactly:",
+        "defn_zh": "大約；約略"
+      },
+      {
+        "word": "vs.",
+        "pos": "abbr.",
+        "pos_key": "abbr.",
+        "defn_en": "versus; against or in comparison with:",
+        "defn_zh": "對；與……相比"
+      }
+    ],
+    "interj.": [
+      {
+        "word": "fiddledeedee",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "an exclamation expressing dismissal of something as nonsense:",
+        "defn_zh": "廢話!(表示不屑一顧)"
+      },
+      {
+        "word": "gesundheit",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "an expression said to someone who has just sneezed:",
+        "defn_zh": "保重(打噴嚏後的祝福語)"
+      },
+      {
+        "word": "alas",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "used to express sadness, regret, or disappointment:",
+        "defn_zh": "唉；哎呀（表示悲傷或遺憾）"
+      },
+      {
+        "word": "bravo",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "used to express approval or admiration:",
+        "defn_zh": "好極了；太棒了"
+      },
+      {
+        "word": "ouch",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "used to express sudden pain:",
+        "defn_zh": "哎喲（表示疼痛）"
+      },
+      {
+        "word": "phew",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "used to express relief, fatigue, or surprise:",
+        "defn_zh": "呼；唷（表示鬆一口氣、疲累或驚訝）"
+      }
+    ],
+    "prep.": [
+      {
+        "word": "via",
+        "pos": "prep.",
+        "pos_key": "prep.",
+        "defn_en": "by way of; passing through:",
+        "defn_zh": "經由;透過"
+      },
+      {
+        "word": "amid",
+        "pos": "prep.",
+        "pos_key": "prep.",
+        "defn_en": "in the middle of or surrounded by:",
+        "defn_zh": "在……之中；被……圍繞"
+      },
+      {
+        "word": "beneath",
+        "pos": "prep.",
+        "pos_key": "prep.",
+        "defn_en": "in or to a lower position than something:",
+        "defn_zh": "在……下方"
+      },
+      {
+        "word": "despite",
+        "pos": "prep.",
+        "pos_key": "prep.",
+        "defn_en": "without being affected or prevented by:",
+        "defn_zh": "儘管；不管"
+      },
+      {
+        "word": "throughout",
+        "pos": "prep.",
+        "pos_key": "prep.",
+        "defn_en": "in every part of or during the whole period of:",
+        "defn_zh": "遍及；貫穿整段期間"
+      }
+    ]
+  }
+}
