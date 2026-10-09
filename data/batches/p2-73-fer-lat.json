@@ -1,0 +1,1426 @@
+{
+  "id": "p2-73-fer-lat",
+  "part": "part2",
+  "part_label": "Part 2 字根篇 (Roots)",
+  "name": "fer；lat",
+  "subtitle": "攜帶；產生",
+  "count": 42,
+  "words": [
+    {
+      "word": "vociferous",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "loud and noisy regarding one's own voice, especially shouting; demandingly clamorous",
+      "defn_zh": "大聲喧嚷的",
+      "root_note": "vox/voc (voice) + ferre (to carry)",
+      "sentences": [
+        {
+          "en": "The ______ protesters demanded immediate action from the city council.",
+          "zh": "這群大聲喧嚷的抗議者要求市議會立即採取行動。"
+        },
+        {
+          "en": "He became increasingly ______ as the debate dragged on.",
+          "zh": "隨著這場辯論持續拖延,他變得越來越大聲喧嚷。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "73",
+        "spelling": "fer；lat",
+        "meaning": "攜帶；產生"
+      }
+    },
+    {
+      "word": "bibliolater",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a person who worships books, especially the Bible, with excessive devotion:",
+      "defn_zh": "崇書者;書籍崇拜者",
+      "root_note": "biblio- (book) + latreia (worship), from Greek",
+      "sentences": [
+        {
+          "en": "Some critics dismissed him as a mere ______ , unable to question the texts he revered.",
+          "zh": "有些評論家批評他不過是個盲目崇書者,對自己敬奉的文本從不質疑。"
+        },
+        {
+          "en": "The collector's reverence for first editions bordered on ______.",
+          "zh": "這位收藏家對初版書的崇敬,幾乎到了頂禮膜拜的地步。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "73",
+        "spelling": "fer；lat",
+        "meaning": "攜帶；產生"
+      }
+    },
+    {
+      "word": "burglar",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a person who breaks into a building to steal:",
+      "defn_zh": "竊賊;夜盜",
+      "root_note": "burgus (fortress) + latro (thief), from Latin",
+      "sentences": [
+        {
+          "en": "A ______ broke into three houses on the same street last week.",
+          "zh": "上週有名竊賊闖入了同一條街上的三戶人家。"
+        },
+        {
+          "en": "The new alarm system was installed to deter potential ______.",
+          "zh": "這套新的警報系統是為了嚇阻潛在的竊賊而安裝的。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "73",
+        "spelling": "fer；lat",
+        "meaning": "攜帶；產生"
+      }
+    },
+    {
+      "word": "burglarize",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to break into and steal from a building:",
+      "defn_zh": "入室盜竊",
+      "root_note": "burgus (fortress) + latro (thief), from Latin",
+      "sentences": [
+        {
+          "en": "Their vacation home was ______d while they were away for the holidays.",
+          "zh": "他們的度假別墅在他們外出度假時遭竊。"
+        },
+        {
+          "en": "Police warned residents that several homes in the area had been ______d recently.",
+          "zh": "警方警告居民,附近幾戶人家最近遭到入室盜竊。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "73",
+        "spelling": "fer；lat",
+        "meaning": "攜帶；產生"
+      }
+    },
+    {
+      "word": "collateral",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "secondary:",
+      "defn_zh": "附帶的/擔保品的",
+      "root_note": "com- (with) + latus, lateris (side, Latin)",
+      "sentences": [
+        {
+          "en": "The bank required his car as ______ for the loan.",
+          "zh": "銀行要求他以汽車作為這筆貸款的擔保品。"
+        },
+        {
+          "en": "The bombing caused significant ______ damage to nearby buildings.",
+          "zh": "這次轟炸對附近的建築物造成了嚴重的附帶損害。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "73",
+        "spelling": "fer；lat",
+        "meaning": "攜帶；產生"
+      }
+    },
+    {
+      "word": "defer",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to postpone something; to yield to another's wisdom:",
+      "defn_zh": "延遲/順從",
+      "root_note": "de- (away) + ferre (to carry)",
+      "sentences": [
+        {
+          "en": "The committee decided to ______ its decision until next month.",
+          "zh": "委員會決定將這項決議延後到下個月再做。"
+        },
+        {
+          "en": "On matters of design, the engineers chose to ______ to the architect's judgment.",
+          "zh": "在設計事務上,工程師們選擇聽從建築師的判斷。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "73",
+        "spelling": "fer；lat",
+        "meaning": "攜帶；產生"
+      }
+    },
+    {
+      "word": "deference",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "respectful submission to another's wishes or judgment:",
+      "defn_zh": "順從;敬重",
+      "root_note": "de- (down) + ferre (to carry), from Latin",
+      "sentences": [
+        {
+          "en": "Out of ______ to her elders, she waited to speak.",
+          "zh": "出於對長輩的敬重,她等待著發言。"
+        },
+        {
+          "en": "The young lawyer showed great ______ toward the senior judge.",
+          "zh": "這位年輕律師對資深法官表現出極大的敬重。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "73",
+        "spelling": "fer；lat",
+        "meaning": "攜帶；產生"
+      }
+    },
+    {
+      "word": "deferential",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "showing respect for another's authority:",
+      "defn_zh": "恭敬的/順從的",
+      "root_note": "de- (away) + ferre (to carry)",
+      "sentences": [
+        {
+          "en": "The young intern remained ______ toward the senior staff at all times.",
+          "zh": "這位年輕實習生始終對資深員工保持恭敬的態度。"
+        },
+        {
+          "en": "He spoke in a ______ tone whenever addressing his professor.",
+          "zh": "每次和教授說話時,他都用一種恭敬的語氣。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "73",
+        "spelling": "fer；lat",
+        "meaning": "攜帶；產生"
+      }
+    },
+    {
+      "word": "dilatory",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "tending to delay, causing delay:",
+      "defn_zh": "拖延的/延誤的",
+      "root_note": "dis- (apart) + ferre/latus (to carry)",
+      "sentences": [
+        {
+          "en": "The company's ______ response frustrated customers waiting for refunds.",
+          "zh": "這家公司拖延的回應讓等待退款的顧客感到十分不滿。"
+        },
+        {
+          "en": "Lawyers accused the defense of using ______ tactics to delay the trial.",
+          "zh": "律師指控辯方使用拖延戰術來延誤這場審判。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "73",
+        "spelling": "fer；lat",
+        "meaning": "攜帶；產生"
+      }
+    },
+    {
+      "word": "elated",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "overjoyed, thrilled:",
+      "defn_zh": "興高采烈的/欣喜的",
+      "root_note": "e- (out) + ferre/latus (to carry)",
+      "sentences": [
+        {
+          "en": "She felt ______ after finally passing her driving test.",
+          "zh": "終於通過駕照考試後,她感到欣喜若狂。"
+        },
+        {
+          "en": "The whole family was ______ when they heard the good news.",
+          "zh": "全家人聽到這個好消息時都興高采烈。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "73",
+        "spelling": "fer；lat",
+        "meaning": "攜帶；產生"
+      }
+    },
+    {
+      "word": "endnote",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a note printed at the end of a chapter or book providing further information:",
+      "defn_zh": "尾註",
+      "root_note": "end + note, from Old English + Latin",
+      "sentences": [
+        {
+          "en": "The historian cited her sources in a detailed ______ .",
+          "zh": "這位歷史學家在詳盡的尾註中引述了她的資料來源。"
+        },
+        {
+          "en": "Check the ______ for the full citation of this quote.",
+          "zh": "請查閱尾註以獲得這則引文的完整出處。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "73",
+        "spelling": "fer；lat",
+        "meaning": "攜帶；產生"
+      }
+    },
+    {
+      "word": "ever-present",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "constantly existing or occurring; always there:",
+      "defn_zh": "無所不在的;始終存在的",
+      "root_note": "ever + present, from Old English + Latin",
+      "sentences": [
+        {
+          "en": "Fear of failure was an ______ concern for the young athlete.",
+          "zh": "對失敗的恐懼是這位年輕運動員始終存在的隱憂。"
+        },
+        {
+          "en": "The mountain remained an ______ backdrop to the small town.",
+          "zh": "這座山始終是這座小鎮無所不在的背景。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "73",
+        "spelling": "fer；lat",
+        "meaning": "攜帶；產生"
+      }
+    },
+    {
+      "word": "feral",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "wild, savage:",
+      "defn_zh": "野生的/未馴化的",
+      "root_note": "ferus (wild)",
+      "sentences": [
+        {
+          "en": "A colony of ______ cats lived behind the old warehouse.",
+          "zh": "一群野貓棲息在這座老舊倉庫的後方。"
+        },
+        {
+          "en": "The dog had gone ______ after being abandoned in the forest for months.",
+          "zh": "這隻狗在森林裡被遺棄數月後,變得野性未馴。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "73",
+        "spelling": "fer；lat",
+        "meaning": "攜帶；產生"
+      }
+    },
+    {
+      "word": "fertile",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "capable of producing abundant vegetation or offspring:",
+      "defn_zh": "肥沃的;多產的",
+      "root_note": "fertilis (fruitful), from Latin",
+      "sentences": [
+        {
+          "en": "The river valley's ______ soil supports year-round farming.",
+          "zh": "這座河谷肥沃的土壤支持全年的農耕。"
+        },
+        {
+          "en": "Her imagination proved endlessly ______ for new story ideas.",
+          "zh": "她的想像力對於新故事的構思展現出源源不絕的豐富創造力。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "73",
+        "spelling": "fer；lat",
+        "meaning": "攜帶；產生"
+      }
+    },
+    {
+      "word": "floriferous",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "producing many flowers:",
+      "defn_zh": "多花的;花繁的",
+      "root_note": "flos (flower) + ferre (to bear), from Latin",
+      "sentences": [
+        {
+          "en": "The garden's most ______ plant bloomed nonstop through summer.",
+          "zh": "這座花園裡開花最繁盛的植物整個夏天不間斷地綻放。"
+        },
+        {
+          "en": "Gardeners prized the shrub for being remarkably ______ .",
+          "zh": "園丁們珍視這種灌木非凡的多花特性。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "73",
+        "spelling": "fer；lat",
+        "meaning": "攜帶；產生"
+      }
+    },
+    {
+      "word": "footnote",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "an additional note printed at the bottom of a page:",
+      "defn_zh": "腳註",
+      "root_note": "foot + note, from Old English + Latin",
+      "sentences": [
+        {
+          "en": "The historian added a ______ to clarify the disputed date.",
+          "zh": "這位歷史學家加了一則腳註來澄清這個有爭議的日期。"
+        },
+        {
+          "en": "Check the ______ for the source of this statistic.",
+          "zh": "請查閱腳註以獲得這項統計數據的來源。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "73",
+        "spelling": "fer；lat",
+        "meaning": "攜帶；產生"
+      }
+    },
+    {
+      "word": "glitterati",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "fashionable, wealthy, or famous people, especially in entertainment:",
+      "defn_zh": "名流;社交名人",
+      "root_note": "glitter + literati (blend), from English + Latin",
+      "sentences": [
+        {
+          "en": "The film premiere attracted Hollywood's ______ .",
+          "zh": "這場電影首映吸引了好萊塢的名流雲集。"
+        },
+        {
+          "en": "Photographers lined up to capture the ______ arriving at the gala.",
+          "zh": "攝影師排隊等著捕捉抵達這場盛會的社交名流。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "73",
+        "spelling": "fer；lat",
+        "meaning": "攜帶；產生"
+      }
+    },
+    {
+      "word": "heliolater",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a worshipper of the sun:",
+      "defn_zh": "太陽崇拜者",
+      "root_note": "helios (sun) + latreia (worship), from Greek",
+      "sentences": [
+        {
+          "en": "Ancient ______ s built temples aligned with the solstices.",
+          "zh": "古代的太陽崇拜者建造了與冬夏至對齊的神廟。"
+        },
+        {
+          "en": "The tribe was known to historians as devoted ______ s.",
+          "zh": "這個部落在歷史學家眼中以虔誠的太陽崇拜者聞名。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "73",
+        "spelling": "fer；lat",
+        "meaning": "攜帶；產生"
+      }
+    },
+    {
+      "word": "heliolatrous",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "relating to the worship of the sun:",
+      "defn_zh": "崇拜太陽的",
+      "root_note": "helios (sun) + latreia (worship), from Greek",
+      "sentences": [
+        {
+          "en": "Archaeologists uncovered ______ rituals depicted on the temple walls.",
+          "zh": "考古學家在神廟牆壁上發現了描繪太陽崇拜儀式的圖像。"
+        },
+        {
+          "en": "The ancient culture's ______ practices shaped its architecture.",
+          "zh": "這個古代文化崇拜太陽的習俗塑造了它的建築風格。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "73",
+        "spelling": "fer；lat",
+        "meaning": "攜帶；產生"
+      }
+    },
+    {
+      "word": "heliolatry",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "the worship of the sun:",
+      "defn_zh": "太陽崇拜",
+      "root_note": "helios (sun) + latreia (worship), from Greek",
+      "sentences": [
+        {
+          "en": "Historians trace ______ back to some of the earliest civilizations.",
+          "zh": "歷史學家將太陽崇拜的起源追溯到某些最早的文明。"
+        },
+        {
+          "en": "The pyramid was believed to be a center of ______ .",
+          "zh": "這座金字塔被認為是太陽崇拜的中心。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "73",
+        "spelling": "fer；lat",
+        "meaning": "攜帶；產生"
+      }
+    },
+    {
+      "word": "heterosexual",
+      "pos": "adj./n.",
+      "pos_key": "adj.",
+      "defn_en": "sexually attracted to people of the opposite sex:",
+      "defn_zh": "異性戀的",
+      "root_note": "heteros (other) + sexualis (sexual), from Greek + Latin",
+      "sentences": [
+        {
+          "en": "The survey collected data on both ______ and other relationships.",
+          "zh": "這項調查收集了異性戀與其他關係的相關數據。"
+        },
+        {
+          "en": "Most characters in the classic novel are portrayed as ______ .",
+          "zh": "這部經典小說中的大多數角色都被描繪成異性戀。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "73",
+        "spelling": "fer；lat",
+        "meaning": "攜帶；產生"
+      }
+    },
+    {
+      "word": "homosexual",
+      "pos": "adj./n.",
+      "pos_key": "adj.",
+      "defn_en": "sexually attracted to people of the same sex:",
+      "defn_zh": "同性戀的",
+      "root_note": "homos (same) + sexualis (sexual), from Greek + Latin",
+      "sentences": [
+        {
+          "en": "The film portrays a ______ relationship with sensitivity and nuance.",
+          "zh": "這部電影以細膩敏銳的手法描繪了一段同性戀關係。"
+        },
+        {
+          "en": "Attitudes toward ______ individuals have shifted significantly over decades.",
+          "zh": "數十年來,社會對同性戀者的態度已有顯著轉變。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "73",
+        "spelling": "fer；lat",
+        "meaning": "攜帶；產生"
+      }
+    },
+    {
+      "word": "idolatrous",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "excessively worshipping one object or person:",
+      "defn_zh": "偶像崇拜的",
+      "root_note": "eidolon (image, Greek) + latreia (worship, Greek)",
+      "sentences": [
+        {
+          "en": "Fans showed an almost ______ devotion to the rock star.",
+          "zh": "粉絲們對這位搖滾明星展現出近乎偶像崇拜般的狂熱。"
+        },
+        {
+          "en": "The ancient text warns against ______ practices involving false gods.",
+          "zh": "這部古代文獻警告人們不要進行崇拜假神的偶像崇拜行為。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "73",
+        "spelling": "fer；lat",
+        "meaning": "攜帶；產生"
+      }
+    },
+    {
+      "word": "ill-composed",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "poorly arranged or constructed:",
+      "defn_zh": "組織不佳的;構思欠妥的",
+      "root_note": "ill + componere (to compose), from Old Norse + Latin",
+      "sentences": [
+        {
+          "en": "The ______ essay jumped randomly between unrelated topics.",
+          "zh": "這篇組織不佳的文章在不相關的主題之間隨意跳躍。"
+        },
+        {
+          "en": "Critics called the symphony's finale ______ and abrupt.",
+          "zh": "評論家批評這首交響曲的終章構思欠妥且突兀。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "73",
+        "spelling": "fer；lat",
+        "meaning": "攜帶；產生"
+      }
+    },
+    {
+      "word": "ill-humored",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "irritable or bad-tempered:",
+      "defn_zh": "脾氣不好的;易怒的",
+      "root_note": "ill + humor (bodily fluid, mood), from Old Norse + Latin",
+      "sentences": [
+        {
+          "en": "The ______ customer complained about everything on the menu.",
+          "zh": "這位脾氣不好的顧客對菜單上的每一樣東西都抱怨連連。"
+        },
+        {
+          "en": "He grew ______ after being stuck in traffic for hours.",
+          "zh": "困在車陣中好幾個小時後,他變得脾氣暴躁。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "73",
+        "spelling": "fer；lat",
+        "meaning": "攜帶；產生"
+      }
+    },
+    {
+      "word": "infer",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to deduce or conclude from evidence and reasoning:",
+      "defn_zh": "推斷;推論",
+      "root_note": "in- (into) + ferre (to carry), from Latin",
+      "sentences": [
+        {
+          "en": "From her silence, he began to ______ that something was wrong.",
+          "zh": "從她的沉默中,他開始推斷事情不太對勁。"
+        },
+        {
+          "en": "Scientists ______ red the animal's diet from fossil evidence.",
+          "zh": "科學家從化石證據推斷出這種動物的飲食習慣。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "73",
+        "spelling": "fer；lat",
+        "meaning": "攜帶；產生"
+      }
+    },
+    {
+      "word": "infertile",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "unable to produce offspring or crops; barren:",
+      "defn_zh": "不孕的;貧瘠的",
+      "root_note": "in- (not) + fertilis (fruitful), from Latin",
+      "sentences": [
+        {
+          "en": "The couple sought treatment after learning they were ______ .",
+          "zh": "這對夫妻得知自己不孕後尋求了治療。"
+        },
+        {
+          "en": "The desert's ______ soil made farming nearly impossible.",
+          "zh": "這片沙漠貧瘠的土壤讓耕作幾乎不可能。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "73",
+        "spelling": "fer；lat",
+        "meaning": "攜帶；產生"
+      }
+    },
+    {
+      "word": "inter vivos",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "made or effective between living persons, especially of a legal transfer:",
+      "defn_zh": "生前的;生者之間的(法律用語)",
+      "root_note": "Latin inter (between) + vivos (the living)",
+      "sentences": [
+        {
+          "en": "The estate was distributed through an ______ trust.",
+          "zh": "這份遺產是透過生前信託分配的。"
+        },
+        {
+          "en": "An ______ gift avoids certain estate taxes after death.",
+          "zh": "生前贈與能避免死後某些遺產稅。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "73",
+        "spelling": "fer；lat",
+        "meaning": "攜帶；產生"
+      }
+    },
+    {
+      "word": "ipse dixit",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "an unsupported assertion presented as fact:",
+      "defn_zh": "武斷之言;未經證實的斷言",
+      "root_note": "Latin ipse (himself) + dixit (said)",
+      "sentences": [
+        {
+          "en": "The professor rejected the claim as mere ______ without evidence.",
+          "zh": "這位教授駁回了這項毫無證據支持、只是武斷的說法。"
+        },
+        {
+          "en": "His argument relied entirely on ______ rather than proof.",
+          "zh": "他的論點完全建立在武斷的斷言上,而非確鑿的證明。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "73",
+        "spelling": "fer；lat",
+        "meaning": "攜帶；產生"
+      }
+    },
+    {
+      "word": "ipso facto",
+      "pos": "adv.",
+      "pos_key": "adv.",
+      "defn_en": "by that very fact or act:",
+      "defn_zh": "事實上;因此",
+      "root_note": "Latin ipso (itself) + facto (by the fact)",
+      "sentences": [
+        {
+          "en": "By resigning, he ______ forfeited his pension benefits.",
+          "zh": "他因辭職這項事實,自然而然放棄了退休金福利。"
+        },
+        {
+          "en": "A convicted felon is, ______ , barred from holding this office.",
+          "zh": "一名被定罪的重罪犯,依事實自然被禁止擔任此職位。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "73",
+        "spelling": "fer；lat",
+        "meaning": "攜帶；產生"
+      }
+    },
+    {
+      "word": "larceny",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "obtaining another's property by theft or trickery:",
+      "defn_zh": "盜竊罪",
+      "root_note": "latro (robber, Latin)",
+      "sentences": [
+        {
+          "en": "He was charged with grand ______ after stealing the diamond necklace.",
+          "zh": "他因偷竊那條鑽石項鍊而被控重大盜竊罪。"
+        },
+        {
+          "en": "The clerk was arrested for petty ______ after taking cash from the register.",
+          "zh": "這名店員因從收銀機中拿走現金而被逮捕,罪名是輕微盜竊。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "73",
+        "spelling": "fer；lat",
+        "meaning": "攜帶；產生"
+      }
+    },
+    {
+      "word": "latitude",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "freedom of action or thought; a geographic coordinate:",
+      "defn_zh": "自由度;緯度",
+      "root_note": "latitudo (breadth), from Latin",
+      "sentences": [
+        {
+          "en": "The manager gave employees considerable ______ in how they completed the task.",
+          "zh": "這位經理給予員工完成任務相當大的自由度。"
+        },
+        {
+          "en": "The city's climate varies greatly depending on its ______ .",
+          "zh": "這座城市的氣候因緯度不同而有很大的差異。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "73",
+        "spelling": "fer；lat",
+        "meaning": "攜帶；產生"
+      }
+    },
+    {
+      "word": "latitudinarian",
+      "pos": "adj./n.",
+      "pos_key": "adj.",
+      "defn_en": "showing tolerance of different beliefs, especially in religion:",
+      "defn_zh": "寬容的;自由派的(尤指宗教)",
+      "root_note": "latitudo (breadth), from Latin",
+      "sentences": [
+        {
+          "en": "The church took a ______ stance, welcoming diverse interpretations of scripture.",
+          "zh": "這個教會採取了寬容的立場,歡迎對經文各種不同的詮釋。"
+        },
+        {
+          "en": "He described himself as a ______ , open to many philosophical traditions.",
+          "zh": "他形容自己是個寬容開放的人,對多種哲學傳統都持開放態度。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "73",
+        "spelling": "fer；lat",
+        "meaning": "攜帶；產生"
+      }
+    },
+    {
+      "word": "monocle",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a single eyeglass held in place by facial muscles:",
+      "defn_zh": "單片眼鏡",
+      "root_note": "monos (single) + oculus (eye), from Greek + Latin",
+      "sentences": [
+        {
+          "en": "The eccentric professor always wore an old-fashioned ______ .",
+          "zh": "這位古怪的教授總是戴著一副老式的單片眼鏡。"
+        },
+        {
+          "en": "He adjusted his ______ before reading the fine print.",
+          "zh": "他在閱讀這些小字之前調整了一下他的單片眼鏡。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "73",
+        "spelling": "fer；lat",
+        "meaning": "攜帶；產生"
+      }
+    },
+    {
+      "word": "odoriferous",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "having or diffusing a strong smell, especially a pleasant one:",
+      "defn_zh": "芳香四溢的;有濃郁氣味的",
+      "root_note": "odor (smell) + ferre (to carry), from Latin",
+      "sentences": [
+        {
+          "en": "The ______ garden was filled with roses and jasmine.",
+          "zh": "這座芳香四溢的花園裡種滿了玫瑰與茉莉花。"
+        },
+        {
+          "en": "An ______ cloud of spices drifted from the kitchen.",
+          "zh": "一股香料濃郁的氣味從廚房裡飄散出來。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "73",
+        "spelling": "fer；lat",
+        "meaning": "攜帶；產生"
+      }
+    },
+    {
+      "word": "perfervid",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "showing intense and passionate feeling:",
+      "defn_zh": "極度熱情的;狂熱的",
+      "root_note": "per- (thoroughly) + fervidus (glowing, ardent), from Latin fervere (to boil)",
+      "sentences": [
+        {
+          "en": "His ______ speech energized the crowd of supporters.",
+          "zh": "他狂熱的演講讓這群支持者的情緒沸騰起來。"
+        },
+        {
+          "en": "The novel's ______ romance felt exaggerated to some readers.",
+          "zh": "這本小說熾熱狂放的愛情故事讓一些讀者覺得有些誇張。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "73",
+        "spelling": "fer；lat",
+        "meaning": "攜帶；產生"
+      }
+    },
+    {
+      "word": "plutolatry",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "excessive reverence or worship of wealth:",
+      "defn_zh": "拜金主義",
+      "root_note": "ploutos (wealth) + latreia (worship), from Greek",
+      "sentences": [
+        {
+          "en": "The film critiques a society consumed by ______ and status.",
+          "zh": "這部電影批判了一個被拜金主義與地位所吞噬的社會。"
+        },
+        {
+          "en": "His obsession with luxury brands bordered on ______ .",
+          "zh": "他對奢侈品牌的癡迷已近乎拜金主義。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "73",
+        "spelling": "fer；lat",
+        "meaning": "攜帶；產生"
+      }
+    },
+    {
+      "word": "preference",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a greater liking for one option over another:",
+      "defn_zh": "偏好;偏愛",
+      "root_note": "prae- (before) + ferre (to carry), from Latin",
+      "sentences": [
+        {
+          "en": "She stated a clear ______ for tea over coffee.",
+          "zh": "她明確表示了對茶而非咖啡的偏好。"
+        },
+        {
+          "en": "The survey asked customers about their ______ s regarding delivery times.",
+          "zh": "這項調查詢問顧客對送貨時間的偏好。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "73",
+        "spelling": "fer；lat",
+        "meaning": "攜帶；產生"
+      }
+    },
+    {
+      "word": "refer",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to mention or allude to something; to direct someone to a source of information:",
+      "defn_zh": "提及;轉介",
+      "root_note": "referre (to carry back), from Latin re- (back) + ferre (to carry)",
+      "sentences": [
+        {
+          "en": "She would often ______ to her grandmother's advice during hard times.",
+          "zh": "她在艱難時刻常常會提及她祖母的建議。"
+        },
+        {
+          "en": "The doctor decided to ______ her to a specialist for further tests.",
+          "zh": "這位醫生決定將她轉介給專科醫師,進行進一步的檢查。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "73",
+        "spelling": "fer；lat",
+        "meaning": "攜帶；產生"
+      }
+    },
+    {
+      "word": "reference",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a mention of something; a source consulted for information:",
+      "defn_zh": "參考;提及",
+      "root_note": "referre (to carry back), from Latin re- (back) + ferre (to carry)",
+      "sentences": [
+        {
+          "en": "The essay made several ______ s to classical mythology.",
+          "zh": "這篇文章多次提及了古典神話。"
+        },
+        {
+          "en": "She kept the manual as a ______ for future repairs.",
+          "zh": "她保留了這本手冊,作為未來維修的參考。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "73",
+        "spelling": "fer；lat",
+        "meaning": "攜帶；產生"
+      }
+    },
+    {
+      "word": "somniferous",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "sleep inducing:",
+      "defn_zh": "催眠的/使人昏昏欲睡的",
+      "root_note": "somnus (sleep, Latin) + ferre (to bring, bear)",
+      "sentences": [
+        {
+          "en": "The lecture's monotone delivery had a ______ effect on most of the students.",
+          "zh": "這場講座平淡單調的語調,讓大多數學生都昏昏欲睡。"
+        },
+        {
+          "en": "Warm milk is often recommended for its mild ______ properties before bedtime.",
+          "zh": "睡前常有人建議喝溫牛奶,因為它具有溫和的催眠效果。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "73",
+        "spelling": "fer；lat",
+        "meaning": "攜帶；產生"
+      }
+    },
+    {
+      "word": "vociferate",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to shout or express loudly and forcefully:",
+      "defn_zh": "大聲喊叫;高聲抗議",
+      "root_note": "vociferari, from Latin vox (voice) + ferre (to carry)",
+      "sentences": [
+        {
+          "en": "Protesters began to ______ their demands outside the capitol building.",
+          "zh": "抗議者們開始在這座議會大廈外高聲喊出他們的訴求。"
+        },
+        {
+          "en": "He would ______ his complaints to anyone who would listen.",
+          "zh": "他會向任何願意聆聽的人大聲喊出他的抱怨。"
+        }
+      ],
+      "category": {
+        "part": 2,
+        "num": "73",
+        "spelling": "fer；lat",
+        "meaning": "攜帶；產生"
+      }
+    }
+  ],
+  "family_options": {},
+  "fallback_options": {
+    "v.": [
+      {
+        "word": "abound",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to exist in great numbers:",
+        "defn_zh": "充滿"
+      },
+      {
+        "word": "abrogate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to deprive of legal force, to nullify:=abolish",
+        "defn_zh": "廢除/取消"
+      },
+      {
+        "word": "abjure",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to renounce, abstain from:",
+        "defn_zh": "發誓放棄/棄絕"
+      },
+      {
+        "word": "abbreviate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to shorten a word or phrase:",
+        "defn_zh": "縮寫;縮短"
+      },
+      {
+        "word": "abdicate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to give up a position, usually one of leadership:",
+        "defn_zh": "退位/放棄(職位)"
+      },
+      {
+        "word": "abduct",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to kidnap, take by force:",
+        "defn_zh": "綁架/劫持"
+      },
+      {
+        "word": "abhor",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to regard with disgust and hatred:",
+        "defn_zh": "憎惡/厭惡"
+      },
+      {
+        "word": "abnegate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to deny or renounce:",
+        "defn_zh": "放棄/克制"
+      },
+      {
+        "word": "abolish",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to formally put an end to a system, practice, or institution:",
+        "defn_zh": "廢除"
+      },
+      {
+        "word": "abort",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to give up on a half-finished project or effort:",
+        "defn_zh": "中止/放棄"
+      },
+      {
+        "word": "abrade",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to scrape or wear away by friction:",
+        "defn_zh": "磨損;擦傷"
+      },
+      {
+        "word": "abscond",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to sneak away and hide:",
+        "defn_zh": "潛逃/逃匿"
+      }
+    ],
+    "adj.": [
+      {
+        "word": "abortive",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "fruitless, failing:",
+        "defn_zh": "失敗的/夭折的"
+      },
+      {
+        "word": "abstemious",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "moderate in eating or drinking:",
+        "defn_zh": "飲食有節制的"
+      },
+      {
+        "word": "abhorrent",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "detestable, despised:",
+        "defn_zh": "令人厭惡的"
+      },
+      {
+        "word": "absurd",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "ridiculous:",
+        "defn_zh": "荒謬的"
+      },
+      {
+        "word": "aberrant",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "deviating from what is normal or expected:",
+        "defn_zh": "異常的;脫軌的"
+      },
+      {
+        "word": "abject",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "wretched, pitiful:",
+        "defn_zh": "卑賤的/淒慘的"
+      },
+      {
+        "word": "abominable",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "causing moral revulsion; extremely unpleasant:",
+        "defn_zh": "可憎的;惡劣的"
+      },
+      {
+        "word": "abounding",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "existing in large numbers or amounts:",
+        "defn_zh": "大量存在的;豐富的"
+      },
+      {
+        "word": "abrasive",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "showing little concern for others; harsh:",
+        "defn_zh": "粗暴的/刺耳的"
+      },
+      {
+        "word": "abrupt",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "sudden or unexpected; brief and curt in manner:",
+        "defn_zh": "突然的/唐突的"
+      },
+      {
+        "word": "abstract",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "existing purely in the mind; not representing actual reality:",
+        "defn_zh": "抽象的"
+      },
+      {
+        "word": "abstruse",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "hard to comprehend:",
+        "defn_zh": "深奧難懂的"
+      }
+    ],
+    "n.": [
+      {
+        "word": "aversion",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "strong dislike, opposition:",
+        "defn_zh": "厭惡/反感"
+      },
+      {
+        "word": "aberration",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "something that differs from the norm:",
+        "defn_zh": "異常/脫軌"
+      },
+      {
+        "word": "abjection",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a state of complete misery, hopelessness, or degradation:",
+        "defn_zh": "卑賤;悲慘狀態"
+      },
+      {
+        "word": "abjuration",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the solemn renunciation of a belief, cause, or claim:",
+        "defn_zh": "公開放棄;誓絕"
+      },
+      {
+        "word": "ablution",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the act of washing oneself, especially as part of a religious ritual:",
+        "defn_zh": "沐浴;淨身儀式"
+      },
+      {
+        "word": "abnegation",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "denial of comfort to oneself:",
+        "defn_zh": "自我克制/放棄"
+      },
+      {
+        "word": "abomination",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "something that causes disgust or hatred:",
+        "defn_zh": "可憎之事;令人厭惡的東西"
+      },
+      {
+        "word": "abridgement",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a shortened version of a book or other written work:",
+        "defn_zh": "節略本;縮減版"
+      },
+      {
+        "word": "absolution",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "freedom from blame, guilt, sin:",
+        "defn_zh": "赦免/免罪"
+      },
+      {
+        "word": "abstemiousness",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "moderation or self-restraint, especially in eating and drinking:",
+        "defn_zh": "節制;克己"
+      },
+      {
+        "word": "abstinence",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the practice of restraining oneself from something enjoyable, especially food, alcohol, or sex:",
+        "defn_zh": "節制;戒絕"
+      },
+      {
+        "word": "avocation",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a hobby or minor occupation apart from one's main career:",
+        "defn_zh": "副業;業餘愛好"
+      }
+    ],
+    "adv.": [
+      {
+        "word": "accordingly",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in a manner that fits the circumstances; consequently:",
+        "defn_zh": "相應地;因此"
+      },
+      {
+        "word": "inadvertently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "unintentionally or by accident:",
+        "defn_zh": "無意間/不小心地"
+      },
+      {
+        "word": "consequently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "as a result; therefore:",
+        "defn_zh": "因此;結果"
+      },
+      {
+        "word": "contemptuously",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "without respect; in a disdainful manner:",
+        "defn_zh": "輕蔑地"
+      },
+      {
+        "word": "involuntarily",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "done without conscious control:",
+        "defn_zh": "不由自主地"
+      },
+      {
+        "word": "cordially",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in a warm or friendly manner:",
+        "defn_zh": "誠摯地/友好地"
+      },
+      {
+        "word": "en passant",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in passing; incidentally:",
+        "defn_zh": "順帶一提地;偶然地"
+      },
+      {
+        "word": "regardless",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "despite the prevailing circumstances; without being deterred:",
+        "defn_zh": "不管怎樣;儘管如此"
+      },
+      {
+        "word": "subsequently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "afterward; following in time or order:",
+        "defn_zh": "隨後;其後"
+      },
+      {
+        "word": "aside",
+        "pos": "adv./n.",
+        "pos_key": "adv.",
+        "defn_en": "to or on one side; a remark not meant to be heard by everyone:",
+        "defn_zh": "在旁邊;旁白"
+      },
+      {
+        "word": "vice versa",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "with the order or meaning reversed; conversely:",
+        "defn_zh": "反之亦然"
+      },
+      {
+        "word": "forward",
+        "pos": "adv./adj.",
+        "pos_key": "adv.",
+        "defn_en": "toward the front or future; bold or presumptuous:",
+        "defn_zh": "向前的;冒失的"
+      }
+    ],
+    "other": [
+      {
+        "word": "（此批單字中，暫無符合此字根/字首的單字）",
+        "pos": "",
+        "pos_key": "other",
+        "defn_en": "",
+        "defn_zh": ""
+      }
+    ],
+    "prep./adv.": [
+      {
+        "word": "besides",
+        "pos": "prep./adv.",
+        "pos_key": "prep./adv.",
+        "defn_en": "in addition to; furthermore:",
+        "defn_zh": "除...之外;此外"
+      }
+    ],
+    "phrasalv.": [
+      {
+        "word": "egg on",
+        "pos": "phrasal v.",
+        "pos_key": "phrasalv.",
+        "defn_en": "to encourage someone to do something, often risky:",
+        "defn_zh": "慫恿;鼓動"
+      }
+    ],
+    "abbr.": [
+      {
+        "word": "etc.",
+        "pos": "abbr.",
+        "pos_key": "abbr.",
+        "defn_en": "and other similar things (abbreviation of et cetera):",
+        "defn_zh": "等等(et cetera的縮寫)"
+      }
+    ],
+    "interj.": [
+      {
+        "word": "fiddledeedee",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "an exclamation expressing dismissal of something as nonsense:",
+        "defn_zh": "廢話!(表示不屑一顧)"
+      },
+      {
+        "word": "gesundheit",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "an expression said to someone who has just sneezed:",
+        "defn_zh": "保重(打噴嚏後的祝福語)"
+      }
+    ],
+    "prep.": [
+      {
+        "word": "via",
+        "pos": "prep.",
+        "pos_key": "prep.",
+        "defn_en": "by way of; passing through:",
+        "defn_zh": "經由;透過"
+      }
+    ]
+  }
+}

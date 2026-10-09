@@ -4,7 +4,7 @@
     "total_batches": 236,
     "part1_part2_batches": 159,
     "unclassified_batches": 77,
-    "generated_batches": 158
+    "generated_batches": 159
   },
   "batches": [
     {
@@ -1594,7 +1594,7 @@
       "name": "fer；lat",
       "subtitle": "攜帶；產生",
       "count": 42,
-      "generated": false,
+      "generated": true,
       "search_terms": "vociferous bibliolater burglar burglarize collateral defer deference deferential dilatory elated endnote ever-present feral fertile floriferous footnote glitterati heliolater heliolatrous heliolatry heterosexual homosexual idolatrous ill-composed ill-humored infer infertile inter vivos ipse dixit ipso facto larceny latitude latitudinarian monocle odoriferous perfervid plutolatry preference refer reference somniferous vociferate"
     },
     {
