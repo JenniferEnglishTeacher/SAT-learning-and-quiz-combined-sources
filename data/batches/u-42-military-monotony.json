@@ -1,0 +1,1480 @@
+{
+  "id": "u-42-military-monotony",
+  "part": "unclassified",
+  "part_label": "未歸類 Unclassified",
+  "name": "Unclassified 42 (military–monotony)",
+  "subtitle": "Alphabetical batch",
+  "count": 50,
+  "words": [
+    {
+      "word": "military",
+      "pos": "n./adj.",
+      "pos_key": "n.",
+      "defn_en": "relating to soldiers or armed forces:",
+      "defn_zh": "軍事的;軍隊",
+      "root_note": "miles/militis (soldier), from Latin",
+      "sentences": [
+        {
+          "en": "He served in the ______ for over a decade before retiring.",
+          "zh": "他在退休之前於軍隊服役超過十年。"
+        },
+        {
+          "en": "The country increased its ______ spending amid rising tensions.",
+          "zh": "在緊張局勢升高之際,這個國家增加了軍事支出。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "militate",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "have force or influence; bring about an effect or change:",
+      "defn_zh": "起作用/產生影響",
+      "root_note": "miles, militis (soldier, Latin)",
+      "sentences": [
+        {
+          "en": "His lack of experience will ______ against his chances of getting the job.",
+          "zh": "他缺乏經驗這一點,將對他獲得這份工作的機會產生不利影響。"
+        },
+        {
+          "en": "Rising costs continue to ______ against the company's plans for expansion.",
+          "zh": "持續上升的成本一直對這家公司的擴張計畫產生不利影響。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "mimic",
+      "pos": "v./adj.",
+      "pos_key": "v.",
+      "defn_en": "to imitate or copy something or someone, often to entertain or mock:",
+      "defn_zh": "模仿",
+      "root_note": "mimeisthai (to imitate)",
+      "sentences": [
+        {
+          "en": "She could ______ the accents of people from different regions perfectly.",
+          "zh": "她能完美地模仿不同地區人們的口音。"
+        },
+        {
+          "en": "Parrots can ______ human speech.",
+          "zh": "鸚鵡能夠模仿人類的言語。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "minacious",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "threatening; menacing:",
+      "defn_zh": "威脅性的",
+      "root_note": "minax (threatening), from Latin minari (to threaten)",
+      "sentences": [
+        {
+          "en": "Dark, ______ clouds gathered over the harbor before the storm.",
+          "zh": "暴風雨來臨前,一片帶著威脅性的烏雲聚集在港口上方。"
+        },
+        {
+          "en": "His ______ tone made the negotiators uneasy.",
+          "zh": "他帶有威脅性的語氣讓談判人員感到不安。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "minatory",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "expressing or conveying a threat:",
+      "defn_zh": "恫嚇的;威脅的",
+      "root_note": "minari (to threaten), from Latin",
+      "sentences": [
+        {
+          "en": "The letter contained ______ language demanding immediate payment.",
+          "zh": "這封信裡包含威脅性的語言,要求立即付款。"
+        },
+        {
+          "en": "He gave a ______ glance to anyone who dared interrupt.",
+          "zh": "他對任何膽敢打斷他的人投以威嚇的眼神。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "mince",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "cut into small pieces:",
+      "defn_zh": "切碎/剁碎",
+      "root_note": "minuere (to lessen, make small, Latin)",
+      "sentences": [
+        {
+          "en": "The chef asked her to ______ the garlic finely before adding it to the sauce.",
+          "zh": "主廚要求她把大蒜切得細碎,再加入這道醬汁中。"
+        },
+        {
+          "en": "He refused to ______ his words and told them exactly what he thought.",
+          "zh": "他直言不諱,毫不拐彎抹角地告訴他們自己真正的想法。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "mingle-mangle",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a confused mixture; a jumble:",
+      "defn_zh": "雜亂的混合物",
+      "root_note": "reduplication of mingle, from Old English mengan",
+      "sentences": [
+        {
+          "en": "Her closet was a ______ of clothes from every decade.",
+          "zh": "她的衣櫃是各個年代衣物雜亂混合的大雜燴。"
+        },
+        {
+          "en": "The essay was a ______ of unrelated ideas with no clear structure.",
+          "zh": "這篇文章是一團缺乏清楚結構、毫不相關想法的雜亂混合物。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "minim",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a very small amount or quantity; a unit of liquid measure:",
+      "defn_zh": "極少量;微量單位",
+      "root_note": "minimus (smallest), from Latin",
+      "sentences": [
+        {
+          "en": "The recipe called for only a ______ of vanilla extract.",
+          "zh": "這份食譜只需要極少量的香草精。"
+        },
+        {
+          "en": "The pharmacist measured out a precise ______ of the tincture.",
+          "zh": "這位藥劑師精確量出一小滴劑量的酊劑。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "minion",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a servile follower or subordinate:",
+      "defn_zh": "走狗;下屬",
+      "root_note": "mignon (dainty, favorite), from French",
+      "sentences": [
+        {
+          "en": "The villain ordered his ______ s to capture the hero.",
+          "zh": "這位反派命令他的走狗們去抓住這位英雄。"
+        },
+        {
+          "en": "He surrounded himself with loyal ______ s who never questioned him.",
+          "zh": "他身邊圍繞著從不質疑他的忠實部下。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "ministerial",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "relating to a government minister or ministry; relating to religious ministry:",
+      "defn_zh": "部長的;牧師的",
+      "root_note": "minister (servant), from Latin minus (less)",
+      "sentences": [
+        {
+          "en": "She was appointed to a senior ______ position in the cabinet.",
+          "zh": "她被任命為內閣中一個高階部長職位。"
+        },
+        {
+          "en": "His ______ duties included visiting the sick and homebound.",
+          "zh": "他的牧師職責包括探訪病人與行動不便的信徒。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "minuscule",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "extremely small:",
+      "defn_zh": "極小的",
+      "root_note": "minusculus (rather small), from Latin minus (less)",
+      "sentences": [
+        {
+          "en": "The company's profits grew by only a ______ amount this year.",
+          "zh": "這家公司今年的獲利只增長了極其微小的一點。"
+        },
+        {
+          "en": "A ______ crack in the dam eventually caused it to fail.",
+          "zh": "水壩上一道極小的裂縫最終導致了它的崩塌。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "minute",
+      "pos": "adj./n.",
+      "pos_key": "adj.",
+      "defn_en": "extremely small; a unit of time:",
+      "defn_zh": "微小的;分鐘",
+      "root_note": "minutus (made small), from Latin minuere (to lessen)",
+      "sentences": [
+        {
+          "en": "The jeweler examined the ______ flaws in the diamond.",
+          "zh": "這位珠寶商仔細檢查這顆鑽石上細微的瑕疵。"
+        },
+        {
+          "en": "She finished the puzzle in just a ______ .",
+          "zh": "她只花了一分鐘就完成了這個拼圖。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "mirthful",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "full of joy and laughter:",
+      "defn_zh": "歡樂的;愉悅的",
+      "root_note": "myrgð (joy), from Old English",
+      "sentences": [
+        {
+          "en": "The room filled with ______ laughter during the reunion.",
+          "zh": "在這場團聚中,整個房間都充滿了歡樂的笑聲。"
+        },
+        {
+          "en": "Her ______ spirit lifted everyone's mood at the party.",
+          "zh": "她愉悅歡樂的精神提振了派對上每個人的心情。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "misadventure",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "an unlucky mishap or accident:",
+      "defn_zh": "不幸事件;意外",
+      "root_note": "mes- (bad) + aventure (chance, fortune), from Old French",
+      "sentences": [
+        {
+          "en": "Their camping trip turned into a comedy of ______ s.",
+          "zh": "他們的露營之旅變成了一連串滑稽不幸事件的喜劇。"
+        },
+        {
+          "en": "The coroner ruled the death an accidental ______ .",
+          "zh": "驗屍官將這起死亡事件裁定為意外不幸事故。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "misandrist",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a person who dislikes or is prejudiced against men:",
+      "defn_zh": "厭男者",
+      "root_note": "misein (to hate) + aner, andros (man), from Greek",
+      "sentences": [
+        {
+          "en": "The character was unfairly labeled a ______ simply for valuing independence.",
+          "zh": "這個角色僅因重視獨立而被不公平地貼上厭男者的標籤。"
+        },
+        {
+          "en": "The article dismissed the criticism as coming from a ______ .",
+          "zh": "這篇文章將這項批評駁斥為來自一名厭男者。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "misandry",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "dislike of or prejudice against men:",
+      "defn_zh": "厭男;仇男",
+      "root_note": "misein (to hate) + aner, andros (man), from Greek",
+      "sentences": [
+        {
+          "en": "Scholars debate whether the novel expresses genuine ______ or satire.",
+          "zh": "學者們爭論這本小說表達的究竟是真正的厭男情結還是諷刺。"
+        },
+        {
+          "en": "The comment was criticized as an example of casual ______ .",
+          "zh": "這則評論被批評為隨意流露厭男情緒的一個例子。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "misanthrope",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "someone who dislikes all people",
+      "defn_zh": "厭世者",
+      "root_note": "misein (to hate, Greek) + anthropos (mankind, Greek)",
+      "sentences": [
+        {
+          "en": "The old ______ refused to attend any social gatherings.",
+          "zh": "這位老厭世者拒絕參加任何社交聚會。"
+        },
+        {
+          "en": "He was seen as a ______ after years of avoiding all his neighbors.",
+          "zh": "多年來一直躲避所有鄰居,讓他被視為一個厭世的人。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "misanthropic",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "disliking people or society:",
+      "defn_zh": "厭世的/憤世嫉俗的",
+      "root_note": "misein (to hate) + anthropos (human)",
+      "sentences": [
+        {
+          "en": "The old man was known for his ______ views.",
+          "zh": "這位老人以他厭惡人群的觀點而聞名。"
+        },
+        {
+          "en": "Years of betrayal had turned her into a rather ______ recluse.",
+          "zh": "多年遭受背叛的經歷讓她變成了一個相當厭世的隱士。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "misanthropy",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a general hatred or distrust of humankind:",
+      "defn_zh": "厭世;仇視人類",
+      "root_note": "misein (to hate) + anthropos (man, human), from Greek",
+      "sentences": [
+        {
+          "en": "Years of betrayal fueled his growing ______ .",
+          "zh": "多年的背叛助長了他日益加深的厭世情結。"
+        },
+        {
+          "en": "The hermit's ______ led him to abandon society entirely.",
+          "zh": "這位隱士的厭世情懷讓他徹底遠離了社會。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "miscellaneous",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "consisting of various types or things; not classified:",
+      "defn_zh": "各式各樣的;雜項的",
+      "root_note": "miscellaneus (mixed), from Latin miscere (to mix)",
+      "sentences": [
+        {
+          "en": "The drawer was filled with ______ tools and spare parts.",
+          "zh": "這個抽屜裡塞滿了各式各樣的工具與零件。"
+        },
+        {
+          "en": "Her expense report included several ______ charges.",
+          "zh": "她的報帳單裡包含了好幾筆雜項費用。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "miscellany",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a collection of various items or writings:",
+      "defn_zh": "雜集;雜錄",
+      "root_note": "miscellanea (mixed things), from Latin miscere (to mix)",
+      "sentences": [
+        {
+          "en": "The book was a ______ of essays, poems, and letters.",
+          "zh": "這本書是散文、詩歌與書信交織而成的雜集。"
+        },
+        {
+          "en": "He published a literary ______ featuring works from young authors.",
+          "zh": "他出版了一部收錄年輕作者作品的文學雜集。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "miserable",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "extremely unhappy or uncomfortable:",
+      "defn_zh": "悲慘的;痛苦的",
+      "root_note": "miser (wretched), from Latin",
+      "sentences": [
+        {
+          "en": "He felt ______ after losing his job so suddenly.",
+          "zh": "他在突然失業之後感到十分痛苦。"
+        },
+        {
+          "en": "The hikers were ______ in the freezing rain.",
+          "zh": "這群健行者在冰冷的雨中感到十分悲慘。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "miserliness",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "extreme stinginess or reluctance to spend money:",
+      "defn_zh": "吝嗇;小氣",
+      "root_note": "miser (wretched), from Latin",
+      "sentences": [
+        {
+          "en": "His ______ was legendary; he refused to heat his own house.",
+          "zh": "他的吝嗇是出了名的,他甚至捨不得為自家開暖氣。"
+        },
+        {
+          "en": "The old man's ______ left him wealthy but friendless.",
+          "zh": "這位老人的吝嗇讓他富有卻沒有朋友。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "miserly",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "careful with how money is spent; thrifty",
+      "defn_zh": "吝嗇的",
+      "root_note": "miser (wretched, Latin)",
+      "sentences": [
+        {
+          "en": "Despite his wealth, he was known for being ______ with his money.",
+          "zh": "儘管家財萬貫,他卻以吝嗇小氣聞名。"
+        },
+        {
+          "en": "Her ______ habits meant she rarely treated herself to anything nice.",
+          "zh": "她吝嗇的習慣讓她很少會犒賞自己一些好東西。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "misery",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a state of great suffering or unhappiness:",
+      "defn_zh": "痛苦;悲慘",
+      "root_note": "miseria (wretchedness), from Latin miser (wretched)",
+      "sentences": [
+        {
+          "en": "The refugees endured years of ______ before finding safety.",
+          "zh": "這些難民在找到安全之地前,忍受了多年的痛苦煎熬。"
+        },
+        {
+          "en": "Her novel captures the quiet ______ of poverty.",
+          "zh": "她的小說捕捉到了貧困中那份靜默的悲慘。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "mishmash",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a confused mixture of things:",
+      "defn_zh": "大雜燴;混雜物",
+      "root_note": "reduplication of mash, from Old English masc",
+      "sentences": [
+        {
+          "en": "The report was a ______ of unrelated statistics and anecdotes.",
+          "zh": "這份報告是不相關統計數字與軼事拼湊而成的大雜燴。"
+        },
+        {
+          "en": "Her outfit was a stylish ______ of vintage and modern pieces.",
+          "zh": "她的穿搭是復古與現代單品時髦交織的大雜燴。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "misogamist",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a person who hates, avoids, or opposes marriage:",
+      "defn_zh": "厭婚者",
+      "root_note": "misein (to hate, Greek) + gamos (marriage, Greek)",
+      "sentences": [
+        {
+          "en": "After his painful divorce, his friends joked that he had become a ______.",
+          "zh": "在經歷痛苦的離婚後,朋友們打趣說他已經變成一個厭婚者。"
+        },
+        {
+          "en": "The character in the novel is portrayed as a bitter ______ who avoids all romance.",
+          "zh": "這部小說中的角色被刻畫成一個滿懷怨懟、逃避一切戀情的厭婚者。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "misogynist",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a misanthrope who dislikes women in particular:",
+      "defn_zh": "厭女者",
+      "root_note": "misein (to hate, Greek) + gyne (woman, Greek)",
+      "sentences": [
+        {
+          "en": "Critics called the film's protagonist a blatant ______.",
+          "zh": "評論家批評這部電影的主角是個明目張膽的厭女者。"
+        },
+        {
+          "en": "His dismissive comments about female colleagues revealed him to be a ______.",
+          "zh": "他對女性同事輕蔑的評論,揭露了他厭女者的本性。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "misogyny",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "dislike of, contempt for, or ingrained prejudice against women:",
+      "defn_zh": "厭女;仇女",
+      "root_note": "misein (to hate) + gyne (woman), from Greek",
+      "sentences": [
+        {
+          "en": "Critics accused the film of subtle ______ in its portrayal of women.",
+          "zh": "評論家指控這部電影在描繪女性時流露出隱微的厭女情結。"
+        },
+        {
+          "en": "The organization fights against ______ in the workplace.",
+          "zh": "這個組織致力於對抗職場中的厭女現象。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "mnemonic",
+      "pos": "adj./n.",
+      "pos_key": "adj.",
+      "defn_en": "assisting or relating to memory; a memory aid:",
+      "defn_zh": "助記的;記憶術",
+      "root_note": "mnemonikos (of memory), from Greek mneme (memory)",
+      "sentences": [
+        {
+          "en": "Students used a ______ device to remember the planets' order.",
+          "zh": "學生們使用一種記憶術來記住行星的排列順序。"
+        },
+        {
+          "en": "She created a ______ rhyme to help children spell difficult words.",
+          "zh": "她創作了一首助記口訣,幫助孩子拼寫困難的單字。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "mnemonics",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "techniques used to improve or aid memory:",
+      "defn_zh": "記憶術",
+      "root_note": "mnemonikos (of memory), from Greek mneme (memory)",
+      "sentences": [
+        {
+          "en": "The course taught practical ______ for memorizing vocabulary.",
+          "zh": "這門課程教授了記憶單字的實用記憶術。"
+        },
+        {
+          "en": "Competitors in memory championships rely heavily on ______ .",
+          "zh": "記憶競賽的參賽者高度仰賴記憶術。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "mock",
+      "pos": "vb.",
+      "pos_key": "v.",
+      "defn_en": "to make fun of; to imitate",
+      "defn_zh": "嘲笑",
+      "root_note": "mocquer (to mock, Old French; no classical root)",
+      "sentences": [
+        {
+          "en": "The other kids would ______ him for his accent.",
+          "zh": "其他孩子總是嘲笑他說話的口音。"
+        },
+        {
+          "en": "She hated being ______ed for her unusual fashion choices.",
+          "zh": "她很討厭因自己與眾不同的穿衣風格而遭到嘲笑。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "moderate",
+      "pos": "v./adj.",
+      "pos_key": "v.",
+      "defn_en": "to make something less extreme or intense; average in amount or degree:",
+      "defn_zh": "使溫和/適度的",
+      "root_note": "modus (measure)",
+      "sentences": [
+        {
+          "en": "The coach asked the players to ______ their efforts to avoid exhaustion.",
+          "zh": "教練要求球員們放緩用力程度,以避免過度疲勞。"
+        },
+        {
+          "en": "He never has strong opinions, and most of his views are ______.",
+          "zh": "他從不表達強烈的意見,他的觀點大多相當溫和適中。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "modest",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "unassuming or humble in the estimation of one's abilities or achievements:",
+      "defn_zh": "謙虛的/樸實的",
+      "root_note": "modus (measure)",
+      "sentences": [
+        {
+          "en": "Despite his many awards, he remained ______ and humble.",
+          "zh": "儘管獲獎無數,他依然保持謙虛謙遜。"
+        },
+        {
+          "en": "They live a ______ lifestyle despite their considerable wealth.",
+          "zh": "儘管坐擁可觀的財富,他們仍過著樸實無華的生活。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "modesty",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "the quality of not being vain or boastful:",
+      "defn_zh": "謙虛;謙遜",
+      "root_note": "modestus (keeping due measure), from Latin modus (measure)",
+      "sentences": [
+        {
+          "en": "Despite her success, she remained known for her ______ .",
+          "zh": "儘管取得了成功,她仍以謙遜聞名。"
+        },
+        {
+          "en": "He accepted the award with characteristic ______ .",
+          "zh": "他以一貫的謙遜態度接受了這項獎項。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "modicum",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a small amount of something:",
+      "defn_zh": "少量/些許",
+      "root_note": "modus (measure, Latin)",
+      "sentences": [
+        {
+          "en": "Even a ______ of effort would have improved his grade significantly.",
+          "zh": "即使付出些許的努力,也能大幅提升他的成績。"
+        },
+        {
+          "en": "She managed to maintain a ______ of dignity despite the humiliating situation.",
+          "zh": "儘管處境令人難堪,她仍設法維持一絲尊嚴。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "modulate",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to pass from one state to another, especially in music:",
+      "defn_zh": "調節/轉調",
+      "root_note": "modus (measure, Latin)",
+      "sentences": [
+        {
+          "en": "The singer learned to ______ her voice smoothly between the verses.",
+          "zh": "這位歌手學會了在各段歌詞之間流暢地調節音色。"
+        },
+        {
+          "en": "The thermostat automatically ______s the room's temperature throughout the day.",
+          "zh": "這台溫控器會在一天之中自動調節房間的溫度。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "mold",
+      "pos": "n./v.",
+      "pos_key": "n.",
+      "defn_en": "a fungal growth; a hollow container used to shape material; to shape:",
+      "defn_zh": "黴菌;模具;塑造",
+      "root_note": "modulus (small measure), from Latin, via Old French modle",
+      "sentences": [
+        {
+          "en": "Dark ______ began to spread across the damp ceiling.",
+          "zh": "深色的黴菌開始在這片潮濕的天花板上蔓延。"
+        },
+        {
+          "en": "The sculptor used a ______ to shape the bronze statue.",
+          "zh": "這位雕塑家使用模具來塑造這座青銅雕像。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "molder",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to slowly decay or crumble:",
+      "defn_zh": "逐漸腐朽;衰敗",
+      "root_note": "molde (soil, earth), from Old English, related to mold",
+      "sentences": [
+        {
+          "en": "Old newspapers began to ______ in the forgotten basement.",
+          "zh": "舊報紙開始在這個被遺忘的地下室裡逐漸腐朽。"
+        },
+        {
+          "en": "The abandoned mansion continued to ______ for decades.",
+          "zh": "這棟廢棄的宅邸持續腐朽了好幾十年。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "moldering",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "slowly decaying or crumbling:",
+      "defn_zh": "逐漸腐朽的",
+      "root_note": "molde (soil, earth), from Old English, related to mold",
+      "sentences": [
+        {
+          "en": "The explorers found a ______ chest hidden beneath the floorboards.",
+          "zh": "探險者在地板下發現了一個逐漸腐朽的箱子。"
+        },
+        {
+          "en": "A ______ pile of books filled the corner of the attic.",
+          "zh": "一堆逐漸腐朽的書籍堆滿了閣樓的角落。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "mole",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a small burrowing mammal; a spy working within an organization; a small dark skin blemish:",
+      "defn_zh": "鼴鼠;內奸;痣",
+      "root_note": "mol (mole), from Middle Low German",
+      "sentences": [
+        {
+          "en": "A ______ tunneled through the garden overnight.",
+          "zh": "一隻鼴鼠一夜之間在花園裡挖出了一條隧道。"
+        },
+        {
+          "en": "Investigators suspected a ______ was leaking secrets to rivals.",
+          "zh": "調查人員懷疑有個內奸將機密洩露給對手。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "mondegreen",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a mishearing or misinterpretation of a phrase, especially in a song, producing a new meaning:",
+      "defn_zh": "誤聽的歌詞或短語",
+      "root_note": "coined from a mishearing of the ballad line 'laid him on the green'",
+      "sentences": [
+        {
+          "en": "Many fans sang a famous ______ instead of the actual lyrics for years.",
+          "zh": "許多歌迷多年來一直唱著一句著名的誤聽歌詞,而非真正的歌詞。"
+        },
+        {
+          "en": "The comedian built an entire routine around childhood ______ s.",
+          "zh": "這位喜劇演員以童年時期誤聽的歌詞為主題,設計了一整套表演。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "money-grubbing",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "excessively or obsessively concerned with making money:",
+      "defn_zh": "貪財的",
+      "root_note": "money, from Latin moneta + grub (to dig), from Old English",
+      "sentences": [
+        {
+          "en": "The film portrays the executive as a ______ villain with no scruples.",
+          "zh": "這部電影將這位高管描繪成一個毫無顧忌、貪財成性的反派。"
+        },
+        {
+          "en": "Locals resented the ______ developer buying up historic buildings.",
+          "zh": "當地居民對這位收購歷史建築、貪得無厭的開發商感到憤慨。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "monitory",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "giving a warning; cautionary:",
+      "defn_zh": "警告的;告誡的",
+      "root_note": "monere (to warn), from Latin",
+      "sentences": [
+        {
+          "en": "The report contained a ______ note about the risks of overexpansion.",
+          "zh": "這份報告裡有一則關於過度擴張風險的警告說明。"
+        },
+        {
+          "en": "Her ______ tone suggested she foresaw trouble ahead.",
+          "zh": "她告誡的語氣暗示她預見了未來的麻煩。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "monogamy",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "the practice of having only one spouse or partner at a time:",
+      "defn_zh": "一夫一妻制;單配偶制",
+      "root_note": "monos (single) + gamos (marriage), from Greek",
+      "sentences": [
+        {
+          "en": "Many cultures uphold ______ as the standard for marriage.",
+          "zh": "許多文化都將一夫一妻制視為婚姻的標準規範。"
+        },
+        {
+          "en": "Biologists study ______ patterns across different animal species.",
+          "zh": "生物學家研究不同動物物種中的單配偶模式。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "monogram",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a design of one or more letters, typically someone's initials:",
+      "defn_zh": "花押字;姓名縮寫圖案",
+      "root_note": "monos (single) + gramma (letter), from Greek",
+      "sentences": [
+        {
+          "en": "The towels were embroidered with her family's ______ .",
+          "zh": "這些毛巾上繡著她家族的姓名縮寫圖案。"
+        },
+        {
+          "en": "He had his initials engraved as a ______ on the silver pen.",
+          "zh": "他把自己的姓名縮寫刻成花押字裝飾在這支銀筆上。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "monograph",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a detailed written study of a single specialized subject:",
+      "defn_zh": "專題論文;專著",
+      "root_note": "monos (single) + graphein (to write), from Greek",
+      "sentences": [
+        {
+          "en": "Her ______ on medieval trade routes won a major academic prize.",
+          "zh": "她關於中世紀貿易路線的專題論文獲得了一項重要的學術獎項。"
+        },
+        {
+          "en": "The library holds a rare ______ on ancient Egyptian pottery.",
+          "zh": "這座圖書館收藏了一本關於古埃及陶器的罕見專著。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "monomaniac",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a person suffering from monomania:",
+      "defn_zh": "偏執狂/單一狂熱者",
+      "root_note": "monos (alone, Greek) + mania (madness, Greek)",
+      "sentences": [
+        {
+          "en": "His obsession with the treasure eventually turned him into a ______.",
+          "zh": "他對寶藏的執念最終讓他變成了一個偏執狂。"
+        },
+        {
+          "en": "The novel's captain is portrayed as a ______ consumed by his hunt for the whale.",
+          "zh": "這部小說中的船長被描繪成一個被追捕那頭鯨魚的執念吞噬的偏執狂。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "monotonous",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "dull, repetitive, and lacking variety:",
+      "defn_zh": "單調的;乏味的",
+      "root_note": "monos (single) + tonos (tone), from Greek",
+      "sentences": [
+        {
+          "en": "The factory job quickly became ______ and exhausting.",
+          "zh": "這份工廠工作很快就變得單調又疲累。"
+        },
+        {
+          "en": "His ______ lecture put half the class to sleep.",
+          "zh": "他單調乏味的講課讓班上一半的學生都睡著了。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "monotony",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a state of dull, tedious sameness:",
+      "defn_zh": "單調;千篇一律",
+      "root_note": "monos (single) + tonos (tone), from Greek",
+      "sentences": [
+        {
+          "en": "She took up painting to escape the ______ of daily routine.",
+          "zh": "她開始學畫畫,以逃離日常生活的單調乏味。"
+        },
+        {
+          "en": "The long drive was filled with the ______ of flat prairie land.",
+          "zh": "這趟漫長的車程一路都是單調千篇一律的平坦草原。"
+        }
+      ],
+      "category": null
+    }
+  ],
+  "family_options": {},
+  "fallback_options": {
+    "v.": [
+      {
+        "word": "abound",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to exist in great numbers:",
+        "defn_zh": "充滿"
+      },
+      {
+        "word": "abrogate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to deprive of legal force, to nullify:=abolish",
+        "defn_zh": "廢除/取消"
+      },
+      {
+        "word": "abjure",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to renounce, abstain from:",
+        "defn_zh": "發誓放棄/棄絕"
+      },
+      {
+        "word": "abbreviate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to shorten a word or phrase:",
+        "defn_zh": "縮寫;縮短"
+      },
+      {
+        "word": "abdicate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to give up a position, usually one of leadership:",
+        "defn_zh": "退位/放棄(職位)"
+      },
+      {
+        "word": "abduct",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to kidnap, take by force:",
+        "defn_zh": "綁架/劫持"
+      },
+      {
+        "word": "abhor",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to regard with disgust and hatred:",
+        "defn_zh": "憎惡/厭惡"
+      },
+      {
+        "word": "abnegate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to deny or renounce:",
+        "defn_zh": "放棄/克制"
+      },
+      {
+        "word": "abolish",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to formally put an end to a system, practice, or institution:",
+        "defn_zh": "廢除"
+      },
+      {
+        "word": "abort",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to give up on a half-finished project or effort:",
+        "defn_zh": "中止/放棄"
+      },
+      {
+        "word": "abrade",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to scrape or wear away by friction:",
+        "defn_zh": "磨損;擦傷"
+      },
+      {
+        "word": "abscond",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to sneak away and hide:",
+        "defn_zh": "潛逃/逃匿"
+      }
+    ],
+    "adj.": [
+      {
+        "word": "abortive",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "fruitless, failing:",
+        "defn_zh": "失敗的/夭折的"
+      },
+      {
+        "word": "abstemious",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "moderate in eating or drinking:",
+        "defn_zh": "飲食有節制的"
+      },
+      {
+        "word": "abhorrent",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "detestable, despised:",
+        "defn_zh": "令人厭惡的"
+      },
+      {
+        "word": "absurd",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "ridiculous:",
+        "defn_zh": "荒謬的"
+      },
+      {
+        "word": "aberrant",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "deviating from what is normal or expected:",
+        "defn_zh": "異常的;脫軌的"
+      },
+      {
+        "word": "abject",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "wretched, pitiful:",
+        "defn_zh": "卑賤的/淒慘的"
+      },
+      {
+        "word": "abominable",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "causing moral revulsion; extremely unpleasant:",
+        "defn_zh": "可憎的;惡劣的"
+      },
+      {
+        "word": "abounding",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "existing in large numbers or amounts:",
+        "defn_zh": "大量存在的;豐富的"
+      },
+      {
+        "word": "abrasive",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "showing little concern for others; harsh:",
+        "defn_zh": "粗暴的/刺耳的"
+      },
+      {
+        "word": "abrupt",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "sudden or unexpected; brief and curt in manner:",
+        "defn_zh": "突然的/唐突的"
+      },
+      {
+        "word": "abstract",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "existing purely in the mind; not representing actual reality:",
+        "defn_zh": "抽象的"
+      },
+      {
+        "word": "abstruse",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "hard to comprehend:",
+        "defn_zh": "深奧難懂的"
+      }
+    ],
+    "n.": [
+      {
+        "word": "aversion",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "strong dislike, opposition:",
+        "defn_zh": "厭惡/反感"
+      },
+      {
+        "word": "aberration",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "something that differs from the norm:",
+        "defn_zh": "異常/脫軌"
+      },
+      {
+        "word": "abjection",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a state of complete misery, hopelessness, or degradation:",
+        "defn_zh": "卑賤;悲慘狀態"
+      },
+      {
+        "word": "abjuration",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the solemn renunciation of a belief, cause, or claim:",
+        "defn_zh": "公開放棄;誓絕"
+      },
+      {
+        "word": "ablution",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the act of washing oneself, especially as part of a religious ritual:",
+        "defn_zh": "沐浴;淨身儀式"
+      },
+      {
+        "word": "abnegation",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "denial of comfort to oneself:",
+        "defn_zh": "自我克制/放棄"
+      },
+      {
+        "word": "abomination",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "something that causes disgust or hatred:",
+        "defn_zh": "可憎之事;令人厭惡的東西"
+      },
+      {
+        "word": "abridgement",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a shortened version of a book or other written work:",
+        "defn_zh": "節略本;縮減版"
+      },
+      {
+        "word": "absolution",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "freedom from blame, guilt, sin:",
+        "defn_zh": "赦免/免罪"
+      },
+      {
+        "word": "abstemiousness",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "moderation or self-restraint, especially in eating and drinking:",
+        "defn_zh": "節制;克己"
+      },
+      {
+        "word": "abstinence",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the practice of restraining oneself from something enjoyable, especially food, alcohol, or sex:",
+        "defn_zh": "節制;戒絕"
+      },
+      {
+        "word": "avocation",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a hobby or minor occupation apart from one's main career:",
+        "defn_zh": "副業;業餘愛好"
+      }
+    ],
+    "adv.": [
+      {
+        "word": "accordingly",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in a manner that fits the circumstances; consequently:",
+        "defn_zh": "相應地;因此"
+      },
+      {
+        "word": "inadvertently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "unintentionally or by accident:",
+        "defn_zh": "無意間/不小心地"
+      },
+      {
+        "word": "consequently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "as a result; therefore:",
+        "defn_zh": "因此;結果"
+      },
+      {
+        "word": "contemptuously",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "without respect; in a disdainful manner:",
+        "defn_zh": "輕蔑地"
+      },
+      {
+        "word": "involuntarily",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "done without conscious control:",
+        "defn_zh": "不由自主地"
+      },
+      {
+        "word": "cordially",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in a warm or friendly manner:",
+        "defn_zh": "誠摯地/友好地"
+      },
+      {
+        "word": "ipso facto",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "by that very fact or act:",
+        "defn_zh": "事實上;因此"
+      },
+      {
+        "word": "en passant",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in passing; incidentally:",
+        "defn_zh": "順帶一提地;偶然地"
+      },
+      {
+        "word": "regardless",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "despite the prevailing circumstances; without being deterred:",
+        "defn_zh": "不管怎樣;儘管如此"
+      },
+      {
+        "word": "subsequently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "afterward; following in time or order:",
+        "defn_zh": "隨後;其後"
+      },
+      {
+        "word": "aside",
+        "pos": "adv./n.",
+        "pos_key": "adv.",
+        "defn_en": "to or on one side; a remark not meant to be heard by everyone:",
+        "defn_zh": "在旁邊;旁白"
+      },
+      {
+        "word": "vice versa",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "with the order or meaning reversed; conversely:",
+        "defn_zh": "反之亦然"
+      }
+    ],
+    "other": [
+      {
+        "word": "（此批單字中，暫無符合此字根/字首的單字）",
+        "pos": "",
+        "pos_key": "other",
+        "defn_en": "",
+        "defn_zh": ""
+      }
+    ],
+    "prep./adv.": [
+      {
+        "word": "besides",
+        "pos": "prep./adv.",
+        "pos_key": "prep./adv.",
+        "defn_en": "in addition to; furthermore:",
+        "defn_zh": "除...之外;此外"
+      }
+    ],
+    "phrasalv.": [
+      {
+        "word": "egg on",
+        "pos": "phrasal v.",
+        "pos_key": "phrasalv.",
+        "defn_en": "to encourage someone to do something, often risky:",
+        "defn_zh": "慫恿;鼓動"
+      },
+      {
+        "word": "carry out",
+        "pos": "phrasal v.",
+        "pos_key": "phrasalv.",
+        "defn_en": "to perform or complete a task:",
+        "defn_zh": "執行；完成"
+      },
+      {
+        "word": "look into",
+        "pos": "phrasal v.",
+        "pos_key": "phrasalv.",
+        "defn_en": "to investigate or examine something:",
+        "defn_zh": "調查；研究"
+      },
+      {
+        "word": "put off",
+        "pos": "phrasal v.",
+        "pos_key": "phrasalv.",
+        "defn_en": "to postpone something until a later time:",
+        "defn_zh": "延後；推遲"
+      },
+      {
+        "word": "rule out",
+        "pos": "phrasal v.",
+        "pos_key": "phrasalv.",
+        "defn_en": "to eliminate something as a possibility:",
+        "defn_zh": "排除（可能性）"
+      }
+    ],
+    "abbr.": [
+      {
+        "word": "etc.",
+        "pos": "abbr.",
+        "pos_key": "abbr.",
+        "defn_en": "and other similar things (abbreviation of et cetera):",
+        "defn_zh": "等等(et cetera的縮寫)"
+      },
+      {
+        "word": "e.g.",
+        "pos": "abbr.",
+        "pos_key": "abbr.",
+        "defn_en": "for example:",
+        "defn_zh": "例如"
+      },
+      {
+        "word": "i.e.",
+        "pos": "abbr.",
+        "pos_key": "abbr.",
+        "defn_en": "that is; in other words:",
+        "defn_zh": "也就是說；換言之"
+      },
+      {
+        "word": "approx.",
+        "pos": "abbr.",
+        "pos_key": "abbr.",
+        "defn_en": "approximately; about but not exactly:",
+        "defn_zh": "大約；約略"
+      },
+      {
+        "word": "vs.",
+        "pos": "abbr.",
+        "pos_key": "abbr.",
+        "defn_en": "versus; against or in comparison with:",
+        "defn_zh": "對；與……相比"
+      }
+    ],
+    "interj.": [
+      {
+        "word": "fiddledeedee",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "an exclamation expressing dismissal of something as nonsense:",
+        "defn_zh": "廢話!(表示不屑一顧)"
+      },
+      {
+        "word": "gesundheit",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "an expression said to someone who has just sneezed:",
+        "defn_zh": "保重(打噴嚏後的祝福語)"
+      },
+      {
+        "word": "alas",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "used to express sadness, regret, or disappointment:",
+        "defn_zh": "唉；哎呀（表示悲傷或遺憾）"
+      },
+      {
+        "word": "bravo",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "used to express approval or admiration:",
+        "defn_zh": "好極了；太棒了"
+      },
+      {
+        "word": "ouch",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "used to express sudden pain:",
+        "defn_zh": "哎喲（表示疼痛）"
+      },
+      {
+        "word": "phew",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "used to express relief, fatigue, or surprise:",
+        "defn_zh": "呼；唷（表示鬆一口氣、疲累或驚訝）"
+      }
+    ],
+    "prep.": [
+      {
+        "word": "via",
+        "pos": "prep.",
+        "pos_key": "prep.",
+        "defn_en": "by way of; passing through:",
+        "defn_zh": "經由;透過"
+      },
+      {
+        "word": "amid",
+        "pos": "prep.",
+        "pos_key": "prep.",
+        "defn_en": "in the middle of or surrounded by:",
+        "defn_zh": "在……之中；被……圍繞"
+      },
+      {
+        "word": "beneath",
+        "pos": "prep.",
+        "pos_key": "prep.",
+        "defn_en": "in or to a lower position than something:",
+        "defn_zh": "在……下方"
+      },
+      {
+        "word": "despite",
+        "pos": "prep.",
+        "pos_key": "prep.",
+        "defn_en": "without being affected or prevented by:",
+        "defn_zh": "儘管；不管"
+      },
+      {
+        "word": "throughout",
+        "pos": "prep.",
+        "pos_key": "prep.",
+        "defn_en": "in every part of or during the whole period of:",
+        "defn_zh": "遍及；貫穿整段期間"
+      }
+    ]
+  }
+}
