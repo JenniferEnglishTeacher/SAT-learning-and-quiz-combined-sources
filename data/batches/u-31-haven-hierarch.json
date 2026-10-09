@@ -1,0 +1,1480 @@
+{
+  "id": "u-31-haven-hierarch",
+  "part": "unclassified",
+  "part_label": "未歸類 Unclassified",
+  "name": "Unclassified 31 (haven–hierarch)",
+  "subtitle": "Alphabetical batch",
+  "count": 50,
+  "words": [
+    {
+      "word": "haven",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "place of safety:",
+      "defn_zh": "避難所/港口",
+      "root_note": "haefen (port/haven)",
+      "sentences": [
+        {
+          "en": "The small island became a ______ for sailors during the storm.",
+          "zh": "這座小島在暴風雨中成為水手們的避風港。"
+        },
+        {
+          "en": "The library was a quiet ______ away from the noisy dormitory.",
+          "zh": "圖書館是遠離嘈雜宿舍的一處安靜避風港。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "hayseed",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "an unsophisticated person from a rural area (informal):",
+      "defn_zh": "鄉巴佬(口語)",
+      "root_note": "hay + seed, from Old English",
+      "sentences": [
+        {
+          "en": "City folks mocked him as a naive ______ .",
+          "zh": "城裡人嘲笑他是個天真的鄉巴佬。"
+        },
+        {
+          "en": "Despite being called a ______ , he outsmarted every city investor.",
+          "zh": "儘管被稱為鄉巴佬,他卻智勝了每一位城市投資人。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "headstrong",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "stubbornly determined to have one's own way:",
+      "defn_zh": "固執的;任性的",
+      "root_note": "head + strong, from Old English",
+      "sentences": [
+        {
+          "en": "The ______ teenager refused to listen to any advice.",
+          "zh": "這位固執的青少年拒絕聽取任何建議。"
+        },
+        {
+          "en": "Her ______ nature made negotiation difficult.",
+          "zh": "她任性固執的性格讓談判變得困難。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "healthful",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "conducive to good health:",
+      "defn_zh": "有益健康的",
+      "root_note": "hælth (health) + -ful, from Old English",
+      "sentences": [
+        {
+          "en": "A ______ diet includes plenty of fruits and vegetables.",
+          "zh": "有益健康的飲食包含大量的蔬菜與水果。"
+        },
+        {
+          "en": "Regular exercise contributes to a ______ lifestyle.",
+          "zh": "規律運動有助於維持有益健康的生活方式。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "heartbroken",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "overwhelmed with grief or disappointment:",
+      "defn_zh": "心碎的",
+      "root_note": "heart + broken, from Old English",
+      "sentences": [
+        {
+          "en": "She was ______ after the loss of her beloved dog.",
+          "zh": "失去心愛的狗後,她感到心碎不已。"
+        },
+        {
+          "en": "He remained ______ for months after the breakup.",
+          "zh": "分手後好幾個月,他仍舊心碎難平。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "heartrending",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "causing great sadness or distress:",
+      "defn_zh": "令人心碎的;悲痛的",
+      "root_note": "heart + rend, from Old English",
+      "sentences": [
+        {
+          "en": "The documentary told a ______ story of survival.",
+          "zh": "這部紀錄片講述了一個令人心碎的生存故事。"
+        },
+        {
+          "en": "Her ______ testimony moved the entire courtroom to tears.",
+          "zh": "她令人心碎的證詞讓整個法庭為之落淚。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "heavenly",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "of or relating to heaven; delightful:",
+      "defn_zh": "天堂的;極美好的",
+      "root_note": "heofon (sky, heaven), from Old English",
+      "sentences": [
+        {
+          "en": "The choir's voices sounded almost ______ .",
+          "zh": "這個合唱團的歌聲聽起來近乎天籟。"
+        },
+        {
+          "en": "She described the vacation as absolutely ______ .",
+          "zh": "她形容這趟假期簡直美好得像天堂一樣。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "heavyhearted",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "feeling sad or depressed:",
+      "defn_zh": "心情沉重的",
+      "root_note": "heavy + heart, from Old English",
+      "sentences": [
+        {
+          "en": "She felt ______ leaving her childhood home for the last time.",
+          "zh": "最後一次離開兒時的家,她感到心情沉重。"
+        },
+        {
+          "en": "He remained ______ for weeks after the funeral.",
+          "zh": "葬禮過後好幾週,他仍舊心情沉重。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "hebdomad",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a group or period of seven, especially seven days:",
+      "defn_zh": "七日;一週",
+      "root_note": "hepta (seven), from Greek",
+      "sentences": [
+        {
+          "en": "The ancient text divides the year into ______ s of seven days.",
+          "zh": "這份古老的文獻將一年劃分為以七天為一週期的週次。"
+        },
+        {
+          "en": "Scholars debated the significance of the ______ in early calendars.",
+          "zh": "學者們爭論早期曆法中七日週期的重要性。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "hebdomadal",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "occurring or published every week:",
+      "defn_zh": "每週的",
+      "root_note": "hepta (seven), from Greek",
+      "sentences": [
+        {
+          "en": "The university holds a ______ council meeting every Tuesday.",
+          "zh": "這所大學每週二都會舉行每週例行的理事會會議。"
+        },
+        {
+          "en": "He contributed a ______ column to the local newspaper.",
+          "zh": "他為當地報紙撰寫了一個每週專欄。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "hebetate",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to make dull or blunt, especially mentally:",
+      "defn_zh": "使遲鈍;使麻木",
+      "root_note": "hebes (dull, blunt), from Latin",
+      "sentences": [
+        {
+          "en": "Years of monotonous work began to ______ his once-sharp mind.",
+          "zh": "多年單調的工作開始使他曾經敏銳的思維變得遲鈍。"
+        },
+        {
+          "en": "Excessive screen time can ______ a child's attention span.",
+          "zh": "過多的螢幕使用時間可能會讓兒童的專注力變得遲鈍。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "hebetude",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "the state of being dull or lethargic:",
+      "defn_zh": "遲鈍;麻木狀態",
+      "root_note": "hebes (dull, blunt), from Latin",
+      "sentences": [
+        {
+          "en": "The long lecture left the students in a state of ______ .",
+          "zh": "這場冗長的講座讓學生們陷入一種遲鈍麻木的狀態。"
+        },
+        {
+          "en": "A feeling of ______ crept over him after the heavy lunch.",
+          "zh": "吃完豐盛的午餐後,一股遲鈍麻木的感覺悄悄襲上他。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "hebetudinous",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "mentally dull or lethargic:",
+      "defn_zh": "遲鈍的;麻木的",
+      "root_note": "hebes (dull, blunt), from Latin",
+      "sentences": [
+        {
+          "en": "The heat made everyone feel sluggish and ______ .",
+          "zh": "這股熱氣讓每個人都感到懶洋洋且遲鈍麻木。"
+        },
+        {
+          "en": "His ______ response suggested he hadn't slept in days.",
+          "zh": "他遲鈍麻木的反應顯示他已經好幾天沒睡了。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "hebetutudinous",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "a variant spelling relating to mental dullness or lethargy:",
+      "defn_zh": "遲鈍麻木的(異體拼法)",
+      "root_note": "hebes (dull, blunt), from Latin",
+      "sentences": [
+        {
+          "en": "After the marathon meeting, the whole team felt ______ .",
+          "zh": "在這場馬拉松式的會議結束後,整個團隊都感到遲鈍麻木。"
+        },
+        {
+          "en": "A ______ fog seemed to settle over the tired committee.",
+          "zh": "一股麻木遲鈍的迷霧似乎籠罩著這個疲憊的委員會。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "heckle",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to interrupt a speaker with aggressive comments:",
+      "defn_zh": "起鬨;喝倒采",
+      "root_note": "hekele (flax comb), from Middle English",
+      "sentences": [
+        {
+          "en": "Protesters began to ______ the senator during his speech.",
+          "zh": "抗議者在這位參議員演講時開始起鬨。"
+        },
+        {
+          "en": "The comedian handled the ______ ing crowd with ease.",
+          "zh": "這位喜劇演員從容地應付了起鬨的觀眾。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "hectic",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "full of frantic activity; feverish:",
+      "defn_zh": "忙亂的;繁忙的",
+      "root_note": "hektikos (habitual, feverish), from Greek",
+      "sentences": [
+        {
+          "en": "Her schedule has been ______ since the promotion.",
+          "zh": "自從升遷以來,她的行程一直非常忙亂。"
+        },
+        {
+          "en": "The airport was ______ during the holiday travel season.",
+          "zh": "假期旅遊旺季期間,機場一片忙亂。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "hector",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to talk to someone in a bullying way:",
+      "defn_zh": "欺凌;恐嚇",
+      "root_note": "Hector, hero of the Iliad",
+      "sentences": [
+        {
+          "en": "He would ______ his younger siblings into doing his chores.",
+          "zh": "他會恐嚇年幼的弟妹幫他做家事。"
+        },
+        {
+          "en": "The coach was known to ______ players who made mistakes.",
+          "zh": "這位教練以恐嚇犯錯的球員而聞名。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "hectoring",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "bullying or intimidating in manner:",
+      "defn_zh": "咄咄逼人的;恐嚇性的",
+      "root_note": "Hector, hero of the Iliad",
+      "sentences": [
+        {
+          "en": "His ______ tone made the negotiation uncomfortable for everyone.",
+          "zh": "他咄咄逼人的語氣讓每個人都對這場談判感到不自在。"
+        },
+        {
+          "en": "She refused to respond to his ______ demands.",
+          "zh": "她拒絕回應他咄咄逼人的要求。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "hedonism",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "the pursuit of pleasure as the most important goal in life:",
+      "defn_zh": "享樂主義",
+      "root_note": "hedone (pleasure), from Greek",
+      "sentences": [
+        {
+          "en": "Critics accused the resort of promoting mindless ______ .",
+          "zh": "評論家批評這間度假村宣揚盲目的享樂主義。"
+        },
+        {
+          "en": "His philosophy of ______ centered on immediate gratification.",
+          "zh": "他享樂主義的哲學觀著重於即時的滿足感。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "hedonist",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a person who lives for pleasure",
+      "defn_zh": "享樂主義者",
+      "root_note": "hedone (pleasure, Greek)",
+      "sentences": [
+        {
+          "en": "As a self-proclaimed ______, he spent his money on fine food and travel.",
+          "zh": "身為一個自稱的享樂主義者,他把錢都花在美食與旅行上。"
+        },
+        {
+          "en": "The philosophy course examined the ______'s pursuit of pleasure above all else.",
+          "zh": "這門哲學課探討了享樂主義者將追求快樂置於一切之上的觀點。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "heed",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to pay attention to or take notice of:",
+      "defn_zh": "注意/聽從",
+      "root_note": "",
+      "sentences": [
+        {
+          "en": "The teacher warned them to ______ the instructions carefully.",
+          "zh": "老師警告他們要仔細聽從指示。"
+        },
+        {
+          "en": "He refused to ______ his doctor's advice to slow down.",
+          "zh": "他拒絕聽從醫生要他放慢腳步的建議。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "heedful",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "paying careful attention to",
+      "defn_zh": "留心的",
+      "root_note": "hedan (to heed, Old English; no classical root)",
+      "sentences": [
+        {
+          "en": "Drivers should be ______ of pedestrians near school zones.",
+          "zh": "駕駛人應該在學校周邊路段留意行人。"
+        },
+        {
+          "en": "Being ______ of small warning signs can prevent bigger problems later.",
+          "zh": "留心一些小小的警訊,可以避免日後更大的問題。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "heedlessness",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a lack of attention or care:",
+      "defn_zh": "粗心大意;不留心",
+      "root_note": "hedan (to heed), from Old English",
+      "sentences": [
+        {
+          "en": "His ______ nearly caused a serious accident.",
+          "zh": "他的粗心大意差點釀成一場嚴重的事故。"
+        },
+        {
+          "en": "The report criticized the company's ______ toward safety regulations.",
+          "zh": "這份報告批評這家公司對安全規範的漫不經心。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "hegemon",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a leading or dominant state, group, or individual:",
+      "defn_zh": "霸主;主導勢力",
+      "root_note": "hegemon (leader), from Greek",
+      "sentences": [
+        {
+          "en": "Historians debate which nation served as the region's ______ .",
+          "zh": "歷史學家爭論哪個國家曾是這個地區的霸主。"
+        },
+        {
+          "en": "The rising power soon became the region's economic ______ .",
+          "zh": "這股崛起的勢力很快就成了該地區的經濟霸主。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "hegemonic",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "relating to dominant leadership or control:",
+      "defn_zh": "霸權的;主導性的",
+      "root_note": "hegemon (leader), from Greek",
+      "sentences": [
+        {
+          "en": "Critics warned against the country's ______ ambitions.",
+          "zh": "評論家對該國的霸權野心提出了警告。"
+        },
+        {
+          "en": "The empire maintained ______ control over the trade routes.",
+          "zh": "這個帝國對這些貿易路線維持著主導性的控制。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "hegemony",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "domination over others:",
+      "defn_zh": "霸權/支配地位",
+      "root_note": "hegemon (leader, Greek)",
+      "sentences": [
+        {
+          "en": "The empire maintained its ______ over the region for centuries.",
+          "zh": "這個帝國在這個地區維持了數世紀的霸權地位。"
+        },
+        {
+          "en": "Analysts debate whether the country's economic ______ is beginning to decline.",
+          "zh": "分析師針對這個國家的經濟霸權是否正開始衰退展開辯論。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "heinous",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "hatefully evil:",
+      "defn_zh": "十惡不赦的",
+      "root_note": "haine (hatred)",
+      "sentences": [
+        {
+          "en": "The court sentenced him for committing a ______ crime.",
+          "zh": "法院因他犯下十惡不赦的罪行而判他入獄。"
+        },
+        {
+          "en": "It was a ______ act of betrayal that no one could forgive.",
+          "zh": "那是一次令人髮指的背叛行為,沒有人能夠原諒。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "heliocentric",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "having the sun as the center, as in the modern model of the solar system:",
+      "defn_zh": "日心說的",
+      "root_note": "helios (sun) + kentron (center), from Greek",
+      "sentences": [
+        {
+          "en": "Copernicus proposed a ______ model of the solar system.",
+          "zh": "哥白尼提出了太陽系的日心說模型。"
+        },
+        {
+          "en": "The ______ theory eventually replaced the geocentric view.",
+          "zh": "日心說理論最終取代了地心說的觀點。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "heliotherapy",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "treatment of disease by exposure to sunlight:",
+      "defn_zh": "日光療法",
+      "root_note": "helios (sun) + therapeia (treatment), from Greek",
+      "sentences": [
+        {
+          "en": "Doctors once prescribed ______ for patients with certain skin conditions.",
+          "zh": "醫生過去曾為患有某些皮膚病症的病患開立日光療法。"
+        },
+        {
+          "en": "The sanatorium offered ______ as part of its treatment program.",
+          "zh": "這家療養院將日光療法納入其治療方案的一部分。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "heliotropism",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "the tendency of plants to grow or turn toward sunlight:",
+      "defn_zh": "向日性;趨光性",
+      "root_note": "helios (sun) + tropos (turn), from Greek",
+      "sentences": [
+        {
+          "en": "Sunflowers are famous for their striking ______ .",
+          "zh": "向日葵以其顯著的向日性聞名。"
+        },
+        {
+          "en": "The biology class studied ______ in young seedlings.",
+          "zh": "這堂生物課研究了幼苗的趨光性。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "helpless",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "unable to defend oneself or act without help:",
+      "defn_zh": "無助的;無能為力的",
+      "root_note": "help, from Old English helpan",
+      "sentences": [
+        {
+          "en": "The stranded hikers felt completely ______ without a phone signal.",
+          "zh": "這些受困的登山客在沒有手機訊號的情況下感到完全無助。"
+        },
+        {
+          "en": "She watched ______ ly as the flood destroyed her home.",
+          "zh": "她無助地看著這場洪水摧毀了她的家。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "henbane",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a poisonous plant with a foul smell, historically used as a sedative:",
+      "defn_zh": "天仙子(毒草)",
+      "root_note": "hen + bane (poison), from Old English",
+      "sentences": [
+        {
+          "en": "Medieval healers used small doses of ______ to induce sleep.",
+          "zh": "中世紀的醫者會使用少量的天仙子來誘導睡眠。"
+        },
+        {
+          "en": "The field guide warned hikers to avoid the toxic ______ plant.",
+          "zh": "這本野外圖鑑警告登山客要避開這種有毒的天仙子植物。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "henchman",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a loyal supporter, especially one who commits unethical acts for a leader:",
+      "defn_zh": "爪牙;心腹打手",
+      "root_note": "hengest (stallion) + man, from Old English",
+      "sentences": [
+        {
+          "en": "The mob boss sent his ______ to deliver the threat.",
+          "zh": "這位黑幫老大派他的爪牙去傳達這則威脅。"
+        },
+        {
+          "en": "In the film, the villain relies on a team of loyal ______ .",
+          "zh": "在這部電影中,這個反派仰賴一群忠誠的心腹打手。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "herald",
+      "pos": "n./v.",
+      "pos_key": "n.",
+      "defn_en": "a messenger bringing important news; to announce the approach of:",
+      "defn_zh": "使者;預示",
+      "root_note": "heriwald (army commander), from Old French, of Germanic origin",
+      "sentences": [
+        {
+          "en": "The royal ______ announced the king's arrival.",
+          "zh": "皇家使者宣布了國王的到來。"
+        },
+        {
+          "en": "Bright autumn leaves ______ the coming of winter.",
+          "zh": "明亮的秋葉預示著冬天的到來。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "herbivorous",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "feeding only on plants:",
+      "defn_zh": "草食性的",
+      "root_note": "herba (plant) + vorare (to devour)",
+      "sentences": [
+        {
+          "en": "Elephants are large ______ mammals that eat mostly grasses and leaves.",
+          "zh": "大象是大型草食性哺乳動物,主要以草和樹葉為食。"
+        },
+        {
+          "en": "The exhibit compares the teeth of ______ and carnivorous dinosaurs.",
+          "zh": "這場展覽比較了草食性與肉食性恐龍的牙齒構造。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "herculean",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "requiring great strength or effort:",
+      "defn_zh": "極為艱鉅的;大力士般的",
+      "root_note": "Hercules, hero of Greek and Roman mythology",
+      "sentences": [
+        {
+          "en": "Rebuilding the city after the earthquake was a ______ task.",
+          "zh": "地震後重建這座城市是一項極為艱鉅的任務。"
+        },
+        {
+          "en": "It took ______ effort to move the fallen tree from the road.",
+          "zh": "把這棵倒下的樹從路上移開需要極大的力氣。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "heresy",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "unbelief, blasphemy, lack of faith:",
+      "defn_zh": "異端/邪說",
+      "root_note": "hairesis (choice/sect)",
+      "sentences": [
+        {
+          "en": "Questioning the king's authority was once considered ______.",
+          "zh": "質疑國王的權威一度被視為異端邪說。"
+        },
+        {
+          "en": "The scientist's theory was branded ______ by the religious establishment.",
+          "zh": "這位科學家的理論被宗教機構斥為異端邪說。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "heretical",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "contrary to accepted religious or established beliefs:",
+      "defn_zh": "異端的;離經叛道的",
+      "root_note": "hairesis (choice, sect), from Greek",
+      "sentences": [
+        {
+          "en": "His ______ ideas nearly got him excommunicated.",
+          "zh": "他離經叛道的想法差點讓他被逐出教會。"
+        },
+        {
+          "en": "The scientist's theory was once considered ______ .",
+          "zh": "這位科學家的理論曾一度被視為異端邪說。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "hermaphrodite",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "an organism with both male and female reproductive organs:",
+      "defn_zh": "雌雄同體生物",
+      "root_note": "Hermaphroditos, figure from Greek mythology",
+      "sentences": [
+        {
+          "en": "The earthworm is a well-known example of a ______ .",
+          "zh": "蚯蚓是雌雄同體生物中一個廣為人知的例子。"
+        },
+        {
+          "en": "Ancient Greek mythology tells the story of the original ______ .",
+          "zh": "古希臘神話講述了最初雌雄同體者的故事。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "hermaphroditic",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "having both male and female reproductive organs:",
+      "defn_zh": "雌雄同體的",
+      "root_note": "Hermaphroditos, figure from Greek mythology",
+      "sentences": [
+        {
+          "en": "Many species of snails are naturally ______ .",
+          "zh": "許多種類的蝸牛天生就是雌雄同體。"
+        },
+        {
+          "en": "The biology textbook explains ______ reproduction in certain worms.",
+          "zh": "這本生物教科書解釋了某些蠕蟲的雌雄同體繁殖方式。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "heterodox",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "not conforming to accepted or orthodox beliefs:",
+      "defn_zh": "非正統的;異端的",
+      "root_note": "heteros (other) + doxa (opinion), from Greek",
+      "sentences": [
+        {
+          "en": "Her ______ views on economics drew criticism from mainstream scholars.",
+          "zh": "她非正統的經濟學觀點招致主流學者的批評。"
+        },
+        {
+          "en": "The church considered his teachings dangerously ______ .",
+          "zh": "教會認為他的教義極度非正統,具有危險性。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "heterodoxy",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "beliefs that do not conform to accepted standards or doctrine:",
+      "defn_zh": "異端;非正統觀點",
+      "root_note": "heteros (other) + doxa (opinion), from Greek",
+      "sentences": [
+        {
+          "en": "The philosopher was persecuted for his ______ .",
+          "zh": "這位哲學家因其非正統觀點而遭受迫害。"
+        },
+        {
+          "en": "Scientific progress often begins with a bit of ______ .",
+          "zh": "科學的進步往往從一點非正統的觀點開始。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "hiatus",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a break or gap in duration or continuity:",
+      "defn_zh": "中斷/間隙",
+      "root_note": "hiare (to gape)",
+      "sentences": [
+        {
+          "en": "The band announced a ______ from touring to focus on their families.",
+          "zh": "這支樂團宣布暫停巡演,以專注於陪伴家人。"
+        },
+        {
+          "en": "After a two-year ______, the popular show finally returned to television.",
+          "zh": "在停播兩年後,這部受歡迎的節目終於重返電視螢幕。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "hibernal",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "relating to or occurring in winter:",
+      "defn_zh": "冬季的",
+      "root_note": "hibernus (wintry), from Latin",
+      "sentences": [
+        {
+          "en": "The bear entered its ______ sleep in late November.",
+          "zh": "這隻熊在十一月底進入了牠的冬眠。"
+        },
+        {
+          "en": "Wildlife adapts to the region's harsh ______ conditions.",
+          "zh": "野生動物適應了該地區嚴酷的冬季環境。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "hibernate",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to spend a long period of time in a dormant or inactive state, especially during the winter:",
+      "defn_zh": "冬眠",
+      "root_note": "hibernus (of winter)",
+      "sentences": [
+        {
+          "en": "Bears ______ during the winter to conserve energy.",
+          "zh": "熊在冬天會冬眠以節省體力。"
+        },
+        {
+          "en": "Some frogs ______ by burying themselves in mud.",
+          "zh": "有些青蛙會把自己埋進泥土裡冬眠。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "hibernation",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a state of dormancy or deep sleep:",
+      "defn_zh": "冬眠(狀態)",
+      "root_note": "hibernus (of winter)",
+      "sentences": [
+        {
+          "en": "Many bear species go into ______ during the winter.",
+          "zh": "許多熊的物種會在冬天進入冬眠狀態。"
+        },
+        {
+          "en": "The scientists studied how animals prepare for ______.",
+          "zh": "科學家們研究了動物如何為冬眠做準備。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "hidalgo",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a Spanish nobleman of lower rank:",
+      "defn_zh": "西班牙下層貴族",
+      "root_note": "hijo de algo (son of something), from Spanish",
+      "sentences": [
+        {
+          "en": "The novel's protagonist is a proud but impoverished ______ .",
+          "zh": "這本小說的主角是一位驕傲卻貧困的下層貴族。"
+        },
+        {
+          "en": "Don Quixote imagines himself as a noble ______ on a quest.",
+          "zh": "唐吉訶德把自己想像成一位踏上冒險旅程的高貴下層貴族。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "hidebound",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "strongly-opinionated; narrow-mindedly stubborn",
+      "defn_zh": "頑固守舊的",
+      "root_note": "hide (animal skin) + bound (tightly bound, Old English; no classical root)",
+      "sentences": [
+        {
+          "en": "The ______ committee refused to consider any modern approaches.",
+          "zh": "這個思想守舊的委員會拒絕考慮任何現代化的做法。"
+        },
+        {
+          "en": "His ______ views on tradition made change nearly impossible.",
+          "zh": "他對傳統那種頑固守舊的看法,讓改變幾乎不可能發生。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "hiemal",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "relating to winter:",
+      "defn_zh": "冬天的",
+      "root_note": "hiems (winter), from Latin",
+      "sentences": [
+        {
+          "en": "The poem describes the stark beauty of the ______ landscape.",
+          "zh": "這首詩描繪了冬日景色蕭瑟的美。"
+        },
+        {
+          "en": "Many animals adapt their behavior for the ______ months.",
+          "zh": "許多動物會為了冬季月份調整牠們的行為。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "hierarch",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a leader within a religious or organizational hierarchy:",
+      "defn_zh": "教階領袖;上層權威",
+      "root_note": "hieros (sacred) + arkhein (to rule), from Greek",
+      "sentences": [
+        {
+          "en": "The ______ presided over the ceremony with great solemnity.",
+          "zh": "這位教階領袖以極其莊嚴的態度主持了這場儀式。"
+        },
+        {
+          "en": "Each regional ______ answered directly to the central council.",
+          "zh": "每一位地方教階領袖都直接向中央議會負責。"
+        }
+      ],
+      "category": null
+    }
+  ],
+  "family_options": {},
+  "fallback_options": {
+    "v.": [
+      {
+        "word": "abound",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to exist in great numbers:",
+        "defn_zh": "充滿"
+      },
+      {
+        "word": "abrogate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to deprive of legal force, to nullify:=abolish",
+        "defn_zh": "廢除/取消"
+      },
+      {
+        "word": "abjure",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to renounce, abstain from:",
+        "defn_zh": "發誓放棄/棄絕"
+      },
+      {
+        "word": "abbreviate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to shorten a word or phrase:",
+        "defn_zh": "縮寫;縮短"
+      },
+      {
+        "word": "abdicate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to give up a position, usually one of leadership:",
+        "defn_zh": "退位/放棄(職位)"
+      },
+      {
+        "word": "abduct",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to kidnap, take by force:",
+        "defn_zh": "綁架/劫持"
+      },
+      {
+        "word": "abhor",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to regard with disgust and hatred:",
+        "defn_zh": "憎惡/厭惡"
+      },
+      {
+        "word": "abnegate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to deny or renounce:",
+        "defn_zh": "放棄/克制"
+      },
+      {
+        "word": "abolish",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to formally put an end to a system, practice, or institution:",
+        "defn_zh": "廢除"
+      },
+      {
+        "word": "abort",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to give up on a half-finished project or effort:",
+        "defn_zh": "中止/放棄"
+      },
+      {
+        "word": "abrade",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to scrape or wear away by friction:",
+        "defn_zh": "磨損;擦傷"
+      },
+      {
+        "word": "abscond",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to sneak away and hide:",
+        "defn_zh": "潛逃/逃匿"
+      }
+    ],
+    "adj.": [
+      {
+        "word": "abortive",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "fruitless, failing:",
+        "defn_zh": "失敗的/夭折的"
+      },
+      {
+        "word": "abstemious",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "moderate in eating or drinking:",
+        "defn_zh": "飲食有節制的"
+      },
+      {
+        "word": "abhorrent",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "detestable, despised:",
+        "defn_zh": "令人厭惡的"
+      },
+      {
+        "word": "absurd",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "ridiculous:",
+        "defn_zh": "荒謬的"
+      },
+      {
+        "word": "aberrant",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "deviating from what is normal or expected:",
+        "defn_zh": "異常的;脫軌的"
+      },
+      {
+        "word": "abject",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "wretched, pitiful:",
+        "defn_zh": "卑賤的/淒慘的"
+      },
+      {
+        "word": "abominable",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "causing moral revulsion; extremely unpleasant:",
+        "defn_zh": "可憎的;惡劣的"
+      },
+      {
+        "word": "abounding",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "existing in large numbers or amounts:",
+        "defn_zh": "大量存在的;豐富的"
+      },
+      {
+        "word": "abrasive",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "showing little concern for others; harsh:",
+        "defn_zh": "粗暴的/刺耳的"
+      },
+      {
+        "word": "abrupt",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "sudden or unexpected; brief and curt in manner:",
+        "defn_zh": "突然的/唐突的"
+      },
+      {
+        "word": "abstract",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "existing purely in the mind; not representing actual reality:",
+        "defn_zh": "抽象的"
+      },
+      {
+        "word": "abstruse",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "hard to comprehend:",
+        "defn_zh": "深奧難懂的"
+      }
+    ],
+    "n.": [
+      {
+        "word": "aversion",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "strong dislike, opposition:",
+        "defn_zh": "厭惡/反感"
+      },
+      {
+        "word": "aberration",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "something that differs from the norm:",
+        "defn_zh": "異常/脫軌"
+      },
+      {
+        "word": "abjection",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a state of complete misery, hopelessness, or degradation:",
+        "defn_zh": "卑賤;悲慘狀態"
+      },
+      {
+        "word": "abjuration",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the solemn renunciation of a belief, cause, or claim:",
+        "defn_zh": "公開放棄;誓絕"
+      },
+      {
+        "word": "ablution",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the act of washing oneself, especially as part of a religious ritual:",
+        "defn_zh": "沐浴;淨身儀式"
+      },
+      {
+        "word": "abnegation",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "denial of comfort to oneself:",
+        "defn_zh": "自我克制/放棄"
+      },
+      {
+        "word": "abomination",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "something that causes disgust or hatred:",
+        "defn_zh": "可憎之事;令人厭惡的東西"
+      },
+      {
+        "word": "abridgement",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a shortened version of a book or other written work:",
+        "defn_zh": "節略本;縮減版"
+      },
+      {
+        "word": "absolution",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "freedom from blame, guilt, sin:",
+        "defn_zh": "赦免/免罪"
+      },
+      {
+        "word": "abstemiousness",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "moderation or self-restraint, especially in eating and drinking:",
+        "defn_zh": "節制;克己"
+      },
+      {
+        "word": "abstinence",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the practice of restraining oneself from something enjoyable, especially food, alcohol, or sex:",
+        "defn_zh": "節制;戒絕"
+      },
+      {
+        "word": "avocation",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a hobby or minor occupation apart from one's main career:",
+        "defn_zh": "副業;業餘愛好"
+      }
+    ],
+    "adv.": [
+      {
+        "word": "accordingly",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in a manner that fits the circumstances; consequently:",
+        "defn_zh": "相應地;因此"
+      },
+      {
+        "word": "inadvertently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "unintentionally or by accident:",
+        "defn_zh": "無意間/不小心地"
+      },
+      {
+        "word": "consequently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "as a result; therefore:",
+        "defn_zh": "因此;結果"
+      },
+      {
+        "word": "contemptuously",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "without respect; in a disdainful manner:",
+        "defn_zh": "輕蔑地"
+      },
+      {
+        "word": "involuntarily",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "done without conscious control:",
+        "defn_zh": "不由自主地"
+      },
+      {
+        "word": "cordially",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in a warm or friendly manner:",
+        "defn_zh": "誠摯地/友好地"
+      },
+      {
+        "word": "ipso facto",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "by that very fact or act:",
+        "defn_zh": "事實上;因此"
+      },
+      {
+        "word": "en passant",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in passing; incidentally:",
+        "defn_zh": "順帶一提地;偶然地"
+      },
+      {
+        "word": "regardless",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "despite the prevailing circumstances; without being deterred:",
+        "defn_zh": "不管怎樣;儘管如此"
+      },
+      {
+        "word": "subsequently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "afterward; following in time or order:",
+        "defn_zh": "隨後;其後"
+      },
+      {
+        "word": "aside",
+        "pos": "adv./n.",
+        "pos_key": "adv.",
+        "defn_en": "to or on one side; a remark not meant to be heard by everyone:",
+        "defn_zh": "在旁邊;旁白"
+      },
+      {
+        "word": "vice versa",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "with the order or meaning reversed; conversely:",
+        "defn_zh": "反之亦然"
+      }
+    ],
+    "other": [
+      {
+        "word": "（此批單字中，暫無符合此字根/字首的單字）",
+        "pos": "",
+        "pos_key": "other",
+        "defn_en": "",
+        "defn_zh": ""
+      }
+    ],
+    "prep./adv.": [
+      {
+        "word": "besides",
+        "pos": "prep./adv.",
+        "pos_key": "prep./adv.",
+        "defn_en": "in addition to; furthermore:",
+        "defn_zh": "除...之外;此外"
+      }
+    ],
+    "phrasalv.": [
+      {
+        "word": "egg on",
+        "pos": "phrasal v.",
+        "pos_key": "phrasalv.",
+        "defn_en": "to encourage someone to do something, often risky:",
+        "defn_zh": "慫恿;鼓動"
+      },
+      {
+        "word": "carry out",
+        "pos": "phrasal v.",
+        "pos_key": "phrasalv.",
+        "defn_en": "to perform or complete a task:",
+        "defn_zh": "執行；完成"
+      },
+      {
+        "word": "look into",
+        "pos": "phrasal v.",
+        "pos_key": "phrasalv.",
+        "defn_en": "to investigate or examine something:",
+        "defn_zh": "調查；研究"
+      },
+      {
+        "word": "put off",
+        "pos": "phrasal v.",
+        "pos_key": "phrasalv.",
+        "defn_en": "to postpone something until a later time:",
+        "defn_zh": "延後；推遲"
+      },
+      {
+        "word": "rule out",
+        "pos": "phrasal v.",
+        "pos_key": "phrasalv.",
+        "defn_en": "to eliminate something as a possibility:",
+        "defn_zh": "排除（可能性）"
+      }
+    ],
+    "abbr.": [
+      {
+        "word": "etc.",
+        "pos": "abbr.",
+        "pos_key": "abbr.",
+        "defn_en": "and other similar things (abbreviation of et cetera):",
+        "defn_zh": "等等(et cetera的縮寫)"
+      },
+      {
+        "word": "e.g.",
+        "pos": "abbr.",
+        "pos_key": "abbr.",
+        "defn_en": "for example:",
+        "defn_zh": "例如"
+      },
+      {
+        "word": "i.e.",
+        "pos": "abbr.",
+        "pos_key": "abbr.",
+        "defn_en": "that is; in other words:",
+        "defn_zh": "也就是說；換言之"
+      },
+      {
+        "word": "approx.",
+        "pos": "abbr.",
+        "pos_key": "abbr.",
+        "defn_en": "approximately; about but not exactly:",
+        "defn_zh": "大約；約略"
+      },
+      {
+        "word": "vs.",
+        "pos": "abbr.",
+        "pos_key": "abbr.",
+        "defn_en": "versus; against or in comparison with:",
+        "defn_zh": "對；與……相比"
+      }
+    ],
+    "interj.": [
+      {
+        "word": "fiddledeedee",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "an exclamation expressing dismissal of something as nonsense:",
+        "defn_zh": "廢話!(表示不屑一顧)"
+      },
+      {
+        "word": "gesundheit",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "an expression said to someone who has just sneezed:",
+        "defn_zh": "保重(打噴嚏後的祝福語)"
+      },
+      {
+        "word": "alas",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "used to express sadness, regret, or disappointment:",
+        "defn_zh": "唉；哎呀（表示悲傷或遺憾）"
+      },
+      {
+        "word": "bravo",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "used to express approval or admiration:",
+        "defn_zh": "好極了；太棒了"
+      },
+      {
+        "word": "ouch",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "used to express sudden pain:",
+        "defn_zh": "哎喲（表示疼痛）"
+      },
+      {
+        "word": "phew",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "used to express relief, fatigue, or surprise:",
+        "defn_zh": "呼；唷（表示鬆一口氣、疲累或驚訝）"
+      }
+    ],
+    "prep.": [
+      {
+        "word": "via",
+        "pos": "prep.",
+        "pos_key": "prep.",
+        "defn_en": "by way of; passing through:",
+        "defn_zh": "經由;透過"
+      },
+      {
+        "word": "amid",
+        "pos": "prep.",
+        "pos_key": "prep.",
+        "defn_en": "in the middle of or surrounded by:",
+        "defn_zh": "在……之中；被……圍繞"
+      },
+      {
+        "word": "beneath",
+        "pos": "prep.",
+        "pos_key": "prep.",
+        "defn_en": "in or to a lower position than something:",
+        "defn_zh": "在……下方"
+      },
+      {
+        "word": "despite",
+        "pos": "prep.",
+        "pos_key": "prep.",
+        "defn_en": "without being affected or prevented by:",
+        "defn_zh": "儘管；不管"
+      },
+      {
+        "word": "throughout",
+        "pos": "prep.",
+        "pos_key": "prep.",
+        "defn_en": "in every part of or during the whole period of:",
+        "defn_zh": "遍及；貫穿整段期間"
+      }
+    ]
+  }
+}
