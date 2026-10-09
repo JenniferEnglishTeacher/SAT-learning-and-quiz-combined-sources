@@ -1,0 +1,26 @@
+{
+  "phrasal v.": [
+    {"word": "carry out", "pos": "phrasal v.", "defn_en": "to perform or complete a task:", "defn_zh": "執行；完成"},
+    {"word": "look into", "pos": "phrasal v.", "defn_en": "to investigate or examine something:", "defn_zh": "調查；研究"},
+    {"word": "put off", "pos": "phrasal v.", "defn_en": "to postpone something until a later time:", "defn_zh": "延後；推遲"},
+    {"word": "rule out", "pos": "phrasal v.", "defn_en": "to eliminate something as a possibility:", "defn_zh": "排除（可能性）"}
+  ],
+  "abbr.": [
+    {"word": "e.g.", "pos": "abbr.", "defn_en": "for example:", "defn_zh": "例如"},
+    {"word": "i.e.", "pos": "abbr.", "defn_en": "that is; in other words:", "defn_zh": "也就是說；換言之"},
+    {"word": "approx.", "pos": "abbr.", "defn_en": "approximately; about but not exactly:", "defn_zh": "大約；約略"},
+    {"word": "vs.", "pos": "abbr.", "defn_en": "versus; against or in comparison with:", "defn_zh": "對；與……相比"}
+  ],
+  "interj.": [
+    {"word": "alas", "pos": "interj.", "defn_en": "used to express sadness, regret, or disappointment:", "defn_zh": "唉；哎呀（表示悲傷或遺憾）"},
+    {"word": "bravo", "pos": "interj.", "defn_en": "used to express approval or admiration:", "defn_zh": "好極了；太棒了"},
+    {"word": "ouch", "pos": "interj.", "defn_en": "used to express sudden pain:", "defn_zh": "哎喲（表示疼痛）"},
+    {"word": "phew", "pos": "interj.", "defn_en": "used to express relief, fatigue, or surprise:", "defn_zh": "呼；唷（表示鬆一口氣、疲累或驚訝）"}
+  ],
+  "prep.": [
+    {"word": "amid", "pos": "prep.", "defn_en": "in the middle of or surrounded by:", "defn_zh": "在……之中；被……圍繞"},
+    {"word": "beneath", "pos": "prep.", "defn_en": "in or to a lower position than something:", "defn_zh": "在……下方"},
+    {"word": "despite", "pos": "prep.", "defn_en": "without being affected or prevented by:", "defn_zh": "儘管；不管"},
+    {"word": "throughout", "pos": "prep.", "defn_en": "in every part of or during the whole period of:", "defn_zh": "遍及；貫穿整段期間"}
+  ]
+}

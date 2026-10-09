@@ -13,6 +13,7 @@ DATA_DIR, BATCH_DIR = ROOT / "data", ROOT / "data" / "batches"
 INDEX_PATH, PROGRESS_PATH = DATA_DIR / "batches-index.json", DATA_DIR / "progress.json"
 OVERRIDE_DIR = ROOT / "source" / "overrides"
 FAMILY_OPTIONS_PATH = ROOT / "source" / "family-options.json"
+GLOBAL_FALLBACK_OPTIONS_PATH = ROOT / "source" / "global-fallback-options.json"
 
 def clean(value): return "" if value is None else str(value).strip()
 def split_lines(value): return [x.strip() for x in clean(value).replace("\r\n", "\n").split("\n") if x.strip()]
@@ -111,6 +112,20 @@ def fallbacks(records,batch_words):
         key,word=r["pos_key"],r["word"].casefold()
         if word in current or word in seen[key] or len(pools[key])>=12: continue
         seen[key].add(word); pools[key].append({k:r[k] for k in ("word","pos","pos_key","defn_en","defn_zh")})
+    if GLOBAL_FALLBACK_OPTIONS_PATH.exists():
+        config=json.loads(GLOBAL_FALLBACK_OPTIONS_PATH.read_text(encoding="utf-8"))
+        for pos,items in config.items():
+            key=normalize_pos(pos)
+            for item in items:
+                word=clean(item.get("word")).casefold()
+                if not word or word in current or word in seen[key] or len(pools[key])>=12: continue
+                if normalize_pos(item.get("pos")) != key:
+                    raise ValueError(f"Global fallback {item.get('word')} has the wrong part of speech")
+                seen[key].add(word)
+                pools[key].append({
+                    "word":clean(item.get("word")),"pos":clean(item.get("pos")),"pos_key":key,
+                    "defn_en":clean(item.get("defn_en")),"defn_zh":clean(item.get("defn_zh")),
+                })
     return dict(pools)
 
 def family_options(batch):
