@@ -1,0 +1,1368 @@
+{
+  "id": "u-01-wreak-havoc-adverbiage",
+  "part": "unclassified",
+  "part_label": "未歸類 Unclassified",
+  "name": "Unclassified 01 ((wreak) havoc–adverbiage)",
+  "subtitle": "Alphabetical batch",
+  "count": 50,
+  "words": [
+    {
+      "word": "(wreak) havoc",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "ruin:",
+      "defn_zh": "大破壞/浩劫",
+      "root_note": "hafoc (pillage/devastation)",
+      "sentences": [
+        {
+          "en": "The hurricane wreaked ______ on the small coastal town.",
+          "zh": "這場颶風對這座沿海小鎮造成了嚴重的破壞。"
+        },
+        {
+          "en": "A single computer virus can wreak ______ across an entire network.",
+          "zh": "一個電腦病毒就能對整個網路系統造成巨大的破壞。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "abandonment",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "the act of giving something up completely; the state of being deserted:",
+      "defn_zh": "遺棄;放棄",
+      "root_note": "a- (to) + bandon (control, from Old French)",
+      "sentences": [
+        {
+          "en": "The old lighthouse showed years of ______ , its windows shattered and its door hanging open.",
+          "zh": "那座舊燈塔顯露出多年遭遺棄的痕跡,窗戶破碎,大門敞開。"
+        },
+        {
+          "en": "Her sudden ______ of the project left the whole team scrambling to finish it on time.",
+          "zh": "她突然放棄這個計畫,讓整個團隊手忙腳亂地想辦法準時完成。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "abate",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to become less active, intense, or great:",
+      "defn_zh": "減弱/緩和",
+      "root_note": "",
+      "sentences": [
+        {
+          "en": "As I began my speech, my feelings of nervousness quickly ______.",
+          "zh": "我開始演講時,緊張的情緒很快就減弱消退了。"
+        },
+        {
+          "en": "The storm is expected to ______ by early morning.",
+          "zh": "預計這場暴風雨將在清晨前逐漸減弱。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "abattoir",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a slaughterhouse:",
+      "defn_zh": "屠宰場",
+      "root_note": "abattre (to strike down, from French)",
+      "sentences": [
+        {
+          "en": "The documentary followed a truckload of cattle from the farm to the ______.",
+          "zh": "這部紀錄片跟拍一車牛隻,從農場一路到屠宰場。"
+        },
+        {
+          "en": "Local residents complained about the smell drifting from the ______ down the road.",
+          "zh": "當地居民抱怨從路那頭的屠宰場飄來的氣味。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "abecedarian",
+      "pos": "adj./n.",
+      "pos_key": "adj.",
+      "defn_en": "arranged alphabetically; a person learning the alphabet or basics of a subject:",
+      "defn_zh": "按字母順序排列的;初學者",
+      "root_note": "abecedarius (from the letters a, b, c, d)",
+      "sentences": [
+        {
+          "en": "The teacher handed out an ______ list of vocabulary words for the beginners.",
+          "zh": "老師發給初學者一份按字母順序排列的單字表。"
+        },
+        {
+          "en": "As an ______ in coding, he struggled with even the simplest commands.",
+          "zh": "身為程式設計的初學者,他連最簡單的指令都感到吃力。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "abet",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to aid, help, encourage:",
+      "defn_zh": "教唆/慫恿",
+      "root_note": "",
+      "sentences": [
+        {
+          "en": "The getaway driver was charged with helping to ______ the robbery.",
+          "zh": "這名接應逃跑的司機被控協助教唆這起搶案。"
+        },
+        {
+          "en": "She refused to ______ her friend's plan to skip school.",
+          "zh": "她拒絕協助朋友蹺課的計畫。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "abide",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to put up with:",
+      "defn_zh": "忍受/遵守",
+      "root_note": "",
+      "sentences": [
+        {
+          "en": "All members must ______ by the club's strict code of conduct.",
+          "zh": "所有會員都必須遵守這個社團嚴格的行為準則。"
+        },
+        {
+          "en": "I cannot ______ people who are constantly late for meetings.",
+          "zh": "我無法忍受開會總是遲到的人。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "ablaze",
+      "pos": "adj./adv.",
+      "pos_key": "adj.",
+      "defn_en": "burning fiercely; brightly lit or full of strong emotion:",
+      "defn_zh": "熊熊燃燒的;閃耀的",
+      "root_note": "a- (in a state of) + blaze (fire)",
+      "sentences": [
+        {
+          "en": "Within minutes the dry brush was ______ , sending smoke high into the sky.",
+          "zh": "短短幾分鐘,乾燥的灌木叢就熊熊燃燒起來,濃煙直衝天際。"
+        },
+        {
+          "en": "Her eyes were ______ with excitement when she opened the acceptance letter.",
+          "zh": "打開錄取信的那一刻,她的眼睛因興奮而閃閃發亮。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "able",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "having the power, skill, or means to do something; competent:",
+      "defn_zh": "有能力的;能幹的",
+      "root_note": "habilis (easily handled, from Latin)",
+      "sentences": [
+        {
+          "en": "Despite the language barrier, she proved ______ to lead the entire negotiation.",
+          "zh": "儘管有語言隔閡,她仍證明自己有能力主導整場談判。"
+        },
+        {
+          "en": "The company looks for candidates who are ______ to work independently under pressure.",
+          "zh": "這家公司尋找能在壓力下獨立工作的人才。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "ablutophobia",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "an abnormal fear of washing or bathing:",
+      "defn_zh": "洗浴恐懼症",
+      "root_note": "ablutio (a washing) + phobos (fear)",
+      "sentences": [
+        {
+          "en": "The toddler's tantrums at bath time were extreme enough that his mother wondered about mild ______.",
+          "zh": "小男孩洗澡時鬧得特別兇,媽媽甚至懷疑他有輕微的洗浴恐懼症。"
+        },
+        {
+          "en": "Severe ______ can make even routine hygiene feel like an ordeal.",
+          "zh": "嚴重的洗浴恐懼症會讓連基本的清潔都變成一場煎熬。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "abode",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a place where one lives; a home or dwelling:",
+      "defn_zh": "住所",
+      "root_note": "a- (on) + bodian (to wait)",
+      "sentences": [
+        {
+          "en": "After years of traveling, he finally found a permanent ______ in the countryside.",
+          "zh": "經過多年的漂泊,他終於在鄉間找到了永久的住所。"
+        },
+        {
+          "en": "The old castle has been the family's ______ for over three centuries.",
+          "zh": "這座古堡三百多年來一直是這個家族的住所。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "aboveboard",
+      "pos": "adj./adv.",
+      "pos_key": "adj.",
+      "defn_en": "honest and open; without any attempt at deception:",
+      "defn_zh": "光明正大的;誠實的",
+      "root_note": "above + board (table, i.e. not hiding cards under the table)",
+      "sentences": [
+        {
+          "en": "The auditor confirmed that every transaction had been completely ______.",
+          "zh": "審計人員確認每一筆交易都完全光明正大。"
+        },
+        {
+          "en": "She insisted on keeping the negotiations ______ , with no secret side deals.",
+          "zh": "她堅持整個談判過程要光明正大,不搞任何私下的秘密協議。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "abreast",
+      "pos": "adv.",
+      "pos_key": "adv.",
+      "defn_en": "side by side and facing the same way; up to date with:",
+      "defn_zh": "並肩地;跟上(最新資訊)",
+      "root_note": "a- (on) + breast",
+      "sentences": [
+        {
+          "en": "The two cyclists rode ______ , chatting easily despite the steep climb.",
+          "zh": "兩位騎士並肩騎行,儘管爬坡陡峭仍談笑自若。"
+        },
+        {
+          "en": "She reads industry journals every week to stay ______ of new regulations.",
+          "zh": "她每週閱讀業界期刊,以隨時掌握最新法規。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "abridge",
+      "pos": "vb.",
+      "pos_key": "v.",
+      "defn_en": "shorten",
+      "defn_zh": "刪節；縮短",
+      "root_note": "a- (to) + breviare (to shorten)",
+      "sentences": [
+        {
+          "en": "The publisher decided to ______ the novel for younger readers.",
+          "zh": "出版社決定為年輕讀者刪節這部小說。"
+        },
+        {
+          "en": "The lecture had to be ______d due to time constraints.",
+          "zh": "由於時間有限,這場演講不得不被縮短。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "abundance",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a large quantity of something; more than enough:",
+      "defn_zh": "豐富/充足",
+      "root_note": "undare (to overflow)",
+      "sentences": [
+        {
+          "en": "The region is known for its ______ of natural resources.",
+          "zh": "這個地區以其豐富的天然資源而聞名。"
+        },
+        {
+          "en": "There was an ______ of fresh fruit at the market this summer.",
+          "zh": "今年夏天市場上有豐富的新鮮水果。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "abundant",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "existing or available in large quantities:",
+      "defn_zh": "豐富的/充足的",
+      "root_note": "undare (to overflow)",
+      "sentences": [
+        {
+          "en": "The region is known for its ______ natural resources.",
+          "zh": "這個地區以豐富的天然資源聞名。"
+        },
+        {
+          "en": "Rainfall was especially ______ this year, filling the reservoirs.",
+          "zh": "今年降雨特別豐沛,使水庫蓄水充足。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "abysmal",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "extremely bad:",
+      "defn_zh": "糟糕透頂的",
+      "root_note": "abyssos (bottomless)",
+      "sentences": [
+        {
+          "en": "I got an ______ grade on my research paper!",
+          "zh": "我的研究報告拿到了一個糟糕透頂的成績!"
+        },
+        {
+          "en": "The team's performance this season has been simply ______.",
+          "zh": "這支球隊本季的表現簡直糟糕透頂。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "academia",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "the environment or community of scholars and researchers:",
+      "defn_zh": "學術界",
+      "root_note": "Akademeia (Plato's school, from Greek)",
+      "sentences": [
+        {
+          "en": "After years in ______ , she left the university to start her own company.",
+          "zh": "在學術界待了多年後,她離開大學創辦了自己的公司。"
+        },
+        {
+          "en": "Debate over the new theory has consumed ______ for the past decade.",
+          "zh": "這項新理論的爭論已讓學術界爭吵了十年之久。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "acceptable",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "satisfactory or permissible:",
+      "defn_zh": "可接受的",
+      "root_note": "",
+      "sentences": [
+        {
+          "en": "The teacher deemed Sara's late assignment ______.",
+          "zh": "老師認為莎拉遲交的作業是可以接受的。"
+        },
+        {
+          "en": "It is not ______ to speak to customers in that manner.",
+          "zh": "用那種方式跟顧客說話是不可接受的。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "accidental",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "happening by chance:",
+      "defn_zh": "意外的/偶然的",
+      "root_note": "",
+      "sentences": [
+        {
+          "en": "The oil spill was purely ______.",
+          "zh": "這起漏油事件純屬意外。"
+        },
+        {
+          "en": "Their meeting at the conference was completely ______.",
+          "zh": "他們在會議上的相遇完全是偶然的。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "accoucheur",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a male midwife or obstetrician:",
+      "defn_zh": "男助產士;男產科醫生",
+      "root_note": "accoucher (to assist at childbirth, from French)",
+      "sentences": [
+        {
+          "en": "In eighteenth-century France, a fashionable ______ might attend the births of noble families.",
+          "zh": "在十八世紀的法國,一位時髦的男助產士可能會為貴族家庭接生。"
+        },
+        {
+          "en": "The novel's plot hinges on a scandal involving the village ______.",
+          "zh": "這部小說的情節,圍繞著村裡那位男助產士引發的醜聞展開。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "accuracy",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "the quality of being correct or precise:",
+      "defn_zh": "準確性",
+      "root_note": "",
+      "sentences": [
+        {
+          "en": "The ______ of the intern's report was impressive.",
+          "zh": "這位實習生報告的準確性令人印象深刻。"
+        },
+        {
+          "en": "Scientists strive for the highest possible ______ in their measurements.",
+          "zh": "科學家們致力於在測量中達到最高的準確度。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "acerbic",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "biting, bitter in tone or taste:",
+      "defn_zh": "尖酸刻薄的",
+      "root_note": "acerbus (bitter, sour)",
+      "sentences": [
+        {
+          "en": "The critic was known for his ______ reviews of new restaurants.",
+          "zh": "這位評論家以對新餐廳撰寫尖酸刻薄的評論而聞名。"
+        },
+        {
+          "en": "Her ______ wit often left her opponents speechless.",
+          "zh": "她尖酸的機智言辭經常讓對手啞口無言。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "acerbity",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "sharpness or bitterness of tone, temper, or expression:",
+      "defn_zh": "尖酸;刻薄",
+      "root_note": "acerbus (harsh, from Latin)",
+      "sentences": [
+        {
+          "en": "The critic reviewed the film with characteristic ______ , calling it \"a waste of celluloid.\"",
+          "zh": "這位影評人一如既往地尖酸刻薄,批評這部電影「浪費了膠捲」。"
+        },
+        {
+          "en": "Years of disappointment had left a trace of ______ in her voice.",
+          "zh": "多年的失望在她的語氣中留下了一絲刻薄。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "acidic",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "having the properties of an acid; sharply critical:",
+      "defn_zh": "酸性的;尖刻的",
+      "root_note": "acidus (sour)",
+      "sentences": [
+        {
+          "en": "The lake's ______ water killed off most of the native fish population.",
+          "zh": "湖水的酸性殺死了大部分原生魚類。"
+        },
+        {
+          "en": "His ______ comments about her cooking ruined the whole dinner party.",
+          "zh": "他對她廚藝尖酸刻薄的評論,毀了整場晚宴。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "acidulous",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "somewhat sour in taste or manner; sharp-tongued:",
+      "defn_zh": "略帶酸味的;尖酸的",
+      "root_note": "acidulus (slightly sour, from Latin)",
+      "sentences": [
+        {
+          "en": "The lemonade had an ______ tang that made her pucker.",
+          "zh": "這杯檸檬水帶著微酸的味道,讓她皺起了臉。"
+        },
+        {
+          "en": "His ______ wit made him a feared guest at dinner parties.",
+          "zh": "他尖酸刻薄的機智,讓他成為晚宴上令人生畏的賓客。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "acmatic",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "relating to the acme, or highest point, of development:",
+      "defn_zh": "頂點的;鼎盛期的",
+      "root_note": "akme (point, highest point, from Greek)",
+      "sentences": [
+        {
+          "en": "Historians consider the third century to be the empire's ______ period.",
+          "zh": "歷史學家認為第三世紀是這個帝國的鼎盛時期。"
+        },
+        {
+          "en": "The coach believes the team is entering its ______ phase this season.",
+          "zh": "教練認為球隊本季正邁入巔峰狀態。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "acme",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "peak, pinnacle, zenith:",
+      "defn_zh": "頂點/極點",
+      "root_note": "akme (highest point)",
+      "sentences": [
+        {
+          "en": "Winning the gold medal represented the ______ of her athletic career.",
+          "zh": "贏得金牌代表了她運動生涯的頂峰。"
+        },
+        {
+          "en": "The company reached the ______ of its success before the market crashed.",
+          "zh": "這家公司在市場崩盤前達到了成功的巔峰。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "acolyte",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a person assisting a priest in a religious service; a devoted follower:",
+      "defn_zh": "助手;追隨者",
+      "root_note": "akolouthos (follower, from Greek)",
+      "sentences": [
+        {
+          "en": "As a young ______ , he lit the candles before every Sunday mass.",
+          "zh": "年少時,他擔任助祭,每個週日彌撒前負責點燃蠟燭。"
+        },
+        {
+          "en": "The professor was surrounded by ______ eager to hear his every theory.",
+          "zh": "這位教授身邊圍繞著渴望聆聽他每個理論的追隨者。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "acouasm",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "an imaginary ringing or buzzing sound in the ear:",
+      "defn_zh": "幻聽聲響;耳鳴幻覺",
+      "root_note": "akouein (to hear, from Greek)",
+      "sentences": [
+        {
+          "en": "After the concert, he experienced a strange ______ that lasted for hours.",
+          "zh": "音樂會結束後,他經歷了一種奇怪的耳鳴幻覺,持續了好幾個小時。"
+        },
+        {
+          "en": "The patient described the ______ as a faint, high-pitched whine.",
+          "zh": "病人形容那種幻聽聲響是一種微弱、高頻的嗡嗡聲。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "acoustic",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "relating to sound or the sense of hearing; not electronically amplified:",
+      "defn_zh": "聲學的;原聲的",
+      "root_note": "akoustikos (relating to hearing, from Greek)",
+      "sentences": [
+        {
+          "en": "The concert hall was praised for its excellent ______ design.",
+          "zh": "這座音樂廳因出色的聲學設計而備受讚譽。"
+        },
+        {
+          "en": "The band surprised fans with a stripped-down, ______ version of their hit song.",
+          "zh": "樂團以精簡的原聲版本演奏他們的熱門歌曲,讓歌迷驚喜不已。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "acoustics",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "the quality of sound, pertaining to how it is heard based on the quality and structure of the room",
+      "defn_zh": "音響效果；聲學",
+      "root_note": "akouein (to hear, Greek)",
+      "sentences": [
+        {
+          "en": "The concert hall was designed with excellent ______ for orchestral music.",
+          "zh": "這座音樂廳的設計具有絕佳的音響效果,適合演奏管弦樂。"
+        },
+        {
+          "en": "Poor ______ in the gym made the speech hard to hear.",
+          "zh": "這座體育館的音響效果不佳,讓這場演講很難聽清楚。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "acrid",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "bitter, harsh",
+      "defn_zh": "刺鼻的；刻薄的",
+      "root_note": "acer/acris (sharp/bitter)",
+      "sentences": [
+        {
+          "en": "An ______ smell of smoke filled the air after the fire.",
+          "zh": "火災過後,空氣中瀰漫著一股刺鼻的煙味。"
+        },
+        {
+          "en": "His ______ comments left a bitter taste in everyone's mouth.",
+          "zh": "他刻薄的言論讓每個人心裡都留下了不快的餘味。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "acrimonious",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "bitter:",
+      "defn_zh": "嚴厲的/辛辣的",
+      "root_note": "acer (sharp) + -monious (state of)",
+      "sentences": [
+        {
+          "en": "The couple went through an ______ divorce that lasted nearly two years.",
+          "zh": "這對夫妻經歷了一場長達近兩年、爭執激烈的離婚訴訟。"
+        },
+        {
+          "en": "The meeting became ______ when the two managers began shouting at each other.",
+          "zh": "當兩位經理開始互相大吼時,這場會議變得劍拔弩張。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "acrimony",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "bitterness, discord:",
+      "defn_zh": "尖刻/不和",
+      "root_note": "acer (sharp, bitter)",
+      "sentences": [
+        {
+          "en": "The divorce proceedings were marked by great ______ between the couple.",
+          "zh": "這對夫妻的離婚訴訟過程充滿了尖刻的敵意。"
+        },
+        {
+          "en": "Years of ______ between the two business partners finally ended their friendship.",
+          "zh": "多年的不和讓這兩位生意夥伴的友誼最終破裂。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "acroamatic",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "intended for or communicated to an inner circle of disciples; esoteric:",
+      "defn_zh": "秘傳的;僅限內部傳授的",
+      "root_note": "akroasthai (to listen, from Greek)",
+      "sentences": [
+        {
+          "en": "Aristotle reportedly reserved his most difficult, ______ lectures for advanced students only.",
+          "zh": "據傳亞里斯多德把最艱深、僅限內部傳授的講座,留給程度較高的學生。"
+        },
+        {
+          "en": "The society's ______ teachings were never written down for outsiders to read.",
+          "zh": "這個社團秘傳的教義從未寫下,外人無從得知。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "acrophobia",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "an extreme or irrational fear of heights:",
+      "defn_zh": "懼高症",
+      "root_note": "akron (peak) + phobos (fear), from Greek",
+      "sentences": [
+        {
+          "en": "Her ______ made the glass elevator ride unbearable.",
+          "zh": "她的懼高症讓這趟玻璃電梯之旅變得難以忍受。"
+        },
+        {
+          "en": "He avoided the observation deck entirely because of his ______ .",
+          "zh": "他因為懼高症而完全避開這座觀景台。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "acumen",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "keen insight:",
+      "defn_zh": "敏銳/精明",
+      "root_note": "acuere (to sharpen)",
+      "sentences": [
+        {
+          "en": "Her sharp business ______ helped the startup succeed within its first year.",
+          "zh": "她敏銳的商業頭腦幫助這家新創公司在第一年就取得了成功。"
+        },
+        {
+          "en": "The detective's investigative ______ allowed him to solve the case quickly.",
+          "zh": "這位偵探敏銳的辦案能力讓他迅速偵破了這起案件。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "acute",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "sharp, keen, severe:",
+      "defn_zh": "敏銳的/急性的",
+      "root_note": "acuere (to sharpen)",
+      "sentences": [
+        {
+          "en": "She felt an ______ pain in her side after the fall.",
+          "zh": "跌倒之後,她感到側腰一陣劇烈的疼痛。"
+        },
+        {
+          "en": "He has an ______ sense of hearing that lets him detect the faintest sounds.",
+          "zh": "他擁有敏銳的聽覺,能夠察覺最細微的聲音。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "acute accent",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a diacritical mark (´) placed over a vowel, as in café:",
+      "defn_zh": "尖音符號(´)",
+      "root_note": "acutus (sharp, from Latin) + accentus (accent)",
+      "sentences": [
+        {
+          "en": "The word \"résumé\" is written with two ______ marks in French.",
+          "zh": "法文中 résumé 這個字帶有兩個尖音符號。"
+        },
+        {
+          "en": "She forgot to add the ______ over the e in \"café,\" so the spell-checker flagged it.",
+          "zh": "她忘了在 café 的 e 上方加尖音符號,結果被拼字檢查程式標記出來。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "ad infinitum",
+      "pos": "adv.",
+      "pos_key": "adv.",
+      "defn_en": "again and again in the same way; endlessly:",
+      "defn_zh": "無限地;沒完沒了地",
+      "root_note": "ad (to) + infinitum (the infinite, from Latin)",
+      "sentences": [
+        {
+          "en": "The toddler repeated the same question ______ until his mother finally answered.",
+          "zh": "那個小孩不停重複問同一個問題,直到媽媽終於回答為止。"
+        },
+        {
+          "en": "Mathematicians can, in theory, extend the sequence of numbers ______.",
+          "zh": "理論上,數學家可以將這串數列無限延伸下去。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "adage",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a traditional saying expressing a general truth:",
+      "defn_zh": "格言;諺語",
+      "root_note": "adagium (proverb, from Latin)",
+      "sentences": [
+        {
+          "en": "Her grandmother had an ______ for every occasion, however small.",
+          "zh": "她的祖母無論遇到什麼場合,都有一句相應的格言。"
+        },
+        {
+          "en": "The old ______ \"slow and steady wins the race\" proved true once again.",
+          "zh": "「穩紮穩打終能致勝」這句老諺語再次得到印證。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "adamant",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "unyielding, inflexible:",
+      "defn_zh": "固執的/堅定不移的",
+      "root_note": "a- (not) + daman (to tame/subdue)",
+      "sentences": [
+        {
+          "en": "She was ______ that she would not change her mind.",
+          "zh": "她堅決表示絕不會改變主意。"
+        },
+        {
+          "en": "Despite the pressure, he remained ______ in his refusal to sign.",
+          "zh": "儘管承受壓力,他仍堅定不移地拒絕簽署。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "addled",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "confused; unable to think clearly:",
+      "defn_zh": "糊塗的;昏亂的",
+      "root_note": "adela (liquid filth, from Old English)",
+      "sentences": [
+        {
+          "en": "Jet lag left him too ______ to remember which hotel room was his.",
+          "zh": "時差讓他頭昏腦脹,連自己住哪間旅館房間都記不清。"
+        },
+        {
+          "en": "The old professor grew increasingly ______ as the lecture dragged on without notes.",
+          "zh": "隨著講座越拖越長,又沒有講稿可看,這位老教授變得越來越糊塗。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "adroit",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "skillful:",
+      "defn_zh": "熟練的/機敏的",
+      "root_note": "a- (to) + droit (right/straight)",
+      "sentences": [
+        {
+          "en": "The ______ negotiator managed to satisfy both sides of the dispute.",
+          "zh": "這位機敏的談判者成功讓爭議雙方都感到滿意。"
+        },
+        {
+          "en": "She is remarkably ______ at solving problems under pressure.",
+          "zh": "她在壓力之下解決問題的能力極為熟練。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "adulate",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to praise or flatter too greatly; fawn over",
+      "defn_zh": "過分諂媚；奉承",
+      "root_note": "adulari (to fawn on)",
+      "sentences": [
+        {
+          "en": "Fans continued to ______ the singer despite the controversy.",
+          "zh": "儘管爭議不斷,粉絲們依然持續奉承這位歌手。"
+        },
+        {
+          "en": "He hated how his assistant would ______ him in front of others.",
+          "zh": "他很討厭助理在其他人面前對他阿諛奉承的樣子。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "adulation",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "extreme praise:",
+      "defn_zh": "過度讚美/諂媚",
+      "root_note": "adulari (to flatter)",
+      "sentences": [
+        {
+          "en": "The pop star basked in the ______ of her adoring fans.",
+          "zh": "這位流行歌手沉浸在崇拜她的粉絲們的讚美之中。"
+        },
+        {
+          "en": "He grew uncomfortable with the constant ______ from his students.",
+          "zh": "他對學生們不斷的過度讚美感到不自在。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "advantageous",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "beneficial or useful:",
+      "defn_zh": "有利的",
+      "root_note": "ante (before)",
+      "sentences": [
+        {
+          "en": "Speaking multiple languages is ______ in today's job market.",
+          "zh": "在當今的就業市場上,會說多種語言是很有利的。"
+        },
+        {
+          "en": "It would be ______ for the company to expand into overseas markets.",
+          "zh": "對這家公司來說,拓展海外市場將會是有利的。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "adventuresome",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "willing to take risks; adventurous:",
+      "defn_zh": "愛冒險的",
+      "root_note": "adventure + -some",
+      "sentences": [
+        {
+          "en": "Her ______ spirit led her to backpack across six countries alone.",
+          "zh": "她愛冒險的性格讓她獨自背包旅行走遍六個國家。"
+        },
+        {
+          "en": "The menu offers a few ______ dishes for diners willing to try something unusual.",
+          "zh": "菜單上有幾道給願意嘗鮮的饕客準備的冒險料理。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "adverbiage",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "wordy, padded language, especially the overuse of unnecessary adverbs:",
+      "defn_zh": "冗詞贅語(尤指濫用副詞)",
+      "root_note": "adverb + verbiage",
+      "sentences": [
+        {
+          "en": "The editor cut half the manuscript, calling it needless ______.",
+          "zh": "編輯刪掉了手稿的一半,直言那是不必要的冗詞贅語。"
+        },
+        {
+          "en": "His speech, thick with ______ , left the audience unsure of his actual point.",
+          "zh": "他的演講充斥著冗詞贅語,讓聽眾搞不清楚他真正想表達的重點。"
+        }
+      ],
+      "category": null
+    }
+  ],
+  "family_options": {},
+  "fallback_options": {
+    "v.": [
+      {
+        "word": "abound",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to exist in great numbers:",
+        "defn_zh": "充滿"
+      },
+      {
+        "word": "abrogate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to deprive of legal force, to nullify:=abolish",
+        "defn_zh": "廢除/取消"
+      },
+      {
+        "word": "abjure",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to renounce, abstain from:",
+        "defn_zh": "發誓放棄/棄絕"
+      },
+      {
+        "word": "abbreviate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to shorten a word or phrase:",
+        "defn_zh": "縮寫;縮短"
+      },
+      {
+        "word": "abdicate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to give up a position, usually one of leadership:",
+        "defn_zh": "退位/放棄(職位)"
+      },
+      {
+        "word": "abduct",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to kidnap, take by force:",
+        "defn_zh": "綁架/劫持"
+      },
+      {
+        "word": "abhor",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to regard with disgust and hatred:",
+        "defn_zh": "憎惡/厭惡"
+      },
+      {
+        "word": "abnegate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to deny or renounce:",
+        "defn_zh": "放棄/克制"
+      },
+      {
+        "word": "abolish",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to formally put an end to a system, practice, or institution:",
+        "defn_zh": "廢除"
+      },
+      {
+        "word": "abort",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to give up on a half-finished project or effort:",
+        "defn_zh": "中止/放棄"
+      },
+      {
+        "word": "abrade",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to scrape or wear away by friction:",
+        "defn_zh": "磨損;擦傷"
+      },
+      {
+        "word": "abscond",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to sneak away and hide:",
+        "defn_zh": "潛逃/逃匿"
+      }
+    ],
+    "adj.": [
+      {
+        "word": "abortive",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "fruitless, failing:",
+        "defn_zh": "失敗的/夭折的"
+      },
+      {
+        "word": "abstemious",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "moderate in eating or drinking:",
+        "defn_zh": "飲食有節制的"
+      },
+      {
+        "word": "abhorrent",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "detestable, despised:",
+        "defn_zh": "令人厭惡的"
+      },
+      {
+        "word": "absurd",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "ridiculous:",
+        "defn_zh": "荒謬的"
+      },
+      {
+        "word": "aberrant",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "deviating from what is normal or expected:",
+        "defn_zh": "異常的;脫軌的"
+      },
+      {
+        "word": "abject",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "wretched, pitiful:",
+        "defn_zh": "卑賤的/淒慘的"
+      },
+      {
+        "word": "abominable",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "causing moral revulsion; extremely unpleasant:",
+        "defn_zh": "可憎的;惡劣的"
+      },
+      {
+        "word": "abounding",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "existing in large numbers or amounts:",
+        "defn_zh": "大量存在的;豐富的"
+      },
+      {
+        "word": "abrasive",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "showing little concern for others; harsh:",
+        "defn_zh": "粗暴的/刺耳的"
+      },
+      {
+        "word": "abrupt",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "sudden or unexpected; brief and curt in manner:",
+        "defn_zh": "突然的/唐突的"
+      },
+      {
+        "word": "abstract",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "existing purely in the mind; not representing actual reality:",
+        "defn_zh": "抽象的"
+      },
+      {
+        "word": "abstruse",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "hard to comprehend:",
+        "defn_zh": "深奧難懂的"
+      }
+    ],
+    "n.": [
+      {
+        "word": "aversion",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "strong dislike, opposition:",
+        "defn_zh": "厭惡/反感"
+      },
+      {
+        "word": "aberration",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "something that differs from the norm:",
+        "defn_zh": "異常/脫軌"
+      },
+      {
+        "word": "abjection",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a state of complete misery, hopelessness, or degradation:",
+        "defn_zh": "卑賤;悲慘狀態"
+      },
+      {
+        "word": "abjuration",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the solemn renunciation of a belief, cause, or claim:",
+        "defn_zh": "公開放棄;誓絕"
+      },
+      {
+        "word": "ablution",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the act of washing oneself, especially as part of a religious ritual:",
+        "defn_zh": "沐浴;淨身儀式"
+      },
+      {
+        "word": "abnegation",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "denial of comfort to oneself:",
+        "defn_zh": "自我克制/放棄"
+      },
+      {
+        "word": "abomination",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "something that causes disgust or hatred:",
+        "defn_zh": "可憎之事;令人厭惡的東西"
+      },
+      {
+        "word": "abridgement",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a shortened version of a book or other written work:",
+        "defn_zh": "節略本;縮減版"
+      },
+      {
+        "word": "absolution",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "freedom from blame, guilt, sin:",
+        "defn_zh": "赦免/免罪"
+      },
+      {
+        "word": "abstemiousness",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "moderation or self-restraint, especially in eating and drinking:",
+        "defn_zh": "節制;克己"
+      },
+      {
+        "word": "abstinence",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the practice of restraining oneself from something enjoyable, especially food, alcohol, or sex:",
+        "defn_zh": "節制;戒絕"
+      },
+      {
+        "word": "avocation",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a hobby or minor occupation apart from one's main career:",
+        "defn_zh": "副業;業餘愛好"
+      }
+    ],
+    "adv.": [
+      {
+        "word": "accordingly",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in a manner that fits the circumstances; consequently:",
+        "defn_zh": "相應地;因此"
+      },
+      {
+        "word": "inadvertently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "unintentionally or by accident:",
+        "defn_zh": "無意間/不小心地"
+      },
+      {
+        "word": "consequently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "as a result; therefore:",
+        "defn_zh": "因此;結果"
+      },
+      {
+        "word": "contemptuously",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "without respect; in a disdainful manner:",
+        "defn_zh": "輕蔑地"
+      },
+      {
+        "word": "involuntarily",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "done without conscious control:",
+        "defn_zh": "不由自主地"
+      },
+      {
+        "word": "cordially",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in a warm or friendly manner:",
+        "defn_zh": "誠摯地/友好地"
+      },
+      {
+        "word": "ipso facto",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "by that very fact or act:",
+        "defn_zh": "事實上;因此"
+      },
+      {
+        "word": "en passant",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in passing; incidentally:",
+        "defn_zh": "順帶一提地;偶然地"
+      },
+      {
+        "word": "regardless",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "despite the prevailing circumstances; without being deterred:",
+        "defn_zh": "不管怎樣;儘管如此"
+      },
+      {
+        "word": "subsequently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "afterward; following in time or order:",
+        "defn_zh": "隨後;其後"
+      },
+      {
+        "word": "aside",
+        "pos": "adv./n.",
+        "pos_key": "adv.",
+        "defn_en": "to or on one side; a remark not meant to be heard by everyone:",
+        "defn_zh": "在旁邊;旁白"
+      },
+      {
+        "word": "vice versa",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "with the order or meaning reversed; conversely:",
+        "defn_zh": "反之亦然"
+      }
+    ],
+    "other": [
+      {
+        "word": "（此批單字中，暫無符合此字根/字首的單字）",
+        "pos": "",
+        "pos_key": "other",
+        "defn_en": "",
+        "defn_zh": ""
+      }
+    ],
+    "prep./adv.": [
+      {
+        "word": "besides",
+        "pos": "prep./adv.",
+        "pos_key": "prep./adv.",
+        "defn_en": "in addition to; furthermore:",
+        "defn_zh": "除...之外;此外"
+      }
+    ],
+    "phrasalv.": [
+      {
+        "word": "egg on",
+        "pos": "phrasal v.",
+        "pos_key": "phrasalv.",
+        "defn_en": "to encourage someone to do something, often risky:",
+        "defn_zh": "慫恿;鼓動"
+      }
+    ],
+    "abbr.": [
+      {
+        "word": "etc.",
+        "pos": "abbr.",
+        "pos_key": "abbr.",
+        "defn_en": "and other similar things (abbreviation of et cetera):",
+        "defn_zh": "等等(et cetera的縮寫)"
+      }
+    ],
+    "interj.": [
+      {
+        "word": "fiddledeedee",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "an exclamation expressing dismissal of something as nonsense:",
+        "defn_zh": "廢話!(表示不屑一顧)"
+      },
+      {
+        "word": "gesundheit",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "an expression said to someone who has just sneezed:",
+        "defn_zh": "保重(打噴嚏後的祝福語)"
+      }
+    ],
+    "prep.": [
+      {
+        "word": "via",
+        "pos": "prep.",
+        "pos_key": "prep.",
+        "defn_en": "by way of; passing through:",
+        "defn_zh": "經由;透過"
+      }
+    ]
+  }
+}
