@@ -1,0 +1,1480 @@
+{
+  "id": "u-58-reluctant-rigorous",
+  "part": "unclassified",
+  "part_label": "未歸類 Unclassified",
+  "name": "Unclassified 58 (reluctant–rigorous)",
+  "subtitle": "Alphabetical batch",
+  "count": 50,
+  "words": [
+    {
+      "word": "reluctant",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "unwilling and hesitant to do something:",
+      "defn_zh": "不情願的;猶豫的",
+      "root_note": "reluctari (to struggle against), from Latin re- (against) + luctari (to struggle)",
+      "sentences": [
+        {
+          "en": "He was ______ to share his true feelings about the decision.",
+          "zh": "他不太願意分享他對這項決定的真實感受。"
+        },
+        {
+          "en": "She felt ______ to leave her hometown for the new job.",
+          "zh": "她對於為了這份新工作離開家鄉感到猶豫不決。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "remonstrate",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to make a forceful protest or objection:",
+      "defn_zh": "抗議;力爭",
+      "root_note": "remonstrare (to demonstrate, point out), from Latin re- (again) + monstrare (to show)",
+      "sentences": [
+        {
+          "en": "Residents began to ______ against the proposed factory closure.",
+          "zh": "居民開始針對這項擬議的工廠關閉展開抗議。"
+        },
+        {
+          "en": "She chose to ______ with her manager over the unfair policy.",
+          "zh": "她選擇就這項不公平的政策向她的經理力爭。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "remorseful",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "feeling deep regret or guilt for wrongdoing:",
+      "defn_zh": "懊悔的;悔恨的",
+      "root_note": "remorsus (a biting back), from Latin re- (again) + mordere (to bite)",
+      "sentences": [
+        {
+          "en": "He appeared genuinely ______ during his court testimony.",
+          "zh": "他在法庭作證時展現出真誠的懊悔。"
+        },
+        {
+          "en": "She wrote a ______ letter apologizing for her past mistakes.",
+          "zh": "她寫了一封悔恨的信,為她過去的錯誤道歉。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "remunerate",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to pay someone for services rendered or work done:",
+      "defn_zh": "支付報酬;酬謝",
+      "root_note": "remunerari (to reward), from Latin re- (again) + munus (gift)",
+      "sentences": [
+        {
+          "en": "The company promised to ______ employees fairly for overtime work.",
+          "zh": "這家公司承諾會公平支付員工加班的報酬。"
+        },
+        {
+          "en": "Volunteers were not ______ d, but received free meals and lodging.",
+          "zh": "志工們雖未支薪,卻獲得了免費的餐食與住宿。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "renaissance",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a revival or renewed interest in something, especially art and learning:",
+      "defn_zh": "復興;文藝復興",
+      "root_note": "renaissance (rebirth), from French re- (again) + naissance (birth)",
+      "sentences": [
+        {
+          "en": "The neighborhood experienced a cultural ______ after years of decline.",
+          "zh": "這個社區在多年的衰退後經歷了一場文化復興。"
+        },
+        {
+          "en": "The city celebrated its architectural ______ with a new museum wing.",
+          "zh": "這座城市以一座新的博物館展翼慶祝它的建築復興。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "renegade",
+      "pos": "n./adj.",
+      "pos_key": "n.",
+      "defn_en": "a person who deserts a group or cause for another; rebellious:",
+      "defn_zh": "叛徒;反叛的",
+      "root_note": "renegado (renegade), from Spanish, from Latin re- (again) + negare (to deny)",
+      "sentences": [
+        {
+          "en": "The former officer became a ______ after exposing the agency's secrets.",
+          "zh": "這位前任軍官在揭露這個機構的秘密後成了一個叛徒。"
+        },
+        {
+          "en": "A ______ faction split from the main political party.",
+          "zh": "一個反叛的派系從這個主要政黨中分裂了出去。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "repartee",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a quick and witty reply or exchange of remarks:",
+      "defn_zh": "機智的應答;妙語連珠",
+      "root_note": "repartie (a quick retort), from French repartir (to reply promptly)",
+      "sentences": [
+        {
+          "en": "The two comedians engaged in rapid-fire ______ throughout the interview.",
+          "zh": "這兩位喜劇演員在整場訪談中都以連珠炮般的機智應答交鋒。"
+        },
+        {
+          "en": "Her quick ______ left the heckler speechless.",
+          "zh": "她機智的應答讓那位起鬨的人啞口無言。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "repeal",
+      "pos": "v./n.",
+      "pos_key": "v.",
+      "defn_en": "to officially revoke or cancel a law:",
+      "defn_zh": "廢除;撤銷",
+      "root_note": "repeler (to appeal again), from Old French re- (again) + apeler (to appeal)",
+      "sentences": [
+        {
+          "en": "Lawmakers voted to ______ the outdated regulation.",
+          "zh": "立法者投票決定廢除這項過時的法規。"
+        },
+        {
+          "en": "The ______ of prohibition marked a major shift in public policy.",
+          "zh": "禁酒令的廢除標誌著公共政策的一次重大轉變。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "reply",
+      "pos": "v./n.",
+      "pos_key": "v.",
+      "defn_en": "to respond to something said or written:",
+      "defn_zh": "回覆;回答",
+      "root_note": "replier (to fold back), from Old French re- (back) + plier (to fold)",
+      "sentences": [
+        {
+          "en": "She took several days to ______ to the email.",
+          "zh": "她花了好幾天才回覆這封電子郵件。"
+        },
+        {
+          "en": "His curt ______ suggested he was still upset.",
+          "zh": "他簡短的回覆暗示他依然感到不悅。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "reprehend",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to rebuke or criticize someone sharply:",
+      "defn_zh": "斥責;嚴厲批評",
+      "root_note": "reprehendere (to seize, blame), from Latin re- (back) + prehendere (to seize)",
+      "sentences": [
+        {
+          "en": "The teacher chose to ______ the students for their careless mistake.",
+          "zh": "這位老師選擇嚴厲斥責學生粗心大意的錯誤。"
+        },
+        {
+          "en": "Editorial writers began to ______ the mayor's handling of the crisis.",
+          "zh": "社論作家開始嚴厲批評市長對這場危機的處理方式。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "reproof",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "an expression of blame or disapproval:",
+      "defn_zh": "斥責;責備",
+      "root_note": "reprover (to reprove), from Old French re- (again) + prover (to prove)",
+      "sentences": [
+        {
+          "en": "Her mother's gentle ______ was enough to correct his behavior.",
+          "zh": "她母親溫和的責備就足以糾正他的行為。"
+        },
+        {
+          "en": "He accepted the coach's ______ without complaint.",
+          "zh": "他毫無怨言地接受了教練的責備。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "reproval",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "the act of expressing disapproval or blame:",
+      "defn_zh": "責備;譴責",
+      "root_note": "reprover (to reprove), from Old French re- (again) + prover (to prove)",
+      "sentences": [
+        {
+          "en": "The formal ______ appeared in his permanent employment file.",
+          "zh": "這項正式的責備被記錄在他永久的人事檔案中。"
+        },
+        {
+          "en": "Her stern look conveyed silent ______ better than words could.",
+          "zh": "她嚴厲的眼神無聲地傳達了比言語更強烈的責備。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "repudiation",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "the rejection or refusal to accept something as valid:",
+      "defn_zh": "拒絕承認;否認",
+      "root_note": "repudiare (to reject), from Latin repudium (divorce, rejection)",
+      "sentences": [
+        {
+          "en": "His public ______ of the extremist views surprised many former supporters.",
+          "zh": "他公開否認這些極端主義觀點的舉動讓許多以前的支持者感到意外。"
+        },
+        {
+          "en": "The court's ruling amounted to a full ______ of the previous decision.",
+          "zh": "這項法院裁決等同於全盤否定先前的判決。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "requital",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "repayment or retaliation for a good or bad deed:",
+      "defn_zh": "報答;報復",
+      "root_note": "requiten (to repay), from Middle English re- (back) + quite (to pay)",
+      "sentences": [
+        {
+          "en": "He offered a generous gift in ______ for her kindness.",
+          "zh": "他送上一份慷慨的禮物,以報答她的善意。"
+        },
+        {
+          "en": "The betrayal was met with swift ______ .",
+          "zh": "這場背叛招來了迅速的報復。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "research",
+      "pos": "n./v.",
+      "pos_key": "n.",
+      "defn_en": "systematic investigation to establish facts or reach conclusions:",
+      "defn_zh": "研究",
+      "root_note": "recercher (to search again), from Old French re- (again) + cerchier (to search)",
+      "sentences": [
+        {
+          "en": "Her ______ focused on the effects of climate change on coral reefs.",
+          "zh": "她的研究聚焦於氣候變遷對珊瑚礁的影響。"
+        },
+        {
+          "en": "Scientists continue to ______ potential treatments for the disease.",
+          "zh": "科學家持續研究這種疾病的潛在療法。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "reserved",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "slow to reveal emotion or opinions; kept back for a particular purpose:",
+      "defn_zh": "矜持的;預留的",
+      "root_note": "reservare (to keep back), from Latin re- (back) + servare (to keep)",
+      "sentences": [
+        {
+          "en": "Her ______ manner made her difficult to get to know at first.",
+          "zh": "她矜持的態度讓人一開始很難認識她。"
+        },
+        {
+          "en": "A table had been ______ for them near the window.",
+          "zh": "靠窗的一張桌子已為他們預留好了。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "resistentialism",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a humorous theory that inanimate objects display malicious behavior toward humans:",
+      "defn_zh": "物體惡意論(戲謔理論)",
+      "root_note": "resist + French résister, humorously blended with existentialism",
+      "sentences": [
+        {
+          "en": "He joked that his stubborn printer was proof of ______ at work.",
+          "zh": "他開玩笑說他那台頑固的印表機就是物體惡意論作祟的證明。"
+        },
+        {
+          "en": "The comedian's bit about ______ described how car keys always hide when needed.",
+          "zh": "這位喜劇演員關於物體惡意論的段子描述了車鑰匙總是在最需要的時候躲起來。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "resistentialist",
+      "pos": "n./adj.",
+      "pos_key": "n.",
+      "defn_en": "relating to the theory that inanimate objects act with hostile intent:",
+      "defn_zh": "物體惡意論的(信奉者)",
+      "root_note": "resist + French résister, humorously blended with existentialism",
+      "sentences": [
+        {
+          "en": "As a self-described ______ , he blamed his lost keys on sheer malice.",
+          "zh": "身為一位自稱的物體惡意論信奉者,他把弄丟鑰匙歸咎於純粹的惡意作祟。"
+        },
+        {
+          "en": "The essay took a ______ view of everyday frustrations with technology.",
+          "zh": "這篇文章以物體惡意論的觀點看待日常生活中對科技的種種挫折。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "respectful",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "showing deference and consideration toward others:",
+      "defn_zh": "恭敬的;尊重的",
+      "root_note": "respectus (regard), from Latin respicere (to look back at)",
+      "sentences": [
+        {
+          "en": "The students remained ______ throughout the visiting speaker's lecture.",
+          "zh": "學生們在這位訪問講者的整場演講中都保持恭敬有禮。"
+        },
+        {
+          "en": "She offered a ______ disagreement rather than an outright rejection.",
+          "zh": "她提出了一個尊重對方的異議,而非直接的拒絕。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "respite",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "interval of relief, delay:",
+      "defn_zh": "喘息",
+      "root_note": "respectus (refuge/consideration)",
+      "sentences": [
+        {
+          "en": "After weeks of nonstop work, the holiday offered a welcome ______ from her busy schedule.",
+          "zh": "經過數週不間斷的工作後,這個假期為她忙碌的行程帶來一段令人欣慰的喘息時間。"
+        },
+        {
+          "en": "The medication provided the patient with a temporary ______ from the pain.",
+          "zh": "這種藥物讓病人暫時從疼痛中獲得喘息。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "restaurateur",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a person who owns and manages a restaurant:",
+      "defn_zh": "餐廳老闆",
+      "root_note": "restaurer (to restore), from French, from Latin restaurare",
+      "sentences": [
+        {
+          "en": "The celebrated ______ opened his fifth location downtown.",
+          "zh": "這位知名的餐廳老闆在市中心開設了他的第五間分店。"
+        },
+        {
+          "en": "She dreamed of becoming a successful ______ one day.",
+          "zh": "她夢想有朝一日成為一位成功的餐廳老闆。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "restless",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "unable to rest or relax; constantly moving or active due to anxiety or agitation:",
+      "defn_zh": "不安分的/坐立不安的",
+      "root_note": "",
+      "sentences": [
+        {
+          "en": "He felt ______ during the long wait and couldn't sit still.",
+          "zh": "在漫長的等待中,他感到坐立不安,無法安靜下來。"
+        },
+        {
+          "en": "The children grew ______ near the end of the flight.",
+          "zh": "隨著飛行即將結束,孩子們變得越來越坐立不安。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "resume",
+      "pos": "v./n.",
+      "pos_key": "v.",
+      "defn_en": "to begin again after a pause; a summary document of one's work history:",
+      "defn_zh": "恢復;履歷表",
+      "root_note": "resumere (to take up again), from Latin re- (again) + sumere (to take)",
+      "sentences": [
+        {
+          "en": "The meeting will ______ after a short break.",
+          "zh": "這場會議在短暫休息後將會繼續進行。"
+        },
+        {
+          "en": "She updated her ______ before applying for the new position.",
+          "zh": "她在應徵這個新職位前更新了她的履歷表。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "retard",
+      "pos": "v./n.",
+      "pos_key": "v.",
+      "defn_en": "to delay or hold back the progress of something:",
+      "defn_zh": "阻礙;延遲",
+      "root_note": "retardare (to make slow), from Latin re- (back) + tardus (slow)",
+      "sentences": [
+        {
+          "en": "Heavy traffic began to ______ the delivery schedule significantly.",
+          "zh": "壅塞的交通開始嚴重阻礙這項送貨時程。"
+        },
+        {
+          "en": "Poor nutrition can ______ a child's physical development.",
+          "zh": "營養不良可能會延遲兒童的身體發育。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "retardation",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "the action of delaying or slowing down a process:",
+      "defn_zh": "延遲;遲滯",
+      "root_note": "retardare (to make slow), from Latin re- (back) + tardus (slow)",
+      "sentences": [
+        {
+          "en": "Engineers studied the ______ of the vehicle's speed under different conditions.",
+          "zh": "工程師研究了在不同條件下這輛車輛速度的遲滯情形。"
+        },
+        {
+          "en": "The chemical additive causes a noticeable ______ in the reaction rate.",
+          "zh": "這種化學添加劑會導致反應速率明顯的延遲。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "retirement",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "the withdrawal from active working life, especially due to age:",
+      "defn_zh": "退休",
+      "root_note": "retirer (to withdraw), from French re- (back) + tirer (to draw)",
+      "sentences": [
+        {
+          "en": "She planned her ______ carefully over the past decade.",
+          "zh": "她在過去十年裡仔細規劃了她的退休生活。"
+        },
+        {
+          "en": "His ______ party brought together colleagues from throughout his career.",
+          "zh": "他的退休派對聚集了他整個職涯的同事們。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "retronym",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a new term created to distinguish an original concept from a newer variant:",
+      "defn_zh": "回溯造詞",
+      "root_note": "retro- (backward) + -onym (name), from Latin and Greek",
+      "sentences": [
+        {
+          "en": "'Acoustic guitar' became a ______ after electric guitars were invented.",
+          "zh": "「木吉他(acoustic guitar)」在電吉他發明後成為一個回溯造詞。"
+        },
+        {
+          "en": "The term 'landline' is a ______ created after mobile phones became common.",
+          "zh": "「市內電話(landline)」這個詞是在行動電話普及後創造出的回溯造詞。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "reveal",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to make known previously secret or hidden information:",
+      "defn_zh": "揭露;透露",
+      "root_note": "revelare (to unveil), from Latin re- (again) + velum (veil)",
+      "sentences": [
+        {
+          "en": "She finally decided to ______ the truth about her past.",
+          "zh": "她終於決定揭露她過去的真相。"
+        },
+        {
+          "en": "The investigation began to ______ a pattern of fraudulent activity.",
+          "zh": "這項調查開始揭露一系列的詐欺行為模式。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "reverence",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "deep respect for someone or something:",
+      "defn_zh": "崇敬;敬畏",
+      "root_note": "revereri (to stand in awe of), from Latin re- (again) + vereri (to fear)",
+      "sentences": [
+        {
+          "en": "Visitors approached the ancient shrine with quiet ______ .",
+          "zh": "遊客們懷著靜默的崇敬走近這座古老的神殿。"
+        },
+        {
+          "en": "Students regarded the retiring professor with genuine ______ .",
+          "zh": "學生們對這位即將退休的教授懷有真誠的崇敬。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "reverie",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a state of being pleasantly lost in one's thoughts; a daydream:",
+      "defn_zh": "幻想;白日夢",
+      "root_note": "resverie (wildness, delirium), from Old French resver (to wander, rave)",
+      "sentences": [
+        {
+          "en": "She drifted into a peaceful ______ during the long train ride.",
+          "zh": "在這段漫長的火車旅程中,她陷入了一種平靜的幻想。"
+        },
+        {
+          "en": "His ______ was suddenly interrupted by the ringing phone.",
+          "zh": "他的白日夢突然被響起的電話鈴聲打斷。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "reviled",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "spoken of with great hatred or contempt:",
+      "defn_zh": "遭人唾棄的;被辱罵的",
+      "root_note": "reviler (to despise), from Old French re- (thoroughly) + vil (vile)",
+      "sentences": [
+        {
+          "en": "The corrupt official became one of the most ______ figures in the country's history.",
+          "zh": "這位貪腐的官員成了這個國家歷史上最遭人唾棄的人物之一。"
+        },
+        {
+          "en": "Once beloved, the singer was suddenly ______ after the scandal broke.",
+          "zh": "曾經備受愛戴的這位歌手,在這場醜聞爆發後突然遭到大眾唾棄。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "revolt",
+      "pos": "n./v.",
+      "pos_key": "n.",
+      "defn_en": "a rebellion against authority; to rise in rebellion:",
+      "defn_zh": "叛亂;反抗",
+      "root_note": "revolvere (to roll back), from Latin re- (back) + volvere (to roll)",
+      "sentences": [
+        {
+          "en": "The peasant ______ spread quickly across the countryside.",
+          "zh": "這場農民叛亂迅速蔓延至整個鄉村地區。"
+        },
+        {
+          "en": "Citizens began to ______ against the oppressive regime.",
+          "zh": "公民開始起身反抗這個壓迫性的政權。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "revolution",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a forcible overthrow of a government; a dramatic change:",
+      "defn_zh": "革命;變革",
+      "root_note": "revolvere (to roll back), from Latin re- (back) + volvere (to roll)",
+      "sentences": [
+        {
+          "en": "The ______ transformed the nation's political landscape overnight.",
+          "zh": "這場革命在一夜之間改變了這個國家的政治面貌。"
+        },
+        {
+          "en": "The internet sparked a ______ in how people communicate.",
+          "zh": "網路引發了一場人們溝通方式的革命性變革。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "reward",
+      "pos": "n./v.",
+      "pos_key": "n.",
+      "defn_en": "something given in recognition of effort or achievement; to give such recognition:",
+      "defn_zh": "獎勵;報酬",
+      "root_note": "rewarden (to guard, reward), from Old North French re- (again) + warder (to guard)",
+      "sentences": [
+        {
+          "en": "The company offered a ______ for information leading to the thief's capture.",
+          "zh": "這家公司為能協助逮捕這名小偷的線索提供獎勵。"
+        },
+        {
+          "en": "Her hard work was finally ______ ed with a well-deserved promotion.",
+          "zh": "她的努力最終獲得了應得的升遷作為回報。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "rhapsodic",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "expressing enthusiastic or extravagant praise:",
+      "defn_zh": "狂想的;熱情洋溢的",
+      "root_note": "rhapsodia (epic poem), from Greek rhaptein (to stitch) + oide (song)",
+      "sentences": [
+        {
+          "en": "Critics wrote ______ reviews praising the young pianist's debut.",
+          "zh": "評論家寫下了熱情洋溢的評論,盛讚這位年輕鋼琴家的初次登場。"
+        },
+        {
+          "en": "Her ______ description of Venice made everyone eager to visit.",
+          "zh": "她對威尼斯熱情洋溢的描述讓每個人都渴望前去一遊。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "rhapsodize",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to engage in excessive enthusiasm:",
+      "defn_zh": "狂熱地談論/滔滔不絕地讚美",
+      "root_note": "rhaptein (to stitch, Greek) + oide (song, Greek)",
+      "sentences": [
+        {
+          "en": "She could ______ for hours about her trip to Italy.",
+          "zh": "她可以滔滔不絕地講上好幾個小時關於她義大利之旅的事。"
+        },
+        {
+          "en": "The critic began to ______ about the young violinist's extraordinary talent.",
+          "zh": "這位評論家開始熱情洋溢地讚頌這位年輕小提琴家非凡的才華。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "rhapsody",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "an effusively enthusiastic expression of feeling; a free-form musical piece:",
+      "defn_zh": "狂想曲;熱情洋溢的言辭",
+      "root_note": "rhapsodia (epic poem), from Greek rhaptein (to stitch) + oide (song)",
+      "sentences": [
+        {
+          "en": "The composer's famous ______ blends folk melodies with orchestral grandeur.",
+          "zh": "這位作曲家著名的狂想曲融合了民謠旋律與管弦樂的壯麗。"
+        },
+        {
+          "en": "He launched into a ______ about his recent trip to Italy.",
+          "zh": "他滔滔不絕地說起他最近義大利之旅的種種熱情洋溢的感想。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "rhetoric",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "use (sometimes exaggerated) of language:",
+      "defn_zh": "修辭/浮誇的言語",
+      "root_note": "rhetor (orator)",
+      "sentences": [
+        {
+          "en": "Her speech was full of powerful ______ but light on actual policy.",
+          "zh": "她的演說充滿了強而有力的修辭,實質政策內容卻很單薄。"
+        },
+        {
+          "en": "The candidate's fiery ______ energized his supporters.",
+          "zh": "這位候選人激昂的言辭激勵了他的支持者。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "rhetorical",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "relating to speech that is used to persuade or have some effect; insincere in expression",
+      "defn_zh": "修辭的；言過其實的",
+      "root_note": "rhetor (public speaker, Greek)",
+      "sentences": [
+        {
+          "en": "\"Why do bad things always happen to me?\" was clearly a ______ question.",
+          "zh": "「為什麼倒楣的事總是發生在我身上?」顯然只是個修辭性的疑問句,並不需要回答。"
+        },
+        {
+          "en": "The politician's speech relied heavily on ______ flourishes rather than facts.",
+          "zh": "這位政治人物的演說過度倚賴誇張的修辭手法,而非事實依據。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "riam",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a rare dialectal term for a narrow strip or boundary of land:",
+      "defn_zh": "狹長地帶;邊界地(方言用語)",
+      "root_note": "of uncertain dialectal origin, possibly related to rim",
+      "sentences": [
+        {
+          "en": "Farmers disputed ownership of the narrow ______ separating their fields.",
+          "zh": "農民們爭論著分隔他們田地那條狹長邊界地的所有權。"
+        },
+        {
+          "en": "The old map marked a thin ______ along the riverbank.",
+          "zh": "這張古老的地圖標記了沿著河岸的一條狹長地帶。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "ribald",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "coarsely, crudely humorous:",
+      "defn_zh": "粗俗下流的/低級幽默的",
+      "root_note": "",
+      "sentences": [
+        {
+          "en": "The sailors traded ______ jokes as they worked through the night.",
+          "zh": "水手們整夜工作時互相講著粗俗下流的笑話。"
+        },
+        {
+          "en": "The play's ______ humor was considered scandalous when it first premiered.",
+          "zh": "這齣戲劇低俗的幽默在首演時被認為十分傷風敗俗。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "ribaldry",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "crude, humorous, and often sexual language or behavior:",
+      "defn_zh": "粗俗笑話;下流言語",
+      "root_note": "ribald (a lewd, coarse person), from Old French ribauld",
+      "sentences": [
+        {
+          "en": "The tavern was filled with laughter and coarse ______ late into the night.",
+          "zh": "這間酒館裡直到深夜都充滿了笑聲與粗俗的笑話。"
+        },
+        {
+          "en": "The play's comic relief relied heavily on ______ to entertain the crowd.",
+          "zh": "這齣戲劇的喜劇橋段高度仰賴粗俗笑話來娛樂觀眾。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "riddle",
+      "pos": "n./v.",
+      "pos_key": "n.",
+      "defn_en": "a puzzling question requiring ingenuity to answer; to pierce with many holes:",
+      "defn_zh": "謎語;布滿孔洞",
+      "root_note": "rædels (advice, riddle), from Old English rædan (to advise, guess)",
+      "sentences": [
+        {
+          "en": "The ancient ______ has puzzled scholars for centuries.",
+          "zh": "這則古老的謎語已困擾學者數個世紀之久。"
+        },
+        {
+          "en": "Bullets began to ______ the old barn wall during target practice.",
+          "zh": "在這場靶場練習中,子彈開始將這面老穀倉的牆壁打得布滿孔洞。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "ridicule",
+      "pos": "n./v.",
+      "pos_key": "n.",
+      "defn_en": "mockery or derision; to make fun of someone:",
+      "defn_zh": "嘲笑;奚落",
+      "root_note": "ridiculum (a jest), from Latin ridere (to laugh)",
+      "sentences": [
+        {
+          "en": "He endured years of ______ before finally proving his critics wrong.",
+          "zh": "他忍受了多年的嘲笑,最終才證明批評他的人是錯的。"
+        },
+        {
+          "en": "Classmates would ______ him mercilessly for his stutter.",
+          "zh": "同學們曾毫不留情地嘲笑他的口吃。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "ridiculous",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "deserving or inviting mockery; absurd:",
+      "defn_zh": "荒謬的;可笑的",
+      "root_note": "ridiculus (laughable), from Latin ridere (to laugh)",
+      "sentences": [
+        {
+          "en": "The idea of finishing the marathon in an hour seemed ______ .",
+          "zh": "在一小時內跑完馬拉松的想法似乎荒謬可笑。"
+        },
+        {
+          "en": "He wore a ______ costume to the office Halloween party.",
+          "zh": "他在辦公室的萬聖節派對上穿了一件荒謬可笑的裝扮。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "rife",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "widespread:",
+      "defn_zh": "普遍的/盛傳的",
+      "root_note": "rif (abundant)",
+      "sentences": [
+        {
+          "en": "Corruption was ______ throughout the local government.",
+          "zh": "貪腐在當地政府中十分普遍。"
+        },
+        {
+          "en": "Rumors were ______ about the company's upcoming layoffs.",
+          "zh": "關於公司即將裁員的謠言四處盛傳。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "rift",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "opening, split:",
+      "defn_zh": "裂縫/不和",
+      "root_note": "riven (to tear/split)",
+      "sentences": [
+        {
+          "en": "A political ______ divided the once-unified party.",
+          "zh": "一場政治分裂讓這個曾經團結一致的政黨產生了裂痕。"
+        },
+        {
+          "en": "The disagreement created a lasting ______ between the two brothers.",
+          "zh": "這場爭執在這對兄弟之間造成了一道長久的裂痕。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "righteous",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "morally right or justifiable; virtuous:",
+      "defn_zh": "正義的;公正的",
+      "root_note": "rihtwis (just), from Old English riht (right) + wis (wise)",
+      "sentences": [
+        {
+          "en": "She felt a ______ anger at the injustice she witnessed.",
+          "zh": "她對目睹的這場不公感到一股正義的憤怒。"
+        },
+        {
+          "en": "He was praised for leading a ______ and honest life.",
+          "zh": "他因過著正直誠實的生活而受到讚揚。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "rigor",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "harshness, severity",
+      "defn_zh": "嚴格；嚴厲",
+      "root_note": "rigere (to be stiff)",
+      "sentences": [
+        {
+          "en": "The academic program is known for its ______ and high standards.",
+          "zh": "這個學術課程以其嚴謹與高標準聞名。"
+        },
+        {
+          "en": "Scientists must apply strict ______ when testing new hypotheses.",
+          "zh": "科學家在檢驗新的假設時,必須採取嚴謹的態度。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "rigorous",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "strict and demanding, requiring a high level of effort and precision:",
+      "defn_zh": "嚴格的/嚴謹的",
+      "root_note": "rigor (stiffness)",
+      "sentences": [
+        {
+          "en": "The ______ training schedule prepared the athletes for the competition.",
+          "zh": "這套嚴格的訓練計畫讓選手們為比賽做好了準備。"
+        },
+        {
+          "en": "The university is known for its ______ admissions process.",
+          "zh": "這所大學以其嚴謹的招生流程聞名。"
+        }
+      ],
+      "category": null
+    }
+  ],
+  "family_options": {},
+  "fallback_options": {
+    "v.": [
+      {
+        "word": "abound",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to exist in great numbers:",
+        "defn_zh": "充滿"
+      },
+      {
+        "word": "abrogate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to deprive of legal force, to nullify:=abolish",
+        "defn_zh": "廢除/取消"
+      },
+      {
+        "word": "abjure",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to renounce, abstain from:",
+        "defn_zh": "發誓放棄/棄絕"
+      },
+      {
+        "word": "abbreviate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to shorten a word or phrase:",
+        "defn_zh": "縮寫;縮短"
+      },
+      {
+        "word": "abdicate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to give up a position, usually one of leadership:",
+        "defn_zh": "退位/放棄(職位)"
+      },
+      {
+        "word": "abduct",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to kidnap, take by force:",
+        "defn_zh": "綁架/劫持"
+      },
+      {
+        "word": "abhor",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to regard with disgust and hatred:",
+        "defn_zh": "憎惡/厭惡"
+      },
+      {
+        "word": "abnegate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to deny or renounce:",
+        "defn_zh": "放棄/克制"
+      },
+      {
+        "word": "abolish",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to formally put an end to a system, practice, or institution:",
+        "defn_zh": "廢除"
+      },
+      {
+        "word": "abort",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to give up on a half-finished project or effort:",
+        "defn_zh": "中止/放棄"
+      },
+      {
+        "word": "abrade",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to scrape or wear away by friction:",
+        "defn_zh": "磨損;擦傷"
+      },
+      {
+        "word": "abscond",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to sneak away and hide:",
+        "defn_zh": "潛逃/逃匿"
+      }
+    ],
+    "adj.": [
+      {
+        "word": "abortive",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "fruitless, failing:",
+        "defn_zh": "失敗的/夭折的"
+      },
+      {
+        "word": "abstemious",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "moderate in eating or drinking:",
+        "defn_zh": "飲食有節制的"
+      },
+      {
+        "word": "abhorrent",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "detestable, despised:",
+        "defn_zh": "令人厭惡的"
+      },
+      {
+        "word": "absurd",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "ridiculous:",
+        "defn_zh": "荒謬的"
+      },
+      {
+        "word": "aberrant",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "deviating from what is normal or expected:",
+        "defn_zh": "異常的;脫軌的"
+      },
+      {
+        "word": "abject",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "wretched, pitiful:",
+        "defn_zh": "卑賤的/淒慘的"
+      },
+      {
+        "word": "abominable",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "causing moral revulsion; extremely unpleasant:",
+        "defn_zh": "可憎的;惡劣的"
+      },
+      {
+        "word": "abounding",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "existing in large numbers or amounts:",
+        "defn_zh": "大量存在的;豐富的"
+      },
+      {
+        "word": "abrasive",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "showing little concern for others; harsh:",
+        "defn_zh": "粗暴的/刺耳的"
+      },
+      {
+        "word": "abrupt",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "sudden or unexpected; brief and curt in manner:",
+        "defn_zh": "突然的/唐突的"
+      },
+      {
+        "word": "abstract",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "existing purely in the mind; not representing actual reality:",
+        "defn_zh": "抽象的"
+      },
+      {
+        "word": "abstruse",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "hard to comprehend:",
+        "defn_zh": "深奧難懂的"
+      }
+    ],
+    "n.": [
+      {
+        "word": "aversion",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "strong dislike, opposition:",
+        "defn_zh": "厭惡/反感"
+      },
+      {
+        "word": "aberration",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "something that differs from the norm:",
+        "defn_zh": "異常/脫軌"
+      },
+      {
+        "word": "abjection",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a state of complete misery, hopelessness, or degradation:",
+        "defn_zh": "卑賤;悲慘狀態"
+      },
+      {
+        "word": "abjuration",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the solemn renunciation of a belief, cause, or claim:",
+        "defn_zh": "公開放棄;誓絕"
+      },
+      {
+        "word": "ablution",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the act of washing oneself, especially as part of a religious ritual:",
+        "defn_zh": "沐浴;淨身儀式"
+      },
+      {
+        "word": "abnegation",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "denial of comfort to oneself:",
+        "defn_zh": "自我克制/放棄"
+      },
+      {
+        "word": "abomination",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "something that causes disgust or hatred:",
+        "defn_zh": "可憎之事;令人厭惡的東西"
+      },
+      {
+        "word": "abridgement",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a shortened version of a book or other written work:",
+        "defn_zh": "節略本;縮減版"
+      },
+      {
+        "word": "absolution",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "freedom from blame, guilt, sin:",
+        "defn_zh": "赦免/免罪"
+      },
+      {
+        "word": "abstemiousness",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "moderation or self-restraint, especially in eating and drinking:",
+        "defn_zh": "節制;克己"
+      },
+      {
+        "word": "abstinence",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the practice of restraining oneself from something enjoyable, especially food, alcohol, or sex:",
+        "defn_zh": "節制;戒絕"
+      },
+      {
+        "word": "avocation",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a hobby or minor occupation apart from one's main career:",
+        "defn_zh": "副業;業餘愛好"
+      }
+    ],
+    "adv.": [
+      {
+        "word": "accordingly",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in a manner that fits the circumstances; consequently:",
+        "defn_zh": "相應地;因此"
+      },
+      {
+        "word": "inadvertently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "unintentionally or by accident:",
+        "defn_zh": "無意間/不小心地"
+      },
+      {
+        "word": "consequently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "as a result; therefore:",
+        "defn_zh": "因此;結果"
+      },
+      {
+        "word": "contemptuously",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "without respect; in a disdainful manner:",
+        "defn_zh": "輕蔑地"
+      },
+      {
+        "word": "involuntarily",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "done without conscious control:",
+        "defn_zh": "不由自主地"
+      },
+      {
+        "word": "cordially",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in a warm or friendly manner:",
+        "defn_zh": "誠摯地/友好地"
+      },
+      {
+        "word": "ipso facto",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "by that very fact or act:",
+        "defn_zh": "事實上;因此"
+      },
+      {
+        "word": "en passant",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in passing; incidentally:",
+        "defn_zh": "順帶一提地;偶然地"
+      },
+      {
+        "word": "regardless",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "despite the prevailing circumstances; without being deterred:",
+        "defn_zh": "不管怎樣;儘管如此"
+      },
+      {
+        "word": "subsequently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "afterward; following in time or order:",
+        "defn_zh": "隨後;其後"
+      },
+      {
+        "word": "aside",
+        "pos": "adv./n.",
+        "pos_key": "adv.",
+        "defn_en": "to or on one side; a remark not meant to be heard by everyone:",
+        "defn_zh": "在旁邊;旁白"
+      },
+      {
+        "word": "vice versa",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "with the order or meaning reversed; conversely:",
+        "defn_zh": "反之亦然"
+      }
+    ],
+    "other": [
+      {
+        "word": "（此批單字中，暫無符合此字根/字首的單字）",
+        "pos": "",
+        "pos_key": "other",
+        "defn_en": "",
+        "defn_zh": ""
+      }
+    ],
+    "prep./adv.": [
+      {
+        "word": "besides",
+        "pos": "prep./adv.",
+        "pos_key": "prep./adv.",
+        "defn_en": "in addition to; furthermore:",
+        "defn_zh": "除...之外;此外"
+      }
+    ],
+    "phrasalv.": [
+      {
+        "word": "egg on",
+        "pos": "phrasal v.",
+        "pos_key": "phrasalv.",
+        "defn_en": "to encourage someone to do something, often risky:",
+        "defn_zh": "慫恿;鼓動"
+      },
+      {
+        "word": "carry out",
+        "pos": "phrasal v.",
+        "pos_key": "phrasalv.",
+        "defn_en": "to perform or complete a task:",
+        "defn_zh": "執行；完成"
+      },
+      {
+        "word": "look into",
+        "pos": "phrasal v.",
+        "pos_key": "phrasalv.",
+        "defn_en": "to investigate or examine something:",
+        "defn_zh": "調查；研究"
+      },
+      {
+        "word": "put off",
+        "pos": "phrasal v.",
+        "pos_key": "phrasalv.",
+        "defn_en": "to postpone something until a later time:",
+        "defn_zh": "延後；推遲"
+      },
+      {
+        "word": "rule out",
+        "pos": "phrasal v.",
+        "pos_key": "phrasalv.",
+        "defn_en": "to eliminate something as a possibility:",
+        "defn_zh": "排除（可能性）"
+      }
+    ],
+    "abbr.": [
+      {
+        "word": "etc.",
+        "pos": "abbr.",
+        "pos_key": "abbr.",
+        "defn_en": "and other similar things (abbreviation of et cetera):",
+        "defn_zh": "等等(et cetera的縮寫)"
+      },
+      {
+        "word": "e.g.",
+        "pos": "abbr.",
+        "pos_key": "abbr.",
+        "defn_en": "for example:",
+        "defn_zh": "例如"
+      },
+      {
+        "word": "i.e.",
+        "pos": "abbr.",
+        "pos_key": "abbr.",
+        "defn_en": "that is; in other words:",
+        "defn_zh": "也就是說；換言之"
+      },
+      {
+        "word": "approx.",
+        "pos": "abbr.",
+        "pos_key": "abbr.",
+        "defn_en": "approximately; about but not exactly:",
+        "defn_zh": "大約；約略"
+      },
+      {
+        "word": "vs.",
+        "pos": "abbr.",
+        "pos_key": "abbr.",
+        "defn_en": "versus; against or in comparison with:",
+        "defn_zh": "對；與……相比"
+      }
+    ],
+    "interj.": [
+      {
+        "word": "fiddledeedee",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "an exclamation expressing dismissal of something as nonsense:",
+        "defn_zh": "廢話!(表示不屑一顧)"
+      },
+      {
+        "word": "gesundheit",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "an expression said to someone who has just sneezed:",
+        "defn_zh": "保重(打噴嚏後的祝福語)"
+      },
+      {
+        "word": "alas",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "used to express sadness, regret, or disappointment:",
+        "defn_zh": "唉；哎呀（表示悲傷或遺憾）"
+      },
+      {
+        "word": "bravo",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "used to express approval or admiration:",
+        "defn_zh": "好極了；太棒了"
+      },
+      {
+        "word": "ouch",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "used to express sudden pain:",
+        "defn_zh": "哎喲（表示疼痛）"
+      },
+      {
+        "word": "phew",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "used to express relief, fatigue, or surprise:",
+        "defn_zh": "呼；唷（表示鬆一口氣、疲累或驚訝）"
+      }
+    ],
+    "prep.": [
+      {
+        "word": "via",
+        "pos": "prep.",
+        "pos_key": "prep.",
+        "defn_en": "by way of; passing through:",
+        "defn_zh": "經由;透過"
+      },
+      {
+        "word": "amid",
+        "pos": "prep.",
+        "pos_key": "prep.",
+        "defn_en": "in the middle of or surrounded by:",
+        "defn_zh": "在……之中；被……圍繞"
+      },
+      {
+        "word": "beneath",
+        "pos": "prep.",
+        "pos_key": "prep.",
+        "defn_en": "in or to a lower position than something:",
+        "defn_zh": "在……下方"
+      },
+      {
+        "word": "despite",
+        "pos": "prep.",
+        "pos_key": "prep.",
+        "defn_en": "without being affected or prevented by:",
+        "defn_zh": "儘管；不管"
+      },
+      {
+        "word": "throughout",
+        "pos": "prep.",
+        "pos_key": "prep.",
+        "defn_en": "in every part of or during the whole period of:",
+        "defn_zh": "遍及；貫穿整段期間"
+      }
+    ]
+  }
+}
