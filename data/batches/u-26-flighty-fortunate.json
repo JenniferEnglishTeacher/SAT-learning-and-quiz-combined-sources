@@ -1,0 +1,1480 @@
+{
+  "id": "u-26-flighty-fortunate",
+  "part": "unclassified",
+  "part_label": "未歸類 Unclassified",
+  "name": "Unclassified 26 (flighty–fortunate)",
+  "subtitle": "Alphabetical batch",
+  "count": 50,
+  "words": [
+    {
+      "word": "flighty",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "unpredictable and fickle; easily excitable:",
+      "defn_zh": "反覆無常的;輕浮的",
+      "root_note": "flight, from Old English flyht",
+      "sentences": [
+        {
+          "en": "Her ______ nature made it hard to plan anything with her.",
+          "zh": "她反覆無常的性情讓人很難跟她計畫任何事情。"
+        },
+        {
+          "en": "The ______ colt darted nervously around the paddock.",
+          "zh": "這匹輕浮易驚的小馬緊張地在圍場裡四處亂竄。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "flippancy",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "inappropriate levity:",
+      "defn_zh": "輕浮/輕率",
+      "root_note": "",
+      "sentences": [
+        {
+          "en": "The judge was not amused by the lawyer's ______ in the courtroom.",
+          "zh": "法官對這位律師在法庭上的輕浮態度感到不悅。"
+        },
+        {
+          "en": "Her ______ about the serious diagnosis surprised the doctor.",
+          "zh": "她對這項嚴重診斷結果表現出的輕率態度讓醫生感到驚訝。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "flippant",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "not showing proper seriousness; disrespectful:",
+      "defn_zh": "輕率的;無禮的",
+      "root_note": "flip, of uncertain imitative origin",
+      "sentences": [
+        {
+          "en": "His ______ response to the tragedy offended many.",
+          "zh": "他對這場悲劇輕率的回應冒犯了許多人。"
+        },
+        {
+          "en": "She regretted her ______ remark as soon as she said it.",
+          "zh": "她一說出那句輕率的話就後悔了。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "floccinaucinihilipilification",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "the act of estimating something as worthless:",
+      "defn_zh": "視為毫無價值的行為(極長字)",
+      "root_note": "flocci + nauci + nihili + pili (all meaning \"of little value\"), from Latin",
+      "sentences": [
+        {
+          "en": "The professor jokingly used ______ to describe his critique of the outdated theory.",
+          "zh": "這位教授開玩笑地用這個字來形容他對這套過時理論的貶低評價。"
+        },
+        {
+          "en": "His constant ______ of others' ideas made him unpopular in meetings.",
+          "zh": "他不斷貶低他人想法的態度讓他在會議上不受歡迎。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "flocculate",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to form or cause to form small clumps or masses:",
+      "defn_zh": "絮凝;聚結成團",
+      "root_note": "floccus (tuft of wool), from Latin",
+      "sentences": [
+        {
+          "en": "Chemists add a reagent to ______ the impurities in the water.",
+          "zh": "化學家添加一種試劑使水中的雜質絮凝聚結。"
+        },
+        {
+          "en": "Proteins can ______ when the solution's pH changes.",
+          "zh": "當溶液的酸鹼值改變時,蛋白質可能會聚結成團。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "floccule",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a small loosely aggregated mass of particles:",
+      "defn_zh": "絮狀物;小絨團",
+      "root_note": "floccus (tuft of wool), from Latin",
+      "sentences": [
+        {
+          "en": "Under the microscope, tiny ______ s of sediment were visible.",
+          "zh": "在顯微鏡下可以看見微小的沉積絮狀物。"
+        },
+        {
+          "en": "The filter trapped every ______ before the water reached the tank.",
+          "zh": "在水進入水槽之前,這個過濾器攔截了每一個絮狀微粒。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "flocculent",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "having a loose, fluffy texture, like tufts of wool:",
+      "defn_zh": "絮狀的;蓬鬆的",
+      "root_note": "floccus (tuft of wool), from Latin",
+      "sentences": [
+        {
+          "en": "A ______ cloud drifted lazily across the summer sky.",
+          "zh": "一朵蓬鬆的雲懶洋洋地飄過夏日的天空。"
+        },
+        {
+          "en": "The solution turned ______ after the chemicals were mixed.",
+          "zh": "化學藥劑混合後,這種溶液變得絮狀混濁。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "floccus",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a tuft of woolly hair or fibers:",
+      "defn_zh": "絨毛叢;毛簇",
+      "root_note": "floccus (tuft of wool), from Latin",
+      "sentences": [
+        {
+          "en": "A soft ______ of down clung to the baby bird's wing.",
+          "zh": "一叢柔軟的絨毛附著在這隻雛鳥的翅膀上。"
+        },
+        {
+          "en": "Botanists examined the plant's distinctive ______ under a lens.",
+          "zh": "植物學家用放大鏡檢視了這株植物獨特的絨毛叢。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "flog",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to beat someone with a whip or stick as punishment:",
+      "defn_zh": "鞭打;抽打",
+      "root_note": "of uncertain origin, possibly related to Latin flagellare",
+      "sentences": [
+        {
+          "en": "Sailors could once be ______ ged for minor infractions.",
+          "zh": "水手過去可能因輕微違規而遭到鞭打。"
+        },
+        {
+          "en": "The story describes how the prisoner was ______ ged unjustly.",
+          "zh": "這個故事描述了這名囚犯如何遭受不公的鞭打。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "floral",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "relating to or decorated with flowers:",
+      "defn_zh": "花卉的;花朵圖案的",
+      "root_note": "flos (flower), from Latin",
+      "sentences": [
+        {
+          "en": "She chose a ______ pattern for the wedding invitations.",
+          "zh": "她為婚禮邀請函選擇了花卉圖案。"
+        },
+        {
+          "en": "The room was filled with a sweet ______ scent.",
+          "zh": "這個房間充滿了甜美的花香。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "floriated",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "decorated with a floral design:",
+      "defn_zh": "裝飾以花卉圖案的",
+      "root_note": "flos (flower), from Latin",
+      "sentences": [
+        {
+          "en": "The manuscript's margins were covered in ______ borders.",
+          "zh": "這份手稿的頁邊裝飾著花卉圖案的邊框。"
+        },
+        {
+          "en": "An elegant ______ pattern adorned the cathedral's stained glass.",
+          "zh": "一種優雅的花卉圖案裝飾著這座大教堂的彩繪玻璃。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "floriculture",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "the cultivation of flowers, especially as a business:",
+      "defn_zh": "花卉栽培業",
+      "root_note": "flos (flower) + cultura (cultivation), from Latin",
+      "sentences": [
+        {
+          "en": "The valley's mild climate made it ideal for ______ .",
+          "zh": "這座山谷溫和的氣候使其成為花卉栽培的理想之地。"
+        },
+        {
+          "en": "She studied ______ before opening her own flower shop.",
+          "zh": "她在開設自己的花店之前先研讀了花卉栽培學。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "florid",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "flowery, ornate:",
+      "defn_zh": "華麗的/辭藻堆砌的",
+      "root_note": "flos, floris (flower)",
+      "sentences": [
+        {
+          "en": "The poet's ______ language impressed some readers and exhausted others.",
+          "zh": "這位詩人辭藻華麗的語言讓一些讀者印象深刻,卻也讓另一些讀者感到疲乏。"
+        },
+        {
+          "en": "His face turned a ______ shade of red after climbing the stairs.",
+          "zh": "爬完樓梯後,他的臉漲成了紅通通的顏色。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "florist",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a person who sells or arranges flowers:",
+      "defn_zh": "花商;花藝師",
+      "root_note": "flos (flower), from Latin",
+      "sentences": [
+        {
+          "en": "The local ______ arranged a stunning bouquet for the wedding.",
+          "zh": "當地的花藝師為這場婚禮設計了一束令人驚豔的花束。"
+        },
+        {
+          "en": "He ordered roses from his favorite ______ .",
+          "zh": "他向他最喜歡的花商訂購了玫瑰花。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "flourish",
+      "pos": "v./n.",
+      "pos_key": "v.",
+      "defn_en": "to grow vigorously; a decorative embellishment:",
+      "defn_zh": "茁壯成長;誇張的動作",
+      "root_note": "florere (to bloom), from Latin",
+      "sentences": [
+        {
+          "en": "Small businesses began to ______ after the tax reform.",
+          "zh": "稅制改革後,小型企業開始蓬勃發展。"
+        },
+        {
+          "en": "He signed the document with a dramatic ______ .",
+          "zh": "他以誇張的動作簽署了這份文件。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "flout",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to disregard:",
+      "defn_zh": "嘲弄/無視",
+      "root_note": "flouten (to play the flute/mock)",
+      "sentences": [
+        {
+          "en": "The company was fined for continuing to ______ safety regulations.",
+          "zh": "這家公司因持續無視安全規範而遭到罰款。"
+        },
+        {
+          "en": "He openly ______ed the school's dress code every single day.",
+          "zh": "他每天都公然無視學校的服儀規定。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "fluctuate",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to shift, alternate:",
+      "defn_zh": "波動/起伏",
+      "root_note": "fluere (to flow)",
+      "sentences": [
+        {
+          "en": "Gas prices tend to ______ throughout the year.",
+          "zh": "汽油價格全年往往會有所波動。"
+        },
+        {
+          "en": "Her mood seemed to ______ wildly from one hour to the next.",
+          "zh": "她的情緒似乎每隔一小時就劇烈起伏一次。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "fluctuation",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "an irregular rise and fall in number or amount:",
+      "defn_zh": "波動;起伏",
+      "root_note": "fluctuare (to wave), from Latin",
+      "sentences": [
+        {
+          "en": "Investors watched the currency's daily ______ s closely.",
+          "zh": "投資人密切關注這種貨幣每日的波動。"
+        },
+        {
+          "en": "Hormonal ______ s can affect mood and energy levels.",
+          "zh": "荷爾蒙的波動可能會影響情緒與精力水平。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "fluent",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "expressing yourself readily, clearly, effectively:",
+      "defn_zh": "流利的/流暢的",
+      "root_note": "fluere (to flow)",
+      "sentences": [
+        {
+          "en": "After two years abroad, she became ______ in French.",
+          "zh": "在國外生活兩年後,她的法語變得十分流利。"
+        },
+        {
+          "en": "His ______ delivery made the complicated topic easy to follow.",
+          "zh": "他流暢的表達方式讓這個複雜的主題變得容易理解。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "fluid",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "continuous amorphous matter that tends to flow:",
+      "defn_zh": "流體/液體",
+      "root_note": "fluere (to flow)",
+      "sentences": [
+        {
+          "en": "Doctors advised her to drink plenty of ______s while recovering.",
+          "zh": "醫生建議她在康復期間多攝取水分。"
+        },
+        {
+          "en": "Engineers studied how the ______ moved through the narrow pipes.",
+          "zh": "工程師研究了這種液體如何流經狹窄的管道。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "flummox",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to bewilder or confuse someone completely:",
+      "defn_zh": "使困惑;使不知所措",
+      "root_note": "of uncertain English dialect origin",
+      "sentences": [
+        {
+          "en": "The unexpected question ______ ed the candidate.",
+          "zh": "這個出乎意料的問題讓這位候選人不知所措。"
+        },
+        {
+          "en": "She was completely ______ ed by the complicated instructions.",
+          "zh": "她完全被這些複雜的說明搞糊塗了。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "fluster",
+      "pos": "v./n.",
+      "pos_key": "v.",
+      "defn_en": "to make someone nervous or confused; a state of agitation:",
+      "defn_zh": "使慌亂;慌張狀態",
+      "root_note": "of uncertain Scandinavian origin",
+      "sentences": [
+        {
+          "en": "The reporter's aggressive questions began to ______ the spokesperson.",
+          "zh": "這位記者咄咄逼人的提問開始讓這位發言人感到慌亂。"
+        },
+        {
+          "en": "She answered the interview questions without a trace of ______ .",
+          "zh": "她回答面試問題時毫無慌張的跡象。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "foible",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a minor weakness or eccentricity in character:",
+      "defn_zh": "小缺點;怪癖",
+      "root_note": "faible (weak), from Old French",
+      "sentences": [
+        {
+          "en": "Everyone has their own quirky ______ s.",
+          "zh": "每個人都有自己奇特的小怪癖。"
+        },
+        {
+          "en": "His only ______ was a slight obsession with punctuality.",
+          "zh": "他唯一的小毛病就是對準時有著輕微的執著。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "foil",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to thwart, frustrate, defeat:",
+      "defn_zh": "挫敗/阻撓",
+      "root_note": "",
+      "sentences": [
+        {
+          "en": "Police managed to ______ the robbery before any money was taken.",
+          "zh": "警方在任何財物被偷走之前成功阻止了這起搶案。"
+        },
+        {
+          "en": "Her quick thinking helped ______ the scammer's plan.",
+          "zh": "她的機智反應幫助挫敗了這名詐騙犯的計謀。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "foilage",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "an alternate/variant spelling of foliage, the leaves of plants collectively:",
+      "defn_zh": "葉子;葉叢(foliage之異體)",
+      "root_note": "folium (leaf), from Latin",
+      "sentences": [
+        {
+          "en": "Autumn ______ painted the hillside in shades of red and gold.",
+          "zh": "秋日的葉叢將這片山坡染成了紅與金的色調。"
+        },
+        {
+          "en": "Thick ______ shaded the forest floor from the midday sun.",
+          "zh": "茂密的葉叢為林地遮擋住了正午的陽光。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "foist",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to force upon, pass off slyly:",
+      "defn_zh": "偷偷插入/強加",
+      "root_note": "fust (fist)",
+      "sentences": [
+        {
+          "en": "The company tried to ______ an unwanted upgrade onto its customers.",
+          "zh": "這家公司試圖將一項不受歡迎的升級強加在顧客身上。"
+        },
+        {
+          "en": "He always manages to ______ his chores onto his younger brother.",
+          "zh": "他總是設法把家務事偷偷丟給弟弟做。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "follower",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a person who supports or is influenced by another:",
+      "defn_zh": "追隨者;粉絲",
+      "root_note": "folgian (to follow), from Old English",
+      "sentences": [
+        {
+          "en": "The guru attracted thousands of devoted ______ s.",
+          "zh": "這位導師吸引了數千名忠實的追隨者。"
+        },
+        {
+          "en": "Her social media ______ s grew rapidly after the viral post.",
+          "zh": "她的社群媒體追隨者在那則爆紅的貼文後迅速增加。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "foment",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to stir up, instigate:",
+      "defn_zh": "煽動/挑起",
+      "root_note": "fovere (to heat)",
+      "sentences": [
+        {
+          "en": "The propaganda was designed to ______ unrest among the population.",
+          "zh": "這份宣傳的目的是要煽動民眾的不安情緒。"
+        },
+        {
+          "en": "Agitators tried to ______ rebellion within the ranks.",
+          "zh": "煽動者試圖在隊伍內部挑起叛亂。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "fondness",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a liking or affection for someone or something:",
+      "defn_zh": "喜愛;鍾愛",
+      "root_note": "fond (foolish, then affectionate), from Middle English fonned",
+      "sentences": [
+        {
+          "en": "She has a particular ______ for old jazz records.",
+          "zh": "她對老式爵士唱片有著特別的鍾愛。"
+        },
+        {
+          "en": "His ______ for his hometown never faded.",
+          "zh": "他對故鄉的喜愛從未消退。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "foodie",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a person with a particular interest in food, especially fine cuisine:",
+      "defn_zh": "美食愛好者",
+      "root_note": "food, from Old English foda",
+      "sentences": [
+        {
+          "en": "As a self-proclaimed ______ , she reviews restaurants online.",
+          "zh": "身為自稱的美食愛好者,她在網路上撰寫餐廳評論。"
+        },
+        {
+          "en": "The city's food festival drew ______ s from across the country.",
+          "zh": "這座城市的美食節吸引了來自全國各地的美食愛好者。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "foolhardy",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "recklessly bold or rash:",
+      "defn_zh": "有勇無謀的;魯莽的",
+      "root_note": "fol (foolish) + hardi (bold), from Old French",
+      "sentences": [
+        {
+          "en": "It was ______ to attempt the climb without proper equipment.",
+          "zh": "沒有適當裝備就試圖攀登,實在是有勇無謀。"
+        },
+        {
+          "en": "His ______ investment nearly bankrupted the company.",
+          "zh": "他魯莽的投資幾乎讓這家公司破產。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "foolish",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "lacking good sense; unwise:",
+      "defn_zh": "愚蠢的",
+      "root_note": "fol (fool), from Old French",
+      "sentences": [
+        {
+          "en": "It would be ______ to ignore the warning signs.",
+          "zh": "無視這些警訊將會是愚蠢的行為。"
+        },
+        {
+          "en": "She felt ______ after realizing her mistake.",
+          "zh": "意識到自己的錯誤後,她感到很愚蠢。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "foolishness",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "the quality of being unwise or silly:",
+      "defn_zh": "愚蠢;傻氣",
+      "root_note": "fol (fool), from Old French",
+      "sentences": [
+        {
+          "en": "His ______ nearly cost him his job.",
+          "zh": "他的愚蠢差點讓他丟了工作。"
+        },
+        {
+          "en": "The comedy relies heavily on gentle ______ for laughs.",
+          "zh": "這部喜劇大量依靠溫和的傻氣來製造笑點。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "fop",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "a man overly concerned with his appearance and fashion:",
+      "defn_zh": "花花公子;紈褲子弟",
+      "root_note": "of uncertain Middle English origin",
+      "sentences": [
+        {
+          "en": "The play mocks the vain young ______ obsessed with his wardrobe.",
+          "zh": "這齣戲嘲弄了那位痴迷於自己衣櫃、虛榮的紈褲子弟。"
+        },
+        {
+          "en": "He was dismissed as a mere ______ despite his sharp intellect.",
+          "zh": "儘管他頭腦敏銳,卻仍被視為只是個花花公子。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "forage",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to graze, rummage for food:",
+      "defn_zh": "覓食/搜尋",
+      "root_note": "",
+      "sentences": [
+        {
+          "en": "Deer often ______ for food along the edge of the forest at dawn.",
+          "zh": "鹿群經常在黎明時分沿著森林邊緣覓食。"
+        },
+        {
+          "en": "The survivors had to ______ through the abandoned houses for supplies.",
+          "zh": "這些倖存者必須在廢棄房屋中搜尋物資。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "forbearance",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "patience, restraint, toleration:",
+      "defn_zh": "忍耐/克制",
+      "root_note": "",
+      "sentences": [
+        {
+          "en": "The teacher's ______ with the disruptive student was truly admirable.",
+          "zh": "這位老師對這個搗蛋學生展現的耐心令人欽佩。"
+        },
+        {
+          "en": "She showed remarkable ______ despite the constant provocations.",
+          "zh": "儘管不斷受到挑釁,她仍展現出驚人的克制力。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "forbearing",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "patient and self-controlled, especially in difficult situations:",
+      "defn_zh": "容忍的;寬容的",
+      "root_note": "for- (thoroughly) + bear, from Old English beran",
+      "sentences": [
+        {
+          "en": "Her ______ attitude toward her difficult in-laws impressed everyone.",
+          "zh": "她對難相處的姻親所展現的寬容態度讓每個人都印象深刻。"
+        },
+        {
+          "en": "The teacher remained ______ despite the students' constant interruptions.",
+          "zh": "儘管學生不斷打斷,這位老師仍保持容忍。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "forbid",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to refuse to allow something:",
+      "defn_zh": "禁止",
+      "root_note": "for- (against) + bid, from Old English forbeodan",
+      "sentences": [
+        {
+          "en": "The school began to ______ the use of phones in class.",
+          "zh": "這所學校開始禁止課堂上使用手機。"
+        },
+        {
+          "en": "Her parents ______ her from going to the concert alone.",
+          "zh": "她的父母禁止她獨自去參加演唱會。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "forbidding",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "unfriendly or threatening in appearance:",
+      "defn_zh": "令人生畏的;險惡的",
+      "root_note": "for- (against) + bid, from Old English forbeodan",
+      "sentences": [
+        {
+          "en": "The castle's ______ walls kept intruders at bay.",
+          "zh": "這座城堡令人生畏的城牆讓入侵者望而卻步。"
+        },
+        {
+          "en": "Dark clouds gave the sky a ______ appearance.",
+          "zh": "烏雲讓天空呈現出一種令人生畏的樣貌。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "forestall",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to prevent, thwart, delay:",
+      "defn_zh": "預先阻止/搶先",
+      "root_note": "",
+      "sentences": [
+        {
+          "en": "The company raised prices early to ______ potential losses from new tariffs.",
+          "zh": "這家公司提前漲價,以搶先避免新關稅可能造成的損失。"
+        },
+        {
+          "en": "Quick medical attention helped ______ any further complications.",
+          "zh": "及時的醫療處置有助於預先阻止任何進一步的併發症。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "foretell",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to predict or estimate something that will happen in the future:",
+      "defn_zh": "預言/預示",
+      "root_note": "",
+      "sentences": [
+        {
+          "en": "The fortune teller tried to ______ the future based on the cards.",
+          "zh": "這位算命師試圖根據卡牌來預言未來。"
+        },
+        {
+          "en": "Ancient prophecies ______ the end of the world.",
+          "zh": "古老的預言曾預示著世界末日的到來。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "forge",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to create or form something through effort or through heating and shaping, especially metal:",
+      "defn_zh": "鍛造/締造",
+      "root_note": "fabricare (to make)",
+      "sentences": [
+        {
+          "en": "The blacksmith ______ a new sword from the hot iron.",
+          "zh": "這位鐵匠用燒紅的鐵鍛造出一把新劍。"
+        },
+        {
+          "en": "The two nations worked together to ______ a lasting peace agreement.",
+          "zh": "這兩個國家共同努力,締造出一份持久的和平協議。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "forlorn",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "sad, pitiful, distressed:",
+      "defn_zh": "孤苦伶仃的/絕望的",
+      "root_note": "for- (completely) + leosan (to lose)",
+      "sentences": [
+        {
+          "en": "The abandoned puppy looked ______ standing in the rain.",
+          "zh": "這隻被遺棄的小狗站在雨中,看起來十分可憐孤單。"
+        },
+        {
+          "en": "She wandered the empty house with a ______ expression.",
+          "zh": "她帶著絕望孤寂的表情在這棟空蕩蕩的房子裡遊蕩。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "forsake",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to give up, renounce:",
+      "defn_zh": "拋棄/放棄",
+      "root_note": "",
+      "sentences": [
+        {
+          "en": "He refused to ______ his principles, even when it cost him the promotion.",
+          "zh": "即使因此失去升遷機會,他也拒絕放棄自己的原則。"
+        },
+        {
+          "en": "She vowed never to ______ her family, no matter the circumstances.",
+          "zh": "她發誓無論情況如何,絕不會拋棄自己的家人。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "forswear",
+      "pos": "v.",
+      "pos_key": "v.",
+      "defn_en": "to formally renounce or reject something:",
+      "defn_zh": "發誓放棄;摒棄",
+      "root_note": "for- (away) + swear, from Old English forswerian",
+      "sentences": [
+        {
+          "en": "He decided to ______ alcohol after the health scare.",
+          "zh": "在這次健康驚嚇後,他決定戒酒。"
+        },
+        {
+          "en": "The activist ______ ore violence in favor of peaceful protest.",
+          "zh": "這位社運人士摒棄暴力,轉而支持和平抗議。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "forthright",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "direct and outspoken:",
+      "defn_zh": "直率的;坦率的",
+      "root_note": "forth (forward) + right, from Old English",
+      "sentences": [
+        {
+          "en": "She gave a ______ answer to the difficult question.",
+          "zh": "她對這個困難的問題給出了直率的答案。"
+        },
+        {
+          "en": "His ______ manner sometimes came across as blunt.",
+          "zh": "他直率的態度有時給人一種生硬的感覺。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "forthrightness",
+      "pos": "n.",
+      "pos_key": "n.",
+      "defn_en": "the quality of being direct and outspoken:",
+      "defn_zh": "直率;坦誠",
+      "root_note": "forth (forward) + right, from Old English",
+      "sentences": [
+        {
+          "en": "Colleagues respected her ______ even when it was uncomfortable.",
+          "zh": "同事們敬重她的直率,即使有時令人不太舒服。"
+        },
+        {
+          "en": "His ______ during negotiations earned him a reputation for honesty.",
+          "zh": "他在談判中的坦誠讓他贏得了誠實的名聲。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "forthwith",
+      "pos": "adv.",
+      "pos_key": "adv.",
+      "defn_en": "immediately:",
+      "defn_zh": "立即",
+      "root_note": "forth (forward) + with (accompanying)",
+      "sentences": [
+        {
+          "en": "The manager demanded that the faulty equipment be replaced ______.",
+          "zh": "經理要求立即更換這台故障的設備。"
+        },
+        {
+          "en": "Employees were told to evacuate the building ______ after the alarm sounded.",
+          "zh": "警報響起後,員工被要求立即撤離大樓。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "fortuitous",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "lucky, accidental:",
+      "defn_zh": "偶然的/幸運的",
+      "root_note": "fors (chance/luck)",
+      "sentences": [
+        {
+          "en": "Their meeting at the airport was entirely ______, yet it changed both their lives.",
+          "zh": "他們在機場的相遇純屬偶然,卻改變了兩人的一生。"
+        },
+        {
+          "en": "It was a ______ coincidence that the two old friends moved to the same city.",
+          "zh": "這兩位老朋友搬到同一座城市純屬幸運的巧合。"
+        }
+      ],
+      "category": null
+    },
+    {
+      "word": "fortunate",
+      "pos": "adj.",
+      "pos_key": "adj.",
+      "defn_en": "having good luck; favorable:",
+      "defn_zh": "幸運的",
+      "root_note": "fortuna (chance, luck), from Latin",
+      "sentences": [
+        {
+          "en": "She felt ______ to have such supportive friends.",
+          "zh": "她覺得自己很幸運能有這麼支持她的朋友。"
+        },
+        {
+          "en": "It was ______ that the storm passed without much damage.",
+          "zh": "幸運的是,這場暴風雨過去後沒有造成太大的損害。"
+        }
+      ],
+      "category": null
+    }
+  ],
+  "family_options": {},
+  "fallback_options": {
+    "v.": [
+      {
+        "word": "abound",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to exist in great numbers:",
+        "defn_zh": "充滿"
+      },
+      {
+        "word": "abrogate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to deprive of legal force, to nullify:=abolish",
+        "defn_zh": "廢除/取消"
+      },
+      {
+        "word": "abjure",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to renounce, abstain from:",
+        "defn_zh": "發誓放棄/棄絕"
+      },
+      {
+        "word": "abbreviate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to shorten a word or phrase:",
+        "defn_zh": "縮寫;縮短"
+      },
+      {
+        "word": "abdicate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to give up a position, usually one of leadership:",
+        "defn_zh": "退位/放棄(職位)"
+      },
+      {
+        "word": "abduct",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to kidnap, take by force:",
+        "defn_zh": "綁架/劫持"
+      },
+      {
+        "word": "abhor",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to regard with disgust and hatred:",
+        "defn_zh": "憎惡/厭惡"
+      },
+      {
+        "word": "abnegate",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to deny or renounce:",
+        "defn_zh": "放棄/克制"
+      },
+      {
+        "word": "abolish",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to formally put an end to a system, practice, or institution:",
+        "defn_zh": "廢除"
+      },
+      {
+        "word": "abort",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to give up on a half-finished project or effort:",
+        "defn_zh": "中止/放棄"
+      },
+      {
+        "word": "abrade",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to scrape or wear away by friction:",
+        "defn_zh": "磨損;擦傷"
+      },
+      {
+        "word": "abscond",
+        "pos": "v.",
+        "pos_key": "v.",
+        "defn_en": "to sneak away and hide:",
+        "defn_zh": "潛逃/逃匿"
+      }
+    ],
+    "adj.": [
+      {
+        "word": "abortive",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "fruitless, failing:",
+        "defn_zh": "失敗的/夭折的"
+      },
+      {
+        "word": "abstemious",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "moderate in eating or drinking:",
+        "defn_zh": "飲食有節制的"
+      },
+      {
+        "word": "abhorrent",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "detestable, despised:",
+        "defn_zh": "令人厭惡的"
+      },
+      {
+        "word": "absurd",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "ridiculous:",
+        "defn_zh": "荒謬的"
+      },
+      {
+        "word": "aberrant",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "deviating from what is normal or expected:",
+        "defn_zh": "異常的;脫軌的"
+      },
+      {
+        "word": "abject",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "wretched, pitiful:",
+        "defn_zh": "卑賤的/淒慘的"
+      },
+      {
+        "word": "abominable",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "causing moral revulsion; extremely unpleasant:",
+        "defn_zh": "可憎的;惡劣的"
+      },
+      {
+        "word": "abounding",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "existing in large numbers or amounts:",
+        "defn_zh": "大量存在的;豐富的"
+      },
+      {
+        "word": "abrasive",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "showing little concern for others; harsh:",
+        "defn_zh": "粗暴的/刺耳的"
+      },
+      {
+        "word": "abrupt",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "sudden or unexpected; brief and curt in manner:",
+        "defn_zh": "突然的/唐突的"
+      },
+      {
+        "word": "abstract",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "existing purely in the mind; not representing actual reality:",
+        "defn_zh": "抽象的"
+      },
+      {
+        "word": "abstruse",
+        "pos": "adj.",
+        "pos_key": "adj.",
+        "defn_en": "hard to comprehend:",
+        "defn_zh": "深奧難懂的"
+      }
+    ],
+    "n.": [
+      {
+        "word": "aversion",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "strong dislike, opposition:",
+        "defn_zh": "厭惡/反感"
+      },
+      {
+        "word": "aberration",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "something that differs from the norm:",
+        "defn_zh": "異常/脫軌"
+      },
+      {
+        "word": "abjection",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a state of complete misery, hopelessness, or degradation:",
+        "defn_zh": "卑賤;悲慘狀態"
+      },
+      {
+        "word": "abjuration",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the solemn renunciation of a belief, cause, or claim:",
+        "defn_zh": "公開放棄;誓絕"
+      },
+      {
+        "word": "ablution",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the act of washing oneself, especially as part of a religious ritual:",
+        "defn_zh": "沐浴;淨身儀式"
+      },
+      {
+        "word": "abnegation",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "denial of comfort to oneself:",
+        "defn_zh": "自我克制/放棄"
+      },
+      {
+        "word": "abomination",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "something that causes disgust or hatred:",
+        "defn_zh": "可憎之事;令人厭惡的東西"
+      },
+      {
+        "word": "abridgement",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a shortened version of a book or other written work:",
+        "defn_zh": "節略本;縮減版"
+      },
+      {
+        "word": "absolution",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "freedom from blame, guilt, sin:",
+        "defn_zh": "赦免/免罪"
+      },
+      {
+        "word": "abstemiousness",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "moderation or self-restraint, especially in eating and drinking:",
+        "defn_zh": "節制;克己"
+      },
+      {
+        "word": "abstinence",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "the practice of restraining oneself from something enjoyable, especially food, alcohol, or sex:",
+        "defn_zh": "節制;戒絕"
+      },
+      {
+        "word": "avocation",
+        "pos": "n.",
+        "pos_key": "n.",
+        "defn_en": "a hobby or minor occupation apart from one's main career:",
+        "defn_zh": "副業;業餘愛好"
+      }
+    ],
+    "adv.": [
+      {
+        "word": "accordingly",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in a manner that fits the circumstances; consequently:",
+        "defn_zh": "相應地;因此"
+      },
+      {
+        "word": "inadvertently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "unintentionally or by accident:",
+        "defn_zh": "無意間/不小心地"
+      },
+      {
+        "word": "consequently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "as a result; therefore:",
+        "defn_zh": "因此;結果"
+      },
+      {
+        "word": "contemptuously",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "without respect; in a disdainful manner:",
+        "defn_zh": "輕蔑地"
+      },
+      {
+        "word": "involuntarily",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "done without conscious control:",
+        "defn_zh": "不由自主地"
+      },
+      {
+        "word": "cordially",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in a warm or friendly manner:",
+        "defn_zh": "誠摯地/友好地"
+      },
+      {
+        "word": "ipso facto",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "by that very fact or act:",
+        "defn_zh": "事實上;因此"
+      },
+      {
+        "word": "en passant",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "in passing; incidentally:",
+        "defn_zh": "順帶一提地;偶然地"
+      },
+      {
+        "word": "regardless",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "despite the prevailing circumstances; without being deterred:",
+        "defn_zh": "不管怎樣;儘管如此"
+      },
+      {
+        "word": "subsequently",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "afterward; following in time or order:",
+        "defn_zh": "隨後;其後"
+      },
+      {
+        "word": "aside",
+        "pos": "adv./n.",
+        "pos_key": "adv.",
+        "defn_en": "to or on one side; a remark not meant to be heard by everyone:",
+        "defn_zh": "在旁邊;旁白"
+      },
+      {
+        "word": "vice versa",
+        "pos": "adv.",
+        "pos_key": "adv.",
+        "defn_en": "with the order or meaning reversed; conversely:",
+        "defn_zh": "反之亦然"
+      }
+    ],
+    "other": [
+      {
+        "word": "（此批單字中，暫無符合此字根/字首的單字）",
+        "pos": "",
+        "pos_key": "other",
+        "defn_en": "",
+        "defn_zh": ""
+      }
+    ],
+    "prep./adv.": [
+      {
+        "word": "besides",
+        "pos": "prep./adv.",
+        "pos_key": "prep./adv.",
+        "defn_en": "in addition to; furthermore:",
+        "defn_zh": "除...之外;此外"
+      }
+    ],
+    "phrasalv.": [
+      {
+        "word": "egg on",
+        "pos": "phrasal v.",
+        "pos_key": "phrasalv.",
+        "defn_en": "to encourage someone to do something, often risky:",
+        "defn_zh": "慫恿;鼓動"
+      },
+      {
+        "word": "carry out",
+        "pos": "phrasal v.",
+        "pos_key": "phrasalv.",
+        "defn_en": "to perform or complete a task:",
+        "defn_zh": "執行；完成"
+      },
+      {
+        "word": "look into",
+        "pos": "phrasal v.",
+        "pos_key": "phrasalv.",
+        "defn_en": "to investigate or examine something:",
+        "defn_zh": "調查；研究"
+      },
+      {
+        "word": "put off",
+        "pos": "phrasal v.",
+        "pos_key": "phrasalv.",
+        "defn_en": "to postpone something until a later time:",
+        "defn_zh": "延後；推遲"
+      },
+      {
+        "word": "rule out",
+        "pos": "phrasal v.",
+        "pos_key": "phrasalv.",
+        "defn_en": "to eliminate something as a possibility:",
+        "defn_zh": "排除（可能性）"
+      }
+    ],
+    "abbr.": [
+      {
+        "word": "etc.",
+        "pos": "abbr.",
+        "pos_key": "abbr.",
+        "defn_en": "and other similar things (abbreviation of et cetera):",
+        "defn_zh": "等等(et cetera的縮寫)"
+      },
+      {
+        "word": "e.g.",
+        "pos": "abbr.",
+        "pos_key": "abbr.",
+        "defn_en": "for example:",
+        "defn_zh": "例如"
+      },
+      {
+        "word": "i.e.",
+        "pos": "abbr.",
+        "pos_key": "abbr.",
+        "defn_en": "that is; in other words:",
+        "defn_zh": "也就是說；換言之"
+      },
+      {
+        "word": "approx.",
+        "pos": "abbr.",
+        "pos_key": "abbr.",
+        "defn_en": "approximately; about but not exactly:",
+        "defn_zh": "大約；約略"
+      },
+      {
+        "word": "vs.",
+        "pos": "abbr.",
+        "pos_key": "abbr.",
+        "defn_en": "versus; against or in comparison with:",
+        "defn_zh": "對；與……相比"
+      }
+    ],
+    "interj.": [
+      {
+        "word": "fiddledeedee",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "an exclamation expressing dismissal of something as nonsense:",
+        "defn_zh": "廢話!(表示不屑一顧)"
+      },
+      {
+        "word": "gesundheit",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "an expression said to someone who has just sneezed:",
+        "defn_zh": "保重(打噴嚏後的祝福語)"
+      },
+      {
+        "word": "alas",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "used to express sadness, regret, or disappointment:",
+        "defn_zh": "唉；哎呀（表示悲傷或遺憾）"
+      },
+      {
+        "word": "bravo",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "used to express approval or admiration:",
+        "defn_zh": "好極了；太棒了"
+      },
+      {
+        "word": "ouch",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "used to express sudden pain:",
+        "defn_zh": "哎喲（表示疼痛）"
+      },
+      {
+        "word": "phew",
+        "pos": "interj.",
+        "pos_key": "interj.",
+        "defn_en": "used to express relief, fatigue, or surprise:",
+        "defn_zh": "呼；唷（表示鬆一口氣、疲累或驚訝）"
+      }
+    ],
+    "prep.": [
+      {
+        "word": "via",
+        "pos": "prep.",
+        "pos_key": "prep.",
+        "defn_en": "by way of; passing through:",
+        "defn_zh": "經由;透過"
+      },
+      {
+        "word": "amid",
+        "pos": "prep.",
+        "pos_key": "prep.",
+        "defn_en": "in the middle of or surrounded by:",
+        "defn_zh": "在……之中；被……圍繞"
+      },
+      {
+        "word": "beneath",
+        "pos": "prep.",
+        "pos_key": "prep.",
+        "defn_en": "in or to a lower position than something:",
+        "defn_zh": "在……下方"
+      },
+      {
+        "word": "despite",
+        "pos": "prep.",
+        "pos_key": "prep.",
+        "defn_en": "without being affected or prevented by:",
+        "defn_zh": "儘管；不管"
+      },
+      {
+        "word": "throughout",
+        "pos": "prep.",
+        "pos_key": "prep.",
+        "defn_en": "in every part of or during the whole period of:",
+        "defn_zh": "遍及；貫穿整段期間"
+      }
+    ]
+  }
+}
