@@ -1,7 +1,8 @@
 /* Speaker buttons on the left, review marks, quiz shortcuts and the study bar. */
 
 .word-card-header { align-items: center; }
-.word-title { display: flex; align-items: center; gap: .6rem; min-width: 0; }
+.word-title { display: flex; align-items: center; gap: .6rem; min-width: 0; flex-wrap: wrap; }
+.word-title .review-toggle { margin-left: .2rem; }
 .word-title .speak-button { flex: 0 0 auto; }
 .review-word { cursor: pointer; border-radius: 6px; transition: background .15s, color .15s; }
 .review-word:hover { color: var(--coral); }
@@ -21,7 +22,7 @@
 }
 .review-toggle:hover { border-color: var(--gold); }
 .review-toggle.on { background: #fff1c9; border-color: var(--gold); color: #7a5a00; }
-.option-explanation .review-toggle { margin-left: auto; font-size: .7rem; padding: .2rem .55rem; }
+.review-toggle.small { font-size: .7rem; padding: .2rem .55rem; margin-left: .3rem; }
 
 [data-say] { cursor: default; }
 .dictionary-link[data-say], .quiz-option[data-say], .review-word[data-say] { cursor: pointer; }
@@ -147,3 +148,25 @@ body.has-study-bar { padding-bottom: 92px; }
   .word-card-header { flex-wrap: wrap; }
   .quiz-callout-actions > * { flex: 1 1 100%; text-align: center; }
 }
+
+/* Review list drawer (saved words from every unit) */
+.drawer-backdrop { position: fixed; inset: 0; background: rgba(16, 47, 60, .35); z-index: 60; }
+.review-drawer {
+  position: fixed; top: 0; left: 0; bottom: 0; z-index: 61;
+  width: min(460px, 100%); overflow-y: auto;
+  background: var(--paper); box-shadow: 18px 0 40px rgba(21, 58, 74, .25);
+  padding: 1.2rem 1.25rem 2rem;
+}
+.drawer-head { display: flex; justify-content: space-between; align-items: flex-start; gap: 1rem; }
+.drawer-head h2 { font: 700 1.45rem/1.2 Georgia, serif; margin: 0; }
+.drawer-close { border: 0; background: #edf1ef; border-radius: 50%; width: 34px; height: 34px; font-weight: 800; }
+.drawer-actions { display: flex; flex-wrap: wrap; gap: .5rem; align-items: center; margin: 1rem 0 .4rem; }
+.drawer-actions .primary-button, .drawer-actions .secondary-button { padding: .6rem .9rem; font-size: .88rem; }
+.drawer-list section { margin-top: 1rem; }
+.drawer-list h3 { font: 800 .78rem Inter, sans-serif; letter-spacing: .06em; text-transform: uppercase; color: var(--coral); margin: 0 0 .3rem; }
+.drawer-row { display: grid; grid-template-columns: auto auto 1fr auto; gap: .55rem; align-items: center; padding: .45rem 0; border-top: 1px solid #e5e0d7; }
+.drawer-row .speak-button { width: 28px; height: 28px; font-size: .8rem; }
+.drawer-row strong { cursor: pointer; }
+.drawer-row span { color: #5f737a; font-size: .85rem; }
+.drawer-remove { border: 0; background: none; color: var(--bad); font-weight: 800; padding: .2rem .45rem; border-radius: 6px; }
+.drawer-remove:hover { background: #f9e3df; }

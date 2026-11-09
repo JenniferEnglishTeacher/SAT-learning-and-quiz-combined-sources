@@ -114,7 +114,7 @@ function linkedDefinition(definition, allWords = false) {
     output += esc(source.slice(cursor, match.index));
     const token = match[0];
     const normalized = token.toLocaleLowerCase();
-    output += allWords || (token.length > 2 && !definitionStopWords.has(normalized)) ? dictionaryLink(token) : esc(token);
+    output += allWords || (token.length > 2 && !definitionStopWords.has(normalized)) ? dictionaryLink(token, token, true) : esc(token);
     cursor = match.index + token.length;
     match = pattern.exec(source);
   }
@@ -213,41 +213,77 @@ function observeReferenceRelations(container, word) {
   referenceRelationObserver.observe(container);
 }
 
-/* ---------------- Review list (words the student marks) ---------------- */
+/* ---------------- Review list (words the student marks, across ALL units) ---------------- */
 
-const reviewKey = () => `satVocabReview:${batch.id}`;
+const REVIEW_KEY = 'satVocabReviewWords';
+const wordKey = word => String(word).toLocaleLowerCase();
+// Map of lowercase word -> saved word record (with its unit), shared by every batch page.
+let reviewStore = new Map();
+// Lowercase words marked in this unit, kept for quick UI lookups.
 let reviewWords = new Set();
 
 function loadReview() {
-  const valid = new Set(batch.words.map(item => item.word));
-  reviewWords = new Set(readStore(reviewKey(), []).filter(word => valid.has(word)));
+  reviewStore = new Map(readStore(REVIEW_KEY, []).filter(item => item && item.word).map(item => [wordKey(item.word), item]));
+  // One-time move of marks saved by the earlier per-unit version.
+  const legacyKey = `satVocabReview:${batch.id}`;
+  const legacy = readStore(legacyKey, null);
+  if (Array.isArray(legacy)) {
+    legacy.forEach(word => { const item = batch.words.find(entry => entry.word === word); if (item) reviewStore.set(wordKey(word), reviewRecord(item)); });
+    try { localStorage.removeItem(legacyKey); } catch { /* ignore */ }
+    writeStore(REVIEW_KEY, [...reviewStore.values()]);
+  }
+  syncReviewWords();
+}
+
+function syncReviewWords() {
+  reviewWords = new Set(batch.words.map(item => item.word).filter(word => reviewStore.has(wordKey(word))));
+}
+
+function reviewRecord(item) {
+  return {
+    word: item.word, pos: item.pos, pos_key: item.pos_key, defn_en: item.defn_en, defn_zh: item.defn_zh,
+    root_note: item.root_note || '', sentences: item.sentences || [],
+    batchId: batch.id, batchName: batch.name, partLabel: batch.part_label, addedAt: Date.now()
+  };
 }
 
 function saveReview() {
-  writeStore(reviewKey(), [...reviewWords]);
+  writeStore(REVIEW_KEY, [...reviewStore.values()]);
+  syncReviewWords();
   refreshReviewUi();
 }
 
+const isMarked = word => reviewStore.has(wordKey(word));
+
 function toggleReview(word, force) {
-  const on = force ?? !reviewWords.has(word);
-  if (on) reviewWords.add(word); else reviewWords.delete(word);
+  const key = wordKey(word);
+  const on = force ?? !reviewStore.has(key);
+  if (on) {
+    if (!reviewStore.has(key)) {
+      const item = batch.words.find(entry => entry.word === word) || quizWords.find(entry => entry.word === word);
+      if (!item) return;
+      reviewStore.set(key, item.batchId ? item : reviewRecord(item));
+    }
+  } else {
+    reviewStore.delete(key);
+  }
   saveReview();
 }
 
-const isBatchWord = word => batch.words.some(item => item.word === word);
+const isBatchWord = word => batch.words.some(item => item.word === word) || reviewStore.has(wordKey(word));
 
-function reviewToggle(word) {
-  const on = reviewWords.has(word);
-  return `<button class="review-toggle${on ? ' on' : ''}" type="button" data-review="${encodeURIComponent(word)}" aria-pressed="${on}" title="Add this word to the words I want to review">${on ? '★ Review' : '☆ Review'}</button>`;
+function reviewToggle(word, small = false) {
+  const on = isMarked(word);
+  return `<button class="review-toggle${small ? ' small' : ''}${on ? ' on' : ''}" type="button" data-review="${encodeURIComponent(word)}" aria-pressed="${on}" title="Add this word to the words I want to review">${on ? '★ Review' : '☆ Review'}</button>`;
 }
 
 function wordTitle(word) {
-  return `<div class="word-title">${speaker(word.word, `Listen to ${word.word}`)}<h3 class="review-word${reviewWords.has(word.word) ? ' marked' : ''}" ${say(word.word)} data-review="${encodeURIComponent(word.word)}" title="Click to mark for review">${esc(word.word)} <span class="pos">${esc(word.pos)}</span></h3></div>`;
+  return `<div class="word-title">${speaker(word.word, `Listen to ${word.word}`)}<h3 class="review-word${isMarked(word.word) ? ' marked' : ''}" ${say(word.word)} data-review="${encodeURIComponent(word.word)}" title="Click to mark for review">${esc(word.word)} <span class="pos">${esc(word.pos)}</span></h3>${reviewToggle(word.word)}</div>`;
 }
 
 function refreshReviewUi() {
   document.querySelectorAll('[data-review]').forEach(node => {
-    const on = reviewWords.has(decodeURIComponent(node.dataset.review));
+    const on = isMarked(decodeURIComponent(node.dataset.review));
     if (node.classList.contains('review-toggle')) {
       node.classList.toggle('on', on);
       node.setAttribute('aria-pressed', String(on));
@@ -256,20 +292,46 @@ function refreshReviewUi() {
       node.classList.toggle('marked', on);
     }
   });
-  const count = reviewWords.size;
+  const count = reviewStore.size;
+  const here = reviewWords.size;
   const reviewButton = document.querySelector('#bar-review');
   if (reviewButton) {
     reviewButton.disabled = count < 4;
     reviewButton.innerHTML = `★ Test the words I want to review <span class="bar-count">${count}</span>`;
-    reviewButton.title = count < 4 ? 'Mark at least 4 words (click a word or its ☆ Review button).' : `Start a quiz with your ${count} marked words`;
+    reviewButton.title = count < 4 ? 'Mark at least 4 words (click a word or its ☆ Review button).' : `Start a quiz with your ${count} saved words from every unit`;
+  }
+  const listButton = document.querySelector('#bar-list');
+  if (listButton) {
+    listButton.hidden = count === 0;
+    listButton.textContent = `My review list (${count})`;
   }
   const hint = document.querySelector('#bar-hint');
-  if (hint) hint.textContent = count === 0 ? 'Click any word to mark it for review.' : count < 4 ? `Mark ${4 - count} more word${4 - count === 1 ? '' : 's'} to start a review quiz.` : '';
-  const clear = document.querySelector('#bar-clear');
-  if (clear) clear.hidden = count === 0;
+  if (hint) hint.textContent = count === 0 ? 'Click any word to save it for review — saved words stay when you change units.' : count < 4 ? `Save ${4 - count} more word${4 - count === 1 ? '' : 's'} to start a review quiz.` : `${here} from this unit · ${count} from all units`;
+  if (document.querySelector('#review-drawer:not([hidden])')) renderReviewDrawer();
+}
+
+function renderReviewDrawer() {
+  const drawer = document.querySelector('#review-drawer');
+  const items = [...reviewStore.values()];
+  const groups = new Map();
+  items.forEach(item => {
+    const key = item.batchName || 'Other';
+    if (!groups.has(key)) groups.set(key, []);
+    groups.get(key).push(item);
+  });
+  drawer.innerHTML = `<div class="drawer-head"><div><p class="eyebrow">MY REVIEW LIST</p><h2>${items.length} saved word${items.length === 1 ? '' : 's'} from ${groups.size} unit${groups.size === 1 ? '' : 's'}</h2></div><button class="drawer-close" type="button" data-close-drawer aria-label="Close">✕</button></div><div class="drawer-actions"><button class="primary-button" type="button" data-start-quiz="review"${items.length < 4 ? ' disabled' : ''}>★ Test these words</button><button class="secondary-button" type="button" data-download-review${items.length ? '' : ' disabled'}>⬇ Download (Excel)</button><button class="link-button" type="button" data-clear-review${items.length ? '' : ' hidden'}>Clear all</button></div>${items.length < 4 ? '<p class="muted">Save at least 4 words to start a review quiz.</p>' : ''}<div class="drawer-list">${[...groups.entries()].map(([name, list]) => `<section><h3>${esc(name)}</h3>${list.map(item => `<div class="drawer-row">${speaker(item.word, `Listen to ${item.word}`)}<strong ${say(item.word)}>${esc(item.word)}</strong><span>${esc(item.pos || '')} · ${esc(item.defn_zh || '')}</span><button class="drawer-remove" type="button" data-review="${encodeURIComponent(item.word)}" title="Remove from review list">✕</button></div>`).join('')}</section>`).join('') || '<p class="muted">No words saved yet. Click any word (or ☆ Review) in any unit.</p>'}</div>`;
+}
+
+function openReviewDrawer(open = true) {
+  const drawer = document.querySelector('#review-drawer');
+  drawer.hidden = !open;
+  document.querySelector('#drawer-backdrop').hidden = !open;
+  if (open) renderReviewDrawer();
 }
 
 /* ---------------- Global click handling ---------------- */
+
+document.addEventListener('keydown', event => { if (event.key === 'Escape') openReviewDrawer(false); });
 
 document.addEventListener('click', event => {
   const button = event.target.closest('[data-speak]');
@@ -277,7 +339,15 @@ document.addEventListener('click', event => {
   const review = event.target.closest('[data-review]');
   if (review) { toggleReview(decodeURIComponent(review.dataset.review)); return; }
   const quizButton = event.target.closest('[data-start-quiz]');
-  if (quizButton) { event.preventDefault(); openQuiz(quizButton.dataset.startQuiz); }
+  if (quizButton) { event.preventDefault(); openReviewDrawer(false); openQuiz(quizButton.dataset.startQuiz); return; }
+  if (event.target.closest('[data-close-drawer]') || event.target.id === 'drawer-backdrop') { openReviewDrawer(false); return; }
+  if (event.target.closest('#bar-list')) { openReviewDrawer(true); return; }
+  if (event.target.closest('[data-download-review]')) { downloadReviewList(); return; }
+  if (event.target.closest('[data-clear-review]')) {
+    if (!confirm(`Remove all ${reviewStore.size} saved review words from every unit?`)) return;
+    reviewStore.clear();
+    saveReview();
+  }
 });
 
 /* ---------------- Learn & reference rendering ---------------- */
@@ -349,7 +419,7 @@ function sectionHeading(section) {
 function quizCallout() {
   const box = document.createElement('div');
   box.className = 'quiz-callout';
-  box.innerHTML = `<div><strong>Ready to check yourself?</strong><p>Take the quiz for all ${batch.words.length} words, or test only the words you marked ★.</p></div><div class="quiz-callout-actions"><button class="primary-button" type="button" data-start-quiz="batch">📝 Take the quiz</button><button class="secondary-button" type="button" data-start-quiz="review" data-needs-review>★ Test my review words</button></div>`;
+  box.innerHTML = `<div><strong>Ready to check yourself?</strong><p>Take the quiz for all ${batch.words.length} words, or test the words you saved ★ from every unit.</p></div><div class="quiz-callout-actions"><button class="primary-button" type="button" data-start-quiz="batch">📝 Take the quiz</button><button class="secondary-button" type="button" data-start-quiz="review" data-needs-review>★ Test my review words</button></div>`;
   return box;
 }
 
@@ -364,7 +434,7 @@ function renderLearn() {
     const options = shuffle([word, ...candidates(word, 2)]);
     const card = document.createElement('article');
     card.className = 'word-card';
-    card.innerHTML = `<div class="word-card-header">${wordTitle(word)}${reviewToggle(word.word)}</div><p class="root-note"><strong>Root clue:</strong> ${esc(word.root_note || 'Use the word in context.')}</p><div class="sentences">${word.sentences.map(sentence => { const text = full(sentence.en, word.word); return `<div class="sentence">${speaker(text, 'Listen to example sentence')}<span ${say(text)}>${esc(text)}</span></div>`; }).join('')}</div><p class="definition-prompt">Which definition matches this word?</p><p class="definition-link-help">Click a definition card to answer, or click any underlined word to look it up.</p><div class="option-list">${options.map(option => `<div class="option-button definition-option" role="button" tabindex="0" data-definition="${encodeURIComponent(option.defn_en)}"><span class="definition-option-text">${linkedDefinition(option.defn_en, true)}</span><span class="definition-option-action" aria-hidden="true">Choose</span></div>`).join('')}</div><div class="reveal" hidden><p><strong>English definition:</strong> <span class="linked-definition">${linkedDefinition(word.defn_en)}</span></p><p class="dictionary-help">Click any underlined content word to open Cambridge English–Traditional Chinese Dictionary.</p><div class="word-relations" data-word-relations><p class="relation-status">Loading synonyms and antonyms…</p></div><p class="meaning-zh"><strong>繁體中文：</strong> ${esc(word.defn_zh)}</p>${word.sentences.map(sentence => `<p><strong>翻譯：</strong> ${esc(sentence.zh)}</p>`).join('')}</div>`;
+    card.innerHTML = `<div class="word-card-header">${wordTitle(word)}</div><p class="root-note"><strong>Root clue:</strong> ${esc(word.root_note || 'Use the word in context.')}</p><div class="sentences">${word.sentences.map(sentence => { const text = full(sentence.en, word.word); return `<div class="sentence">${speaker(text, 'Listen to example sentence')}<span ${say(text)}>${esc(text)}</span></div>`; }).join('')}</div><p class="definition-prompt">Which definition matches this word?</p><p class="definition-link-help">Click a definition card to answer, or click any underlined word to look it up.</p><div class="option-list">${options.map(option => `<div class="option-button definition-option" role="button" tabindex="0" data-definition="${encodeURIComponent(option.defn_en)}"><span class="definition-option-text">${linkedDefinition(option.defn_en, true)}</span><span class="definition-option-action" aria-hidden="true">Choose</span></div>`).join('')}</div><div class="reveal" hidden><p><strong>English definition:</strong> <span class="linked-definition">${linkedDefinition(word.defn_en)}</span></p><p class="dictionary-help">Click any underlined content word to open Cambridge English–Traditional Chinese Dictionary.</p><div class="word-relations" data-word-relations><p class="relation-status">Loading synonyms and antonyms…</p></div><p class="meaning-zh"><strong>繁體中文：</strong> ${esc(word.defn_zh)}</p>${word.sentences.map(sentence => `<p><strong>翻譯：</strong> ${esc(sentence.zh)}</p>`).join('')}</div>`;
     const answerDefinition = button => {
       if (card.dataset.answered) return;
       card.dataset.answered = 'true';
@@ -408,7 +478,7 @@ function renderReference() {
     }
     const card = document.createElement('article');
     card.className = 'reference-card';
-    card.innerHTML = `<div class="word-card-header">${wordTitle(word)}${reviewToggle(word.word)}</div><p class="root-note reference-root-note"><strong>Prefix/root clue:</strong> ${esc(word.root_note || 'Use the word in context.')}</p><div class="reference-definitions"><div class="reference-definition"><strong>English definition</strong><span class="linked-definition">${linkedDefinition(word.defn_en)}</span><span class="dictionary-help">Click any underlined content word to open Cambridge English–Traditional Chinese Dictionary.</span></div><div class="reference-definition"><strong>繁體中文</strong>${esc(word.defn_zh)}</div></div><div class="word-relations reference-relations" data-word-relations><p class="relation-status">Loading synonyms and antonyms…</p></div><div class="reference-sentences">${word.sentences.map(sentence => { const text = full(sentence.en, word.word); return `<div class="reference-sentence"><div>${speaker(text, 'Listen to example sentence')}<span ${say(text)}>${highlighted(text, word.word)}</span></div><p><strong>翻譯：</strong> ${esc(sentence.zh)}</p></div>`; }).join('')}</div>`;
+    card.innerHTML = `<div class="word-card-header">${wordTitle(word)}</div><p class="root-note reference-root-note"><strong>Prefix/root clue:</strong> ${esc(word.root_note || 'Use the word in context.')}</p><div class="reference-definitions"><div class="reference-definition"><strong>English definition</strong><span class="linked-definition">${linkedDefinition(word.defn_en)}</span><span class="dictionary-help">Click any underlined content word to open Cambridge English–Traditional Chinese Dictionary.</span></div><div class="reference-definition"><strong>繁體中文</strong>${esc(word.defn_zh)}</div></div><div class="word-relations reference-relations" data-word-relations><p class="relation-status">Loading synonyms and antonyms…</p></div><div class="reference-sentences">${word.sentences.map(sentence => { const text = full(sentence.en, word.word); return `<div class="reference-sentence"><div>${speaker(text, 'Listen to example sentence')}<span ${say(text)}>${highlighted(text, word.word)}</span></div><p><strong>翻譯：</strong> ${esc(sentence.zh)}</p></div>`; }).join('')}</div>`;
     referenceGrid.append(card);
     observeReferenceRelations(card.querySelector('[data-word-relations]'), word);
   });
@@ -419,7 +489,9 @@ function renderReference() {
 /* ---------------- Quiz ---------------- */
 
 function quizLabel() {
-  return quizKind === 'review' ? `${batch.name} · Review set (${quizWords.length} words)` : batch.name;
+  if (quizKind !== 'review') return batch.name;
+  const units = new Set(quizWords.map(item => item.batchName || batch.name));
+  return `Review set (${quizWords.length} words from ${units.size} unit${units.size === 1 ? '' : 's'}: ${[...units].join(', ')})`.slice(0, 250);
 }
 
 function prepareQuizForm() {
@@ -428,7 +500,7 @@ function prepareQuizForm() {
   const intro = document.querySelector('#quiz-intro');
   if (quizKind === 'review') {
     title.textContent = 'Test the words I want to review';
-    intro.textContent = `A new multiple-choice set made only from the ${quizWords.length} words you marked. All four choices in every question come from your review words.`;
+    intro.textContent = `A new multiple-choice set made only from the ${quizWords.length} words you saved, from every unit. All four choices in every question come from your review words.`;
     note.innerHTML = `<strong>${quizWords.length} review words:</strong> ${quizWords.map(item => esc(item.word)).join(', ')}`;
   } else {
     title.textContent = 'Test your memory';
@@ -442,7 +514,7 @@ function prepareQuizForm() {
 }
 
 function openQuiz(kind) {
-  if (kind === 'review' && reviewWords.size < 4) {
+  if (kind === 'review' && reviewStore.size < 4) {
     alert('Mark at least 4 words first: click a word or its ☆ Review button.');
     return;
   }
@@ -453,7 +525,7 @@ function openQuiz(kind) {
     quizActive = false;
   }
   quizKind = kind === 'review' ? 'review' : 'batch';
-  quizWords = quizKind === 'review' ? batch.words.filter(item => reviewWords.has(item.word)) : [...batch.words];
+  quizWords = quizKind === 'review' ? [...reviewStore.values()] : [...batch.words];
   prepareQuizForm();
   setMode('quiz');
 }
@@ -487,7 +559,7 @@ function renderQuestion() {
   document.querySelector('#quiz-progress').textContent = `Question ${q + 1} of ${order.length}`;
   document.querySelector('#live-score').textContent = `Score ${score}/${q}`;
   card.dataset.answered = 'false';
-  card.innerHTML = `<h3>Which word completes both sentences?</h3><div class="blank-sentences">${target.sentences.map(sentence => `<div class="blank-sentence">${speaker(sentence.en, 'Listen to sentence')}<span ${say(sentence.en)}>${esc(sentence.en)}</span></div>`).join('')}</div><div class="quiz-options">${options.map(option => `<button class="quiz-option" type="button" ${say(option.word)} data-word="${encodeURIComponent(option.word)}">${esc(option.word)}</button>`).join('')}</div><div class="option-explanations" hidden>${options.map(option => `<div class="option-explanation"><strong>${speaker(option.word, `Listen to ${option.word}`)}<span ${say(option.word)}>${esc(option.word)}</span>${isBatchWord(option.word) ? reviewToggle(option.word) : ''}</strong><span>${esc(option.defn_en)} · ${esc(option.defn_zh)}</span></div>`).join('')}</div><div class="next-row" hidden><button class="primary-button" id="next-question">${q + 1 === order.length ? 'See results' : 'Next question'}</button></div>`;
+  card.innerHTML = `<h3>Which word completes both sentences?</h3><div class="blank-sentences">${target.sentences.map(sentence => `<div class="blank-sentence">${speaker(sentence.en, 'Listen to sentence')}<span ${say(sentence.en)}>${esc(sentence.en)}</span></div>`).join('')}</div><div class="quiz-options">${options.map(option => `<button class="quiz-option" type="button" ${say(option.word)} data-word="${encodeURIComponent(option.word)}">${esc(option.word)}</button>`).join('')}</div><div class="option-explanations" hidden>${options.map(option => `<div class="option-explanation"><strong>${speaker(option.word, `Listen to ${option.word}`)}<span ${say(option.word)}>${esc(option.word)}</span>${isBatchWord(option.word) ? reviewToggle(option.word, true) : ''}</strong><span>${esc(option.defn_en)} · ${esc(option.defn_zh)}</span></div>`).join('')}</div><div class="next-row" hidden><button class="primary-button" id="next-question">${q + 1 === order.length ? 'See results' : 'Next question'}</button></div>`;
   card.querySelectorAll('[data-word]').forEach(button => button.addEventListener('click', () => answer(button, target)));
 }
 
@@ -555,7 +627,7 @@ async function logResult(summary) {
     quizBatchNumber: label,
     resultPercentage: summary.percentage,
     mistakeWords: summary.mistakes.map(item => item.word).join(', '),
-    batchId: batch.id,
+    batchId: quizKind === 'review' ? 'review-set' : batch.id,
     quizType: quizKind,
     score: summary.score,
     answered: summary.answered,
@@ -610,7 +682,7 @@ async function finishQuiz(early = false) {
   panel.innerHTML = `<p class="eyebrow">${quizKind === 'review' ? 'REVIEW SET COMPLETE' : endedEarly ? 'QUIZ ENDED' : 'BATCH COMPLETE'}</p><h2>${percentage >= 80 ? 'Excellent work.' : 'Keep practicing.'}</h2><p><strong>Student:</strong> ${esc(currentStudent.name)}${currentStudent.className ? ` · ${esc(currentStudent.className)}` : ''}</p><div class="score-ring" style="--score:${percentage * 3.6}deg"><strong>${percentage}%</strong></div><p>You answered ${score} of ${answered} correctly${endedEarly ? ` (${answered} of ${total} questions attempted)` : ''}.</p>${sentLine}${mistakeList}<div class="result-actions"><button class="primary-button" type="button" id="download-mistakes"${practiceCount ? '' : ' disabled'}>⬇ Download mistakes (Excel)</button>${mistakes.length ? '<button class="secondary-button" type="button" id="mark-mistakes">★ Add mistakes to my review words</button>' : ''}<button class="secondary-button" type="button" data-start-quiz="${quizKind}">↻ Try again</button><a class="secondary-button" href="index.html">Choose another batch</a></div>${practiceCount ? '' : '<p class="muted">No mistakes — nothing to download.</p>'}`;
   panel.querySelector('#download-mistakes')?.addEventListener('click', downloadMistakes);
   panel.querySelector('#mark-mistakes')?.addEventListener('click', event => {
-    mistakes.forEach(item => reviewWords.add(item.word));
+    mistakes.forEach(item => { if (!reviewStore.has(wordKey(item.word))) reviewStore.set(wordKey(item.word), item.batchId ? item : reviewRecord(item)); });
     saveReview();
     event.currentTarget.textContent = '✓ Added to your review words';
     event.currentTarget.disabled = true;
@@ -636,6 +708,7 @@ function mistakeRows() {
     'No.': index + 1,
     Status: item.status,
     Word: item.word,
+    Unit: item.batchName || batch.name,
     POS: item.pos || '',
     'Your answer': item.chosen || '',
     'English definition': item.defn_en || '',
@@ -651,7 +724,7 @@ function mistakeRows() {
 function downloadFileName(extension) {
   const safe = value => String(value || '').replace(/[\\/:*?"<>|]+/g, '').replace(/\s+/g, '_').slice(0, 40);
   const date = new Date().toISOString().slice(0, 10);
-  return `${safe(batch.id)}${lastQuiz.kind === 'review' ? '_review' : ''}_mistakes_${safe(lastQuiz.student?.name)}_${date}.${extension}`;
+  return `${lastQuiz.kind === 'review' ? 'review-set' : safe(batch.id)}_mistakes_${safe(lastQuiz.student?.name)}_${date}.${extension}`;
 }
 
 async function downloadMistakes() {
@@ -661,7 +734,7 @@ async function downloadMistakes() {
   try {
     if (!window.XLSX) await loadScript('assets/vendor/xlsx.mini.min.js');
     const sheet = XLSX.utils.json_to_sheet(rows);
-    sheet['!cols'] = [6, 13, 18, 8, 18, 40, 22, 30, 55, 35, 55, 35].map(wch => ({ wch }));
+    sheet['!cols'] = [6, 13, 18, 22, 8, 18, 40, 22, 30, 55, 35, 55, 35].map(wch => ({ wch }));
     const info = XLSX.utils.aoa_to_sheet([
       ['Student', lastQuiz.student?.name || ''],
       ['Class', lastQuiz.student?.className || ''],
@@ -687,6 +760,52 @@ async function downloadMistakes() {
     link.remove();
     setTimeout(() => URL.revokeObjectURL(url), 1000);
   }
+}
+
+async function writeWorkbook(sheets, fileName, csvRows) {
+  try {
+    if (!window.XLSX) await loadScript('assets/vendor/xlsx.mini.min.js');
+    const book = XLSX.utils.book_new();
+    sheets.forEach(({ name, sheet }) => XLSX.utils.book_append_sheet(book, sheet(), name));
+    XLSX.writeFile(book, `${fileName}.xlsx`);
+  } catch {
+    // Fallback: a UTF-8 CSV that Excel and Google Sheets both open.
+    const headers = Object.keys(csvRows[0]);
+    const cell = value => `"${String(value).replaceAll('"', '""')}"`;
+    const csv = [headers.map(cell).join(','), ...csvRows.map(row => headers.map(key => cell(row[key])).join(','))].join('\r\n');
+    const url = URL.createObjectURL(new Blob(['\ufeff' + csv], { type: 'text/csv;charset=utf-8' }));
+    const link = Object.assign(document.createElement('a'), { href: url, download: `${fileName}.csv` });
+    document.body.append(link);
+    link.click();
+    link.remove();
+    setTimeout(() => URL.revokeObjectURL(url), 1000);
+  }
+}
+
+function downloadReviewList() {
+  const items = [...reviewStore.values()];
+  if (!items.length) return;
+  const rows = items.map((item, index) => ({
+    'No.': index + 1,
+    Word: item.word,
+    Unit: item.batchName || '',
+    POS: item.pos || '',
+    'English definition': item.defn_en || '',
+    '繁體中文': item.defn_zh || '',
+    'Root clue': item.root_note || '',
+    'Example sentence 1': item.sentences?.[0] ? full(item.sentences[0].en, item.word) : '',
+    '翻譯 1': item.sentences?.[0]?.zh || '',
+    'Example sentence 2': item.sentences?.[1] ? full(item.sentences[1].en, item.word) : '',
+    '翻譯 2': item.sentences?.[1]?.zh || ''
+  }));
+  const student = readStore('satVocabStudent', null);
+  const safe = value => String(value || '').replace(/[\\/:*?"<>|]+/g, '').replace(/\s+/g, '_').slice(0, 40);
+  const fileName = `my_review_words${student?.name ? `_${safe(student.name)}` : ''}_${new Date().toISOString().slice(0, 10)}`;
+  writeWorkbook([{ name: 'Review words', sheet: () => {
+    const sheet = XLSX.utils.json_to_sheet(rows);
+    sheet['!cols'] = [6, 18, 24, 8, 40, 22, 30, 55, 35, 55, 35].map(wch => ({ wch }));
+    return sheet;
+  } }], fileName, rows);
 }
 
 function prepareStudentForm() {
@@ -739,14 +858,19 @@ function buildStudyBar() {
   bar.className = 'study-bar';
   bar.setAttribute('role', 'region');
   bar.setAttribute('aria-label', 'Quiz and review tools');
-  bar.innerHTML = `<button class="primary-button" type="button" id="bar-quiz" data-start-quiz="batch">📝 Quiz</button><button class="secondary-button" type="button" id="bar-review" data-start-quiz="review"></button><button class="link-button" type="button" id="bar-clear" hidden>Clear marks</button><span class="bar-hint" id="bar-hint"></span><button class="hover-toggle" type="button" id="bar-hover" aria-pressed="${hoverSpeech}" title="Speak words, synonyms, antonyms and sentences when the mouse moves over them. If you hear nothing, click anywhere on the page once."></button>`;
+  bar.innerHTML = `<button class="primary-button" type="button" id="bar-quiz" data-start-quiz="batch">📝 Quiz</button><button class="secondary-button" type="button" id="bar-review" data-start-quiz="review"></button><button class="secondary-button" type="button" id="bar-list" hidden></button><span class="bar-hint" id="bar-hint"></span><button class="hover-toggle" type="button" id="bar-hover" aria-pressed="${hoverSpeech}" title="Speak words, synonyms, antonyms and sentences when the mouse moves over them. If you hear nothing, click anywhere on the page once."></button>`;
   document.body.append(bar);
   document.body.classList.add('has-study-bar');
-  bar.querySelector('#bar-clear').addEventListener('click', () => {
-    if (!confirm(`Remove all ${reviewWords.size} review marks for this batch?`)) return;
-    reviewWords.clear();
-    saveReview();
-  });
+  const backdrop = document.createElement('div');
+  backdrop.id = 'drawer-backdrop';
+  backdrop.className = 'drawer-backdrop';
+  backdrop.hidden = true;
+  const drawer = document.createElement('aside');
+  drawer.id = 'review-drawer';
+  drawer.className = 'review-drawer';
+  drawer.setAttribute('aria-label', 'My review list');
+  drawer.hidden = true;
+  document.body.append(backdrop, drawer);
   bar.querySelector('#bar-hover').addEventListener('click', () => {
     hoverSpeech = !hoverSpeech;
     writeStore('satVocabHoverSpeech', hoverSpeech);
@@ -764,10 +888,17 @@ function refreshBar() {
   hover.setAttribute('aria-pressed', String(hoverSpeech));
   hover.textContent = hoverSpeech ? '🔊 Hover to listen: On' : '🔇 Hover to listen: Off';
   document.querySelectorAll('[data-needs-review]').forEach(node => {
-    node.disabled = reviewWords.size < 4;
-    node.title = reviewWords.size < 4 ? 'Mark at least 4 words first.' : '';
+    node.disabled = reviewStore.size < 4;
+    node.title = reviewStore.size < 4 ? 'Save at least 4 words first.' : '';
   });
 }
+
+window.addEventListener('storage', event => {
+  if (event.key !== REVIEW_KEY || !batch) return;
+  reviewStore = new Map(readStore(REVIEW_KEY, []).map(item => [wordKey(item.word), item]));
+  syncReviewWords();
+  refreshReviewUi();
+});
 
 window.addEventListener('popstate', () => {
   const next = new URLSearchParams(location.search).get('mode');
@@ -796,9 +927,10 @@ if (!batchId) {
     document.querySelector('#batch-title').textContent = batch.name;
     document.querySelector('#batch-subtitle').textContent = `${batch.subtitle} · ${batch.count} words`;
     loadReview();
+    writeStore('satVocabLastBatch', batch.id);
     buildStudyBar();
     history.replaceState({ mode }, '', location.href);
-    if (mode === 'quiz' && params.get('set') === 'review' && reviewWords.size >= 4) {
+    if (mode === 'quiz' && params.get('set') === 'review' && reviewStore.size >= 4) {
       openQuiz('review');
       history.replaceState({ mode: 'quiz' }, '', location.href);
     } else {
