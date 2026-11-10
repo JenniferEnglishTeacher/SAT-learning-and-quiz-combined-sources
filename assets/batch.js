@@ -8,6 +8,7 @@ const fill = document.querySelector('#progress-fill');
 const progressCopy = document.querySelector('#progress-copy');
 
 let batch;
+let batchIndex = null;
 let learned = 0;
 const rendered = { learn: false, list: false, quiz: false };
 
@@ -468,22 +469,76 @@ function renderLearn() {
   rendered.learn = true;
 }
 
+function unitLabel(item) {
+  const match = /^Unclassified (\d+) \((.*)\)$/.exec(item.name || '');
+  if (match) return { name: `未歸類 ${match[1]}`, sub: match[2] };
+  return { name: item.name, sub: item.subtitle || '' };
+}
+
+function renderUnitNav() {
+  const nav = document.createElement('aside');
+  nav.className = 'unit-nav';
+  nav.setAttribute('aria-label', 'Switch unit');
+  const groups = [
+    ['part1', 'Part 1 字首篇', 'Prefixes'],
+    ['part2', 'Part 2 字根篇', 'Roots'],
+    ['unclassified', '未歸類', 'Unclassified']
+  ];
+  const items = (batchIndex?.batches || []);
+  nav.innerHTML = `<div class="unit-nav-search"><input type="search" placeholder="Search unit or word…" aria-label="Search unit or word"></div><div class="unit-nav-list">${groups.map(([part, title, en]) => {
+    const list = items.filter(item => item.part === part);
+    if (!list.length) return '';
+    return `<div class="unit-nav-group" data-group="${part}"><p class="unit-nav-heading">${esc(title)} <span>${esc(en)}</span></p>${list.map(item => {
+      const label = unitLabel(item);
+      const active = item.id === batch.id;
+      return `<a class="unit-nav-item${active ? ' active' : ''}" href="batch.html?batch=${encodeURIComponent(item.id)}&mode=list" data-search="${esc(`${item.name} ${item.subtitle || ''} ${item.search_terms || ''}`.toLocaleLowerCase())}"${active ? ' aria-current="page"' : ''}><span class="unit-nav-name">${esc(label.name)}<small>${esc(label.sub)}</small></span><span class="unit-nav-count">${item.count}</span></a>`;
+    }).join('')}</div>`;
+  }).join('')}<p class="unit-nav-empty" hidden>No unit matches.</p></div>`;
+  const input = nav.querySelector('input');
+  input.addEventListener('input', () => {
+    const query = input.value.trim().toLocaleLowerCase();
+    let shown = 0;
+    nav.querySelectorAll('.unit-nav-group').forEach(group => {
+      let groupShown = 0;
+      group.querySelectorAll('.unit-nav-item').forEach(link => {
+        const hit = !query || link.dataset.search.split(/\s+/).some(token => token.startsWith(query)) || link.dataset.search.includes(query);
+        link.hidden = !hit;
+        if (hit) groupShown += 1;
+      });
+      group.hidden = groupShown === 0;
+      shown += groupShown;
+    });
+    nav.querySelector('.unit-nav-empty').hidden = shown > 0;
+  });
+  return nav;
+}
+
 function renderReference() {
   referenceGrid.innerHTML = '';
+  referenceGrid.classList.add('list-layout');
+  const nav = renderUnitNav();
+  const rows = document.createElement('div');
+  rows.className = 'list-rows';
   let currentSection = '';
-  batch.words.forEach(word => {
+  batch.words.forEach((word, index) => {
     if (word.section && word.section !== currentSection) {
       currentSection = word.section;
-      referenceGrid.append(sectionHeading(currentSection));
+      rows.append(sectionHeading(currentSection));
     }
     const card = document.createElement('article');
-    card.className = 'reference-card';
-    card.innerHTML = `<div class="word-card-header">${wordTitle(word)}</div><p class="root-note reference-root-note"><strong>Prefix/root clue:</strong> ${esc(word.root_note || 'Use the word in context.')}</p><div class="reference-definitions"><div class="reference-definition"><strong>English definition</strong><span class="linked-definition">${linkedDefinition(word.defn_en)}</span><span class="dictionary-help">Click any underlined content word to open Cambridge English–Traditional Chinese Dictionary.</span></div><div class="reference-definition"><strong>繁體中文</strong>${esc(word.defn_zh)}</div></div><div class="word-relations reference-relations" data-word-relations><p class="relation-status">Loading synonyms and antonyms…</p></div><div class="reference-sentences">${word.sentences.map(sentence => { const text = full(sentence.en, word.word); return `<div class="reference-sentence"><div>${speaker(text, 'Listen to example sentence')}<span ${say(text)}>${highlighted(text, word.word)}</span></div><p><strong>翻譯：</strong> ${esc(sentence.zh)}</p></div>`; }).join('')}</div>`;
-    referenceGrid.append(card);
+    card.className = 'reference-card ref-row';
+    card.innerHTML = `<div class="ref-num">${index + 1}</div><div class="ref-word">${wordTitle(word)}<p class="ref-zh">${esc(word.defn_zh)}</p><p class="ref-root"><strong>Clue:</strong> ${esc(word.root_note || 'Use the word in context.')}</p></div><div class="ref-meaning"><p class="ref-def"><span class="linked-definition">${linkedDefinition(word.defn_en)}</span></p><div class="word-relations reference-relations" data-word-relations><p class="relation-status">Loading synonyms and antonyms…</p></div></div><div class="reference-sentences ref-sentences">${word.sentences.map(sentence => { const text = full(sentence.en, word.word); return `<div class="reference-sentence"><div>${speaker(text, 'Listen to example sentence')}<span ${say(text)}>${highlighted(text, word.word)}</span></div><p>${esc(sentence.zh)}</p></div>`; }).join('')}</div>`;
+    rows.append(card);
     observeReferenceRelations(card.querySelector('[data-word-relations]'), word);
   });
-  referenceGrid.append(quizCallout());
+  rows.append(quizCallout());
+  referenceGrid.append(nav, rows);
   rendered.list = true;
+  requestAnimationFrame(() => {
+    const list = nav.querySelector('.unit-nav-list');
+    const active = nav.querySelector('.unit-nav-item.active');
+    if (list && active) list.scrollTop = active.offsetTop - list.offsetTop - list.clientHeight / 2 + active.clientHeight / 2;
+  });
 }
 
 /* ---------------- Quiz ---------------- */
@@ -836,6 +891,7 @@ function setMode(next, push = true) {
     if (key === mode) link.setAttribute('aria-current', 'page'); else link.removeAttribute('aria-current');
   });
   if (mode === 'learn' && !rendered.learn) renderLearn();
+  document.body.classList.toggle('list-mode', mode === 'list');
   if (mode === 'list' && !rendered.list) renderReference();
   if (mode === 'quiz') {
     prepareStudentForm();
@@ -921,6 +977,7 @@ if (!batchId) {
     fetch('data/batches-index.json').then(response => response.json())
   ]).then(([data, index]) => {
     batch = data;
+    batchIndex = index;
     const position = index.batches.findIndex(item => item.id === batch.id) + 1;
     document.querySelector('#batch-counter').textContent = `Batch ${position} of ${index.summary.total_batches}`;
     document.querySelector('#batch-part').textContent = batch.part_label;
