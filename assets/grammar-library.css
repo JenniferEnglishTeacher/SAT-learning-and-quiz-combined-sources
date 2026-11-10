@@ -8,3 +8,8 @@
 .grammar-course-card span{color:#6b7b81;font-size:.8rem;line-height:1.45}
 .grammar-course-card.featured{background:linear-gradient(135deg,#173f4e,#2b6570);color:#fff;border-color:transparent}
 .grammar-course-card.featured span{color:rgba(255,255,255,.76)}
+.gb-two{grid-template-columns:repeat(auto-fit,minmax(280px,1fr))}
+.gb-two .grammar-course-card{min-height:120px;padding:1.3rem}
+.gb-two .grammar-course-card strong{font-size:1.3rem}
+.grammar-course-card.gb-ai-card{background:linear-gradient(135deg,#7a4b12,#c68a12)}
+.gb-index-note{color:#61747c;font-size:.85rem;margin:.8rem 0 0}

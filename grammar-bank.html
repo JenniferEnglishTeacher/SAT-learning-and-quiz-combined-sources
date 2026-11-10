@@ -1,0 +1,92 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="theme-color" content="#153a4a">
+<title>Digital SAT Grammar Question Bank</title>
+<meta name="description" content="Official and AI-generated Digital SAT grammar questions, sorted by grammar concept, with mixed practice and a mistakes list.">
+<link rel="stylesheet" href="assets/styles.css">
+<link rel="stylesheet" href="assets/fixes.css">
+<link rel="stylesheet" href="assets/punctuation.css">
+<link rel="stylesheet" href="assets/grammar-bank.css?v=20261111">
+</head>
+<body>
+<header class="batch-hero grammar-hero gb-hero">
+  <nav class="nav"><a class="brand" href="index.html">← Course map</a><span>Digital SAT Grammar</span></nav>
+  <div class="batch-heading gb-heading">
+    <p class="eyebrow" id="gb-eyebrow">DIGITAL SAT GRAMMAR</p>
+    <h1 id="gb-title">Grammar Question Bank</h1>
+    <p id="gb-sub">Loading…</p>
+    <div class="gb-switch" role="tablist" aria-label="Question set">
+      <a id="sw-official" role="tab" href="grammar-bank.html?set=official"><strong>① 官方題</strong><span id="sw-official-n">Official</span></a>
+      <a id="sw-ai" role="tab" href="grammar-bank.html?set=ai"><strong>② AI 題</strong><span id="sw-ai-n">AI-generated</span></a>
+    </div>
+  </div>
+</header>
+
+<main class="page-shell gb-shell">
+  <section class="gb-toolbar">
+    <div class="search-wrap"><span aria-hidden="true">⌕</span><input id="gb-search" type="search" placeholder="搜尋題目、選項或文法技能（例如 however、colon、its）" autocomplete="off"></div>
+    <select id="gb-filter" aria-label="Filter">
+      <option value="all">全部題目</option>
+      <option value="todo">只看未作答</option>
+      <option value="wrong">只看錯題清單</option>
+    </select>
+    <button type="button" class="gb-btn gb-btn-primary" id="gb-mix">🎲 混合練習</button>
+    <button type="button" class="gb-btn" id="gb-wrong-btn">📋 錯題清單 <b id="gb-wrong-n">0</b></button>
+  </section>
+
+  <div class="gb-layout">
+    <aside class="gb-side" aria-label="Grammar concepts">
+      <p class="eyebrow">文法概念 CONCEPTS</p>
+      <select id="gb-concept-select" class="gb-concept-select" aria-label="Choose a concept"></select>
+      <nav id="gb-concepts"></nav>
+    </aside>
+    <section class="gb-main" id="gb-main" aria-live="polite">
+      <div class="empty-state"><p>Loading questions…</p></div>
+    </section>
+  </div>
+</main>
+
+<div class="gb-overlay" id="gb-overlay" hidden></div>
+
+<dialog id="gb-mix-dialog" class="gb-dialog">
+  <form method="dialog" id="gb-mix-form">
+    <h2>🎲 混合練習</h2>
+    <p class="gb-dim">從選定的文法概念隨機抽題，一次一題，最後顯示成績。</p>
+    <fieldset><legend>題目來源</legend>
+      <label><input type="radio" name="src" value="both" checked> 官方 + AI</label>
+      <label><input type="radio" name="src" value="official"> 只有官方</label>
+      <label><input type="radio" name="src" value="ai"> 只有 AI</label>
+    </fieldset>
+    <fieldset><legend>文法概念 <button type="button" class="gb-link" id="mix-all">全選</button> <button type="button" class="gb-link" id="mix-none">全不選</button></legend>
+      <div id="mix-concepts" class="gb-check-grid"></div>
+    </fieldset>
+    <fieldset><legend>題數</legend>
+      <label><input type="radio" name="count" value="10" checked> 10</label>
+      <label><input type="radio" name="count" value="20"> 20</label>
+      <label><input type="radio" name="count" value="30"> 30</label>
+      <label><input type="radio" name="count" value="0"> 全部</label>
+      <label class="gb-inline"><input type="checkbox" name="unseen"> 優先抽未作答的題目</label>
+    </fieldset>
+    <p class="gb-dim" id="mix-available"></p>
+    <div class="gb-dialog-actions"><button value="cancel" class="gb-btn">取消</button><button value="go" class="gb-btn gb-btn-primary" id="mix-go">開始練習</button></div>
+  </form>
+</dialog>
+
+<aside class="gb-drawer" id="gb-drawer" aria-label="Mistakes list" hidden>
+  <div class="gb-drawer-head"><h2>📋 錯題清單</h2><button type="button" class="gb-x" id="gb-drawer-close" aria-label="Close">✕</button></div>
+  <p class="gb-dim">答錯的題目會自動加入；之後重做答對會自動移除。清單同時包含官方題與 AI 題，只存在這台裝置的瀏覽器裡。</p>
+  <div class="gb-drawer-actions">
+    <button type="button" class="gb-btn gb-btn-primary" id="gb-wrong-practice">重練錯題</button>
+    <button type="button" class="gb-btn" id="gb-wrong-xlsx">下載 Excel</button>
+    <button type="button" class="gb-btn gb-btn-ghost" id="gb-wrong-clear">清除全部</button>
+  </div>
+  <div id="gb-wrong-list"></div>
+</aside>
+
+<footer><p>答題紀錄只存在這台裝置。官方題來源：Digital SAT Practice Tests 1–10。</p></footer>
+<script src="assets/grammar-bank.js?v=20261111" defer></script>
+</body>
+</html>
