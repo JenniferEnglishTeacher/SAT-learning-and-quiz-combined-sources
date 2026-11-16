@@ -208,7 +208,6 @@ window.addEventListener('storage', event => { if (event.key === REVIEW_KEY && ba
 
 document.querySelector('#opt-hide-word').addEventListener('change', applyHideWord);
 document.querySelector('#opt-chinese').addEventListener('change', event => { document.body.classList.toggle('show-zh', event.target.checked); writeStore('satTestVocabShowZh', event.target.checked); });
-document.querySelector('#opt-definition').addEventListener('change', event => { document.body.classList.toggle('show-def', event.target.checked); writeStore('satTestVocabShowDef', event.target.checked); });
 document.querySelector('#opt-hover').addEventListener('change', event => { hoverSpeech = event.target.checked; writeStore('satVocabHoverSpeech', hoverSpeech); if (!hoverSpeech && 'speechSynthesis' in window) speechSynthesis.cancel(); });
 document.querySelector('#tv-filter').addEventListener('input', event => {
   const query = event.target.value.trim().toLocaleLowerCase();
@@ -217,12 +216,9 @@ document.querySelector('#tv-filter').addEventListener('input', event => {
 
 /* ---------- init ---------- */
 const showZh = readStore('satTestVocabShowZh', true) !== false;
-const showDef = readStore('satTestVocabShowDef', false) === true;
 document.querySelector('#opt-chinese').checked = showZh;
-document.querySelector('#opt-definition').checked = showDef;
 document.querySelector('#opt-hover').checked = hoverSpeech;
 document.body.classList.toggle('show-zh', showZh);
-document.body.classList.toggle('show-def', showDef);
 
 Promise.all([
   fetch(`data/batches/${batchId}.json`).then(response => { if (!response.ok) throw Error(); return response.json(); }),
