@@ -1,0 +1,2716 @@
+{
+ "id": "sat-test-01",
+ "part": "mocktest",
+ "part_label": "Digital SAT Practice Test Vocabulary",
+ "name": "Practice Test 1 · Vocabulary",
+ "subtitle": "Words & options from Module 1 and Module 2",
+ "count": 163,
+ "generated": true,
+ "words": [
+  {
+   "word": "former",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "Having previously held a role or position",
+   "defn_zh": "前任的；以前的",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The ______ teacher, who had taught for thirty years, was honored at the school's annual retirement celebration.",
+     "zh": "這位教了三十年書的前任老師，在學校年度退休慶祝會上受到表揚。"
+    }
+   ]
+  },
+  {
+   "word": "astronaut",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "A person trained to travel in space",
+   "defn_zh": "太空人",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The ______ who walked on the moon now gives talks to inspire students about science and exploration.",
+     "zh": "這位曾在月球上漫步的太空人，如今四處演講，激勵學生投入科學與探索。"
+    }
+   ]
+  },
+  {
+   "word": "definite",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "Clearly decided, exact, or without doubt",
+   "defn_zh": "明確的；確定的",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "She gave a ______ answer about attending the event, confirming her plans and schedule very clearly.",
+     "zh": "她對是否出席活動給了明確的答覆，非常清楚地確認了她的計畫與時間安排。"
+    }
+   ]
+  },
+  {
+   "word": "conjecture",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "A guess based on incomplete evidence",
+   "defn_zh": "推測；臆測",
+   "root_note": "con = with, ject = throw",
+   "sentences": [
+    {
+     "en": "His theory that life exists on other planets is just a ______ with no solid scientific proof yet.",
+     "zh": "他認為其他星球上存在生命的理論只是一種推測，目前尚無確切的科學證據。"
+    }
+   ]
+  },
+  {
+   "word": "demand",
+   "pos": "v.",
+   "pos_key": "v.",
+   "defn_en": "To ask for forcefully or urgently",
+   "defn_zh": "強烈要求",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The workers ______ better wages and safer conditions during the protest outside the factory.",
+     "zh": "工人們在工廠外的抗議中強烈要求更好的薪資與更安全的工作環境。",
+     "form": "demanded"
+    }
+   ]
+  },
+  {
+   "word": "speculate",
+   "pos": "v.",
+   "pos_key": "v.",
+   "defn_en": "To guess or form a theory without firm proof",
+   "defn_zh": "推測；猜測",
+   "root_note": "spec = see (= conjecture)",
+   "sentences": [
+    {
+     "en": "Scientists ______ about the existence of water on distant planets based on telescope images.",
+     "zh": "科學家根據望遠鏡影像，推測遙遠行星上是否存在水。"
+    }
+   ]
+  },
+  {
+   "word": "doubt",
+   "pos": "v.",
+   "pos_key": "v.",
+   "defn_en": "To feel uncertain or question the truth",
+   "defn_zh": "懷疑",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "I ______ that the movie will be very good, based on the negative reviews from critics.",
+     "zh": "根據影評人的負評，我懷疑這部電影會不會好看。"
+    }
+   ]
+  },
+  {
+   "word": "legislator",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "A person who creates or changes laws",
+   "defn_zh": "立法者；議員",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The ______ introduced a new bill to protect endangered animals from illegal hunting.",
+     "zh": "這位立法者提出一項新法案，以保護瀕危動物免於非法獵捕。"
+    }
+   ]
+  },
+  {
+   "word": "promote",
+   "pos": "v.",
+   "pos_key": "v.",
+   "defn_en": "To encourage, support, or advance something",
+   "defn_zh": "促進；提倡",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The organization aims to ______ healthy eating habits among young children through school programs.",
+     "zh": "該組織旨在透過學校計畫，在幼童之間提倡健康的飲食習慣。"
+    }
+   ]
+  },
+  {
+   "word": "vast",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "Extremely large in size or amount",
+   "defn_zh": "廣大的；巨大的",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The explorer looked across the ______ desert, which stretched far beyond the horizon in all directions.",
+     "zh": "探險家望向那片廣袤的沙漠，它向四面八方延伸，遠遠超出地平線。"
+    }
+   ]
+  },
+  {
+   "word": "impartial",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "Fair and not biased",
+   "defn_zh": "公正的；不偏不倚的",
+   "root_note": "im = not, partial = biased",
+   "sentences": [
+    {
+     "en": "The judge must be completely ______, treating both sides equally without showing favoritism.",
+     "zh": "法官必須完全公正，平等對待雙方，不得偏袒任何一方。"
+    }
+   ]
+  },
+  {
+   "word": "offhand",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "Done without preparation or thinking",
+   "defn_zh": "隨口的；未經思考的",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "His ______ comment during the meeting surprised everyone and seemed unrelated to the topic.",
+     "zh": "他在會議中隨口說的一句話讓大家都很驚訝，而且似乎與主題無關。"
+    }
+   ]
+  },
+  {
+   "word": "persistent",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "Not giving up easily; continuing firmly",
+   "defn_zh": "堅持不懈的；持續的",
+   "root_note": "per = through, sist = stand",
+   "sentences": [
+    {
+     "en": "Her ______ efforts eventually led to success, even though she failed several times at first.",
+     "zh": "儘管起初失敗了好幾次，她堅持不懈的努力最終帶來了成功。"
+    }
+   ]
+  },
+  {
+   "word": "mandatory",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "Required by law or rule",
+   "defn_zh": "強制的；義務的",
+   "root_note": "mand = order",
+   "sentences": [
+    {
+     "en": "Wearing helmets on motorcycles is ______ in most countries for safety reasons.",
+     "zh": "出於安全考量，在大多數國家騎機車戴安全帽是強制規定。"
+    }
+   ]
+  },
+  {
+   "word": "principle",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "A basic rule, truth, or belief",
+   "defn_zh": "原則；原理",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "One important ______ in science is that claims must be tested with evidence and repeatable results.",
+     "zh": "科學的一項重要原則是：主張必須經由證據與可重複的結果來驗證。"
+    }
+   ]
+  },
+  {
+   "word": "reservation",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "A protected area often designated for Indigenous communities",
+   "defn_zh": "保留區（常指原住民保留地）",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The research team worked closely with leaders from the local ______ to gain permission and input.",
+     "zh": "研究團隊與當地保留區的領袖密切合作，以取得許可與意見。"
+    }
+   ]
+  },
+  {
+   "word": "collaboration",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "Working together",
+   "defn_zh": "合作",
+   "root_note": "co = together, labor = work",
+   "sentences": [
+    {
+     "en": "The project was a result of ______ between students, teachers, and scientists around the world.",
+     "zh": "這項計畫是世界各地學生、教師與科學家合作的成果。"
+    }
+   ]
+  },
+  {
+   "word": "methodology",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "A system of methods used in a study",
+   "defn_zh": "方法論；研究方法",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The researchers clearly explained their ______ so others could repeat the experiment.",
+     "zh": "研究人員清楚說明了他們的研究方法，讓其他人能重複這項實驗。"
+    }
+   ]
+  },
+  {
+   "word": "assist",
+   "pos": "v.",
+   "pos_key": "v.",
+   "defn_en": "To help someone with a task",
+   "defn_zh": "協助",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Volunteers will ______ the elderly during the community health day.",
+     "zh": "志工將在社區健康日協助年長者。"
+    }
+   ]
+  },
+  {
+   "word": "circumvent",
+   "pos": "v.",
+   "pos_key": "v.",
+   "defn_en": "To avoid something cleverly",
+   "defn_zh": "規避；繞過",
+   "root_note": "circum = around, vent = come",
+   "sentences": [
+    {
+     "en": "He tried to ______ the school's rules by using a technical loophole.",
+     "zh": "他試圖利用技術性漏洞來規避學校的規定。"
+    }
+   ]
+  },
+  {
+   "word": "eclipse",
+   "pos": "v.",
+   "pos_key": "v.",
+   "defn_en": "To outshine or surpass completely",
+   "defn_zh": "使黯然失色；超越",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Her performance seemed to ______ all the others in the competition.",
+     "zh": "她的表現似乎讓比賽中其他所有人都黯然失色。"
+    }
+   ]
+  },
+  {
+   "word": "fabricate",
+   "pos": "v.",
+   "pos_key": "v.",
+   "defn_en": "To make up a false story",
+   "defn_zh": "捏造；編造",
+   "root_note": "fabric = make",
+   "sentences": [
+    {
+     "en": "The student tried to ______ an excuse for missing the test but was caught.",
+     "zh": "這名學生試圖捏造缺考的藉口，但被抓到了。"
+    }
+   ]
+  },
+  {
+   "word": "exemplify",
+   "pos": "v.",
+   "pos_key": "v.",
+   "defn_en": "To be a clear example of something",
+   "defn_zh": "是……的典範；例證",
+   "root_note": "ex = out, empli = example",
+   "sentences": [
+    {
+     "en": "His kindness and honesty truly ______ what a good friend should be.",
+     "zh": "他的善良與誠實確實體現了一個好朋友應有的樣子。"
+    }
+   ]
+  },
+  {
+   "word": "parasitic",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "Living off another organism's resources",
+   "defn_zh": "寄生的",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The ______ plant steals nutrients from its host by attaching to its stem.",
+     "zh": "這種寄生植物附著在宿主的莖上，竊取其養分。"
+    }
+   ]
+  },
+  {
+   "word": "increase",
+   "pos": "v.",
+   "pos_key": "v.",
+   "defn_en": "To become larger or more",
+   "defn_zh": "增加",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Regular exercise can ______ your energy levels and improve your overall mood.",
+     "zh": "規律運動可以增加你的活力並改善整體心情。"
+    }
+   ]
+  },
+  {
+   "word": "reproductive",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "Related to creating offspring",
+   "defn_zh": "生殖的；繁殖的",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The frog's ______ success depends on the cleanliness of the water it lives in.",
+     "zh": "青蛙的繁殖成功與否取決於牠所生活水域的潔淨程度。"
+    }
+   ]
+  },
+  {
+   "word": "absorb",
+   "pos": "v.",
+   "pos_key": "v.",
+   "defn_en": "To take in something completely",
+   "defn_zh": "吸收",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The sponge can easily ______ large amounts of water in seconds.",
+     "zh": "這塊海綿能在幾秒內輕易吸收大量的水。"
+    }
+   ]
+  },
+  {
+   "word": "protein",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "A substance in food and body cells important for growth",
+   "defn_zh": "蛋白質",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Meat, eggs, and beans are good sources of ______ your body needs.",
+     "zh": "肉類、蛋和豆類是身體所需蛋白質的良好來源。"
+    }
+   ]
+  },
+  {
+   "word": "synchronization",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "Doing things at the same time",
+   "defn_zh": "同步",
+   "root_note": "syn = together, chron = time",
+   "sentences": [
+    {
+     "en": "The dancers moved with perfect ______, as if they shared the same rhythm.",
+     "zh": "舞者們以完美的同步動作舞動，彷彿共享同一個節奏。"
+    }
+   ]
+  },
+  {
+   "word": "hibernation",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "A long sleep during cold seasons",
+   "defn_zh": "冬眠",
+   "root_note": "hibern = winter",
+   "sentences": [
+    {
+     "en": "Bears survive winter by going into ______ and using stored fat for energy.",
+     "zh": "熊靠進入冬眠並利用儲存的脂肪作為能量來度過冬天。"
+    }
+   ]
+  },
+  {
+   "word": "moderation",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "Avoiding extremes",
+   "defn_zh": "適度；節制",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Eating sweets in ______ is healthier than eating them every day.",
+     "zh": "適量吃甜食比每天都吃要健康。"
+    }
+   ]
+  },
+  {
+   "word": "binary",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "Involving two parts",
+   "defn_zh": "二元的；雙星的",
+   "root_note": "bi = two",
+   "sentences": [
+    {
+     "en": "A ______ system of stars has two stars orbiting each other.",
+     "zh": "雙星系統由兩顆互相環繞的恆星組成。"
+    }
+   ]
+  },
+  {
+   "word": "formation",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "The process of being formed",
+   "defn_zh": "形成",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The scientist studied the ______ of new planets in distant galaxies.",
+     "zh": "這位科學家研究遙遠星系中新行星的形成。"
+    }
+   ]
+  },
+  {
+   "word": "explanation",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "A reason or clarification",
+   "defn_zh": "解釋；說明",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "His clear ______ helped the class understand a difficult idea.",
+     "zh": "他清楚的解釋幫助全班理解了一個困難的概念。"
+    }
+   ]
+  },
+  {
+   "word": "modeling",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "Creating a visual or digital representation",
+   "defn_zh": "建模；模擬",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Computer ______ helps scientists test ideas safely and quickly.",
+     "zh": "電腦建模幫助科學家安全又快速地測試想法。"
+    },
+    {
+     "en": "The scientists used computer-based ______ to simulate how the disease might spread in a large city under different weather conditions.",
+     "zh": "科學家利用電腦建模來模擬這種疾病在不同天氣條件下，可能如何在大城市中擴散。"
+    }
+   ]
+  },
+  {
+   "word": "determine",
+   "pos": "v.",
+   "pos_key": "v.",
+   "defn_en": "To find out or figure through reasoning",
+   "defn_zh": "確定；查明",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The scientist worked to ______ if the drug was effective.",
+     "zh": "這位科學家致力於確定該藥物是否有效。"
+    },
+    {
+     "en": "The team conducted several experiments to ______ whether the strange symptoms were caused by a virus, bacteria, or an environmental factor.",
+     "zh": "團隊進行了多項實驗，以確定這些奇怪的症狀是由病毒、細菌還是環境因素引起。"
+    }
+   ]
+  },
+  {
+   "word": "discernible",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "Noticeable",
+   "defn_zh": "可辨別的；明顯的",
+   "root_note": "dis = apart, cern = separate",
+   "sentences": [
+    {
+     "en": "After analyzing hundreds of survey responses, no clear or ______ trend appeared that could explain the drop in customer satisfaction.",
+     "zh": "分析了數百份問卷回覆後，仍未出現任何明顯可辨的趨勢能解釋顧客滿意度的下滑。"
+    }
+   ]
+  },
+  {
+   "word": "straightforward",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "Clear and simple",
+   "defn_zh": "簡單明瞭的",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The teacher gave ______ instructions for the science experiment, making sure even students with little experience could follow every step.",
+     "zh": "老師為科學實驗給出了簡單明瞭的指示，確保即使經驗不多的學生也能跟上每一個步驟。"
+    }
+   ]
+  },
+  {
+   "word": "inconclusive",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "Not giving a clear result",
+   "defn_zh": "無定論的；不確定的",
+   "root_note": "in = not, conclude = finish",
+   "sentences": [
+    {
+     "en": "The test results were ______, which meant the doctors could not be certain whether the treatment was effective or not.",
+     "zh": "檢驗結果沒有定論，這意味著醫生無法確定治療是否有效。"
+    }
+   ]
+  },
+  {
+   "word": "unbiased",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "Fair, not showing favoritism",
+   "defn_zh": "無偏見的；公正的",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "A good journalist must remain ______ when reporting the news, presenting all sides of a story fairly and without personal opinions.",
+     "zh": "好的記者在報導新聞時必須保持公正，不帶個人意見地公平呈現故事的各方觀點。"
+    }
+   ]
+  },
+  {
+   "word": "tendency",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "A habitual action or trend",
+   "defn_zh": "傾向；趨勢",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "He has a strong ______ to arrive late to meetings, even when reminded several times about the starting time.",
+     "zh": "他有開會遲到的強烈傾向，即使多次被提醒開始時間也一樣。"
+    }
+   ]
+  },
+  {
+   "word": "situate",
+   "pos": "v.",
+   "pos_key": "v.",
+   "defn_en": "To place or position something",
+   "defn_zh": "使位於；設置",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "They chose to ______ the new school near a public park, hoping students would enjoy easy access to green outdoor spaces.",
+     "zh": "他們選擇將新學校設在公園附近，希望學生能輕鬆接近綠色戶外空間。"
+    }
+   ]
+  },
+  {
+   "word": "rejection",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "Act of refusing something",
+   "defn_zh": "拒絕",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "After months of waiting, she received a ______ letter from the university, which was disappointing but not entirely unexpected.",
+     "zh": "等了好幾個月後，她收到了大學的拒絕信，雖然令人失望，但並非完全出乎意料。"
+    }
+   ]
+  },
+  {
+   "word": "revolves around",
+   "pos": "phr.v.",
+   "pos_key": "v.",
+   "defn_en": "Is mainly about",
+   "defn_zh": "以……為中心；圍繞",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The novel's plot ______ a young girl's journey to find her missing brother during a dangerous time in history.",
+     "zh": "這部小說的情節圍繞著一個年輕女孩在歷史上危險時期尋找失蹤哥哥的旅程。"
+    }
+   ]
+  },
+  {
+   "word": "contemporary",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "Modern or current",
+   "defn_zh": "當代的；現代的",
+   "root_note": "con = with, tempo = time",
+   "sentences": [
+    {
+     "en": "This museum features ______ artwork that often uses modern technology and themes relevant to today's political and cultural issues.",
+     "zh": "這座博物館展出當代藝術作品，這些作品經常運用現代科技，以及與當今政治文化議題相關的主題。"
+    }
+   ]
+  },
+  {
+   "word": "slang",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "Informal language",
+   "defn_zh": "俚語",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Teenagers often use ______ that adults find confusing, like shortening words or creating new meanings for familiar terms.",
+     "zh": "青少年常用讓成年人困惑的俚語，例如縮短單字或為熟悉的詞創造新含義。"
+    }
+   ]
+  },
+  {
+   "word": "repudiate",
+   "pos": "v.",
+   "pos_key": "v.",
+   "defn_en": "Strongly reject",
+   "defn_zh": "強烈否認；拒絕接受",
+   "root_note": "re = back, pud = shame",
+   "sentences": [
+    {
+     "en": "In a public statement, the senator strongly ______ the false accusations made against her during the heated political campaign.",
+     "zh": "在一份公開聲明中，這位參議員強烈駁斥了激烈政治競選期間針對她的不實指控。",
+     "form": "repudiated"
+    }
+   ]
+  },
+  {
+   "word": "proclaim",
+   "pos": "v.",
+   "pos_key": "v.",
+   "defn_en": "Declares publicly",
+   "defn_zh": "宣告；宣布",
+   "root_note": "pro = forward, claim = shout",
+   "sentences": [
+    {
+     "en": "Standing before a cheering crowd, the leader proudly ______ the country's independence after years of struggle and negotiation.",
+     "zh": "這位領袖站在歡呼的群眾面前，在多年的奮鬥與談判後，自豪地宣布了國家獨立。",
+     "form": "proclaimed"
+    }
+   ]
+  },
+  {
+   "word": "foretell",
+   "pos": "v.",
+   "pos_key": "v.",
+   "defn_en": "Predicts",
+   "defn_zh": "預言；預示",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The strange dream she had the night before accurately ______ the surprising event that happened the next day at school.",
+     "zh": "她前一晚做的奇怪夢境，準確預示了第二天在學校發生的驚人事件。",
+     "form": "foretold"
+    }
+   ]
+  },
+  {
+   "word": "recant",
+   "pos": "v.",
+   "pos_key": "v.",
+   "defn_en": "Withdraws a statement",
+   "defn_zh": "撤回（聲明）；公開放棄",
+   "root_note": "re = back, cant = sing",
+   "sentences": [
+    {
+     "en": "Under pressure from the public, the scientist ______ his earlier claim, saying it was based on incorrect information and poor data.",
+     "zh": "在公眾壓力下，這位科學家撤回了他先前的主張，表示那是基於錯誤資訊與不良數據。",
+     "form": "recanted"
+    }
+   ]
+  },
+  {
+   "word": "distorted",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "Twisted or unclear",
+   "defn_zh": "扭曲的；失真的",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The reporter's account of the event was ______, leaving out key facts and making the situation appear more dramatic than it was.",
+     "zh": "這名記者對事件的描述遭到扭曲，遺漏了關鍵事實，使情況看起來比實際更戲劇化。"
+    }
+   ]
+  },
+  {
+   "word": "recognize",
+   "pos": "v.",
+   "pos_key": "v.",
+   "defn_en": "Identify something seen before",
+   "defn_zh": "認出；辨認",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "I didn't ______ her at first because she had changed her hairstyle and was wearing sunglasses and a large coat.",
+     "zh": "我一開始沒認出她，因為她換了髮型，還戴著太陽眼鏡、穿著大外套。"
+    }
+   ]
+  },
+  {
+   "word": "automated",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "Done by machines",
+   "defn_zh": "自動化的",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The warehouse uses an ______ system where robots carry boxes and place them on shelves without any human workers involved.",
+     "zh": "這座倉庫使用自動化系統，由機器人搬運箱子並放上貨架，完全不需要人工。"
+    }
+   ]
+  },
+  {
+   "word": "security test",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "A method to block unauthorized access",
+   "defn_zh": "安全驗證",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Before logging in, users must pass a ______ to prove they are human and not a bot trying to hack the account.",
+     "zh": "登入前，使用者必須通過安全驗證，證明自己是人類而非試圖入侵帳號的機器人。"
+    }
+   ]
+  },
+  {
+   "word": "bots",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "Automated online programs",
+   "defn_zh": "機器人程式",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Many websites are attacked by ______ that try to guess passwords or send spam messages to real users without being noticed.",
+     "zh": "許多網站遭到機器人程式攻擊，它們試圖猜測密碼，或在不被察覺的情況下向真實用戶發送垃圾訊息。"
+    }
+   ]
+  },
+  {
+   "word": "digitize",
+   "pos": "v.",
+   "pos_key": "v.",
+   "defn_en": "Converting to digital form",
+   "defn_zh": "數位化",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The museum is working to ______ its entire collection so that people from around the world can view the artworks online.",
+     "zh": "博物館正致力於將整個館藏數位化，讓世界各地的人都能在線上欣賞這些藝術品。"
+    }
+   ]
+  },
+  {
+   "word": "judicial",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "Related to courts or legal systems",
+   "defn_zh": "司法的",
+   "root_note": "judic = judge",
+   "sentences": [
+    {
+     "en": "The country's ______ system is responsible for interpreting laws and ensuring justice in criminal and civil cases.",
+     "zh": "該國的司法系統負責解釋法律，並確保刑事與民事案件中的正義。"
+    }
+   ]
+  },
+  {
+   "word": "philosopher",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "A person who studies life, truth, and ethics",
+   "defn_zh": "哲學家",
+   "root_note": "philo = love, soph = wisdom",
+   "sentences": [
+    {
+     "en": "The ancient Greek ______ taught about the meaning of life, human nature, and happiness.",
+     "zh": "這位古希臘哲學家教導人們關於生命的意義、人性與幸福。"
+    }
+   ]
+  },
+  {
+   "word": "rebut",
+   "pos": "v.",
+   "pos_key": "v.",
+   "defn_en": "To argue against; to prove wrong",
+   "defn_zh": "反駁",
+   "root_note": "re = back, butt = strike",
+   "sentences": [
+    {
+     "en": "She tried to ______ the claims in the article by providing strong facts and logical counterarguments.",
+     "zh": "她試圖提出有力的事實與合乎邏輯的反論，來反駁文章中的說法。"
+    }
+   ]
+  },
+  {
+   "word": "objection",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "A reason for disagreeing or expressing disapproval",
+   "defn_zh": "反對；異議",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The lawyer raised an ______ during the trial, stating that the question was unfair and misleading.",
+     "zh": "律師在審判中提出異議，指出該問題不公平且具誤導性。"
+    }
+   ]
+  },
+  {
+   "word": "align with",
+   "pos": "v.",
+   "pos_key": "v.",
+   "defn_en": "To match or agree with something",
+   "defn_zh": "與……一致",
+   "root_note": "a = to, lign = line",
+   "sentences": [
+    {
+     "en": "The new policy does not ______ the company's values on equality and fairness.",
+     "zh": "新政策與公司在平等與公平方面的價值觀不一致。"
+    }
+   ]
+  },
+  {
+   "word": "campaign",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "An organized effort to achieve a goal",
+   "defn_zh": "運動；活動",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The recycling ______ focused on educating the public about plastic pollution through posters and social media.",
+     "zh": "這項回收運動著重於透過海報與社群媒體，教育大眾認識塑膠污染。"
+    }
+   ]
+  },
+  {
+   "word": "reduction",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "The act of making something smaller",
+   "defn_zh": "減少；降低",
+   "root_note": "re = back, duct = lead",
+   "sentences": [
+    {
+     "en": "There has been a major ______ in air pollution since the city introduced electric buses.",
+     "zh": "自從該市引進電動公車以來，空氣污染已大幅減少。"
+    }
+   ]
+  },
+  {
+   "word": "Epicurean",
+   "pos": "n./adj.",
+   "pos_key": "n.",
+   "defn_en": "A follower of Epicurus; a lover of pleasure or comfort",
+   "defn_zh": "享樂主義者（的）；伊比鳩魯學派的",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "He lived an ______ lifestyle, always seeking fine food, art, and peaceful moments in nature.",
+     "zh": "他過著享樂主義的生活，總是追求美食、藝術與大自然中的寧靜時光。"
+    }
+   ]
+  },
+  {
+   "word": "virtue",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "A good moral quality or behavior",
+   "defn_zh": "美德",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Honesty is a ______ that most cultures value and try to teach to children from a young age.",
+     "zh": "誠實是大多數文化重視、並努力從小教導孩子的一種美德。"
+    }
+   ]
+  },
+  {
+   "word": "derive from",
+   "pos": "v.",
+   "pos_key": "v.",
+   "defn_en": "To come from or be based on something",
+   "defn_zh": "源自於",
+   "root_note": "de = from, riv = stream",
+   "sentences": [
+    {
+     "en": "Many English words ______ Latin roots, giving them similar meanings across languages.",
+     "zh": "許多英文單字源自拉丁字根，使它們在不同語言中具有相似的含義。"
+    }
+   ]
+  },
+  {
+   "word": "mislead",
+   "pos": "v.",
+   "pos_key": "v.",
+   "defn_en": "To cause someone to believe something untrue",
+   "defn_zh": "誤導",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The ad seemed to ______ customers into thinking the product was healthy when it was not.",
+     "zh": "這則廣告似乎誤導顧客，讓他們以為該產品是健康的，其實不然。"
+    }
+   ]
+  },
+  {
+   "word": "crystallographer",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "A scientist who studies crystal structure",
+   "defn_zh": "晶體學家",
+   "root_note": "crystal + graph = write",
+   "sentences": [
+    {
+     "en": "The ______ used powerful microscopes to study how crystals form inside minerals and rocks.",
+     "zh": "這位晶體學家使用高倍顯微鏡，研究晶體如何在礦物與岩石內部形成。"
+    }
+   ]
+  },
+  {
+   "word": "portray",
+   "pos": "v.",
+   "pos_key": "v.",
+   "defn_en": "To describe or represent something in a particular way",
+   "defn_zh": "描繪；刻畫",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The film will ______ her as a strong, independent leader who overcame difficult challenges.",
+     "zh": "這部電影將把她刻畫成一位克服重重困難、堅強獨立的領袖。"
+    }
+   ]
+  },
+  {
+   "word": "heroine",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "A female hero or main female character",
+   "defn_zh": "女主角；女英雄",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The story's ______ shows bravery by risking her life to save others during the war.",
+     "zh": "故事的女主角冒著生命危險，在戰爭中拯救他人，展現了勇氣。"
+    }
+   ]
+  },
+  {
+   "word": "expand",
+   "pos": "v.",
+   "pos_key": "v.",
+   "defn_en": "To make something larger or more inclusive",
+   "defn_zh": "擴大；擴展",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "They plan to ______ the school's arts program so more students can take theater and music classes.",
+     "zh": "他們計畫擴大學校的藝術課程，讓更多學生能修習戲劇與音樂課。"
+    }
+   ]
+  },
+  {
+   "word": "skyrocket",
+   "pos": "v.",
+   "pos_key": "v.",
+   "defn_en": "To increase very quickly",
+   "defn_zh": "飛漲；暴漲",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Prices for rare flowers began to ______ during the bubble, reaching ten times their original cost.",
+     "zh": "泡沫期間，稀有花卉的價格開始飛漲，達到原價的十倍。"
+    }
+   ]
+  },
+  {
+   "word": "asset",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "Something valuable owned by a person or business",
+   "defn_zh": "資產",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The family's house is considered their biggest ______, as it could be sold for a high price.",
+     "zh": "這家人的房子被視為他們最大的資產，因為它可以賣出高價。"
+    }
+   ]
+  },
+  {
+   "word": "investor",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "A person who puts money into something hoping to earn profit",
+   "defn_zh": "投資者",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The ______ lost money when the company failed shortly after the stock purchase.",
+     "zh": "這位投資者在公司於購買股票後不久倒閉時賠了錢。"
+    }
+   ]
+  },
+  {
+   "word": "magnetosensation",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "Ability to sense magnetic fields",
+   "defn_zh": "磁感應（能力）",
+   "root_note": "magneto = magnetic, sensation = feeling",
+   "sentences": [
+    {
+     "en": "Some animals may use ______ to help them travel long distances by following the Earth's magnetic field.",
+     "zh": "有些動物可能利用磁感應能力，沿著地球磁場進行長距離遷徙。"
+    }
+   ]
+  },
+  {
+   "word": "direction",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "The course something moves or faces",
+   "defn_zh": "方向",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The birds flew in the opposite ______ from what scientists had predicted for the season.",
+     "zh": "這些鳥飛往與科學家對該季節預測相反的方向。"
+    }
+   ]
+  },
+  {
+   "word": "hemisphere",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "One half of the Earth, divided north-south or east-west",
+   "defn_zh": "半球",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Australia is located in the Southern ______, where seasons are the opposite of Europe.",
+     "zh": "澳洲位於南半球，那裡的季節與歐洲相反。"
+    }
+   ]
+  },
+  {
+   "word": "barnacle",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "A small sea creature that sticks to rocks or boats",
+   "defn_zh": "藤壺",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The ______ clings to the surface of ships, often damaging their paint and slowing them down.",
+     "zh": "藤壺附著在船隻表面，經常損壞船漆並使船速變慢。"
+    }
+   ]
+  },
+  {
+   "word": "secretion",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "A substance produced and released by an organism",
+   "defn_zh": "分泌物",
+   "root_note": "sec = to separate",
+   "sentences": [
+    {
+     "en": "The plant's sticky ______ helped it catch and digest insects on its leaves.",
+     "zh": "這種植物黏稠的分泌物幫助它捕捉並消化葉子上的昆蟲。"
+    }
+   ]
+  },
+  {
+   "word": "versatile",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "Useful in many different ways",
+   "defn_zh": "多用途的；多才多藝的",
+   "root_note": "vers = turn",
+   "sentences": [
+    {
+     "en": "Plastic is a ______ material, used in packaging, construction, and clothing.",
+     "zh": "塑膠是一種用途廣泛的材料，可用於包裝、建築與服裝。"
+    }
+   ]
+  },
+  {
+   "word": "nonrenewable",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "Not able to be replaced",
+   "defn_zh": "不可再生的",
+   "root_note": "non = not, re = again, new",
+   "sentences": [
+    {
+     "en": "Oil is a ______ resource that will eventually run out if overused.",
+     "zh": "石油是一種不可再生資源，如果過度使用終將耗盡。"
+    }
+   ]
+  },
+  {
+   "word": "biodegrade",
+   "pos": "v.",
+   "pos_key": "v.",
+   "defn_en": "To break down naturally",
+   "defn_zh": "生物分解",
+   "root_note": "bio = life, de = down, grade = step",
+   "sentences": [
+    {
+     "en": "Unlike plastic, paper can ______ easily when thrown away.",
+     "zh": "與塑膠不同，紙張丟棄後很容易被生物分解。"
+    }
+   ]
+  },
+  {
+   "word": "stoma",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "A small opening on a leaf that allows gas exchange",
+   "defn_zh": "氣孔",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Each ______ on the leaf opens and closes to control how much air enters the plant.",
+     "zh": "葉子上的每個氣孔會開啟與關閉，以控制進入植物的空氣量。"
+    }
+   ]
+  },
+  {
+   "word": "pivotal",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "Extremely important or central",
+   "defn_zh": "關鍵的；樞軸的",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "His discovery played a ______ role in changing how we understand plant biology.",
+     "zh": "他的發現在改變我們對植物生物學的理解上扮演了關鍵角色。"
+    }
+   ]
+  },
+  {
+   "word": "guard cell",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "A cell that opens and closes the stomata on leaves",
+   "defn_zh": "保衛細胞",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Each ______ controls whether the pore is open or closed during the day.",
+     "zh": "每個保衛細胞控制著氣孔在白天是開啟還是關閉。"
+    }
+   ]
+  },
+  {
+   "word": "spatula",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "A flat, usually soft-ended structure",
+   "defn_zh": "鏟狀構造；刮刀",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "On their feet, geckos have tiny ______ that help them stick to smooth walls.",
+     "zh": "壁虎的腳上有微小的鏟狀構造，幫助牠們黏附在光滑的牆面上。",
+     "form": "spatulae"
+    }
+   ]
+  },
+  {
+   "word": "cling to",
+   "pos": "v.",
+   "pos_key": "v.",
+   "defn_en": "To stick to something tightly",
+   "defn_zh": "緊貼；黏附",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The wet shirt seemed to ______ his skin after the sudden rainstorm.",
+     "zh": "突如其來的暴雨過後，濕襯衫似乎緊貼著他的皮膚。"
+    }
+   ]
+  },
+  {
+   "word": "saturated",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "Completely filled or soaked",
+   "defn_zh": "飽和的；濕透的",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The sponge became so ______ with water that it couldn't hold any more liquid.",
+     "zh": "海綿吸飽了水，再也裝不下更多液體。"
+    }
+   ]
+  },
+  {
+   "word": "flourish",
+   "pos": "v.",
+   "pos_key": "v.",
+   "defn_en": "To grow or develop well",
+   "defn_zh": "繁榮；蓬勃發展",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Her writing career began to ______ after she published her first successful novel.",
+     "zh": "她出版第一本成功的小說後，寫作生涯開始蓬勃發展。"
+    }
+   ]
+  },
+  {
+   "word": "distribute",
+   "pos": "v.",
+   "pos_key": "v.",
+   "defn_en": "To give out to many people",
+   "defn_zh": "分發；分配",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Volunteers will ______ food and supplies to the families affected by the storm.",
+     "zh": "志工將把食物與物資分發給受暴風雨影響的家庭。"
+    }
+   ]
+  },
+  {
+   "word": "firm",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "A business or company",
+   "defn_zh": "公司；事務所",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "She worked at a legal ______ that specialized in international contracts.",
+     "zh": "她在一家專門處理國際合約的法律事務所工作。"
+    }
+   ]
+  },
+  {
+   "word": "coast",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "The edge of land next to the sea",
+   "defn_zh": "海岸",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "We watched the sun set along the rocky ______ of the western shore.",
+     "zh": "我們沿著西岸多岩石的海岸觀賞日落。"
+    }
+   ]
+  },
+  {
+   "word": "slightly",
+   "pos": "adv.",
+   "pos_key": "adv.",
+   "defn_en": "A little; to a small degree",
+   "defn_zh": "稍微；略微",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The building is ______ taller than the one next to it, but both have the same number of floors.",
+     "zh": "這棟建築比旁邊那棟稍微高一點，但兩者樓層數相同。"
+    }
+   ]
+  },
+  {
+   "word": "surreal",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "Strange or dreamlike",
+   "defn_zh": "超現實的；夢幻般的",
+   "root_note": "sur = beyond, real = actual",
+   "sentences": [
+    {
+     "en": "The artist's painting had a ______ quality, blending real animals with impossible, glowing landscapes.",
+     "zh": "這位藝術家的畫作帶有超現實的特質，將真實的動物與不可能存在的發光景觀融合在一起。"
+    }
+   ]
+  },
+  {
+   "word": "hybrid",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "A mix of two different things",
+   "defn_zh": "混合物；混合動力車",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The vehicle is a ______ that runs on both electricity and gasoline to save fuel.",
+     "zh": "這輛車是一款混合動力車，同時以電力與汽油驅動以節省燃料。"
+    }
+   ]
+  },
+  {
+   "word": "combination",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "A mixture or blend of things",
+   "defn_zh": "組合；結合",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Her recipe is a ______ of traditional flavors and new ingredients.",
+     "zh": "她的食譜是傳統風味與新食材的結合。"
+    }
+   ]
+  },
+  {
+   "word": "depict",
+   "pos": "v.",
+   "pos_key": "v.",
+   "defn_en": "To show or describe in words or pictures",
+   "defn_zh": "描繪；描述",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The film will ______ the main character's childhood and rise to success.",
+     "zh": "這部電影將描繪主角的童年與邁向成功的歷程。"
+    }
+   ]
+  },
+  {
+   "word": "memoir",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "A written story of someone's life",
+   "defn_zh": "回憶錄",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "She wrote a ______ describing her experiences as a nurse during the war.",
+     "zh": "她寫了一本回憶錄，描述她在戰爭期間擔任護士的經歷。"
+    }
+   ]
+  },
+  {
+   "word": "regiment",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "A military group or unit",
+   "defn_zh": "軍團",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "He served in a decorated ______ that fought in many important battles.",
+     "zh": "他曾在一支參與過許多重要戰役、功勳卓著的軍團服役。"
+    }
+   ]
+  },
+  {
+   "word": "accomplishment",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "Something achieved with effort",
+   "defn_zh": "成就",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Earning a college degree was her proudest ______, representing years of hard work.",
+     "zh": "取得大學學位是她最自豪的成就，代表著多年的努力。"
+    }
+   ]
+  },
+  {
+   "word": "stroke",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "A movement or mark made by a pen, brush, or hand",
+   "defn_zh": "一筆；一劃",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "With one bold ______ of her brush, the artist brought the entire painting to life.",
+     "zh": "藝術家大膽的一筆，讓整幅畫作活了起來。"
+    }
+   ]
+  },
+  {
+   "word": "mighty",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "Strong, powerful, or impressive",
+   "defn_zh": "強大的；巨大的",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The hero used his ______ strength to lift the heavy gate and free the villagers.",
+     "zh": "英雄用他強大的力量舉起沉重的大門，解救了村民。"
+    }
+   ]
+  },
+  {
+   "word": "mirth",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "Great joy, laughter, or amusement",
+   "defn_zh": "歡笑；歡樂",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The room filled with ______ as the comedian told joke after joke during the performance.",
+     "zh": "喜劇演員在表演中一個接一個地講笑話，整個房間充滿了歡笑。"
+    }
+   ]
+  },
+  {
+   "word": "cradle",
+   "pos": "v.",
+   "pos_key": "v.",
+   "defn_en": "To hold gently or support, especially from birth",
+   "defn_zh": "輕抱；呵護",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The mother gently ______ the newborn baby, rocking it slowly to sleep.",
+     "zh": "母親輕柔地抱著新生兒，慢慢搖著哄他入睡。",
+     "form": "cradled"
+    }
+   ]
+  },
+  {
+   "word": "brook",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "A small natural stream of water",
+   "defn_zh": "小溪",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "They sat by the quiet ______, listening to the soft sound of water flowing over stones.",
+     "zh": "他們坐在安靜的小溪旁，聆聽溪水流過石頭的輕柔聲響。"
+    }
+   ]
+  },
+  {
+   "word": "respond",
+   "pos": "v.",
+   "pos_key": "v.",
+   "defn_en": "To react or answer to something",
+   "defn_zh": "回應；回答",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "When I called his name, he didn't immediately ______, but then turned with a smile.",
+     "zh": "我叫他的名字時，他沒有立刻回應，但隨後微笑著轉過身來。"
+    }
+   ]
+  },
+  {
+   "word": "call",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "A request or summons; a signal or appeal",
+   "defn_zh": "呼籲；召喚",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The community answered the ______ for help after the storm damaged many homes.",
+     "zh": "暴風雨損壞許多房屋後，社區回應了求助的呼籲。"
+    }
+   ]
+  },
+  {
+   "word": "perceptive",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "Having insight or good understanding",
+   "defn_zh": "有洞察力的；敏銳的",
+   "root_note": "per = through, cep = take",
+   "sentences": [
+    {
+     "en": "She is incredibly ______ and notices even the smallest changes in people's emotions.",
+     "zh": "她非常敏銳，連人們情緒最細微的變化都能察覺。"
+    }
+   ]
+  },
+  {
+   "word": "elaborately",
+   "pos": "adv.",
+   "pos_key": "adv.",
+   "defn_en": "In a detailed and complex way",
+   "defn_zh": "精心地；詳盡地",
+   "root_note": "labor = work",
+   "sentences": [
+    {
+     "en": "He ______ explained every step of the recipe, leaving no part unclear.",
+     "zh": "他詳盡地解釋了食譜的每一個步驟，沒有任何不清楚的地方。"
+    }
+   ]
+  },
+  {
+   "word": "recount",
+   "pos": "v.",
+   "pos_key": "v.",
+   "defn_en": "To tell a story or describe an event",
+   "defn_zh": "敘述；講述",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The old man loved to ______ tales from his youth to his grandchildren around the fire.",
+     "zh": "這位老人喜歡在爐火旁向孫子們講述他年輕時的故事。"
+    }
+   ]
+  },
+  {
+   "word": "fond",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "Loving or affectionate",
+   "defn_zh": "喜愛的；深情的",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "She has very ______ memories of visiting her grandmother every summer in the countryside.",
+     "zh": "她對每年夏天去鄉下探望祖母有著非常美好的回憶。"
+    }
+   ]
+  },
+  {
+   "word": "observant",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "Quick to notice or perceive things",
+   "defn_zh": "觀察力敏銳的",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The detective was extremely ______, noticing the smallest details others missed in the chaotic crime scene.",
+     "zh": "這位偵探觀察力極為敏銳，能注意到混亂犯罪現場中其他人忽略的最小細節。"
+    }
+   ]
+  },
+  {
+   "word": "skeptical",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "Doubting or questioning",
+   "defn_zh": "懷疑的",
+   "root_note": "skept = look, observe",
+   "sentences": [
+    {
+     "en": "She remained ______ of the results because the research hadn't been peer-reviewed or replicated.",
+     "zh": "她對結果仍持懷疑態度，因為這項研究尚未經過同儕審查或重複驗證。"
+    }
+   ]
+  },
+  {
+   "word": "nuance",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "A subtle difference in meaning or expression",
+   "defn_zh": "細微差別",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The painting captured every ______ of light and color in the early morning sky.",
+     "zh": "這幅畫捕捉了清晨天空中光線與色彩的每一絲細微變化。"
+    }
+   ]
+  },
+  {
+   "word": "vitality",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "Energy or strength",
+   "defn_zh": "活力",
+   "root_note": "vita = life",
+   "sentences": [
+    {
+     "en": "The dancers moved with such ______ that the audience couldn't take their eyes off the stage.",
+     "zh": "舞者們充滿活力地舞動，觀眾的目光無法從舞台上移開。"
+    }
+   ]
+  },
+  {
+   "word": "migration",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "The movement of people or animals from one place to another",
+   "defn_zh": "遷徙；移居",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Bird ______ patterns often shift with changes in temperature and habitat availability.",
+     "zh": "鳥類遷徙的模式常隨著氣溫與棲地可得性的變化而改變。"
+    }
+   ]
+  },
+  {
+   "word": "artistic",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "Related to art or creativity",
+   "defn_zh": "藝術的；有藝術天分的",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "She had an ______ eye, seeing beauty in even the most ordinary objects.",
+     "zh": "她有一雙藝術家的眼睛，即使在最平凡的物品中也能看見美。"
+    }
+   ]
+  },
+  {
+   "word": "substantial",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "Large, important, or significant",
+   "defn_zh": "大量的；重要的",
+   "root_note": "sub = under, stant = stand",
+   "sentences": [
+    {
+     "en": "The researchers found a ______ connection between the diet and improved memory function in older adults.",
+     "zh": "研究人員發現，這種飲食與年長者記憶功能的改善之間有顯著的關聯。"
+    }
+   ]
+  },
+  {
+   "word": "imperceptible",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "Too small to be noticed or felt",
+   "defn_zh": "難以察覺的",
+   "root_note": "im = not, percept = see",
+   "sentences": [
+    {
+     "en": "The temperature change was so ______ that most people didn't even notice it had occurred.",
+     "zh": "溫度變化微小到難以察覺，大多數人甚至沒注意到它發生過。"
+    }
+   ]
+  },
+  {
+   "word": "toxicity",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "The quality of being poisonous or harmful",
+   "defn_zh": "毒性",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The scientist measured the ______ of the chemical to determine how dangerous it was to aquatic life.",
+     "zh": "科學家測量了這種化學物質的毒性，以判斷它對水生生物有多危險。"
+    }
+   ]
+  },
+  {
+   "word": "trait",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "A distinguishing characteristic or quality",
+   "defn_zh": "特質；特徵",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Curiosity is a ______ often found in successful scientists and innovators.",
+     "zh": "好奇心是成功科學家與創新者身上常見的一種特質。"
+    }
+   ]
+  },
+  {
+   "word": "diaphragm",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "A muscle that helps with breathing",
+   "defn_zh": "橫膈膜",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "When you hiccup, your ______ contracts suddenly, making you produce a strange sound involuntarily.",
+     "zh": "打嗝時，你的橫膈膜會突然收縮，使你不由自主地發出奇怪的聲音。"
+    }
+   ]
+  },
+  {
+   "word": "involuntarily",
+   "pos": "adv.",
+   "pos_key": "adv.",
+   "defn_en": "Without conscious control",
+   "defn_zh": "不由自主地",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "He ______ blinked when the bright light flashed directly into his eyes.",
+     "zh": "當強光直接閃進他的眼睛時，他不由自主地眨了眼。"
+    }
+   ]
+  },
+  {
+   "word": "beneficially",
+   "pos": "adv.",
+   "pos_key": "adv.",
+   "defn_en": "In a way that produces good effects",
+   "defn_zh": "有益地",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Exercise can ______ impact your mental health by reducing stress and anxiety.",
+     "zh": "運動能透過減輕壓力與焦慮，對你的心理健康產生有益的影響。"
+    }
+   ]
+  },
+  {
+   "word": "contraction",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "The act of becoming smaller or tighter",
+   "defn_zh": "收縮",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "A sudden muscle ______ can cause painful cramps, especially during cold weather or intense workouts.",
+     "zh": "突然的肌肉收縮可能引起疼痛的抽筋，尤其是在寒冷天氣或高強度運動時。"
+    }
+   ]
+  },
+  {
+   "word": "prevail",
+   "pos": "v.",
+   "pos_key": "v.",
+   "defn_en": "To succeed or win",
+   "defn_zh": "獲勝；盛行",
+   "root_note": "pre = before, vail = strong",
+   "sentences": [
+    {
+     "en": "Despite the many challenges, she hoped that truth and justice would ______ in the end.",
+     "zh": "儘管困難重重，她仍希望真相與正義最終能獲勝。"
+    }
+   ]
+  },
+  {
+   "word": "diverge",
+   "pos": "v.",
+   "pos_key": "v.",
+   "defn_en": "To separate or move in different directions",
+   "defn_zh": "分歧；岔開",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The two friends began to ______ in their interests after starting different career paths.",
+     "zh": "這兩位朋友在踏上不同的職業道路後，興趣開始出現分歧。"
+    }
+   ]
+  },
+  {
+   "word": "intersect",
+   "pos": "v.",
+   "pos_key": "v.",
+   "defn_en": "To cross or meet at a point",
+   "defn_zh": "相交；交叉",
+   "root_note": "inter = between, sect = cut",
+   "sentences": [
+    {
+     "en": "The roads ______ at the center of the city, making it a busy traffic hub.",
+     "zh": "這些道路在市中心交會，使那裡成為繁忙的交通樞紐。"
+    }
+   ]
+  },
+  {
+   "word": "interjected",
+   "pos": "v.",
+   "pos_key": "v.",
+   "defn_en": "Inserted suddenly into conversation",
+   "defn_zh": "插話；突然插入",
+   "root_note": "inter = between, ject = throw",
+   "sentences": [
+    {
+     "en": "She ______ a joke during the meeting to lighten the serious mood.",
+     "zh": "她在會議中插了一個笑話，以緩和嚴肅的氣氛。"
+    }
+   ]
+  },
+  {
+   "word": "prescribed",
+   "pos": "v.",
+   "pos_key": "v.",
+   "defn_en": "Recommended officially or medically",
+   "defn_zh": "開（處方）；囑咐",
+   "root_note": "pre = before, scrib = write",
+   "sentences": [
+    {
+     "en": "The doctor ______ rest and fluids to help speed up recovery from the illness.",
+     "zh": "醫生囑咐休息和多喝水，以加速病情康復。"
+    }
+   ]
+  },
+  {
+   "word": "deceptive",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "Misleading or giving a false impression",
+   "defn_zh": "欺騙性的；誤導的",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Appearances can be ______—a peaceful setting might hide underlying danger or tension.",
+     "zh": "外表可能具有欺騙性——平靜的場景可能隱藏著潛在的危險或緊張。"
+    }
+   ]
+  },
+  {
+   "word": "innocuous",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "Harmless",
+   "defn_zh": "無害的",
+   "root_note": "in = not, noc = harm",
+   "sentences": [
+    {
+     "en": "The snake looked dangerous, but it was actually ______ and posed no threat to humans.",
+     "zh": "這條蛇看起來很危險，但其實無害，對人類不構成威脅。"
+    }
+   ]
+  },
+  {
+   "word": "impractical",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "Not useful or realistic in practice",
+   "defn_zh": "不切實際的",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Flying cars sound exciting, but current technology makes them ______ for everyday use.",
+     "zh": "飛行汽車聽起來令人興奮，但以目前的技術而言，日常使用並不切實際。"
+    }
+   ]
+  },
+  {
+   "word": "peripheral",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "On the edge; not central",
+   "defn_zh": "周邊的；邊緣的",
+   "root_note": "peri = around",
+   "sentences": [
+    {
+     "en": "The town lay on the ______ borders of the empire, far from the capital's influence.",
+     "zh": "這座城鎮位於帝國的邊陲地帶，遠離首都的影響。"
+    }
+   ]
+  },
+  {
+   "word": "approximate",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "Nearly correct or exact",
+   "defn_zh": "大約的；近似的",
+   "root_note": "ap = to, proxim = near",
+   "sentences": [
+    {
+     "en": "The ______ cost of the project was $1 million, though final expenses may vary.",
+     "zh": "這項計畫的大約成本為一百萬美元，但最終支出可能有所不同。"
+    }
+   ]
+  },
+  {
+   "word": "tranquility",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "Peace and calm",
+   "defn_zh": "寧靜",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The lake's ______ in the early morning was only broken by the occasional birdcall or rustling leaf.",
+     "zh": "清晨湖面的寧靜，只偶爾被鳥鳴或樹葉沙沙聲打破。"
+    }
+   ]
+  },
+  {
+   "word": "germinate",
+   "pos": "v.",
+   "pos_key": "v.",
+   "defn_en": "To begin growing (esp. plants or ideas)",
+   "defn_zh": "發芽；萌生",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "His dream of becoming a writer began to ______ after reading a powerful novel in high school.",
+     "zh": "他成為作家的夢想，在高中時讀了一本震撼人心的小說後開始萌芽。"
+    }
+   ]
+  },
+  {
+   "word": "repose",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "A state of rest or sleep",
+   "defn_zh": "休息；安眠",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "After a long hike, the hikers found ______ under the shade of a tall tree.",
+     "zh": "長途健行後，健行者們在一棵大樹的樹蔭下找到了休息之處。"
+    }
+   ]
+  },
+  {
+   "word": "pilgrimage",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "A journey for a sacred reason",
+   "defn_zh": "朝聖；（有意義的）尋根之旅",
+   "root_note": "grimage = travel",
+   "sentences": [
+    {
+     "en": "She made a ______ to her grandmother's birthplace to learn more about her family's heritage.",
+     "zh": "她踏上了前往祖母出生地的尋根之旅，想更了解家族的傳承。"
+    }
+   ]
+  },
+  {
+   "word": "unanimity",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "Complete agreement",
+   "defn_zh": "全體一致",
+   "root_note": "unus = one, animus = mind/spirit",
+   "sentences": [
+    {
+     "en": "The team made the decision with complete ______; no one objected.",
+     "zh": "團隊以完全一致的意見做出了決定，沒有人反對。"
+    }
+   ]
+  },
+  {
+   "word": "crooned",
+   "pos": "v.",
+   "pos_key": "v.",
+   "defn_en": "Sang or spoke in a soft, gentle voice",
+   "defn_zh": "低聲吟唱",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The mother ______ a lullaby to her baby, soothing her to sleep.",
+     "zh": "母親低聲哼唱搖籃曲，哄寶寶入睡。"
+    }
+   ]
+  },
+  {
+   "word": "stirring",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "Causing strong feelings or excitement",
+   "defn_zh": "激動人心的",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The speech was so ______ that the audience gave a standing ovation.",
+     "zh": "這場演講如此激動人心，觀眾起立鼓掌致意。"
+    }
+   ]
+  },
+  {
+   "word": "altruistically",
+   "pos": "adv.",
+   "pos_key": "adv.",
+   "defn_en": "Unselfishly helping others",
+   "defn_zh": "無私地；利他地",
+   "root_note": "alter = other",
+   "sentences": [
+    {
+     "en": "She acted ______, donating most of her lottery winnings to charities in her community.",
+     "zh": "她無私地行動，將大部分的樂透獎金捐給了社區的慈善機構。"
+    }
+   ]
+  },
+  {
+   "word": "nondescript",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "Lacking distinctive features",
+   "defn_zh": "毫無特色的",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The building was completely ______, with no unique architecture or signage.",
+     "zh": "這棟建築完全毫無特色，沒有獨特的建築風格或招牌。"
+    }
+   ]
+  },
+  {
+   "word": "participants",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "People who take part in something",
+   "defn_zh": "參與者",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The experiment included 200 ______, each tested under different environmental conditions.",
+     "zh": "這項實驗包含兩百名參與者，每人在不同的環境條件下接受測試。"
+    }
+   ]
+  },
+  {
+   "word": "postexperiment",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "Occurring after the experiment",
+   "defn_zh": "實驗後的",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The scientists recorded all reactions in a ______ survey to measure lasting effects of the experience.",
+     "zh": "科學家在實驗後問卷中記錄所有反應，以衡量這段經歷的持久影響。"
+    }
+   ]
+  },
+  {
+   "word": "categorize",
+   "pos": "v.",
+   "pos_key": "v.",
+   "defn_en": "To classify or organize into groups",
+   "defn_zh": "分類",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Scientists often ______ fossils based on age, species, and physical characteristics.",
+     "zh": "科學家常依據年代、物種與外形特徵將化石分類。"
+    }
+   ]
+  },
+  {
+   "word": "fragment",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "A small broken piece",
+   "defn_zh": "碎片",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Each pottery ______ was carefully brushed and preserved for future analysis.",
+     "zh": "每片陶器碎片都經過仔細刷淨並保存，以供日後分析。"
+    }
+   ]
+  },
+  {
+   "word": "archaeology",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "Study of human history through artifacts",
+   "defn_zh": "考古學",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "He majored in ______ to explore ancient civilizations through ruins and relics.",
+     "zh": "他主修考古學，透過遺跡與文物探索古代文明。"
+    }
+   ]
+  },
+  {
+   "word": "concern",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "Worry or anxiety",
+   "defn_zh": "擔憂；關切",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Public ______ over data privacy has led to changes in social media policies.",
+     "zh": "大眾對資料隱私的擔憂已促使社群媒體政策做出改變。"
+    }
+   ]
+  },
+  {
+   "word": "unlikely",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "Not probable",
+   "defn_zh": "不太可能的",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "It is ______ that two unrelated authors would write nearly identical stories by coincidence.",
+     "zh": "兩位毫無關聯的作者碰巧寫出幾乎一模一樣的故事，是不太可能的。"
+    }
+   ]
+  },
+  {
+   "word": "veteran",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "A person with long experience in a field",
+   "defn_zh": "老手；退伍軍人",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "As a military ______, he was well-suited to work in structured government departments.",
+     "zh": "身為退伍軍人，他非常適合在結構嚴謹的政府部門工作。"
+    }
+   ]
+  },
+  {
+   "word": "bureaucracy",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "A system of administration with many rules",
+   "defn_zh": "官僚體制",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "She disliked the ______ involved in applying for government permits.",
+     "zh": "她不喜歡申請政府許可證時所涉及的官僚程序。"
+    }
+   ]
+  },
+  {
+   "word": "familiarity",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "Knowledge of something through experience",
+   "defn_zh": "熟悉",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "His ______ with coding languages made the training course easy to follow.",
+     "zh": "他對程式語言的熟悉使這門培訓課程很容易跟上。"
+    }
+   ]
+  },
+  {
+   "word": "pigment",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "A natural coloring substance",
+   "defn_zh": "色素",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The red ______ in the flower's petals helped attract bees for pollination.",
+     "zh": "花瓣中的紅色色素有助於吸引蜜蜂來授粉。"
+    }
+   ]
+  },
+  {
+   "word": "carotenoid",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "A compound giving color and health benefits",
+   "defn_zh": "類胡蘿蔔素",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Carrots are high in ______, contributing to eye health and vibrant orange color.",
+     "zh": "胡蘿蔔富含類胡蘿蔔素，有助於眼睛健康並呈現鮮豔的橙色。"
+    }
+   ]
+  },
+  {
+   "word": "manipulate",
+   "pos": "v.",
+   "pos_key": "v.",
+   "defn_en": "To control or influence skillfully or dishonestly",
+   "defn_zh": "操控；巧妙處理",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "She learned how to ______ the lighting to enhance the photo's subject subtly.",
+     "zh": "她學會如何巧妙操控光線，以細膩地凸顯照片的主體。"
+    }
+   ]
+  },
+  {
+   "word": "microstructure",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "Very small structure of material",
+   "defn_zh": "微觀結構",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Under a microscope, the ______ of feathers revealed intricate patterns.",
+     "zh": "在顯微鏡下，羽毛的微觀結構顯現出精細的圖案。"
+    }
+   ]
+  },
+  {
+   "word": "dishonesty",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "Lack of truth or integrity",
+   "defn_zh": "不誠實",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The researcher's ______ in fabricating results led to the loss of her academic position.",
+     "zh": "這位研究者捏造結果的不誠實行為，導致她失去了學術職位。"
+    }
+   ]
+  },
+  {
+   "word": "honor",
+   "pos": "v.",
+   "pos_key": "v.",
+   "defn_en": "To show respect or recognition",
+   "defn_zh": "表彰；給予榮譽",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The committee decided to ______ her work with a lifetime achievement award.",
+     "zh": "委員會決定以終身成就獎表彰她的工作。"
+    }
+   ]
+  },
+  {
+   "word": "asteroid",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "A small rocky body orbiting the sun",
+   "defn_zh": "小行星",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The ______ was large enough that if it had hit Earth, it would have caused global devastation.",
+     "zh": "這顆小行星大到如果撞上地球，將會造成全球性的毀滅。"
+    }
+   ]
+  },
+  {
+   "word": "extinction",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "The dying out of a species",
+   "defn_zh": "滅絕",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Many species face ______ due to habitat destruction and climate change.",
+     "zh": "許多物種因棲地破壞與氣候變遷而面臨滅絕。"
+    }
+   ]
+  },
+  {
+   "word": "maintain",
+   "pos": "v.",
+   "pos_key": "v.",
+   "defn_en": "To keep something going or in a good condition",
+   "defn_zh": "維持；保持",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "It's difficult to ______ a consistent sleep schedule when traveling internationally.",
+     "zh": "跨國旅行時，很難維持規律的睡眠時間表。"
+    }
+   ]
+  }
+ ],
+ "family_options": {},
+ "fallback_options": {
+  "v.": [
+   {
+    "word": "accost",
+    "pos": "v.",
+    "pos_key": "v.",
+    "defn_en": "to approach and speak to:",
+    "defn_zh": "搭訕"
+   },
+   {
+    "word": "admonish",
+    "pos": "v.",
+    "pos_key": "v.",
+    "defn_en": "to warn, reprove:",
+    "defn_zh": "警告"
+   },
+   {
+    "word": "afflict",
+    "pos": "v.",
+    "pos_key": "v.",
+    "defn_en": "to trouble greatly, distress:",
+    "defn_zh": "折磨"
+   },
+   {
+    "word": "ascend",
+    "pos": "v.",
+    "pos_key": "v.",
+    "defn_en": "to rise:",
+    "defn_zh": "上升"
+   },
+   {
+    "word": "advocate",
+    "pos": "v.",
+    "pos_key": "v.",
+    "defn_en": "to be in favor of, support:",
+    "defn_zh": "提倡"
+   },
+   {
+    "word": "aspire",
+    "pos": "v.",
+    "pos_key": "v.",
+    "defn_en": "to strive for:",
+    "defn_zh": "渴望/立志"
+   },
+   {
+    "word": "attest",
+    "pos": "v.",
+    "pos_key": "v.",
+    "defn_en": "to certify:",
+    "defn_zh": "證明/證實"
+   },
+   {
+    "word": "accommodate",
+    "pos": "v.",
+    "pos_key": "v.",
+    "defn_en": "to make fit, adjust to:",
+    "defn_zh": "容納/適應"
+   },
+   {
+    "word": "acknowledge",
+    "pos": "v.",
+    "pos_key": "v.",
+    "defn_en": "to admit:",
+    "defn_zh": "承認/答謝"
+   },
+   {
+    "word": "alleviate",
+    "pos": "v.",
+    "pos_key": "v.",
+    "defn_en": "to make easier, lighten:",
+    "defn_zh": "減輕/緩解"
+   },
+   {
+    "word": "allude",
+    "pos": "v.",
+    "pos_key": "v.",
+    "defn_en": "to hint, suggest:",
+    "defn_zh": "暗示/提及"
+   },
+   {
+    "word": "ameliorate",
+    "pos": "v.",
+    "pos_key": "v.",
+    "defn_en": "to relieve, improve:",
+    "defn_zh": "改善/減輕"
+   }
+  ],
+  "adj.": [
+   {
+    "word": "inadvertent",
+    "pos": "adj.",
+    "pos_key": "adj.",
+    "defn_en": "unintentional:",
+    "defn_zh": "無意的"
+   },
+   {
+    "word": "affluent",
+    "pos": "adj.",
+    "pos_key": "adj.",
+    "defn_en": "rich:",
+    "defn_zh": "富裕的"
+   },
+   {
+    "word": "adverse",
+    "pos": "adj.",
+    "pos_key": "adj.",
+    "defn_en": "unfavorable, harmful:",
+    "defn_zh": "不利的"
+   },
+   {
+    "word": "assiduous",
+    "pos": "adj.",
+    "pos_key": "adj.",
+    "defn_en": "devoted, attentive:=diligent",
+    "defn_zh": "勤勉的/刻苦的"
+   },
+   {
+    "word": "unabated",
+    "pos": "adj.",
+    "pos_key": "adj.",
+    "defn_en": "without subsiding:continuous",
+    "defn_zh": "不減退的/未減弱的"
+   },
+   {
+    "word": "maladjusted",
+    "pos": "adj.",
+    "pos_key": "adj.",
+    "defn_en": "dysfunctional:",
+    "defn_zh": "適應不良的"
+   },
+   {
+    "word": "attenuated",
+    "pos": "adj.",
+    "pos_key": "adj.",
+    "defn_en": "weakened, thinned, decreased:",
+    "defn_zh": "減弱的/變薄的"
+   },
+   {
+    "word": "appalled",
+    "pos": "adj.",
+    "pos_key": "adj.",
+    "defn_en": "shocked, dismayed:",
+    "defn_zh": "震驚的/駭然的"
+   },
+   {
+    "word": "arrogant",
+    "pos": "adj.",
+    "pos_key": "adj.",
+    "defn_en": "overbearing; proud; haughty",
+    "defn_zh": "傲慢的"
+   },
+   {
+    "word": "affable",
+    "pos": "adj.",
+    "pos_key": "adj.",
+    "defn_en": "easy to talk to; easy to approach, friendly; kind",
+    "defn_zh": "和藹可親的"
+   },
+   {
+    "word": "accessible",
+    "pos": "adj.",
+    "pos_key": "adj.",
+    "defn_en": "available; ready for use",
+    "defn_zh": "易接近的"
+   },
+   {
+    "word": "accommodating",
+    "pos": "adj.",
+    "pos_key": "adj.",
+    "defn_en": "helpful, obliging, polite:",
+    "defn_zh": "樂於助人的/隨和的"
+   }
+  ],
+  "n.": [
+   {
+    "word": "aspirant",
+    "pos": "n.",
+    "pos_key": "n.",
+    "defn_en": "candidate, striver, applicant:",
+    "defn_zh": "渴望者/有志者"
+   },
+   {
+    "word": "asset",
+    "pos": "n.",
+    "pos_key": "n.",
+    "defn_en": "valuable thing to have:",
+    "defn_zh": "資產"
+   },
+   {
+    "word": "access",
+    "pos": "n.",
+    "pos_key": "n.",
+    "defn_en": "admittance:",
+    "defn_zh": "接近/通道"
+   },
+   {
+    "word": "accomplice",
+    "pos": "n.",
+    "pos_key": "n.",
+    "defn_en": "associate in crime:",
+    "defn_zh": "共犯/幫兇"
+   },
+   {
+    "word": "appellation",
+    "pos": "n.",
+    "pos_key": "n.",
+    "defn_en": "a name:=epithet",
+    "defn_zh": "名稱/稱呼"
+   },
+   {
+    "word": "array",
+    "pos": "n.",
+    "pos_key": "n.",
+    "defn_en": "arrangement, display:",
+    "defn_zh": "陣列/打扮"
+   },
+   {
+    "word": "adherent",
+    "pos": "n.",
+    "pos_key": "n.",
+    "defn_en": "backer, supporter:",
+    "defn_zh": "擁護者/信徒"
+   },
+   {
+    "word": "adversary",
+    "pos": "n.",
+    "pos_key": "n.",
+    "defn_en": "opponent, enemy, foe:",
+    "defn_zh": "對手/敵手"
+   },
+   {
+    "word": "arbiter",
+    "pos": "n.",
+    "pos_key": "n.",
+    "defn_en": "judge:",
+    "defn_zh": "仲裁者/權威"
+   },
+   {
+    "word": "advent",
+    "pos": "n.",
+    "pos_key": "n.",
+    "defn_en": "arrival of an important event:",
+    "defn_zh": "到來/出現"
+   },
+   {
+    "word": "adversity",
+    "pos": "n.",
+    "pos_key": "n.",
+    "defn_en": "great trouble or difficulty",
+    "defn_zh": "逆境；不幸"
+   },
+   {
+    "word": "allusion",
+    "pos": "n.",
+    "pos_key": "n.",
+    "defn_en": "an indirect reference, often to literature",
+    "defn_zh": "暗指"
+   }
+  ],
+  "adv.": [
+   {
+    "word": "accordingly",
+    "pos": "adv.",
+    "pos_key": "adv.",
+    "defn_en": "in a manner that fits the circumstances; consequently:",
+    "defn_zh": "相應地;因此"
+   },
+   {
+    "word": "inadvertently",
+    "pos": "adv.",
+    "pos_key": "adv.",
+    "defn_en": "unintentionally or by accident:",
+    "defn_zh": "無意間/不小心地"
+   },
+   {
+    "word": "consequently",
+    "pos": "adv.",
+    "pos_key": "adv.",
+    "defn_en": "as a result; therefore:",
+    "defn_zh": "因此;結果"
+   },
+   {
+    "word": "contemptuously",
+    "pos": "adv.",
+    "pos_key": "adv.",
+    "defn_en": "without respect; in a disdainful manner:",
+    "defn_zh": "輕蔑地"
+   },
+   {
+    "word": "involuntarily",
+    "pos": "adv.",
+    "pos_key": "adv.",
+    "defn_en": "done without conscious control:",
+    "defn_zh": "不由自主地"
+   },
+   {
+    "word": "cordially",
+    "pos": "adv.",
+    "pos_key": "adv.",
+    "defn_en": "in a warm or friendly manner:",
+    "defn_zh": "誠摯地/友好地"
+   },
+   {
+    "word": "ipso facto",
+    "pos": "adv.",
+    "pos_key": "adv.",
+    "defn_en": "by that very fact or act:",
+    "defn_zh": "事實上;因此"
+   },
+   {
+    "word": "en passant",
+    "pos": "adv.",
+    "pos_key": "adv.",
+    "defn_en": "in passing; incidentally:",
+    "defn_zh": "順帶一提地;偶然地"
+   },
+   {
+    "word": "regardless",
+    "pos": "adv.",
+    "pos_key": "adv.",
+    "defn_en": "despite the prevailing circumstances; without being deterred:",
+    "defn_zh": "不管怎樣;儘管如此"
+   },
+   {
+    "word": "subsequently",
+    "pos": "adv.",
+    "pos_key": "adv.",
+    "defn_en": "afterward; following in time or order:",
+    "defn_zh": "隨後;其後"
+   },
+   {
+    "word": "aside",
+    "pos": "adv./n.",
+    "pos_key": "adv.",
+    "defn_en": "to or on one side; a remark not meant to be heard by everyone:",
+    "defn_zh": "在旁邊;旁白"
+   },
+   {
+    "word": "vice versa",
+    "pos": "adv.",
+    "pos_key": "adv.",
+    "defn_en": "with the order or meaning reversed; conversely:",
+    "defn_zh": "反之亦然"
+   }
+  ],
+  "other": [
+   {
+    "word": "（此批單字中，暫無符合此字根/字首的單字）",
+    "pos": "",
+    "pos_key": "other",
+    "defn_en": "",
+    "defn_zh": ""
+   }
+  ],
+  "prep./adv.": [
+   {
+    "word": "besides",
+    "pos": "prep./adv.",
+    "pos_key": "prep./adv.",
+    "defn_en": "in addition to; furthermore:",
+    "defn_zh": "除...之外;此外"
+   }
+  ],
+  "phrasalv.": [
+   {
+    "word": "egg on",
+    "pos": "phrasal v.",
+    "pos_key": "phrasalv.",
+    "defn_en": "to encourage someone to do something, often risky:",
+    "defn_zh": "慫恿;鼓動"
+   }
+  ],
+  "abbr.": [
+   {
+    "word": "etc.",
+    "pos": "abbr.",
+    "pos_key": "abbr.",
+    "defn_en": "and other similar things (abbreviation of et cetera):",
+    "defn_zh": "等等(et cetera的縮寫)"
+   }
+  ],
+  "interj.": [
+   {
+    "word": "fiddledeedee",
+    "pos": "interj.",
+    "pos_key": "interj.",
+    "defn_en": "an exclamation expressing dismissal of something as nonsense:",
+    "defn_zh": "廢話!(表示不屑一顧)"
+   },
+   {
+    "word": "gesundheit",
+    "pos": "interj.",
+    "pos_key": "interj.",
+    "defn_en": "an expression said to someone who has just sneezed:",
+    "defn_zh": "保重(打噴嚏後的祝福語)"
+   }
+  ],
+  "prep.": [
+   {
+    "word": "via",
+    "pos": "prep.",
+    "pos_key": "prep.",
+    "defn_en": "by way of; passing through:",
+    "defn_zh": "經由;透過"
+   }
+  ]
+ }
+}

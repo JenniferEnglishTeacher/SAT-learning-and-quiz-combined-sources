@@ -377,7 +377,9 @@ function reviewCandidates(target, count) {
   return [...samePos, ...otherPos].slice(0, count);
 }
 
-const full = (sentence, word) => sentence.replaceAll('______', word);
+// A sentence may carry `form` (e.g. "demanded") when the blank needs an inflected word.
+const full = (sentence, word) => (typeof sentence === 'string' ? sentence : sentence.en).replaceAll('______', (sentence && sentence.form) || word);
+const blankWord = (sentence, word) => (sentence && sentence.form) || word;
 
 function highlighted(text, word) {
   const source = String(text);
@@ -413,7 +415,7 @@ function sectionHeading(section) {
   const heading = document.createElement('div');
   heading.className = 'batch-word-section';
   const sectionCount = batch.words.filter(item => item.section === section).length;
-  heading.innerHTML = `<p class="eyebrow">IM PREFIX GROUP</p><h3>${esc(section)}</h3><p>${sectionCount} SAT core words</p>`;
+  heading.innerHTML = `<p class="eyebrow">${batch.part === 'mocktest' ? 'TEST SECTION' : 'IM PREFIX GROUP'}</p><h3>${esc(section)}</h3><p>${sectionCount} ${batch.part === 'mocktest' ? 'words' : 'SAT core words'}</p>`;
   return heading;
 }
 
@@ -435,7 +437,7 @@ function renderLearn() {
     const options = shuffle([word, ...candidates(word, 2)]);
     const card = document.createElement('article');
     card.className = 'word-card';
-    card.innerHTML = `<div class="word-card-header">${wordTitle(word)}</div><p class="root-note"><strong>Root clue:</strong> ${esc(word.root_note || 'Use the word in context.')}</p><div class="sentences">${word.sentences.map(sentence => { const text = full(sentence.en, word.word); return `<div class="sentence">${speaker(text, 'Listen to example sentence')}<span ${say(text)}>${esc(text)}</span></div>`; }).join('')}</div><p class="definition-prompt">Which definition matches this word?</p><p class="definition-link-help">Click a definition card to answer, or click any underlined word to look it up.</p><div class="option-list">${options.map(option => `<div class="option-button definition-option" role="button" tabindex="0" data-definition="${encodeURIComponent(option.defn_en)}"><span class="definition-option-text">${linkedDefinition(option.defn_en, true)}</span><span class="definition-option-action" aria-hidden="true">Choose</span></div>`).join('')}</div><div class="reveal" hidden><p><strong>English definition:</strong> <span class="linked-definition">${linkedDefinition(word.defn_en)}</span></p><p class="dictionary-help">Click any underlined content word to open Cambridge English–Traditional Chinese Dictionary.</p><div class="word-relations" data-word-relations><p class="relation-status">Loading synonyms and antonyms…</p></div><p class="meaning-zh"><strong>繁體中文：</strong> ${esc(word.defn_zh)}</p>${word.sentences.map(sentence => `<p><strong>翻譯：</strong> ${esc(sentence.zh)}</p>`).join('')}</div>`;
+    card.innerHTML = `<div class="word-card-header">${wordTitle(word)}</div><p class="root-note"><strong>Root clue:</strong> ${esc(word.root_note || 'Use the word in context.')}</p><div class="sentences">${word.sentences.map(sentence => { const text = full(sentence, word.word); return `<div class="sentence">${speaker(text, 'Listen to example sentence')}<span ${say(text)}>${esc(text)}</span></div>`; }).join('')}</div><p class="definition-prompt">Which definition matches this word?</p><p class="definition-link-help">Click a definition card to answer, or click any underlined word to look it up.</p><div class="option-list">${options.map(option => `<div class="option-button definition-option" role="button" tabindex="0" data-definition="${encodeURIComponent(option.defn_en)}"><span class="definition-option-text">${linkedDefinition(option.defn_en, true)}</span><span class="definition-option-action" aria-hidden="true">Choose</span></div>`).join('')}</div><div class="reveal" hidden><p><strong>English definition:</strong> <span class="linked-definition">${linkedDefinition(word.defn_en)}</span></p><p class="dictionary-help">Click any underlined content word to open Cambridge English–Traditional Chinese Dictionary.</p><div class="word-relations" data-word-relations><p class="relation-status">Loading synonyms and antonyms…</p></div><p class="meaning-zh"><strong>繁體中文：</strong> ${esc(word.defn_zh)}</p>${word.sentences.map(sentence => `<p><strong>翻譯：</strong> ${esc(sentence.zh)}</p>`).join('')}</div>`;
     const answerDefinition = button => {
       if (card.dataset.answered) return;
       card.dataset.answered = 'true';
@@ -479,11 +481,14 @@ function renderUnitNav() {
   const nav = document.createElement('aside');
   nav.className = 'unit-nav';
   nav.setAttribute('aria-label', 'Switch unit');
+  const mockGroup = ['mocktest', '模擬試題單字', 'Practice test vocabulary'];
   const groups = [
     ['part1', 'Part 1 字首篇', 'Prefixes'],
     ['part2', 'Part 2 字根篇', 'Roots'],
     ['unclassified', '未歸類', 'Unclassified']
   ];
+  // Show the practice-test vocabulary group first when the student is on one of those lists.
+  if (batch.part === 'mocktest') groups.unshift(mockGroup); else groups.push(mockGroup);
   const items = (batchIndex?.batches || []);
   nav.innerHTML = `<div class="unit-nav-search"><input type="search" placeholder="Search unit or word…" aria-label="Search unit or word"></div><div class="unit-nav-list">${groups.map(([part, title, en]) => {
     const list = items.filter(item => item.part === part);
@@ -527,7 +532,7 @@ function renderReference() {
     }
     const card = document.createElement('article');
     card.className = 'reference-card ref-row';
-    card.innerHTML = `<div class="ref-num">${index + 1}</div><div class="ref-word">${wordTitle(word)}<p class="ref-zh">${esc(word.defn_zh)}</p><p class="ref-root"><strong>Clue:</strong> ${esc(word.root_note || 'Use the word in context.')}</p></div><div class="ref-meaning"><p class="ref-def"><span class="linked-definition">${linkedDefinition(word.defn_en)}</span></p><div class="word-relations reference-relations" data-word-relations><p class="relation-status">Loading synonyms and antonyms…</p></div></div><div class="reference-sentences ref-sentences">${word.sentences.map(sentence => { const text = full(sentence.en, word.word); return `<div class="reference-sentence"><div>${speaker(text, 'Listen to example sentence')}<span ${say(text)}>${highlighted(text, word.word)}</span></div><p>${esc(sentence.zh)}</p></div>`; }).join('')}</div>`;
+    card.innerHTML = `<div class="ref-num">${index + 1}</div><div class="ref-word">${wordTitle(word)}<p class="ref-zh">${esc(word.defn_zh)}</p><p class="ref-root"><strong>Clue:</strong> ${esc(word.root_note || 'Use the word in context.')}</p></div><div class="ref-meaning"><p class="ref-def"><span class="linked-definition">${linkedDefinition(word.defn_en)}</span></p><div class="word-relations reference-relations" data-word-relations><p class="relation-status">Loading synonyms and antonyms…</p></div></div><div class="reference-sentences ref-sentences">${word.sentences.map(sentence => { const text = full(sentence, word.word); return `<div class="reference-sentence"><div>${speaker(text, 'Listen to example sentence')}<span ${say(text)}>${highlighted(text, blankWord(sentence, word.word))}</span></div><p>${esc(sentence.zh)}</p></div>`; }).join('')}</div>`;
     rows.append(card);
     observeReferenceRelations(card.querySelector('[data-word-relations]'), word);
   });
@@ -614,7 +619,7 @@ function renderQuestion() {
   document.querySelector('#quiz-progress').textContent = `Question ${q + 1} of ${order.length}`;
   document.querySelector('#live-score').textContent = `Score ${score}/${q}`;
   card.dataset.answered = 'false';
-  card.innerHTML = `<h3>Which word completes both sentences?</h3><div class="blank-sentences">${target.sentences.map(sentence => `<div class="blank-sentence">${speaker(sentence.en, 'Listen to sentence')}<span ${say(sentence.en)}>${esc(sentence.en)}</span></div>`).join('')}</div><div class="quiz-options">${options.map(option => `<button class="quiz-option" type="button" ${say(option.word)} data-word="${encodeURIComponent(option.word)}">${esc(option.word)}</button>`).join('')}</div><div class="option-explanations" hidden>${options.map(option => `<div class="option-explanation"><strong>${speaker(option.word, `Listen to ${option.word}`)}<span ${say(option.word)}>${esc(option.word)}</span>${isBatchWord(option.word) ? reviewToggle(option.word, true) : ''}</strong><span>${esc(option.defn_en)} · ${esc(option.defn_zh)}</span></div>`).join('')}</div><div class="next-row" hidden><button class="primary-button" id="next-question">${q + 1 === order.length ? 'See results' : 'Next question'}</button></div>`;
+  card.innerHTML = `<h3>Which word completes ${target.sentences.length > 1 ? 'both sentences' : 'the sentence'}?</h3><div class="blank-sentences">${target.sentences.map(sentence => `<div class="blank-sentence">${speaker(sentence.en, 'Listen to sentence')}<span ${say(sentence.en)}>${esc(sentence.en)}</span></div>`).join('')}</div><div class="quiz-options">${options.map(option => `<button class="quiz-option" type="button" ${say(option.word)} data-word="${encodeURIComponent(option.word)}">${esc(option.word)}</button>`).join('')}</div><div class="option-explanations" hidden>${options.map(option => `<div class="option-explanation"><strong>${speaker(option.word, `Listen to ${option.word}`)}<span ${say(option.word)}>${esc(option.word)}</span>${isBatchWord(option.word) ? reviewToggle(option.word, true) : ''}</strong><span>${esc(option.defn_en)} · ${esc(option.defn_zh)}</span></div>`).join('')}</div><div class="next-row" hidden><button class="primary-button" id="next-question">${q + 1 === order.length ? 'See results' : 'Next question'}</button></div>`;
   card.querySelectorAll('[data-word]').forEach(button => button.addEventListener('click', () => answer(button, target)));
 }
 
@@ -769,9 +774,9 @@ function mistakeRows() {
     'English definition': item.defn_en || '',
     '繁體中文': item.defn_zh || '',
     'Root clue': item.root_note || '',
-    'Example sentence 1': item.sentences?.[0] ? full(item.sentences[0].en, item.word) : '',
+    'Example sentence 1': item.sentences?.[0] ? full(item.sentences[0], item.word) : '',
     '翻譯 1': item.sentences?.[0]?.zh || '',
-    'Example sentence 2': item.sentences?.[1] ? full(item.sentences[1].en, item.word) : '',
+    'Example sentence 2': item.sentences?.[1] ? full(item.sentences[1], item.word) : '',
     '翻譯 2': item.sentences?.[1]?.zh || ''
   }));
 }
@@ -848,9 +853,9 @@ function downloadReviewList() {
     'English definition': item.defn_en || '',
     '繁體中文': item.defn_zh || '',
     'Root clue': item.root_note || '',
-    'Example sentence 1': item.sentences?.[0] ? full(item.sentences[0].en, item.word) : '',
+    'Example sentence 1': item.sentences?.[0] ? full(item.sentences[0], item.word) : '',
     '翻譯 1': item.sentences?.[0]?.zh || '',
-    'Example sentence 2': item.sentences?.[1] ? full(item.sentences[1].en, item.word) : '',
+    'Example sentence 2': item.sentences?.[1] ? full(item.sentences[1], item.word) : '',
     '翻譯 2': item.sentences?.[1]?.zh || ''
   }));
   const student = readStore('satVocabStudent', null);
@@ -974,12 +979,19 @@ if (!batchId) {
 } else {
   Promise.all([
     fetch(`data/batches/${encodeURIComponent(batchId)}.json`).then(response => { if (!response.ok) throw Error(); return response.json(); }),
-    fetch('data/batches-index.json').then(response => response.json())
-  ]).then(([data, index]) => {
+    fetch('data/batches-index.json').then(response => response.json()),
+    fetch('data/mocktest-index.json').then(response => response.ok ? response.json() : { batches: [] }).catch(() => ({ batches: [] }))
+  ]).then(([data, index, mockIndex]) => {
     batch = data;
-    batchIndex = index;
-    const position = index.batches.findIndex(item => item.id === batch.id) + 1;
-    document.querySelector('#batch-counter').textContent = `Batch ${position} of ${index.summary.total_batches}`;
+    batchIndex = { ...index, batches: [...index.batches, ...(mockIndex.batches || [])] };
+    if (batch.part === 'mocktest') {
+      const mockBatches = mockIndex.batches || [];
+      const position = mockBatches.findIndex(item => item.id === batch.id) + 1;
+      document.querySelector('#batch-counter').textContent = `Practice test vocabulary ${position} of ${mockBatches.length}`;
+    } else {
+      const position = index.batches.findIndex(item => item.id === batch.id) + 1;
+      document.querySelector('#batch-counter').textContent = `Batch ${position} of ${index.summary.total_batches}`;
+    }
     document.querySelector('#batch-part').textContent = batch.part_label;
     document.querySelector('#batch-title').textContent = batch.name;
     document.querySelector('#batch-subtitle').textContent = `${batch.subtitle} · ${batch.count} words`;
