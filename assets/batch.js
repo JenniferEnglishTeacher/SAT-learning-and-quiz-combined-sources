@@ -9,6 +9,8 @@ const progressCopy = document.querySelector('#progress-copy');
 
 let batch;
 let batchIndex = null;
+// Practice-test vocabulary lists are reference-only: no Learn/Quiz parts, just the complete list.
+let listOnly = false;
 let learned = 0;
 const rendered = { learn: false, list: false, quiz: false };
 
@@ -307,7 +309,7 @@ function refreshReviewUi() {
     listButton.textContent = `My review list (${count})`;
   }
   const hint = document.querySelector('#bar-hint');
-  if (hint) hint.textContent = count === 0 ? 'Click any word to save it for review — saved words stay when you change units.' : count < 4 ? `Save ${4 - count} more word${4 - count === 1 ? '' : 's'} to start a review quiz.` : `${here} from this unit · ${count} from all units`;
+  if (hint) hint.textContent = count === 0 ? 'Click any word to save it for review — saved words stay when you change units.' : listOnly ? `${here} from this list · ${count} from all units` : count < 4 ? `Save ${4 - count} more word${4 - count === 1 ? '' : 's'} to start a review quiz.` : `${here} from this unit · ${count} from all units`;
   if (document.querySelector('#review-drawer:not([hidden])')) renderReviewDrawer();
 }
 
@@ -320,7 +322,7 @@ function renderReviewDrawer() {
     if (!groups.has(key)) groups.set(key, []);
     groups.get(key).push(item);
   });
-  drawer.innerHTML = `<div class="drawer-head"><div><p class="eyebrow">MY REVIEW LIST</p><h2>${items.length} saved word${items.length === 1 ? '' : 's'} from ${groups.size} unit${groups.size === 1 ? '' : 's'}</h2></div><button class="drawer-close" type="button" data-close-drawer aria-label="Close">✕</button></div><div class="drawer-actions"><button class="primary-button" type="button" data-start-quiz="review"${items.length < 4 ? ' disabled' : ''}>★ Test these words</button><button class="secondary-button" type="button" data-download-review${items.length ? '' : ' disabled'}>⬇ Download (Excel)</button><button class="link-button" type="button" data-clear-review${items.length ? '' : ' hidden'}>Clear all</button></div>${items.length < 4 ? '<p class="muted">Save at least 4 words to start a review quiz.</p>' : ''}<div class="drawer-list">${[...groups.entries()].map(([name, list]) => `<section><h3>${esc(name)}</h3>${list.map(item => `<div class="drawer-row">${speaker(item.word, `Listen to ${item.word}`)}<strong ${say(item.word)}>${esc(item.word)}</strong><span>${esc(item.pos || '')} · ${esc(item.defn_zh || '')}</span><button class="drawer-remove" type="button" data-review="${encodeURIComponent(item.word)}" title="Remove from review list">✕</button></div>`).join('')}</section>`).join('') || '<p class="muted">No words saved yet. Click any word (or ☆ Review) in any unit.</p>'}</div>`;
+  drawer.innerHTML = `<div class="drawer-head"><div><p class="eyebrow">MY REVIEW LIST</p><h2>${items.length} saved word${items.length === 1 ? '' : 's'} from ${groups.size} unit${groups.size === 1 ? '' : 's'}</h2></div><button class="drawer-close" type="button" data-close-drawer aria-label="Close">✕</button></div><div class="drawer-actions">${listOnly ? '' : `<button class="primary-button" type="button" data-start-quiz="review"${items.length < 4 ? ' disabled' : ''}>★ Test these words</button>`}<button class="secondary-button" type="button" data-download-review${items.length ? '' : ' disabled'}>⬇ Download (Excel)</button><button class="link-button" type="button" data-clear-review${items.length ? '' : ' hidden'}>Clear all</button></div>${items.length < 4 && !listOnly ? '<p class="muted">Save at least 4 words to start a review quiz.</p>' : ''}<div class="drawer-list">${[...groups.entries()].map(([name, list]) => `<section><h3>${esc(name)}</h3>${list.map(item => `<div class="drawer-row">${speaker(item.word, `Listen to ${item.word}`)}<strong ${say(item.word)}>${esc(item.word)}</strong><span>${esc(item.pos || '')} · ${esc(item.defn_zh || '')}</span><button class="drawer-remove" type="button" data-review="${encodeURIComponent(item.word)}" title="Remove from review list">✕</button></div>`).join('')}</section>`).join('') || '<p class="muted">No words saved yet. Click any word (or ☆ Review) in any unit.</p>'}</div>`;
 }
 
 function openReviewDrawer(open = true) {
@@ -421,6 +423,7 @@ function sectionHeading(section) {
 
 function quizCallout() {
   const box = document.createElement('div');
+  if (listOnly) return box;
   box.className = 'quiz-callout';
   box.innerHTML = `<div><strong>Ready to check yourself?</strong><p>Take the quiz for all ${batch.words.length} words, or test the words you saved ★ from every unit.</p></div><div class="quiz-callout-actions"><button class="primary-button" type="button" data-start-quiz="batch">📝 Take the quiz</button><button class="secondary-button" type="button" data-start-quiz="review" data-needs-review>★ Test my review words</button></div>`;
   return box;
@@ -886,7 +889,7 @@ function prepareStudentForm() {
 /* ---------------- Mode switching & study bar ---------------- */
 
 function setMode(next, push = true) {
-  mode = next;
+  mode = listOnly ? 'list' : next;
   const sections = { learn: 'learn-section', quiz: 'quiz-section', list: 'list-section' };
   Object.entries(sections).forEach(([key, id]) => {
     document.querySelector(`#${id}`).hidden = key !== mode;
@@ -943,7 +946,9 @@ function buildStudyBar() {
 function refreshBar() {
   const quizButton = document.querySelector('#bar-quiz');
   if (!quizButton) return;
-  quizButton.hidden = mode === 'quiz' && quizKind === 'batch';
+  quizButton.hidden = listOnly || (mode === 'quiz' && quizKind === 'batch');
+  const reviewButton = document.querySelector('#bar-review');
+  if (reviewButton) reviewButton.hidden = listOnly;
   quizButton.textContent = quizActive && quizKind === 'batch' ? '📝 Back to my quiz' : '📝 Take the quiz';
   const hover = document.querySelector('#bar-hover');
   hover.setAttribute('aria-pressed', String(hoverSpeech));
@@ -983,6 +988,8 @@ if (!batchId) {
     fetch('data/mocktest-index.json').then(response => response.ok ? response.json() : { batches: [] }).catch(() => ({ batches: [] }))
   ]).then(([data, index, mockIndex]) => {
     batch = data;
+    listOnly = batch.part === 'mocktest';
+    if (listOnly) { mode = 'list'; document.body.classList.add('list-only'); }
     batchIndex = { ...index, batches: [...index.batches, ...(mockIndex.batches || [])] };
     if (batch.part === 'mocktest') {
       const mockBatches = mockIndex.batches || [];
