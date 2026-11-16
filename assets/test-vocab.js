@@ -158,7 +158,7 @@ function render() {
       <button class="tv-tile" type="button" data-speak="${encodeURIComponent(word.word)}" aria-label="Listen to ${esc(word.word)}">🔊</button>
       <div class="tv-word-wrap"><div class="tv-word-line"><a class="tv-word" href="${cambridgeUrl(word.word)}" target="_blank" rel="noopener noreferrer" data-say="${encodeURIComponent(word.word)}" data-review="${encodeURIComponent(word.word)}" title="Open in Cambridge English–Traditional Chinese Dictionary">${esc(word.word)}</a><button class="tv-star" type="button" data-review="${encodeURIComponent(word.word)}" data-toggle aria-pressed="false">☆</button></div>
       <div class="tv-meta"><span class="tv-pos">${esc(word.pos)}</span><span class="tv-zh">${esc(word.defn_zh)}</span></div>
-      <p class="tv-def">${esc(word.defn_en)}</p>${word.root_note ? `<p class="tv-root">Root clue: ${esc(word.root_note)}</p>` : ''}</div>
+      <p class="tv-def">${esc(word.defn_en)}</p>${word.root_note ? `<p class="tv-root">${esc(word.root_note)}</p>` : ''}</div>
       <div class="tv-sent">${sentences}</div>`;
     list.append(row);
   });

@@ -1,0 +1,1427 @@
+{
+ "id": "sat-test-03",
+ "part": "mocktest",
+ "part_label": "Digital SAT Practice Test Vocabulary",
+ "name": "Practice Test 3 · Vocabulary",
+ "subtitle": "Words & options from Module 1 and Module 2",
+ "count": 101,
+ "generated": true,
+ "words": [
+  {
+   "word": "unintended",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "not planned or meant",
+   "defn_zh": "非計畫中的；無意的",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The new tax policy was designed to stimulate the economy by encouraging local businesses. However, it had the ______ consequence of increasing the cost of living for lower-income families.",
+     "zh": "這項新稅收政策旨在透過鼓勵當地企業來刺激經濟。然而，它卻產生了增加低收入家庭生活成本的無意後果。"
+    }
+   ]
+  },
+  {
+   "word": "infrequent",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "not occurring often",
+   "defn_zh": "罕見的；不常發生的",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Because the remote island is difficult to reach by boat, visits from tourists are highly ______. The local residents generally go months without seeing a new face.",
+     "zh": "因為這座偏遠的島嶼很難乘船抵達，所以遊客的造訪非常罕見。當地居民通常幾個月都見不到生面孔。"
+    }
+   ]
+  },
+  {
+   "word": "acknowledge",
+   "pos": "v.",
+   "pos_key": "v.",
+   "defn_en": "to accept or admit the existence or truth of",
+   "defn_zh": "承認；認可",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Despite his initial reluctance, the scientist eventually had to ______ the flaws in his methodology. The overwhelming evidence presented by his peers left him with no other choice.",
+     "zh": "儘管最初並不情願，這位科學家最終還是不得不承認他方法論上的缺陷。同儕提出的壓倒性證據讓他別無選擇。"
+    }
+   ]
+  },
+  {
+   "word": "underestimate",
+   "pos": "v.",
+   "pos_key": "v.",
+   "defn_en": "to estimate to be smaller or less important than it actually is",
+   "defn_zh": "低估",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The project manager made a critical error when she chose to ______ the amount of time required for the software update. As a result, the team missed their crucial launch deadline by two weeks.",
+     "zh": "專案經理犯了一個關鍵錯誤，她選擇低估軟體更新所需的時間。結果，團隊錯過了關鍵的發布期限達兩週之久。"
+    }
+   ]
+  },
+  {
+   "word": "implement",
+   "pos": "v.",
+   "pos_key": "v.",
+   "defn_en": "to put a decision, plan, or agreement into effect",
+   "defn_zh": "實施；執行",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "In order to reduce the company's carbon footprint, the executive board decided to ______ a strict recycling program across all departments. This new policy requires all employees to separate their waste accordingly.",
+     "zh": "為了減少公司的碳足跡，董事會決定在所有部門實施嚴格的回收計畫。這項新政策要求所有員工相應地將垃圾分類。"
+    }
+   ]
+  },
+  {
+   "word": "presume",
+   "pos": "v.",
+   "pos_key": "v.",
+   "defn_en": "to suppose that something is the case on the basis of probability",
+   "defn_zh": "假設；推定",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Without seeing the actual financial reports, the investors can only ______ that the startup is turning a profit. They are eagerly awaiting the upcoming quarterly meeting for concrete numbers.",
+     "zh": "在沒有看到實際財務報告的情況下，投資者只能假設這家新創公司正在獲利。他們正熱切期待即將召開的季度會議以獲取具體數字。"
+    }
+   ]
+  },
+  {
+   "word": "improvise",
+   "pos": "v.",
+   "pos_key": "v.",
+   "defn_en": "to create and perform spontaneously or without preparation",
+   "defn_zh": "即興創作；臨時湊合",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "When the lead actor suddenly forgot his lines during the live performance, he had to quickly ______ to keep the scene moving. His quick thinking saved the play from becoming a disaster.",
+     "zh": "當主角在現場演出中突然忘記台詞時，他不得不迅速即興發揮以讓場景繼續進行。他的機智反應挽救了這齣戲免於成為一場災難。"
+    }
+   ]
+  },
+  {
+   "word": "mimic",
+   "pos": "v.",
+   "pos_key": "v.",
+   "defn_en": "to imitate someone or something, typically in order to entertain or ridicule",
+   "defn_zh": "模仿",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Certain species of harmless butterflies have evolved to ______ the distinct patterns of poisonous ones. This brilliant survival tactic effectively deters predators from attacking them.",
+     "zh": "某些無害的蝴蝶物種已經進化到能模仿有毒蝴蝶的獨特圖案。這種絕妙的生存策略有效地阻止了掠食者攻擊牠們。"
+    }
+   ]
+  },
+  {
+   "word": "indecipherable",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "not able to be read or understood",
+   "defn_zh": "無法破譯的；難以辨認的",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The ancient manuscript was badly damaged by water and time, rendering the text almost entirely ______. Historians spent decades trying to unlock the secrets hidden within its pages.",
+     "zh": "這份古代手稿受到水和時間的嚴重損壞，使得文字幾乎完全無法辨認。歷史學家花了幾十年的時間試圖解開隱藏在書頁中的秘密。"
+    }
+   ]
+  },
+  {
+   "word": "ornamental",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "serving or intended as an ornament; decorative",
+   "defn_zh": "裝飾性的",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "While the elaborate iron gates provided some security, their primary purpose was purely ______. They added a touch of classic elegance to the entrance of the grand estate.",
+     "zh": "雖然精緻的鐵門提供了一定的安全性，但它們的主要目的純粹是裝飾性的。它們為這座宏偉莊園的入口增添了一抹古典的優雅。"
+    }
+   ]
+  },
+  {
+   "word": "obscure",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "not discovered or known about; uncertain",
+   "defn_zh": "默默無聞的；晦澀的",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The researcher spent years digging through dusty archives to find information about an ______ 19th-century poet. Until her biography was published, his brilliant literary contributions were entirely forgotten.",
+     "zh": "研究人員花了數年時間在佈滿灰塵的檔案中尋找關於一位默默無聞的19世紀詩人的資訊。直到她的傳記出版，他卓越的文學貢獻才為人所知。"
+    }
+   ]
+  },
+  {
+   "word": "intricate",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "very complicated or detailed",
+   "defn_zh": "錯綜複雜的；精細的",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The watchmaker carefully assembled the ______ mechanism, which consisted of hundreds of tiny, delicate gears. It requires absolute precision and immense patience to construct such a masterpiece.",
+     "zh": "鐘錶匠仔細地組裝了由數百個微小精緻齒輪組成的錯綜複雜的機械裝置。建造這樣的傑作需要絕對的精確度和極大的耐心。"
+    }
+   ]
+  },
+  {
+   "word": "adhere to",
+   "pos": "v.phr.",
+   "pos_key": "v.",
+   "defn_en": "to follow closely or stick strictly to a rule or belief",
+   "defn_zh": "堅持；遵守",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "In this chemistry laboratory, strict safety protocols are not optional. All students must strictly ______ the guidelines to prevent dangerous chemical reactions or accidents.",
+     "zh": "在這個化學實驗室裡，嚴格的安全規程不是可有可無的。所有學生都必須嚴格遵守這些指導方針，以防止危險的化學反應或事故發生。"
+    }
+   ]
+  },
+  {
+   "word": "grapple with",
+   "pos": "v.phr.",
+   "pos_key": "v.",
+   "defn_en": "to struggle to deal with or overcome a difficulty",
+   "defn_zh": "努力克服；與...搏鬥",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Following the economic crash, the newly elected government had to ______ soaring inflation and high unemployment rates. It took several years of aggressive policy changes to stabilize the nation's finances.",
+     "zh": "經濟崩潰後，新當選的政府不得不努力應對飆升的通貨膨脹和高失業率。經過幾年積極的政策改變，國家的財務狀況才得以穩定。"
+    }
+   ]
+  },
+  {
+   "word": "surmise",
+   "pos": "v.",
+   "pos_key": "v.",
+   "defn_en": "to suppose that something is true without having evidence to confirm it",
+   "defn_zh": "猜測；推測",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Looking at the dark, heavy clouds gathering on the horizon, the farmer could easily ______ that a severe storm was approaching. He rushed to secure the barn doors before the rain began to fall.",
+     "zh": "看著地平線上聚集的烏雲，農夫很容易就能推測出猛烈的風暴即將來臨。在開始下雨之前，他趕緊去把穀倉的門鎖好。"
+    }
+   ]
+  },
+  {
+   "word": "contrive",
+   "pos": "v.",
+   "pos_key": "v.",
+   "defn_en": "to create or bring about an object or a situation by deliberate use of skill and artifice",
+   "defn_zh": "策劃；發明；設法做到",
+   "root_note": "= fabricate = make up",
+   "sentences": [
+    {
+     "en": "Realizing he was running late for the crucial exam, he managed to ______ a believable excuse regarding a broken down train. Though it wasn't true, his professor granted him an extension.",
+     "zh": "意識到自己趕不上這場關鍵考試時，他設法編造了一個關於火車拋錨的可信藉口。雖然這不是真的，但他的教授還是給了他延期的機會。"
+    }
+   ]
+  },
+  {
+   "word": "complementary",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "combining in such a way as to enhance or emphasize the qualities of each other or another",
+   "defn_zh": "互補的",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The two software engineers had highly ______ skills; one was an expert in front-end design, while the other excelled at back-end database architecture. Together, they built a flawless application.",
+     "zh": "這兩位軟體工程師擁有高度互補的技能；一位是前端設計專家，而另一位則擅長後端資料庫架構。他們共同打造了一個完美無瑕的應用程式。"
+    }
+   ]
+  },
+  {
+   "word": "disparate",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "essentially different in kind; not allowing comparison",
+   "defn_zh": "截然不同的",
+   "root_note": "= diverse = different = heterogeneous",
+   "sentences": [
+    {
+     "en": "The committee was composed of individuals from vastly ______ backgrounds, ranging from corporate banking to grassroots environmental activism. Unsurprisingly, they struggled to reach a consensus on the new policy.",
+     "zh": "該委員會由背景截然不同的人士組成，從企業銀行業務到基層環保倡議行動都有。毫不意外地，他們很難對新政策達成共識。"
+    }
+   ]
+  },
+  {
+   "word": "interchangeable",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "capable of being put or used in the place of each other",
+   "defn_zh": "可互換的",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Although the two brands of printer ink look identical and have similar packaging, their cartridges are not actually ______. If you use the wrong one, you could permanently damage the machine.",
+     "zh": "雖然這兩個品牌的印表機墨水看起來完全一樣，包裝也很相似，但它們的墨水匣實際上是不可互換的。如果你用錯了，可能會對機器造成永久性損壞。"
+    }
+   ]
+  },
+  {
+   "word": "quarrel about",
+   "pos": "v.phr.",
+   "pos_key": "v.",
+   "defn_en": "to have a heated argument or disagreement over something",
+   "defn_zh": "為...爭吵",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The siblings had always been close, but recently they began to constantly ______ the inheritance left by their late grandfather. The tension threatened to tear the family apart permanently.",
+     "zh": "這對兄弟姊妹一直很親密，但最近他們開始不斷地為已故祖父留下的遺產而爭吵。這種緊張局勢威脅著要將這個家庭永久撕裂。"
+    }
+   ]
+  },
+  {
+   "word": "paucity",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "the presence of something only in small or insufficient quantities or amounts",
+   "defn_zh": "缺乏；少量",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The defense attorney argued that there was a severe ______ of hard evidence connecting his client to the crime scene. Based on this lack of proof, he demanded an immediate acquittal.",
+     "zh": "辯護律師辯稱，嚴重缺乏將他的委託人與犯罪現場聯繫起來的確鑿證據。基於這種證據的匱乏，他要求立即無罪釋放。"
+    }
+   ]
+  },
+  {
+   "word": "profusion",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "an abundance or large quantity of something",
+   "defn_zh": "大量；豐富",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "In the spring, the botanical garden bursts into color with a spectacular ______ of blooming tulips and daffodils. Visitors travel from miles away just to photograph the vibrant landscape.",
+     "zh": "到了春天，植物園裡綻放著大量絢麗的鬱金香和水仙花，色彩斑斕。遊客們從幾英里外趕來，只為了拍攝這生機勃勃的風景。"
+    }
+   ]
+  },
+  {
+   "word": "verisimilitude",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "the appearance of being true or real",
+   "defn_zh": "逼真；貌似真實",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The historical novelist spent months researching 18th-century dialects to add a sense of ______ to her dialogue. Her readers frequently praised how authentic and transporting the conversations felt.",
+     "zh": "這位歷史小說家花了幾個月的時間研究18世紀的方言，以增加她對話的逼真度。她的讀者經常稱讚這些對話感覺多麼真實且引人入勝。"
+    }
+   ]
+  },
+  {
+   "word": "struggling",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "striving to achieve or attain something in the face of difficulty",
+   "defn_zh": "掙扎的；苦苦奮鬥的",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The government introduced a new subsidy program aimed at helping ______ small businesses keep their doors open during the recession. Without this financial aid, many local shops would have gone bankrupt.",
+     "zh": "政府推出了一項新的補貼計畫，旨在幫助苦苦掙扎的小企業在經濟衰退期間維持營運。如果沒有這項經濟援助，許多當地商店就會破產。"
+    }
+   ]
+  },
+  {
+   "word": "indifference",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "lack of interest, concern, or sympathy",
+   "defn_zh": "漠不關心",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "When the citizens complained about the contaminated water supply, the mayor's complete ______ sparked widespread outrage. His failure to address their concerns led to massive protests outside city hall.",
+     "zh": "當市民抱怨供水受到污染時，市長完全的漠不關心引發了廣泛的憤怒。他未能解決他們的擔憂，導致了市政廳外的大規模抗議。"
+    }
+   ]
+  },
+  {
+   "word": "enthusiasm",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "intense and eager enjoyment, interest, or approval",
+   "defn_zh": "熱情；熱忱",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The newly hired teacher approached her incredibly challenging classroom with boundless ______. She spent her weekends designing interactive lessons to engage even the most distracted students.",
+     "zh": "這位新聘的老師帶著無限的熱情面對她極具挑戰性的班級。她利用週末設計互動課程，以吸引最不專心的學生。"
+    }
+   ]
+  },
+  {
+   "word": "react to",
+   "pos": "v.phr.",
+   "pos_key": "v.",
+   "defn_en": "to behave in a particular way as a result of something",
+   "defn_zh": "對...做出反應",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The financial markets are notoriously volatile and will often wildly ______ unexpected global news. A single tweet from a prominent political leader can cause stock prices to plummet instantly.",
+     "zh": "金融市場以波動大著稱，經常會對意想不到的全球新聞做出劇烈反應。一位傑出政治領袖的一條推文就可能導致股價瞬間暴跌。"
+    }
+   ]
+  },
+  {
+   "word": "perceive",
+   "pos": "v.",
+   "pos_key": "v.",
+   "defn_en": "to become aware or conscious of (something); come to realize or understand",
+   "defn_zh": "察覺；感知；認為",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Because she always spoke with such quiet hesitation, many of her colleagues began to ______ her as lacking in confidence. However, she was actually just thinking deeply before expressing her well-crafted ideas.",
+     "zh": "因為她說話總是帶著輕聲的猶豫，她的許多同事開始認為她缺乏自信。然而，她其實只是在表達她精心構思的想法之前進行深度思考。"
+    }
+   ]
+  },
+  {
+   "word": "conform to",
+   "pos": "v.phr.",
+   "pos_key": "v.",
+   "defn_en": "to comply with rules, standards, or laws",
+   "defn_zh": "遵守；符合",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The imported electrical appliances were confiscated at the border because they did not ______ the country's stringent safety regulations. The manufacturer was forced to redesign the wiring completely.",
+     "zh": "這些進口的電器在邊境被沒收，因為它們不符合該國嚴格的安全規定。製造商被迫徹底重新設計線路。"
+    }
+   ]
+  },
+  {
+   "word": "responsiveness",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "the quality of reacting quickly and positively",
+   "defn_zh": "響應能力；反應速度",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The tech company prides itself on the immediate ______ of its customer service team. Whenever a user reports a bug, it is usually addressed and fixed within a matter of hours.",
+     "zh": "這家科技公司為其客服團隊迅速的反應能力感到自豪。每當用戶回報錯誤時，通常會在幾小時內得到處理和修復。"
+    }
+   ]
+  },
+  {
+   "word": "ambivalence",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "the state of having mixed feelings or contradictory ideas about something or someone",
+   "defn_zh": "矛盾心理；猶豫不決",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "As graduation approached, he felt a deep sense of ______ about moving to a new city for work. He was thrilled about the career opportunity but devastated by the thought of leaving his family behind.",
+     "zh": "隨著畢業的臨近，他對搬到新城市工作感到一種深深的矛盾心理。他對這個職業機會感到興奮，但一想到要離開家人又感到非常痛苦。"
+    }
+   ]
+  },
+  {
+   "word": "renunciation",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "the formal rejection of something, typically a belief, claim, or course of action",
+   "defn_zh": "放棄；聲明拋棄",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Upon ascending to the throne, the new king made a public ______ of his former extravagant lifestyle. He promised to dedicate his life solely to the service and well-being of his people.",
+     "zh": "登上王位後，新國王公開宣布放棄他以前奢侈的生活方式。他承諾將自己的一生完全奉獻給他的人民的服務和福祉。"
+    }
+   ]
+  },
+  {
+   "word": "mastery",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "comprehensive knowledge or skill in a subject or accomplishment",
+   "defn_zh": "精通；掌握",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "It takes years of dedicated practice to achieve true ______ of the violin. Only after a decade of relentless daily rehearsals did she feel comfortable performing the difficult concerto.",
+     "zh": "要真正精通小提琴需要多年專注的練習。在經過十年不懈的日常排練後，她才覺得能夠游刃有餘地演奏那首高難度的協奏曲。"
+    }
+   ]
+  },
+  {
+   "word": "indigenous",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "originating or occurring naturally in a particular place",
+   "defn_zh": "本土的；原生的",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Many ______ communities have preserved their traditional ecological knowledge for centuries. This ancient wisdom often provides vital solutions for modern environmental conservation efforts.",
+     "zh": "許多原住民社區幾個世紀以來一直保留著他們傳統的生態知識。這種古老的智慧通常為現代環境保育工作提供至關重要的解決方案。"
+    }
+   ]
+  },
+  {
+   "word": "scholar",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "a specialist in a particular branch of study",
+   "defn_zh": "學者",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "As a distinguished ______ of medieval history, she spent decades analyzing forgotten texts in the university archives. Her latest publication fundamentally shifted how academics view the era.",
+     "zh": "作為一位傑出的中世紀歷史學者，她花了數十年時間在大學檔案館分析被遺忘的文獻。她的最新出版物從根本上改變了學術界對那個時代的看法。"
+    }
+   ]
+  },
+  {
+   "word": "accurately",
+   "pos": "adv.",
+   "pos_key": "adv.",
+   "defn_en": "in a way that is correct in all details",
+   "defn_zh": "準確地",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The sophisticated satellite system is designed to ______ predict severe weather patterns days in advance. Such precision gives coastal residents ample time to evacuate before a hurricane strikes.",
+     "zh": "這個複雜的衛星系統旨在提前幾天準確地預測惡劣的天氣模式。這種精確度讓沿海居民在颶風襲擊前有充足的時間撤離。"
+    }
+   ]
+  },
+  {
+   "word": "archaeologist",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "a person who studies human history through excavation",
+   "defn_zh": "考古學家",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The lead ______ carefully brushed away centuries of dirt to reveal an incredibly well-preserved Roman mosaic. This discovery provided rare insights into the daily lives of ancient citizens.",
+     "zh": "首席考古學家小心翼翼地刷去幾個世紀的泥土，展現出一幅保存得極其完好的羅馬馬賽克。這項發現提供了對古代公民日常生活的罕見見解。"
+    }
+   ]
+  },
+  {
+   "word": "ground-breaking",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "innovative; pioneering",
+   "defn_zh": "突破性的；開創性的",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The medical research team published a ______ study on targeted gene therapy for rare genetic disorders. Their innovative approach completely revolutionized how hospitals treat the condition.",
+     "zh": "醫學研究團隊發表了一項關於罕見遺傳疾病標靶基因治療的突破性研究。他們創新的方法徹底改變了醫院治療這種疾病的方式。"
+    }
+   ]
+  },
+  {
+   "word": "stem from",
+   "pos": "v.phr.",
+   "pos_key": "v.",
+   "defn_en": "to originate or be caused by",
+   "defn_zh": "源自於",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The current economic crisis seems to ______ years of unregulated banking practices and high corporate debt. Solving the issue will require addressing these root causes rather than just the symptoms.",
+     "zh": "當前的經濟危機似乎源自於多年來不受監管的銀行業務和高額的企業債務。解決這個問題需要從根本原因著手，而不僅僅是治標。"
+    }
+   ]
+  },
+  {
+   "word": "self-governing",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "exercising control over one's own affairs",
+   "defn_zh": "自治的",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "After years of colonial rule, the island nation finally established a completely ______ parliament. The citizens rejoiced at the opportunity to draft their own laws and elect their own leaders.",
+     "zh": "經過多年的殖民統治，這個島國終於建立了一個完全自治的議會。公民們為有機會起草自己的法律並選舉自己的領導人而歡欣鼓舞。"
+    }
+   ]
+  },
+  {
+   "word": "regulate",
+   "pos": "v.",
+   "pos_key": "v.",
+   "defn_en": "to control or maintain the rate or speed of a process",
+   "defn_zh": "規範；調節",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "In an effort to curb pollution, the environmental agency decided to strictly ______ the amount of emissions produced by factories. Companies failing to comply face severe financial penalties.",
+     "zh": "為了遏制污染，環保署決定嚴格規範工廠的排放量。未能遵守規定的公司將面臨嚴厲的罰款。"
+    }
+   ]
+  },
+  {
+   "word": "devise",
+   "pos": "v.",
+   "pos_key": "v.",
+   "defn_en": "to plan or invent by careful thought",
+   "defn_zh": "設計；發明",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The brilliant engineer managed to ______ a highly efficient water purification system using only solar power. Her invention provided clean drinking water to hundreds of remote villages.",
+     "zh": "這位才華橫溢的工程師成功地設計出了一套僅利用太陽能的高效淨水系統。她的發明為數百個偏遠村莊提供了乾淨的飲用水。"
+    }
+   ]
+  },
+  {
+   "word": "administer",
+   "pos": "v.",
+   "pos_key": "v.",
+   "defn_en": "to manage and be responsible for the running of something",
+   "defn_zh": "管理；執行",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "It takes a highly organized individual to successfully ______ a large-scale public health program across multiple regions. The logistics involve coordinating hundreds of medical professionals and securing vast funding.",
+     "zh": "成功地跨多個地區執行一項大規模的公共衛生計畫需要一個極具組織能力的人。後勤工作涉及協調數百名醫療專業人員並確保龐大的資金。"
+    }
+   ]
+  },
+  {
+   "word": "artisan",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "a worker in a skilled trade, especially making things by hand",
+   "defn_zh": "工匠；手藝人",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The local market is famous for its handcrafted leather goods, each meticulously created by a master ______. Buyers are willing to pay a premium for such exceptional quality and unique design.",
+     "zh": "當地市場以其手工皮革製品而聞名，每一件都是由大師級工匠精心製作。買家願意為這種卓越的品質和獨特的設計支付高價。"
+    }
+   ]
+  },
+  {
+   "word": "intercropping",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "the practice of growing two or more crops in close proximity",
+   "defn_zh": "間作；混作",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "By utilizing the agricultural technique of ______, farmers can maximize their land use while naturally preventing soil erosion. Planting beans alongside corn, for instance, helps replenish vital nitrogen levels in the earth.",
+     "zh": "透過採用間作的農業技術，農民可以最大限度地利用土地，同時自然地防止水土流失。例如，將豆類與玉米種植在一起有助於補充土壤中重要的氮含量。"
+    }
+   ]
+  },
+  {
+   "word": "enrich",
+   "pos": "v.",
+   "pos_key": "v.",
+   "defn_en": "to improve or enhance the quality or value of",
+   "defn_zh": "使豐富；使肥沃",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Reading literature from diverse cultures can significantly ______ your worldview and build empathy. It exposes you to unique perspectives that you might never encounter in your daily life.",
+     "zh": "閱讀來自不同文化的文學作品可以顯著豐富你的世界觀並培養同理心。它讓你接觸到在日常生活中可能永遠不會遇到的獨特視角。"
+    }
+   ]
+  },
+  {
+   "word": "supposition",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "an uncertain belief",
+   "defn_zh": "推測；假定",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The detective operated on the ______ that the suspect had fled the country immediately after the heist. However, new evidence later proved that the thief had been hiding locally all along.",
+     "zh": "偵探基於嫌疑人在搶劫後立即逃離出國的推測進行調查。然而，後來的最新證據證明，小偷一直躲在當地。"
+    }
+   ]
+  },
+  {
+   "word": "derive from",
+   "pos": "v.",
+   "pos_key": "v.",
+   "defn_en": "to obtain something from a specified source",
+   "defn_zh": "獲得；衍生出",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Many pharmaceutical companies ______ their most effective pain-relief medications from naturally occurring plant compounds. It requires extensive laboratory processing to isolate the active ingredients safely.",
+     "zh": "許多製藥公司從天然存在的植物化合物中提取最有效的止痛藥。這需要大量的實驗室加工才能安全地分離出活性成分。"
+    }
+   ]
+  },
+  {
+   "word": "portraiture",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "the art of creating portraits",
+   "defn_zh": "肖像畫（藝術）",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The art gallery is currently hosting an exhibition focused entirely on Renaissance ______. The intricate details in the subjects' facial expressions capture the true essence of the 16th-century nobility.",
+     "zh": "該美術館目前正在舉辦一場完全以文藝復興時期肖像畫為主題的展覽。畫中人物面部表情的錯綜複雜的細節捕捉了16世紀貴族的真正精髓。"
+    }
+   ]
+  },
+  {
+   "word": "stately",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "having a dignified, unhurried, and grand manner",
+   "defn_zh": "莊嚴的；堂皇的",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The royal procession moved at a ______ pace down the main avenue, accompanied by the grand sound of trumpets. Thousands of awe-struck citizens lined the streets to witness the majestic event.",
+     "zh": "皇家隊伍伴隨著宏大的小號聲，以莊嚴的步伐沿著林蔭大道前進。成千上萬充滿敬畏的市民在街道兩旁見證了這場宏偉的盛況。"
+    }
+   ]
+  },
+  {
+   "word": "supernova",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "a star that suddenly increases greatly in brightness because of an explosion",
+   "defn_zh": "超新星",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "When a massive star reaches the end of its life cycle, it collapses and triggers a brilliant ______. This catastrophic cosmic explosion briefly outshines entire galaxies.",
+     "zh": "當一顆大質量恆星到達其生命週期的終點時，它會坍縮並引發明亮的超新星爆炸。這種災難性的宇宙爆炸會短暫地掩蓋整個星系的光芒。"
+    }
+   ]
+  },
+  {
+   "word": "acoustic",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "relating to sound or the sense of hearing",
+   "defn_zh": "聲學的；聽覺的",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The architect specifically designed the concert hall with curved wooden panels to optimize its ______ properties. As a result, even a whisper on stage can be heard perfectly in the back row.",
+     "zh": "建築師特別用彎曲的木板設計了音樂廳，以優化其聲學特性。因此，即使在舞台上的耳語，在最後一排也能聽得一清二楚。"
+    }
+   ]
+  },
+  {
+   "word": "characteristic",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "a feature or quality belonging typically to a person, place, or thing",
+   "defn_zh": "特徵；特點",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Adaptability is perhaps the most defining ______ of successful entrepreneurs in today's rapidly changing tech industry. Those who resist pivoting their business models quickly fall behind the competition.",
+     "zh": "在當今快速變化的科技產業中，適應力或許是成功企業家最決定性的特徵。那些拒絕調整商業模式的人很快就會落後於競爭對手。"
+    }
+   ]
+  },
+  {
+   "word": "effectual",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "successful in producing a desired or intended result",
+   "defn_zh": "有效的",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "In order to combat the rampant spread of misinformation, the social media platform implemented more ______ fact-checking algorithms. These new measures drastically reduced the visibility of fake news articles.",
+     "zh": "為了打擊錯誤資訊的猖獗傳播，該社群媒體平台實施了更有效的事實查核演算法。這些新措施大幅降低了假新聞文章的曝光率。"
+    }
+   ]
+  },
+  {
+   "word": "counteract",
+   "pos": "v.",
+   "pos_key": "v.",
+   "defn_en": "to act against something in order to reduce its force or neutralize it",
+   "defn_zh": "抵消；對抗",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "To ______ the extreme fatigue caused by the medication, the doctor prescribed a mild daily stimulant. This combination allowed the patient to maintain a normal working schedule.",
+     "zh": "為了抵消藥物引起的極度疲勞，醫生開了一種溫和的日常興奮劑。這種組合使患者能夠維持正常的工作日程。"
+    }
+   ]
+  },
+  {
+   "word": "imprudence",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "the quality of being unwise or indiscreet",
+   "defn_zh": "輕率；魯莽",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "His financial ______ was astonishing; he invested his entire life savings into a highly volatile cryptocurrency without doing any research. Unsurprisingly, he lost everything within a month.",
+     "zh": "他的財務魯莽令人震驚；他在沒有做任何研究的情況下，將畢生積蓄投資於高度波動的加密貨幣。毫不意外地，他在一個月內失去了一切。"
+    }
+   ]
+  },
+  {
+   "word": "disposition",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "a person's inherent qualities of mind and character",
+   "defn_zh": "性格；傾向",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Despite enduring numerous hardships throughout her childhood, she maintained an incredibly sunny and resilient ______. Her unwavering optimism served as a profound inspiration to everyone around her.",
+     "zh": "儘管在整個童年時期經歷了無數的艱辛，她仍然保持著令人難以置信的開朗和堅韌的性格。她堅定不移的樂觀精神對她周圍的每個人都是一種深刻的鼓舞。"
+    }
+   ]
+  },
+  {
+   "word": "fanciful",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "overimaginative and unrealistic",
+   "defn_zh": "充滿幻想的；不切實際的",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The architect submitted a highly ______ design for the new library, featuring floating glass domes and indoor waterfalls. The city council ultimately rejected it as far too expensive and impractical to build.",
+     "zh": "建築師為新圖書館提交了一份非常充滿幻想的設計，其特點是漂浮的玻璃圓頂和室內瀑布。市議會最終認為建造成本太高且不切實際而拒絕了它。"
+    }
+   ]
+  },
+  {
+   "word": "disorienting",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "causing someone to lose their bearings or feel confused",
+   "defn_zh": "令人迷失方向的",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Stepping out of the dark, quiet theater into the blazing afternoon sun and noisy street traffic was a deeply ______ experience. It took her several minutes to adjust to the abrupt sensory overload.",
+     "zh": "從黑暗安靜的電影院走進炎熱的午後陽光和嘈雜的街道交通中，是一種非常令人迷失方向的體驗。她花了幾分鐘才適應這種突然的感官超載。"
+    }
+   ]
+  },
+  {
+   "word": "invigorating",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "making one feel strong, healthy, and full of energy",
+   "defn_zh": "令人精神煥發的",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "After spending three consecutive days cooped up in a stuffy conference room, a brisk morning hike in the mountains felt incredibly ______. The crisp, pine-scented air completely cleared her exhausted mind.",
+     "zh": "在悶熱的會議室裡連續待了三天後，早晨在山裡輕快地健行感覺極其令人精神煥發。清脆且帶有松香的空氣完全清醒了她疲憊的頭腦。"
+    }
+   ]
+  },
+  {
+   "word": "personification",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "the attribution of a personal nature or human characteristics to something nonhuman",
+   "defn_zh": "化身；擬人",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Throughout the epic poem, the relentless storm acts as the ultimate ______ of the gods' wrath. It mercilessly tears the sailors' ships apart, reflecting divine anger in physical form.",
+     "zh": "在整部史詩中，無情的風暴扮演了眾神憤怒的終極化身。它無情地撕裂了水手的船隻，以物理形式反映了神明的憤怒。"
+    }
+   ]
+  },
+  {
+   "word": "warrant",
+   "pos": "v.",
+   "pos_key": "v.",
+   "defn_en": "to justify or necessitate a certain course of action",
+   "defn_zh": "使...有正當理由；值得",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The preliminary findings of the investigation are deeply concerning and absolutely ______ a much deeper, independent inquiry. We cannot dismiss these allegations without uncovering the full truth.",
+     "zh": "調查的初步結果令人深感擔憂，絕對有正當理由進行更深入、獨立的調查。在沒有揭露全部真相的情況下，我們不能駁回這些指控。"
+    }
+   ]
+  },
+  {
+   "word": "urbanize",
+   "pos": "v.",
+   "pos_key": "v.",
+   "defn_en": "to make a rural area more like a city",
+   "defn_zh": "使都市化",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "As the population continued to explode, the government scrambled to rapidly ______ the surrounding farmland. What used to be quiet agricultural fields was quickly replaced by towering apartment complexes and concrete highways.",
+     "zh": "隨著人口持續激增，政府急忙迅速將周圍的農田都市化。昔日寧靜的農田很快被高聳的公寓大樓和混凝土高速公路所取代。"
+    }
+   ]
+  },
+  {
+   "word": "prominent",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "important; famous",
+   "defn_zh": "著名的；顯著的",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "She is a highly ______ figure in the field of artificial intelligence, frequently invited to give keynote speeches at international tech summits. Her groundbreaking research is widely cited by scholars globally.",
+     "zh": "她是人工智慧領域非常著名的人物，經常受邀在國際科技高峰會上發表主題演講。她的開創性研究被全球學者廣泛引用。"
+    }
+   ]
+  },
+  {
+   "word": "cultivation",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "the preparation and use of land for crops or gardening",
+   "defn_zh": "耕作；栽培",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The region's economy relies heavily on the intensive ______ of coffee beans. Decades of specialized farming techniques have made their specific roast highly sought after worldwide.",
+     "zh": "該地區的經濟嚴重依賴咖啡豆的密集栽培。數十年的專業農業技術使他們特定的烘焙咖啡在世界範圍內備受追捧。"
+    }
+   ]
+  },
+  {
+   "word": "posit",
+   "pos": "v.",
+   "pos_key": "v.",
+   "defn_en": "to assume as a fact; put forward as a basis of argument",
+   "defn_zh": "斷定；假設",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Several leading theoretical physicists ______ that our universe might just be one of many in a vast multiverse. While this theory is fascinating, it currently lacks the empirical evidence needed for widespread scientific acceptance.",
+     "zh": "幾位頂尖的理論物理學家假設，我們的宇宙可能只是浩瀚多元宇宙中的其中一個。雖然這個理論很引人入勝，但它目前缺乏被科學界廣泛接受所需的經驗證據。"
+    }
+   ]
+  },
+  {
+   "word": "ethnographer",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "a person who studies the customs of individual peoples and cultures",
+   "defn_zh": "民族學家",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The dedicated ______ lived intimately with the remote Amazonian tribe for over two years. Her goal was to document their unique social rituals without imposing her own cultural biases.",
+     "zh": "這位敬業的民族學家與偏遠的亞馬遜部落親密地生活了兩年多。她的目標是記錄他們獨特的社會儀式，而不強加她自己的文化偏見。"
+    }
+   ]
+  },
+  {
+   "word": "concerted",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "jointly arranged, planned, or carried out",
+   "defn_zh": "共同的；齊心協力的",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Eradicating extreme poverty will require a heavily ______ effort from governments, non-profits, and private corporations worldwide. No single entity can tackle such a monumental global challenge alone.",
+     "zh": "根除極端貧困需要全球各國政府、非營利組織和私人企業非常齊心協力的努力。沒有任何一個單一實體可以單獨應對這樣一個巨大的全球挑戰。"
+    }
+   ]
+  },
+  {
+   "word": "credence",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "belief in or acceptance of something as true",
+   "defn_zh": "相信；憑證",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The newly discovered historical documents lend significant ______ to the controversial theory that the Vikings reached North America long before Columbus. Historians can no longer easily dismiss the claim.",
+     "zh": "新發現的歷史文獻為維京人早於哥倫布到達北美這一具爭議性的理論提供了重要的憑證。歷史學家不能再輕易地駁回這一主張。"
+    }
+   ]
+  },
+  {
+   "word": "inadvertently",
+   "pos": "adv.",
+   "pos_key": "adv.",
+   "defn_en": "without intention; accidentally",
+   "defn_zh": "不經意地；無意中",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "While hurriedly packing for her business trip, she ______ left her passport on the kitchen counter. She didn't realize her catastrophic mistake until she was already standing at the airport check-in desk.",
+     "zh": "在匆忙為出差打包行李時，她不經意地把護照落在了廚房流理台上。直到她站在機場報到櫃檯前，她才意識到自己犯下了災難性的錯誤。"
+    }
+   ]
+  },
+  {
+   "word": "accelerate",
+   "pos": "v.",
+   "pos_key": "v.",
+   "defn_en": "to begin to move more quickly",
+   "defn_zh": "加速",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The tech company decided to massively ______ its research and development timeline to beat their main competitor to market. Employees were asked to work overtime to finish the prototype months ahead of schedule.",
+     "zh": "這家科技公司決定大幅加速其研發時間表，以擊敗主要競爭對手搶先上市。員工被要求加班，以便提前幾個月完成原型。"
+    }
+   ]
+  },
+  {
+   "word": "renowned",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "known or talked about by many people; famous",
+   "defn_zh": "著名的",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The coastal town is globally ______ for its vibrant culinary scene and exquisite seafood dishes. Food critics routinely fly in from all over the world just to dine at its Michelin-starred restaurants.",
+     "zh": "這座沿海小鎮以其充滿活力的烹飪界和精緻的海鮮菜餚而享譽全球著名的。美食評論家經常從世界各地飛來，只為在其米其林星級餐廳用餐。"
+    }
+   ]
+  },
+  {
+   "word": "marginalia",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "notes written in the margins of a text",
+   "defn_zh": "頁邊批註",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Literary historians were thrilled to discover a copy of Shakespeare's plays filled with the brilliant ______ of a famous 19th-century poet. These scribbled side-notes provided fascinating insights into his creative reading process.",
+     "zh": "文學史學家很高興發現一本莎士比亞戲劇的副本，裡面充滿了一位著名的19世紀詩人精彩的頁邊批註。這些潦草的旁註為他的創造性閱讀過程提供了引人入勝的見解。"
+    }
+   ]
+  },
+  {
+   "word": "normalize",
+   "pos": "v.",
+   "pos_key": "v.",
+   "defn_en": "to bring or return to a normal or standard condition",
+   "defn_zh": "使正常化；使常態化",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "After several years of hostile trade wars, the two neighboring countries are finally taking steps to ______ their diplomatic relations. Ambassadors have been reinstated, and tariffs are slowly being lifted.",
+     "zh": "經過幾年充滿敵意的貿易戰，這兩個鄰國終於採取措施使其外交關係正常化。大使已恢復職務，關稅也正慢慢取消。"
+    }
+   ]
+  },
+  {
+   "word": "transnational",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "extending or operating across national boundaries",
+   "defn_zh": "跨國的",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Modern cybercrime operates on a vastly ______ scale, making it incredibly difficult for local police forces to combat. Hackers in one continent can easily orchestrate massive data breaches against corporations in another.",
+     "zh": "現代網路犯罪以巨大的跨國規模運作，使得當地警察部隊極難打擊。一個大陸的駭客可以輕易地對另一個大陸的企業策劃大規模的資料外洩。"
+    }
+   ]
+  },
+  {
+   "word": "encapsulate",
+   "pos": "v.",
+   "pos_key": "v.",
+   "defn_en": "to express the essential features of something succinctly",
+   "defn_zh": "概括；壓縮",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "It is nearly impossible to completely ______ the sheer horror and devastation of the war in a single two-hour documentary. The filmmaker had to carefully select only a few deeply personal stories to convey the historical tragedy.",
+     "zh": "要在短短兩小時的紀錄片中完全概括這場戰爭的純粹恐怖和破壞幾乎是不可能的。電影製片人不得不謹慎選擇幾個非常私人的故事來傳達這場歷史悲劇。"
+    }
+   ]
+  },
+  {
+   "word": "moniker",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "a name or nickname",
+   "defn_zh": "綽號；名字",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Because of his notoriously ruthless and unforgiving business tactics, the corporate raider earned the intimidating ______ \"The Shark.\" His rivals genuinely feared sitting across the negotiating table from him.",
+     "zh": "因為他以無情和不寬容的商業手段而臭名昭著，這位企業併購者贏得了「鯊魚」這個令人生畏的綽號。他的競爭對手真心害怕坐在談判桌的對面面對他。"
+    }
+   ]
+  },
+  {
+   "word": "ungainliness",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "the quality of being clumsy or awkward",
+   "defn_zh": "笨拙；不雅",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Despite its apparent physical ______ on land, the walrus is actually an incredibly graceful and swift swimmer underwater. Evolution has perfectly adapted its bulky body for navigating the freezing ocean depths.",
+     "zh": "儘管海象在陸地上明顯表現出肉體上的笨拙，但牠在水下實際上是一個極其優雅和敏捷的游泳者。演化使其龐大的身軀完美地適應了在冰冷的海洋深處航行。"
+    }
+   ]
+  },
+  {
+   "word": "render",
+   "pos": "v.",
+   "pos_key": "v.",
+   "defn_en": "to provide or give; to cause to be or become",
+   "defn_zh": "呈現；使成為",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The sudden, massive earthquake managed to completely ______ the city's power grid useless for nearly a week. Emergency generators were the only thing keeping the hospitals functioning in the darkness.",
+     "zh": "突如其來的大地震使得這座城市的電網完全被癱瘓（使成為無用）近一個星期。緊急發電機是黑暗中維持醫院運作的唯一設備。"
+    }
+   ]
+  },
+  {
+   "word": "spindle",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "a slender rounded rod with tapered ends used in hand spinning",
+   "defn_zh": "紡錘；主軸",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "In the center of the dusty, antique weaving room, an old wooden ______ sat completely still. It was a haunting reminder of a time when the village relied on entirely manual textile production.",
+     "zh": "在佈滿灰塵的古董織布室中央，一個古老的木製紡錘靜靜地立著。它令人難以忘懷地提醒著人們那個村莊完全依賴手工紡織品生產的時代。"
+    }
+   ]
+  },
+  {
+   "word": "contour",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "an outline bounding the shape or form of something",
+   "defn_zh": "輪廓",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The skilled landscape architect meticulously studied the natural ______ of the hillside before finalizing her garden design. She wanted the cascading terraces to look as though they had organically grown from the earth.",
+     "zh": "這位技藝精湛的景觀建築師在敲定她的花園設計之前，一絲不苟地研究了山坡的自然輪廓。她希望層疊的梯田看起來就像是從地裡自然生長出來的一樣。"
+    }
+   ]
+  },
+  {
+   "word": "multidisciplinary",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "combining or involving several academic disciplines",
+   "defn_zh": "跨學科的",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Tackling complex global issues like climate change requires a highly ______ approach. Scientists, economists, and political leaders must break out of their academic silos and work collaboratively.",
+     "zh": "應對氣候變遷等複雜的全球性問題需要高度跨學科的方法。科學家、經濟學家和政治領袖必須打破他們的學術孤島並協同合作。"
+    }
+   ]
+  },
+  {
+   "word": "confidentiality",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "the state of keeping or being kept secret or private",
+   "defn_zh": "機密性",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Before entering the high-security research facility, all contractors must sign a strict ______ agreement. Leaking any proprietary information regarding the prototype to the press will result in severe legal action.",
+     "zh": "在進入高度戒備的研究機構之前，所有承包商都必須簽署嚴格的機密性協議。向媒體洩露關於原型的任何專有資訊都將導致嚴厲的法律行動。"
+    }
+   ]
+  },
+  {
+   "word": "preservationist",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "a supporter or advocate of the preservation of something",
+   "defn_zh": "保護主義者",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The passionate historical ______ chained herself to the front doors of the 19th-century theater to stop the bulldozers. She argued that demolishing the cultural landmark would erase a vital piece of the city's heritage.",
+     "zh": "這位充滿熱情的歷史保護主義者將自己鎖在19世紀劇院的前門上，以阻止推土機。她認為拆除這座標誌性的文化建築將抹去這座城市重要的一塊遺產。"
+    }
+   ]
+  },
+  {
+   "word": "correlate",
+   "pos": "v.",
+   "pos_key": "v.",
+   "defn_en": "to have a mutual relationship or connection",
+   "defn_zh": "使...相關聯",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Extensive sociological data seems to strongly ______ higher levels of advanced education with increased lifetime earning potential. However, researchers are quick to note that there are always notable exceptions to this trend.",
+     "zh": "廣泛的社會學數據似乎強烈地將更高水平的高等教育與增加的終生收入潛力相關聯起來。然而，研究人員很快指出，這種趨勢總是有顯著的例外。"
+    }
+   ]
+  },
+  {
+   "word": "botanist",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "an expert in or student of the scientific study of plants",
+   "defn_zh": "植物學家",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The expedition was led by a seasoned ______ searching for undocumented medicinal plants deep within the rainforest. Her previous discoveries had already yielded two new treatments for inflammatory diseases.",
+     "zh": "這次探險由一位經驗豐富的植物學家領導，他在雨林深處尋找未被記錄的藥用植物。她先前的發現已經產生了兩種治療發炎性疾病的新療法。"
+    }
+   ]
+  },
+  {
+   "word": "evocatively",
+   "pos": "adv.",
+   "pos_key": "adv.",
+   "defn_en": "in a way that brings strong images, memories, or feelings to mind",
+   "defn_zh": "喚起地；引起共鳴地",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The author writes so ______ about her childhood in coastal Italy that you can almost smell the salty sea air and taste the ripe lemons. Her poetic prose transports the reader entirely into her vivid memories.",
+     "zh": "作者如此引起共鳴地描寫她在義大利沿海的童年，以至於你幾乎能聞到鹹鹹的海風和品嚐到成熟的檸檬。她詩意的散文將讀者完全帶入了她生動的記憶中。"
+    }
+   ]
+  },
+  {
+   "word": "thwart",
+   "pos": "v.",
+   "pos_key": "v.",
+   "defn_en": "to prevent someone from accomplishing something",
+   "defn_zh": "阻撓；挫敗",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "An alert security guard managed to effectively ______ the elaborate museum heist simply by locking the main exit doors early. The frustrated thieves were caught inside with the priceless paintings still in their hands.",
+     "zh": "一名機警的保全僅僅透過提早鎖上主出口的門，就成功有效地挫敗了這場精心策劃的博物館搶劫案。沮喪的小偷被困在裡面，手裡還拿著那些無價的畫作。"
+    }
+   ]
+  },
+  {
+   "word": "formulaic",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "consisting of or containing a set form of words or rules",
+   "defn_zh": "公式化的；老套的",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The harsh film critic blasted the new romantic comedy as utterly predictable and painfully ______. He argued that the director relied completely on tired Hollywood cliches instead of developing genuine character arcs.",
+     "zh": "嚴厲的影評人抨擊這部新的浪漫喜劇完全可預測且極其老套（公式化）。他認為導演完全依賴令人厭倦的好萊塢陳腔濫調，而不是發展真實的角色曲線。"
+    }
+   ]
+  },
+  {
+   "word": "wend",
+   "pos": "v.",
+   "pos_key": "v.",
+   "defn_en": "to direct one's course or way",
+   "defn_zh": "緩慢前行",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "After a long, exhausting day of sightseeing in the crowded city, the tourists decided to slowly ______ their way back to the quiet hotel. They strolled casually through the empty twilight streets, enjoying the peaceful evening air.",
+     "zh": "在擁擠的城市裡度過了漫長而疲憊的觀光日後，遊客們決定慢慢前行回到安靜的飯店。他們漫不經心地漫步在空蕩蕩的黃昏街道上，享受著寧靜的傍晚空氣。"
+    }
+   ]
+  },
+  {
+   "word": "reprise",
+   "pos": "n./v.",
+   "pos_key": "n.",
+   "defn_en": "a repeated passage in music; to repeat",
+   "defn_zh": "重複；重奏",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The enthusiastic Broadway audience cheered wildly when the lead actress emerged to ______ the musical's iconic opening number for her encore. It was a spectacular finale to a flawless theatrical performance.",
+     "zh": "當女主角出場在安可曲中重唱這部音樂劇標誌性的開場曲目時，熱情的百老匯觀眾發出了瘋狂的歡呼。這是一場完美戲劇表演的壯觀結局。"
+    }
+   ]
+  },
+  {
+   "word": "unexceptionable",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "not open to objection, but not particularly new or exciting",
+   "defn_zh": "無懈可擊的；普通的",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The catered food at the corporate conference was entirely ______; it was perfectly cooked and edible, but thoroughly unmemorable. No one complained, but no one asked for the recipes either.",
+     "zh": "企業會議上的餐飲服務完全是中規中矩的（無懈可擊但普通的）；它烹調得很好而且可以食用，但完全令人難以忘懷。沒有人抱怨，但也沒有人詢問食譜。"
+    }
+   ]
+  },
+  {
+   "word": "exoplanet",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "a planet that orbits a star outside the solar system",
+   "defn_zh": "系外行星",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Using the powerful James Webb Space Telescope, astronomers recently discovered an Earth-sized ______ located in its star's habitable zone. This raises thrilling possibilities about the existence of liquid water and potentially even alien life.",
+     "zh": "利用強大的詹姆斯·韋伯太空望遠鏡，天文學家最近在其恆星的適居帶內發現了一顆與地球大小相當的系外行星。這帶來了關於液態水甚至外星生命存在的令人興奮的可能性。"
+    }
+   ]
+  },
+  {
+   "word": "signifier",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "a sign's physical form as distinct from its meaning",
+   "defn_zh": "符號；表徵",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "In classical Renaissance art, a pure white dove is frequently utilized as a powerful visual ______ of the Holy Spirit and divine peace. Viewers of the era immediately understood this underlying religious symbolism.",
+     "zh": "在古典文藝復興時期的藝術中，純白的鴿子經常被用作代表聖靈和神聖和平的強大視覺符號。那個時代的觀眾立即理解了這種潛在的宗教象徵意義。"
+    }
+   ]
+  },
+  {
+   "word": "paleocontinent",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "a distinct area of continental crust that existed in the geologic past",
+   "defn_zh": "古大陸",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Geologists study ancient rock formations to map the exact boundaries of Gondwana, a massive southern ______ that broke apart millions of years ago. These shifting landmasses radically altered the course of biological evolution.",
+     "zh": "地質學家研究古代岩層，以繪製岡瓦納的確切邊界，這是一個在數百萬年前分裂的巨大南部古大陸。這些不斷移動的陸塊從根本上改變了生物演化的進程。"
+    }
+   ]
+  },
+  {
+   "word": "subsistence",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "the action or fact of maintaining or supporting oneself at a minimum level",
+   "defn_zh": "生存；勉強維持生活",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Due to the prolonged and devastating drought, the local farmers were reduced to a grim level of mere ______. They could barely grow enough crops to feed their own families, let alone sell any surplus at the market.",
+     "zh": "由於長期且具破壞性的乾旱，當地農民淪落到僅能維持最低生存的慘淡境地。他們種植的農作物幾乎不足以養活自己的家人，更不用說在市場上出售任何剩餘的農產品了。"
+    }
+   ]
+  },
+  {
+   "word": "consecrate",
+   "pos": "v.",
+   "pos_key": "v.",
+   "defn_en": "to make or declare something sacred",
+   "defn_zh": "奉獻；使神聖",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The archbishop arrived in the small rural village to officially ______ the newly constructed church building. The solemn religious ceremony transformed the simple stone structure into a holy place of worship.",
+     "zh": "大主教抵達這個偏遠的鄉村，正式為新建造的教堂建築舉行祝聖儀式。莊嚴的宗教儀式將這座簡單的石頭建築變成了一個神聖的禮拜場所。"
+    }
+   ]
+  },
+  {
+   "word": "sordid",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "involving ignoble actions and motives; arousing moral distaste",
+   "defn_zh": "骯髒的；卑鄙的",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The investigative journalists eventually uncovered the highly ______ details of the corrupt politician's secret offshore bank accounts. The scandal ruined his career and disgusted the voting public.",
+     "zh": "調查記者最終揭露了這位腐敗政客秘密離岸銀行帳戶極其齷齪的細節。這樁醜聞毀了他的職業生涯，並讓投票大眾感到反感。"
+    }
+   ]
+  },
+  {
+   "word": "annihilation",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "complete destruction or obliteration",
+   "defn_zh": "殲滅；毀滅",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The introduction of European diseases caused the near total ______ of many Indigenous populations in the Americas. Entire thriving civilizations were tragically wiped out within a few short generations.",
+     "zh": "歐洲疾病的傳入導致了美洲許多原住民人口幾近完全的毀滅。整個繁榮的文明在短短幾代人的時間裡悲慘地被抹去了。"
+    }
+   ]
+  },
+  {
+   "word": "exalt",
+   "pos": "v.",
+   "pos_key": "v.",
+   "defn_en": "to hold someone or something in very high regard",
+   "defn_zh": "讚揚；高舉",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Classical poetry often tends to artificially ______ the virtues of romantic love while ignoring its incredibly messy and complicated realities. It paints a picture of perfection that rarely exists in actual relationships.",
+     "zh": "古典詩歌往往傾向於人為地過度讚揚浪漫愛情的優點，而忽略了它極其混亂和複雜的現實。它描繪了一幅在實際關係中很少存在的完美圖景。"
+    }
+   ]
+  },
+  {
+   "word": "torpor",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "a state of physical or mental inactivity; lethargy",
+   "defn_zh": "遲鈍；麻木",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "During the extraordinarily harsh winter months, the arctic ground squirrel enters a deep state of physiological ______ to conserve energy. Its heart rate drops dramatically until the warm spring sun finally returns.",
+     "zh": "在極其嚴寒的冬季，北極地松鼠會進入一種深度的生理**麻木（冬眠）**狀態以節省能量。它的心率會急劇下降，直到溫暖的春日陽光最終回歸。"
+    }
+   ]
+  }
+ ],
+ "family_options": {},
+ "fallback_options": {}
+}

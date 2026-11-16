@@ -1,0 +1,2012 @@
+{
+ "id": "sat-test-02",
+ "part": "mocktest",
+ "part_label": "Digital SAT Practice Test Vocabulary",
+ "name": "Practice Test 2 · Vocabulary",
+ "subtitle": "Words & options from Module 1 and Module 2",
+ "count": 133,
+ "generated": true,
+ "words": [
+  {
+   "word": "Indigenous",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "Originating or occurring naturally in a particular place; native",
+   "defn_zh": "原住民的；本土的",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The anthropologist spent years studying the ______ tribes of the Amazon rainforest, documenting their unique customs, languages, and survival techniques that have allowed them to thrive in the jungle environment for thousands of years without modern technology.",
+     "zh": "人類學家花了數年時間研究亞馬遜雨林的土著部落，記錄了他們獨特的習俗、語言和生存技巧，這些使他們能夠在沒有現代技術的情況下在叢林環境中繁衍生息數千年。"
+    }
+   ],
+   "section": "Module 1"
+  },
+  {
+   "word": "tenure",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "The conditions under which land or buildings are held or occupied; the holding of an office",
+   "defn_zh": "任期；（土地）保有權",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "During his ten-year ______ as the university's president, the institution saw a significant increase in research funding and international enrollment, cementing his legacy as one of the most transformative leaders in the school's long history.",
+     "zh": "在他擔任大學校長的十年任期內，該機構的研究經費和國際招生人數顯著增加，鞏固了他作為學校悠久歷史上最具變革性的領導人之一的地位。"
+    }
+   ],
+   "section": "Module 1"
+  },
+  {
+   "word": "consolidate",
+   "pos": "v.",
+   "pos_key": "v.",
+   "defn_en": "Combine (a number of things) into a single more effective or coherent whole; strengthen",
+   "defn_zh": "合併；鞏固",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "In an effort to improve efficiency and reduce overhead costs, the corporation ______ its three separate regional offices into one central headquarters, hoping that the unified location would foster better communication among the different departments.",
+     "zh": "為了提高效率並降低間接成本，該公司將其三個獨立的區域辦事處合併為一個中央總部，希望統一的地點能促進不同部門之間更好的溝通。"
+    }
+   ],
+   "section": "Module 1"
+  },
+  {
+   "word": "unpredictable",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "Not able to be foreseen or known beforehand; uncertain",
+   "defn_zh": "不可預測的",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The weather in the mountains is notoriously ______, shifting from bright, warm sunshine to dangerous thunderstorms with hail in a matter of minutes, which forces hikers to always carry protective gear regardless of the forecast.",
+     "zh": "山裡的天氣以不可預測而聞名，幾分鐘內就會從明亮溫暖的陽光轉變為帶有冰雹的危險雷暴，這迫使徒步旅行者無論預報如何都要隨身攜帶防護裝備。"
+    }
+   ],
+   "section": "Module 1"
+  },
+  {
+   "word": "secretive",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "Inclined to conceal feelings and intentions or not to disclose information",
+   "defn_zh": "守口如瓶的；神祕的",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The technology company was incredibly ______ about its upcoming smartphone release, refusing to share any details with the press and requiring all employees to sign strict non-disclosure agreements to prevent any leaks before the launch event.",
+     "zh": "這家科技公司對其即將發佈的智慧手機非常保密，拒絕向媒體透露任何細節，並要求所有員工簽署嚴格的保密協議，以防止在發佈會之前發生任何洩露。"
+    }
+   ],
+   "section": "Module 1"
+  },
+  {
+   "word": "ordinary",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "With no special or distinctive features; normal",
+   "defn_zh": "普通的；平凡的",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Although the antique watch looked quite ______ to the untrained eye, resembling a common timepiece found in any department store, an expert appraiser revealed that it was actually a rare prototype worth thousands of dollars.",
+     "zh": "雖然這塊古董表在外行看來很普通，類似於任何百貨商店裡都能找到的普通鐘錶，但一位專家評估師透露，它實際上是一個價值數千美元的稀有原型。"
+    }
+   ],
+   "section": "Module 1"
+  },
+  {
+   "word": "syntax",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "The arrangement of words and phrases to create well-formed sentences in a language",
+   "defn_zh": "句法；語法結構",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The poet experimented with unconventional ______, rearranging the order of subjects and verbs to create a jarring, rhythmic effect that challenged the reader's traditional understanding of how English sentences should be structured and understood.",
+     "zh": "詩人嘗試了非傳統的句法，重新排列主語和動詞的順序，創造出一種不和諧的、有節奏的效果，挑戰了讀者對英語句子結構和理解的傳統認知。"
+    }
+   ],
+   "section": "Module 1"
+  },
+  {
+   "word": "opaque",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "Not able to be seen through; not transparent; hard to understand",
+   "defn_zh": "不透明的；晦澀難懂的",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The instructions for the new software were completely ______, filled with technical jargon and confusing diagrams that made it impossible for the average user to figure out how to perform even the most basic functions.",
+     "zh": "新軟體的說明完全晦澀難懂，充滿了技術術語和令人困惑的圖表，使得普通使用者根本無法弄清楚如何執行最基本的功能。"
+    }
+   ],
+   "section": "Module 1"
+  },
+  {
+   "word": "delegate",
+   "pos": "v.",
+   "pos_key": "v.",
+   "defn_en": "Entrust (a task or responsibility) to another person, typically one who is less senior",
+   "defn_zh": "委派；授權",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "A good manager knows how to ______ tasks effectively, assigning specific responsibilities to team members based on their individual strengths rather than trying to complete every single part of the project by themselves.",
+     "zh": "優秀的管理者懂得如何有效地委派任務，根據團隊成員各自的優勢分配具體的職責，而不是試圖獨自完成專案的每一個部分。"
+    }
+   ],
+   "section": "Module 1"
+  },
+  {
+   "word": "compose",
+   "pos": "v.",
+   "pos_key": "v.",
+   "defn_en": "Write or create (a work of art, especially music or poetry)",
+   "defn_zh": "創作；作曲",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "It took the musician several months to ______ the symphony, as she struggled to find the perfect melody that would convey the complex emotions of sorrow and hope she wanted the audience to experience.",
+     "zh": "這位音樂家花了幾個月的時間才創作出這首交響樂，因為她努力尋找完美的旋律，以傳達她希望觀眾體驗到的悲傷和希望的複雜情感。"
+    }
+   ],
+   "section": "Module 1"
+  },
+  {
+   "word": "interpret",
+   "pos": "v.",
+   "pos_key": "v.",
+   "defn_en": "Explain the meaning of (information, words, or actions)",
+   "defn_zh": "解讀；詮釋",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Historians often disagree on how to ______ ancient texts, as the lack of context and the evolution of language over centuries can lead to multiple valid readings of the same historical document or inscription.",
+     "zh": "歷史學家經常在如何解讀古代文獻上存在分歧，因為缺乏背景以及幾個世紀以來語言的演變可能導致對同一歷史檔或銘文有多種有效的解讀。"
+    }
+   ],
+   "section": "Module 1"
+  },
+  {
+   "word": "renounce",
+   "pos": "v.",
+   "pos_key": "v.",
+   "defn_en": "Formally declare one's abandonment of (a claim, right, or possession)",
+   "defn_zh": "正式放棄；宣布拋棄",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The prince decided to ______ his title and claim to the throne in order to marry a commoner, choosing a life of personal happiness and freedom over the strict duties and expectations of the royal family.",
+     "zh": "王子決定放棄他的頭銜和王位繼承權，以便與一位平民結婚，選擇了個人幸福和自由的生活，而不是皇室的嚴格職責和期望。"
+    }
+   ],
+   "section": "Module 1"
+  },
+  {
+   "word": "diversification",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "The action of making or becoming more diverse or varied",
+   "defn_zh": "多樣化",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The sudden ______ of species during the Cambrian period is one of the most significant events in evolutionary history, marking a time when a vast array of new and complex life forms appeared in the fossil record.",
+     "zh": "寒武紀時期物種的突然多樣化是進化史上最重要的事件之一，標誌著化石記錄中出現了大量新的和複雜的生命形式的時期。"
+    }
+   ],
+   "section": "Module 1"
+  },
+  {
+   "word": "catastrophic",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "Involving or causing sudden great damage or suffering",
+   "defn_zh": "災難性的",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The failure of the dam would have ______ consequences for the villages downstream, potentially destroying thousands of homes and causing a loss of life that would take the region decades to recover from.",
+     "zh": "大壩的潰決將給下游村莊帶來災難性的後果，可能摧毀數千所房屋，並造成該地區需要幾十年才能恢復的生命損失。"
+    }
+   ],
+   "section": "Module 1"
+  },
+  {
+   "word": "elusive",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "Difficult to find, catch, or achieve",
+   "defn_zh": "難以捉摸的；難以達成的",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The snow leopard is one of the most ______ big cats in the world, rarely seen by humans because it lives in rugged, high-altitude terrain and is incredibly skilled at blending into its snowy surroundings.",
+     "zh": "雪豹是世界上最難以捉摸的大型貓科動物之一，很少被人看到，因為它生活在崎嶇的高海拔地形中，並且非常擅長融入雪地環境。"
+    }
+   ],
+   "section": "Module 1"
+  },
+  {
+   "word": "abrupt",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "Sudden and unexpected",
+   "defn_zh": "突然的",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The meeting came to an ______ end when the fire alarm sounded, forcing all the executives to leave their papers on the table and immediately evacuate the building before any conclusion could be reached.",
+     "zh": "會議突然結束，因為火警響了，迫使所有高管把檔留在桌子上，並在達成任何結論之前立即撤離大樓。"
+    }
+   ],
+   "section": "Module 1"
+  },
+  {
+   "word": "imminent",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "About to happen",
+   "defn_zh": "即將發生的",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Dark clouds gathered on the horizon and the wind picked up speed, signs that a severe storm was ______, prompting the sailors to quickly secure the sails and head toward the safety of the harbor.",
+     "zh": "地平線上烏雲密佈，風速加快，這些跡象表明一場猛烈的風暴即將來臨，促使水手們迅速收起帆，駛向安全的海港。"
+    }
+   ],
+   "section": "Module 1"
+  },
+  {
+   "word": "archaeological",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "Relating to the study of human history and prehistory through the excavation of sites",
+   "defn_zh": "考古學的",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The team discovered distinct pottery shards at the ______ site, which provided concrete evidence that an advanced civilization had inhabited the valley thousands of years earlier than previously believed.",
+     "zh": "該團隊在考古現場發現了獨特的陶器碎片，這提供了確鑿的證據，證明一個先進的文明比之前認為的時間早幾千年就居住在這個山谷裡。"
+    }
+   ],
+   "section": "Module 1"
+  },
+  {
+   "word": "waive",
+   "pos": "v.",
+   "pos_key": "v.",
+   "defn_en": "Refrain from insisting on or using (a right or claim)",
+   "defn_zh": "放棄（權利）；免除",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Because the flight was canceled due to a mechanical error on the airline's part, the customer service agent agreed to ______ the rebooking fee that is usually charged when passengers change their itinerary.",
+     "zh": "由於航班因航空公司方面的機械故障而被取消，客戶服務代理同意免除通常在乘客更改行程時收取的改簽費。"
+    }
+   ],
+   "section": "Module 1"
+  },
+  {
+   "word": "concede",
+   "pos": "v.",
+   "pos_key": "v.",
+   "defn_en": "Admit that something is true or valid after first denying or resisting it",
+   "defn_zh": "承認；讓步",
+   "root_note": "noun: concession",
+   "sentences": [
+    {
+     "en": "After seeing the undeniable evidence presented by the opposing team, the debater was forced to ______ that his initial argument was flawed and that the other side had a stronger case regarding the economic policy.",
+     "zh": "在看到對方團隊提出的不可否認的證據後，辯手被迫承認他最初的論點有缺陷，對方在經濟政策方面有更有力的理由。"
+    }
+   ],
+   "section": "Module 1"
+  },
+  {
+   "word": "refute",
+   "pos": "v.",
+   "pos_key": "v.",
+   "defn_en": "Prove (a statement or theory) to be wrong or false=repudiate; disprove",
+   "defn_zh": "駁斥；反駁",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The scientist conducted a series of rigorous experiments to ______ the popular theory, demonstrating through reproducible data that the previous assumptions about the chemical reaction were entirely incorrect.",
+     "zh": "這位科學家進行了一系列嚴格的實驗來駁斥這一流行理論，通過可重複的資料證明，先前關於該化學反應的假設完全不正確。"
+    }
+   ],
+   "section": "Module 1"
+  },
+  {
+   "word": "prevalence",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "The fact or condition of being prevalent; commonness",
+   "defn_zh": "普遍；盛行",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The ______ of smartphones in modern society has fundamentally changed how people communicate, making instant messaging and social media access a constant part of daily life for billions of users.",
+     "zh": "智慧手機在現代社會的普及從根本上改變了人們的溝通方式，使得即時通訊和社交媒體訪問成為數十億用戶日常生活中不可或缺的一部分。"
+    }
+   ],
+   "section": "Module 1"
+  },
+  {
+   "word": "replicable",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "Able to be copied or reproduced exactly",
+   "defn_zh": "可複製的；可重現的",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "For a scientific study to be considered valid, its results must be ______, meaning that other researchers should be able to follow the same methodology and achieve the same outcomes in their own laboratories.",
+     "zh": "為了使一項科學研究被認為是有效的，其結果必須是可複製的，這意味著其他研究人員應該能夠遵循相同的方法並在他們自己的實驗室中獲得相同的結果。"
+    }
+   ],
+   "section": "Module 1"
+  },
+  {
+   "word": "predetermined",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "Established or decided in advance",
+   "defn_zh": "預先決定的",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The outcome of the wrestling match seemed ______, as the champion was significantly larger and more experienced than his opponent, leading the audience to believe the fight was decided before it even began.",
+     "zh": "摔跤比賽的結果似乎是預先註定的，因為冠軍比他的對手體型大得多且更有經驗，這讓觀眾認為比賽在開始之前就已經決定了。"
+    }
+   ],
+   "section": "Module 1"
+  },
+  {
+   "word": "operative",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "Functioning; having effect",
+   "defn_zh": "生效的；運作中的",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Although the new laws have been passed by the government, they will not become ______ until the beginning of the next fiscal year, giving businesses time to adjust their practices to comply with the regulations.",
+     "zh": "雖然新法律已由政府通過，但要到下一個財政年度開始時才會生效，這給了企業時間調整其做法以遵守規定。"
+    }
+   ],
+   "section": "Module 1"
+  },
+  {
+   "word": "latent",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "(of a quality or state) existing but not yet developed or manifest; hidden=potential; concealed",
+   "defn_zh": "潛在的；潛伏的",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The teacher recognized the ______ talent in the shy student, realizing that although he rarely spoke in class, his written essays demonstrated a profound understanding of literature that just needed encouragement to bloom.",
+     "zh": "老師認出了這位害羞學生身上潛伏的天賦，意識到雖然他很少在課堂上發言，但他的書面文章表現出對文學的深刻理解，只需要鼓勵就能綻放。"
+    }
+   ],
+   "section": "Module 1"
+  },
+  {
+   "word": "overshadow",
+   "pos": "v.",
+   "pos_key": "v.",
+   "defn_en": "Appear much more prominent or important than",
+   "defn_zh": "使黯然失色；遮蔽",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The actor's brilliant performance in the supporting role completely ______ the lead actor, drawing all the critics' attention and earning him several awards despite his limited screen time.",
+     "zh": "這位演員在配角中的精彩表演完全使主角黯然失色，吸引了所有評論家的注意力，儘管他的出場時間有限，卻為他贏得了多個獎項。"
+    }
+   ],
+   "section": "Module 1"
+  },
+  {
+   "word": "irrelevant",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "Not connected with or relevant to something",
+   "defn_zh": "不相關的",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The judge instructed the jury to disregard the witness's comments about the defendant's clothing, stating that such details were ______ to the case and had no bearing on whether a crime had been committed.",
+     "zh": "法官指示陪審團無視證人關於被告著裝的評論，指出這些細節與案件無關，與是否犯罪沒有任何關係。"
+    }
+   ],
+   "section": "Module 1"
+  },
+  {
+   "word": "representative",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "Typical of a class, group, or body of opinion",
+   "defn_zh": "有代表性的",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The survey results were not considered ______ of the entire population because the researchers only interviewed people living in wealthy urban areas, ignoring the perspectives of rural and low-income citizens.",
+     "zh": "調查結果不被認為具有全人口的代表性，因為研究人員只採訪了居住在富裕城市地區的人，而忽略了農村和低收入公民的觀點。"
+    }
+   ],
+   "section": "Module 1"
+  },
+  {
+   "word": "consistent",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "Acting or done in the same way over time, especially so as to be fair or accurate",
+   "defn_zh": "一致的；始終如一的",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "To become a professional athlete, one must be ______ in their training, practicing every single day regardless of motivation or weather conditions to maintain peak physical performance.",
+     "zh": "要成為一名職業運動員，必須在訓練中保持始終如一，無論動力或天氣狀況如何，每天都要練習，以保持最佳的身體機能。"
+    }
+   ],
+   "section": "Module 1"
+  },
+  {
+   "word": "tenuous",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "Very weak or slight; lacking a sound basis",
+   "defn_zh": "薄弱的；站不住腳的",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The detective realized the suspect's alibi was ______, as it relied on the testimony of a single witness who couldn't remember the exact time or location of the events in question.",
+     "zh": "偵探意識到嫌疑人的不在場證明是站不住腳的，因為它依賴于一名目擊者的證詞，而這名目擊者根本記不清相關事件的確切時間和地點。"
+    }
+   ],
+   "section": "Module 1"
+  },
+  {
+   "word": "disorienting",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "Causing a feeling of confusion or loss of direction",
+   "defn_zh": "令人迷失方向的",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Stepping out of the dark movie theater into the blinding midday sun was a ______ experience that left the audience blinking and momentarily unsure of where they had parked their cars.",
+     "zh": "從黑暗的電影院走到耀眼的正午陽光下是一種令人迷失方向的體驗，這讓觀眾眨著眼睛，一時不確定把車停在哪裡了。"
+    }
+   ],
+   "section": "Module 1"
+  },
+  {
+   "word": "nuanced",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "Characterized by subtle shades of meaning or expression",
+   "defn_zh": "細膩的；有微妙差別的",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The diplomat gave a ______ response to the crisis, carefully acknowledging the grievances of both sides without fully committing his government to a specific course of action or blame.",
+     "zh": "外交官對這場危機做出了微妙的回應，仔細地承認了雙方的不滿，但沒有讓他的政府完全承諾採取特定的行動或進行指責。"
+    }
+   ],
+   "section": "Module 1"
+  },
+  {
+   "word": "unoriginal",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "Lacking freshness or creativity; derivative",
+   "defn_zh": "缺乏創意的",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The critics panned the new novel as ______, noting that the plot seemed to be a mere copy of several famous science fiction stories mixed together without any new ideas.",
+     "zh": "評論家嚴厲批評這部新小說缺乏創意，指出情節似乎只是幾部著名科幻故事的簡單複製和拼湊，沒有任何新意。"
+    }
+   ],
+   "section": "Module 1"
+  },
+  {
+   "word": "account for",
+   "pos": "v. phr.",
+   "pos_key": "v.",
+   "defn_en": "To provide an explanation or justification for something",
+   "defn_zh": "解釋；說明（原因）",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The scientist struggled to ______ the anomaly in the data, as none of the existing theories could explain why the temperature dropped so suddenly during the experiment.",
+     "zh": "科學家很難解釋資料中的異常現象，因為現有的理論都無法解釋為什麼實驗期間溫度會突然下降。"
+    }
+   ],
+   "section": "Module 1"
+  },
+  {
+   "word": "benediction",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "The utterance of a blessing, especially at the end of a religious service",
+   "defn_zh": "祝福；祝禱",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The priest raised his hands to offer a final ______ to the congregation, wishing them peace and prosperity as they left the church to return to their daily lives.",
+     "zh": "牧師舉起雙手向會眾作最後的祝福，祝願他們離開教堂回歸日常生活時平安順遂。"
+    }
+   ],
+   "section": "Module 1"
+  },
+  {
+   "word": "pilgrimage",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "A journey to a place associated with someone or something well known or respected",
+   "defn_zh": "朝聖之旅",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Every year, thousands of literary fans make a ______ to the small town where the famous author was born, hoping to see the landscapes that inspired her classic novels.",
+     "zh": "每年，成千上萬的文學迷都會前往這位元著名作家的出生地小鎮朝聖，希望能看到激發她創作經典小說的風景。"
+    }
+   ],
+   "section": "Module 1"
+  },
+  {
+   "word": "retrace",
+   "pos": "v.",
+   "pos_key": "v.",
+   "defn_en": "Go back over (the same route that one has just taken)",
+   "defn_zh": "折返；沿原路返回",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Realizing he had lost his keys somewhere on the hiking trail, he had to ______ his steps for three miles, scanning the ground carefully in hopes of finding them.",
+     "zh": "意識到鑰匙丟在徒步小徑的某個地方後，他不得不折返三英里，仔細搜尋地面，希望能找到它們。"
+    }
+   ],
+   "section": "Module 1"
+  },
+  {
+   "word": "leisurely",
+   "pos": "adv./adj.",
+   "pos_key": "adv.",
+   "defn_en": "Acting or done at an unhurried or relaxed pace",
+   "defn_zh": "悠閒的（地）",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "On Sunday mornings, they enjoyed a ______ breakfast on the patio, sipping coffee and reading the newspaper for hours without worrying about the rush of the workweek.",
+     "zh": "周日早上，他們在露臺上享受悠閒的早餐，喝著咖啡，讀著報紙，幾個小時都不用擔心工作周的忙碌。"
+    }
+   ],
+   "section": "Module 1"
+  },
+  {
+   "word": "yield",
+   "pos": "v.",
+   "pos_key": "v.",
+   "defn_en": "To produce or provide (a natural, agricultural, or industrial product)",
+   "defn_zh": "出產；產生",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The fertile soil in this valley is known to ______ abundant crops, allowing farmers to harvest record amounts of corn and wheat even during years with less than average rainfall.",
+     "zh": "這個山谷肥沃的土壤以出產豐富的農作物而聞名，即使在降雨量低於平均水準的年份，農民也能收穫創紀錄的玉米和小麥。"
+    }
+   ],
+   "section": "Module 1"
+  },
+  {
+   "word": "reluctant",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "Unwilling and hesitant; disinclined",
+   "defn_zh": "不情願的",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The shy child was ______ to join the game with the other kids, clinging to her mother's leg until a friendly peer came over and gently invited her to play.",
+     "zh": "那個害羞的孩子不情願和其他孩子一起玩遊戲，緊緊抱住媽媽的腿，直到一個友好的同伴走過來溫柔地邀請她。"
+    }
+   ],
+   "section": "Module 1"
+  },
+  {
+   "word": "foreground",
+   "pos": "v.",
+   "pos_key": "v.",
+   "defn_en": "Make (something) the most prominent or important feature=emphasize=highlight=underscore",
+   "defn_zh": "凸顯；使成為焦點",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The documentary aims to ______ the voices of the victims, ensuring their personal stories are the central focus rather than just analyzing the political statistics of the war.",
+     "zh": "這部紀錄片旨在凸顯受害者的聲音，確保他們的個人故事成為關注的焦點，而不僅僅是分析戰爭的政治統計資料。"
+    }
+   ],
+   "section": "Module 1"
+  },
+  {
+   "word": "conventional",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "Based on or in accordance with what is generally done or believed",
+   "defn_zh": "傳統的；常規的",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "While most doctors recommend ______ treatments like surgery and medication, some patients prefer to explore alternative therapies such as acupuncture and herbal remedies.",
+     "zh": "雖然大多數醫生推薦手術和藥物等常規治療，但一些患者更喜歡探索針灸和草藥等替代療法。"
+    }
+   ],
+   "section": "Module 1"
+  },
+  {
+   "word": "replenishment",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "Restoration of a stock or supply to a former level or condition=refill",
+   "defn_zh": "補充；補給",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The survival of the ecosystem depends on the regular ______ of the water supply during the rainy season; without it, the lakes would dry up and the wildlife would perish.",
+     "zh": "生態系統的生存依賴于雨季水資源的定期補充；沒有它，湖泊就會乾涸，野生動物就會滅亡。"
+    }
+   ],
+   "section": "Module 1"
+  },
+  {
+   "word": "outcompete",
+   "pos": "v.",
+   "pos_key": "v.",
+   "defn_en": "Surpass (someone) in competition; displace by being more efficient",
+   "defn_zh": "在競爭中勝過",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Invasive species often ______ native plants for resources like sunlight and water, leading to a decrease in biodiversity as the local flora struggles to survive.",
+     "zh": "入侵物種經常在爭奪陽光和水等資源方面勝過本地植物，導致生物多樣性下降，因為當地植物群難以生存。"
+    }
+   ],
+   "section": "Module 1"
+  },
+  {
+   "word": "mimic",
+   "pos": "v.",
+   "pos_key": "v.",
+   "defn_en": "Imitate (someone or their actions or words), typically in order to entertain or ridicule",
+   "defn_zh": "模仿；模擬",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "To test the safety of the new aircraft, the engineers built a wind tunnel that ______ the harsh atmospheric conditions of high-altitude flight, including freezing temperatures and strong turbulence.",
+     "zh": "為了測試新飛機的安全性，工程師們建造了一個風洞，模擬高空飛行的惡劣大氣條件，包括嚴寒和強烈湍流。"
+    }
+   ],
+   "section": "Module 1"
+  },
+  {
+   "word": "aloft",
+   "pos": "adv./adj.",
+   "pos_key": "adv.",
+   "defn_en": "Up in or into the air; overhead",
+   "defn_zh": "在高處；在空中",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The kite stayed ______ for hours, riding the steady ocean breeze while the children on the beach watched it dancing high above the waves.",
+     "zh": "風箏在空中停留了幾個小時，乘著穩定的海風，沙灘上的孩子們看著它在海浪上方高高起舞。"
+    }
+   ],
+   "section": "Module 1"
+  },
+  {
+   "word": "resistance",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "The impeding, slowing, or stopping effect exerted by one material thing on another",
+   "defn_zh": "阻力；抵抗",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The cyclist had to pedal much harder to overcome the air ______ caused by the strong headwind pushing against him as he rode up the hill.",
+     "zh": "騎車人必須更加用力地蹬車，以克服逆風上坡時產生的空氣阻力。"
+    }
+   ],
+   "section": "Module 1"
+  },
+  {
+   "word": "posit",
+   "pos": "v.",
+   "pos_key": "v.",
+   "defn_en": "Assumed as a fact; put forward as a basis of argument",
+   "defn_zh": "假設；斷定",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The astronomer ______ that a massive, invisible planet exists at the edge of the solar system to explain the strange gravitational orbits of the smaller icy objects found there.",
+     "zh": "天文學家假設太陽系邊緣存在一顆巨大的、看不見的行星，以解釋在那裡發現的較小冰冷天體的奇怪引力軌道。"
+    }
+   ],
+   "section": "Module 1"
+  },
+  {
+   "word": "conjecture",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "An opinion or conclusion formed on the basis of incomplete information",
+   "defn_zh": "推測；臆測",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Without concrete evidence to prove who stole the painting, the detective's theory remained mere ______, a guess based on motive rather than actual proof.",
+     "zh": "在沒有確鑿證據證明是誰偷了這幅畫的情況下，偵探的理論仍然只是推測，是基於動機而非實際證據的猜測。"
+    }
+   ],
+   "section": "Module 1"
+  },
+  {
+   "word": "apparatus",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "A complex structure within an organization or system; technical equipment",
+   "defn_zh": "儀器；設備",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The laboratory was filled with complex glass ______, including beakers, tubes, and burners, all set up for the chemist to perform the delicate distillation process.",
+     "zh": "實驗室裡擺滿了複雜的玻璃儀器，包括燒杯、試管和燃燒器，所有這些都是為化學家進行精密的蒸餾過程而設置的。"
+    }
+   ],
+   "section": "Module 1"
+  },
+  {
+   "word": "definitive",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "(of a conclusion or agreement) done or reached decisively and with authority",
+   "defn_zh": "確鑿的；決定性的",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "After years of debate, the DNA test provided ______ proof of the king's identity, finally settling the historical mystery once and for all.",
+     "zh": "經過多年的爭論，DNA測試提供了國王身份的確鑿證據，最終徹底解決了這個歷史謎團。"
+    }
+   ],
+   "section": "Module 1"
+  },
+  {
+   "word": "undermine",
+   "pos": "v.",
+   "pos_key": "v.",
+   "defn_en": "Erode the base or foundation of; damage or weaken (someone or something)",
+   "defn_zh": "削弱；暗中破壞",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Constant criticism from his boss served to ______ his confidence, making him doubt his own abilities and eventually leading him to quit the job he once loved.",
+     "zh": "老闆不斷的批評削弱了他的自信心，讓他懷疑自己的能力，最終導致他辭去了曾經熱愛的工作。"
+    }
+   ],
+   "section": "Module 1"
+  },
+  {
+   "word": "correlate",
+   "pos": "v.",
+   "pos_key": "v.",
+   "defn_en": "Have a mutual relationship or connection, in which one thing affects or depends on another",
+   "defn_zh": "相關；相互關聯",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Studies often show that high stress levels ______ with poor sleep quality, meaning that people who are very anxious tend to have more trouble falling and staying asleep.",
+     "zh": "研究通常表明，高壓力水準與睡眠品質差相關，這意味著非常焦慮的人往往更難入睡和保持睡眠。"
+    }
+   ],
+   "section": "Module 1"
+  },
+  {
+   "word": "gene pool",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "The stock of different genes in an interbreeding population",
+   "defn_zh": "基因庫",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "A diverse ______ is essential for the survival of a species, as it ensures that at least some individuals have the genetic traits necessary to resist new diseases or adapt to changing environments.",
+     "zh": "多樣化的基因庫對物種的生存至關重要，因為它確保至少有一些個體具有抵抗新疾病 or 適應不斷變化的環境所需的遺傳特徵。"
+    }
+   ],
+   "section": "Module 1"
+  },
+  {
+   "word": "misrepresent",
+   "pos": "v.",
+   "pos_key": "v.",
+   "defn_en": "Giving a false or misleading account of the nature of something",
+   "defn_zh": "歪曲；不實陳述",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The politician accused the media of ______ his speech by taking a single sentence out of context to make it sound like he supported a policy he actually opposed.",
+     "zh": "這位政治家指責媒體歪曲了他的演講，斷章取義地引用了一句話，使他在聽起來像是支持一項他實際上反對的政策。"
+    }
+   ],
+   "section": "Module 1"
+  },
+  {
+   "word": "autobiographical",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "Dealing with the writer's own life",
+   "defn_zh": "自傳性的",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Although the novel is classified as fiction, it is heavily ______, drawing directly from the author's own childhood experiences growing up in a small mining town.",
+     "zh": "雖然這部小說被歸類為虛構作品，但它帶有濃厚的自傳色彩，直接取材于作者在採礦小鎮長大的童年經歷。"
+    }
+   ],
+   "section": "Module 1"
+  },
+  {
+   "word": "overlook",
+   "pos": "v.",
+   "pos_key": "v.",
+   "defn_en": "Fail to notice (something)",
+   "defn_zh": "忽略；未注意到",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "In his rush to finish the exam, the student managed to ______ the final page of questions, resulting in a significantly lower score than he had expected.",
+     "zh": "匆忙完成考試時，這名學生竟然忽略了最後一頁的問題，導致分數比他預期的低得多。"
+    }
+   ],
+   "section": "Module 1"
+  },
+  {
+   "word": "innate",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "Inborn; natural",
+   "defn_zh": "與生俱來的；天生的",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Ideally, sea turtles have an ______ sense of direction that guides them from their hatching place on the beach directly into the ocean without any instruction from their parents.",
+     "zh": "理想情況下，海龜有一種與生俱來的方向感，指引它們從沙灘上的孵化地直接進入海洋，無需父母的任何指導。"
+    }
+   ],
+   "section": "Module 1"
+  },
+  {
+   "word": "stimuli",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "Things that rouse activity or energy in someone or something; a spur or incentive",
+   "defn_zh": "刺激（物）",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The researchers monitored how the brain responded to various visual ______, such as flashing lights and colorful images, to understand how we process visual information.",
+     "zh": "研究人員監測了大腦對各種視覺刺激（如閃爍的燈光和彩色圖像）的反應，以瞭解我們如何處理視覺資訊。"
+    }
+   ],
+   "section": "Module 1"
+  },
+  {
+   "word": "solitary",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "Done or existing alone",
+   "defn_zh": "獨居的；單獨的",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Unlike bees that live in complex hives, the ______ wasp builds a single nest for itself and hunts alone, preferring to live without the company of a colony.",
+     "zh": "與生活在複雜蜂巢中的蜜蜂不同，這種獨居的黃蜂為自己建造單一的巢穴並獨自捕獵，更喜歡沒有群體陪伴的生活。"
+    }
+   ],
+   "section": "Module 1"
+  },
+  {
+   "word": "inarguable",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "Not open to doubt or debate; unquestionable",
+   "defn_zh": "無可辯駁的",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The lawyer presented ______ video evidence showing the defendant at the scene of the crime, making it impossible for the jury to believe his claim of innocence.",
+     "zh": "律師出示了無可辯駁的視頻證據，顯示被告在犯罪現場，使陪審團無法相信他的無罪辯護。"
+    }
+   ],
+   "section": "Module 1"
+  },
+  {
+   "word": "marginal",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "Relating to or at the edge or margin; minor; not central",
+   "defn_zh": "邊緣的；次要的",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The scribes wrote comments in the ______ space of the manuscript, adding notes and explanations around the main text without altering the original author's words.",
+     "zh": "抄寫員在手稿的邊緣空白處寫下評論，在正文周圍添加注釋和解釋，而沒有改動原作者的文字。"
+    }
+   ],
+   "section": "Module 1"
+  },
+  {
+   "word": "coincidental",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "Resulting from a coincidence; happening by chance",
+   "defn_zh": "巧合的",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "It was purely ______ that we ran into each other in Paris; we hadn't planned to meet, but we just happened to book hotels on the same street at the same time.",
+     "zh": "我們在巴黎偶遇純屬巧合；我們沒有計劃見面，只是碰巧同時在同一條街上預訂了酒店。"
+    }
+   ],
+   "section": "Module 1"
+  },
+  {
+   "word": "dexterity",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "Skill in performing tasks, especially with the hands",
+   "defn_zh": "靈巧；敏捷",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The magician's manual ______ was incredible; he could shuffle cards and make coins disappear so quickly that the audience's eyes couldn't follow his movements.",
+     "zh": "魔術師的手部靈巧度令人難以置信；他洗牌和讓硬幣消失的速度如此之快，以至於觀眾的眼睛無法跟上他的動作。"
+    }
+   ],
+   "section": "Module 1"
+  },
+  {
+   "word": "indicative",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "Serving as a sign or indication of something",
+   "defn_zh": "顯示的；表明的",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "A high fever and a persistent cough are often ______ of a serious infection, so the doctor recommended that the patient get a chest X-ray immediately.",
+     "zh": "高燒和持續咳嗽通常是嚴重感染的徵兆，因此醫生建議患者立即進行胸部X光檢查。"
+    }
+   ],
+   "section": "Module 1"
+  },
+  {
+   "word": "discrepancy",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "A lack of compatibility or similarity between two or more facts",
+   "defn_zh": "差異；不一致",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The accountant found a significant ______ between the money recorded in the ledger and the actual cash in the vault, suggesting that someone had been stealing funds.",
+     "zh": "會計師發現帳本上記錄的金額與金庫中的實際現金存在巨大差異，這表明有人一直在盜取資金。"
+    }
+   ],
+   "section": "Module 1"
+  },
+  {
+   "word": "diapause",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "A period of suspended development in an insect, other invertebrate, or mammal embryo",
+   "defn_zh": "滯育（昆蟲發育暫停）",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Some insects survive the harsh winter by entering a state of ______, essentially pausing their growth and metabolism until the weather becomes warm enough for them to develop.",
+     "zh": "一些昆蟲通過進入滯育狀態來度過嚴冬，基本上暫停生長和新陳代謝，直到天氣變暖到足以讓它們發育。"
+    }
+   ],
+   "section": "Module 1"
+  },
+  {
+   "word": "dormant",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "(of an animal) having normal physical functions suspended or slowed down for a period of time; in or as if in a deep sleep",
+   "defn_zh": "休眠的；蟄伏的",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The volcano has been ______ for over five hundred years, showing no signs of activity, but geologists warn that it could still erupt unexpectedly in the future.",
+     "zh": "這座火山已經休眠了五百多年，沒有任何活動跡象，但地質學家警告說，它在未來仍可能意外噴發。"
+    }
+   ],
+   "section": "Module 1"
+  },
+  {
+   "word": "foster",
+   "pos": "v.",
+   "pos_key": "v.",
+   "defn_en": "Encourage or promote the development of (something, typically something good)",
+   "defn_zh": "培養；促進",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The teacher tried to ______ a sense of community in the classroom by encouraging students to work on group projects and share their diverse cultural backgrounds.",
+     "zh": "老師試圖通過鼓勵學生進行小組項目和分享他們不同的文化背景，在課堂上培養一種社區意識。"
+    }
+   ],
+   "section": "Module 1"
+  },
+  {
+   "word": "distorting",
+   "pos": "v.",
+   "pos_key": "v.",
+   "defn_en": "Pull or twist out of shape; give a misleading or false account or impression of",
+   "defn_zh": "使扭曲；歪曲",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The intense heat was ______ the air above the asphalt, making the road ahead look wavy and blurry as if seen through a warped glass lens.",
+     "zh": "酷熱使柏油路面上方的空氣扭曲，使前方的道路看起來波浪起伏、模糊不清，就像透過彎曲的玻璃透鏡看到的一樣。"
+    }
+   ],
+   "section": "Module 1"
+  },
+  {
+   "word": "synesthesia",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "A condition in which one sense (for example, hearing) is simultaneously perceived as if by one or more additional senses such as sight",
+   "defn_zh": "聯覺",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The artist claimed to have ______, describing how he could \"taste\" colors and \"see\" music, which allowed him to create paintings that were vibrant visual representations of symphonies.",
+     "zh": "這位藝術家聲稱患有聯覺，描述了他如何\"嘗到\"顏色和\"看到\"音樂，這使他能夠創作出交響樂的生動視覺表現的畫作。"
+    }
+   ],
+   "section": "Module 1"
+  },
+  {
+   "word": "evoke",
+   "pos": "v.",
+   "pos_key": "v.",
+   "defn_en": "Bring or recall to the conscious mind",
+   "defn_zh": "喚起；引起",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The smell of freshly baked bread was enough to ______ powerful memories of his grandmother's kitchen, transporting him back to his childhood in an instant.",
+     "zh": "新鮮出爐的麵包的香味足以喚起對他祖母廚房的強烈記憶，瞬間把他帶回了童年。"
+    }
+   ],
+   "section": "Module 1"
+  },
+  {
+   "word": "prototype",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "A first, typical or preliminary model of something, from which other forms are developed or copied",
+   "defn_zh": "原型",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Before mass production began, the engineers built a working ______ of the electric car to test its battery life and safety features on the road.",
+     "zh": "在大規模生產開始之前，工程師們製造了這款電動汽車的可運行原型，以測試其在道路上的電池壽命和安全特性。"
+    }
+   ],
+   "section": "Module 1"
+  },
+  {
+   "word": "materialism",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "A tendency to consider material possessions and physical comfort as more important than spiritual values",
+   "defn_zh": "物質主義",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The author criticized the rampant ______ of the 1920s, portraying characters who cared more about buying expensive cars and jewelry than about their relationships or moral integrity.",
+     "zh": "作者批評了20世紀20年代猖獗的唯物主義（物質享樂主義），刻畫了那些更關心購買昂貴汽車和珠寶而不是人際關係或道德操守的人物。"
+    }
+   ],
+   "section": "Module 1"
+  },
+  {
+   "word": "disparities",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "A great difference",
+   "defn_zh": "差距；不平等",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The economic report highlighted the growing ______ between the rich and the poor, noting that the top 1% owned more wealth than the bottom 50% combined.",
+     "zh": "經濟報告強調了貧富之間日益擴大的差距，指出最富有的1%的人擁有的財富比最貧窮的50%的人加起來還要多。"
+    }
+   ],
+   "section": "Module 1"
+  },
+  {
+   "word": "conspicuously",
+   "pos": "adv.",
+   "pos_key": "adv.",
+   "defn_en": "In a clearly visible way",
+   "defn_zh": "顯眼地；明顯地",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "She dressed ______ in a bright red gown at the funeral, standing out starkly against the sea of mourners who were all wearing somber black suits.",
+     "zh": "她在葬禮上顯眼地穿著鮮紅色的禮服，在穿著沉悶黑色西裝的哀悼者海洋中顯得格外突出。"
+    }
+   ],
+   "section": "Module 1"
+  },
+  {
+   "word": "volition",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "The faculty or power of using one's will",
+   "defn_zh": "意志；自願",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The rocks in the desert seemed to move of their own ______, sliding across the dry lakebed without any animals or humans pushing them, leaving mysterious trails behind.",
+     "zh": "沙漠裡的岩石似乎是憑自己的意志移動的，滑過乾涸的湖床，沒有任何動物或人類推動它們，留下了神秘的痕跡。"
+    }
+   ],
+   "section": "Module 1"
+  },
+  {
+   "word": "deployed",
+   "pos": "v.",
+   "pos_key": "v.",
+   "defn_en": "Bring into effective action; utilize",
+   "defn_zh": "部署；調度",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The general ordered the troops to be ______ to the front lines immediately to reinforce the defenses against the approaching enemy army.",
+     "zh": "將軍命令部隊立即部署到前線，以加強防禦，抵禦逼近的敵軍。"
+    }
+   ],
+   "section": "Module 1"
+  },
+  {
+   "word": "inaccessible",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "Unable to be reached",
+   "defn_zh": "無法到達的；難以接近的",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The mountain village was completely ______ by car during the winter because the heavy snowfall blocked the only road leading up the pass.",
+     "zh": "冬天，這個山村完全無法開車到達，因為大雪封鎖了通往山口的唯一道路。"
+    }
+   ],
+   "section": "Module 1"
+  },
+  {
+   "word": "divergent",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "Tending to be different or develop in different directions",
+   "defn_zh": "分歧的；迥異的",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Although the twins were raised together, they had ______ interests; one became a strictly logical mathematician while the other became a free-spirited abstract artist.",
+     "zh": "雖然這對雙胞胎是一起長大的，但他們有著截然不同的興趣；一個成了嚴謹邏輯的數學家，而另一個成了自由奔放的抽象藝術家。"
+    },
+    {
+     "en": "Although the two politicians started with similar goals, their paths became ______, with one moving toward radical reform and the other preferring to maintain the status quo.",
+     "zh": "雖然兩位政治家有著相似的目標，但他們的道路變得分歧（迥異），一位走向激進改革，另一位則更願意維持現狀。"
+    }
+   ],
+   "section": "Module 1"
+  },
+  {
+   "word": "methodology",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "A system of methods used in a particular area of study or activity",
+   "defn_zh": "方法論；研究方法",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The scientific paper was rejected because the researchers' ______ was flawed; they had used a sample size that was too small to yield reliable statistical results.",
+     "zh": "這篇科學論文被拒絕了，因為研究人員的方法論有缺陷；他們使用的樣本量太小，無法產生可靠的統計結果。"
+    }
+   ],
+   "section": "Module 1"
+  },
+  {
+   "word": "collaboration",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "The action of working with someone to produce or create something",
+   "defn_zh": "合作",
+   "root_note": "Module 2 Q1",
+   "sentences": [
+    {
+     "en": "The novel was a unique ______ between two famous authors who usually worked alone, demonstrating how combining different writing styles can result in a masterpiece that neither could have achieved individually.",
+     "zh": "這部小說是兩位通常獨自工作的著名作家之間獨特的合作成果，證明瞭結合不同的寫作風格可以產生兩人單獨都無法實現的傑作。"
+    }
+   ],
+   "section": "Module 2"
+  },
+  {
+   "word": "characterization",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "The creation or construction of a fictional character",
+   "defn_zh": "角色塑造",
+   "root_note": "Module 2 Q1",
+   "sentences": [
+    {
+     "en": "The literary critic praised the author's nuanced ______ of the villain, noting that the antagonist had complex motivations and emotions rather than just being a simple, one-dimensional \"bad guy.\"",
+     "zh": "文學評論家稱讚作者對反派人物細緻入微的角色塑造，指出反派具有複雜的動機和情感，而不僅僅是一個簡單、單維度的「壞人」。"
+    }
+   ],
+   "section": "Module 2"
+  },
+  {
+   "word": "commercialization",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "The process of managing or running something principally for financial gain",
+   "defn_zh": "商業化",
+   "root_note": "Module 2 Q1",
+   "sentences": [
+    {
+     "en": "Many fans complained about the ______ of the music festival, arguing that the focus had shifted from celebrating independent art to selling expensive merchandise and corporate sponsorships.",
+     "zh": "許多歌迷抱怨音樂節的商業化，認為重心已從慶祝獨立藝術轉移到銷售昂貴的商品和企業贊助上。"
+    }
+   ],
+   "section": "Module 2"
+  },
+  {
+   "word": "inadequate",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "Lacking the quality or quantity required; insufficient for a purpose",
+   "defn_zh": "不足的；不充分的",
+   "root_note": "Module 2 Q2",
+   "sentences": [
+    {
+     "en": "The old drainage system proved ______ during the heavy storm, failing to handle the massive volume of water and resulting in severe flooding throughout the downtown area.",
+     "zh": "舊的排水系統在暴風雨期間被證明是不充分的，無法處理大量的水，導致市中心地區發生嚴重洪水。"
+    }
+   ],
+   "section": "Module 2"
+  },
+  {
+   "word": "resilient",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "(of a person or animal) able to withstand or recover quickly from difficult conditions",
+   "defn_zh": "有韌性的；能迅速恢復的",
+   "root_note": "Module 2 Q2",
+   "sentences": [
+    {
+     "en": "Despite the harsh desert climate and scarce water sources, the local plant life is incredibly ______, having adapted over centuries to survive and bloom even after long periods of drought.",
+     "zh": "儘管沙漠氣候惡劣且水源稀缺，但當地的植物生命力令人難以置信地強韌，經過幾個世紀的適應，即使在長期的乾旱之後也能生存和開花。"
+    }
+   ],
+   "section": "Module 2"
+  },
+  {
+   "word": "dynamic",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "(of a process or system) characterized by constant change, activity, or progress",
+   "defn_zh": "充滿活力的；動態的",
+   "root_note": "Module 2 Q2",
+   "sentences": [
+    {
+     "en": "The technology industry is a ______ environment where innovation happens daily, forcing companies to constantly adapt their strategies to keep up with new trends and competitors.",
+     "zh": "科技行業是一個充滿活力的環境，每天都在發生創新，迫使公司不斷調整策略以跟上新趨勢和競爭對手。"
+    }
+   ],
+   "section": "Module 2"
+  },
+  {
+   "word": "invalidate",
+   "pos": "v.",
+   "pos_key": "v.",
+   "defn_en": "Make (an argument, statement, or theory) unsound or erroneous",
+   "defn_zh": "使無效；推翻",
+   "root_note": "Module 2 Q3",
+   "sentences": [
+    {
+     "en": "The discovery of new historical documents served to ______ the historian's previous theory, proving that his timeline of events was incorrect and required a complete revision.",
+     "zh": "新歷史檔的發現足以推翻歷史學家先前的理論，證明他的事件時間表是不正確的，需要徹底修訂。"
+    }
+   ],
+   "section": "Module 2"
+  },
+  {
+   "word": "robust",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "Strong and healthy; vigorous; (of an economy) growing successfully",
+   "defn_zh": "強勁的；健壯的",
+   "root_note": "Module 2 Q3",
+   "sentences": [
+    {
+     "en": "The economist predicted ______ growth for the upcoming quarter, citing strong consumer spending and low unemployment rates as indicators that the market was recovering quickly from the recession.",
+     "zh": "經濟學家預測下一季度將出現強勁的增長，理由是強勁的消費者支出和低失業率表明市場正在從衰退中迅速復甦。"
+    }
+   ],
+   "section": "Module 2"
+  },
+  {
+   "word": "underscore",
+   "pos": "v.",
+   "pos_key": "v.",
+   "defn_en": "Emphasize (something) typically in order to give it greater importance",
+   "defn_zh": "強調",
+   "root_note": "Module 2 Q3",
+   "sentences": [
+    {
+     "en": "The recent safety report serves to ______ the need for stricter regulations in the factory, highlighting several dangerous practices that must be corrected immediately to prevent accidents.",
+     "zh": "最近的安全報告旨在強調工廠需要更嚴格規定的必要性，凸顯了必須立即糾正的幾種危險做法，以防止事故發生。"
+    }
+   ],
+   "section": "Module 2"
+  },
+  {
+   "word": "inventive",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "Having the ability to create or design new things or to think originally",
+   "defn_zh": "有創意的；獨具匠心的",
+   "root_note": "Module 2 Q4",
+   "sentences": [
+    {
+     "en": "The chef is known for his ______ approach to cooking, often combining unexpected ingredients from different cultures to create entirely new flavor profiles that surprise and delight diners.",
+     "zh": "這位廚師以其獨具匠心的烹飪方法而聞名，經常將來自不同文化的意想不到的食材結合在一起，創造出令食客驚喜和愉悅的全新風味。"
+    }
+   ],
+   "section": "Module 2"
+  },
+  {
+   "word": "restrained",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "Characterized by reserve or moderation; unemotional or dispassionate",
+   "defn_zh": "克制的；內斂的",
+   "root_note": "Module 2 Q4",
+   "sentences": [
+    {
+     "en": "Her interior design style is elegant and ______, avoiding bright colors and excessive decorations in favor of neutral tones and simple, clean lines that create a sense of calm.",
+     "zh": "她的室內設計風格優雅而克制，避免使用鮮豔的色彩和過多的裝飾，而是喜歡中性色調和簡單、乾淨的線條，營造出一種平靜感。"
+    }
+   ],
+   "section": "Module 2"
+  },
+  {
+   "word": "inexplicable",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "Unable to be explained or accounted for",
+   "defn_zh": "無法解釋的",
+   "root_note": "Module 2 Q4",
+   "sentences": [
+    {
+     "en": "For years, the disappearance of the ship remained ______, with no distress signals, wreckage, or witnesses to provide any clue as to what happened to the vessel in the calm waters.",
+     "zh": "多年來，這艘船的失蹤仍然無法解釋，沒有求救信號、殘骸或目擊者提供任何關於這艘船在平靜水域發生了什麼事的線索。"
+    }
+   ],
+   "section": "Module 2"
+  },
+  {
+   "word": "mystifying",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "Utterly bewildering or perplexing",
+   "defn_zh": "令人困惑的",
+   "root_note": "Module 2 Q4",
+   "sentences": [
+    {
+     "en": "The magician's final trick was truly ______, leaving the audience completely baffled as to how he managed to escape the locked box while suspended in mid-air.",
+     "zh": "魔術師的最後一個把戲真是令人困惑，讓觀眾完全搞不懂他是如何在懸浮在半空中時逃離上鎖的箱子的。"
+    }
+   ],
+   "section": "Module 2"
+  },
+  {
+   "word": "diverse",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "Showing a great deal of variety; very different",
+   "defn_zh": "多元的；各式各樣的",
+   "root_note": "Module 2 Q5",
+   "sentences": [
+    {
+     "en": "The university prides itself on having a ______ student body, with individuals from over fifty different countries bringing a wide range of cultural perspectives and experiences to the campus.",
+     "zh": "該大學以擁有多元化的學生群體而自豪，來自五十多個不同國家的個人為校園帶來了廣泛的文化視角和經驗。"
+    }
+   ],
+   "section": "Module 2"
+  },
+  {
+   "word": "predatory",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "Relating to or denoting an animal or animals preying naturally on others",
+   "defn_zh": "掠食性的",
+   "root_note": "Module 2 Q5",
+   "sentences": [
+    {
+     "en": "Lions and wolves are ______ animals that rely on hunting and killing other species for food, playing a crucial role in controlling the population of herbivores in their ecosystems.",
+     "zh": "獅子和狼是掠食性動物，依靠捕獵和殺死其他物種為食，在控制生態系統中食草動物的數量方面發揮著至關重要的作用。"
+    }
+   ],
+   "section": "Module 2"
+  },
+  {
+   "word": "obscure",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "Not discovered or known about; uncertain",
+   "defn_zh": "鮮為人知的；晦澀的",
+   "root_note": "Module 2 Q5",
+   "sentences": [
+    {
+     "en": "The professor specialized in ______ 18th-century poets, studying writers who were famous in their own time but have since been largely forgotten by modern literary history.",
+     "zh": "這位教授專門研究鮮為人知的 18 世紀詩人，研究那些在當時很有名但後來被現代文學史很大程度上遺忘的作家。"
+    }
+   ],
+   "section": "Module 2"
+  },
+  {
+   "word": "localized",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "Restricted to a particular place",
+   "defn_zh": "局部的；侷限於某地的",
+   "root_note": "Module 2 Q5",
+   "sentences": [
+    {
+     "en": "Fortunately, the damage from the storm was ______, affecting only a few neighborhoods near the coast while the rest of the city remained completely untouched by the high winds.",
+     "zh": "幸運的是，風暴造成的破壞是局部的，僅影響了海岸附近的幾個社區，而城市的其他地方完全未受強風影響。"
+    }
+   ],
+   "section": "Module 2"
+  },
+  {
+   "word": "confer",
+   "pos": "v.",
+   "pos_key": "v.",
+   "defn_en": "Grant or bestow (a title, degree, benefit, or right)",
+   "defn_zh": "授予；賦予",
+   "root_note": "Module 2 Q7",
+   "sentences": [
+    {
+     "en": "The new university degree will ______ significant career advantages upon graduates, giving them a competitive edge in the job market compared to those without the qualification.",
+     "zh": "新的大學學位將賦予畢業生顯著的職業優勢，使他們在就業市場上比沒有該資格的人更具競爭力。"
+    }
+   ],
+   "section": "Module 2"
+  },
+  {
+   "word": "agency",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "Action or intervention, especially such as to produce a particular effect; the capacity to act independently",
+   "defn_zh": "能動性；主動權",
+   "root_note": "Module 2 Q7",
+   "sentences": [
+    {
+     "en": "The labor union gave workers a sense of ______, allowing them to actively negotiate for better wages and working conditions rather than passively accepting whatever the employers offered.",
+     "zh": "工會給了工人們一種主動權（代理權），讓他們能夠積極談判爭取更好的工資和工作條件，而不是被動地接受雇主提供的任何東西。"
+    }
+   ],
+   "section": "Module 2"
+  },
+  {
+   "word": "activism",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "The policy or action of using vigorous campaigning to bring about political or social change",
+   "defn_zh": "行動主義；社會運動",
+   "root_note": "Module 2 Q7",
+   "sentences": [
+    {
+     "en": "Her environmental ______ inspired thousands of young people to join protests and demand stricter laws to protect the climate and reduce industrial pollution.",
+     "zh": "她的環境**激進主義（行動主義）**激勵了成千上萬的年輕人參加抗議活動，要求制定更嚴格的法律來保護氣候和減少工業污染。"
+    }
+   ],
+   "section": "Module 2"
+  },
+  {
+   "word": "luxuriant",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "(of vegetation) rich and profuse in growth; lush",
+   "defn_zh": "繁茂的",
+   "root_note": "Module 2 Q8",
+   "sentences": [
+    {
+     "en": "The garden was filled with ______ vegetation, including thick ferns and blooming flowers that covered every inch of soil, creating a dense, green paradise.",
+     "zh": "花園裡長滿了繁茂的植被，包括厚厚的蕨類植物和盛開的鮮花，覆蓋了每一寸土壤，創造了一個濃密的綠色天堂。"
+    }
+   ],
+   "section": "Module 2"
+  },
+  {
+   "word": "listlessly",
+   "pos": "adv.",
+   "pos_key": "adv.",
+   "defn_en": "Lacking energy or enthusiasm",
+   "defn_zh": "無精打采地",
+   "root_note": "Module 2 Q9",
+   "sentences": [
+    {
+     "en": "Suffering from a high fever, the child lay ______ on the sofa, staring blankly at the television screen without showing any interest in his favorite cartoons.",
+     "zh": "發著高燒的孩子無精打埰地躺在沙發上，茫然地盯著電視螢幕，對他最喜歡的卡通片沒有表現出任何興趣。"
+    }
+   ],
+   "section": "Module 2"
+  },
+  {
+   "word": "entranced",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "Fill (someone) with wonder and delight, holding their entire attention",
+   "defn_zh": "入迷的；著迷的",
+   "root_note": "Module 2 Q9",
+   "sentences": [
+    {
+     "en": "The audience sat ______, their eyes glued to the stage as the ballerina performed a mesmerizing solo that seemed to defy the laws of gravity.",
+     "zh": "觀眾如癡如醉地坐著，眼睛緊盯著舞臺，看著芭蕾舞女演員表演了一段似乎違反地心引力定律的迷人獨舞。"
+    }
+   ],
+   "section": "Module 2"
+  },
+  {
+   "word": "respondents",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "A person who replies to something, especially one supplying information for a survey or questionnaire",
+   "defn_zh": "受訪者",
+   "root_note": "Module 2 Q10",
+   "sentences": [
+    {
+     "en": "In the recent political poll, over 60% of ______ indicated that the economy was their primary concern when deciding which candidate to vote for in the upcoming election.",
+     "zh": "在最近的政治民意調查中，超過 60% 的受訪者表示，經濟是他們決定在即將舉行的選舉中投票給哪位候選人時的首要關注點。"
+    }
+   ],
+   "section": "Module 2"
+  },
+  {
+   "word": "predation",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "The preying of one animal on others",
+   "defn_zh": "捕食",
+   "root_note": "Module 2 Q11",
+   "sentences": [
+    {
+     "en": "The introduction of wolves into the park reduced the deer population through ______, restoring a natural balance to the ecosystem that had been lost when predators were removed.",
+     "zh": "將狼引入公園通過捕食減少了鹿的數量，恢復了生態系統中因捕食者被移除而失去的自然平衡。"
+    }
+   ],
+   "section": "Module 2"
+  },
+  {
+   "word": "attributable",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "Regarded as being caused by",
+   "defn_zh": "可歸因於……的",
+   "root_note": "Module 2 Q11",
+   "sentences": [
+    {
+     "en": "The sudden rise in the company's stock price was directly ______ to the announcement of their revolutionary new product, which investors believe will change the market.",
+     "zh": "公司股價的突然上漲直接歸因於其革命性新產品的發布，投資者認為這將改變市場。"
+    }
+   ],
+   "section": "Module 2"
+  },
+  {
+   "word": "cultivated",
+   "pos": "adj./v.",
+   "pos_key": "adj.",
+   "defn_en": "(of land) used for gardening or farming; grown",
+   "defn_zh": "耕種的；栽培的",
+   "root_note": "Module 2 Q12",
+   "sentences": [
+    {
+     "en": "Humans have ______ rice for thousands of years, transforming wild grasses into a staple food crop that now supports nearly half of the world's population.",
+     "zh": "人類種植水稻已有數千年的歷史，將野生草類轉化為現在養活世界近一半人口的主糧作物。"
+    }
+   ],
+   "section": "Module 2"
+  },
+  {
+   "word": "enamel",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "The hard, glossy substance that covers the crown of a tooth",
+   "defn_zh": "琺瑯質",
+   "root_note": "Module 2 Q13",
+   "sentences": [
+    {
+     "en": "The dentist warned that drinking too many sugary sodas can erode the tooth ______, making teeth more sensitive to heat and cold and increasing the risk of cavities.",
+     "zh": "牙醫警告說，喝太多含糖蘇打水會侵蝕牙齒琺瑯質，使牙齒對冷熱更敏感，並增加蛀牙的風險。"
+    }
+   ],
+   "section": "Module 2"
+  },
+  {
+   "word": "endothermic",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "(of an animal) dependent on or capable of the internal generation of heat; warm-blooded",
+   "defn_zh": "溫血的；恆溫的",
+   "root_note": "Module 2 Q13",
+   "sentences": [
+    {
+     "en": "Unlike reptiles that need sunlight to warm up, mammals are ______, meaning they can maintain a constant body temperature internally regardless of how cold the environment is.",
+     "zh": "與需要陽光取暖的爬行動物不同，哺乳動物是溫血的（吸熱的），這意味著無論環境多冷，它們都能在內部保持恆定的體溫。"
+    }
+   ],
+   "section": "Module 2"
+  },
+  {
+   "word": "ambient",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "Relating to the immediate surroundings of something",
+   "defn_zh": "周圍的；環境的",
+   "root_note": "Module 2 Q13",
+   "sentences": [
+    {
+     "en": "The thermometer measures the ______ temperature of the room, ensuring that the laboratory environment remains stable enough for sensitive chemical experiments.",
+     "zh": "溫度計與測量房間的周圍溫度，確保實驗室環境足夠穩定，以進行敏感的化學實驗。"
+    }
+   ],
+   "section": "Module 2"
+  },
+  {
+   "word": "abundance",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "A very large quantity of something",
+   "defn_zh": "豐富；大量",
+   "root_note": "Module 2 Q14",
+   "sentences": [
+    {
+     "en": "The rainforest is home to an ______ of wildlife, with thousands of different species of birds, insects, and mammals living together in a relatively small area.",
+     "zh": "雨林是豐富野生動物的家園，成千上萬種不同的鳥類、昆蟲和哺乳動物生活在一個相對較小的區域內。"
+    }
+   ],
+   "section": "Module 2"
+  },
+  {
+   "word": "polarized",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "Divided into two sharply contrasting groups or sets of opinions or beliefs",
+   "defn_zh": "兩極分化的",
+   "root_note": "Module 2 Q15",
+   "sentences": [
+    {
+     "en": "The political debate became increasingly ______, with voters splitting into two opposing camps that refused to listen to each other's arguments or find common ground.",
+     "zh": "政治辯論變得越來越兩極分化，選民分裂成兩個對立的陣營，拒絕聽取對方的論點或尋找共同點。"
+    }
+   ],
+   "section": "Module 2"
+  },
+  {
+   "word": "novel",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "New or unusual in an interesting way",
+   "defn_zh": "新穎的",
+   "root_note": "Module 2 Q16",
+   "sentences": [
+    {
+     "en": "The scientist proposed a ______ solution to the energy crisis, suggesting a method of harnessing solar power that had never been tested before but showed great promise.",
+     "zh": "科學家對能源危機提出了一個新穎的解決方案，建議了一種以前從未測試過但顯示出巨大潛力的利用太陽能的方法。"
+    }
+   ],
+   "section": "Module 2"
+  },
+  {
+   "word": "retrospective",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "An exhibition or compilation showing the development of the work of a particular artist over a period of time",
+   "defn_zh": "回顧展",
+   "root_note": "Module 2 Q17",
+   "sentences": [
+    {
+     "en": "The museum is hosting a major ______ of Picasso's work, featuring paintings and sculptures from every stage of his long career, from his Blue Period to Cubism.",
+     "zh": "博物館正在舉辦畢加索作品的大型回顧展，展出他漫長職業生涯各個階段的繪畫和雕塑，從藍色時期到立體主義。"
+    }
+   ],
+   "section": "Module 2"
+  },
+  {
+   "word": "deficiency",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "A lack or shortage",
+   "defn_zh": "缺乏；不足",
+   "root_note": "Module 2 Q17",
+   "sentences": [
+    {
+     "en": "A diet without enough fruit and vegetables can lead to a vitamin ______, causing health problems such as fatigue, weak immune function, and poor skin condition.",
+     "zh": "沒有足夠水果和蔬菜的飲食會導致維生素缺乏，引起疲勞、免疫功能減弱和皮膚狀況差等健康問題。"
+    }
+   ],
+   "section": "Module 2"
+  },
+  {
+   "word": "rind",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "The tough outer skin of certain fruit, especially citrus fruit",
+   "defn_zh": "果皮（尤指柑橘類）",
+   "root_note": "Module 2 Q18",
+   "sentences": [
+    {
+     "en": "When making marmalade, it is important to include the ______ of the orange, as this thick outer skin contains essential oils that provide a strong, bitter flavor.",
+     "zh": "製作橘子醬時，重要的是要包括橘子的果皮，因為這種厚厚的外皮含有提供強烈苦味的精油。"
+    }
+   ],
+   "section": "Module 2"
+  },
+  {
+   "word": "lifelike",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "Very similar to the person or thing represented",
+   "defn_zh": "逼真的",
+   "root_note": "Module 2 Q19",
+   "sentences": [
+    {
+     "en": "The wax statue was so ______ that many visitors mistook it for a real person, waiting for it to move or speak as they walked past it in the museum.",
+     "zh": "蠟像非常逼真，以至於許多遊客誤以為是真人，在博物館走過時等待它移動或說話。"
+    }
+   ],
+   "section": "Module 2"
+  },
+  {
+   "word": "repurpose",
+   "pos": "v.",
+   "pos_key": "v.",
+   "defn_en": "Adapt for use in a different purpose",
+   "defn_zh": "改作他用；再利用",
+   "root_note": "Module 2 Q20",
+   "sentences": [
+    {
+     "en": "Instead of throwing away the old wooden pallets, the creative carpenter decided to ______ them into trendy garden furniture, turning trash into something useful.",
+     "zh": "這位富有創意的木匠沒有扔掉舊木托盤，而是決定將它們重新利用成時髦的花園傢俱，變廢為寶。"
+    }
+   ],
+   "section": "Module 2"
+  },
+  {
+   "word": "mycology",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "The scientific study of fungi",
+   "defn_zh": "真菌學",
+   "root_note": "Module 2 Q21",
+   "sentences": [
+    {
+     "en": "As an expert in ______, she spends her days in the forest identifying different types of mushrooms and molds to understand their ecological roles and medicinal properties.",
+     "zh": "作為真菌學專家，她整天在森林裡辨識不同類型的蘑菇和黴菌，以瞭解它們的生態作用和藥用特性。"
+    }
+   ],
+   "section": "Module 2"
+  },
+  {
+   "word": "germination",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "The development of a plant from a seed or spore after a period of dormancy",
+   "defn_zh": "發芽",
+   "root_note": "Module 2 Q21",
+   "sentences": [
+    {
+     "en": "Warmth and moisture are essential for ______, triggering the dormant seed to crack open and send out its first small roots and shoots into the soil.",
+     "zh": "溫暖和水分對發芽至關重要，觸發休眠的種子裂開，並將其第一批小根和嫩芽長入土壤中。"
+    }
+   ],
+   "section": "Module 2"
+  },
+  {
+   "word": "revitalization",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "The action of imbuing something with new life and vitality",
+   "defn_zh": "振興；復甦",
+   "root_note": "Module 2 Q23",
+   "sentences": [
+    {
+     "en": "The city launched a project for the ______ of the downtown area, renovating old buildings and opening new parks to bring businesses and residents back to the city center.",
+     "zh": "該市啟動了市中心地區的振興項目，翻新舊建築並開放新公園，以吸引企業和居民回到市中心。"
+    }
+   ],
+   "section": "Module 2"
+  },
+  {
+   "word": "percolate",
+   "pos": "v.",
+   "pos_key": "v.",
+   "defn_en": "(of a liquid or gas) filter gradually through a porous surface or substance",
+   "defn_zh": "滲透；滲濾",
+   "root_note": "Module 2 Q24",
+   "sentences": [
+    {
+     "en": "Rainwater will slowly ______ through the layers of soil and rock until it reaches the underground aquifer, where it is stored as clean groundwater.",
+     "zh": "雨水會慢慢滲透過土壤和岩石層，直到到達地下蓄水層，在那裡作為清潔的地下水儲存。"
+    }
+   ],
+   "section": "Module 2"
+  },
+  {
+   "word": "subterranean",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "Existing, occurring, or done under the earth's surface",
+   "defn_zh": "地下的",
+   "root_note": "Module 2 Q24",
+   "sentences": [
+    {
+     "en": "The explorers discovered a vast ______ lake deep inside the cave system, completely hidden from the sunlight and inhabited by blind, colorless fish.",
+     "zh": "探險家在洞穴系統深處發現了一個巨大的地下湖泊，完全避開了陽光，居住著盲眼、無色的魚。"
+    }
+   ],
+   "section": "Module 2"
+  },
+  {
+   "word": "landmark",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "(of an event, discovery, or change) marking an important stage or turning point in something",
+   "defn_zh": "具里程碑意義的",
+   "root_note": "Module 2 Q25",
+   "sentences": [
+    {
+     "en": "The Supreme Court's decision was a ______ ruling that changed the laws regarding civil rights forever, setting a precedent that would be followed for decades.",
+     "zh": "最高法院的判決是一項具有里程碑意義的裁決，永遠改變了有關公民權利的法律，開創了幾十年來一直遵循的先例。"
+    }
+   ],
+   "section": "Module 2"
+  },
+  {
+   "word": "oeuvre",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "The works of a painter, composer, or author regarded collectively",
+   "defn_zh": "（藝術家的）全部作品",
+   "root_note": "Module 2 Q26",
+   "sentences": [
+    {
+     "en": "The exhibition celebrates the entire ______ of the artist, displaying everything from her early sketches as a student to the masterpieces she painted just before her death.",
+     "zh": "展覽慶祝這位元藝術家的全部作品（全集），展示了從她學生時代的早期素描到她臨終前繪製的傑作的所有作品。"
+    }
+   ],
+   "section": "Module 2"
+  },
+  {
+   "word": "adaptation",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "A change or the process of change by which an organism or species becomes better suited to its environment",
+   "defn_zh": "適應；適應性特徵",
+   "root_note": "Module 2 Q28",
+   "sentences": [
+    {
+     "en": "The camel's ability to store fat in its hump is an ______ that allows it to survive for long periods without food in the harsh conditions of the desert.",
+     "zh": "駱駝在駝峰中儲存脂肪的能力是一種適應，使它能夠在沙漠的惡劣條件下長期不進食而生存。"
+    }
+   ],
+   "section": "Module 2"
+  },
+  {
+   "word": "ratified",
+   "pos": "v.",
+   "pos_key": "v.",
+   "defn_en": "Sign or give formal consent to (a treaty, contract, or agreement), making it officially valid",
+   "defn_zh": "批准；正式簽署",
+   "root_note": "Module 2 Q29",
+   "sentences": [
+    {
+     "en": "The peace treaty will not be effective until it is ______ by the governments of both countries, a legal process that confirms they agree to all the terms.",
+     "zh": "和平條約在兩國政府批准之前不會生效，這是一個確認他們同意所有條款的法律程式。"
+    }
+   ],
+   "section": "Module 2"
+  },
+  {
+   "word": "inauguration",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "The formal admission of someone to office",
+   "defn_zh": "就職典禮",
+   "root_note": "Module 2 Q29",
+   "sentences": [
+    {
+     "en": "The president's ______ ceremony was attended by thousands of people who gathered in the capital to watch him take the oath of office and begin his four-year term.",
+     "zh": "總統的就職典禮有數千人參加，他們聚集在首都觀看他宣誓就職並開始他的四年任期。"
+    }
+   ],
+   "section": "Module 2"
+  },
+  {
+   "word": "titular",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "Denoting a person or thing from whom or which an artistic work takes its title",
+   "defn_zh": "同名的；名義上的",
+   "root_note": "Module 2 Q30",
+   "sentences": [
+    {
+     "en": "In the movie Harry Potter, the ______ character is a young wizard who discovers his magical heritage, meaning his name is also the name of the film.",
+     "zh": "在電影《哈利波特》中，**標題（同名）**角色是一位發現自己魔法血統的年輕巫師，這意味著他的名字也是電影的名字。"
+    }
+   ],
+   "section": "Module 2"
+  },
+  {
+   "word": "cosmochemist",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "A scientist who studies the chemical composition of matter in the universe",
+   "defn_zh": "宇宙化學家",
+   "root_note": "Module 2 Q32",
+   "sentences": [
+    {
+     "en": "The ______ analyzed the dust samples brought back from the asteroid to determine if it contained water or organic molecules that could explain the origins of life.",
+     "zh": "宇宙化學家分析了從利用小行星帶回的塵埃樣本，以確定它是否含有可以解釋生命起源的水或有機分子。"
+    }
+   ],
+   "section": "Module 2"
+  },
+  {
+   "word": "wake",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "A trail of disturbed water or air left by the passage of a ship or aircraft",
+   "defn_zh": "尾流；航跡",
+   "root_note": "Module 2 Q33",
+   "sentences": [
+    {
+     "en": "The small boat was rocked violently by the waves in the ______ of the massive cruise ship passing by, forcing the passengers to hold on tight to avoid falling overboard.",
+     "zh": "小船被經過的巨型遊輪尾流中的波浪猛烈搖晃，迫使乘客緊緊抓住以免落水。"
+    }
+   ],
+   "section": "Module 2"
+  }
+ ],
+ "family_options": {},
+ "fallback_options": {}
+}
