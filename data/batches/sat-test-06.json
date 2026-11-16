@@ -1,0 +1,1823 @@
+{
+ "id": "sat-test-06",
+ "part": "mocktest",
+ "part_label": "Digital SAT Practice Test Vocabulary",
+ "name": "Practice Test 6 · Vocabulary",
+ "subtitle": "Words & options from Module 1 and Module 2",
+ "count": 129,
+ "generated": true,
+ "words": [
+  {
+   "word": "prudently",
+   "pos": "adv.",
+   "pos_key": "adv.",
+   "defn_en": "acting with or showing care and thought for the future",
+   "defn_zh": "謹慎地；深謀遠慮地",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Because market conditions were highly volatile, the financial director decided to ______ allocate the company's surplus funds into low-risk government bonds.",
+     "zh": "由於市場狀況波動劇烈，財務總監決定「謹慎地」將公司的盈餘資金分配至低風險政府債券中。"
+    }
+   ]
+  },
+  {
+   "word": "overtly",
+   "pos": "adv.",
+   "pos_key": "adv.",
+   "defn_en": "in a way that is open, obvious, and not secret or hidden",
+   "defn_zh": "公然地；明目張膽地",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Although the two competing politicians claimed to respect each other, they ______ criticized each other's policy records during the televised debate.",
+     "zh": "儘管這兩位互相競爭的政治家聲稱尊重對方，但他們在電視辯論中卻「公然地」批評對方的政策紀錄。"
+    }
+   ]
+  },
+  {
+   "word": "cordially",
+   "pos": "adv.",
+   "pos_key": "adv.",
+   "defn_en": "in a warm, friendly, and polite manner",
+   "defn_zh": "熱誠地；親切地",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The hotel manager welcomed the international delegates ______ at the reception, offering them light refreshments and personalized city guides.",
+     "zh": "飯店經理在接待處「熱誠地」歡迎國際代表，為他們提供茶點和客製化的城市指南。"
+    }
+   ]
+  },
+  {
+   "word": "inadvertently",
+   "pos": "adv.",
+   "pos_key": "adv.",
+   "defn_en": "without intention; accidentally or unintentionally",
+   "defn_zh": "不經意地；非故意地",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "While editing the confidential document late at night, the assistant ______ deleted an essential financial table from the final report draft.",
+     "zh": "深夜編輯機密文件時，助理「不經意地」從報告最終草稿中刪除了一個重要的財務表格。"
+    }
+   ]
+  },
+  {
+   "word": "exacerbate",
+   "pos": "v.",
+   "pos_key": "v.",
+   "defn_en": "to make a problem, situation, or feeling worse",
+   "defn_zh": "使加劇；使惡化",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Heavy traffic congestion and high summer temperatures combined to ______ the severe air pollution levels across the metropolitan area.",
+     "zh": "嚴重的交通擁堵和夏季高溫相結合，進一步「加劇」了大都會地區的嚴重空氣污染程度。"
+    }
+   ]
+  },
+  {
+   "word": "redress",
+   "pos": "v. / n.",
+   "pos_key": "v.",
+   "defn_en": "to remedy or set right an unfair or undesirable situation",
+   "defn_zh": "糾正；補救；賠償",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "To ______ the historical gender imbalance in senior management, the corporation implemented progressive hiring policies and mentorship programs.",
+     "zh": "為了「糾正（補救）」高階管理層中歷史悠久的性別失衡，該公司實施了革新的招聘政策和導師計畫。"
+    }
+   ]
+  },
+  {
+   "word": "epitomize",
+   "pos": "v.",
+   "pos_key": "v.",
+   "defn_en": "to be a perfect example of a quality or type",
+   "defn_zh": "成為...的縮影；作為...的典型",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Her selflessness and relentless dedication to environmental conservation ______ the noble values of community service and civic duty.",
+     "zh": "她的無私和對環境保護的默默奉獻，「成為」社區服務和公民責任高尚價值的「典型（縮影）」。"
+    }
+   ]
+  },
+  {
+   "word": "preclude",
+   "pos": "v.",
+   "pos_key": "v.",
+   "defn_en": "to prevent something from happening or make it impossible",
+   "defn_zh": "排除；杜絕；使不可能",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Although the athlete suffered a knee injury, the medical team assured her that it would not ______ her participation in the upcoming Olympic games.",
+     "zh": "儘管該運動員膝蓋受傷，但醫療團隊向她保證這不會「排除（使不可能）」她參加即將到來的奧運會。"
+    }
+   ]
+  },
+  {
+   "word": "controversial",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "giving rise or likely to give rise to public disagreement",
+   "defn_zh": "有爭議的",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The municipal government's proposal to construct a highway through the historic parkland proved to be extremely ______ among local voters.",
+     "zh": "市政府在歷史悠久的公園土地上建設公路的提案，在當地選民中被證明極具「爭議性」。"
+    }
+   ]
+  },
+  {
+   "word": "antagonistic",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "showing or feeling active opposition or hostility toward someone",
+   "defn_zh": "敵對的；對立的",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Negotiations broke down after one party adopted an ______ attitude, making aggressive demands that the union representatives refused to accept.",
+     "zh": "在一方採取「敵對的」態度、提出工會代表拒絕接受的挑釁要求後，談判宣告破裂。"
+    }
+   ]
+  },
+  {
+   "word": "imitate",
+   "pos": "v.",
+   "pos_key": "v.",
+   "defn_en": "to copy the speech, gestures, or mannerisms of someone else",
+   "defn_zh": "模仿；效仿",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Young songbirds learn complex melodies by listening to adult birds and attempting to ______ their distinctive vocal patterns precisely.",
+     "zh": "幼小的鳴禽透過聆聽成年鳥類並試圖精準「模仿」其獨特的鳴叫模式來學習複雜的旋律。"
+    }
+   ]
+  },
+  {
+   "word": "inconsequential",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "not important, significant, or worth considering",
+   "defn_zh": "不重要的；微不足道的",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Although the minor typo in the introduction was technically an error, it was completely ______ to the overall validity of the scientific study.",
+     "zh": "雖然緒論中的微小拼寫錯誤技術上算個失誤，但對於該科學研究的整體有效性來說完全是「微不足道的」。"
+    }
+   ]
+  },
+  {
+   "word": "expressionist",
+   "pos": "adj. / n.",
+   "pos_key": "adj.",
+   "defn_en": "relating to an artistic style seeking to express emotional experience",
+   "defn_zh": "表現主義的",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The painter favored dramatic color contrasts and distorted shapes to convey inner turmoil, embodying the classic principles of ______ art.",
+     "zh": "這位畫家偏愛戲劇性的色彩對比和扭曲的形狀來傳達內心的動盪，體現了「表現主義」藝術的經典原則。"
+    }
+   ]
+  },
+  {
+   "word": "subjective",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "based on or influenced by personal feelings, tastes, or opinions",
+   "defn_zh": "主觀的",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Evaluating artistic beauty is inherently ______ , as individual viewers often interpret the emotional resonance of a painting quite differently.",
+     "zh": "評估藝術美本質上是「主觀的」，因為不同的觀者對畫作的情感共鳴往往詮釋得相當不同。"
+    }
+   ]
+  },
+  {
+   "word": "evocative",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "bringing strong images, memories, or feelings to mind",
+   "defn_zh": "喚起...的；引起回憶的",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The author's rich, poetic prose was deeply ______ of rural life during early 20th-century springtimes, captivating readers across generations.",
+     "zh": "作者豐富且富於詩意的散文深深地「喚起了（引起對...的回憶）」20世紀初鄉村春天的生活，吸引了一代又一代的讀者。"
+    }
+   ]
+  },
+  {
+   "word": "oversimplified",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "simplified so much that an distorted or false impression is given",
+   "defn_zh": "過度簡化的",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Presenting the complex global economic crisis as a simple choice between two political policies offers an ______ view of reality.",
+     "zh": "將複雜的全球經濟危機呈現為兩種政治政策之間的簡單選擇，提供了一種「過度簡化的」現實觀點。"
+    }
+   ]
+  },
+  {
+   "word": "quotidian",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "occurring daily; ordinary or commonplace",
+   "defn_zh": "日常的；平凡的",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Through his naturalistic novels, the author elevated the ______ routines of working-class families into profound literary reflections on humanity.",
+     "zh": "透過他的自然主義小說，作者將工人階級家庭「日常的（平凡的）」生活規律提升為對人性深刻的文學反思。"
+    }
+   ]
+  },
+  {
+   "word": "minutiae",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "the small, precise, or trivial details of something",
+   "defn_zh": "微小的細節；細枝末節",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "While executive directors focused on overarching corporate strategy, the legal team examined the fine print and administrative ______ of the merger contract.",
+     "zh": "當執行董事專注於總體的企業戰略時，法律團隊仔細審查了合併合同的字裡行間和行政「細節」。"
+    }
+   ]
+  },
+  {
+   "word": "naturalism",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "a style in art or literature depicting things as they genuinely are",
+   "defn_zh": "自然主義",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Seventeenth-century Dutch master painters were celebrated for their commitment to ______ , rendering domestic scenes with startling physical realism.",
+     "zh": "十七世紀的荷蘭大師級畫家因對「自然主義」的追求而盛名遐邇，以令人驚嘆的真實感呈現家庭場景。"
+    }
+   ]
+  },
+  {
+   "word": "astrobiologist",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "a scientist who studies the possibility of life in the universe",
+   "defn_zh": "天體生物學家",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "By analyzing extremophile microorganisms found near deep-sea thermal vents, the ______ sought insights into potential cellular life on icy moons.",
+     "zh": "透過分析深海熱泉附近的極限環境微生物，這位「天體生物學家」尋求對冰凍衛星上潛在細胞生命的新見解。"
+    }
+   ]
+  },
+  {
+   "word": "extraterrestrial",
+   "pos": "adj. / n.",
+   "pos_key": "adj.",
+   "defn_en": "originating or existing outside the Earth or its atmosphere",
+   "defn_zh": "外星的；地球外的",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Space exploration agencies deploy advanced radio telescopes into orbit to scan distant stellar systems for potential signs of ______ intelligence.",
+     "zh": "太空探索機構將先進的無線電望遠鏡部署到軌道上，以掃描遙遠恆星系統中潛在的「外星」智慧跡象。"
+    }
+   ]
+  },
+  {
+   "word": "distinction",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "a difference or contrast between similar things or people",
+   "defn_zh": "區別；差別；卓越",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The research paper draws a clear ______ between short-term economic fluctuations and permanent structural changes in global trade markets.",
+     "zh": "該研究論文在短期經濟波動與全球貿易市場的永久性結構變化之間作出了明確的「區別」。"
+    }
+   ]
+  },
+  {
+   "word": "unveil",
+   "pos": "v.",
+   "pos_key": "v.",
+   "defn_en": "to remove a cover from; to show or announce publicly for the first time",
+   "defn_zh": "為...揭幕；公佈",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Tech executives gathered in California this morning to officially ______ their next-generation artificial intelligence smartphone platform.",
+     "zh": "科技高管今早聚集在加州，正式「公佈（為...揭幕）」他們的新一代人工智慧智慧型手機平台。"
+    }
+   ]
+  },
+  {
+   "word": "gallery",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "a room or building for the display or sale of works of art",
+   "defn_zh": "畫廊；展覽館",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The modern art museum recently opened a spacious new ______ specifically designed to display monumental sculptures and large-scale canvases.",
+     "zh": "這座現代藝術博物館最近開放了一座寬敞的新「展覽館（畫廊）」，專門用於展示大型雕塑和大尺寸帆布畫。"
+    }
+   ]
+  },
+  {
+   "word": "widespread",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "found or distributed over a large area or among many people",
+   "defn_zh": "廣泛的；普遍的",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The rapid expansion of high-speed internet infrastructure led to ______ adoption of digital remote work arrangements worldwide.",
+     "zh": "高速網際網路基礎設施的快速擴張，促成了全球範圍內數位遠程工作安排的「廣泛」採用。"
+    }
+   ]
+  },
+  {
+   "word": "infrequent",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "not occurring often; rare or uncommon",
+   "defn_zh": "不常發生的；罕見的",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Because passenger demand was low during winter months, the airline operated only ______ flights between the small coastal towns.",
+     "zh": "由於冬季月份乘客需求低迷，航空公司在沿海小鎮之間僅營運「不常發生的（罕見的）」班機。"
+    }
+   ]
+  },
+  {
+   "word": "involuntarily",
+   "pos": "adv.",
+   "pos_key": "adv.",
+   "defn_en": "done without conscious control or intention; spontaneously",
+   "defn_zh": "非自願地；不自主地",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "When the bright flashlight shone directly into the patient's eyes, her pupils contracted ______ as a natural protective reflex.",
+     "zh": "當強光手電筒直接照進病人的眼睛時，她的瞳孔作為自然的保護反射「不自主地（生理本能地）」收縮。"
+    }
+   ]
+  },
+  {
+   "word": "strenuously",
+   "pos": "adv.",
+   "pos_key": "adv.",
+   "defn_en": "requiring or using great exertion, force, or energy",
+   "defn_zh": "費力地；強烈地",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Defense attorneys argued ______ against admitting the unverified digital evidence, maintaining that it lacked proper forensic chain of custody.",
+     "zh": "辯護律師「強烈地（費力地）」反對採納未經證實的數位證據，堅持認為該證據缺乏妥善的鑑識託管鏈。"
+    }
+   ]
+  },
+  {
+   "word": "unobtrusive",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "not conspicuous or attracting attention; subtle",
+   "defn_zh": "不顯眼的；不張揚的",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Documentary filmmakers installed small, ______ cameras in the rainforest canopy to observe wildlife behavior without causing disruption.",
+     "zh": "紀錄片導演在雨林樹冠上安裝了小型且「不顯眼的」攝影機，以在不造成干擾的情況下觀察野生動物行為。"
+    }
+   ]
+  },
+  {
+   "word": "conceal",
+   "pos": "v.",
+   "pos_key": "v.",
+   "defn_en": "to keep secret or hide from sight",
+   "defn_zh": "隱藏；隱瞞",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Dense morning mist managed to completely ______ the towering mountain peaks from the view of hikers waiting at the base camp.",
+     "zh": "濃厚的晨霧成功地將巍峨的山峰完全「隱藏（遮蔽）」起來，使在大本營等待的健行者無法看見。"
+    }
+   ]
+  },
+  {
+   "word": "approximate",
+   "pos": "adj. / v.",
+   "pos_key": "adj.",
+   "defn_en": "close to the actual, but not completely accurate or exact",
+   "defn_zh": "大約的；近似的",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Although archaeologists could not determine the exact year of construction, they estimated an ______ date around the third century BCE.",
+     "zh": "雖然考古學家無法確定具體的興建年份，但他們估計出了一個約公元前三世紀的「大約（近似）」日期。"
+    }
+   ]
+  },
+  {
+   "word": "peripheral",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "relating to or situated on the edge or margin; secondary",
+   "defn_zh": "外圍的；次要的",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "While the board focused primarily on core financial earnings, they treated environmental sustainability metrics as merely ______ issues.",
+     "zh": "當董事會主要關注核心財務收益時，他們將環境永續性指標僅視為「次要的（外圍的）」議題。"
+    }
+   ]
+  },
+  {
+   "word": "stymie",
+   "pos": "v.",
+   "pos_key": "v.",
+   "defn_en": "to prevent or hinder the progress of an activity or plan",
+   "defn_zh": "阻礙；妨礙",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Excessive administrative paperwork and cumbersome regulatory delays can severely ______ the growth of innovative technology startups.",
+     "zh": "過度的行政繁文縟節和繁瑣的監管延誤，會嚴重「阻礙（妨礙）」創新科技初創企業的發展。"
+    }
+   ]
+  },
+  {
+   "word": "compound",
+   "pos": "v. / n.",
+   "pos_key": "v.",
+   "defn_en": "to make something bad worse; to combine or add to",
+   "defn_zh": "使加重；使惡化；化合物",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Ignoring early warning signs of mechanical failure will only ______ operational risks and lead to catastrophic equipment failure.",
+     "zh": "忽視機械故障的早期預警信號只會「加重（使惡化）」操作風險，並導致災難性的設備故障。"
+    }
+   ]
+  },
+  {
+   "word": "disparage",
+   "pos": "v.",
+   "pos_key": "v.",
+   "defn_en": "to regard or represent as being of little worth; belittle",
+   "defn_zh": "貶低；輕視",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Professional critics should provide constructive evaluation rather than using harsh personal insults to ______ an artist's sincere creative efforts.",
+     "zh": "專業評論家應提供建設性的評估，而不是使用苛刻的人身侮辱來「貶低」藝術家真誠的創作努力。"
+    }
+   ]
+  },
+  {
+   "word": "outstrip",
+   "pos": "v.",
+   "pos_key": "v.",
+   "defn_en": "to exceed or go beyond in speed, quantity, or quality",
+   "defn_zh": "超過；勝過",
+   "root_note": "Forms: outstrip, outstripped, outstripped",
+   "sentences": [
+    {
+     "en": "During holiday shopping seasons, consumer demand for popular electronic gadgets frequently manages to ______ regional supply capabilities.",
+     "zh": "在節假日購物季，消費者對熱門電子產品的需求經常「超過」區域供應能力。"
+    }
+   ]
+  },
+  {
+   "word": "sanguine",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "optimistic or positive, especially in an apparently bad situation",
+   "defn_zh": "樂觀的；自信的",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Despite the economic downturn, the Chief Executive Officer remained remarkably ______ about the firm's long-term profitability and market expansion.",
+     "zh": "儘管經濟不景氣，執行長對公司的長期盈利能力和市場擴張仍保持著相當「樂觀的」態度。"
+    }
+   ]
+  },
+  {
+   "word": "recalcitrant",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "stubbornly disobedient or resistant to authority or control",
+   "defn_zh": "頑抗的；不服從的",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The manager struggled to implement new operational procedures due to resistance from a few ______ employees who rejected change.",
+     "zh": "由於少數抗拒改變且「頑抗不服從的」員工的反對，經理在實施新的操作流程時遇到了困難。"
+    }
+   ]
+  },
+  {
+   "word": "misanthropic",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "disliking humankind and avoiding human society",
+   "defn_zh": "厭世的；仇恨人類的",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "In his retirement years, the wealthy hermit adopted a quiet, ______ lifestyle, residing in a remote cabin far from city life.",
+     "zh": "在退休歲月中，這位富有的隱士過著平靜且「厭世的（遠離人群的）」生活，居住在遠離城市生活的偏遠小木屋裡。"
+    }
+   ]
+  },
+  {
+   "word": "earnest",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "resulting from or showing sincere and intense conviction",
+   "defn_zh": "真誠的；認真的",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The young diplomat made an ______ attempt to mediate peace talks between warring factions, earning widespread respect for her dedication.",
+     "zh": "這位年輕的外交官進行了「真誠的（認真的）」嘗試以調解交戰各派之間的和平談判，她的奉獻贏得了廣泛尊重。"
+    }
+   ]
+  },
+  {
+   "word": "deliberate",
+   "pos": "adj. / v.",
+   "pos_key": "adj.",
+   "defn_en": "done consciously and intentionally; carefully considered",
+   "defn_zh": "蓄意的；深思熟慮的",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Investigators determined that the chemical spill was not an accident but a ______ act of sabotage designed to disrupt factory operations.",
+     "zh": "調查人員認定化學品洩漏不是意外事故，而是旨在破壞工廠營運的「蓄意（刻意）」破壞行為。"
+    }
+   ]
+  },
+  {
+   "word": "preen",
+   "pos": "v.",
+   "pos_key": "v.",
+   "defn_en": "to clean, smooth, or arrange feathers or appearance with care",
+   "defn_zh": "（鳥類用嘴）整理羽毛；精心打扮",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Biologists observed a wild parrot using a smooth pebble as an improvised tool to ______ its colorful wing feathers during rest.",
+     "zh": "生物學家觀察到一隻野生鸚鵡在休息時使用光滑的卵石作為臨時工具來「整理」其五彩斑斕的翅膀「羽毛」。"
+    }
+   ]
+  },
+  {
+   "word": "manifest",
+   "pos": "adj. / v.",
+   "pos_key": "adj.",
+   "defn_en": "clear or obvious to the eye or mind; to display or show",
+   "defn_zh": "明顯的；顯現；證實",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The artist's rejection of industrial mass production was ______ in his careful reliance on medieval handcrafted binding techniques.",
+     "zh": "這位藝術家對工業化量產的反感，在其對中世紀手工裝訂技術的用心依賴中「顯現（表現得很明顯）」。"
+    }
+   ]
+  },
+  {
+   "word": "sensible",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "possessing or showing good sense or practical judgment",
+   "defn_zh": "明智的；合情合理的",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Before making a large financial commitment, it is always ______ to consult an independent financial advisor to assess potential risks.",
+     "zh": "在作出重大財務承諾之前，諮詢獨立財務顧問以評估潛在風險總是「明智的（合情合理的）」。"
+    }
+   ]
+  },
+  {
+   "word": "scrutinize",
+   "pos": "v.",
+   "pos_key": "v.",
+   "defn_en": "to examine or inspect closely and thoroughly",
+   "defn_zh": "仔細檢查；審視",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Regulatory authorities arrived at the pharmaceutical facility to rigorously ______ production logs and quality control records.",
+     "zh": "監管當局抵達製藥設施，嚴格「審視（仔細檢查）」生產日誌和品質控制記錄。"
+    }
+   ]
+  },
+  {
+   "word": "complicate",
+   "pos": "v.",
+   "pos_key": "v.",
+   "defn_en": "to make something more difficult or confused",
+   "defn_zh": "使複雜化",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Unforeseen supply chain disruptions threat to further ______ the construction timeline for the new international airport terminal.",
+     "zh": "意料之外的供應鏈中斷威脅著進一步「使...複雜化」新國際機場航站樓的建設時間表。"
+    }
+   ]
+  },
+  {
+   "word": "cohort",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "a group of people banded together or treated as a group",
+   "defn_zh": "同伴；一群人；（統計）世代/群體",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Researchers tracked a large ______ of senior citizens over five years to study the cognitive benefits of regular social media engagement.",
+     "zh": "研究人員在五年內追蹤了一大群「老年人（統計群體）」，以研究定期參與社群媒體的認知好處。"
+    }
+   ]
+  },
+  {
+   "word": "overemphasize",
+   "pos": "v.",
+   "pos_key": "v.",
+   "defn_en": "to place excessive emphasis or importance on something",
+   "defn_zh": "過度強調",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Educators warn that standardized tests should not ______ rote memorization at the expense of critical thinking and creative problem-solving.",
+     "zh": "教育工作者警告，標準化測驗不應以犧牲批判性思考和創造性解決問題的能力為代價來「過度強調」死記硬背。"
+    }
+   ]
+  },
+  {
+   "word": "texture",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "the feel, appearance, or consistency of a surface or substance",
+   "defn_zh": "質感；紋理；結構",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The painter applied thick layers of oil paint with a palette knife to create a rich, tactile ______ on the canvas surface.",
+     "zh": "畫家用畫刀塗抹了厚厚的油漆，以在帆布表面創造出豐富且具觸感的「質感（紋理）」。"
+    }
+   ]
+  },
+  {
+   "word": "sculpture",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "the art of making two- or three-dimensional representative forms",
+   "defn_zh": "雕塑；雕刻品",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Visitors to the outdoor park marveled at the monumental marble ______ depicting ancient mythological figures carved with extraordinary detail.",
+     "zh": "戶外公園的遊客對描繪古代神話人物、雕刻極其精細的宏偉大理石「雕塑」讚嘆不已。"
+    }
+   ]
+  },
+  {
+   "word": "vibrant",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "full of energy and enthusiasm; bright and striking in color",
+   "defn_zh": "充滿活力的；鮮豔的",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The artist chose a ______ color palette consisting of brilliant blues and radiant yellows to capture the cheerful atmosphere of seaside market.",
+     "zh": "畫家選擇了由鮮豔藍色和璀璨黃色組成的「鮮豔的（充滿活力的）」色彩組合，以捕捉海邊市場的歡快氣氛。"
+    }
+   ]
+  },
+  {
+   "word": "palette",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "a thin board on which an artist lays and mixes colors; range of colors",
+   "defn_zh": "調色板；色彩組合",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The interior designer selected a soothing natural color ______ featuring soft beige, muted olive, and warm cream tones for the resort living rooms.",
+     "zh": "室內設計師為度假村客廳選擇了以柔和米色、沉穩橄欖綠和暖奶油色為特色的舒緩自然色彩「組合（調色板）」。"
+    }
+   ]
+  },
+  {
+   "word": "prominently",
+   "pos": "adv.",
+   "pos_key": "adv.",
+   "defn_en": "in a way that is easily seen or particularly noticeable",
+   "defn_zh": "顯著地；突出地",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The museum curator displayed the newly acquired renaissance masterpiece ______ in the center of the main exhibition gallery.",
+     "zh": "博物館館長將新購得的文藝復興時期傑作「顯著地（突出地）」展示在大展廳中央。"
+    }
+   ]
+  },
+  {
+   "word": "quotation",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "a group of words taken from a text or speech and repeated",
+   "defn_zh": "引用語；引文",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The historian included an inspiring ______ from the civil rights speech to open her introductory chapter on twentieth-century activism.",
+     "zh": "歷史學家引用了一段來自民權演講的鼓舞人心的「引言（引用語）」，作為她關於二十世紀社會運動緒論章節的開場。"
+    }
+   ]
+  },
+  {
+   "word": "microsculpture",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "an extremely small sculpture viewed under magnification",
+   "defn_zh": "微型雕塑",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The artist achieved international fame for crafting a remarkable ______ inside the eye of a needle that could only be seen through microscope.",
+     "zh": "這位藝術家因在針眼內製作出只能透過顯微鏡觀察的非凡「微型雕塑」而獲得國際聲譽。"
+    }
+   ]
+  },
+  {
+   "word": "strand",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "a single thin length of thread, wire, hair, or fiber",
+   "defn_zh": "一股；一條；縷",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Forensic scientists extracted genetic material from a single ______ of hair discovered at the crime scene to identify the suspect.",
+     "zh": "鑑識科學家從犯罪現場發現的一「縷（條）」頭髮中提取了基因物質，以確定犯罪嫌疑人。"
+    }
+   ]
+  },
+  {
+   "word": "elevation",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "height above a given level, especially sea level",
+   "defn_zh": "海拔；高度",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Botanists documented that snowpack levels reached their maximum depth in mid-March at higher mountain ______s.",
+     "zh": "植物學家記錄道，積雪深度在高山「海拔（高度）」地區於三月中旬達到最大值。"
+    }
+   ]
+  },
+  {
+   "word": "snowpack",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "a mass of snow that compressed and accumulated on ground",
+   "defn_zh": "積雪（層）",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Hydrologists analyze winter ______ volume in the mountain ranges to forecast summer river runoff and agricultural water supplies.",
+     "zh": "水文學家分析山脈中的冬季「積雪層」體積，以預測夏季河流流量和農業用水供應。"
+    }
+   ]
+  },
+  {
+   "word": "replica",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "an exact copy or model of something, especially on a smaller scale",
+   "defn_zh": "複製品；複製品",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Maritime historians constructed a full-scale wooden ______ of the ancient sailing vessel using traditional shipbuilding techniques.",
+     "zh": "海洋歷史學家利用傳統造船技術，建造了一艘古代航海船隻的全尺寸木質「複製品」。"
+    }
+   ]
+  },
+  {
+   "word": "stitch",
+   "pos": "v. / n.",
+   "pos_key": "v.",
+   "defn_en": "to join or fasten together with stitches or loops",
+   "defn_zh": "縫合；縫製",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Ancient shipbuilders in Oman used strong coconut fiber cords to ______ wooden planks together rather than relying on iron nails.",
+     "zh": "阿曼的古代造船者使用堅固的椰子纖維繩將木板「縫合（連接）」在一起，而不是依賴鐵釘。"
+    }
+   ]
+  },
+  {
+   "word": "vessel",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "a ship or large boat; a hollow container",
+   "defn_zh": "船隻；容器；血管",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The historic sailing ______ navigated through rough ocean waters, successfully carrying spices and textiles across maritime trade routes.",
+     "zh": "這艘歷史悠久的航海「船隻」在洶湧的大海中航行，成功地將香料和紡織品運過海上貿易路線。"
+    }
+   ]
+  },
+  {
+   "word": "dhow",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "a lateen-rigged ship with one or two masts, used in Arab waters",
+   "defn_zh": "阿拉伯單桅帆船",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Traditional shipwrights along the Arabian coast continue to build the classic wooden ______ using centuries-old heritage methods.",
+     "zh": "阿拉伯沿海地區的傳統造船工匠繼續利用數百年傳承的手藝建造經典的木質「阿拉伯單桅帆船」。"
+    }
+   ]
+  },
+  {
+   "word": "coincidence",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "a remarkable concurrence of events without apparent causal connection",
+   "defn_zh": "巧合",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "It was a remarkable ______ that two independent scientists published identical evolutionary theories in the very same month.",
+     "zh": "兩位獨立研究的科學家在同一個月發表了相同的演化理論，這真是一個非凡的「巧合」。"
+    }
+   ]
+  },
+  {
+   "word": "paradigm",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "a typical example or pattern of something; a model",
+   "defn_zh": "範例；典範；理論框架",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The discovery of quantum mechanics represented a fundamental ______ shift that transformed our understanding of subatomic physics forever.",
+     "zh": "量子力學的發現代表了一次根本性的「理論框架（典範）」轉移，永遠改變了我們對亞原子物理學的理解。"
+    }
+   ]
+  },
+  {
+   "word": "parallel",
+   "pos": "adj. / n.",
+   "pos_key": "adj.",
+   "defn_en": "occurring at the same time or in a similar way",
+   "defn_zh": "平行的；並行的；類似之處",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Historical analysts drawn interesting ______s between the economic expansion of late 19th-century railways and modern digital internet growth.",
+     "zh": "歷史分析家在19世紀晚期鐵路經濟擴張與現代數位網際網路增長之間劃出了有趣的「平行（類似）之處」。"
+    }
+   ]
+  },
+  {
+   "word": "dependence",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "the state of relying on or being controlled by someone or something",
+   "defn_zh": "依賴；依靠",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Agricultural scientists developed disease-resistant crop hybrids to reduce the country's ______ on expensive imported pesticide chemicals.",
+     "zh": "農業科學家開發了抗病作物雜交種，以減少國家對昂貴進口農藥化學品的「依賴」。"
+    }
+   ]
+  },
+  {
+   "word": "crossbreed",
+   "pos": "v.",
+   "pos_key": "v.",
+   "defn_en": "to produce an animal or plant by mating two different breeds or species",
+   "defn_zh": "雜交；培育雜交種",
+   "root_note": "Forms: crossbreed, crossbred, crossbred",
+   "sentences": [
+    {
+     "en": "By attempting to ______ domestic sugarcane with resilient native grass species, the botanist successfully developed climate-adapted hybrids.",
+     "zh": "透過嘗試將本地甘蔗與具韌性的野生草種進行「雜交」，植物學家成功開發出了適應氣候的雜交品種。"
+    }
+   ]
+  },
+  {
+   "word": "repudiation",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "rejection of a proposal, idea, or connection",
+   "defn_zh": "拒絕；否認；拋棄",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The designer's explicit ______ of modern mass-production techniques was reflected in her decision to use only handcrafted natural textiles.",
+     "zh": "設計師對現代量產技術的明確「拒絕（拋棄）」，體現在她決定僅使用手工天然紡織品上。"
+    }
+   ]
+  },
+  {
+   "word": "industrialization",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "the development of industries in a country or region on a wide scale",
+   "defn_zh": "工業化",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Rapid nineteenth-century ______ transformed quiet agrarian villages into bustling factory towns powered by steam energy.",
+     "zh": "十九世紀快速的「工業化」將寧靜的農業村莊轉變為由蒸汽能源驅動的繁華工廠城鎮。"
+    }
+   ]
+  },
+  {
+   "word": "preindustrial",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "relating to time before the development of machinery and industry",
+   "defn_zh": "前工業時代的",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Artisan bookbinders preferred to employ ______ craftsmanship methods, hand-sewing paper pages using organic thread.",
+     "zh": "手藝精湛的圖書裝訂商偏好使用「前工業時代的」工藝方法，用有機線手工縫製紙頁。"
+    }
+   ]
+  },
+  {
+   "word": "manuscript",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "a book, document, or piece of music written by hand rather than typed",
+   "defn_zh": "手稿；原稿",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Curators carefully handled the fragile medieval ______ under specialized lighting to preserve the delicate gold-leaf decorations.",
+     "zh": "館長在專業照明下小心翼翼地處理解這個脆弱的中世紀「手稿」，以保存精美的金箔裝飾。"
+    }
+   ]
+  },
+  {
+   "word": "ornamentation",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "things added to something to provide decoration",
+   "defn_zh": "裝飾；裝飾物",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Gothic architectural design is famous for its intricate stonework and elaborate exterior ______ featuring carved stone gargoyles.",
+     "zh": "哥德式建築設計以其複雜的石雕和包含雕刻石雕怪獸的精美外牆「裝飾」而聞名。"
+    }
+   ]
+  },
+  {
+   "word": "refrigeration",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "the process of cooling or freezing food or goods for preservation",
+   "defn_zh": "冷藏；冷凍（保鮮）",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The widespread adoption of commercial home ______ in early twentieth century fundamentally changed global fresh food distribution networks.",
+     "zh": "二十世紀初商業家用「冷藏（保鮮）」技術的廣泛採用，從根本上改變了全球新鮮食品的分銷網路。"
+    }
+   ]
+  },
+  {
+   "word": "substantial",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "of considerable importance, size, or value",
+   "defn_zh": "相當大的；重大的",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The inventor made a ______ contribution to public safety by engineering ultra-strong synthetic materials used in protective body armor.",
+     "zh": "這位發明家透過工程設計用於防護體用裝甲的高強度合成材料，對公共安全作出了「重大的（相當大的）」貢獻。"
+    }
+   ]
+  },
+  {
+   "word": "tentative",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "not certain or fixed; provisional or hesitant",
+   "defn_zh": "暫時的；試探性的；不確定的",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The board reached a ______ agreement on the corporate merger, pending detailed financial audit checks over the next month.",
+     "zh": "董事會就企業合併達成了「暫時的（試探性的）」協議，有待下個月進行詳細的財務審計檢查。"
+    }
+   ]
+  },
+  {
+   "word": "warranted",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "justified, necessary, or authorized",
+   "defn_zh": "有正當理由的；必要的",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Given the severe environmental risks revealed by the report, immediate intervention by regulatory authorities was fully ______ .",
+     "zh": "鑑於報告所透露的嚴重環境風險，監管當局的立即干預完全是「有正當理由的（必要的）」。"
+    }
+   ]
+  },
+  {
+   "word": "prominent",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "important, famous, or easily noticeable",
+   "defn_zh": "傑出的；著名的；顯著的",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The university invited a ______ neuroscientist to deliver the keynote address regarding breakthrough memory consolidation research.",
+     "zh": "大學邀請了一位「傑出的（著名的）」神經科學家發表關於突破性記憶鞏固研究的主題演講。"
+    }
+   ]
+  },
+  {
+   "word": "alphabetical",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "arranged in the order of the letters of the alphabet",
+   "defn_zh": "按字母順序的",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The librarian instructed young students to organize the reference books in strict ______ order according to the authors' last names.",
+     "zh": "圖書館員指示年輕學生根據作者的姓氏按照嚴格的「字母順序」整理參考書。"
+    }
+   ]
+  },
+  {
+   "word": "enthusiasm",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "intense and eager enjoyment, interest, or approval",
+   "defn_zh": "熱情；熱忱",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Despite the challenging assignment conditions, the research team approached the field study with boundless energy and ______ .",
+     "zh": "儘管任務條件極具挑戰性，研究團隊仍以無窮的精力和「熱情（熱忱）」開展田野研究。"
+    }
+   ]
+  },
+  {
+   "word": "Byzantine",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "relating to the Byzantine Empire, or excessively complicated",
+   "defn_zh": "拜占庭式的；錯綜複雜的",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Art historians analyzed the glittering gold mosaics characteristic of ancient ______ religious architecture found in Eastern Mediterranean churches.",
+     "zh": "藝術史學家分析了出現在東地中海教堂中、以古代「拜占庭式」宗教建築為特徵的金光閃閃的金箔馬賽克。"
+    }
+   ]
+  },
+  {
+   "word": "logging",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "the activity or business of cutting down trees for timber",
+   "defn_zh": "伐木業",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Environmentalists argued that controlled ______ operations must be combined with active reforestation efforts to maintain healthy forest ecosystems.",
+     "zh": "環境保護主義者主張，可控的「伐木」作業必須與積極的造林努力相結合，以維持健康的森林生態系統。"
+    }
+   ]
+  },
+  {
+   "word": "transcribe",
+   "pos": "v.",
+   "pos_key": "v.",
+   "defn_en": "to put thoughts, speech, or data into written or printed form",
+   "defn_zh": "抄錄；轉錄；謄寫",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Authors who prefer to write initial story drafts by hand must eventually ______ their manuscript onto a computer for publication formatting.",
+     "zh": "偏好手寫故事初稿的作者最終必須將他們的手稿「謄寫（轉錄）」到電腦上記進行出版排版。"
+    }
+   ]
+  },
+  {
+   "word": "unique",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "being the only one of its kind; completely distinct",
+   "defn_zh": "獨一無二的；獨特的",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Every handcrafted porcelain vase exhibits a ______ pattern of subtle ceramic glaze variations that cannot be perfectly duplicated.",
+     "zh": "每一件手工製作的瓷瓶都展現出「獨一無二的（獨特的）」細微陶瓷釉色變化圖案，無法被完美複製。"
+    }
+   ]
+  },
+  {
+   "word": "speculate",
+   "pos": "v.",
+   "pos_key": "v.",
+   "defn_en": "to form a theory or conjecture without firm evidence",
+   "defn_zh": "推測；猜測",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Literary scholars often ______ about how classic nineteenth-century novels would have developed if written under modern digital circumstances.",
+     "zh": "文學學者經常「推測（猜測）」如果十九世紀的經典小說是在現代數位環境下創作的，會如何發展。"
+    }
+   ]
+  },
+  {
+   "word": "circumstance",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "a fact or condition connected with or relevant to an event",
+   "defn_zh": "情況；環境；情勢",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The rare historical manuscript survived the catastrophic library fire only due to a fortunate set of unpredictable ______s.",
+     "zh": "這份罕見的歷史手稿之所以能在災難性的圖書館火災中倖存下來，完全歸功於一套幸運且不可預測的「情況（情勢）」。"
+    }
+   ]
+  },
+  {
+   "word": "synchrotron",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "a circular particle accelerator producing intense radiation",
+   "defn_zh": "同步加速器（粒子加速器）",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Physicists inside the underground laboratory utilized a powerful ______ to accelerate subatomic particles to near the speed of light.",
+     "zh": "地下實驗室內部的物理學家利用強大的「同步加速器」將亞原子粒子加速到接近光速。"
+    }
+   ]
+  },
+  {
+   "word": "divert",
+   "pos": "v.",
+   "pos_key": "v.",
+   "defn_en": "to cause something to change course or turn from one direction to another",
+   "defn_zh": "轉移；使分道；繞道",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Engineers designed artificial channels to ______ excess floodwater away from residential neighborhoods during severe storms.",
+     "zh": "工程師設計了人工渠道，以在嚴重暴雨期間將多餘的洪水「轉移（使分道）」遠離居民區。"
+    }
+   ]
+  },
+  {
+   "word": "collide",
+   "pos": "v.",
+   "pos_key": "v.",
+   "defn_en": "to hit with force when moving; to crash into",
+   "defn_zh": "碰撞；相撞",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "In high-energy particle physics experiments, subatomic beams ______ at high speeds inside the detector chamber to smash atomic structures.",
+     "zh": "在高能粒子物理實驗中，亞原子束在探測室內部高速「碰撞」，以擊碎原子結構。"
+    }
+   ]
+  },
+  {
+   "word": "manipulate",
+   "pos": "v.",
+   "pos_key": "v.",
+   "defn_en": "to handle or control skilfully; to alter or influence",
+   "defn_zh": "操控；處理；篡改",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Early video artists demonstrated how electronic television signals could be creatively ______d to express abstract artistic perspectives.",
+     "zh": "早期的錄像藝術家展示了如何創造性地「操控（處理）」電子電視訊號，以表達抽象的藝術視角。"
+    }
+   ]
+  },
+  {
+   "word": "fictionalize",
+   "pos": "v.",
+   "pos_key": "v.",
+   "defn_en": "to make into a fiction; to give a fictional version of real events",
+   "defn_zh": "將...改編成小說；虛構化",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The author decided to ______ the historic political struggle of her family members into a compelling multi-generational novel.",
+     "zh": "作者決定將她家族成員歷史性政治鬥爭的故事「改編成小說（虛構化）」，寫成一部扣人心弦的跨世代小說。"
+    }
+   ]
+  },
+  {
+   "word": "dictator",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "a ruler with total power over a country, typically one who has obtained control by force",
+   "defn_zh": "獨裁者",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Dominican American literature frequently explores the traumatic social and psychological impacts of living under the oppressive regime of a brutal ______ .",
+     "zh": "多明尼加裔美國文學經常探討生活在殘暴「獨裁者」高壓政權下的創傷性社會和心理影響。"
+    }
+   ]
+  },
+  {
+   "word": "representation",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "the action of speaking or acting on behalf of someone; depiction",
+   "defn_zh": "描繪；表現；代表",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Literary scholars analyzed the nuanced ______ of historical political turmoil in twentieth-century Latin American fiction.",
+     "zh": "文學學者分析了二十世紀拉丁美洲小說中對歷史政治動盪的微妙「描繪（表現）」。"
+    }
+   ]
+  },
+  {
+   "word": "forge",
+   "pos": "v.",
+   "pos_key": "v.",
+   "defn_en": "to create, shape, or produce through effort and skill",
+   "defn_zh": "打造；鍛造；締造",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Nobel prize-winning chemists managed to reprogram bacterial genetic mechanisms, successfully ______ing a powerful new gene-editing tool.",
+     "zh": "獲得諾貝爾獎的化學家成功重構了細菌基因機制，成功「打造（締造）」出一款強大的新型基因編輯工具。"
+    }
+   ]
+  },
+  {
+   "word": "cleave",
+   "pos": "v.",
+   "pos_key": "v.",
+   "defn_en": "to split or sever something, especially along a natural line",
+   "defn_zh": "劈開；分裂；切割",
+   "root_note": "Forms: cleave, cleft/clove, cleft/cloven/cleaved",
+   "sentences": [
+    {
+     "en": "Biologists discovered specialized bacterial enzymes capable of precisely ______ing specific DNA sequences during gene modification.",
+     "zh": "生物學家發現了能夠在基因改造過程中精準「切割（劈開）」特定 DNA 序列的特化細菌酶。"
+    }
+   ]
+  },
+  {
+   "word": "bioswale",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "a vegetated channel designed to concentrate and convey stormwater runoff",
+   "defn_zh": "生態滯留槽（綠化雨水溝）",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Urban engineers installed a network of street-side ______s planted with native vegetation to absorb urban stormwater runoff naturally.",
+     "zh": "城市工程師安裝了種植有本土植物的街道「生態滯留槽（綠化雨水溝）」網絡，以自然吸收城市雨水徑流。"
+    }
+   ]
+  },
+  {
+   "word": "stormwater",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "abundant water that falls of rain or snowmelt",
+   "defn_zh": "暴雨水；雨水徑流",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Heavy downpours can overwhelm traditional municipal sewer infrastructure if untreated ______ is allowed to rush directly into city streets.",
+     "zh": "如果允許未經處理的「暴雨水」直接沖入城市街道，傾盆大雨可能會使傳統的市政下水道基礎設施癱瘓。"
+    }
+   ]
+  },
+  {
+   "word": "concession",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "a thing that is granted, especially in response to demands",
+   "defn_zh": "讓步；承認",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Establishing exact geographical border coordinates required diplomatic ______s from both neighboring state governments.",
+     "zh": "確定精確的地理邊界坐標需要鄰近兩國政府作出外交上的「讓步（承認）」。"
+    }
+   ]
+  },
+  {
+   "word": "divisive",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "causing disagreement or hostility between people",
+   "defn_zh": "引起分歧的；挑撥離間的",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The proposed taxation reform proved to be a highly ______ issue that split the parliamentary committee into opposing camps.",
+     "zh": "擬議的稅制改革被證明是一個極具「引起分歧的」議題，將議會委員會分化為對立的陣營。"
+    }
+   ]
+  },
+  {
+   "word": "foodways",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "the cultural, social, and economic practices relating to food",
+   "defn_zh": "飲食文化與習俗",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Historians study how nineteenth-century international grain transportation networks reconfigured traditional North American regional ______ into a global system.",
+     "zh": "歷史學家研究十九世紀國際糧食運輸網絡如何將傳統的北美區域「飲食文化與習俗」重塑為一個全球體系。"
+    }
+   ]
+  },
+  {
+   "word": "reconfigure",
+   "pos": "v.",
+   "pos_key": "v.",
+   "defn_en": "to rearrange or alter the structure or configuration of something",
+   "defn_zh": "重構；重新配置",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The rapid expansion of global shipping logistics helped to ______ regional trade markets into an integrated international supply chain.",
+     "zh": "全球航運物流的快速擴張，有助於「重構（重新配置）」區域貿易市場為一個整合的國際供應鏈。"
+    }
+   ]
+  },
+  {
+   "word": "code",
+   "pos": "n. / v.",
+   "pos_key": "n.",
+   "defn_en": "a system of words, letters, figures, or symbols used for secrecy",
+   "defn_zh": "密碼；代碼；編碼",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "During World War II, Native American soldiers utilized their unwritten tribal languages to transmit unbreakable military ______ messages across radio channels.",
+     "zh": "二戰期間，美洲原住民士兵利用他們未形成文字的部落語言，在無線電頻道上傳送不可破解的軍事「密碼」訊息。"
+    }
+   ]
+  },
+  {
+   "word": "transmit",
+   "pos": "v.",
+   "pos_key": "v.",
+   "defn_en": "to pass on, send, or convey from one place or person to another",
+   "defn_zh": "傳送；傳播；發射",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Advanced communications satellites are designed to ______ high-definition video signals seamlessly across continents in real time.",
+     "zh": "先進的通訊衛星旨在實時流暢地跨越大洲「傳送（發射）」高畫質視訊訊號。"
+    }
+   ]
+  },
+  {
+   "word": "conjecture",
+   "pos": "n. / v.",
+   "pos_key": "n.",
+   "defn_en": "an opinion or conclusion formed on the basis of incomplete information",
+   "defn_zh": "推測；猜測",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Without empirical evidence to verify the claim, the astronomer's proposal remained mere ______ rather than established fact.",
+     "zh": "在沒有經驗證據驗證該主張的情況下，天文學家的提議依然只是「推測（猜測）」而非既定事實。"
+    }
+   ]
+  },
+  {
+   "word": "marginalia",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "notes written in the margin of a book or document",
+   "defn_zh": "頁邊註釋；邊註",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Literary scholars value historical ______ left by famous authors in old library volumes as window into their reading habits.",
+     "zh": "文學學者珍視著名作者在舊圖書館書籍中留下的歷史「頁邊註釋」，將其視為窺見其閱讀習慣的窗口。"
+    }
+   ]
+  },
+  {
+   "word": "invertebrate",
+   "pos": "n. / adj.",
+   "pos_key": "n.",
+   "defn_en": "an animal lacking a backbone",
+   "defn_zh": "無脊椎動物",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Marine biologists documented how Japanese macaques adapt during winter by hunting small ______s along un-frozen coastal streams.",
+     "zh": "海洋生物學家記錄了日本獼猴在冬季如何透過在未凍結的沿海溪流中獵捕小型「無脊椎動物」來進行適應。"
+    }
+   ]
+  },
+  {
+   "word": "portraiture",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "the art or practice of creating portraits",
+   "defn_zh": "肖像畫製作；肖像寫真",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The photographer combined microscopic cellular imagery with adult portraits to create an innovative form of micro ______ .",
+     "zh": "攝影師將顯微細胞圖像與成年人肖像結合，創造出一種創新的微觀「肖像寫真（肖像畫）」。"
+    }
+   ]
+  },
+  {
+   "word": "prevalence",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "the fact or state of being common or widespread",
+   "defn_zh": "流行；普遍；盛行",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The greater ______ of accessory spleens among deep-diving whales suggests that the organ plays a functional role in diving.",
+     "zh": "副脾在深潛鯨魚中更高的「普遍性（盛行率）」，表明該器官在潛水中發揮著功能性作用。"
+    },
+    {
+     "en": "The increasing ______ of remote digital learning platforms has transformed traditional higher education model globally.",
+     "zh": "遠程數位學習平台的日益「普及（流行）」，從根本上改變了全球傳統的高等教育模式。"
+    }
+   ]
+  },
+  {
+   "word": "gargoyle",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "a carved human or animal figure projecting from the gutter of a building",
+   "defn_zh": "滴水嘴獸雕像",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The gothic cathedral was adorned with elaborate stone ______s designed to direct rainwater away from medieval stone walls.",
+     "zh": "哥德式大教堂裝飾著精美的石雕「滴水嘴獸雕像」，旨在將雨水引離中世紀的石牆。"
+    }
+   ]
+  },
+  {
+   "word": "microorganism",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "a microscopic organism, especially a bacterium, virus, or fungus",
+   "defn_zh": "微生物",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Astrobiologists study extremophile ______s thriving in toxic desert environments to understand how life might survive on Mars.",
+     "zh": "天體生物學家研究在有毒沙漠環境中繁衍的極限環境「微生物」，以了解生命如何在火星上生存。"
+    }
+   ]
+  },
+  {
+   "word": "extremophile",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "a microorganism that lives in conditions of extreme temperature, acidity, or pressure",
+   "defn_zh": "極限環境生物",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Deep-sea hydrothermal vents harbour specialized ______ bacteria capable of generating metabolic energy without sunlight.",
+     "zh": "深海熱泉孕育著特化的「極限環境生物（微生物）」，能夠在沒有陽光的情況下產生代謝能量。"
+    }
+   ]
+  },
+  {
+   "word": "canopy",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "the high, continuous layer of branches and leaves formed by trees in a forest",
+   "defn_zh": "樹冠（層）；蓬帳",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Ecologists installed automated cameras high in the rainforest ______ to monitor endangered primate species without disturbing them.",
+     "zh": "生態學家在雨林「樹冠層」高處安裝了自動攝影機，以在不打擾瀕危靈長類物種的情況下對其進行監測。"
+    }
+   ]
+  },
+  {
+   "word": "biodiversity",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "the variety of plant and animal life in the world or in a particular habitat",
+   "defn_zh": "生物多樣性",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Conservationists emphasize that preventing invasive species introduction is vital for preserving delicate island ______ .",
+     "zh": "環保人士強調，防止外來物種入侵對於保護脆弱的島嶼「生物多樣性」至關重要。"
+    }
+   ]
+  },
+  {
+   "word": "preservation",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "the action of preserving something in its original state",
+   "defn_zh": "保護；保存",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Chemical recycling technologies offer clean solutions for plastic ______ and re-use without losing material quality.",
+     "zh": "化學回收技術為塑膠的「保護（保存）」和再利用提供了清潔的解決方案，而不會降低材料品質。"
+    }
+   ]
+  },
+  {
+   "word": "subsidiary",
+   "pos": "adj. / n.",
+   "pos_key": "adj.",
+   "defn_en": "less important than but related or supplementary to something",
+   "defn_zh": "輔助的；次要的；附屬公司",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The multinational corporation established a regional ______ in Singapore to manage its growing Asian logistics operations.",
+     "zh": "這家跨國公司在新加坡成立了一家區域「附屬公司（子公司）」，以管理其增長中的亞洲物流業務。"
+    }
+   ]
+  },
+  {
+   "word": "consecutively",
+   "pos": "adv.",
+   "pos_key": "adv.",
+   "defn_en": "one after another without interruption; continuously",
+   "defn_zh": "連續地；接連地",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The young author published three best-selling historical novels ______ over three years, earning national acclaim.",
+     "zh": "這位年輕作者在三年內「連續地」出版了三本暢銷歷史小說，贏得了全國讚譽。"
+    }
+   ]
+  },
+  {
+   "word": "counteract",
+   "pos": "v.",
+   "pos_key": "v.",
+   "defn_en": "to act against something in order to reduce its force or neutralize it",
+   "defn_zh": "抵消；中和；對抗",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Proactive public policy measures can help to ______ negative economic impacts caused by sudden supply chain disruptions.",
+     "zh": "積極的公共政策措施有助於「抵消（中和）」由突發供應鏈中斷引起的負面經濟影響。"
+    }
+   ]
+  },
+  {
+   "word": "reverence",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "deep respect for someone or something",
+   "defn_zh": "虔敬；崇敬",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The poet expressed profound ______ for the majestic power and timeless enchantment of the ocean waves.",
+     "zh": "詩人對海浪雄偉的力量和永恆的魅力表達了深刻的「崇敬（虔敬）」。"
+    }
+   ]
+  },
+  {
+   "word": "sovereignty",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "supreme power or authority; national independence",
+   "defn_zh": "主權；統治權",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The international agreement respected the national ______ of participating nations while promoting collaborative environmental protection.",
+     "zh": "該國際協議在促進合作環境保護的同時，尊重了參與國的國家「主權」。"
+    }
+   ]
+  },
+  {
+   "word": "fluctuation",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "an irregular rising and falling in number or amount; variation",
+   "defn_zh": "波動；起伏",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Financial analysts monitor commodity price ______s carefully to predict seasonal trends in global trade markets.",
+     "zh": "財務分析師密切監控商品價格的「波動」，以預測全球貿易市場的季節性趨勢。"
+    }
+   ]
+  },
+  {
+   "word": "unprecedented",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "never done or known before",
+   "defn_zh": "前所未有的；無先例的",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The sudden surge in global renewable energy investments represented an ______ shift toward sustainable climate technology.",
+     "zh": "全球再生能源投資的突然激增，代表了一次「前所未有的」向永續氣候科技的轉變。"
+    }
+   ]
+  },
+  {
+   "word": "tamper",
+   "pos": "v.",
+   "pos_key": "v.",
+   "defn_en": "to interfere with something in order to cause damage or unauthorized alteration",
+   "defn_zh": "篡改；干預",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Cybersecurity experts developed encryption keys to ensure unauthorized personnel cannot ______ with voting records.",
+     "zh": "資安專家開發了加密金鑰，以確保未經授權的人員無法「篡改」投票記錄。"
+    }
+   ]
+  },
+  {
+   "word": "recede",
+   "pos": "v.",
+   "pos_key": "v.",
+   "defn_en": "to go or move back or further away from a previous position",
+   "defn_zh": "後退；減退；遠去",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "As floodwaters began to ______ from riverbanks, emergency relief teams delivered fresh water supplies to affected families.",
+     "zh": "隨著洪水開始從河岸「後退（減退）」，緊急救援隊向受影響的家庭運送了新鮮水供應。"
+    }
+   ]
+  },
+  {
+   "word": "rebound",
+   "pos": "v. / n.",
+   "pos_key": "v.",
+   "defn_en": "to bounce back after hitting something; to recover from setback",
+   "defn_zh": "彈回；反彈；復甦",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Economic analysts predicted that consumer spending would ______ rapidly once travel restrictions were fully lifted.",
+     "zh": "經濟分析師預測，一旦旅行限制完全解除，消費者支出將快速「反彈（復甦）」。"
+    }
+   ]
+  },
+  {
+   "word": "monumental",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "great in importance, extent, or size",
+   "defn_zh": "不朽的；巨大的；紀念碑式的",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Constructing the transatlantic fiber-optic network represented a ______ achievement in modern global telecommunications engineering.",
+     "zh": "建設跨大西洋光纖網絡，代表了現代全球電訊工程中一項「巨大的（不朽的）」成就。"
+    }
+   ]
+  },
+  {
+   "word": "imperceptible",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "so slight, gradual, or subtle as not to be perceived",
+   "defn_zh": "察覺不到的；極微小的",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The seismic tremor was so mild that it was almost ______ to residents living far from the earthquake epicenter.",
+     "zh": "地震震動非常輕微，遠離地震震央的居民幾乎「察覺不到」。"
+    }
+   ]
+  },
+  {
+   "word": "recalcitrance",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "stubborn resistance to authority or control",
+   "defn_zh": "頑抗；不服從",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The manager addressed the employee's chronic ______ by establishing clear accountability frameworks and performance benchmarks.",
+     "zh": "經理透過建立明確的問責框架和績效基準，解決了該員工長期「不服從（頑抗）」的問題。"
+    }
+   ]
+  },
+  {
+   "word": "subatomic",
+   "pos": "adj.",
+   "pos_key": "adj.",
+   "defn_en": "smaller than or occurring within an atom",
+   "defn_zh": "亞原子的",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "Physicists inside particle accelerators observe how ______ particles collide at near-light speeds to release quantum energy.",
+     "zh": "粒子加速器內部的物理學家觀察「亞原子的」粒子如何以接近光速碰撞以釋放量子能量。"
+    }
+   ]
+  },
+  {
+   "word": "resale",
+   "pos": "n.",
+   "pos_key": "n.",
+   "defn_en": "the sale of something previously bought",
+   "defn_zh": "轉售；二次銷售",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The global fashion ______ market generated billions in revenue as young consumers increasingly embraced sustainable secondhand clothing.",
+     "zh": "隨著年輕消費者越來越接受永續的二手服裝，全球時裝「轉售（二次銷售）」市場創造了數十億的收入。"
+    }
+   ]
+  },
+  {
+   "word": "unwinding",
+   "pos": "n. / adj.",
+   "pos_key": "n.",
+   "defn_en": "relaxing after exertion; unspooling",
+   "defn_zh": "放鬆；解開緊張",
+   "root_note": "",
+   "sentences": [
+    {
+     "en": "The ancient Mesopotamian stew recipe known as 'pashrūtum' was named after its calming effect, meaning ' ______ ' or relaxation.",
+     "zh": "被稱為 'pashrūtum' 的古代美索不達米亞燉菜食譜以其鎮靜效果命名，意為「放鬆（解開緊張）」。"
+    }
+   ]
+  }
+ ],
+ "family_options": {},
+ "fallback_options": {}
+}
