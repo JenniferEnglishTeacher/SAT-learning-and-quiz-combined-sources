@@ -117,7 +117,3 @@ body.list-mode .page-shell { max-width: 1480px; }
   .reference-card.ref-row { grid-template-columns: 2rem minmax(0, 1fr); gap: .8rem; padding: 1rem; }
   .ref-meaning, .ref-sentences { grid-column: 2 / -1; border-left: 0; padding-left: 0; border-top: 1px solid #ece6dc; padding-top: .7rem; }
 }
-
-/* Practice-test vocabulary: list only (no Part 1 / Part 2) */
-.list-only .batch-mode-nav { display: none; }
-.list-only #list-section .step-number { display: none; }
