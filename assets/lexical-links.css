@@ -104,3 +104,32 @@
 .definition-option.wrong .definition-option-action {
   background: rgba(255, 255, 255, .65);
 }
+
+/* SAT synonym / antonym card links */
+.relation-row.sat-rel { gap: .3rem .4rem; margin: .15rem 0 .4rem; }
+.relation-row.sat-rel strong { color: #153a4a; margin-right: .1rem; }
+.sat-rel-link {
+  display: inline-flex;
+  align-items: baseline;
+  gap: .3rem;
+  padding: .1rem .5rem .12rem;
+  border: 1px solid #b9d3dc;
+  border-radius: 999px;
+  background: #eef6f9;
+  color: #0f4c63;
+  font-weight: 700;
+  font-size: .86rem;
+  text-decoration: none;
+  line-height: 1.5;
+}
+.sat-rel-link small { color: #5d7580; font-weight: 500; font-size: .72rem; }
+.sat-rel-link:hover, .sat-rel-link:focus { background: #153a4a; border-color: #153a4a; color: #fff; }
+.sat-rel-link:hover small, .sat-rel-link:focus small { color: #cfe3ea; }
+.sat-rel-link.same-unit { border-style: dashed; }
+.relation-row.sat-rel + .relation-row.sat-rel strong { color: #8a3b2d; }
+.relation-row.sat-rel + .relation-row.sat-rel .sat-rel-link { background: #fbeeea; border-color: #e3c0b7; color: #8a3b2d; }
+.relation-row.sat-rel + .relation-row.sat-rel .sat-rel-link:hover { background: #8a3b2d; border-color: #8a3b2d; color: #fff; }
+.sat-group-row { margin: 0 0 .4rem; }
+.sat-group-link { font-size: .8rem; font-weight: 700; color: #4b5e2a; text-decoration: none; border-bottom: 1px dotted #4b5e2a; }
+.sat-group-link:hover { color: #2e3d15; border-bottom-style: solid; }
+.reference-card.jump-target { outline: 3px solid #e0a433; outline-offset: 3px; background: #fffaf0; transition: background 1.5s ease; }

@@ -2,6 +2,7 @@ const params = new URLSearchParams(location.search);
 const batchId = params.get('batch');
 const requestedMode = params.get('mode');
 let mode = ['learn', 'quiz', 'list'].includes(requestedMode) ? requestedMode : 'learn';
+if (params.get('word')) mode = 'list';
 const grid = document.querySelector('#learn-grid');
 const referenceGrid = document.querySelector('#reference-grid');
 const fill = document.querySelector('#progress-fill');
@@ -173,6 +174,37 @@ function wordRelations(word, posKey, definition, curatedSynonyms = [], curatedAn
   return relationCache.get(key);
 }
 
+/* SAT synonym / antonym links (words that have their own card on this site) */
+let satRelationsPromise = null;
+let satGroupsPromise = null;
+function satRelations() {
+  if (!satRelationsPromise) {
+    satRelationsPromise = fetch(`data/relations/${encodeURIComponent(batch.id)}.json`).then(r => r.ok ? r.json() : {}).catch(() => ({}));
+  }
+  return satRelationsPromise;
+}
+function satGroups() {
+  if (!satGroupsPromise) satGroupsPromise = fetch('data/synonym-groups.json').then(r => r.ok ? r.json() : []).catch(() => []);
+  return satGroupsPromise;
+}
+const wordSlug = word => String(word).toLocaleLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
+function cardLink(item) {
+  const same = item.b === batch.id;
+  const href = `batch.html?batch=${encodeURIComponent(item.b)}&mode=list&word=${encodeURIComponent(item.w)}`;
+  return `<a class="sat-rel-link${same ? ' same-unit' : ''}" href="${href}" ${say(item.w)} title="${esc(item.zh)} · open the ${esc(item.w)} card${same ? '' : ' (another unit)'}">${esc(item.w)}<small>${esc(item.zh)}</small></a>`;
+}
+function satRelationRows(rel, groups) {
+  if (!rel) return '';
+  const rows = [];
+  if (rel.syn?.length) rows.push(`<p class="relation-row sat-rel"><strong>SAT 同義字 Synonyms:</strong> ${rel.syn.map(cardLink).join('')}</p>`);
+  if (rel.ant?.length) rows.push(`<p class="relation-row sat-rel"><strong>SAT 反義字 Antonyms:</strong> ${rel.ant.map(cardLink).join('')}</p>`);
+  (rel.groups || []).forEach(id => {
+    const g = groups.find(item => item.id === id);
+    if (g) rows.push(`<p class="relation-row sat-group-row"><a class="sat-group-link" href="synonym-groups.html#${encodeURIComponent(g.id)}">📚 同義字組 ${esc(g.theme)} · ${esc(g.themeZh)} (${g.words.length} words)</a></p>`);
+  });
+  return rows.join('');
+}
+
 function relationRow(label, words) {
   return `<p class="relation-row"><strong>${label}:</strong> ${words.map(item => dictionaryLink(item, item, true)).join(', ')}</p>`;
 }
@@ -181,12 +213,23 @@ async function loadWordRelations(word, posKey, definition, container, curatedSyn
   if (!container || container.dataset.loaded === 'true') return;
   container.dataset.loaded = 'true';
   try {
-    const relations = await wordRelations(word, posKey, definition, curatedSynonyms, curatedAntonyms);
-    if (!relations.available) throw new Error('No relation service');
-    const sections = [];
-    sections.push(relations.synonyms.length ? relationRow('Synonyms', relations.synonyms) : '<p class="relation-row"><strong>Synonyms:</strong> No synonym listed.</p>');
-    if (relations.antonyms.length) sections.push(relationRow('Antonyms', relations.antonyms));
-    container.innerHTML = sections.join('');
+    const [satAll, groups] = await Promise.all([satRelations(), satGroups()]);
+    const satRows = satRelationRows(satAll[word], groups);
+    if (satRows) container.innerHTML = satRows + '<p class="relation-status">Loading dictionary synonyms…</p>';
+    let dictRows = '';
+    try {
+      const relations = await wordRelations(word, posKey, definition, curatedSynonyms, curatedAntonyms);
+      if (!relations.available) throw new Error('No relation service');
+      const satWords = new Set([...(satAll[word]?.syn || []), ...(satAll[word]?.ant || [])].map(item => item.w.toLocaleLowerCase()));
+      const syn = relations.synonyms.filter(item => !satWords.has(item.toLocaleLowerCase()));
+      const ant = relations.antonyms.filter(item => !satWords.has(item.toLocaleLowerCase()));
+      if (syn.length) dictRows += relationRow(satRows ? 'Dictionary synonyms' : 'Synonyms', syn);
+      else if (!satRows) dictRows += '<p class="relation-row"><strong>Synonyms:</strong> No synonym listed.</p>';
+      if (ant.length) dictRows += relationRow(satRows ? 'Dictionary antonyms' : 'Antonyms', ant);
+    } catch {
+      if (!satRows) dictRows = '<p class="relation-status">Synonyms are temporarily unavailable. You can still click definition words to use Cambridge Dictionary.</p>';
+    }
+    container.innerHTML = satRows + dictRows;
   } catch {
     container.innerHTML = '<p class="relation-status">Synonyms are temporarily unavailable. You can still click definition words to use Cambridge Dictionary.</p>';
   }
@@ -527,6 +570,8 @@ function renderReference() {
     }
     const card = document.createElement('article');
     card.className = 'reference-card ref-row';
+    card.dataset.word = word.word.toLocaleLowerCase();
+    card.id = `word-${wordSlug(word.word)}`;
     card.innerHTML = `<div class="ref-num">${index + 1}</div><div class="ref-word">${wordTitle(word)}<p class="ref-zh">${esc(word.defn_zh)}</p><p class="ref-root"><strong>Clue:</strong> ${esc(word.root_note || 'Use the word in context.')}</p></div><div class="ref-meaning"><p class="ref-def"><span class="linked-definition">${linkedDefinition(word.defn_en)}</span></p><div class="word-relations reference-relations" data-word-relations><p class="relation-status">Loading synonyms and antonyms…</p></div></div><div class="reference-sentences ref-sentences">${word.sentences.map(sentence => { const text = full(sentence.en, word.word); return `<div class="reference-sentence"><div>${speaker(text, 'Listen to example sentence')}<span ${say(text)}>${highlighted(text, word.word)}</span></div><p>${esc(sentence.zh)}</p></div>`; }).join('')}</div>`;
     rows.append(card);
     observeReferenceRelations(card.querySelector('[data-word-relations]'), word);
@@ -534,11 +579,27 @@ function renderReference() {
   rows.append(quizCallout());
   referenceGrid.append(nav, rows);
   rendered.list = true;
+  jumpToWord();
   requestAnimationFrame(() => {
     const list = nav.querySelector('.unit-nav-list');
     const active = nav.querySelector('.unit-nav-item.active');
     if (list && active) list.scrollTop = active.offsetTop - list.offsetTop - list.clientHeight / 2 + active.clientHeight / 2;
   });
+}
+
+function jumpToWord() {
+  const target = params.get('word');
+  if (!target) return;
+  const card = [...referenceGrid.querySelectorAll('.reference-card')].find(item => item.dataset.word === target.toLocaleLowerCase());
+  if (!card) return;
+  const relations = card.querySelector('[data-word-relations]');
+  if (relations) {
+    const w = batch.words.find(item => item.word.toLocaleLowerCase() === target.toLocaleLowerCase());
+    if (w) loadWordRelations(w.word, w.pos_key, w.defn_en, relations, w.synonyms, w.antonyms);
+  }
+  card.classList.add('jump-target');
+  setTimeout(() => card.scrollIntoView({ behavior: 'smooth', block: 'center' }), 60);
+  setTimeout(() => card.classList.remove('jump-target'), 6000);
 }
 
 /* ---------------- Quiz ---------------- */
