@@ -6,13 +6,12 @@ REPO = sys.argv[1]
 aux = json.load(open('/home/claude/work/rel_aux.json'))
 raw = json.load(open('/home/claude/work/rel_raw.json'))
 corpus, syn_scores, moby = aux['corpus'], aux['syn_scores'], aux['moby']
-hot_src = open('/home/claude/barron-s-1100-words-webpage-new/hot-dashboard-data.js').read()
-hot = json.loads(hot_src[hot_src.index('['):hot_src.rindex(']') + 1])
+hot = json.load(open(os.path.join(os.path.dirname(os.path.abspath(__file__)), 'hot-original-lessons.json')))  # the 35 original Hot Words lessons (frozen)
 
 def ok(w): return w in corpus
 
 # ---- HOT lessons as groups. Opposite pairs give antonym links. ----
-HOT_OPP = {1: 2, 3: 15, 4: 28, 5: 7, 6: 7, 8: 9, 11: 5, 12: 19, 13: 16, 14: 16, 15: 17, 20: 9, 22: 14, 23: 24, 25: 18}
+HOT_OPP = {1: 2, 3: 15, 4: 28, 5: 7, 6: 7, 8: 9, 12: 19, 13: 16, 14: 16, 15: 17}
 # lessons that are not real synonym sets: do not expand, no antonyms
 HOT_MISC = {21, 24, 26, 29, 30, 31, 32, 33, 34, 35}
 
@@ -96,6 +95,9 @@ for key, theme, zh, words, opp in NEW:
     if opp:
         g['opp'].append(opp if opp.startswith('hot-') else f'sat-{opp}')
     groups.append(g); gid[g['id']] = g
+EXTRA_OPP = [('hot-20', 'sat-rare'), ('hot-22', 'sat-lazy2'), ('hot-11', 'sat-kind'), ('hot-25', 'sat-hide-show')]
+for a, b in EXTRA_OPP:
+    if a in gid and b in gid and b not in gid[a]['opp']: gid[a]['opp'].append(b)
 for g in groups:
     for o in list(g['opp']):
         if o in gid and g['id'] not in gid[o]['opp']:
@@ -148,7 +150,7 @@ def affinity(c, seeds):
             sc += 2; hits += 1
     return sc, hits
 
-sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+sys.path.insert(0, '/home/claude/work')
 from curated_adds import ADD
 for g in groups:
     g['members'] = list(g['seeds'])
