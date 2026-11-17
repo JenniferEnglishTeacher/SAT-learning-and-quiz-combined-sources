@@ -200,7 +200,7 @@ function satRelationRows(rel, groups) {
   if (rel.ant?.length) rows.push(`<p class="relation-row sat-rel"><strong>SAT 反義字 Antonyms:</strong> ${rel.ant.map(cardLink).join('')}</p>`);
   (rel.groups || []).forEach(id => {
     const g = groups.find(item => item.id === id);
-    if (g) rows.push(`<p class="relation-row sat-group-row"><a class="sat-group-link" href="synonym-groups.html#${encodeURIComponent(g.id)}">📚 同義字組 ${esc(g.theme)} · ${esc(g.themeZh)} (${g.words.length} words)</a></p>`);
+    if (g) rows.push(`<p class="relation-row sat-group-row"><a class="sat-group-link" href="https://jenniferenglishteacher.github.io/Barron-s-1100-words-webpage-new/hot-unit${g.lesson}.html" target="_blank" rel="noopener">📚 Hot Words Lesson ${g.lesson} · ${esc(g.theme)} ${esc(g.themeZh)} (${g.words.length} words, flashcards ↗)</a></p>`);
   });
   return rows.join('');
 }
