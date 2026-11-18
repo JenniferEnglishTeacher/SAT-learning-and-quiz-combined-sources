@@ -5,3 +5,8 @@
 3. Edit `curated_adds.py` (hand-picked words per group; only corpus words are kept) and the `NEW` list in `build_groups.py` (new themes + antonym pairs; `HOT_OPP` pairs Hot Words lessons).
 4. `python3 build_groups.py <repo>` → `data/synonym-groups.json`, `data/relations/<batch>.json`.
 Per-word lists = own group members → opposite group members → algorithmic fill (score ≥ 6.5).
+
+## Quiz-page word links (`assets/sat-word-links.js` + `data/word-index.json`)
+word-index.json = every corpus word → [batch index, 中文, POS, headword], minus words shorter than 4 letters and minus
+very common words (wordfreq zipf ≥ 4.3) that are NOT in Barron's/Hot/VA/Must-Know. Regenerate with the snippet in the
+2026-11-18 session notes (pip install wordfreq; reads the Barron's repo *-words.js indices).
