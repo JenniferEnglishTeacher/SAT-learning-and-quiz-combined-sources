@@ -1,7 +1,11 @@
 /* Practice-test vocabulary list: hover/click to hear, ★ to save for review, toggles for Chinese / definition / hidden word. */
 const params = new URLSearchParams(location.search);
-const testNumber = Math.max(1, parseInt(params.get('test') || '1', 10) || 1);
-const batchId = `sat-test-${String(testNumber).padStart(2, '0')}`;
+const EXTRA_TESTS = { princeton: 'Princeton Mock Test', cram: 'Cram School Mock Test' }; // non-numbered mock tests
+const testParam = String(params.get('test') || '1').toLowerCase();
+const extraTest = Object.prototype.hasOwnProperty.call(EXTRA_TESTS, testParam) ? testParam : null;
+const testNumber = extraTest ? 0 : Math.max(1, parseInt(testParam, 10) || 1);
+const batchId = extraTest ? `sat-test-${extraTest}` : `sat-test-${String(testNumber).padStart(2, '0')}`;
+const testLabel = extraTest ? EXTRA_TESTS[extraTest] : `Practice Test ${testNumber}`;
 const REVIEW_KEY = 'satVocabReviewWords'; // shared with batch.html so one review list covers everything
 const list = document.querySelector('#tv-list');
 
@@ -177,7 +181,8 @@ function renderTestNav(index) {
     const id = `sat-test-${String(n).padStart(2, '0')}`;
     const ok = available.has(id);
     return `<a href="test-vocab.html?test=${n}" class="${n === testNumber ? 'active' : ''}${ok ? '' : ' pending'}" ${ok ? '' : 'aria-disabled="true" title="Coming soon"'}>Test ${n}</a>`;
-  }).join('');
+  }).join('') + Object.entries(EXTRA_TESTS).filter(([key]) => available.has(`sat-test-${key}`))
+    .map(([key, label]) => `<a href="test-vocab.html?test=${key}" class="${key === extraTest ? 'active' : ''}">${label}</a>`).join('');
 }
 
 function buildBar() {
@@ -225,8 +230,8 @@ Promise.all([
   fetch('data/mocktest-index.json').then(response => response.ok ? response.json() : { batches: [] }).catch(() => ({ batches: [] }))
 ]).then(([data, index]) => {
   batch = data;
-  document.title = `Practice Test ${testNumber} Vocabulary · SAT Vocabulary Studio`;
-  document.querySelector('#tv-title').textContent = `Practice Test ${testNumber} · Vocabulary`;
+  document.title = `${testLabel} Vocabulary · SAT Vocabulary Studio`;
+  document.querySelector('#tv-title').textContent = `${testLabel} · Vocabulary`;
   document.querySelector('#tv-subtitle').textContent = `${batch.subtitle} · ${batch.words.length} words`;
   document.querySelector('#tv-counter').textContent = `${batch.words.length} words`;
   renderTestNav(index);
